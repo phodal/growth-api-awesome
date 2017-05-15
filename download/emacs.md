@@ -1,1 +1,816 @@
-404: Not Found
+* Awesome Emacs
+[[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
+
+A community driven list of useful Emacs packages, libraries and others.
+
+Most of the following packages are available in [[https://github.com/milkypostman/melpa][MELPA]]. We recommend installing packages via it.
+
+#+BEGIN_QUOTE
+*Table of Contents*
+- [[#awesome-emacs][Awesome Emacs]]
+  - [[#interface-enhancement][Interface Enhancement]]
+  - [[#file-manager][File Manager]]
+  - [[#navigation][Navigation]]
+  - [[#visual][Visual]]
+  - [[#editing][Editing]]
+    - [[#kill-ring][Kill-ring]]
+  - [[#project-management][Project management]]
+  - [[#programming][Programming]]
+    - [[#completion][Completion]]
+    - [[#document][Document]]
+    - [[#code-folding][Code Folding]]
+    - [[#error-checking][Error Checking]]
+    - [[#jump-to-definition][Jump to Definition]]
+  - [[#programming-language][Programming Language]]
+    - [[#cc][C/C++]]
+    - [[#python][Python]]
+    - [[#ruby][Ruby]]
+    - [[#lisp-family][Lisp Family]]
+      - [[#common-lisp][Common Lisp]]
+      - [[#scheme][Scheme]]
+      - [[#clojure][Clojure]]
+      - [[#emacs-lisp][Emacs Lisp]]
+    - [[#web-development][Web Development]]
+      - [[#javascript][JavaScript]]
+        - [[#coffeescript][CoffeeScript]]
+        - [[#typescript][TypeScript]]
+        - [[#purescript][PureScript]]
+      - [[#php][PHP]]
+    - [[#java][Java]]
+    - [[#go][Go]]
+    - [[#c][C#]]
+    - [[#rust][Rust]]
+    - [[#erlang][Erlang]]
+    - [[#elixir][Elixir]]
+    - [[#haskell][Haskell]]
+    - [[#swift][Swift]]
+    - [[#scala][Scala]]
+    - [[#lua][Lua]]
+    - [[#sml][SML]]
+    - [[#groovy][Groovy]]
+    - [[#ocaml][OCaml]]
+    - [[#nim][Nim]]
+    - [[#d][D]]
+    - [[#elm][Elm]]
+    - [[#stan][Stan]]
+    - [[#mips-assembly][MIPS Assembly]]
+    - [[#riscv-assembly][RISCV Assembly]]
+  - [[#keys-cheat-sheet][Keys Cheat Sheet]]
+  - [[#note][Note]]
+    - [[#org-mode][Org-mode]]
+  - [[#version-control][Version control]]
+  - [[#integration][Integration]]
+    - [[#console][Console]]
+    - [[#operating-system][Operating System]]
+    - [[#search][Search]]
+      - [[#ack][Ack]]
+      - [[#ag][Ag]]
+      - [[#pt][Pt]]
+      - [[#sift][Sift]]
+      - [[#ripgrep][Ripgrep]]
+    - [[#pastebin][Pastebin]]
+    - [[#google][Google]]
+    - [[#blog-system][Blog System]]
+  - [[#markdown][Markdown]]
+  - [[#latex][LaTeX]]
+  - [[#pdf][PDF]]
+  - [[#internet][Internet]]
+    - [[#browser][Browser]]
+    - [[#mail][Mail]]
+    - [[#irc][IRC]]
+    - [[#chat][Chat]]
+    - [[#social-network][Social Network]]
+    - [[#web-feed][Web Feed]]
+  - [[#devops][DevOps]]
+  - [[#package-management][Package Management]]
+    - [[#package-manager][Package Manager]]
+    - [[#package-configuration][Package Configuration]]
+    - [[#package-updates][Package Updates]]
+  - [[#library][Library]]
+  - [[#appearance][Appearance]]
+  - [[#theme][Theme]]
+  - [[#multimedia][Multimedia]]
+  - [[#fun][Fun]]
+  - [[#starter-kit][Starter Kit]]
+  - [[#noteworthy-configurations][Noteworthy Configurations]]
+  - [[#tutorials][Tutorials]]
+  - [[#links-and-resources][Links and resources]]
+- [[#contributing][Contributing]]
+  - [[#the-order-of-items][The Order of Items]]
+  - [[#emacs-built-in-packages][Emacs Built-In Packages]]
+  - [[#generate-table-of-contents][Generate "Table of Contents"]]
+- [[#other-awesome-lists][Other Awesome Lists]]
+- [[#license][License]]
+#+END_QUOTE
+
+** Interface Enhancement
+
+   - [[http://www.emacswiki.org/emacs/InteractivelyDoThings][IDO]] - =[built-in]= Interactively do things with buffers and files.
+     - [[https://github.com/DarwinAwardWinner/ido-ubiquitous][ido-ubiquitous]] - Enhance the built-in ido for completion all over Emacs.
+     - [[https://github.com/creichert/ido-vertical-mode.el][ido-vertical-mode]] - Make ido display vertically.
+   - [[https://github.com/emacs-helm/helm][Helm]] - (Formerly 'Anything') A powerful completion and selection narrowing framework. ( External Guides [[http://tuhdo.github.io/helm-intro.html][1]] )
+   - [[https://github.com/abo-abo/swiper][Ivy]] - flexible, simple tools for minibuffer completion in Emacs.
+     - Ivy, a generic completion mechanism for Emacs.
+     - Counsel, a collection of Ivy-enhanced versions of common Emacs commands.
+     - Swiper, an Ivy-enhanced alternative to isearch.
+   - [[http://www.emacswiki.org/emacs/Icicles][Icicles]] - An Emacs library that enhances minibuffer completion.
+   - [[https://github.com/nonsequitur/smex/][smex]] - A smart M-x enhancement for Emacs.
+   - [[https://github.com/dholm/tabbar.git][tabbar]] - Display a tab bar in the header line.
+   - [[http://www.emacswiki.org/emacs/WinnerMode][winner]] - =[built-in]= "Undo"(and "redo") changes in the window configuration with the key commands.
+   - [[https://github.com/emacs-evil/evil][Evil]] - An *e* xtensible *vi* *l* ayer: manipulate Emacs with Vi key binding.
+   - [[https://github.com/abo-abo/hydra][Hydra]] - Make bindings that stick around.
+   - [[https://github.com/zk-phi/sublimity][sublimity]] - smooth-scrolling, minimap inspired by the sublime editor.
+   - [[https://github.com/knu/elscreen][ElScreen]] - Utility for multiple screens.
+   - [[https://github.com/chrisdone/god-mode][god-mode]] - Global minor mode for entering Emacs commands without modifier keys.
+   - [[https://github.com/ergoemacs/ergoemacs-mode][ergoemacs-mode]] - Global minor mode to use both common interface keys and ergonomic keys for emacs.
+   - [[https://github.com/pashinin/workgroups2][workgroups2]] - Session manager, saves all your opened buffers, their location and sizes on disk to restore later
+   - [[https://github.com/mrkkrp/modalka][modalka]] - Introduce native modal editing of your own design
+   - [[https://github.com/mrkkrp/ace-popup-menu][ace-popup-menu]] - Replace GUI popup menu with something more efficient
+   - [[https://github.com/ReanGD/emacs-multi-compile][multi-compile]] - Multi target interface to compile
+   - [[https://github.com/rakanalh/emacs-dashboard][Dashboard]] - A startup dashboard which provides certain information about your recent Emacs activities
+
+** File Manager
+
+   - [[http://www.emacswiki.org/emacs/DiredMode][Dired]] - =[built-in]= *Dir* ectory *Ed* itor. A customizable great file manager.
+     - [[http://www.emacswiki.org/emacs/DiredPlus][Dired+]] - Functional & interface extensions for Dired.
+     - [[https://github.com/Fuco1/dired-hacks][dired-hacks]] - Collection of useful dired additions.
+     - [[https://github.com/syohex/emacs-dired-k][dired-k]] - Highlight dired buffer by file size, modified time, git status.
+   - [[https://github.com/jaypei/emacs-neotree][NeoTree]] - A emacs tree plugin like NERD tree for Vim.
+   - [[http://www.emacswiki.org/emacs/SrSpeedbar][Sr Speedbar]] - Same frame speedbar.
+     - [[https://github.com/anshulverma/projectile-speedbar][projectile-speedbar]] - Speedbar and Projectile integration
+   - [[https://github.com/m2ym/direx-el][Direx]] - directory tree explorer
+   - [[https://github.com/fourier/ztree][ztree]] - Directory tree comparison mode
+   - [[https://github.com/ralesi/ranger.el][Ranger]] - [[http://ranger.nongnu.org/][ranger]] like file manager based on dired.
+   - [[https://github.com/escherdragon/sunrise-commander][Sunrise Commander]] - Twin-pane file manager for Emacs based on Dired and inspired by Midnight Commander.
+
+** Navigation
+
+   - [[http://www.emacswiki.org/emacs/WindMove][windmove]] - =[built-in]= Tired with =C-x o=? Now you can use =shift+arrows= to jump between windows.
+   - [[https://github.com/winterTTr/ace-jump-mode][Ace jump]] - A quick cursor jump mode.
+   - [[https://github.com/abo-abo/avy][Avy]] - Jump to visible text using a char-based decision tree.
+   - [[https://github.com/camdez/goto-last-change.el][goto-last-change]] - Move point through buffer-undo-list positions.
+   - [[https://github.com/ShingoFukuyama/helm-swoop][Helm-swoop]] - Efficiently jump between matched string/lines.
+   - [[https://github.com/syohex/emacs-anzu][anzu]] - displays current match and total matches.
+   - [[http://www.emacswiki.org/emacs/ImenuMode][imenu]] - =[built-in]= Menus for accessing locations in documents.
+   - [[https://github.com/vspinu/imenu-anywhere][imenu-anywhere]] - IDO/Helm imenu tag selection across all buffers with the same mode.
+   - [[https://www.emacswiki.org/emacs/MiniMap][Minimap]] - A SublimeText-style minimap sidebar.
+   - [[https://github.com/dimitri/switch-window][switch-window]] - A visual replacement for =C-x o=.
+   - [[https://github.com/abo-abo/ace-window][ace-window]] - A visual replacement for =C-x o= using [[https://github.com/winterTTr/ace-jump-mode][Ace jump]].
+   - [[https://github.com/abo-abo/ace-link][ace-link]] - Follow links in =org-mode=, =help-mode=, and =Info-mode= using [[https://github.com/winterTTr/ace-jump-mode][Ace jump]].
+   - [[https://github.com/rolandwalker/back-button][back-button]] - Visual navigation through mark rings.
+   - [[https://github.com/joodland/bm][bm]] - Visual Bookmarks, provides an easy way to navigate in a buffer
+   - [[https://github.com/lukhas/buffer-move][buffer-move]] - Move or swap buffer to other window.
+   - [[https://github.com/aki2o/emacs-pophint][emacs-pophint]] - Provide navigation like the Vimperator/KeySnail Hint Mode of Firefox
+   - [[https://github.com/noctuid/vertigo.el][vertigo.el]] - Jump lines using the home row
+
+** Visual
+
+   # For contributor: Don't confuse this category with "Appearance"
+   # (basically useless except for good-looking) Packages in here is
+   # usable for editing.
+
+   - [[http://www.emacswiki.org/emacs/UndoTree][undo-tree]] - Visualize the whole undo history in buffer as a tree, and you can access anywhere in it.
+   - [[https://github.com/nschum/highlight-symbol.el][highlight-symbol]] - Auto/manually highlight the same symbols in code, navigate in them, or replace string.
+   - [[https://github.com/Fanael/rainbow-delimiters][rainbow-delimiters]] - Highlights parentheses, brackets, and braces according to their depth.
+   - [[https://julien.danjou.info/projects/emacs-packages][rainbow-mode]] - Display color on color-code string (hex/rgb) directly.
+   - [[https://github.com/benma/visual-regexp.el][visual-regexp]] - Replace via RegExp, with real-time visual feedback directly in the buffer.
+     - [[https://github.com/benma/visual-regexp-steroids.el/][visual-regexp-steroids]] - The same as visual-regexp, but use modern regular expressions instead of Emacs-style.
+   - [[http://www.emacswiki.org/emacs/WhiteSpace][whitespace]] - =[built-in]= Visualize blanks (tab/space/newline).
+   - [[https://github.com/coldnew/linum-relative][linum-relative]] - display relative line number in the left margin in emacs.
+   - [[http://emacsredux.com/blog/2014/08/25/a-peek-at-emacs-24-dot-4-prettify-symbols-mode/][prettify-symbol-mode]] - =[built-in]= displaying characters as fancy symbols (e.g. =lambda= -> =λ=)
+   - [[https://github.com/jorgenschaefer/typoel][typo.el]] - Emacs extension for typographical editing.
+   - [[https://github.com/fgeller/highlight-thing.el][highlight-thing]] - Light-weight minor mode to highlight thing under point using built-ins.
+   - [[https://github.com/larstvei/Focus][focus]] - Dim the font color of text in surrounding paragraphs.
+   - [[https://github.com/iqbalansari/emacs-emojify][emojify]] - Display emojis in Emacs.
+
+** Editing
+
+   - [[https://github.com/magnars/multiple-cursors.el][Multiple cursors]] - Mark, edit multiple lines at once.
+   - [[https://github.com/coldnew/pangu-spacing][pangu-spacing]] - Minor-mode to automatically add space between CJK and Latin characters.
+   - [[https://github.com/soutaro/hungry-delete.el][hungry-delete]] - Delete an entire block of whitespace at point.
+   - [[https://github.com/rejeep/drag-stuff.el][Drag Stuff]] - Drag Stuff is a minor mode for Emacs that makes it possible to drag stuff (words, region, lines) around in Emacs.
+   - [[https://github.com/magnars/expand-region.el][expand-region.el]] - Increase selected region by semantic units.
+   - [[https://github.com/magnars/multifiles.el][multifiles.el]] - View and edit parts of multiple files in one buffer.
+   - [[https://github.com/phillord/lentic][lentic]] -  Create views of the same content in two Emacs buffers.
+   - [[https://github.com/mrkkrp/fix-word][fix-word]] - Transform words in Emacs (upcase, downcase, capitalize)
+   - [[https://github.com/mrkkrp/zzz-to-char][zzz-to-char]] - Fancy replacement for `zap-to-char`
+   - [[https://github.com/joodland/bm][Visual Bookmarks]] - Visible bookmarks in buffer for GNU Emacs
+
+*** Kill-ring
+
+   - [[https://github.com/waymondo/popup-kill-ring][Popup-killring]] - Browse kill-ring with popup menu.
+   - [[https://github.com/browse-kill-ring/browse-kill-ring][Browse-kill-ring]] - Visually navigate kill-ring.
+   - [[https://github.com/leoliu/easy-kill][easy-kill]] - Kill & Mark Things Easily in Emacs
+   - [[https://github.com/bburns/clipmon][clipmon]] - Clipboard monitor for Emacs. Monitors clipboard and pastes contents on change.
+   - [[https://github.com/rolandwalker/simpleclip][simpleclip]] - Simplified access to the system clipboard.
+
+** Project management
+
+   - [[https://github.com/bbatsov/projectile][Projectile]] - Project Interaction Library for Emacs.
+   - [[https://github.com/rejeep/prodigy.el][Prodigy]] - Manage external services from within Emacs.
+   - [[https://github.com/grizzl/fiplr][Fiplr]] - An Emacs Fuzzy Find in Project Package.
+   - [[https://github.com/sabof/project-explorer][Project-Explorer]] - a tree project explorer (integrates with projectile)
+   - [[https://github.com/technomancy/find-file-in-project][Find-file-in-project]] - Quick access to project files in Emacs.
+
+** Programming
+
+   - [[http://cedet.sourceforge.net/][CEDET]] - =[built-in]= an advanced development environment in Emacs.
+   - [[http://www.xref.sk/xrefactory/emacs.html][Xrefactory]] - A refactoring browser for Emacs.
+   - [[https://github.com/capitaomorte/yasnippet][YASnippets]] - Template system.
+     - [[https://github.com/abo-abo/auto-yasnippet][auto-yasnippet]] - Advanced copy-paste using Yasnippet.
+   - [[https://github.com/abo-abo/tiny][tiny]] - Templates based on linear range transformations.
+   - [[https://github.com/redguardtoo/evil-nerd-commenter][evil-nerd-commenter]] - Comment/uncomment lines efficiently. Like Nerd Commenter in Vim.  This program can be used independently without evil-mode.
+   - [[https://github.com/purcell/mmm-mode][mmm-mode]] - allows Multiple Major Modes to coexist in one buffer. (ex: Embedded CSS & JS in HTML file)
+   - [[https://github.com/Fuco1/smartparens][SmartParens]] - Deals with parens pairs and tries to be smart about it.
+   - [[https://github.com/Malabarba/aggressive-indent-mode][Aggressive-indent]] - Keeps your code always indented automatically.
+   - [[https://github.com/zk-phi/indent-guide][indent-guide]] - Show vertical lines to guide indentation
+   - [[http://doxymacs.sourceforge.net/][Doxymacs]] - Doxymacs is Doxygen + {X}Emacs.
+   - [[https://github.com/purcell/whitespace-cleanup-mode][whitespace-cleanup-mode]] - Intelligently call whitespace-cleanup on save.
+   - [[https://github.com/realgud][realgud]] - A modular front-end for interacting with external debuggers.
+   - [[https://github.com/leoliu/ggtags][ggtags]] - Emacs frontend to GNU Global source code tagging system.
+
+*** Completion
+
+    - [[https://github.com/auto-complete/auto-complete][Auto-Complete]] - An intelligent auto-completion extension with great interface.
+    - [[https://company-mode.github.io/][Company]] - A text completion framework.
+      - [[https://github.com/expez/company-quickhelp][company-quickhelp]] - Documentation popups for company.
+    - [[https://github.com/lewang/flx][flx]] - Fuzzy matching for Emacs like Sublime Text.
+    - [[http://www.emacswiki.org/emacs/AbbrevMode][abbrev]] - =[built-in]= Abbreviation expander
+    - [[https://github.com/abingham/emacs-ycmd][emacs-ycmd]] Emacs client for YCM
+
+*** Document
+
+   - [[https://github.com/areina/helm-dash][Helm-dash]] - Browse [[https://kapeli.com/dash][Dash]] docsets via Helm interface.
+   - [[https://www.emacswiki.org/emacs/ElDoc][eldoc]] - =[built-in]= shows function arguments / variable doc in minibuffer when coding.
+
+*** Code Folding
+
+    - [[https://github.com/mrkkrp/vimish-fold][vimish-fold]] - Vim-like text folding
+    - [[http://www.emacswiki.org/emacs/HideShow][hideshow]] - =[built-in]= Folding regions by balanced-expression code.
+      - [[http://www.emacswiki.org/emacs/download/hideshowvis.el][hideshowvis]] - Based on =hideshow=, just display its nodes on fringe.
+    - [[https://github.com/gregsexton/origami.el][Origami.el]] - Feature rich text folding minor mode
+
+*** Error Checking
+
+    - [[http://www.emacswiki.org/emacs/FlyMake][FlyMake]] - =[built-in]= on-the-fly syntax checks on files using external tools.
+    - [[https://github.com/flycheck/flycheck][Flycheck]] - Modern on-the-fly syntax checking meant to be a replacement to =FlyMake=
+
+*** Jump to Definition
+    - [[http://www.gnu.org/software/global/][GNU Global]] - advanced source code tagging system with jump to definition functionality
+    - [[https://github.com/jacktasia/dumb-jump][Dumb Jump]] - easy jump to definition package for multiple languages using =ag= or =grep=
+
+** Programming Language
+
+*** C/C++
+
+    - [[http://cc-mode.sourceforge.net/][CC Mode]] - =[built-in]= An Emacs and XEmacs mode for editing C and other languages with similar syntax.
+    - [[https://github.com/Andersbakken/rtags][rtags]] - A C/C++ client/server indexer with for integration with emacs based on clang.
+    - [[https://github.com/Sarcasm/irony-mode][irony-mode]] - A C/C++ minor mode for Emacs powered by libclang.
+    - [[https://github.com/Lindydancer/cmake-font-lock][cmake-font-lock]] - Enhanced font-lock rules for CMake.
+    - [[https://github.com/abo-abo/function-args][function-args]] - visual CEDET enhancements for C++.
+    - [[https://www.gnu.org/software/emacs/manual/html_node/ebrowse/index.html][Ebrowse]] - =[built-in]= A C++ class browser.
+
+*** Python
+
+    - [[https://github.com/tkf/emacs-jedi][Jedi]] - A Python auto-completion package.
+    - [[https://github.com/jorgenschaefer/elpy][Elpy]] - An Emacs Python development environment.
+    - [[https://github.com/proofit404/anaconda-mode][anaconda-mode]] - Code navigation, documentation lookup and completion for Python.
+    - [[https://github.com/porterjamesj/virtualenvwrapper.el][virtualenvwrapper.el]] - Manage virtualenv from inside Emacs.
+
+*** Ruby
+
+    - [[https://github.com/senny/rvm.el][rvm]]  Ruby versions manager within Emacs.
+    - [[https://github.com/tobiassvn/bundler.el][bundler]] Interact with gem Bundler from Emacs.
+    - [[https://github.com/nonsequitur/inf-ruby][inf-ruby]] REPL buffer connected to a Ruby subprocess.
+    - [[https://github.com/zenspider/enhanced-ruby-mode][enhanced-ruby-mode]] Enhanced Ruby Mode replaces the emacs ruby mode that
+      comes with ruby. It uses the Ripper class found in ruby 1.9.2 (and later)
+      to parse and indent the source code.
+    - [[http://www.emacswiki.org/emacs/yari.el][yari]] Yet Another RI interface for Emacs.
+    - [[https://github.com/dgutov/robe][robe]] Code navigation, documentation lookup and completion for Ruby.
+    - [[https://github.com/bbatsov/rubocop][rubocop]] A Ruby static code analyzer, based on the community Ruby style guide.
+    - [[https://github.com/ainame/motion-mode][motion-mode]]  A package to provide emacs' major mode for RubyMotion enviroment.
+    - [[https://github.com/pezra/rspec-mode][rspec-mode]] An RSpec minor mode for Emacs.
+    - [[https://github.com/michaelklishin/cucumber.el][feature-mode]] Emacs mode for editing Cucumber plain text stories.
+    - [[https://github.com/eschulte/rinari][rinari]] - Rinari Is Not A Rails IDE (it is an Emacs minor mode for Rails).
+
+*** Lisp Family
+
+    - [[http://www.emacswiki.org/emacs/ParEdit][Paredit]] - Minor mode for editing parentheses. Strict parenthesis auto-pairing and easy depth adjustment. Compatible with Lisp/Scheme/Clojure.
+    - [[https://github.com/abo-abo/lispy][lispy]] - Minor mode for editing parenthesis, evaluating and refactoring LISP code with extremely short key bindings. Compatible with Lisp/Scheme/Clojure.
+    - [[https://github.com/DogLooksGood/parinfer-mode][Parinfer]] - [[https://shaunlebron.github.io/parinfer/][Parinfer]] for Emacs, simpler Lisp editing.
+
+**** Common Lisp
+
+     - [[https://common-lisp.net/project/slime/][SLIME]] - A fully-functional IDE for Common Lisp development, with debugger, REPL.
+       - [[https://github.com/capitaomorte/sly][SLY]] - A fork of SLIME.
+     - [[https://github.com/mrkkrp/common-lisp-snippets][common-lisp-snippets]] - Yasnippets for Common Lisp
+
+**** Scheme
+
+     - [[http://www.neilvandyke.org/quack/][Quack]] - Enhanced Emacs Support for Editing and Running Scheme Code.
+     - [[http://www.nongnu.org/geiser/][Geiser]] - Intergrated development with Guile and Racket.
+     - [[https://github.com/greghendershott/racket-mode][racket-mode]] - major modes for Racket: Edit and REPL.
+
+**** Clojure
+
+     - [[https://github.com/clojure-emacs/clojure-mode][Clojure mode]] - A major mode for clojure.
+     - [[https://github.com/clojure-emacs/cider][Cider]] - Clojure IDE and REPL.
+     - [[https://github.com/mpenet/clojure-snippets][Clojure snippets]] - Clojure snippets with yasnippet.
+     - [[https://github.com/clojure-emacs/clj-refactor.el][clj-refactor.el]] - A collection of Clojure refactoring functions for Emacs.
+
+**** Emacs Lisp
+
+     - [[https://www.emacswiki.org/emacs/InferiorEmacsLispMode][ielm]] - =[built-in]= A simple Emacs Lisp REPL.
+     - [[https://github.com/Silex/elmacro][elmacro]] - Display keyboard macros or latest interactive commands as Emacs Lisp.
+
+*** Web Development
+
+    - [[http://web-mode.org/][web-mode]] - major mode for editing various html templates (PHP, JSP, ASP, ERB...etc).
+    - [[https://github.com/smihica/emmet-mode][emmet]] - [[http://emmet.io/][Emmet]] support for Emacs.
+    - [[https://github.com/yasuyk/web-beautify][web-beautify]] - Format HTML, CSS and JavaScript/JSON by js-beautify.
+    - [[https://github.com/skeeto/skewer-mode][skewer-mode]] - live interact with JavaScript, CSS, and HTML in a web-browser.
+    - [[https://github.com/skeeto/impatient-mode][impatient-mode]] - See your changes in the browser as you type.
+    - [[https://github.com/pashky/restclient.el][restclient.el]] - HTTP REST client tool for emacs
+    - [[https://github.com/nicferrier/elnode][elnode]] - An evented IO webserver in Emacs Lisp.
+
+**** JavaScript
+
+     - [[https://github.com/mooz/js2-mode/][js2-mode]] - Improved JavaScript editing mode.
+     - [[http://js-comint-el.sourceforge.net/][js-comint.el]] - Run an inferior javascript REPL process in Emacs.
+     - [[http://ternjs.net/doc/manual.html#emacs][tern]] - Emacs flavor of the popular JavaScript analysis engine.
+     - [[https://github.com/joshwnj/json-mode][json-mode]] - Major mode for editing JSON files.
+     - [[https://github.com/NicolasPetton/indium][indium]] - A JavaScript development environment for Emacs.
+     - [[https://github.com/magnars/js2-refactor.el][js2-refactor]] - A JavaScript refactoring library for emacs.
+
+***** CoffeeScript
+
+      - [[https://github.com/defunkt/coffee-mode][coffee-mode]] - An Emacs major mode for CoffeeScript and IcedCoffeeScript.
+
+***** TypeScript
+
+      - [[https://github.com/ananthakumaran/tide][Tide]] - TypeScript Interactive Development Environment for Emacs.
+
+***** PureScript
+      - [[https://github.com/dysinger/purescript-mode][purescript-mode]] - An Emacs major mode for PureScript.
+      - [[https://github.com/ardumont/emacs-psci][emacs-psci]] - An Emacs major mode for psci.
+
+**** PHP
+
+     - [[https://github.com/ejmr/php-mode][php-mode]] - Major mode for PHP programming.
+     - [[https://github.com/nlamirault/phpunit.el][phpunit.el]] - Launch PHP unit tests using phpunit
+
+*** Java
+
+    - [[https://github.com/emacs-eclim/emacs-eclim][emacs-eclim]] - An Eclipse plugin which exposes Eclipse features through a server interface.
+    - [[https://github.com/m0smith/malabar-mode][malabar-mode]] - A better Java mode for Emacs.
+    - [[https://github.com/jdee-emacs/jdee][JDEE]] - The JDEE is an add-on software package that turns Emacs into a comprehensive system for creating, editing, debugging, and documenting Java applications.
+    - [[https://github.com/mopemope/meghanada-emacs][meghanada-emacs]] - A Better Java Development Environment for Emacs.
+
+*** Go
+
+    - [[https://github.com/dominikh/go-mode.el][Gomode]] - Go mode rewrite for Emacs. Provides Go toolchain integration
+    - [[https://github.com/dougm/goflymake][Goflymake]] - Go syntax checker. Wrapper around Emacs flymake for Go
+    - [[https://github.com/nsf/gocode][Gocode]] - An autocompletion daemon for the Go programming language
+    - [[https://github.com/dominikh/go-errcheck.el][Goerrcheck]] - go-errcheck provides an easy way to invoke errcheck from within Emacs.
+    - [[https://github.com/grafov/go-playground][Go-playground]] - Local playground for Go code snippets.
+    - [[https://github.com/manute/gorepl-mode][GoRepl]] - A minor emacs mode for Go REPL.
+    - [[https://github.com/nlamirault/gotest.el][gotest.el]] - Launch GO unit tests
+
+*** C#
+
+    - [[https://github.com/josteink/csharp-mode][csharp-mode]] - Major mode for C#.
+    - [[https://github.com/OmniSharp/omnisharp-emacs][omnisharp-emacs]] - IDE-like features for editing C# code.
+
+*** Rust
+
+    - [[https://github.com/rust-lang/rust-mode][rust-mode]] - An Emacs major mode for editing Rust code.
+    - [[https://github.com/flycheck/flycheck-rust][flycheck-rust]] - Better Rust/Cargo support for Flycheck.
+    - [[https://github.com/racer-rust/emacs-racer][emacs-racer]] - Racer support for Emacs
+    - [[https://github.com/kwrooijen/cargo.el][cargo.el]] - Cargo support for Emacs
+
+*** Erlang
+
+    - [[http://www.erlang.org/doc/apps/tools/erlang_mode_chapter.html][erlang]] - The official Erlang mode for Emacs.
+    - [[https://github.com/massemanet/distel][distel]] - Distel is a library for Emacs<->Erlang communication, plus a suite of tools built on top of it, such as a debugger front-end.
+    - [[https://github.com/tjarvstrand/edts][EDTS]] - EDTS is meant to be a able to replace Distel but only provides part of the most commonly used of Distel's features.
+    - [[https://github.com/RefactoringTools/Wrangler][Wrangler]] - Wrangler is a mode that supports interactive refactoring of Erlang programs
+
+*** Elixir
+
+    - [[https://github.com/elixir-lang/emacs-elixir][elixir-mode]] - Emacs major mode for Elixir
+    - [[https://github.com/tonini/alchemist.el][alchemist]] - Elixir Tooling Integration Into Emacs
+
+*** Haskell
+
+    - [[https://github.com/haskell/haskell-mode][haskell-mode]] - Major mode for Haskell.
+    - [[https://github.com/chrisdone/structured-haskell-mode][structured-haskell-mode]] - Minor mode for structured editing of Haskell.
+    - [[https://github.com/alanz/HaRe][HaRe]] - Haskell refactoring tool with emacs integration.
+    - [[http://www.mew.org/~kazu/proj/ghc-mod/en/][ghc-mod]] - Backend to provide e.g. type information with an emacs frontend.
+    - [[https://github.com/commercialhaskell/intero][intero]] - Complete interactive development program for Haskell.
+
+#+BEGIN_QUOTE
+External Guides:
+- [[https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md][Using Emacs for Haskell development]]
+#+END_QUOTE
+
+*** Swift
+
+    - [[https://github.com/chrisbarrett/swift-mode][swift-mode]] - Emacs support for Apple's Swift programming language
+    - [[https://github.com/nathankot/company-sourcekit][company-sourcekit]] - Completion for Swift projects via SourceKit with the help of SourceKitten
+
+*** Scala
+
+    - [[http://ensime.github.io//editors/emacs/scala-mode/][scala-mode]] - The definitive scala-mode for emacs
+    - [[http://ensime.github.io/][Ensime]] - ENhanced Scala Interaction Mode for Emacs
+    - [[https://github.com/hvesalai/sbt-mode][sbt-mode]] - An emacs mode for interacting with scala sbt and projects
+
+*** Lua
+
+    - [[https://github.com/immerrr/lua-mode/][lua-mode]] - A major mode for editing Lua sources in Emacs.
+
+*** SML
+
+    - [[http://www.iro.umontreal.ca/~monnier/elisp/][SML mode]] - a major Emacs mode for editing Standard ML source code.
+
+*** Groovy
+
+    - [[https://github.com/Groovy-Emacs-Modes/groovy-emacs-modes][groovy-emacs-modes]] - A collection of modes for use with Groovy-related technology -- Groovy, Grails, etc.
+    - [[https://github.com/lifeisfoo/emacs-grails][grails.el]] - A minor mode for Grails projects.
+
+*** OCaml
+
+    - [[https://github.com/ocaml/tuareg][tuareg]] - a Caml mode for Emacs.
+    - [[https://www.typerex.org/][TypeRex]] - a set of tools for developing in OCaml.
+    - [[https://github.com/ocaml/merlin][Merlin]] - an assistant for editing OCaml code.
+
+*** Nim
+
+    - [[https://github.com/nim-lang/nim-mode][nim-mode]] - An Emacs major mode for editing Nim code.
+
+*** D
+
+    - [[https://github.com/Emacs-D-Mode-Maintainers/Emacs-D-Mode][Emacs-D-Mode]] - An Emacs major mode for editing D code.
+
+*** Elm
+
+    - [[https://github.com/jcollard/elm-mode][elm-mode]] - An Emacs major mode for editing Elm code.
+
+*** Stan
+
+    - [[https://github.com/stan-dev/stan-mode][stan-mode]] - An Emacs major mode for editing Stan code.
+    
+*** MIPS Assembly
+
+    - [[https://github.com/hlissner/emacs-mips-mode][mips-mode]] - An emacs major mode for editing MIPS assembly
+
+*** RISCV Assembly
+
+    - [[https://github.com/AdamNiederer/riscv-mode][riscv-mode]] - An emacs major mode for editing RISCV assembly
+
+** Keys Cheat Sheet
+
+  - [[https://github.com/mickeynp/discover.el][discover.el]] - Discover more of emacs with well-categorized context menus.
+  - [[https://github.com/steckerhalter/discover-my-major][discover-my-major]] - Discover key bindings and their meaning for the current Emacs major mode
+  - [[https://github.com/kai2nenobu/guide-key][guide-key]] - Displays the available key bindings automatically and dynamically.
+  - [[https://github.com/aki2o/guide-key-tip][guide-key-tip]] - Tooltip version of guide-key.
+  - [[https://github.com/justbur/emacs-which-key][which-key]] - Display available key bindings in popup. Rewrite of [[https://github.com/kbkbkbkb1/guide-key][guide-key]] with added features to improve display.
+  - [[https://github.com/darksmile/cheatsheet][cheatsheet]] - Create your own customized cheatsheet.
+  - [[https://github.com/emacs-helm/helm-descbinds][helm-descbinds]] - Helm interface for Emacs' =describe-bindings=
+
+** Note
+
+    - [[http://www.gnu.org/software/emacs-muse/][Emacs Muse]] - a publishing environment for Emacs.
+    - [[https://github.com/rnkn/fountain-mode/][Fountain Mode]] - a full-featured screenwriting environment for GNU Emacs using the Fountain markup format.
+    - [[https://github.com/tmalsburg/guess-language.el][guess-language]] - Robust automatic language detection (e.g. Arabic, Czech, Danish, etc).
+
+*** Org-mode
+
+    - [[http://orgmode.org/][Org]] - =[built-in]= Write notes, GTD, authoring, publish and wash dishes.
+      - [[https://github.com/kelvinh/org-page][org-page]] - A static site generator based on org-mode files.
+      - [[https://github.com/coldnew/org-ioslide][org-ioslide]] - Export Org document into Google I/O HTML5 slide.
+      - [[https://github.com/sabof/org-bullets][org-bullets]] - Shows org-mode bullets as pretty UTF-8 characters.
+      - [[https://github.com/org-trello/org-trello][org-trello]] - Minor mode to synchronize org-mode buffer and [[https://trello.com][trello]] board.
+      - [[https://github.com/alphapapa/org-protocol-capture-html][org-protocol-capture-html]] - Capture HTML from the browser selection into Emacs as org-mode content.
+
+** Version control
+
+   - [[https://magit.vc/][Magit]] - Interacting with git.
+     - [[https://github.com/vermiculus/magithub][magithub]] - Magit interfaces for GitHub.
+   - [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Version-Control.html][VC]] - =[built-in]= Emacs version control interface works with several different version control systems including Bazaar, CVS, Git, Mercurial, Monotone, RCS, SCCS/CSSC, and Subversion.
+   - [[https://github.com/dgtized/github-clone.el][github-clone.el]] - Fork and clone Github projects from Emacs.
+   - [[https://github.com/magit/git-modes][git-rebase-mode]] - Major mode for editing git rebase files.
+   - [[https://github.com/pidu/git-timemachine][git-timemachine]] - Step through historic versions of git controlled files.
+   - [[https://github.com/syohex/emacs-git-gutter][git-gutter]] - Indicator the modified lines via git diff.
+   - [[https://github.com/syohex/emacs-git-messenger][git-messenger]] - popup commit message at current line to know why this line was changed.
+   - [[https://github.com/rmuslimov/browse-at-remote][browse-at-remote]] - Open page at github/bitbucket from emacs buffers.
+   - [[https://github.com/sshaw/git-link][git-link]] - Get the GitHub/Bitbucket/GitLab etc... URL for a buffer location.
+   - [[https://github.com/ananthakumaran/monky][monky]] - An interactive interface for mercurial.
+   - [[https://bitbucket.org/agriggio/ahg/][aHg]] - An Emacs front-end for the Mercurial SCM.
+
+** Integration
+
+*** Console
+
+    - [[http://www.emacswiki.org/emacs/CategoryEshell][EShell]] - =[built-in]= A shell-like command interpreter implemented in Emacs Lisp.
+    - [[http://www.emacswiki.org/emacs/AnsiTerm][Term]] - =[built-in]= A terminal emulator in Emacs.
+    - [[https://github.com/purcell/exec-path-from-shell][exec-path-from-shell]] - Get environment variables such as $PATH from the shell for Mac user.
+    - [[https://github.com/hiddenlotus/eshell-prompt-extras][eshell-prompt-extras]] - Display extra information and color for your eshell prompt.
+    - [[http://www.emacswiki.org/emacs/download/multi-term.el][multi-term]] - Managing multiple terminal buffers in Emacs.
+    - [[https://github.com/kyagi/shell-pop-el][shell-pop]] - Quickly toggle a shell with one key action.
+    - [[https://github.com/peterwvj/eshell-up][eshell-up]] - Quickly navigate to a specific parent directory in eshell without having to repeatedly typing ~cd ..~
+
+*** Operating System
+
+    - [[https://github.com/zk-phi/symon/][Symon]] - tiny graphical system monitor.
+    - [[https://github.com/jabranham/system-packages][system-packages]] - Manage your installed packages with emacs.
+
+*** Search
+    - [[https://github.com/mhayashi1120/Emacs-wgrep][wgrep]] -  Writable grep/ack/ag/pt buffer and apply the changes to files.
+
+**** Ack
+
+    - [[http://nschum.de/src/emacs/full-ack/][full-ack]] - An Emacs front-end for ack.
+    - [[https://github.com/leoliu/ack-el][ack-el]] - Emacs Interface to Ack-like Tools.
+
+**** Ag
+
+     - [[https://github.com/Wilfred/ag.el][ag.el]] - An Emacs frontend to Ag ("the silver searcher" ack replacment)
+     - [[https://github.com/syohex/emacs-helm-ag][helm-ag]] - Ag with helm interface
+
+**** Pt
+
+     - [[https://github.com/bling/pt.el][pt.el]] - An emacs front-end for Pt, the [[https://github.com/monochromegane/the_platinum_searcher][Platinum Searcher]].
+
+**** Sift
+
+     - [[https://github.com/nlamirault/sift.el][sift.el]] - Front-end for [[https://github.com/svent/sift][sift]], a fast and powerful grep alternative
+
+**** Ripgrep
+
+     - [[https://github.com/nlamirault/ripgrep.el][ripgrep.el]] - Emacs front-end for [[https://github.com/BurntSushi/ripgrep][ripgrep]], a command line search tool.
+
+*** Pastebin
+
+    - [[https://github.com/defunkt/gist.el][gist.el]] - Paste Gist in Emacs.
+    - [[https://github.com/mhayashi1120/yagist.el][yagist.el]] - Yet another Gist integration.
+    - [[https://github.com/gregnewman/dpaste.el][dpaste.el]] - Emacs mode to post to dpaste.com.
+    - [[https://github.com/emacs-pe/jist.el][jist.el]] - Yet another gist client for Emacs.
+    - [[https://github.com/theanalyst/ix.el][ix.el]] - Paste to [[http://ix.io/][ix.io]] pastebin.
+    - [[https://github.com/etu/webpaste.el][webpaste.el]] - Paste to pastebin-like services.
+
+*** Google
+
+    - [[https://github.com/Malabarba/emacs-google-this][google-this]] - A set of functions and bindings to google under point.
+    - [[https://github.com/atykhonov/google-translate][google-translate]] - Interface to Google Translate.
+
+*** Blog System
+
+    - [[https://github.com/nibrahim/Hyde][Hyde]] - An Emacs mode to manage [[https://jekyllrb.com/][Jekyll]] blogs
+    - [[https://github.com/kuanyui/hexo.el][hexo.el]] - A frontend UI of [[https://hexo.io/][Hexo]] for Emacs
+    - [[https://github.com/CodeFalling/blog-admin][blog-admin]] - Write blog in emacs with hexo/org-page/nikola
+    - [[https://github.com/thiefuniverse/blog-minimal][blog-minimal]] - A simple static site generator based on org mode
+
+** Markdown
+
+   - [[http://jblevins.org/projects/markdown-mode/][Markdown-mode]] - markdown-mode is a major mode for editing Markdown-formatted text files in GNU Emacs.
+   - [[https://github.com/milkypostman/markdown-mode-plus][markdown-mode+]] - Additional functions for Emacs [markdown-mode].
+   - [[https://github.com/ardumont/markdown-toc][markdown-toc]] - Generate TOC for markdown files.
+   - [[https://github.com/nlamirault/emacs-markdownfmt][markdownfmt]] - Format markdown using [[https://github.com/shurcooL/markdownfmt][markdownfmt]]
+
+** LaTeX
+
+   - [[https://www.gnu.org/software/auctex/][AUCTeX]] - an extensible package for writing and formatting TeX files.
+   - [[http://www.emacswiki.org/emacs/LaTeXPreviewPane][latex-preview-pane]] is a minor mode for Emacs that enables you to preview your LaTeX files directly in Emacs.
+   - [[https://www.gnu.org/software/auctex/reftex.html][RefTeX]] - =[built-in]= Adds support for labels, references, citations, and index entries.
+
+** PDF
+   - [[https://github.com/politza/pdf-tools][PDF Tools]] - major mode for rendering PDF files, much better than DocView, and has much richer set of features
+
+** Internet
+
+*** Browser
+
+     - [[https://www.gnu.org/software/emacs/manual/html_mono/eww.html][EWW]] - =[built-in]= EWW, the Emacs Web Wowser, is a web browser for Emacs.
+     - [[https://www.emacswiki.org/emacs/WebKit][emacs-webkit]] - Emacs-webkit, a webkit browser inside Emacs
+
+*** Mail
+
+     - [[http://www.emacswiki.org/emacs/CategoryGnus][Gnus]] - =[built-in]= Reading e-mail and Usenet news.
+     - [[http://www.emacswiki.org/emacs/MessageMode][Messages]] - =[built-in]= Composing and sending e-mail inside Emacs.
+     - [[http://www.djcbsoftware.nl/code/mu/mu4e.html][mu4e]] - An e-mail client for Emacs
+     - [[https://notmuchmail.org/][notmuch]] - A mail indexer which can serve as a complete client with its emacs integration
+     - [[http://www.emacswiki.org/emacs/WanderLust][Wanderlust]] - A powerful email and Usenet client for Emacs (IMAP4rev1, NNTP, POP(POP3/APOP), MH/Maildir)
+     - [[http://www.mew.org/en/][mew]] - A very easy to use e-mail reader and client for Emacs.
+
+*** IRC
+
+    - [[http://www.emacswiki.org/emacs/ERC][ERC]] - =[built-in]= A powerful, modular, and extensible IRC client.
+    - [[http://www.nongnu.org/riece/index.html.en][Riece]] - An IRC client for Emacs.
+    - [[http://www.emacswiki.org/emacs/rcirc][Rcirc]] - =[built-in]= Next generation IRC client.
+    - [[https://github.com/jorgenschaefer/circe][Circe]] - A Client for IRC in Emacs.
+
+*** Chat
+
+    - [[https://github.com/the-kenny/weechat.el][Weechat.el]] - A Weechat-relay client for Emacs.
+    - [[https://github.com/yuya373/emacs-slack][slack]] - slack client for Emacs.
+
+*** Social Network
+
+    - [[http://twmode.sourceforge.net/][Twittering mode]] - Major mode for Twitter.
+    - [[https://github.com/vermiculus/sx.el/][SX]] - Stack Exchange for Emacs.
+    - [[https://github.com/austin-----/weibo.emacs][weibo.emacs]] - Sina weibo client in Emacs.
+
+*** Web Feed
+
+    - [[https://github.com/skeeto/elfeed][Elfeed]] - RSS/Atom Reader for Emacs.
+    - [[https://www.gnu.org/software/emacs/manual/html_node/newsticker/index.html][Newsticker]] - =[built-in]= RSS/Atom Reader for Emacs.
+
+** DevOps
+
+   - [[https://github.com/mpasternacki/chef-mode][chef-mode]] - Emacs mode to edit Chef repositories.
+   - [[https://github.com/k1LoW/emacs-ansible][emacs-ansible]] - Ansible minor mode.
+   - [[https://github.com/voxpupuli/puppet-mode][puppet-mode]] - Edit Puppet 3 manifests with GNU Emacs 24.
+   - [[https://github.com/emacsmirror/salt-mode][salt-mode]] - Edit Salt States with GNU Emacs 24.
+   - [[https://github.com/Silex/docker.el][docker]] - Emacs interface to Docker, manipulate docker images, containers & more from Emacs.
+
+** Package Management
+
+*** Package Manager
+
+    - [[http://www.emacswiki.org/emacs/ELPA][package.el]] - =[built-in]= Install and manage Emacs packages easily.
+      - [[https://github.com/Malabarba/paradox][paradox]] - Modernizing Emacs' Package Menu with package ratings, usage statistics, customizability & more.
+      - [[https://github.com/Silex/package-utils][package-utils]] - Interactive extensions for package.el.
+      - [[https://github.com/larstvei/Try][try]] - Try out Emacs packages.
+    - [[https://github.com/dimitri/el-get][el-get]] - apt-get style Emacs packages manager.
+    - [[https://github.com/cask/cask][cask]] - Manage dependencies for your local Emacs configuration and automate the package development cycle.
+      - [[https://github.com/rdallasgray/pallet][pallet]] - A package management tool for Emacs, built on Cask.
+    - [[https://github.com/quelpa/quelpa][quelpa]] - Build and install your Emacs Lisp packages on-the-fly directly from source.
+    - [[https://github.com/Homebrew/homebrew-emacs][homebrew-emacs]] - [[http://brew.sh][Homebrew]] tap for installing Emacs packages.
+    - [[https://github.com/emacscollective/borg][borg]] - Assimilate Emacs packages as Git submodules.
+
+*** Package Configuration
+
+    - [[https://github.com/jwiegley/use-package][use-package]] - A declaration macro to isolate package configuration in a way that is performance-oriented and tidy.
+      - [[https://github.com/edvorg/req-package][req-package]] - A use-package wrapper for package runtime dependencies management.
+    - [[https://github.com/jschaf/esup][ESUP]] - Emacs Start Up Profiler.  Benchmark Emacs Startup time without ever leaving your Emacs.
+    - [[https://github.com/technomancy/better-defaults][better-defaults]] - A small number of better defaults for Emacs.
+    - [[https://github.com/tarsius/no-littering][no-littering]] - Help keeping ~/.emacs.d clean.
+
+*** Package Updates
+
+    - [[https://github.com/rranelli/auto-package-update.el][auto-package-update.el]] - Automatically update Emacs packages.
+    - [[https://github.com/mola-T/SPU][SPU]] - Emacs Silent Package Upgrader.
+
+** Library
+
+   - [[https://github.com/magnars/dash.el][dash.el]] - A modern list library.
+   - [[https://elpa.gnu.org/packages/seq.html][seq.el]] - =[built-in]= Sequence manipulation functions.
+   - [[https://elpa.gnu.org/packages/cl-lib.html][cl-lib.el]] - =[built-in]= Common Lisp extensions for Emacs.
+   - [[https://github.com/magnars/s.el][s.el]] - String manipulation library.
+   - [[https://github.com/Wilfred/ht.el][ht.el]] - The missing hash table library for Emacs.
+   - [[https://github.com/rejeep/f.el][f.el]] - Modern API for working with files and directories in Emacs.
+   - [[https://github.com/jwiegley/emacs-async][emacs-async]] - Simple library for asynchronous processing in Emacs.
+   - [[https://github.com/grizzl/grizzl][Grizzl]] - A small utility library to be used in other Elisp code needing fuzzy search behaviour.
+   - [[https://github.com/ShingoFukuyama/ov.el][ov.el]] - Overlay library for Emacs Lisp.
+   - [[https://github.com/Malabarba/names][Names]] - A Namespace implementation for Emacs Lisp.
+   - [[https://github.com/kiwanami/emacs-deferred][emacs-deferred]] - Simple asynchronous functions for Emacs Lisp.
+   - [[https://www.gnu.org/software/emacs/manual/html_node/eieio/][EIEIO]] - =[built-in]= EIEIO (“Enhanced Implementation of Emacs Interpreted Objects”) provides an Object Oriented layer for Emacs Lisp.
+   - [[https://github.com/auto-complete/popup-el][popup.el]] - Visual Popup Interface Library for Emacs.
+   - [[https://github.com/jwiegley/alert][alert]] - A Growl-like alerts notifier for Emacs.
+   - [[https://github.com/sigma/gh.el][gh.el]] - GitHub API library for Emacs.
+   - [[https://github.com/tkf/emacs-request][request]] - A HTTP request library with multiple backends.
+   - [[https://github.com/ahyatt/emacs-websocket][websocket]] - A websocket implementation in elisp, for emacs.
+
+** Appearance
+
+   - [[https://github.com/milkypostman/powerline][powerline]] - Emacs version of the Vim powerline.
+   - [[https://github.com/raugturi/powerline-evil][powerline-evil]] - Utilities for better [[https://gitorious.org/evil/pages/Home][Evil]] support for Powerline.
+   - [[https://github.com/Malabarba/smart-mode-line][smart-mode-line]] - A sexy mode-line for Emacs.
+   - [[https://github.com/TheBB/spaceline][spaceline]] - Powerline theme from [[https://github.com/syl20bnr/spacemacs][Spacemacs]].
+   - [[https://github.com/dbordak/telephone-line][telephone-line]] - A new implementation of Powerline for Emacs.
+   - [[https://github.com/ryuslash/mode-icons][mode-icons]] - Show icons instead of mode names.
+
+** Theme
+
+   - [[https://github.com/bbatsov/zenburn-emacs][Zenburn]] - /(dark)/ Vim's "Zenburn theme" ported to Emacs.
+   - [[https://github.com/bbatsov/solarized-emacs][Solarized]] - /(light/dark)/ Solarized color theme.
+   - [[https://github.com/purcell/color-theme-sanityinc-tomorrow][Sanityinc-tomorrow]] - /(light/dark)/ An Emacs version of "Tomorrow-themes".
+   - [[https://github.com/oneKelvinSmith/monokai-emacs][Monokai]] - /(dark)/ A port of the popular TextMate theme Monokai
+   - [[https://github.com/n3mo/cyberpunk-theme.el][Cyberpunk-theme]] - /(dark)/ *[256color]* Mostly a direct port of the "Cyberpunk Overtone theme".
+   - [[https://github.com/jordonbiondo/ample-theme][Ample-theme]] - /(light/dark)/ *[256color]* A low-contrast theme for Emacs.
+   - [[https://github.com/kuanyui/moe-theme.el][Moe-theme]]- /(light/dark)/ *[256color]* A customizable colorful eye-candy theme. Moe, moe, kyun!
+   - [[https://github.com/fniessen/emacs-leuven-theme][Leuven-theme]] - =[built-in]= /(light)/ Awesome Emacs color theme for white backgrounds
+   - [[https://github.com/steckerhalter/grandshell-theme][Grandshell-theme]] - /(dark)/ *[256color]* Theme with intensive colors.
+
+   #+BEGIN_QUOTE
+   Above list is some of the most popular/installed themes. If still unsatisfied, you also can take a look of [[https://emacsthemes.com/][GNU Emacs Themes Gallery]] for screenshots of almost all available Emacs themes.
+   #+END_QUOTE
+
+** Multimedia
+
+   - [[https://www.emacswiki.org/emacs/Mpc][mpc]] - =[built-in]= An Emacs front end to the Music Player Daemon
+   - [[https://www.gnu.org/software/emms/][EMMS]] - The Emacs Multimedia System
+   - [[https://github.com/dbrock/bongo/][Bongo]] - A flexible and usable media player for GNU Emacs
+   - [[https://github.com/nlamirault/dionysos][Dionysos]] - A simple music player for Emacs
+
+** Fun
+
+   - [[https://github.com/TeMPOraL/nyan-mode][Nyan-mode]] - Let Nyan Cat show you your buffer position in mode line.
+   - [[http://www.emacswiki.org/emacs/ZoneMode][Zone Mode]] - =[built-in]= A buffer obfuscator, or a screensaver.
+   - [[http://www.cb1.com/~john/computing/emacs/lisp/games/index.html][swimmers.el]] - An emacs screensaver.
+   - [[https://bitbucket.org/zck/minesweeper.el][minesweeper.el]] - An implementation of minesweeper in emacs.
+   - [[https://bitbucket.org/zck/2048.el][2048-game.el]] - An implementation of 2048 in emacs.
+   - [[https://github.com/vibhavp/emacs-xkcd][emacs-xkcd]] -  Read xkcd from emacs.
+   - [[http://www.gnuvola.org/software/gnugo/][gnugo.el]] - The official Emacs Lisp interface to GNU Go.
+   - [[https://github.com/ch11ng/exwm][exwm]] - EXWM turns Emacs into a full-featured tiling X window manager.
+   - [[https://github.com/codingteam/pacmacs.el][Pacmacs]] - Pacman-like game for Emacs.
+   - [[https://github.com/hagleitn/speed-type][speed-type]] - Practice speed/touch typing in Emacs
+   - [[https://gitlab.com/iankelling/spray][spray]] - A speed reading mode for Emacs.
+   - [[https://github.com/kuanyui/fsc.el][fsc.el]] - Fuck the Speeching Censorship!
+   - [[https://github.com/bcbcarl/emacs-wttrin][wttrin]] - Emacs frontend for weather web service wttr.in.
+   - [[https://github.com/johanvts/emacs-fireplace][fireplace]] - A cozy fireplace for emacs.
+   - [[https://github.com/Fuco1/clippy.el][clippy]] - Show tooltip with function documentation at point.
+
+** Starter Kit
+
+   - [[https://github.com/bbatsov/prelude][Prelude]] - Prelude is an enhanced Emacs 24 distribution that should make your experience with Emacs both more pleasant and more powerful.
+   - [[https://github.com/overtone/emacs-live][Emacs-live]] - M-x start-hacking http://overtone.github.io/emacs-live/ .
+   - [[https://github.com/purcell/emacs.d][Purcell's .emacs.d]] - An Emacs configuration bundle with batteries included.
+   - [[https://github.com/eschulte/emacs24-starter-kit][Emacs24 Starter Kit]] - A cleaner version of the literate starter kit based on Emacs24 http://eschulte.github.io/emacs24-starter-kit/ .
+   - [[https://github.com/xiaohanyu/oh-my-emacs][Oh-My-Emacs]] - Provide an awesome, out-of-box, literate dotemacs for both newbies and nerds. http://xiaohanyu.github.io/oh-my-emacs .
+   - [[https://github.com/senny/cabbage][Cabbage]] - Get the maximum out of emacs http://senny.github.io/cabbage/ .
+   - [[https://github.com/syl20bnr/spacemacs][Spacemacs]] - A slick Evil focused starter kit: do not fear RSI anymore.
+   - [[https://github.com/rdallasgray/graphene][Graphene]] - A set of defaults for Emacs, for refugees from GUI text editors.
+   - [[https://github.com/bodil/ohai-emacs][Ohai Emacs]] - The finest hand crafted artisanal emacs.d for your editing pleasure.
+   - [[http://emacs-bootstrap.com/][Emacs-Bootstrap]] - Your on-the-fly Emacs development environment!
+
+** Noteworthy Configurations
+ 
+  - [[https://github.com/emacsmirror/emacswiki.org/blob/master/emacs-init.el][init.el]] - Drew Adams : Icicles, bookmark+ to name a few
+  - [[https://github.com/jwiegley/dot-emacs][dot-emacs]] - John Wiegley (@jwiegley): Lead maintainer of Emacs, use-package
+  - [[https://github.com/howardabrams/dot-files/blob/master/emacs.org][emacs.org]] - Howard Abrams (@howardabrams)
+  - [[https://github.com/magnars/.emacs.d][.emacs.d]] - Magnar Sveen (@magnars) : multiple-cursors, dash, expand-region
+  - [[https://github.com/sachac/.emacs.d/blob/gh-pages/Sacha.org][Sacha.org]] - Sacha Chua (@sachac)
+  - [[https://github.com/rejeep/emacs/][emacs]] - Johan Andersson (@rejeep)
+  - [[https://github.com/hlissner/.emacs.d][emacs.d]] - Henrik Lissner (@hlissner): Evil setup
+  - [[https://github.com/redguardtoo/emacs.d][emacs.d]] - Chen Bin (@redguardtoo)
+  - [[https://github.com/defunkt/emacs][emacs]] - Chris Wanstrath (@defunkt)
+  - [[https://github.com/lunaryorn/.emacs.d][.emacs.d]] - Sebastian Wiesner (@lunaryorn): Flycheck
+  - [[https://github.com/grettke/home][home]] - Grant Rhettke (@grettke)
+  - [[https://github.com/abo-abo/oremacs][oremacs]] - Oleh Krehel (@abo-abo) : Swiper, Ivy, Hydra, Avy
+  - [[https://github.com/kaushalmodi/.emacs.d][.emacs.d]] - Kaushal Modi (@kaushalmodi)
+  - [[https://github.com/ejmr/DotEmacs][DotEmacs]] - Eric James Michael Ritz (@ejmr)
+  - [[https://github.com/thierryvolpiatto/emacs-tv-config][emacs-tv-config]] - Thierry Volpiatto (@thierryvolpiatto) : Helm Maintainer
+  - [[https://github.com/jorgenschaefer/Config/blob/master/emacs.el][emacs.el]] - Jorgen Schäfer (@jorgenschaefer) : Elpy, Circe
+  - [[https://ogbe.net/emacsconfig.html][emacsconfig.html]] - Dennis Ogbe
+  - [[https://github.com/joedicastro/dotfiles/tree/master/emacs][emacs]] - Joe di Castro @joedicastro
+  - [[https://github.com/julienfantin/.emacs.d][emacs.d]] - Julien Fantin : use-package, good config organisation system
+
+** Tutorials
+
+   - [[https://www.gnu.org/software/emacs/tour/][A Guided Tour of Emacs]] - An official guided tour of Emacs
+   - [[https://github.com/pierre-lecocq/emacs4developers][Emacs for developers]] -  A document to help developers to use Emacs as a developer
+   - [[http://therandymon.com/woodnotes/emacs-for-writers/emacs-for-writers.html][Emacs for writers]] - The Woodnotes Guide to Emacs for Writers
+   - [[http://cestlaz.github.io/stories/emacs/][C'est la Z - Using Emacs Series]] - A series of beginner-friendly Emacs tutorials by Mike Zamansky (@zamansky)
+
+** Links and resources
+
+   - [[http://planet.emacsen.org/][Planet Emacsen]] - A community driven mashup of Emacs articles
+   - [[https://www.reddit.com/r/emacs][Emacs subreddit]] - The reddit Emacs channel
+   - [[http://oremacs.com/][(or emacs]] - An (ir)relevant blog about Emacs
+   - [[http://emacsredux.com/][Emacs Redux]] - Return to the Essence of Text Editing
+   - [[http://emacsrocks.com/][Emacs Rocks]] - Some episodes to prove that Emacs rocks
+   - [[https://www.masteringemacs.org/][Mastering Emacs]] - Mastering the world’s best text editor
+   - [[http://endlessparentheses.com/][Endless Parentheses]] - Concise ramblings on Emacs productivity
+   - [[http://whattheemacsd.com/][What the .emacs.d!?]] - Sharing Emacs snippets and pastes with others
+
+
+* Contributing
+
+*Your contributions are always welcome!* Please submit a pull request or create an issue to add a new package, library or software to the list.
+
+Before contributing, please read this tiny guideline:
+
+** The Order of Items
+
+*Please don't rearrange the package ordering without any reason!* The items should be sorted by its popularity ( /roughly, because it's impossible to have a precious standard./ e.g. _most of people would use it_; _recommended for every newbie_...), instead of your personal preference.
+
+For example, =Evil= is obviously not a package that every Emacser needs. So please don't move it onto the top of its category.
+
+In contrast, if you think a package is recommended for every Emacser (especially for a newbie), just place it at a higher place in the list.
+
+** Emacs Built-In Packages
+If a package is available in the latest version of Emacs, please remember to add a =[built-in]= tag in the front of the description.
+
+** Generate "Table of Contents"
+After editing and you are ready to commit & push to this list, you can use =/gen-toc.el= to update the table of contents with =M-x awesome-emacs-gen-toc= in the =README.org= buffer.
+
+* Other Awesome Lists
+
+A curated list of awesome lists can be found at [[https://awesome.re][awesome.re]].
+
+* License
+
+[[https://creativecommons.org/publicdomain/zero/1.0/][https://i.creativecommons.org/p/zero/1.0/88x31.png]]
+
+To the extent possible under law, [[https://github.com/emacs-tw][emacs.tw]] has waived all copyright and related or neighboring rights to this work.
