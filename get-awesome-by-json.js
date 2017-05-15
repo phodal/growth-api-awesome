@@ -11,24 +11,24 @@ _.each(AwesomeList, function (awesomeListByCategory) {
         var url = baseUrl + 'README.md';
         var path = 'download/' + awesome.slug + '.md';
 
-        request(url)
-            .on('error', function (err) {
-                // console.log(url, path);
-            })
-            .on('response', function (response) {
-                if(response.statusCode !== 200) {
-                    console.log(response.statusCode, path);
-                }
-                if(response.statusCode === 404){
-                    request(baseUrl + 'readme.md')
-                        .on('error', function (err) {
-                            console.log(err, path)
-                        })
-                        .pipe(fs.createWriteStream(path))
+        var response_stream = request(url);
 
+        response_stream.on('error', function (err) {
+            console.log(url, path);
+        });
 
-                }
-            })
-            .pipe(fs.createWriteStream(path))
+        response_stream.on('response', function (response) {
+            if (response.statusCode === 200) {
+                response_stream.pipe(fs.createWriteStream(path));
+            }
+
+            if (response.statusCode === 404) {
+                request(baseUrl + 'readme.md')
+                    .on('error', function (err) {
+                        console.log(err, path)
+                    })
+                    .pipe(fs.createWriteStream(path))
+            }
+        })
     });
 });
