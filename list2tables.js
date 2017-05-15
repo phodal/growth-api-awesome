@@ -21,7 +21,7 @@ function listToTable(list){
                 results.push({
                     title: title,
                     href: href,
-                    slug: slug(title),
+                    slug: 'awesome/' + slug(title),
                     github: href.substring('https://github.com/'.length),
                     type: 'github'
                 });
@@ -35,7 +35,7 @@ function listToTable(list){
 }
 
 function getData(string) {
-    var tokens = parser.parse(string)
+    var tokens = parser.parse(string);
     var results = [];
     var heading = '';
 
@@ -60,4 +60,4 @@ function getData(string) {
 }
 
 var result = getData(raw);
-fs.writeFileSync('awesome-list.json', JSON.stringify(result, null, 4));
+fs.writeFileSync('api/awesomes.json', JSON.stringify(result, null, 4));
