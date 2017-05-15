@@ -21,7 +21,7 @@ function listToTable(list){
                 results.push({
                     title: title,
                     href: href,
-                    slug: 'awesome/' + slug(title),
+                    slug: 'awesome/' + slug(title) + '.json',
                     github: href.substring('https://github.com/'.length),
                     type: 'github'
                 });
