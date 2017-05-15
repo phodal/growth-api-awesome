@@ -1,0 +1,2116 @@
+[
+    {
+        "heading": "Platforms",
+        "childrens": [
+            {
+                "title": "Node.js",
+                "href": "https://github.com/sindresorhus/awesome-nodejs",
+                "github": "sindresorhus/awesome-nodejs",
+                "type": "github"
+            },
+            {
+                "title": "Frontend Development",
+                "href": "https://github.com/dypsilon/frontend-dev-bookmarks",
+                "github": "dypsilon/frontend-dev-bookmarks",
+                "type": "github"
+            },
+            {
+                "title": "iOS",
+                "href": "https://github.com/vsouza/awesome-ios",
+                "github": "vsouza/awesome-ios",
+                "type": "github"
+            },
+            {
+                "title": "Android",
+                "href": "https://github.com/JStumpp/awesome-android",
+                "github": "JStumpp/awesome-android",
+                "type": "github"
+            },
+            {
+                "title": "IoT & Hybrid Apps",
+                "href": "https://github.com/weblancaster/awesome-IoT-hybrid",
+                "github": "weblancaster/awesome-IoT-hybrid",
+                "type": "github"
+            },
+            {
+                "title": "Electron",
+                "href": "https://github.com/sindresorhus/awesome-electron",
+                "github": "sindresorhus/awesome-electron",
+                "type": "github"
+            },
+            {
+                "title": "Cordova",
+                "href": "https://github.com/busterc/awesome-cordova",
+                "github": "busterc/awesome-cordova",
+                "type": "github"
+            },
+            {
+                "title": "React Native",
+                "href": "https://github.com/jondot/awesome-react-native",
+                "github": "jondot/awesome-react-native",
+                "type": "github"
+            },
+            {
+                "title": "Xamarin",
+                "href": "https://github.com/benoitjadinon/awesome-xamarin",
+                "github": "benoitjadinon/awesome-xamarin",
+                "type": "github"
+            },
+            {
+                "title": "Linux",
+                "href": "https://github.com/aleksandar-todorovic/awesome-linux",
+                "github": "aleksandar-todorovic/awesome-linux",
+                "type": "github"
+            },
+            {
+                "title": "macOS",
+                "href": "https://github.com/iCHAIT/awesome-macOS",
+                "github": "iCHAIT/awesome-macOS",
+                "type": "github"
+            },
+            {
+                "title": "watchOS",
+                "href": "https://github.com/yenchenlin/awesome-watchos",
+                "github": "yenchenlin/awesome-watchos",
+                "type": "github"
+            },
+            {
+                "title": "JVM",
+                "href": "https://github.com/deephacks/awesome-jvm",
+                "github": "deephacks/awesome-jvm",
+                "type": "github"
+            },
+            {
+                "title": "Salesforce",
+                "href": "https://github.com/mailtoharshit/awesome-salesforce",
+                "github": "mailtoharshit/awesome-salesforce",
+                "type": "github"
+            },
+            {
+                "title": "Amazon Web Services",
+                "href": "https://github.com/donnemartin/awesome-aws",
+                "github": "donnemartin/awesome-aws",
+                "type": "github"
+            },
+            {
+                "title": "Windows",
+                "href": "https://github.com/Awesome-Windows/Awesome",
+                "github": "Awesome-Windows/Awesome",
+                "type": "github"
+            },
+            {
+                "title": "IPFS",
+                "href": "https://github.com/ipfs/awesome-ipfs",
+                "github": "ipfs/awesome-ipfs",
+                "type": "github"
+            },
+            {
+                "title": "Fuse",
+                "href": "https://github.com/vinkla/awesome-fuse",
+                "github": "vinkla/awesome-fuse",
+                "type": "github"
+            },
+            {
+                "title": "Heroku",
+                "href": "https://github.com/ianstormtaylor/awesome-heroku",
+                "github": "ianstormtaylor/awesome-heroku",
+                "type": "github"
+            },
+            {
+                "title": "Raspberry Pi",
+                "href": "https://github.com/thibmaek/awesome-raspberry-pi",
+                "github": "thibmaek/awesome-raspberry-pi",
+                "type": "github"
+            },
+            {
+                "title": "Qt",
+                "href": "https://github.com/JesseTG/awesome-qt",
+                "github": "JesseTG/awesome-qt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Programming Languages",
+        "childrens": [
+            {
+                "title": "JavaScript",
+                "href": "https://github.com/sorrycc/awesome-javascript",
+                "github": "sorrycc/awesome-javascript",
+                "type": "github"
+            },
+            {
+                "title": "Swift",
+                "href": "https://github.com/matteocrippa/awesome-swift",
+                "github": "matteocrippa/awesome-swift",
+                "type": "github"
+            },
+            {
+                "title": "Python",
+                "href": "https://github.com/vinta/awesome-python",
+                "github": "vinta/awesome-python",
+                "type": "github"
+            },
+            {
+                "title": "Rust",
+                "href": "https://github.com/rust-unofficial/awesome-rust",
+                "github": "rust-unofficial/awesome-rust",
+                "type": "github"
+            },
+            {
+                "title": "Haskell",
+                "href": "https://github.com/krispo/awesome-haskell",
+                "github": "krispo/awesome-haskell",
+                "type": "github"
+            },
+            {
+                "title": "PureScript",
+                "href": "https://github.com/passy/awesome-purescript",
+                "github": "passy/awesome-purescript",
+                "type": "github"
+            },
+            {
+                "title": "Go",
+                "href": "https://github.com/avelino/awesome-go",
+                "github": "avelino/awesome-go",
+                "type": "github"
+            },
+            {
+                "title": "Scala",
+                "href": "https://github.com/lauris/awesome-scala",
+                "github": "lauris/awesome-scala",
+                "type": "github"
+            },
+            {
+                "title": "Ruby",
+                "href": "https://github.com/markets/awesome-ruby",
+                "github": "markets/awesome-ruby",
+                "type": "github"
+            },
+            {
+                "title": "Clojure",
+                "href": "https://github.com/razum2um/awesome-clojure",
+                "github": "razum2um/awesome-clojure",
+                "type": "github"
+            },
+            {
+                "title": "ClojureScript",
+                "href": "https://github.com/hantuzun/awesome-clojurescript",
+                "github": "hantuzun/awesome-clojurescript",
+                "type": "github"
+            },
+            {
+                "title": "Elixir",
+                "href": "https://github.com/h4cc/awesome-elixir",
+                "github": "h4cc/awesome-elixir",
+                "type": "github"
+            },
+            {
+                "title": "Elm",
+                "href": "https://github.com/isRuslan/awesome-elm",
+                "github": "isRuslan/awesome-elm",
+                "type": "github"
+            },
+            {
+                "title": "Erlang",
+                "href": "https://github.com/drobakowski/awesome-erlang",
+                "github": "drobakowski/awesome-erlang",
+                "type": "github"
+            },
+            {
+                "title": "Julia",
+                "href": "https://github.com/svaksha/Julia.jl",
+                "github": "svaksha/Julia.jl",
+                "type": "github"
+            },
+            {
+                "title": "Lua",
+                "href": "https://github.com/LewisJEllis/awesome-lua",
+                "github": "LewisJEllis/awesome-lua",
+                "type": "github"
+            },
+            {
+                "title": "C",
+                "href": "https://github.com/aleksandar-todorovic/awesome-c",
+                "github": "aleksandar-todorovic/awesome-c",
+                "type": "github"
+            },
+            {
+                "title": "C/C++",
+                "href": "https://github.com/fffaraz/awesome-cpp",
+                "github": "fffaraz/awesome-cpp",
+                "type": "github"
+            },
+            {
+                "title": "R",
+                "href": "https://github.com/qinwf/awesome-R",
+                "github": "qinwf/awesome-R",
+                "type": "github"
+            },
+            {
+                "title": "D",
+                "href": "https://github.com/zhaopuming/awesome-d",
+                "github": "zhaopuming/awesome-d",
+                "type": "github"
+            },
+            {
+                "title": "Common Lisp",
+                "href": "https://github.com/CodyReichert/awesome-cl",
+                "github": "CodyReichert/awesome-cl",
+                "type": "github"
+            },
+            {
+                "title": "Perl",
+                "href": "https://github.com/hachiojipm/awesome-perl",
+                "github": "hachiojipm/awesome-perl",
+                "type": "github"
+            },
+            {
+                "title": "Groovy",
+                "href": "https://github.com/kdabir/awesome-groovy",
+                "github": "kdabir/awesome-groovy",
+                "type": "github"
+            },
+            {
+                "title": "Dart",
+                "href": "https://github.com/yissachar/awesome-dart",
+                "github": "yissachar/awesome-dart",
+                "type": "github"
+            },
+            {
+                "title": "Java",
+                "href": "https://github.com/akullpp/awesome-java",
+                "github": "akullpp/awesome-java",
+                "type": "github"
+            },
+            {
+                "title": "Kotlin",
+                "href": "https://github.com/KotlinBy/awesome-kotlin",
+                "github": "KotlinBy/awesome-kotlin",
+                "type": "github"
+            },
+            {
+                "title": "OCaml",
+                "href": "https://github.com/rizo/awesome-ocaml",
+                "github": "rizo/awesome-ocaml",
+                "type": "github"
+            },
+            {
+                "title": "ColdFusion",
+                "href": "https://github.com/seancoyne/awesome-coldfusion",
+                "github": "seancoyne/awesome-coldfusion",
+                "type": "github"
+            },
+            {
+                "title": "Fortran",
+                "href": "https://github.com/rabbiabram/awesome-fortran",
+                "github": "rabbiabram/awesome-fortran",
+                "type": "github"
+            },
+            {
+                "title": ".NET",
+                "href": "https://github.com/quozd/awesome-dotnet",
+                "github": "quozd/awesome-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "PHP",
+                "href": "https://github.com/ziadoz/awesome-php",
+                "github": "ziadoz/awesome-php",
+                "type": "github"
+            },
+            {
+                "title": "Delphi",
+                "href": "https://github.com/Fr0sT-Brutal/awesome-delphi",
+                "github": "Fr0sT-Brutal/awesome-delphi",
+                "type": "github"
+            },
+            {
+                "title": "Assembler",
+                "href": "https://github.com/brainblowjob/awesome-asm",
+                "github": "brainblowjob/awesome-asm",
+                "type": "github"
+            },
+            {
+                "title": "AutoHotkey",
+                "href": "https://github.com/ahkscript/awesome-AutoHotkey",
+                "github": "ahkscript/awesome-AutoHotkey",
+                "type": "github"
+            },
+            {
+                "title": "AutoIt",
+                "href": "https://github.com/J2TeaM/awesome-AutoIt",
+                "github": "J2TeaM/awesome-AutoIt",
+                "type": "github"
+            },
+            {
+                "title": "Crystal",
+                "href": "https://github.com/veelenga/awesome-crystal",
+                "github": "veelenga/awesome-crystal",
+                "type": "github"
+            },
+            {
+                "title": "TypeScript",
+                "href": "https://github.com/dzharii/awesome-typescript",
+                "github": "dzharii/awesome-typescript",
+                "type": "github"
+            },
+            {
+                "title": "Frege",
+                "href": "https://github.com/sfischer13/awesome-frege",
+                "github": "sfischer13/awesome-frege",
+                "type": "github"
+            },
+            {
+                "title": "CMake",
+                "href": "https://github.com/onqtam/awesome-cmake",
+                "github": "onqtam/awesome-cmake",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Front-End Development",
+        "childrens": [
+            {
+                "title": "ES6 Tools",
+                "href": "https://github.com/addyosmani/es6-tools",
+                "github": "addyosmani/es6-tools",
+                "type": "github"
+            },
+            {
+                "title": "Web Performance Optimization",
+                "href": "https://github.com/davidsonfellipe/awesome-wpo",
+                "github": "davidsonfellipe/awesome-wpo",
+                "type": "github"
+            },
+            {
+                "title": "Web Tools",
+                "href": "https://github.com/lvwzhen/tools",
+                "github": "lvwzhen/tools",
+                "type": "github"
+            },
+            {
+                "title": "CSS",
+                "href": "https://github.com/sotayamashita/awesome-css",
+                "github": "sotayamashita/awesome-css",
+                "type": "github"
+            },
+            {
+                "title": "React",
+                "href": "https://github.com/enaqx/awesome-react",
+                "github": "enaqx/awesome-react",
+                "type": "github"
+            },
+            {
+                "title": "Web Components",
+                "href": "https://github.com/mateusortiz/webcomponents-the-right-way",
+                "github": "mateusortiz/webcomponents-the-right-way",
+                "type": "github"
+            },
+            {
+                "title": "Polymer",
+                "href": "https://github.com/Granze/awesome-polymer",
+                "github": "Granze/awesome-polymer",
+                "type": "github"
+            },
+            {
+                "title": "Angular",
+                "href": "https://github.com/AngularClass/awesome-angular",
+                "github": "AngularClass/awesome-angular",
+                "type": "github"
+            },
+            {
+                "title": "Backbone",
+                "href": "https://github.com/sadcitizen/awesome-backbone",
+                "github": "sadcitizen/awesome-backbone",
+                "type": "github"
+            },
+            {
+                "title": "HTML5",
+                "href": "https://github.com/diegocard/awesome-html5",
+                "github": "diegocard/awesome-html5",
+                "type": "github"
+            },
+            {
+                "title": "SVG",
+                "href": "https://github.com/willianjusten/awesome-svg",
+                "github": "willianjusten/awesome-svg",
+                "type": "github"
+            },
+            {
+                "title": "Canvas",
+                "href": "https://github.com/raphamorim/awesome-canvas",
+                "github": "raphamorim/awesome-canvas",
+                "type": "github"
+            },
+            {
+                "title": "KnockoutJS",
+                "href": "https://github.com/dnbard/awesome-knockout",
+                "github": "dnbard/awesome-knockout",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Toolkit",
+                "href": "https://github.com/petk/awesome-dojo",
+                "github": "petk/awesome-dojo",
+                "type": "github"
+            },
+            {
+                "title": "Inspiration",
+                "href": "https://github.com/NoahBuscher/Inspire",
+                "github": "NoahBuscher/Inspire",
+                "type": "github"
+            },
+            {
+                "title": "Ember",
+                "href": "https://github.com/nmec/awesome-ember",
+                "github": "nmec/awesome-ember",
+                "type": "github"
+            },
+            {
+                "title": "Android UI",
+                "href": "https://github.com/wasabeef/awesome-android-ui",
+                "github": "wasabeef/awesome-android-ui",
+                "type": "github"
+            },
+            {
+                "title": "iOS UI",
+                "href": "https://github.com/cjwirth/awesome-ios-ui",
+                "github": "cjwirth/awesome-ios-ui",
+                "type": "github"
+            },
+            {
+                "title": "Meteor",
+                "href": "https://github.com/Urigo/awesome-meteor",
+                "github": "Urigo/awesome-meteor",
+                "type": "github"
+            },
+            {
+                "title": "BEM",
+                "href": "https://github.com/sturobson/BEM-resources",
+                "github": "sturobson/BEM-resources",
+                "type": "github"
+            },
+            {
+                "title": "Flexbox",
+                "href": "https://github.com/afonsopacifer/awesome-flexbox",
+                "github": "afonsopacifer/awesome-flexbox",
+                "type": "github"
+            },
+            {
+                "title": "Web Typography",
+                "href": "https://github.com/deanhume/typography",
+                "github": "deanhume/typography",
+                "type": "github"
+            },
+            {
+                "title": "Web Accessibility",
+                "href": "https://github.com/brunopulis/awesome-a11y",
+                "github": "brunopulis/awesome-a11y",
+                "type": "github"
+            },
+            {
+                "title": "Material Design",
+                "href": "https://github.com/sachin1092/awesome-material",
+                "github": "sachin1092/awesome-material",
+                "type": "github"
+            },
+            {
+                "title": "D3",
+                "href": "https://github.com/wbkd/awesome-d3",
+                "github": "wbkd/awesome-d3",
+                "type": "github"
+            },
+            {
+                "title": "Emails",
+                "href": "https://github.com/jonathandion/awesome-emails",
+                "github": "jonathandion/awesome-emails",
+                "type": "github"
+            },
+            {
+                "title": "jQuery",
+                "href": "https://github.com/petk/awesome-jquery",
+                "github": "petk/awesome-jquery",
+                "type": "github"
+            },
+            {
+                "title": "Web Audio",
+                "href": "https://github.com/notthetup/awesome-webaudio",
+                "github": "notthetup/awesome-webaudio",
+                "type": "github"
+            },
+            {
+                "title": "Offline-First",
+                "href": "https://github.com/pazguille/offline-first",
+                "github": "pazguille/offline-first",
+                "type": "github"
+            },
+            {
+                "title": "Static Website Services",
+                "href": "https://github.com/aharris88/awesome-static-website-services",
+                "github": "aharris88/awesome-static-website-services",
+                "type": "github"
+            },
+            {
+                "title": "A-Frame VR",
+                "href": "https://github.com/aframevr/awesome-aframe",
+                "github": "aframevr/awesome-aframe",
+                "type": "github"
+            },
+            {
+                "title": "Cycle.js",
+                "href": "https://github.com/cyclejs-community/awesome-cyclejs",
+                "github": "cyclejs-community/awesome-cyclejs",
+                "type": "github"
+            },
+            {
+                "title": "Text Editing",
+                "href": "https://github.com/dok/awesome-text-editing",
+                "github": "dok/awesome-text-editing",
+                "type": "github"
+            },
+            {
+                "title": "Motion UI Design",
+                "href": "https://github.com/fliptheweb/motion-ui-design",
+                "github": "fliptheweb/motion-ui-design",
+                "type": "github"
+            },
+            {
+                "title": "Vue.js",
+                "href": "https://github.com/vuejs/awesome-vue",
+                "github": "vuejs/awesome-vue",
+                "type": "github"
+            },
+            {
+                "title": "Marionette.js",
+                "href": "https://github.com/sadcitizen/awesome-marionette",
+                "github": "sadcitizen/awesome-marionette",
+                "type": "github"
+            },
+            {
+                "title": "Aurelia",
+                "href": "https://github.com/behzad888/awesome-aurelia",
+                "github": "behzad888/awesome-aurelia",
+                "type": "github"
+            },
+            {
+                "title": "Charting",
+                "href": "https://github.com/zingchart/awesome-charting",
+                "github": "zingchart/awesome-charting",
+                "type": "github"
+            },
+            {
+                "title": "Ionic Framework 2",
+                "href": "https://github.com/candelibas/awesome-ionic2",
+                "github": "candelibas/awesome-ionic2",
+                "type": "github"
+            },
+            {
+                "title": "Chrome DevTools",
+                "href": "https://github.com/ChromeDevTools/awesome-chrome-devtools",
+                "github": "ChromeDevTools/awesome-chrome-devtools",
+                "type": "github"
+            },
+            {
+                "title": "PostCSS",
+                "href": "https://github.com/jjaderg/awesome-postcss",
+                "github": "jjaderg/awesome-postcss",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js",
+                "href": "https://github.com/nikgraf/awesome-draft-js",
+                "github": "nikgraf/awesome-draft-js",
+                "type": "github"
+            },
+            {
+                "title": "Service Workers",
+                "href": "https://github.com/TalAter/awesome-service-workers",
+                "github": "TalAter/awesome-service-workers",
+                "type": "github"
+            },
+            {
+                "title": "Progressive Web Apps",
+                "href": "https://github.com/TalAter/awesome-progressive-web-apps",
+                "github": "TalAter/awesome-progressive-web-apps",
+                "type": "github"
+            },
+            {
+                "title": "choo",
+                "href": "https://github.com/YerkoPalma/awesome-choo",
+                "github": "YerkoPalma/awesome-choo",
+                "type": "github"
+            },
+            {
+                "title": "Redux",
+                "href": "https://github.com/brillout/awesome-redux",
+                "github": "brillout/awesome-redux",
+                "type": "github"
+            },
+            {
+                "title": "webpack",
+                "href": "https://github.com/webpack-contrib/awesome-webpack",
+                "github": "webpack-contrib/awesome-webpack",
+                "type": "github"
+            },
+            {
+                "title": "Browserify",
+                "href": "https://github.com/ungoldman/awesome-browserify",
+                "github": "ungoldman/awesome-browserify",
+                "type": "github"
+            },
+            {
+                "title": "Sass",
+                "href": "https://github.com/Famolus/awesome-sass",
+                "github": "Famolus/awesome-sass",
+                "type": "github"
+            },
+            {
+                "title": "Ant Design",
+                "href": "https://github.com/websemantics/awesome-ant-design",
+                "github": "websemantics/awesome-ant-design",
+                "type": "github"
+            },
+            {
+                "title": "Less",
+                "href": "https://github.com/LucasBassetti/awesome-less",
+                "github": "LucasBassetti/awesome-less",
+                "type": "github"
+            },
+            {
+                "title": "WebGL",
+                "href": "https://github.com/sjfricke/awesome-webgl",
+                "github": "sjfricke/awesome-webgl",
+                "type": "github"
+            },
+            {
+                "title": "Preact",
+                "href": "https://github.com/ooade/awesome-preact",
+                "github": "ooade/awesome-preact",
+                "type": "github"
+            },
+            {
+                "title": "Progressive Enhancement",
+                "href": "https://github.com/jbmoelker/progressive-enhancement-resources",
+                "github": "jbmoelker/progressive-enhancement-resources",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Back-End Development",
+        "childrens": [
+            {
+                "title": "Django",
+                "href": "https://github.com/rosarior/awesome-django",
+                "github": "rosarior/awesome-django",
+                "type": "github"
+            },
+            {
+                "title": "Flask",
+                "href": "https://github.com/humiaozuzu/awesome-flask",
+                "github": "humiaozuzu/awesome-flask",
+                "type": "github"
+            },
+            {
+                "title": "Docker",
+                "href": "https://github.com/veggiemonk/awesome-docker",
+                "github": "veggiemonk/awesome-docker",
+                "type": "github"
+            },
+            {
+                "title": "Vagrant",
+                "href": "https://github.com/iJackUA/awesome-vagrant",
+                "github": "iJackUA/awesome-vagrant",
+                "type": "github"
+            },
+            {
+                "title": "Pyramid",
+                "href": "https://github.com/uralbash/awesome-pyramid",
+                "github": "uralbash/awesome-pyramid",
+                "type": "github"
+            },
+            {
+                "title": "Play1 Framework",
+                "href": "https://github.com/PerfectCarl/awesome-play1",
+                "github": "PerfectCarl/awesome-play1",
+                "type": "github"
+            },
+            {
+                "title": "CakePHP",
+                "href": "https://github.com/friendsofcake/awesome-cakephp",
+                "github": "friendsofcake/awesome-cakephp",
+                "type": "github"
+            },
+            {
+                "title": "Symfony",
+                "href": "https://github.com/sitepoint/awesome-symfony",
+                "github": "sitepoint/awesome-symfony",
+                "type": "github"
+            },
+            {
+                "title": "Laravel",
+                "href": "https://github.com/chiraggude/awesome-laravel",
+                "github": "chiraggude/awesome-laravel",
+                "type": "github"
+            },
+            {
+                "title": "Rails",
+                "href": "https://github.com/ekremkaraca/awesome-rails",
+                "github": "ekremkaraca/awesome-rails",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon",
+                "href": "https://github.com/sergeyklay/awesome-phalcon",
+                "github": "sergeyklay/awesome-phalcon",
+                "type": "github"
+            },
+            {
+                "title": "Useful ",
+                "href": "https://github.com/phanan/htaccess",
+                "github": "phanan/htaccess",
+                "type": "github"
+            },
+            {
+                "title": "nginx",
+                "href": "https://github.com/fcambus/nginx-resources",
+                "github": "fcambus/nginx-resources",
+                "type": "github"
+            },
+            {
+                "title": "Dropwizard",
+                "href": "https://github.com/stve/awesome-dropwizard",
+                "github": "stve/awesome-dropwizard",
+                "type": "github"
+            },
+            {
+                "title": "Kubernetes",
+                "href": "https://github.com/ramitsurana/awesome-kubernetes",
+                "github": "ramitsurana/awesome-kubernetes",
+                "type": "github"
+            },
+            {
+                "title": "Lumen",
+                "href": "https://github.com/unicodeveloper/awesome-lumen",
+                "github": "unicodeveloper/awesome-lumen",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Framework",
+                "href": "https://github.com/JustServerless/awesome-serverless",
+                "github": "JustServerless/awesome-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Apache Wicket",
+                "href": "https://github.com/PhantomYdn/awesome-wicket",
+                "github": "PhantomYdn/awesome-wicket",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x",
+                "href": "https://github.com/vert-x3/vertx-awesome",
+                "github": "vert-x3/vertx-awesome",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Computer Science",
+        "childrens": [
+            {
+                "title": "University Courses",
+                "href": "https://github.com/prakhar1989/awesome-courses",
+                "github": "prakhar1989/awesome-courses",
+                "type": "github"
+            },
+            {
+                "title": "Data Science",
+                "href": "https://github.com/okulbilisim/awesome-datascience",
+                "github": "okulbilisim/awesome-datascience",
+                "type": "github"
+            },
+            {
+                "title": "Machine Learning",
+                "href": "https://github.com/josephmisiti/awesome-machine-learning",
+                "github": "josephmisiti/awesome-machine-learning",
+                "type": "github"
+            },
+            {
+                "title": "Speech and Natural Language Processing",
+                "href": "https://github.com/edobashira/speech-language-processing",
+                "github": "edobashira/speech-language-processing",
+                "type": "github"
+            },
+            {
+                "title": "Linguistics",
+                "href": "https://github.com/theimpossibleastronaut/awesome-linguistics",
+                "github": "theimpossibleastronaut/awesome-linguistics",
+                "type": "github"
+            },
+            {
+                "title": "Cryptography",
+                "href": "https://github.com/sobolevn/awesome-cryptography",
+                "github": "sobolevn/awesome-cryptography",
+                "type": "github"
+            },
+            {
+                "title": "Computer Vision",
+                "href": "https://github.com/jbhuang0604/awesome-computer-vision",
+                "github": "jbhuang0604/awesome-computer-vision",
+                "type": "github"
+            },
+            {
+                "title": "Deep Learning",
+                "href": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+                "github": "ChristosChristofidis/awesome-deep-learning",
+                "type": "github"
+            },
+            {
+                "title": "Deep Vision",
+                "href": "https://github.com/kjw0612/awesome-deep-vision",
+                "github": "kjw0612/awesome-deep-vision",
+                "type": "github"
+            },
+            {
+                "title": "Open Source Society University",
+                "href": "https://github.com/open-source-society/computer-science",
+                "github": "open-source-society/computer-science",
+                "type": "github"
+            },
+            {
+                "title": "Functional Programming",
+                "href": "https://github.com/lucasviola/awesome-functional-programming",
+                "github": "lucasviola/awesome-functional-programming",
+                "type": "github"
+            },
+            {
+                "title": "Static Analysis & Code Quality",
+                "href": "https://github.com/mre/awesome-static-analysis",
+                "github": "mre/awesome-static-analysis",
+                "type": "github"
+            },
+            {
+                "title": "Information Retrieval",
+                "href": "https://github.com/harpribot/awesome-information-retrieval",
+                "github": "harpribot/awesome-information-retrieval",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Big Data",
+        "childrens": [
+            {
+                "title": "Big Data",
+                "href": "https://github.com/onurakpolat/awesome-bigdata",
+                "github": "onurakpolat/awesome-bigdata",
+                "type": "github"
+            },
+            {
+                "title": "Public Datasets",
+                "href": "https://github.com/caesar0301/awesome-public-datasets",
+                "github": "caesar0301/awesome-public-datasets",
+                "type": "github"
+            },
+            {
+                "title": "Hadoop",
+                "href": "https://github.com/youngwookim/awesome-hadoop",
+                "github": "youngwookim/awesome-hadoop",
+                "type": "github"
+            },
+            {
+                "title": "Data Engineering",
+                "href": "https://github.com/igorbarinov/awesome-data-engineering",
+                "github": "igorbarinov/awesome-data-engineering",
+                "type": "github"
+            },
+            {
+                "title": "Streaming",
+                "href": "https://github.com/manuzhang/awesome-streaming",
+                "github": "manuzhang/awesome-streaming",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Theory",
+        "childrens": [
+            {
+                "title": "Papers We Love",
+                "href": "https://github.com/papers-we-love/papers-we-love",
+                "github": "papers-we-love/papers-we-love",
+                "type": "github"
+            },
+            {
+                "title": "Talks",
+                "href": "https://github.com/JanVanRyswyck/awesome-talks",
+                "github": "JanVanRyswyck/awesome-talks",
+                "type": "github"
+            },
+            {
+                "title": "Algorithms",
+                "href": "https://github.com/tayllan/awesome-algorithms",
+                "github": "tayllan/awesome-algorithms",
+                "type": "github"
+            },
+            {
+                "title": "Algorithm Visualizations",
+                "href": "https://github.com/enjalot/algovis",
+                "github": "enjalot/algovis",
+                "type": "github"
+            },
+            {
+                "title": "Artificial Intelligence",
+                "href": "https://github.com/owainlewis/awesome-artificial-intelligence",
+                "github": "owainlewis/awesome-artificial-intelligence",
+                "type": "github"
+            },
+            {
+                "title": "Search Engine Optimization",
+                "href": "https://github.com/marcobiedermann/search-engine-optimization",
+                "github": "marcobiedermann/search-engine-optimization",
+                "type": "github"
+            },
+            {
+                "title": "Competitive Programming",
+                "href": "https://github.com/lnishan/awesome-competitive-programming",
+                "github": "lnishan/awesome-competitive-programming",
+                "type": "github"
+            },
+            {
+                "title": "Math",
+                "href": "https://github.com/rossant/awesome-math",
+                "github": "rossant/awesome-math",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Books",
+        "childrens": [
+            {
+                "title": "Free Programming Books",
+                "href": "https://github.com/vhf/free-programming-books",
+                "github": "vhf/free-programming-books",
+                "type": "github"
+            },
+            {
+                "title": "Free Software Testing Books",
+                "href": "https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md",
+                "github": "ligurio/free-software-testing-books/blob/master/free-software-testing-books.md",
+                "type": "github"
+            },
+            {
+                "title": "Go Books",
+                "href": "https://github.com/dariubs/GoBooks",
+                "github": "dariubs/GoBooks",
+                "type": "github"
+            },
+            {
+                "title": "R Books",
+                "href": "https://github.com/RomanTsegelskyi/rbooks",
+                "github": "RomanTsegelskyi/rbooks",
+                "type": "github"
+            },
+            {
+                "title": "Mind Expanding Books",
+                "href": "https://github.com/hackerkid/Mind-Expanding-Books",
+                "github": "hackerkid/Mind-Expanding-Books",
+                "type": "github"
+            },
+            {
+                "title": "Book Authoring",
+                "href": "https://github.com/TalAter/awesome-book-authoring",
+                "github": "TalAter/awesome-book-authoring",
+                "type": "github"
+            },
+            {
+                "title": "Elixir Books",
+                "href": "https://github.com/sger/ElixirBooks",
+                "github": "sger/ElixirBooks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editors",
+        "childrens": [
+            {
+                "title": "Sublime Text",
+                "href": "https://github.com/dreikanter/sublime-bookmarks",
+                "github": "dreikanter/sublime-bookmarks",
+                "type": "github"
+            },
+            {
+                "title": "Vim",
+                "href": "https://github.com/mhinz/vim-galore",
+                "github": "mhinz/vim-galore",
+                "type": "github"
+            },
+            {
+                "title": "Emacs",
+                "href": "https://github.com/emacs-tw/awesome-emacs",
+                "github": "emacs-tw/awesome-emacs",
+                "type": "github"
+            },
+            {
+                "title": "Atom",
+                "href": "https://github.com/mehcode/awesome-atom",
+                "github": "mehcode/awesome-atom",
+                "type": "github"
+            },
+            {
+                "title": "Visual Studio Code",
+                "href": "https://github.com/viatsko/awesome-vscode",
+                "github": "viatsko/awesome-vscode",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Gaming",
+        "childrens": [
+            {
+                "title": "Game Development",
+                "href": "https://github.com/ellisonleao/magictools",
+                "github": "ellisonleao/magictools",
+                "type": "github"
+            },
+            {
+                "title": "Game Talks",
+                "href": "https://github.com/hzoo/awesome-gametalks",
+                "github": "hzoo/awesome-gametalks",
+                "type": "github"
+            },
+            {
+                "title": "Godot",
+                "href": "https://github.com/Calinou/awesome-godot",
+                "github": "Calinou/awesome-godot",
+                "type": "github"
+            },
+            {
+                "title": "Open Source Games",
+                "href": "https://github.com/leereilly/games",
+                "github": "leereilly/games",
+                "type": "github"
+            },
+            {
+                "title": "Unity",
+                "href": "https://github.com/RyanNielson/awesome-unity",
+                "github": "RyanNielson/awesome-unity",
+                "type": "github"
+            },
+            {
+                "title": "Chess",
+                "href": "https://github.com/hkirat/awesome-chess",
+                "github": "hkirat/awesome-chess",
+                "type": "github"
+            },
+            {
+                "title": "LÖVE",
+                "href": "https://github.com/love2d-community/awesome-love2d",
+                "github": "love2d-community/awesome-love2d",
+                "type": "github"
+            },
+            {
+                "title": "PICO-8",
+                "href": "https://github.com/felipebueno/awesome-PICO-8",
+                "github": "felipebueno/awesome-PICO-8",
+                "type": "github"
+            },
+            {
+                "title": "Game Boy Development",
+                "href": "https://github.com/avivace/awesome-gbdev",
+                "github": "avivace/awesome-gbdev",
+                "type": "github"
+            },
+            {
+                "title": "Construct 2",
+                "href": "https://github.com/armaldio/awesome-construct",
+                "github": "armaldio/awesome-construct",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development Environment",
+        "childrens": [
+            {
+                "title": "Quick Look Plugins",
+                "href": "https://github.com/sindresorhus/quick-look-plugins",
+                "github": "sindresorhus/quick-look-plugins",
+                "type": "github"
+            },
+            {
+                "title": "Dev Env",
+                "href": "https://github.com/jondot/awesome-devenv",
+                "github": "jondot/awesome-devenv",
+                "type": "github"
+            },
+            {
+                "title": "Dotfiles",
+                "href": "https://github.com/webpro/awesome-dotfiles",
+                "github": "webpro/awesome-dotfiles",
+                "type": "github"
+            },
+            {
+                "title": "Shell",
+                "href": "https://github.com/alebcay/awesome-shell",
+                "github": "alebcay/awesome-shell",
+                "type": "github"
+            },
+            {
+                "title": "Fish",
+                "href": "https://github.com/fisherman/awesome-fish",
+                "github": "fisherman/awesome-fish",
+                "type": "github"
+            },
+            {
+                "title": "Command-Line Apps",
+                "href": "https://github.com/aharris88/awesome-cli-apps",
+                "github": "aharris88/awesome-cli-apps",
+                "type": "github"
+            },
+            {
+                "title": "ZSH Plugins",
+                "href": "https://github.com/unixorn/awesome-zsh-plugins",
+                "github": "unixorn/awesome-zsh-plugins",
+                "type": "github"
+            },
+            {
+                "title": "GitHub",
+                "href": "https://github.com/phillipadsmith/awesome-github",
+                "github": "phillipadsmith/awesome-github",
+                "type": "github"
+            },
+            {
+                "title": "Git Cheat Sheet & Git Flow",
+                "href": "https://github.com/arslanbilal/git-cheat-sheet",
+                "github": "arslanbilal/git-cheat-sheet",
+                "type": "github"
+            },
+            {
+                "title": "Git Tips",
+                "href": "https://github.com/git-tips/tips",
+                "github": "git-tips/tips",
+                "type": "github"
+            },
+            {
+                "title": "Git Add-ons",
+                "href": "https://github.com/stevemao/awesome-git-addons",
+                "github": "stevemao/awesome-git-addons",
+                "type": "github"
+            },
+            {
+                "title": "SSH",
+                "href": "https://github.com/moul/awesome-ssh",
+                "github": "moul/awesome-ssh",
+                "type": "github"
+            },
+            {
+                "title": "FOSS for Developers",
+                "href": "https://github.com/httpsGithubParty/FOSS-for-Dev",
+                "github": "httpsGithubParty/FOSS-for-Dev",
+                "type": "github"
+            },
+            {
+                "title": "Hyper",
+                "href": "https://github.com/bnb/awesome-hyper",
+                "github": "bnb/awesome-hyper",
+                "type": "github"
+            },
+            {
+                "title": "PowerShell",
+                "href": "https://github.com/janikvonrotz/awesome-powershell",
+                "github": "janikvonrotz/awesome-powershell",
+                "type": "github"
+            },
+            {
+                "title": "Alfred Workflows",
+                "href": "https://github.com/derimagia/awesome-alfred-workflows",
+                "github": "derimagia/awesome-alfred-workflows",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Entertainment",
+        "childrens": [
+            {
+                "title": "Science Fiction",
+                "href": "https://github.com/sindresorhus/awesome-scifi",
+                "github": "sindresorhus/awesome-scifi",
+                "type": "github"
+            },
+            {
+                "title": "Fantasy",
+                "href": "https://github.com/RichardLitt/awesome-fantasy",
+                "github": "RichardLitt/awesome-fantasy",
+                "type": "github"
+            },
+            {
+                "title": "Podcasts",
+                "href": "https://github.com/guipdutra/awesome-geek-podcasts",
+                "github": "guipdutra/awesome-geek-podcasts",
+                "type": "github"
+            },
+            {
+                "title": "Email Newsletters",
+                "href": "https://github.com/vredniy/awesome-newsletters",
+                "github": "vredniy/awesome-newsletters",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Databases",
+        "childrens": [
+            {
+                "title": "Database",
+                "href": "https://github.com/numetriclabz/awesome-db",
+                "github": "numetriclabz/awesome-db",
+                "type": "github"
+            },
+            {
+                "title": "MySQL",
+                "href": "https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md",
+                "github": "shlomi-noach/awesome-mysql/blob/gh-pages/index.md",
+                "type": "github"
+            },
+            {
+                "title": "SQLAlchemy",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy",
+                "github": "dahlia/awesome-sqlalchemy",
+                "type": "github"
+            },
+            {
+                "title": "InfluxDB",
+                "href": "https://github.com/mark-rushakoff/awesome-influxdb",
+                "github": "mark-rushakoff/awesome-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "Neo4j",
+                "href": "https://github.com/Neueda4j/awesome-neo4j",
+                "github": "Neueda4j/awesome-neo4j",
+                "type": "github"
+            },
+            {
+                "title": "MongoDB",
+                "href": "https://github.com/ramnes/awesome-mongodb",
+                "github": "ramnes/awesome-mongodb",
+                "type": "github"
+            },
+            {
+                "title": "RethinkDB",
+                "href": "https://github.com/d3viant0ne/awesome-rethinkdb",
+                "github": "d3viant0ne/awesome-rethinkdb",
+                "type": "github"
+            },
+            {
+                "title": "TinkerPop",
+                "href": "https://github.com/mohataher/awesome-tinkerpop",
+                "github": "mohataher/awesome-tinkerpop",
+                "type": "github"
+            },
+            {
+                "title": "PostgreSQL",
+                "href": "https://github.com/dhamaniasad/awesome-postgres",
+                "github": "dhamaniasad/awesome-postgres",
+                "type": "github"
+            },
+            {
+                "title": "CouchDB",
+                "href": "https://github.com/quangv/awesome-couchdb",
+                "github": "quangv/awesome-couchdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Media",
+        "childrens": [
+            {
+                "title": "Creative Commons Media",
+                "href": "https://github.com/shime/creative-commons-media",
+                "github": "shime/creative-commons-media",
+                "type": "github"
+            },
+            {
+                "title": "Fonts",
+                "href": "https://github.com/brabadu/awesome-fonts",
+                "github": "brabadu/awesome-fonts",
+                "type": "github"
+            },
+            {
+                "title": "Codeface",
+                "href": "https://github.com/chrissimpkins/codeface",
+                "github": "chrissimpkins/codeface",
+                "type": "github"
+            },
+            {
+                "title": "Stock Resources",
+                "href": "https://github.com/neutraltone/awesome-stock-resources",
+                "github": "neutraltone/awesome-stock-resources",
+                "type": "github"
+            },
+            {
+                "title": "GIF",
+                "href": "https://github.com/davisonio/awesome-gif",
+                "github": "davisonio/awesome-gif",
+                "type": "github"
+            },
+            {
+                "title": "Music",
+                "href": "https://github.com/ciconia/awesome-music",
+                "github": "ciconia/awesome-music",
+                "type": "github"
+            },
+            {
+                "title": "Open Source Documents",
+                "href": "https://github.com/hubtee/awesome-opensource-documents",
+                "github": "hubtee/awesome-opensource-documents",
+                "type": "github"
+            },
+            {
+                "title": "Audio Visualization",
+                "href": "https://github.com/willianjusten/awesome-audio-visualization",
+                "github": "willianjusten/awesome-audio-visualization",
+                "type": "github"
+            },
+            {
+                "title": "Broadcasting",
+                "href": "https://github.com/ebu/awesome-broadcasting",
+                "github": "ebu/awesome-broadcasting",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Learn",
+        "childrens": [
+            {
+                "title": "CLI Workshoppers",
+                "href": "https://github.com/therebelrobot/awesome-workshopper",
+                "github": "therebelrobot/awesome-workshopper",
+                "type": "github"
+            },
+            {
+                "title": "Learn to Program",
+                "href": "https://github.com/karlhorky/learn-to-program",
+                "github": "karlhorky/learn-to-program",
+                "type": "github"
+            },
+            {
+                "title": "Speaking",
+                "href": "https://github.com/matteofigus/awesome-speaking",
+                "github": "matteofigus/awesome-speaking",
+                "type": "github"
+            },
+            {
+                "title": "Tech Videos",
+                "href": "https://github.com/lucasviola/awesome-tech-videos",
+                "github": "lucasviola/awesome-tech-videos",
+                "type": "github"
+            },
+            {
+                "title": "Dive into Machine Learning",
+                "href": "https://github.com/hangtwenty/dive-into-machine-learning",
+                "github": "hangtwenty/dive-into-machine-learning",
+                "type": "github"
+            },
+            {
+                "title": "Computer History",
+                "href": "https://github.com/watson/awesome-computer-history",
+                "github": "watson/awesome-computer-history",
+                "type": "github"
+            },
+            {
+                "title": "Programming for Kids",
+                "href": "https://github.com/HollyAdele/awesome-programming-for-kids",
+                "github": "HollyAdele/awesome-programming-for-kids",
+                "type": "github"
+            },
+            {
+                "title": "Educational Games",
+                "href": "https://github.com/vinkla/awesome-educational-games",
+                "github": "vinkla/awesome-educational-games",
+                "type": "github"
+            },
+            {
+                "title": "JavaScript Learning",
+                "href": "https://github.com/micromata/awesome-javascript-learning",
+                "github": "micromata/awesome-javascript-learning",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "Application Security",
+                "href": "https://github.com/paragonie/awesome-appsec",
+                "github": "paragonie/awesome-appsec",
+                "type": "github"
+            },
+            {
+                "title": "Security",
+                "href": "https://github.com/sbilly/awesome-security",
+                "github": "sbilly/awesome-security",
+                "type": "github"
+            },
+            {
+                "title": "CTF",
+                "href": "https://github.com/apsdehal/awesome-ctf",
+                "github": "apsdehal/awesome-ctf",
+                "type": "github"
+            },
+            {
+                "title": "Malware Analysis",
+                "href": "https://github.com/rshipp/awesome-malware-analysis",
+                "github": "rshipp/awesome-malware-analysis",
+                "type": "github"
+            },
+            {
+                "title": "Android Security",
+                "href": "https://github.com/ashishb/android-security-awesome",
+                "github": "ashishb/android-security-awesome",
+                "type": "github"
+            },
+            {
+                "title": "Hacking",
+                "href": "https://github.com/carpedm20/awesome-hacking",
+                "github": "carpedm20/awesome-hacking",
+                "type": "github"
+            },
+            {
+                "title": "Honeypots",
+                "href": "https://github.com/paralax/awesome-honeypots",
+                "github": "paralax/awesome-honeypots",
+                "type": "github"
+            },
+            {
+                "title": "Incident Response",
+                "href": "https://github.com/meirwah/awesome-incident-response",
+                "github": "meirwah/awesome-incident-response",
+                "type": "github"
+            },
+            {
+                "title": "Vehicle Security and Car Hacking",
+                "href": "https://github.com/jaredmichaelsmith/awesome-vehicle-security",
+                "github": "jaredmichaelsmith/awesome-vehicle-security",
+                "type": "github"
+            },
+            {
+                "title": "Web Security",
+                "href": "https://github.com/qazbnm456/awesome-web-security",
+                "github": "qazbnm456/awesome-web-security",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Content Management Systems",
+        "childrens": [
+            {
+                "title": "Umbraco",
+                "href": "https://github.com/leekelleher/awesome-umbraco",
+                "github": "leekelleher/awesome-umbraco",
+                "type": "github"
+            },
+            {
+                "title": "Refinery CMS",
+                "href": "https://github.com/refinerycms-contrib/awesome-refinerycms",
+                "github": "refinerycms-contrib/awesome-refinerycms",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail",
+                "href": "https://github.com/springload/awesome-wagtail",
+                "github": "springload/awesome-wagtail",
+                "type": "github"
+            },
+            {
+                "title": "Textpattern",
+                "href": "https://github.com/drmonkeyninja/awesome-textpattern",
+                "github": "drmonkeyninja/awesome-textpattern",
+                "type": "github"
+            },
+            {
+                "title": "Drupal",
+                "href": "https://github.com/nirgn975/awesome-drupal",
+                "github": "nirgn975/awesome-drupal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hardware",
+        "childrens": [
+            {
+                "title": "Robotics",
+                "href": "https://github.com/Kiloreux/awesome-robotics",
+                "github": "Kiloreux/awesome-robotics",
+                "type": "github"
+            },
+            {
+                "title": "Internet of Things",
+                "href": "https://github.com/HQarroum/awesome-iot",
+                "github": "HQarroum/awesome-iot",
+                "type": "github"
+            },
+            {
+                "title": "Electronics",
+                "href": "https://github.com/monostable/awesome-electronics",
+                "github": "monostable/awesome-electronics",
+                "type": "github"
+            },
+            {
+                "title": "Bluetooth Beacons",
+                "href": "https://github.com/beaconinside/awesome-beacon",
+                "github": "beaconinside/awesome-beacon",
+                "type": "github"
+            },
+            {
+                "title": "Electric Guitar Specifications",
+                "href": "https://github.com/gitfrage/guitarspecs",
+                "github": "gitfrage/guitarspecs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Business",
+        "childrens": [
+            {
+                "title": "Open Companies",
+                "href": "https://github.com/opencompany/awesome-open-company",
+                "github": "opencompany/awesome-open-company",
+                "type": "github"
+            },
+            {
+                "title": "Places to Post Your Startup",
+                "href": "https://github.com/mmccaff/PlacesToPostYourStartup",
+                "github": "mmccaff/PlacesToPostYourStartup",
+                "type": "github"
+            },
+            {
+                "title": "OKR Methodology",
+                "href": "https://github.com/domenicosolazzo/awesome-okr",
+                "github": "domenicosolazzo/awesome-okr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Work",
+        "childrens": [
+            {
+                "title": "Slack",
+                "href": "https://github.com/matiassingers/awesome-slack",
+                "github": "matiassingers/awesome-slack",
+                "type": "github"
+            },
+            {
+                "title": "Remote Jobs",
+                "href": "https://github.com/lukasz-madon/awesome-remote-job",
+                "github": "lukasz-madon/awesome-remote-job",
+                "type": "github"
+            },
+            {
+                "title": "Productivity",
+                "href": "https://github.com/jyguyomarch/awesome-productivity",
+                "github": "jyguyomarch/awesome-productivity",
+                "type": "github"
+            },
+            {
+                "title": "Niche Job Boards",
+                "href": "https://github.com/wfhio/awesome-job-boards",
+                "github": "wfhio/awesome-job-boards",
+                "type": "github"
+            },
+            {
+                "title": "Programming Interviews",
+                "href": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+                "github": "MaximAbramchuck/awesome-interview-questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "Software-Defined Networking",
+                "href": "https://github.com/sdnds-tw/awesome-sdn",
+                "github": "sdnds-tw/awesome-sdn",
+                "type": "github"
+            },
+            {
+                "title": "Ripple",
+                "href": "https://github.com/vhpoet/awesome-ripple",
+                "github": "vhpoet/awesome-ripple",
+                "type": "github"
+            },
+            {
+                "title": "Network Analysis",
+                "href": "https://github.com/briatte/awesome-network-analysis",
+                "github": "briatte/awesome-network-analysis",
+                "type": "github"
+            },
+            {
+                "title": "PCAPTools",
+                "href": "https://github.com/caesar0301/awesome-pcaptools",
+                "github": "caesar0301/awesome-pcaptools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "JSON",
+                "href": "https://github.com/burningtree/awesome-json",
+                "github": "burningtree/awesome-json",
+                "type": "github"
+            },
+            {
+                "title": "Discounts for Student Developers",
+                "href": "https://github.com/AchoArnold/discount-for-student-dev",
+                "github": "AchoArnold/discount-for-student-dev",
+                "type": "github"
+            },
+            {
+                "title": "Conferences",
+                "href": "https://github.com/RichardLitt/awesome-conferences",
+                "github": "RichardLitt/awesome-conferences",
+                "type": "github"
+            },
+            {
+                "title": "Sysadmin",
+                "href": "https://github.com/n1trux/awesome-sysadmin",
+                "github": "n1trux/awesome-sysadmin",
+                "type": "github"
+            },
+            {
+                "title": "Radio",
+                "href": "https://github.com/kyleterry/awesome-radio",
+                "github": "kyleterry/awesome-radio",
+                "type": "github"
+            },
+            {
+                "title": "Awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "Analytics",
+                "href": "https://github.com/onurakpolat/awesome-analytics",
+                "github": "onurakpolat/awesome-analytics",
+                "type": "github"
+            },
+            {
+                "title": "REST",
+                "href": "https://github.com/marmelab/awesome-rest",
+                "github": "marmelab/awesome-rest",
+                "type": "github"
+            },
+            {
+                "title": "Selenium",
+                "href": "https://github.com/christian-bromann/awesome-selenium",
+                "github": "christian-bromann/awesome-selenium",
+                "type": "github"
+            },
+            {
+                "title": "Appium",
+                "href": "https://github.com/SrinivasanTarget/awesome-appium",
+                "github": "SrinivasanTarget/awesome-appium",
+                "type": "github"
+            },
+            {
+                "title": "Endangered Languages",
+                "href": "https://github.com/RichardLitt/endangered-languages",
+                "github": "RichardLitt/endangered-languages",
+                "type": "github"
+            },
+            {
+                "title": "Continuous Delivery",
+                "href": "https://github.com/ciandcd/awesome-ciandcd",
+                "github": "ciandcd/awesome-ciandcd",
+                "type": "github"
+            },
+            {
+                "title": "Services Engineering",
+                "href": "https://github.com/mmcgrana/services-engineering",
+                "github": "mmcgrana/services-engineering",
+                "type": "github"
+            },
+            {
+                "title": "Free for Developers",
+                "href": "https://github.com/ripienaar/free-for-dev",
+                "github": "ripienaar/free-for-dev",
+                "type": "github"
+            },
+            {
+                "title": "Bitcoin",
+                "href": "https://github.com/igorbarinov/awesome-bitcoin",
+                "github": "igorbarinov/awesome-bitcoin",
+                "type": "github"
+            },
+            {
+                "title": "Answers",
+                "href": "https://github.com/cyberglot/awesome-answers",
+                "github": "cyberglot/awesome-answers",
+                "type": "github"
+            },
+            {
+                "title": "Sketch",
+                "href": "https://github.com/diessica/awesome-sketch",
+                "github": "diessica/awesome-sketch",
+                "type": "github"
+            },
+            {
+                "title": "Boilerplate Projects",
+                "href": "https://github.com/melvin0008/awesome-projects-boilerplates",
+                "github": "melvin0008/awesome-projects-boilerplates",
+                "type": "github"
+            },
+            {
+                "title": "Readme",
+                "href": "https://github.com/matiassingers/awesome-readme",
+                "github": "matiassingers/awesome-readme",
+                "type": "github"
+            },
+            {
+                "title": "Tools",
+                "href": "https://github.com/cjbarber/ToolsOfTheTrade",
+                "github": "cjbarber/ToolsOfTheTrade",
+                "type": "github"
+            },
+            {
+                "title": "Styleguides",
+                "href": "https://github.com/RichardLitt/awesome-styleguides",
+                "github": "RichardLitt/awesome-styleguides",
+                "type": "github"
+            },
+            {
+                "title": "Design and Development Guides",
+                "href": "https://github.com/NARKOZ/guides",
+                "github": "NARKOZ/guides",
+                "type": "github"
+            },
+            {
+                "title": "Software Engineering Blogs",
+                "href": "https://github.com/kilimchoi/engineering-blogs",
+                "github": "kilimchoi/engineering-blogs",
+                "type": "github"
+            },
+            {
+                "title": "Self Hosted",
+                "href": "https://github.com/Kickball/awesome-selfhosted",
+                "github": "Kickball/awesome-selfhosted",
+                "type": "github"
+            },
+            {
+                "title": "FOSS Production Apps",
+                "href": "https://github.com/jwaterfaucett/awesome-foss-apps",
+                "github": "jwaterfaucett/awesome-foss-apps",
+                "type": "github"
+            },
+            {
+                "title": "Gulp",
+                "href": "https://github.com/alferov/awesome-gulp",
+                "github": "alferov/awesome-gulp",
+                "type": "github"
+            },
+            {
+                "title": "AMA",
+                "href": "https://github.com/sindresorhus/amas",
+                "github": "sindresorhus/amas",
+                "type": "github"
+            },
+            {
+                "title": "Open Source Photography",
+                "href": "https://github.com/ibaaj/awesome-OpenSourcePhotography",
+                "github": "ibaaj/awesome-OpenSourcePhotography",
+                "type": "github"
+            },
+            {
+                "title": "OpenGL",
+                "href": "https://github.com/eug/awesome-opengl",
+                "github": "eug/awesome-opengl",
+                "type": "github"
+            },
+            {
+                "title": "GraphQL",
+                "href": "https://github.com/chentsulin/awesome-graphql",
+                "github": "chentsulin/awesome-graphql",
+                "type": "github"
+            },
+            {
+                "title": "Transit",
+                "href": "https://github.com/luqmaan/awesome-transit",
+                "github": "luqmaan/awesome-transit",
+                "type": "github"
+            },
+            {
+                "title": "Research Tools",
+                "href": "https://github.com/emptymalei/awesome-research",
+                "github": "emptymalei/awesome-research",
+                "type": "github"
+            },
+            {
+                "title": "Data Visualization",
+                "href": "https://github.com/fasouto/awesome-dataviz",
+                "github": "fasouto/awesome-dataviz",
+                "type": "github"
+            },
+            {
+                "title": "Social Media Share Links",
+                "href": "https://github.com/vinkla/share-links",
+                "github": "vinkla/share-links",
+                "type": "github"
+            },
+            {
+                "title": "Microservices",
+                "href": "https://github.com/mfornos/awesome-microservices",
+                "github": "mfornos/awesome-microservices",
+                "type": "github"
+            },
+            {
+                "title": "Unicode",
+                "href": "https://github.com/jagracey/Awesome-Unicode",
+                "github": "jagracey/Awesome-Unicode",
+                "type": "github"
+            },
+            {
+                "title": "Beginner-Friendly Projects",
+                "href": "https://github.com/MunGell/awesome-for-beginners",
+                "github": "MunGell/awesome-for-beginners",
+                "type": "github"
+            },
+            {
+                "title": "Katas",
+                "href": "https://github.com/gmontalvoriv/awesome-katas",
+                "github": "gmontalvoriv/awesome-katas",
+                "type": "github"
+            },
+            {
+                "title": "Tools for Activism",
+                "href": "https://github.com/drewrwilson/toolsforactivism",
+                "github": "drewrwilson/toolsforactivism",
+                "type": "github"
+            },
+            {
+                "title": "Citizen Science",
+                "href": "https://github.com/dylanrees/citizen-science",
+                "github": "dylanrees/citizen-science",
+                "type": "github"
+            },
+            {
+                "title": "TAP",
+                "href": "https://github.com/sindresorhus/awesome-tap",
+                "github": "sindresorhus/awesome-tap",
+                "type": "github"
+            },
+            {
+                "title": "MQTT",
+                "href": "https://github.com/hobbyquaker/awesome-mqtt",
+                "github": "hobbyquaker/awesome-mqtt",
+                "type": "github"
+            },
+            {
+                "title": "Hacking Spots",
+                "href": "https://github.com/diasdavid/awesome-hacking-spots",
+                "github": "diasdavid/awesome-hacking-spots",
+                "type": "github"
+            },
+            {
+                "title": "For Girls",
+                "href": "https://github.com/cristianoliveira/awesome4girls",
+                "github": "cristianoliveira/awesome4girls",
+                "type": "github"
+            },
+            {
+                "title": "Vorpal",
+                "href": "https://github.com/vorpaljs/awesome-vorpal",
+                "github": "vorpaljs/awesome-vorpal",
+                "type": "github"
+            },
+            {
+                "title": "Vulkan",
+                "href": "https://github.com/vinjn/awesome-vulkan",
+                "github": "vinjn/awesome-vulkan",
+                "type": "github"
+            },
+            {
+                "title": "LaTeX",
+                "href": "https://github.com/egeerardyn/awesome-LaTeX",
+                "github": "egeerardyn/awesome-LaTeX",
+                "type": "github"
+            },
+            {
+                "title": "Economics",
+                "href": "https://github.com/antontarasenko/awesome-economics",
+                "github": "antontarasenko/awesome-economics",
+                "type": "github"
+            },
+            {
+                "title": "Funny Markov Chains",
+                "href": "https://github.com/sublimino/awesome-funny-markov",
+                "github": "sublimino/awesome-funny-markov",
+                "type": "github"
+            },
+            {
+                "title": "Bioinformatics",
+                "href": "https://github.com/danielecook/Awesome-Bioinformatics",
+                "github": "danielecook/Awesome-Bioinformatics",
+                "type": "github"
+            },
+            {
+                "title": "Colorful",
+                "href": "https://github.com/Siddharth11/Colorful",
+                "github": "Siddharth11/Colorful",
+                "type": "github"
+            },
+            {
+                "title": "Steam",
+                "href": "https://github.com/scholtzm/awesome-steam",
+                "github": "scholtzm/awesome-steam",
+                "type": "github"
+            },
+            {
+                "title": "Bots",
+                "href": "https://github.com/hackerkid/bots",
+                "github": "hackerkid/bots",
+                "type": "github"
+            },
+            {
+                "title": "Site Reliability Engineering",
+                "href": "https://github.com/dastergon/awesome-sre",
+                "github": "dastergon/awesome-sre",
+                "type": "github"
+            },
+            {
+                "title": "Empathy in Engineering",
+                "href": "https://github.com/KimberlyMunoz/empathy-in-engineering",
+                "github": "KimberlyMunoz/empathy-in-engineering",
+                "type": "github"
+            },
+            {
+                "title": "DTrace",
+                "href": "https://github.com/xen0l/awesome-dtrace",
+                "github": "xen0l/awesome-dtrace",
+                "type": "github"
+            },
+            {
+                "title": "Userscripts",
+                "href": "https://github.com/brunocvcunha/awesome-userscripts",
+                "github": "brunocvcunha/awesome-userscripts",
+                "type": "github"
+            },
+            {
+                "title": "Pokémon",
+                "href": "https://github.com/tobiasbueschel/awesome-pokemon",
+                "github": "tobiasbueschel/awesome-pokemon",
+                "type": "github"
+            },
+            {
+                "title": "ChatOps",
+                "href": "https://github.com/exAspArk/awesome-chatops",
+                "github": "exAspArk/awesome-chatops",
+                "type": "github"
+            },
+            {
+                "title": "Falsehood",
+                "href": "https://github.com/kdeldycke/awesome-falsehood",
+                "github": "kdeldycke/awesome-falsehood",
+                "type": "github"
+            },
+            {
+                "title": "Domain-Driven Design",
+                "href": "https://github.com/heynickc/awesome-ddd",
+                "github": "heynickc/awesome-ddd",
+                "type": "github"
+            },
+            {
+                "title": "Quantified Self",
+                "href": "https://github.com/willempienaar/awesome-quantified-self",
+                "github": "willempienaar/awesome-quantified-self",
+                "type": "github"
+            },
+            {
+                "title": "SaltStack",
+                "href": "https://github.com/hbokh/awesome-saltstack",
+                "github": "hbokh/awesome-saltstack",
+                "type": "github"
+            },
+            {
+                "title": "Web Design",
+                "href": "https://github.com/nicolesaidy/awesome-web-design",
+                "github": "nicolesaidy/awesome-web-design",
+                "type": "github"
+            },
+            {
+                "title": "JMeter",
+                "href": "https://github.com/aliesbelik/awesome-jmeter",
+                "github": "aliesbelik/awesome-jmeter",
+                "type": "github"
+            },
+            {
+                "title": "Creative Coding",
+                "href": "https://github.com/terkelg/awesome-creative-coding",
+                "github": "terkelg/awesome-creative-coding",
+                "type": "github"
+            },
+            {
+                "title": "No-Login Web Apps",
+                "href": "https://github.com/aviaryan/awesome-no-login-web-apps",
+                "github": "aviaryan/awesome-no-login-web-apps",
+                "type": "github"
+            },
+            {
+                "title": "Testing",
+                "href": "https://github.com/TheJambo/awesome-testing",
+                "github": "TheJambo/awesome-testing",
+                "type": "github"
+            },
+            {
+                "title": "Free Software",
+                "href": "https://github.com/johnjago/awesome-free-software",
+                "github": "johnjago/awesome-free-software",
+                "type": "github"
+            },
+            {
+                "title": "Framer",
+                "href": "https://github.com/podo/awesome-framer",
+                "github": "podo/awesome-framer",
+                "type": "github"
+            },
+            {
+                "title": "Markdown",
+                "href": "https://github.com/BubuAnabelas/awesome-markdown",
+                "github": "BubuAnabelas/awesome-markdown",
+                "type": "github"
+            },
+            {
+                "title": "Dev Fun",
+                "href": "https://github.com/mislavcimpersak/awesome-dev-fun",
+                "github": "mislavcimpersak/awesome-dev-fun",
+                "type": "github"
+            },
+            {
+                "title": "Events in the Netherlands",
+                "href": "https://github.com/awkward/awesome-netherlands-events",
+                "github": "awkward/awesome-netherlands-events",
+                "type": "github"
+            }
+        ]
+    }
+]

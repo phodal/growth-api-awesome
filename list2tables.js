@@ -2,7 +2,7 @@ var parser = require('mdast');
 var fs = require('fs');
 var _ = require( 'lodash' )
 
-var raw = fs.readFileSync(__dirname + '/free-programming-books-zh_CN/README.md', 'utf8');
+var raw = fs.readFileSync(__dirname + '/awesome/README.md', 'utf8');
 // var raw = fs.readFileSync(__dirname + '/demo.md', 'utf8');
 
 var resultsInString = "";
@@ -20,28 +20,11 @@ function listToTable(list){
                 results.push({
                     title: title,
                     href: href,
+                    github: href.substring('https://github.com/'.length),
                     type: 'github'
                 });
 
                 console.log(title + ' | ' +  href + ' | github ');
-            } else if(/gitbook\.io/.test(baseChildren.href)) {
-                results.push({
-                    title: title,
-                    href: href,
-                    type: 'gitbook'
-                });
-
-                console.log(title + ' | ' +  href + ' | gitbook ');
-            } else if(/^((http[s]?|ftp):\/)?\/?([^:\/\s]+)((\/\w+)*\/)([\w\-\.]+[^#?\s]+)(.*)?(#[\w\-]+)?$/.test(baseChildren.href)) {
-                results.push({
-                    title: title,
-                    href: href,
-                    type: 'website'
-                });
-
-                if(title && href) {
-                    console.log(title + ' | ' +  href + ' | website ');
-                }
             }
         }
     });
@@ -70,9 +53,9 @@ function getData(string) {
                 });
             }
         }
-    })
+    });
     return results;
 }
 
 var result = getData(raw);
-fs.writeFileSync('api.json', JSON.stringify(result, null, 4));
+fs.writeFileSync('awesome-list.json', JSON.stringify(result, null, 4));
