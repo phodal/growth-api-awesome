@@ -1,0 +1,272 @@
+[
+    {
+        "heading": "Frameworks",
+        "childrens": [
+            {
+                "title": "Tone.js",
+                "href": "https://github.com/Tonejs/Tone.js",
+                "github": "Tonejs/Tone.js",
+                "type": "github"
+            },
+            {
+                "title": "Gibberish",
+                "href": "https://github.com/charlieroberts/Gibberish",
+                "github": "charlieroberts/Gibberish",
+                "type": "github"
+            },
+            {
+                "title": "lissajous",
+                "href": "https://github.com/kylestetz/lissajous",
+                "github": "kylestetz/lissajous",
+                "type": "github"
+            },
+            {
+                "title": "SSSynthesiser.js",
+                "href": "https://github.com/surikov/SSSynthesiser.js",
+                "github": "surikov/SSSynthesiser.js",
+                "type": "github"
+            },
+            {
+                "title": "WAAX",
+                "href": "https://github.com/hoch/WAAX/",
+                "github": "hoch/WAAX/",
+                "type": "github"
+            },
+            {
+                "title": "Omnitone",
+                "href": "https://github.com/GoogleChrome/omnitone",
+                "github": "GoogleChrome/omnitone",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "reverbGen",
+                "href": "https://github.com/adelespinasse/reverbGen",
+                "github": "adelespinasse/reverbGen",
+                "type": "github"
+            },
+            {
+                "title": "TuneJS",
+                "href": "https://github.com/abbernie/tune",
+                "github": "abbernie/tune",
+                "type": "github"
+            },
+            {
+                "title": "Beet.js",
+                "href": "https://github.com/zya/beet.js",
+                "github": "zya/beet.js",
+                "type": "github"
+            },
+            {
+                "title": "AudioKeys",
+                "href": "https://github.com/kylestetz/AudioKeys",
+                "github": "kylestetz/AudioKeys",
+                "type": "github"
+            },
+            {
+                "title": "smoothfade",
+                "href": "https://github.com/notthetup/smoothfade",
+                "github": "notthetup/smoothfade",
+                "type": "github"
+            },
+            {
+                "title": "web-audio-test-api",
+                "href": "https://github.com/mohayonao/web-audio-test-api",
+                "github": "mohayonao/web-audio-test-api",
+                "type": "github"
+            },
+            {
+                "title": "virtual-audio-graph",
+                "href": "https://github.com/benji6/virtual-audio-graph",
+                "github": "benji6/virtual-audio-graph",
+                "type": "github"
+            },
+            {
+                "title": "javascript-karplus-strong",
+                "href": "https://github.com/mrahtz/javascript-karplus-strong",
+                "github": "mrahtz/javascript-karplus-strong",
+                "type": "github"
+            },
+            {
+                "title": "XSound.js",
+                "href": "https://github.com/Korilakkuma/XSound",
+                "github": "Korilakkuma/XSound",
+                "type": "github"
+            },
+            {
+                "title": "osc-msg",
+                "href": "https://github.com/mohayonao/osc-msg",
+                "github": "mohayonao/osc-msg",
+                "type": "github"
+            },
+            {
+                "title": "Meyda",
+                "href": "https://github.com/meyda/meyda",
+                "github": "meyda/meyda",
+                "type": "github"
+            },
+            {
+                "title": "Pizzicato",
+                "href": "https://github.com/alemangui/pizzicato",
+                "github": "alemangui/pizzicato",
+                "type": "github"
+            },
+            {
+                "title": "Mooog",
+                "href": "https://github.com/mattlima/mooog",
+                "github": "mattlima/mooog",
+                "type": "github"
+            },
+            {
+                "title": "Wavesurfer.js",
+                "href": "https://github.com/katspaugh/wavesurfer.js",
+                "github": "katspaugh/wavesurfer.js",
+                "type": "github"
+            },
+            {
+                "title": "envelope-generator",
+                "href": "https://github.com/itsjoesullivan/envelope-generator",
+                "github": "itsjoesullivan/envelope-generator",
+                "type": "github"
+            },
+            {
+                "title": "Audiojs",
+                "href": "https://github.com/audiojs/audio",
+                "github": "audiojs/audio",
+                "type": "github"
+            },
+            {
+                "title": "audio contour",
+                "href": "https://github.com/danigb/audio-contour",
+                "github": "danigb/audio-contour",
+                "type": "github"
+            },
+            {
+                "title": "Tuna",
+                "href": "https://github.com/Theodeus/tuna",
+                "github": "Theodeus/tuna",
+                "type": "github"
+            },
+            {
+                "title": "web-audio-recorder-js",
+                "href": "https://github.com/higuma/web-audio-recorder-js",
+                "github": "higuma/web-audio-recorder-js",
+                "type": "github"
+            },
+            {
+                "title": "audiolet",
+                "href": "https://github.com/oampo/Audiolet",
+                "github": "oampo/Audiolet",
+                "type": "github"
+            },
+            {
+                "title": "playnote",
+                "href": "https://github.com/createbits/playnote",
+                "github": "createbits/playnote",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "resampler",
+                "href": "https://github.com/notthetup/resampler",
+                "github": "notthetup/resampler",
+                "type": "github"
+            },
+            {
+                "title": "bpm-detective",
+                "href": "https://github.com/tornqvist/bpm-detective",
+                "github": "tornqvist/bpm-detective",
+                "type": "github"
+            },
+            {
+                "title": "web-audio-utils",
+                "href": "https://github.com/mohayonao/web-audio-utils",
+                "github": "mohayonao/web-audio-utils",
+                "type": "github"
+            },
+            {
+                "title": "Audion",
+                "href": "https://github.com/google/audion",
+                "github": "google/audion",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MIDI",
+        "childrens": [
+            {
+                "title": "midimessage",
+                "href": "https://github.com/notthetup/midimessage",
+                "github": "notthetup/midimessage",
+                "type": "github"
+            },
+            {
+                "title": "midi-ports",
+                "href": "https://github.com/AndrejHronco/midi-ports",
+                "github": "AndrejHronco/midi-ports",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Apps",
+        "childrens": [
+            {
+                "title": "LoopDrop App",
+                "href": "https://github.com/mmckegg/loop-drop-app",
+                "github": "mmckegg/loop-drop-app",
+                "type": "github"
+            },
+            {
+                "title": "Molgav",
+                "href": "https://github.com/surikov/molgav",
+                "github": "surikov/molgav",
+                "type": "github"
+            },
+            {
+                "title": "Code Player",
+                "href": "https://github.com/jcppman/code-player",
+                "github": "jcppman/code-player",
+                "type": "github"
+            },
+            {
+                "title": "mod-synth.io",
+                "href": "https://github.com/LowwwLtd/mod-synth.io",
+                "github": "LowwwLtd/mod-synth.io",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "WebAudio School",
+                "href": "https://github.com/mmckegg/web-audio-school",
+                "github": "mmckegg/web-audio-school",
+                "type": "github"
+            },
+            {
+                "title": "Web Audio Basics",
+                "href": "https://github.com/kylestetz/Web-Audio-Basics",
+                "github": "kylestetz/Web-Audio-Basics",
+                "type": "github"
+            },
+            {
+                "title": "Percussion Synthesis Using Web Audio",
+                "href": "https://github.com/irritant/WAC-2016-Tutorial",
+                "github": "irritant/WAC-2016-Tutorial",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2970 @@
+[
+    {
+        "heading": "Generic ZSH",
+        "childrens": [
+            {
+                "title": "ZSH Pony",
+                "href": "https://github.com/mika/zsh-pony",
+                "github": "mika/zsh-pony",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Zgen",
+        "childrens": [
+            {
+                "title": "zsh-quickstart-kit",
+                "href": "https://github.com/unixorn/zsh-quickstart-kit",
+                "github": "unixorn/zsh-quickstart-kit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Plugins",
+        "childrens": [
+            {
+                "title": "accurev-zsh",
+                "href": "https://github.com/dalefukami/accurev-zsh",
+                "github": "dalefukami/accurev-zsh",
+                "type": "github"
+            },
+            {
+                "title": "alias-tips",
+                "href": "https://github.com/djui/alias-tips",
+                "github": "djui/alias-tips",
+                "type": "github"
+            },
+            {
+                "title": "allergen",
+                "href": "https://github.com/stanislas/allergen",
+                "github": "stanislas/allergen",
+                "type": "github"
+            },
+            {
+                "title": "almostontop",
+                "href": "https://github.com/Valiev/almostontop",
+                "github": "Valiev/almostontop",
+                "type": "github"
+            },
+            {
+                "title": "ansible",
+                "href": "https://github.com/sparsick/ansible-zsh",
+                "github": "sparsick/ansible-zsh",
+                "type": "github"
+            },
+            {
+                "title": "ansiweather",
+                "href": "https://github.com/fcambus/ansiweather",
+                "github": "fcambus/ansiweather",
+                "type": "github"
+            },
+            {
+                "title": "antigen-git-rebase",
+                "href": "https://github.com/smallhadroncollider/antigen-git-rebase",
+                "github": "smallhadroncollider/antigen-git-rebase",
+                "type": "github"
+            },
+            {
+                "title": "antigen-git-store",
+                "href": "https://github.com/smallhadroncollider/antigen-git-store",
+                "github": "smallhadroncollider/antigen-git-store",
+                "type": "github"
+            },
+            {
+                "title": "anyframe",
+                "href": "https://github.com/mollifier/anyframe",
+                "github": "mollifier/anyframe",
+                "type": "github"
+            },
+            {
+                "title": "apache2.plugin.zsh",
+                "href": "https://github.com/voronkovich/apache2.plugin.zsh",
+                "github": "voronkovich/apache2.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "asciidoctor",
+                "href": "https://github.com/sparsick/asciidoctor-zsh",
+                "github": "sparsick/asciidoctor-zsh",
+                "type": "github"
+            },
+            {
+                "title": "atom_plugin.zsh",
+                "href": "https://github.com/kingsj/atom_plugin.zsh",
+                "github": "kingsj/atom_plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "auto-fu.zsh",
+                "href": "https://github.com/hchbaw/auto-fu.zsh",
+                "github": "hchbaw/auto-fu.zsh",
+                "type": "github"
+            },
+            {
+                "title": "auto-ls",
+                "href": "https://github.com/desyncr/auto-ls",
+                "github": "desyncr/auto-ls",
+                "type": "github"
+            },
+            {
+                "title": "autoenv",
+                "href": "https://github.com/horosgrisa/autoenv",
+                "github": "horosgrisa/autoenv",
+                "type": "github"
+            },
+            {
+                "title": "autojump",
+                "href": "https://github.com/wting/autojump",
+                "github": "wting/autojump",
+                "type": "github"
+            },
+            {
+                "title": "autoupdate-antigen.zshplugin",
+                "href": "https://github.com/unixorn/autoupdate-antigen.zshplugin",
+                "github": "unixorn/autoupdate-antigen.zshplugin",
+                "type": "github"
+            },
+            {
+                "title": "aws-upload-zsh",
+                "href": "https://github.com/borracciaBlu/aws-upload-zsh",
+                "github": "borracciaBlu/aws-upload-zsh",
+                "type": "github"
+            },
+            {
+                "title": "bitbucket-git-helpers",
+                "href": "https://github.com/unixorn/bitbucket-git-helpers.plugin.zsh",
+                "github": "unixorn/bitbucket-git-helpers.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "blackbox",
+                "href": "https://github.com/StackExchange/blackbox",
+                "github": "StackExchange/blackbox",
+                "type": "github"
+            },
+            {
+                "title": "branch-manager",
+                "href": "https://github.com/elstgav/branch-manager",
+                "github": "elstgav/branch-manager",
+                "type": "github"
+            },
+            {
+                "title": "browse-commit",
+                "href": "https://github.com/adolfoabegg/browse-commit",
+                "github": "adolfoabegg/browse-commit",
+                "type": "github"
+            },
+            {
+                "title": "calc.plugin.zsh",
+                "href": "https://github.com/arzzen/calc.plugin.zsh",
+                "github": "arzzen/calc.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "caniuse.plugin.zsh",
+                "href": "https://github.com/walesmd/caniuse.plugin.zsh",
+                "github": "walesmd/caniuse.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "cd-gitroot",
+                "href": "https://github.com/mollifier/cd-gitroot",
+                "github": "mollifier/cd-gitroot",
+                "type": "github"
+            },
+            {
+                "title": "cdbk",
+                "href": "https://github.com/MikeDacre/cdbk",
+                "github": "MikeDacre/cdbk",
+                "type": "github"
+            },
+            {
+                "title": "cdr",
+                "href": "https://github.com/willghatch/zsh-cdr",
+                "github": "willghatch/zsh-cdr",
+                "type": "github"
+            },
+            {
+                "title": "colored-man-pages-mod",
+                "href": "https://github.com/zuxfoucault/colored-man-pages_mod",
+                "github": "zuxfoucault/colored-man-pages_mod",
+                "type": "github"
+            },
+            {
+                "title": "command-not-found",
+                "href": "https://github.com/Tarrasch/zsh-command-not-found",
+                "github": "Tarrasch/zsh-command-not-found",
+                "type": "github"
+            },
+            {
+                "title": "copyzshell",
+                "href": "https://github.com/rutchkiwi/copyzshell",
+                "github": "rutchkiwi/copyzshell",
+                "type": "github"
+            },
+            {
+                "title": "crash",
+                "href": "https://github.com/molovo/crash",
+                "github": "molovo/crash",
+                "type": "github"
+            },
+            {
+                "title": "crayon-syntax-zsh",
+                "href": "https://github.com/Stibbons/crayon-syntax-zsh",
+                "github": "Stibbons/crayon-syntax-zsh",
+                "type": "github"
+            },
+            {
+                "title": "crystal",
+                "href": "https://github.com/veelenga/crystal-zsh",
+                "github": "veelenga/crystal-zsh",
+                "type": "github"
+            },
+            {
+                "title": "czhttpd",
+                "href": "https://github.com/jsks/czhttpd",
+                "github": "jsks/czhttpd",
+                "type": "github"
+            },
+            {
+                "title": "deer",
+                "href": "https://github.com/Vifon/deer",
+                "github": "Vifon/deer",
+                "type": "github"
+            },
+            {
+                "title": "depot-tools",
+                "href": "https://github.com/jgrowl/depot_tools",
+                "github": "jgrowl/depot_tools",
+                "type": "github"
+            },
+            {
+                "title": "docker-aliases",
+                "href": "https://github.com/webyneter/docker-aliases",
+                "github": "webyneter/docker-aliases",
+                "type": "github"
+            },
+            {
+                "title": "docker-compose",
+                "href": "https://github.com/sroze/docker-compose-zsh-plugin",
+                "github": "sroze/docker-compose-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "docker-fun",
+                "href": "https://github.com/johnlabarge/docker_fun",
+                "github": "johnlabarge/docker_fun",
+                "type": "github"
+            },
+            {
+                "title": "docker-helpers",
+                "href": "https://github.com/unixorn/docker-helpers.zshplugin",
+                "github": "unixorn/docker-helpers.zshplugin",
+                "type": "github"
+            },
+            {
+                "title": "dropbox",
+                "href": "https://github.com/horosgrisa/zsh-dropbox",
+                "github": "horosgrisa/zsh-dropbox",
+                "type": "github"
+            },
+            {
+                "title": "elixir-oh-my-zsh",
+                "href": "https://github.com/gusaiani/elixir-oh-my-zsh",
+                "github": "gusaiani/elixir-oh-my-zsh",
+                "type": "github"
+            },
+            {
+                "title": "emoji-cli",
+                "href": "https://github.com/b4b4r07/emoji-cli",
+                "github": "b4b4r07/emoji-cli",
+                "type": "github"
+            },
+            {
+                "title": "enhancd",
+                "href": "https://github.com/b4b4r07/enhancd",
+                "github": "b4b4r07/enhancd",
+                "type": "github"
+            },
+            {
+                "title": "exercism",
+                "href": "https://github.com/fabiokiatkowski/exercism.plugin.zsh",
+                "github": "fabiokiatkowski/exercism.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "expand-ealias",
+                "href": "https://github.com/zigius/expand-ealias.plugin.zsh",
+                "github": "zigius/expand-ealias.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "fast-syntax-highlighting",
+                "href": "https://github.com/zdharma/fast-syntax-highlighting",
+                "github": "zdharma/fast-syntax-highlighting",
+                "type": "github"
+            },
+            {
+                "title": "fixnumpad-osx.plugin.zsh",
+                "href": "https://github.com/zsmizzle/fixnumpad-osx.plugin.zsh/blob/master/fixnumpad-osx.plugin.zsh",
+                "github": "zsmizzle/fixnumpad-osx.plugin.zsh/blob/master/fixnumpad-osx.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "fzf-marks",
+                "href": "https://github.com/uvaes/fzf-marks",
+                "github": "uvaes/fzf-marks",
+                "type": "github"
+            },
+            {
+                "title": "fzf-widgets",
+                "href": "https://github.com/ytet5uy4/fzf-widgets",
+                "github": "ytet5uy4/fzf-widgets",
+                "type": "github"
+            },
+            {
+                "title": "fzf-z",
+                "href": "https://github.com/andrewferrier/fzf-z",
+                "github": "andrewferrier/fzf-z",
+                "type": "github"
+            },
+            {
+                "title": "get-jquery",
+                "href": "https://github.com/voronkovich/get-jquery.plugin.zsh",
+                "github": "voronkovich/get-jquery.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "ghost-zeus",
+                "href": "https://github.com/fontno/ghost_zeus",
+                "github": "fontno/ghost_zeus",
+                "type": "github"
+            },
+            {
+                "title": "git-add-remote",
+                "href": "https://github.com/caarlos0/git-add-remote",
+                "github": "caarlos0/git-add-remote",
+                "type": "github"
+            },
+            {
+                "title": "git-aliases.zsh",
+                "href": "https://github.com/peterhurford/git-aliases.zsh",
+                "github": "peterhurford/git-aliases.zsh",
+                "type": "github"
+            },
+            {
+                "title": "git-extra-commands",
+                "href": "https://github.com/unixorn/git-extra-commands",
+                "github": "unixorn/git-extra-commands",
+                "type": "github"
+            },
+            {
+                "title": "git-it-on.zsh",
+                "href": "https://github.com/peterhurford/git-it-on.zsh",
+                "github": "peterhurford/git-it-on.zsh",
+                "type": "github"
+            },
+            {
+                "title": "git-prune",
+                "href": "https://github.com/Seinh/git-prune",
+                "github": "Seinh/git-prune",
+                "type": "github"
+            },
+            {
+                "title": "git-secret",
+                "href": "https://github.com/sobolevn/git-secret",
+                "github": "sobolevn/git-secret",
+                "type": "github"
+            },
+            {
+                "title": "git-prompt-useremail",
+                "href": "https://github.com/mroth/git-prompt-useremail",
+                "github": "mroth/git-prompt-useremail",
+                "type": "github"
+            },
+            {
+                "title": "gitfast",
+                "href": "https://github.com/tevren/gitfast-zsh-plugin",
+                "github": "tevren/gitfast-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "gitignore.plugin.zsh",
+                "href": "https://github.com/voronkovich/gitignore.plugin.zsh",
+                "github": "voronkovich/gitignore.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "gitio-zsh",
+                "href": "https://github.com/denysdovhan/gitio-zsh",
+                "github": "denysdovhan/gitio-zsh",
+                "type": "github"
+            },
+            {
+                "title": "gitsync",
+                "href": "https://github.com/washtubs/gitsync",
+                "github": "washtubs/gitsync",
+                "type": "github"
+            },
+            {
+                "title": "goenv",
+                "href": "https://github.com/bbenne10/goenv",
+                "github": "bbenne10/goenv",
+                "type": "github"
+            },
+            {
+                "title": "going_places",
+                "href": "https://github.com/or17191/going_places",
+                "github": "or17191/going_places",
+                "type": "github"
+            },
+            {
+                "title": "gpg-agent",
+                "href": "https://github.com/axtl/gpg-agent.zsh",
+                "github": "axtl/gpg-agent.zsh",
+                "type": "github"
+            },
+            {
+                "title": "grep2awk",
+                "href": "https://github.com/joepvd/grep2awk",
+                "github": "joepvd/grep2awk",
+                "type": "github"
+            },
+            {
+                "title": "gtm-terminal-plugin",
+                "href": "https://github.com/git-time-metric/gtm-terminal-plugin",
+                "github": "git-time-metric/gtm-terminal-plugin",
+                "type": "github"
+            },
+            {
+                "title": "hipchat",
+                "href": "https://github.com/robertzk/hipchat.zsh",
+                "github": "robertzk/hipchat.zsh",
+                "type": "github"
+            },
+            {
+                "title": "history-search-multi-word",
+                "href": "https://github.com/zdharma/history-search-multi-word",
+                "github": "zdharma/history-search-multi-word",
+                "type": "github"
+            },
+            {
+                "title": "history-sync",
+                "href": "https://github.com/wulfgarpro/history-sync",
+                "github": "wulfgarpro/history-sync",
+                "type": "github"
+            },
+            {
+                "title": "hooks",
+                "href": "https://github.com/willghatch/zsh-hooks",
+                "github": "willghatch/zsh-hooks",
+                "type": "github"
+            },
+            {
+                "title": "host-switch",
+                "href": "https://github.com/LockonS/host-switch",
+                "github": "LockonS/host-switch",
+                "type": "github"
+            },
+            {
+                "title": "hub-ci-zsh-plugin",
+                "href": "https://github.com/raymondjcox/hub-ci-zsh-plugin",
+                "github": "raymondjcox/hub-ci-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "iosctl",
+                "href": "https://github.com/obayer/iosctl",
+                "github": "obayer/iosctl",
+                "type": "github"
+            },
+            {
+                "title": "iterm-tab-colors",
+                "href": "https://github.com/tysonwolker/iterm-tab-colors",
+                "github": "tysonwolker/iterm-tab-colors",
+                "type": "github"
+            },
+            {
+                "title": "java-zsh-plugin",
+                "href": "https://github.com/Xetius/java-zsh-plugin",
+                "github": "Xetius/java-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "jenkins-zsh",
+                "href": "https://github.com/tomplex/jenkins-zsh",
+                "github": "tomplex/jenkins-zsh",
+                "type": "github"
+            },
+            {
+                "title": "jhipster-oh-my-zsh-plugin",
+                "href": "https://github.com/jhipster/jhipster-oh-my-zsh-plugin",
+                "github": "jhipster/jhipster-oh-my-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "jvm",
+                "href": "https://github.com/mgryszko/jvm",
+                "github": "mgryszko/jvm",
+                "type": "github"
+            },
+            {
+                "title": "k",
+                "href": "https://github.com/rimraf/k",
+                "github": "rimraf/k",
+                "type": "github"
+            },
+            {
+                "title": "kitsunebook.plugin.zsh",
+                "href": "https://github.com/d12frosted/kitsunebook.plugin.zsh",
+                "github": "d12frosted/kitsunebook.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "laravel",
+                "href": "https://github.com/crazybooot/laravel-zsh-plugin",
+                "github": "crazybooot/laravel-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "lesaint-mvn",
+                "href": "https://github.com/lesaint/lesaint-mvn",
+                "github": "lesaint/lesaint-mvn",
+                "type": "github"
+            },
+            {
+                "title": "linuxbrew",
+                "href": "https://github.com/zpm-zsh/linuxbrew",
+                "github": "zpm-zsh/linuxbrew",
+                "type": "github"
+            },
+            {
+                "title": "listbox",
+                "href": "https://github.com/gko/listbox",
+                "github": "gko/listbox",
+                "type": "github"
+            },
+            {
+                "title": "locate-sublime-projects-cli",
+                "href": "https://github.com/david-treblig/locate-sublime-projects-cli",
+                "github": "david-treblig/locate-sublime-projects-cli",
+                "type": "github"
+            },
+            {
+                "title": "lumberjack",
+                "href": "https://github.com/molovo/lumberjack",
+                "github": "molovo/lumberjack",
+                "type": "github"
+            },
+            {
+                "title": "mac-packaging",
+                "href": "https://github.com/Temikus/mac-packaging",
+                "github": "Temikus/mac-packaging",
+                "type": "github"
+            },
+            {
+                "title": "macos-zsh-plugin",
+                "href": "https://github.com/joow/macos-zsh-plugin",
+                "github": "joow/macos-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "mage2docker",
+                "href": "https://github.com/lukaszolszewski/mage2docker",
+                "github": "lukaszolszewski/mage2docker",
+                "type": "github"
+            },
+            {
+                "title": "markjump",
+                "href": "https://github.com/zakariaGatter/MarkGate",
+                "github": "zakariaGatter/MarkGate",
+                "type": "github"
+            },
+            {
+                "title": "mfunc",
+                "href": "https://github.com/hlohm/mfunc",
+                "github": "hlohm/mfunc",
+                "type": "github"
+            },
+            {
+                "title": "monorepo-plugin",
+                "href": "https://github.com/zilongqiu/monorepo-zsh-plugin",
+                "github": "zilongqiu/monorepo-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "mylocation",
+                "href": "https://github.com/KasperChristensen/mylocation",
+                "github": "KasperChristensen/mylocation",
+                "type": "github"
+            },
+            {
+                "title": "mysql-colorize",
+                "href": "https://github.com/horosgrisa/mysql-colorize",
+                "github": "horosgrisa/mysql-colorize",
+                "type": "github"
+            },
+            {
+                "title": "mysql.plugin.zsh",
+                "href": "https://github.com/voronkovich/mysql.plugin.zsh",
+                "github": "voronkovich/mysql.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "nice-exit-code",
+                "href": "https://github.com/bric3/nice-exit-code",
+                "github": "bric3/nice-exit-code",
+                "type": "github"
+            },
+            {
+                "title": "node.plugin.zsh",
+                "href": "https://github.com/srijanshetty/node.plugin.zsh",
+                "github": "srijanshetty/node.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "nodenv.plugin.zsh",
+                "href": "https://github.com/jsahlen/nodenv.plugin.zsh",
+                "github": "jsahlen/nodenv.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "nohup",
+                "href": "https://github.com/micrenda/zsh-nohup",
+                "github": "micrenda/zsh-nohup",
+                "type": "github"
+            },
+            {
+                "title": "noreallyjustfuckingstopalready",
+                "href": "https://github.com/eventi/noreallyjustfuckingstopalready",
+                "github": "eventi/noreallyjustfuckingstopalready",
+                "type": "github"
+            },
+            {
+                "title": "nvm-auto-use",
+                "href": "https://github.com/tomsquest/nvm-auto-use.zsh",
+                "github": "tomsquest/nvm-auto-use.zsh",
+                "type": "github"
+            },
+            {
+                "title": "nvm-auto",
+                "href": "https://github.com/dijitalmunky/nvm-auto",
+                "github": "dijitalmunky/nvm-auto",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-dogesh",
+                "href": "https://github.com/keithhamilton/oh-my-dogesh",
+                "github": "keithhamilton/oh-my-dogesh",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-dirstack",
+                "href": "https://github.com/gepoch/oh-my-zsh-dirstack",
+                "github": "gepoch/oh-my-zsh-dirstack",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-flow-plugin",
+                "href": "https://github.com/sandstorm/oh-my-zsh-flow-plugin",
+                "github": "sandstorm/oh-my-zsh-flow-plugin",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-jira-plus",
+                "href": "https://github.com/gerges/oh-my-zsh-jira-plus",
+                "github": "gerges/oh-my-zsh-jira-plus",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-opera-git-plugin",
+                "href": "https://github.com/aswitalski/oh-my-zsh-opera-git-plugin",
+                "github": "aswitalski/oh-my-zsh-opera-git-plugin",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-reminder",
+                "href": "https://github.com/AlexisBRENON/oh-my-zsh-reminder",
+                "github": "AlexisBRENON/oh-my-zsh-reminder",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-virtualenv-prompt",
+                "href": "https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt",
+                "github": "tonyseek/oh-my-zsh-virtualenv-prompt",
+                "type": "github"
+            },
+            {
+                "title": "open-create-projects",
+                "href": "https://github.com/marcossegovia/open-create-projects",
+                "github": "marcossegovia/open-create-projects",
+                "type": "github"
+            },
+            {
+                "title": "opp.zsh",
+                "href": "https://github.com/hchbaw/opp.zsh",
+                "github": "hchbaw/opp.zsh",
+                "type": "github"
+            },
+            {
+                "title": "osx-dev-zsh-plugin",
+                "href": "https://github.com/marshallmick007/osx-dev-zsh-plugin",
+                "github": "marshallmick007/osx-dev-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "pantheon-terminal-notify-zsh-plugin",
+                "href": "https://github.com/deyvisonrocha/pantheon-terminal-notify-zsh-plugin",
+                "github": "deyvisonrocha/pantheon-terminal-notify-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "pctl",
+                "href": "https://github.com/ytet5uy4/pctl",
+                "github": "ytet5uy4/pctl",
+                "type": "github"
+            },
+            {
+                "title": "phpcs.plugin.zsh",
+                "href": "https://github.com/voronkovich/phpcs.plugin.zsh",
+                "github": "voronkovich/phpcs.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "phpunit.plugin.zsh",
+                "href": "https://github.com/voronkovich/phpunit.plugin.zsh",
+                "github": "voronkovich/phpunit.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "pip-app",
+                "href": "https://github.com/sharat87/pip-app",
+                "github": "sharat87/pip-app",
+                "type": "github"
+            },
+            {
+                "title": "plugin",
+                "href": "https://github.com/hellodarren/plugin",
+                "github": "hellodarren/plugin",
+                "type": "github"
+            },
+            {
+                "title": "pretty-time-zsh",
+                "href": "https://github.com/sindresorhus/pretty-time-zsh",
+                "github": "sindresorhus/pretty-time-zsh",
+                "type": "github"
+            },
+            {
+                "title": "project",
+                "href": "https://github.com/gko/project",
+                "github": "gko/project",
+                "type": "github"
+            },
+            {
+                "title": "revolver",
+                "href": "https://github.com/molovo/revolver",
+                "github": "molovo/revolver",
+                "type": "github"
+            },
+            {
+                "title": "ripz",
+                "href": "https://github.com/jedahan/ripz",
+                "github": "jedahan/ripz",
+                "type": "github"
+            },
+            {
+                "title": "robo-zsh-plugin",
+                "href": "https://github.com/shengyou/robo-zsh-plugin",
+                "github": "shengyou/robo-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "rockz",
+                "href": "https://github.com/aperezdc/rockz",
+                "github": "aperezdc/rockz",
+                "type": "github"
+            },
+            {
+                "title": "rvm-zsh",
+                "href": "https://github.com/johnhamelink/rvm-zsh",
+                "github": "johnhamelink/rvm-zsh",
+                "type": "github"
+            },
+            {
+                "title": "safe-paste",
+                "href": "https://github.com/oz/safe-paste",
+                "github": "oz/safe-paste",
+                "type": "github"
+            },
+            {
+                "title": "saneopt",
+                "href": "https://github.com/willghatch/zsh-saneopt",
+                "github": "willghatch/zsh-saneopt",
+                "type": "github"
+            },
+            {
+                "title": "schroot",
+                "href": "https://github.com/fshp/schroot.plugin.zsh",
+                "github": "fshp/schroot.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "send.zsh",
+                "href": "https://github.com/robertzk/send.zsh",
+                "github": "robertzk/send.zsh",
+                "type": "github"
+            },
+            {
+                "title": "sensei-git",
+                "href": "https://github.com/aswitalski/oh-my-zsh-sensei-git-plugin",
+                "github": "aswitalski/oh-my-zsh-sensei-git-plugin",
+                "type": "github"
+            },
+            {
+                "title": "setenv",
+                "href": "https://github.com/kalpakrg/setenv",
+                "github": "kalpakrg/setenv",
+                "type": "github"
+            },
+            {
+                "title": "smart-cd",
+                "href": "https://github.com/dbkaplun/smart-cd",
+                "github": "dbkaplun/smart-cd",
+                "type": "github"
+            },
+            {
+                "title": "snippets",
+                "href": "https://github.com/willghatch/zsh-snippets",
+                "github": "willghatch/zsh-snippets",
+                "type": "github"
+            },
+            {
+                "title": "solarized-man",
+                "href": "https://github.com/zlsun/solarized-man",
+                "github": "zlsun/solarized-man",
+                "type": "github"
+            },
+            {
+                "title": "ssh-connect",
+                "href": "https://github.com/gko/ssh-connect",
+                "github": "gko/ssh-connect",
+                "type": "github"
+            },
+            {
+                "title": "startup-timer",
+                "href": "https://github.com/paulmelnikow/zsh-startup-timer",
+                "github": "paulmelnikow/zsh-startup-timer",
+                "type": "github"
+            },
+            {
+                "title": "statify",
+                "href": "https://github.com/vladmrnv/statify",
+                "github": "vladmrnv/statify",
+                "type": "github"
+            },
+            {
+                "title": "sterror.plugin.zsh",
+                "href": "https://github.com/aphelionz/strerror.plugin.zsh",
+                "github": "aphelionz/strerror.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "symfony.plugin.zsh",
+                "href": "https://github.com/voronkovich/symfony.plugin.zsh",
+                "github": "voronkovich/symfony.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "sysadmin-util",
+                "href": "https://github.com/skx/sysadmin-util",
+                "github": "skx/sysadmin-util",
+                "type": "github"
+            },
+            {
+                "title": "terminal-workload-report",
+                "href": "https://github.com/LockonS/terminal-workload-report",
+                "github": "LockonS/terminal-workload-report",
+                "type": "github"
+            },
+            {
+                "title": "tipz",
+                "href": "https://github.com/molovo/tipz",
+                "github": "molovo/tipz",
+                "type": "github"
+            },
+            {
+                "title": "tsm",
+                "href": "https://github.com/RobertAudi/tsm",
+                "github": "RobertAudi/tsm",
+                "type": "github"
+            },
+            {
+                "title": "tumult",
+                "href": "https://github.com/unixorn/tumult.plugin.zsh",
+                "github": "unixorn/tumult.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "up.zsh",
+                "href": "https://github.com/peterhurford/up.zsh",
+                "github": "peterhurford/up.zsh",
+                "type": "github"
+            },
+            {
+                "title": "vanilli.sh",
+                "href": "https://github.com/yous/vanilli.sh",
+                "github": "yous/vanilli.sh",
+                "type": "github"
+            },
+            {
+                "title": "vimman",
+                "href": "https://github.com/yonchu/vimman",
+                "github": "yonchu/vimman",
+                "type": "github"
+            },
+            {
+                "title": "virtualenv-mod",
+                "href": "https://github.com/mattcl/virtualenv-mod",
+                "github": "mattcl/virtualenv-mod",
+                "type": "github"
+            },
+            {
+                "title": "virtualz",
+                "href": "https://github.com/aperezdc/virtualz",
+                "github": "aperezdc/virtualz",
+                "type": "github"
+            },
+            {
+                "title": "vox",
+                "href": "https://github.com/andrewbonnington/vox.plugin.zsh",
+                "github": "andrewbonnington/vox.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "vsc",
+                "href": "https://github.com/davidtong/vsc.plugin.zsh",
+                "github": "davidtong/vsc.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "vscode",
+                "href": "https://github.com/qianxinfeng/vscode",
+                "github": "qianxinfeng/vscode",
+                "type": "github"
+            },
+            {
+                "title": "wakatime",
+                "href": "https://github.com/wbinglee/zsh-wakatime",
+                "github": "wbinglee/zsh-wakatime",
+                "type": "github"
+            },
+            {
+                "title": "warhol",
+                "href": "https://github.com/unixorn/warhol.plugin.zsh",
+                "github": "unixorn/warhol.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "watson.zsh",
+                "href": "https://github.com/bcho/Watson.zsh",
+                "github": "bcho/Watson.zsh",
+                "type": "github"
+            },
+            {
+                "title": "wd",
+                "href": "https://github.com/mfaerevaag/wd",
+                "github": "mfaerevaag/wd",
+                "type": "github"
+            },
+            {
+                "title": "yeoman-zsh-plugin",
+                "href": "https://github.com/edouard-lopez/yeoman-zsh-plugin",
+                "github": "edouard-lopez/yeoman-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "zaw",
+                "href": "https://github.com/zsh-users/zaw",
+                "github": "zsh-users/zaw",
+                "type": "github"
+            },
+            {
+                "title": "zce",
+                "href": "https://github.com/hchbaw/zce.zsh",
+                "github": "hchbaw/zce.zsh",
+                "type": "github"
+            },
+            {
+                "title": "zconvey",
+                "href": "https://github.com/zdharma/zconvey",
+                "github": "zdharma/zconvey",
+                "type": "github"
+            },
+            {
+                "title": "zero",
+                "href": "https://github.com/arlimus/zero.zsh",
+                "github": "arlimus/zero.zsh",
+                "type": "github"
+            },
+            {
+                "title": "zinfo_line",
+                "href": "https://github.com/kmhjs/zinfo_line",
+                "github": "kmhjs/zinfo_line",
+                "type": "github"
+            },
+            {
+                "title": "zsh-256color",
+                "href": "https://github.com/chrissicool/zsh-256color",
+                "github": "chrissicool/zsh-256color",
+                "type": "github"
+            },
+            {
+                "title": "zsh-abbrev-alias",
+                "href": "https://github.com/momo-lab/zsh-abbrev-alias",
+                "github": "momo-lab/zsh-abbrev-alias",
+                "type": "github"
+            },
+            {
+                "title": "zsh-async",
+                "href": "https://github.com/mafredri/zsh-async",
+                "github": "mafredri/zsh-async",
+                "type": "github"
+            },
+            {
+                "title": "zsh-autoenv",
+                "href": "https://github.com/Tarrasch/zsh-autoenv",
+                "github": "Tarrasch/zsh-autoenv",
+                "type": "github"
+            },
+            {
+                "title": "zsh-autopair",
+                "href": "https://github.com/hlissner/zsh-autopair",
+                "github": "hlissner/zsh-autopair",
+                "type": "github"
+            },
+            {
+                "title": "zsh-autosuggestions",
+                "href": "https://github.com/zsh-users/zsh-autosuggestions",
+                "github": "zsh-users/zsh-autosuggestions",
+                "type": "github"
+            },
+            {
+                "title": "zsh-autoswitch-virtualenv",
+                "href": "https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv",
+                "github": "MichaelAquilina/zsh-autoswitch-virtualenv",
+                "type": "github"
+            },
+            {
+                "title": "zsh-basex",
+                "href": "https://github.com/dirkk/zsh-basex",
+                "github": "dirkk/zsh-basex",
+                "type": "github"
+            },
+            {
+                "title": "zsh-bash",
+                "href": "https://github.com/chrissicool/zsh-bash",
+                "github": "chrissicool/zsh-bash",
+                "type": "github"
+            },
+            {
+                "title": "zsh-bd",
+                "href": "https://github.com/Tarrasch/zsh-bd",
+                "github": "Tarrasch/zsh-bd",
+                "type": "github"
+            },
+            {
+                "title": "zsh-carthage",
+                "href": "https://github.com/cfdrake/zsh-carthage",
+                "github": "cfdrake/zsh-carthage",
+                "type": "github"
+            },
+            {
+                "title": "zsh-cmd-architect",
+                "href": "https://github.com/psprint/zsh-cmd-architect",
+                "github": "psprint/zsh-cmd-architect",
+                "type": "github"
+            },
+            {
+                "title": "zsh-colors",
+                "href": "https://github.com/Tarrasch/zsh-colors",
+                "github": "Tarrasch/zsh-colors",
+                "type": "github"
+            },
+            {
+                "title": "zsh-command-time",
+                "href": "https://github.com/popstas/zsh-command-time",
+                "github": "popstas/zsh-command-time",
+                "type": "github"
+            },
+            {
+                "title": "zsh-completion-generator",
+                "href": "https://github.com/RobSis/zsh-completion-generator",
+                "github": "RobSis/zsh-completion-generator",
+                "type": "github"
+            },
+            {
+                "title": "zsh-dircolors-solarized",
+                "href": "https://github.com/joel-porquet/zsh-dircolors-solarized",
+                "github": "joel-porquet/zsh-dircolors-solarized",
+                "type": "github"
+            },
+            {
+                "title": "zsh-directory-history",
+                "href": "https://github.com/tymm/zsh-directory-history",
+                "github": "tymm/zsh-directory-history",
+                "type": "github"
+            },
+            {
+                "title": "zsh-dwim",
+                "href": "https://github.com/oknowton/zsh-dwim",
+                "github": "oknowton/zsh-dwim",
+                "type": "github"
+            },
+            {
+                "title": "zsh-editing-workbench",
+                "href": "https://github.com/psprint/zsh-editing-workbench",
+                "github": "psprint/zsh-editing-workbench",
+                "type": "github"
+            },
+            {
+                "title": "zsh-emojis",
+                "href": "https://github.com/MichaelAquilina/zsh-emojis",
+                "github": "MichaelAquilina/zsh-emojis",
+                "type": "github"
+            },
+            {
+                "title": "zsh-favorite-directories",
+                "href": "https://github.com/seletskiy/zsh-favorite-directories",
+                "github": "seletskiy/zsh-favorite-directories",
+                "type": "github"
+            },
+            {
+                "title": "zsh-functional",
+                "href": "https://github.com/Tarrasch/zsh-functional",
+                "github": "Tarrasch/zsh-functional",
+                "type": "github"
+            },
+            {
+                "title": "zsh-fuzzy-search-and-edit",
+                "href": "https://github.com/seletskiy/zsh-fuzzy-search-and-edit",
+                "github": "seletskiy/zsh-fuzzy-search-and-edit",
+                "type": "github"
+            },
+            {
+                "title": "zsh-geeknote",
+                "href": "https://github.com/s7anley/zsh-geeknote",
+                "github": "s7anley/zsh-geeknote",
+                "type": "github"
+            },
+            {
+                "title": "zsh-git-plugin",
+                "href": "https://github.com/rcruzper/zsh-git-plugin",
+                "github": "rcruzper/zsh-git-plugin",
+                "type": "github"
+            },
+            {
+                "title": "zsh-git-smart-commands",
+                "href": "https://github.com/seletskiy/zsh-git-smart-commands",
+                "github": "seletskiy/zsh-git-smart-commands",
+                "type": "github"
+            },
+            {
+                "title": "zsh-git-sync",
+                "href": "https://github.com/caarlos0/zsh-git-sync",
+                "github": "caarlos0/zsh-git-sync",
+                "type": "github"
+            },
+            {
+                "title": "zsh-grunt-plugin",
+                "href": "https://github.com/clauswitt/zsh-grunt-plugin",
+                "github": "clauswitt/zsh-grunt-plugin",
+                "type": "github"
+            },
+            {
+                "title": "zsh-gvm (yerinle)",
+                "href": "https://github.com/yerinle/zsh-gvm",
+                "github": "yerinle/zsh-gvm",
+                "type": "github"
+            },
+            {
+                "title": "zsh-hints",
+                "href": "https://github.com/joepvd/zsh-hints",
+                "github": "joepvd/zsh-hints",
+                "type": "github"
+            },
+            {
+                "title": "zsh-histdb",
+                "href": "https://github.com/larkery/zsh-histdb",
+                "github": "larkery/zsh-histdb",
+                "type": "github"
+            },
+            {
+                "title": "zsh-history-substring-search",
+                "href": "https://github.com/zsh-users/zsh-history-substring-search",
+                "github": "zsh-users/zsh-history-substring-search",
+                "type": "github"
+            },
+            {
+                "title": "zsh-history",
+                "href": "https://github.com/b4b4r07/zsh-history",
+                "github": "b4b4r07/zsh-history",
+                "type": "github"
+            },
+            {
+                "title": "zsh-interactive-cd",
+                "href": "https://github.com/changyuheng/zsh-interactive-cd",
+                "github": "changyuheng/zsh-interactive-cd",
+                "type": "github"
+            },
+            {
+                "title": "zsh-iterm-touchbar",
+                "href": "https://github.com/iam4x/zsh-iterm-touchbar",
+                "github": "iam4x/zsh-iterm-touchbar",
+                "type": "github"
+            },
+            {
+                "title": "zsh-konsole-theme-changer",
+                "href": "https://github.com/rocknrollMarc/zsh-konsole-theme-changer",
+                "github": "rocknrollMarc/zsh-konsole-theme-changer",
+                "type": "github"
+            },
+            {
+                "title": "zsh-kubernetes",
+                "href": "https://github.com/Dbz/zsh-kubernetes",
+                "github": "Dbz/zsh-kubernetes",
+                "type": "github"
+            },
+            {
+                "title": "zsh-manydots-magic",
+                "href": "https://github.com/knu/zsh-manydots-magic",
+                "github": "knu/zsh-manydots-magic",
+                "type": "github"
+            },
+            {
+                "title": "zsh-maven-plugin",
+                "href": "https://github.com/KyleChamberlin/zsh_maven_plugin",
+                "github": "KyleChamberlin/zsh_maven_plugin",
+                "type": "github"
+            },
+            {
+                "title": "zsh-mercurial",
+                "href": "https://github.com/hcgraf/zsh-mercurial",
+                "github": "hcgraf/zsh-mercurial",
+                "type": "github"
+            },
+            {
+                "title": "zsh-morpho",
+                "href": "https://github.com/psprint/zsh-morpho",
+                "github": "psprint/zsh-morpho",
+                "type": "github"
+            },
+            {
+                "title": "zsh-navigation-tools",
+                "href": "https://github.com/psprint/zsh-navigation-tools",
+                "github": "psprint/zsh-navigation-tools",
+                "type": "github"
+            },
+            {
+                "title": "zsh-notify",
+                "href": "https://github.com/marzocchi/zsh-notify",
+                "github": "marzocchi/zsh-notify",
+                "type": "github"
+            },
+            {
+                "title": "zsh-nvm",
+                "href": "https://github.com/lukechilds/zsh-nvm",
+                "github": "lukechilds/zsh-nvm",
+                "type": "github"
+            },
+            {
+                "title": "zsh-open-pr",
+                "href": "https://github.com/caarlos0/zsh-open-pr",
+                "github": "caarlos0/zsh-open-pr",
+                "type": "github"
+            },
+            {
+                "title": "zsh-opt-path",
+                "href": "https://github.com/jreese/zsh-opt-path",
+                "github": "jreese/zsh-opt-path",
+                "type": "github"
+            },
+            {
+                "title": "zsh-osx",
+                "href": "https://github.com/mwilliammyers/plugin-osx",
+                "github": "mwilliammyers/plugin-osx",
+                "type": "github"
+            },
+            {
+                "title": "zsh-peco-history",
+                "href": "https://github.com/jimeh/zsh-peco-history",
+                "github": "jimeh/zsh-peco-history",
+                "type": "github"
+            },
+            {
+                "title": "zsh-pg",
+                "href": "https://github.com/caarlos0/zsh-pg",
+                "github": "caarlos0/zsh-pg",
+                "type": "github"
+            },
+            {
+                "title": "zsh-plugin-ibtool",
+                "href": "https://github.com/RudthMael/zsh-plugin-ibtool",
+                "github": "RudthMael/zsh-plugin-ibtool",
+                "type": "github"
+            },
+            {
+                "title": "zsh-plugin-rails",
+                "href": "https://github.com/paraqles/zsh-plugin-rails",
+                "github": "paraqles/zsh-plugin-rails",
+                "type": "github"
+            },
+            {
+                "title": "zsh-plugin-vscode",
+                "href": "https://github.com/wuotr/zsh-plugin-vscode",
+                "github": "wuotr/zsh-plugin-vscode",
+                "type": "github"
+            },
+            {
+                "title": "zsh-reentry-hook",
+                "href": "https://github.com/RobSis/zsh-reentry-hook",
+                "github": "RobSis/zsh-reentry-hook",
+                "type": "github"
+            },
+            {
+                "title": "zsh-select",
+                "href": "https://github.com/psprint/zsh-select",
+                "github": "psprint/zsh-select",
+                "type": "github"
+            },
+            {
+                "title": "zsh-sudo",
+                "href": "https://github.com/hcgraf/zsh-sudo",
+                "github": "hcgraf/zsh-sudo",
+                "type": "github"
+            },
+            {
+                "title": "zsh-suffix-alias",
+                "href": "https://github.com/srijanshetty/zsh-suffix-alias",
+                "github": "srijanshetty/zsh-suffix-alias",
+                "type": "github"
+            },
+            {
+                "title": "zsh-syntax-highlighting-filetypes",
+                "href": "https://github.com/trapd00r/zsh-syntax-highlighting-filetypes",
+                "github": "trapd00r/zsh-syntax-highlighting-filetypes",
+                "type": "github"
+            },
+            {
+                "title": "zsh-syntax-highlighting",
+                "href": "https://github.com/zsh-users/zsh-syntax-highlighting",
+                "github": "zsh-users/zsh-syntax-highlighting",
+                "type": "github"
+            },
+            {
+                "title": "zsh-t32",
+                "href": "https://github.com/chrissicool/zsh-t32",
+                "github": "chrissicool/zsh-t32",
+                "type": "github"
+            },
+            {
+                "title": "zsh-terminal-app",
+                "href": "https://github.com/the8/zsh-terminal-app",
+                "github": "the8/zsh-terminal-app",
+                "type": "github"
+            },
+            {
+                "title": "zsh-titles",
+                "href": "https://github.com/jreese/zsh-titles",
+                "github": "jreese/zsh-titles",
+                "type": "github"
+            },
+            {
+                "title": "zsh-tmux-simple",
+                "href": "https://github.com/TBSliver/zsh-plugin-tmux-simple",
+                "github": "TBSliver/zsh-plugin-tmux-simple",
+                "type": "github"
+            },
+            {
+                "title": "zsh-travis",
+                "href": "https://github.com/denolfe/zsh-travis",
+                "github": "denolfe/zsh-travis",
+                "type": "github"
+            },
+            {
+                "title": "zsh-url-highlighter",
+                "href": "https://github.com/ascii-soup/zsh-url-highlighter",
+                "github": "ascii-soup/zsh-url-highlighter",
+                "type": "github"
+            },
+            {
+                "title": "zsh-viexchange",
+                "href": "https://github.com/okapia/zsh-viexchange",
+                "github": "okapia/zsh-viexchange",
+                "type": "github"
+            },
+            {
+                "title": "zsh-vim-mode",
+                "href": "https://github.com/sharat87/zsh-vim-mode",
+                "github": "sharat87/zsh-vim-mode",
+                "type": "github"
+            },
+            {
+                "title": "zshmarks",
+                "href": "https://github.com/jocelynmallon/zshmarks",
+                "github": "jocelynmallon/zshmarks",
+                "type": "github"
+            },
+            {
+                "title": "zsnapshot",
+                "href": "https://github.com/psprint/zsnapshot",
+                "github": "psprint/zsnapshot",
+                "type": "github"
+            },
+            {
+                "title": "Ztrace",
+                "href": "https://github.com/psprint/ztrace",
+                "github": "psprint/ztrace",
+                "type": "github"
+            },
+            {
+                "title": "ZUI",
+                "href": "https://github.com/zdharma/zui/",
+                "github": "zdharma/zui/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Even more completions",
+        "childrens": [
+            {
+                "title": "autopkg-zsh-completion",
+                "href": "https://github.com/fuzzylogiq/autopkg-zsh-completion",
+                "github": "fuzzylogiq/autopkg-zsh-completion",
+                "type": "github"
+            },
+            {
+                "title": "aws_manager_plugin",
+                "href": "https://github.com/EslamElHusseiny/aws_manager_plugin",
+                "github": "EslamElHusseiny/aws_manager_plugin",
+                "type": "github"
+            },
+            {
+                "title": "berkshelf-zsh-plugin",
+                "href": "https://github.com/berkshelf/berkshelf-zsh-plugin",
+                "github": "berkshelf/berkshelf-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "bosh-zsh-autocompletion",
+                "href": "https://github.com/krujos/bosh-zsh-autocompletion",
+                "github": "krujos/bosh-zsh-autocompletion",
+                "type": "github"
+            },
+            {
+                "title": "brew-services",
+                "href": "https://github.com/vasyharan/zsh-brew-services",
+                "github": "vasyharan/zsh-brew-services",
+                "type": "github"
+            },
+            {
+                "title": "cabal",
+                "href": "https://github.com/d12frosted/cabal.plugin.zsh",
+                "github": "d12frosted/cabal.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "cf-zsh-autocomplete-plugin",
+                "href": "https://github.com/frodenas/cf-zsh-autocomplete-plugin",
+                "github": "frodenas/cf-zsh-autocomplete-plugin",
+                "type": "github"
+            },
+            {
+                "title": "codeception-zsh-plugin",
+                "href": "https://github.com/shengyou/codeception-zsh-plugin",
+                "github": "shengyou/codeception-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "codemachine",
+                "href": "https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine",
+                "github": "CodeMonkeyMike/ZshTheme-CodeMachine",
+                "type": "github"
+            },
+            {
+                "title": "dbic",
+                "href": "https://github.com/lejeunerenard/dbic-migration-env",
+                "github": "lejeunerenard/dbic-migration-env",
+                "type": "github"
+            },
+            {
+                "title": "docker-enter-completion",
+                "href": "https://github.com/primait/docker-enter-completion",
+                "github": "primait/docker-enter-completion",
+                "type": "github"
+            },
+            {
+                "title": "docker-zsh-completion",
+                "href": "https://github.com/felixr/docker-zsh-completion",
+                "github": "felixr/docker-zsh-completion",
+                "type": "github"
+            },
+            {
+                "title": "dropbox",
+                "href": "https://github.com/horosgrisa/zsh-dropbox",
+                "github": "horosgrisa/zsh-dropbox",
+                "type": "github"
+            },
+            {
+                "title": "drush_zsh_completion",
+                "href": "https://github.com/webflo/drush_zsh_completion",
+                "github": "webflo/drush_zsh_completion",
+                "type": "github"
+            },
+            {
+                "title": "duell",
+                "href": "https://github.com/jcxavier/oh-my-zsh-duell",
+                "github": "jcxavier/oh-my-zsh-duell",
+                "type": "github"
+            },
+            {
+                "title": "etcdctl-zsh",
+                "href": "https://github.com/sheax0r/etcdctl-zsh",
+                "github": "sheax0r/etcdctl-zsh",
+                "type": "github"
+            },
+            {
+                "title": "exercism",
+                "href": "https://github.com/fabiokiatkowski/exercism.plugin.zsh",
+                "github": "fabiokiatkowski/exercism.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "fly-zsh-autocomplete-plugin",
+                "href": "https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin",
+                "github": "Sbodiu-pivotal/fly-zsh-autocomplete-plugin",
+                "type": "github"
+            },
+            {
+                "title": "gcloud-zsh-completion",
+                "href": "https://github.com/littleq0903/gcloud-zsh-completion",
+                "github": "littleq0903/gcloud-zsh-completion",
+                "type": "github"
+            },
+            {
+                "title": "gentoo-zsh-completions",
+                "href": "https://github.com/gentoo/gentoo-zsh-completions",
+                "github": "gentoo/gentoo-zsh-completions",
+                "type": "github"
+            },
+            {
+                "title": "git-flow-completion",
+                "href": "https://github.com/bobthecow/git-flow-completion",
+                "github": "bobthecow/git-flow-completion",
+                "type": "github"
+            },
+            {
+                "title": "gradle-completion",
+                "href": "https://github.com/eriwen/gradle-completion",
+                "github": "eriwen/gradle-completion",
+                "type": "github"
+            },
+            {
+                "title": "grid5000-zsh-plugin",
+                "href": "https://github.com/pmorillon/grid5000-zsh-plugin",
+                "github": "pmorillon/grid5000-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "gulp-autocompletion-zsh",
+                "href": "https://github.com/srijanshetty/gulp-autocompletion-zsh",
+                "github": "srijanshetty/gulp-autocompletion-zsh",
+                "type": "github"
+            },
+            {
+                "title": "gulp",
+                "href": "https://github.com/akoenig/gulp.plugin.zsh",
+                "github": "akoenig/gulp.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "jumpstorm-zsh-plugin",
+                "href": "https://github.com/netresearch/jumpstorm-zsh-plugin",
+                "github": "netresearch/jumpstorm-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "keybase",
+                "href": "https://github.com/rbirnie/oh-my-zsh-keybase",
+                "github": "rbirnie/oh-my-zsh-keybase",
+                "type": "github"
+            },
+            {
+                "title": "newman",
+                "href": "https://github.com/selop/newman-autocomplete",
+                "github": "selop/newman-autocomplete",
+                "type": "github"
+            },
+            {
+                "title": "nix-zsh-completions",
+                "href": "https://github.com/spwhitt/nix-zsh-completions",
+                "github": "spwhitt/nix-zsh-completions",
+                "type": "github"
+            },
+            {
+                "title": "npm-run.plugin.zsh",
+                "href": "https://github.com/akoenig/npm-run.plugin.zsh",
+                "github": "akoenig/npm-run.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-nova",
+                "href": "https://github.com/rbirnie/oh-my-zsh-nova",
+                "github": "rbirnie/oh-my-zsh-nova",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-spring-boot-plugin",
+                "href": "https://github.com/linux-china/oh-my-zsh-spring-boot-plugin",
+                "github": "linux-china/oh-my-zsh-spring-boot-plugin",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh_razor_plugin",
+                "href": "https://github.com/dalang/oh-my-zsh_razor_plugin",
+                "github": "dalang/oh-my-zsh_razor_plugin",
+                "type": "github"
+            },
+            {
+                "title": "parallels-zsh-plugin",
+                "href": "https://github.com/benclark/parallels-zsh-plugin",
+                "github": "benclark/parallels-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "pebble-zsh-completion",
+                "href": "https://github.com/Neal/pebble-zsh-completion",
+                "github": "Neal/pebble-zsh-completion",
+                "type": "github"
+            },
+            {
+                "title": "racket completion",
+                "href": "https://github.com/racket/shell-completion",
+                "github": "racket/shell-completion",
+                "type": "github"
+            },
+            {
+                "title": "rake-completion.zshplugin",
+                "href": "https://github.com/unixorn/rake-completion.zshplugin",
+                "github": "unixorn/rake-completion.zshplugin",
+                "type": "github"
+            },
+            {
+                "title": "rancher-zsh-completion",
+                "href": "https://github.com/go/rancher-zsh-completion",
+                "github": "go/rancher-zsh-completion",
+                "type": "github"
+            },
+            {
+                "title": "snappy",
+                "href": "https://github.com/Arlon1/Snappy_zsh_autocompletion",
+                "github": "Arlon1/Snappy_zsh_autocompletion",
+                "type": "github"
+            },
+            {
+                "title": "ssh-agent",
+                "href": "https://github.com/hkupty/ssh-agent",
+                "github": "hkupty/ssh-agent",
+                "type": "github"
+            },
+            {
+                "title": "surf.plugin.zsh",
+                "href": "https://github.com/markussom/surf.plugin.zsh",
+                "github": "markussom/surf.plugin.zsh",
+                "type": "github"
+            },
+            {
+                "title": "test-kitchen-zsh-plugin",
+                "href": "https://github.com/pelletiermaxime/test-kitchen-zsh-plugin",
+                "github": "pelletiermaxime/test-kitchen-zsh-plugin",
+                "type": "github"
+            },
+            {
+                "title": "tmux pane words",
+                "href": "https://gist.github.com/blueyed/6856354",
+                "github": ".com/blueyed/6856354",
+                "type": "github"
+            },
+            {
+                "title": "tugboat",
+                "href": "https://github.com/DimitriSteyaert/Zsh-tugboat",
+                "github": "DimitriSteyaert/Zsh-tugboat",
+                "type": "github"
+            },
+            {
+                "title": "umake",
+                "href": "https://github.com/zlsun/umake",
+                "github": "zlsun/umake",
+                "type": "github"
+            },
+            {
+                "title": "vert.x-omz-plugin",
+                "href": "https://github.com/davidafsilva/vert.x-omz-plugin",
+                "github": "davidafsilva/vert.x-omz-plugin",
+                "type": "github"
+            },
+            {
+                "title": "zsh-_url-httplink",
+                "href": "https://github.com/Valodim/zsh-_url-httplink",
+                "github": "Valodim/zsh-_url-httplink",
+                "type": "github"
+            },
+            {
+                "title": "zsh-better-npm-completion",
+                "href": "https://github.com/lukechilds/zsh-better-npm-completion",
+                "github": "lukechilds/zsh-better-npm-completion",
+                "type": "github"
+            },
+            {
+                "title": "zsh-cabal-completion",
+                "href": "https://github.com/ehamberg/zsh-cabal-completion",
+                "github": "ehamberg/zsh-cabal-completion",
+                "type": "github"
+            },
+            {
+                "title": "zsh-completions",
+                "href": "https://github.com/zsh-users/zsh-completions",
+                "github": "zsh-users/zsh-completions",
+                "type": "github"
+            },
+            {
+                "title": "zsh-ipfs",
+                "href": "https://github.com/aramboi/zsh-ipfs",
+                "github": "aramboi/zsh-ipfs",
+                "type": "github"
+            },
+            {
+                "title": "zsh-packer",
+                "href": "https://github.com/wakeful/zsh-packer",
+                "github": "wakeful/zsh-packer",
+                "type": "github"
+            },
+            {
+                "title": "zsh-pandoc-completion",
+                "href": "https://github.com/srijanshetty/zsh-pandoc-completion",
+                "github": "srijanshetty/zsh-pandoc-completion",
+                "type": "github"
+            },
+            {
+                "title": "zsh-pip-completion",
+                "href": "https://github.com/srijanshetty/zsh-pip-completion",
+                "github": "srijanshetty/zsh-pip-completion",
+                "type": "github"
+            },
+            {
+                "title": "zsh-ssh-agent",
+                "href": "https://github.com/bobsoppe/zsh-ssh-agent",
+                "github": "bobsoppe/zsh-ssh-agent",
+                "type": "github"
+            },
+            {
+                "title": "zsh.plugin.haxelib",
+                "href": "https://github.com/tong/zsh.plugin.haxelib",
+                "github": "tong/zsh.plugin.haxelib",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Themes",
+        "childrens": [
+            {
+                "title": "aaron-zsh-theme",
+                "href": "https://github.com/aaronjamesyoung/aaron-zsh-theme",
+                "github": "aaronjamesyoung/aaron-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "abyss",
+                "href": "https://github.com/ytet5uy4/abyss.zsh",
+                "github": "ytet5uy4/abyss.zsh",
+                "type": "github"
+            },
+            {
+                "title": "adlee",
+                "href": "https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme",
+                "github": "adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "agkozak",
+                "href": "https://github.com/agkozak/agkozak-zsh-theme",
+                "github": "agkozak/agkozak-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "agnosterAfro",
+                "href": "https://github.com/afrozalm/agnosterAfro",
+                "github": "afrozalm/agnosterAfro",
+                "type": "github"
+            },
+            {
+                "title": "agnosterzak",
+                "href": "https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme",
+                "github": "zakaziko99/agnosterzak-ohmyzsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "alien-minimal",
+                "href": "https://github.com/eendroroy/alien-minimal",
+                "github": "eendroroy/alien-minimal",
+                "type": "github"
+            },
+            {
+                "title": "alien",
+                "href": "https://github.com/eendroroy/alien",
+                "github": "eendroroy/alien",
+                "type": "github"
+            },
+            {
+                "title": "alpharized",
+                "href": "https://github.com/NicoSantangelo/Alpharized",
+                "github": "NicoSantangelo/Alpharized",
+                "type": "github"
+            },
+            {
+                "title": "angry fly",
+                "href": "https://github.com/russjohnson/angry-fly-zsh",
+                "github": "russjohnson/angry-fly-zsh",
+                "type": "github"
+            },
+            {
+                "title": "aplos",
+                "href": "https://github.com/nostophilia/aplos",
+                "github": "nostophilia/aplos",
+                "type": "github"
+            },
+            {
+                "title": "avit-d2k",
+                "href": "https://github.com/fdaciuk/avit-da2k",
+                "github": "fdaciuk/avit-da2k",
+                "type": "github"
+            },
+            {
+                "title": "bandit",
+                "href": "https://github.com/Holger-Will/zsh_bandit",
+                "github": "Holger-Will/zsh_bandit",
+                "type": "github"
+            },
+            {
+                "title": "bashi",
+                "href": "https://github.com/eli-oat/bashi",
+                "github": "eli-oat/bashi",
+                "type": "github"
+            },
+            {
+                "title": "bilibili",
+                "href": "https://github.com/jingjinghack/bilibili-zshtheme",
+                "github": "jingjinghack/bilibili-zshtheme",
+                "type": "github"
+            },
+            {
+                "title": "bklyn",
+                "href": "https://github.com/gporrata/bklyn-zsh",
+                "github": "gporrata/bklyn-zsh",
+                "type": "github"
+            },
+            {
+                "title": "blinks-xfan",
+                "href": "https://github.com/ixfan/blinks-xfan",
+                "github": "ixfan/blinks-xfan",
+                "type": "github"
+            },
+            {
+                "title": "blox-zsh-theme",
+                "href": "https://github.com/yardnsm/blox-zsh-theme",
+                "github": "yardnsm/blox-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "bluelines",
+                "href": "https://github.com/apbarrero/bluelines",
+                "github": "apbarrero/bluelines",
+                "type": "github"
+            },
+            {
+                "title": "brunty",
+                "href": "https://github.com/Brunty/omz-brunty",
+                "github": "Brunty/omz-brunty",
+                "type": "github"
+            },
+            {
+                "title": "bttf-color-zsh",
+                "href": "https://github.com/yasuhiroki/bttf-color-zsh",
+                "github": "yasuhiroki/bttf-color-zsh",
+                "type": "github"
+            },
+            {
+                "title": "buccaneer",
+                "href": "https://github.com/FrPas/BUCCANEER",
+                "github": "FrPas/BUCCANEER",
+                "type": "github"
+            },
+            {
+                "title": "bullet-train",
+                "href": "https://github.com/caiogondim/bullet-train-oh-my-zsh-theme",
+                "github": "caiogondim/bullet-train-oh-my-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "bunnyruni",
+                "href": "https://github.com/jopcode/oh-my-zsh-bunnyruni-theme",
+                "github": "jopcode/oh-my-zsh-bunnyruni-theme",
+                "type": "github"
+            },
+            {
+                "title": "bureau-colorized",
+                "href": "https://github.com/edwild22/bureau-colorized",
+                "github": "edwild22/bureau-colorized",
+                "type": "github"
+            },
+            {
+                "title": "bureau",
+                "href": "https://github.com/isqua/bureau",
+                "github": "isqua/bureau",
+                "type": "github"
+            },
+            {
+                "title": "candy-light",
+                "href": "https://github.com/RanaExMachina/oh-my-zsh-candy-light",
+                "github": "RanaExMachina/oh-my-zsh-candy-light",
+                "type": "github"
+            },
+            {
+                "title": "carcassoid",
+                "href": "https://github.com/denmord/carcassoid-zsh-theme",
+                "github": "denmord/carcassoid-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "charged",
+                "href": "https://github.com/robwierzbowski/charged-zsh-theme",
+                "github": "robwierzbowski/charged-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "chi",
+                "href": "https://github.com/andela-abankole/chi",
+                "github": "andela-abankole/chi",
+                "type": "github"
+            },
+            {
+                "title": "ciacho",
+                "href": "https://github.com/Ciacho/ciacho-ohmyzsh-theme",
+                "github": "Ciacho/ciacho-ohmyzsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "classyTouch",
+                "href": "https://github.com/yarisgutierrez/classyTouch_oh-my-zsh",
+                "github": "yarisgutierrez/classyTouch_oh-my-zsh",
+                "type": "github"
+            },
+            {
+                "title": "clean",
+                "href": "https://github.com/akz92/clean",
+                "github": "akz92/clean",
+                "type": "github"
+            },
+            {
+                "title": "cloudy",
+                "href": "https://github.com/Huvik/Cloudy",
+                "github": "Huvik/Cloudy",
+                "type": "github"
+            },
+            {
+                "title": "cmder",
+                "href": "https://github.com/potasiyam/cmder-zsh-theme",
+                "github": "potasiyam/cmder-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "cobalt2",
+                "href": "https://github.com/wesbos/Cobalt2-iterm",
+                "github": "wesbos/Cobalt2-iterm",
+                "type": "github"
+            },
+            {
+                "title": "codemachine",
+                "href": "https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine",
+                "github": "CodeMonkeyMike/ZshTheme-CodeMachine",
+                "type": "github"
+            },
+            {
+                "title": "cordial",
+                "href": "https://github.com/stevelacy/cordial-zsh-theme",
+                "github": "stevelacy/cordial-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "cute-theme",
+                "href": "https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme",
+                "github": "dogrocker/oh-my-zsh-powerline-cute-theme",
+                "type": "github"
+            },
+            {
+                "title": "darkblood-modular",
+                "href": "https://github.com/InAnimaTe/darkblood-modular",
+                "github": "InAnimaTe/darkblood-modular",
+                "type": "github"
+            },
+            {
+                "title": "delta-prompt",
+                "href": "https://github.com/cusxio/delta-prompt",
+                "github": "cusxio/delta-prompt",
+                "type": "github"
+            },
+            {
+                "title": "dexter",
+                "href": "https://github.com/shvenkat/zsh-theme-dexter",
+                "github": "shvenkat/zsh-theme-dexter",
+                "type": "github"
+            },
+            {
+                "title": "dissonance",
+                "href": "https://github.com/RyanScottLewis/theme-dissonance-zsh",
+                "github": "RyanScottLewis/theme-dissonance-zsh",
+                "type": "github"
+            },
+            {
+                "title": "dmx",
+                "href": "https://github.com/domix/dmx.zsh-theme",
+                "github": "domix/dmx.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "dracula",
+                "href": "https://github.com/dracula/zsh",
+                "github": "dracula/zsh",
+                "type": "github"
+            },
+            {
+                "title": "dragon",
+                "href": "https://github.com/sabertazimi/dragon-zsh-theme",
+                "github": "sabertazimi/dragon-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "endless-dog",
+                "href": "https://github.com/qwelyt/endless-dog",
+                "github": "qwelyt/endless-dog",
+                "type": "github"
+            },
+            {
+                "title": "enkel",
+                "href": "https://github.com/SShrike/enkel",
+                "github": "SShrike/enkel",
+                "type": "github"
+            },
+            {
+                "title": "excess",
+                "href": "https://github.com/davydovanton/excess.zsh-theme",
+                "github": "davydovanton/excess.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "feder",
+                "href": "https://github.com/samfeder/feder.zsh-theme/blob/master/feder.zsh-theme",
+                "github": "samfeder/feder.zsh-theme/blob/master/feder.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "filthy",
+                "href": "https://github.com/molovo/filthy",
+                "github": "molovo/filthy",
+                "type": "github"
+            },
+            {
+                "title": "friendly-fiesta",
+                "href": "https://github.com/bruino/friendly-fiesta",
+                "github": "bruino/friendly-fiesta",
+                "type": "github"
+            },
+            {
+                "title": "frisk-arrow",
+                "href": "https://github.com/BakeRolls/frisk-arrow",
+                "github": "BakeRolls/frisk-arrow",
+                "type": "github"
+            },
+            {
+                "title": "frisk-red",
+                "href": "https://github.com/aishsingh/zsh/tree/master/frisk-red",
+                "github": "aishsingh/zsh/tree/master/frisk-red",
+                "type": "github"
+            },
+            {
+                "title": "frlo",
+                "href": "https://github.com/fiorillo/frlo",
+                "github": "fiorillo/frlo",
+                "type": "github"
+            },
+            {
+                "title": "furio",
+                "href": "https://github.com/hectorpalmatellez/furio-theme",
+                "github": "hectorpalmatellez/furio-theme",
+                "type": "github"
+            },
+            {
+                "title": "garrett",
+                "href": "https://github.com/chauncey-garrett/zsh-prompt-garrett",
+                "github": "chauncey-garrett/zsh-prompt-garrett",
+                "type": "github"
+            },
+            {
+                "title": "gawaine",
+                "href": "https://github.com/nicolaracco/gawaine.zsh-theme",
+                "github": "nicolaracco/gawaine.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "geometry",
+                "href": "https://github.com/frmendes/geometry",
+                "github": "frmendes/geometry",
+                "type": "github"
+            },
+            {
+                "title": "geometryHostInfo",
+                "href": "https://github.com/Fuzen-py/GeometryHostInfo",
+                "github": "Fuzen-py/GeometryHostInfo",
+                "type": "github"
+            },
+            {
+                "title": "girazz",
+                "href": "https://github.com/mdentremont/girazz",
+                "github": "mdentremont/girazz",
+                "type": "github"
+            },
+            {
+                "title": "gitsome",
+                "href": "https://github.com/mtully/gitsome",
+                "github": "mtully/gitsome",
+                "type": "github"
+            },
+            {
+                "title": "gitster",
+                "href": "https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme",
+                "github": "shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "glimmer",
+                "href": "https://github.com/martnu/glimmer",
+                "github": "martnu/glimmer",
+                "type": "github"
+            },
+            {
+                "title": "hacker-quotes",
+                "href": "https://github.com/oldratlee/hacker-quotes",
+                "github": "oldratlee/hacker-quotes",
+                "type": "github"
+            },
+            {
+                "title": "hackersaurus",
+                "href": "https://github.com/bhilburn/hackersaurus",
+                "github": "bhilburn/hackersaurus",
+                "type": "github"
+            },
+            {
+                "title": "haribo",
+                "href": "https://github.com/haribo/omz-haribo-theme",
+                "github": "haribo/omz-haribo-theme",
+                "type": "github"
+            },
+            {
+                "title": "hedgehog",
+                "href": "https://gist.github.com/hedgehog1029/dfbb7e66511e2c399157",
+                "github": ".com/hedgehog1029/dfbb7e66511e2c399157",
+                "type": "github"
+            },
+            {
+                "title": "honukai-iterm-zsh",
+                "href": "https://github.com/oskarkrawczyk/honukai-iterm-zsh",
+                "github": "oskarkrawczyk/honukai-iterm-zsh",
+                "type": "github"
+            },
+            {
+                "title": "horizontal",
+                "href": "https://github.com/nuimk/horizontal",
+                "github": "nuimk/horizontal",
+                "type": "github"
+            },
+            {
+                "title": "horse-sh",
+                "href": "https://github.com/emileswarts/horse-sh",
+                "github": "emileswarts/horse-sh",
+                "type": "github"
+            },
+            {
+                "title": "hub",
+                "href": "https://gist.github.com/hub23/c226b1c77446e099f7684b0d21c6b22a",
+                "github": ".com/hub23/c226b1c77446e099f7684b0d21c6b22a",
+                "type": "github"
+            },
+            {
+                "title": "hyperzsh",
+                "href": "https://github.com/tylerreckart/hyperzsh",
+                "github": "tylerreckart/hyperzsh",
+                "type": "github"
+            },
+            {
+                "title": "iggy",
+                "href": "https://github.com/eugenk/zsh-prompt-iggy",
+                "github": "eugenk/zsh-prompt-iggy",
+                "type": "github"
+            },
+            {
+                "title": "igorsilva",
+                "href": "https://github.com/igor9silva/zsh-theme",
+                "github": "igor9silva/zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "infoline",
+                "href": "https://github.com/hevi9/infoline-zsh-theme",
+                "github": "hevi9/infoline-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "intheloop-powerline",
+                "href": "https://github.com/zyphrus/intheloop-powerline",
+                "github": "zyphrus/intheloop-powerline",
+                "type": "github"
+            },
+            {
+                "title": "itg",
+                "href": "https://github.com/itsthatguy/itg.zsh-theme",
+                "github": "itsthatguy/itg.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "jcl-zsh-theme",
+                "href": "https://github.com/jasonlewis/jcl-zsh-theme",
+                "github": "jasonlewis/jcl-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "judgedim",
+                "href": "https://github.com/judgedim/oh-my-zsh-judgedim-theme",
+                "github": "judgedim/oh-my-zsh-judgedim-theme",
+                "type": "github"
+            },
+            {
+                "title": "kimwz",
+                "href": "https://github.com/kimwz/kimwz-oh-my-zsh-theme",
+                "github": "kimwz/kimwz-oh-my-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "kketcham",
+                "href": "https://github.com/prototype27/kketcham",
+                "github": "prototype27/kketcham",
+                "type": "github"
+            },
+            {
+                "title": "klendathu",
+                "href": "https://github.com/kegonomics/klendathu",
+                "github": "kegonomics/klendathu",
+                "type": "github"
+            },
+            {
+                "title": "lagune",
+                "href": "https://github.com/noplay/lagune",
+                "github": "noplay/lagune",
+                "type": "github"
+            },
+            {
+                "title": "lambda-pure",
+                "href": "https://github.com/marszall87/lambda-pure",
+                "github": "marszall87/lambda-pure",
+                "type": "github"
+            },
+            {
+                "title": "lambda",
+                "href": "https://github.com/halfo/lambda-mod-zsh-theme/",
+                "github": "halfo/lambda-mod-zsh-theme/",
+                "type": "github"
+            },
+            {
+                "title": "lazyprodigy",
+                "href": "https://github.com/drewlustro/lazyprodigy-zsh-theme",
+                "github": "drewlustro/lazyprodigy-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "lime",
+                "href": "https://github.com/yous/lime",
+                "github": "yous/lime",
+                "type": "github"
+            },
+            {
+                "title": "linuxer",
+                "href": "https://github.com/patrick330602/linuxer",
+                "github": "patrick330602/linuxer",
+                "type": "github"
+            },
+            {
+                "title": "liquidprompt",
+                "href": "https://github.com/nojhan/liquidprompt",
+                "github": "nojhan/liquidprompt",
+                "type": "github"
+            },
+            {
+                "title": "lone-star",
+                "href": "https://github.com/designfrontier/lonestar-zsh-theme/blob/master/lone-star.zsh-theme",
+                "github": "designfrontier/lonestar-zsh-theme/blob/master/lone-star.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "magico",
+                "href": "https://github.com/IOsonoTAN/magico",
+                "github": "IOsonoTAN/magico",
+                "type": "github"
+            },
+            {
+                "title": "mau",
+                "href": "https://github.com/vichargrave/mau",
+                "github": "vichargrave/mau",
+                "type": "github"
+            },
+            {
+                "title": "maxulysse/myzsh",
+                "href": "https://github.com/MaxUlysse/myzsh",
+                "github": "MaxUlysse/myzsh",
+                "type": "github"
+            },
+            {
+                "title": "megaprompt",
+                "href": "https://github.com/willghatch/zsh-megaprompt",
+                "github": "willghatch/zsh-megaprompt",
+                "type": "github"
+            },
+            {
+                "title": "min",
+                "href": "https://github.com/andrepolischuk/min",
+                "github": "andrepolischuk/min",
+                "type": "github"
+            },
+            {
+                "title": "mindful-space",
+                "href": "https://github.com/syndbg/mindful-space-zsh-theme",
+                "github": "syndbg/mindful-space-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "minimal",
+                "href": "https://github.com/S1cK94/minimal",
+                "github": "S1cK94/minimal",
+                "type": "github"
+            },
+            {
+                "title": "misa",
+                "href": "https://github.com/misalabs/misa.zsh-theme",
+                "github": "misalabs/misa.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "mixed",
+                "href": "https://github.com/dnavtoparts/mixed-zsh-theme",
+                "github": "dnavtoparts/mixed-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "molokai-powerline-zsh",
+                "href": "https://github.com/prikhi/molokai-powerline-zsh",
+                "github": "prikhi/molokai-powerline-zsh",
+                "type": "github"
+            },
+            {
+                "title": "multi-shell-repo-prompt",
+                "href": "https://github.com/dotcode/multi-shell-repo-prompt",
+                "github": "dotcode/multi-shell-repo-prompt",
+                "type": "github"
+            },
+            {
+                "title": "muslim",
+                "href": "https://github.com/nksoff/muslim",
+                "github": "nksoff/muslim",
+                "type": "github"
+            },
+            {
+                "title": "nanofish",
+                "href": "https://github.com/tweekmonster/nanofish",
+                "github": "tweekmonster/nanofish",
+                "type": "github"
+            },
+            {
+                "title": "neat",
+                "href": "https://github.com/andrepolischuk/neat",
+                "github": "andrepolischuk/neat",
+                "type": "github"
+            },
+            {
+                "title": "nextbike",
+                "href": "https://github.com/meierjan/nextbike-zsh-theme",
+                "github": "meierjan/nextbike-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "ningxia",
+                "href": "https://github.com/wangyandong-ningxia/ningxia.zsh-theme",
+                "github": "wangyandong-ningxia/ningxia.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "nknu",
+                "href": "https://github.com/aanc/oh-my-zsh-nknu-theme",
+                "github": "aanc/oh-my-zsh-nknu-theme",
+                "type": "github"
+            },
+            {
+                "title": "nodeys",
+                "href": "https://github.com/marszall87/nodeys-zsh-theme",
+                "github": "marszall87/nodeys-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "nt9",
+                "href": "https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme",
+                "github": "lenguyenthanh/nt9-oh-my-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "odin",
+                "href": "https://github.com/tylerreckart/odin",
+                "github": "tylerreckart/odin",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-git",
+                "href": "https://github.com/arialdomartini/oh-my-git",
+                "github": "arialdomartini/oh-my-git",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-via",
+                "href": "https://github.com/badouralix/oh-my-via",
+                "github": "badouralix/oh-my-via",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-node-theme",
+                "href": "https://github.com/skuridin/oh-my-zsh-node-theme",
+                "github": "skuridin/oh-my-zsh-node-theme",
+                "type": "github"
+            },
+            {
+                "title": "oh-my-zsh-robbl",
+                "href": "https://github.com/robbl/oh-my-zsh-config",
+                "github": "robbl/oh-my-zsh-config",
+                "type": "github"
+            },
+            {
+                "title": "omz-vira",
+                "href": "https://github.com/FernandoTorres/omz-vira",
+                "github": "FernandoTorres/omz-vira",
+                "type": "github"
+            },
+            {
+                "title": "ozono",
+                "href": "https://github.com/sfabrizio/ozono-zsh-theme",
+                "github": "sfabrizio/ozono-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "pad",
+                "href": "https://github.com/eproxus/pad.zsh-theme",
+                "github": "eproxus/pad.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "phi φ",
+                "href": "https://github.com/LasaleFamine/phi-zsh-theme",
+                "github": "LasaleFamine/phi-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "planet",
+                "href": "https://github.com/aphlor/planet-zsh",
+                "github": "aphlor/planet-zsh",
+                "type": "github"
+            },
+            {
+                "title": "platypus",
+                "href": "https://github.com/fdv/platypus",
+                "github": "fdv/platypus",
+                "type": "github"
+            },
+            {
+                "title": "poncho",
+                "href": "https://github.com/RainyDayMedia/oh-my-zsh-poncho",
+                "github": "RainyDayMedia/oh-my-zsh-poncho",
+                "type": "github"
+            },
+            {
+                "title": "powerless",
+                "href": "https://github.com/martinrotter/powerless",
+                "github": "martinrotter/powerless",
+                "type": "github"
+            },
+            {
+                "title": "powerlevel9k",
+                "href": "https://github.com/bhilburn/powerlevel9k",
+                "github": "bhilburn/powerlevel9k",
+                "type": "github"
+            },
+            {
+                "title": "powerline-cute",
+                "href": "https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme",
+                "github": "dogrocker/oh-my-zsh-powerline-cute-theme",
+                "type": "github"
+            },
+            {
+                "title": "powerline",
+                "href": "https://github.com/syui/powerline.zsh",
+                "github": "syui/powerline.zsh",
+                "type": "github"
+            },
+            {
+                "title": "powerzeesh",
+                "href": "https://github.com/sevaho/Powerzeesh",
+                "github": "sevaho/Powerzeesh",
+                "type": "github"
+            },
+            {
+                "title": "pre-theme",
+                "href": "https://github.com/leandromatos/pre-theme",
+                "github": "leandromatos/pre-theme",
+                "type": "github"
+            },
+            {
+                "title": "predawn-shell",
+                "href": "https://github.com/jamiewilson/predawn-shell",
+                "github": "jamiewilson/predawn-shell",
+                "type": "github"
+            },
+            {
+                "title": "prezto-cloud-prompt",
+                "href": "https://github.com/klaude/prezto-cloud-prompt",
+                "github": "klaude/prezto-cloud-prompt",
+                "type": "github"
+            },
+            {
+                "title": "prezto-lambda",
+                "href": "https://github.com/nixolas1/prezto-lambda",
+                "github": "nixolas1/prezto-lambda",
+                "type": "github"
+            },
+            {
+                "title": "prezto_powerline",
+                "href": "https://github.com/davidjrice/prezto_powerline",
+                "github": "davidjrice/prezto_powerline",
+                "type": "github"
+            },
+            {
+                "title": "punctual",
+                "href": "https://github.com/dannynimmo/punctual-zsh-theme",
+                "github": "dannynimmo/punctual-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "pure",
+                "href": "https://github.com/sindresorhus/pure",
+                "github": "sindresorhus/pure",
+                "type": "github"
+            },
+            {
+                "title": "purity",
+                "href": "https://github.com/pmbenjamin/purity",
+                "github": "pmbenjamin/purity",
+                "type": "github"
+            },
+            {
+                "title": "racotecnic",
+                "href": "https://github.com/elboletaire/zsh-theme-racotecnic",
+                "github": "elboletaire/zsh-theme-racotecnic",
+                "type": "github"
+            },
+            {
+                "title": "radium",
+                "href": "https://github.com/dimitardimitrov/radium",
+                "github": "dimitardimitrov/radium",
+                "type": "github"
+            },
+            {
+                "title": "raincoat",
+                "href": "https://github.com/ginfuru/RainCoat",
+                "github": "ginfuru/RainCoat",
+                "type": "github"
+            },
+            {
+                "title": "random-emoji",
+                "href": "https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0",
+                "github": ".com/oshybystyi/2c30543cd48b2c9ecab0",
+                "type": "github"
+            },
+            {
+                "title": "remiii",
+                "href": "https://github.com/Remiii/remiii.zsh-theme",
+                "github": "Remiii/remiii.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "rummik/zsh-theme",
+                "href": "https://github.com/rummik/zsh-theme",
+                "github": "rummik/zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "rzh",
+                "href": "https://github.com/patwhatev/rzh",
+                "github": "patwhatev/rzh",
+                "type": "github"
+            },
+            {
+                "title": "schminitz",
+                "href": "https://gist.github.com/schminitz/9931af23bbb59e772eec",
+                "github": ".com/schminitz/9931af23bbb59e772eec",
+                "type": "github"
+            },
+            {
+                "title": "seeker",
+                "href": "https://github.com/tonyseek/oh-my-zsh-seeker-theme",
+                "github": "tonyseek/oh-my-zsh-seeker-theme",
+                "type": "github"
+            },
+            {
+                "title": "sepshell",
+                "href": "https://github.com/sepehr/sepshell",
+                "github": "sepehr/sepshell",
+                "type": "github"
+            },
+            {
+                "title": "sfz",
+                "href": "https://github.com/mreinhardt/sfz-prompt.zsh",
+                "github": "mreinhardt/sfz-prompt.zsh",
+                "type": "github"
+            },
+            {
+                "title": "shellder",
+                "href": "https://github.com/simnalamburt/shellder",
+                "github": "simnalamburt/shellder",
+                "type": "github"
+            },
+            {
+                "title": "sinon",
+                "href": "https://github.com/k-kinzal/oh-my-zsh-sinon-theme",
+                "github": "k-kinzal/oh-my-zsh-sinon-theme",
+                "type": "github"
+            },
+            {
+                "title": "sk9-zsh",
+                "href": "https://github.com/skeiter9/sk9-zsh",
+                "github": "skeiter9/sk9-zsh",
+                "type": "github"
+            },
+            {
+                "title": "skeletor-syntax",
+                "href": "https://github.com/ramonmcros/skeletor-syntax",
+                "github": "ramonmcros/skeletor-syntax",
+                "type": "github"
+            },
+            {
+                "title": "slimline",
+                "href": "https://github.com/mgee/slimline",
+                "github": "mgee/slimline",
+                "type": "github"
+            },
+            {
+                "title": "smiley",
+                "href": "https://github.com/gsamokovarov/smiley.zsh-theme",
+                "github": "gsamokovarov/smiley.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "solarized-powerline",
+                "href": "https://github.com/houjunchen/solarized-powerline",
+                "github": "houjunchen/solarized-powerline",
+                "type": "github"
+            },
+            {
+                "title": "solarizsh",
+                "href": "https://github.com/paddykontschak/Solarizsh",
+                "github": "paddykontschak/Solarizsh",
+                "type": "github"
+            },
+            {
+                "title": "spaceship",
+                "href": "https://github.com/denysdovhan/spaceship-zsh-theme",
+                "github": "denysdovhan/spaceship-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "staples",
+                "href": "https://github.com/dersam/staples",
+                "github": "dersam/staples",
+                "type": "github"
+            },
+            {
+                "title": "statusline",
+                "href": "https://github.com/el1t/statusline",
+                "github": "el1t/statusline",
+                "type": "github"
+            },
+            {
+                "title": "sugarfree",
+                "href": "https://github.com/cbrock/sugar-free",
+                "github": "cbrock/sugar-free",
+                "type": "github"
+            },
+            {
+                "title": "tahuri",
+                "href": "https://github.com/Tahuri/oh-my-zshel-theme-tahuri",
+                "github": "Tahuri/oh-my-zshel-theme-tahuri",
+                "type": "github"
+            },
+            {
+                "title": "the-time-lord",
+                "href": "https://github.com/jhwhite/the-time-lord",
+                "github": "jhwhite/the-time-lord",
+                "type": "github"
+            },
+            {
+                "title": "theme-line",
+                "href": "https://github.com/yw9381/oh-my-zsh_theme_line",
+                "github": "yw9381/oh-my-zsh_theme_line",
+                "type": "github"
+            },
+            {
+                "title": "trajan",
+                "href": "https://github.com/denisinla/trajan-zsh-theme",
+                "github": "denisinla/trajan-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "trinity",
+                "href": "https://github.com/de-luca/Trinity",
+                "github": "de-luca/Trinity",
+                "type": "github"
+            },
+            {
+                "title": "tvline",
+                "href": "https://github.com/thvitt/tvline",
+                "github": "thvitt/tvline",
+                "type": "github"
+            },
+            {
+                "title": "ultimate",
+                "href": "https://github.com/b4b4r07/ultimate",
+                "github": "b4b4r07/ultimate",
+                "type": "github"
+            },
+            {
+                "title": "vinhnx",
+                "href": "https://github.com/vinhnx/vinhnx.zsh-theme",
+                "github": "vinhnx/vinhnx.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "wang-iterm-zsh",
+                "href": "https://github.com/0532/wang-iterm-zsh",
+                "github": "0532/wang-iterm-zsh",
+                "type": "github"
+            },
+            {
+                "title": "wild-cherry",
+                "href": "https://github.com/mashaal/wild-cherry",
+                "github": "mashaal/wild-cherry",
+                "type": "github"
+            },
+            {
+                "title": "work-line",
+                "href": "https://github.com/afnizarnur/work-line",
+                "github": "afnizarnur/work-line",
+                "type": "github"
+            },
+            {
+                "title": "xremix",
+                "href": "https://github.com/xremix/oh-my-zsh-xremix-theme",
+                "github": "xremix/oh-my-zsh-xremix-theme",
+                "type": "github"
+            },
+            {
+                "title": "xxf",
+                "href": "https://gist.github.com/xfanwu/18fd7c24360c68bab884",
+                "github": ".com/xfanwu/18fd7c24360c68bab884",
+                "type": "github"
+            },
+            {
+                "title": "yairshefi",
+                "href": "https://github.com/yaireclipse/yairshefi-ohmyzsh-theme",
+                "github": "yaireclipse/yairshefi-ohmyzsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "ykmam",
+                "href": "https://github.com/julienvanderkluft/ykmam-zsh-theme/blob/master/ykmam.zsh-theme",
+                "github": "julienvanderkluft/ykmam-zsh-theme/blob/master/ykmam.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "ys",
+                "href": "https://github.com/cristiancavalli/ys-zsh-custom-theme",
+                "github": "cristiancavalli/ys-zsh-custom-theme",
+                "type": "github"
+            },
+            {
+                "title": "yuki",
+                "href": "https://github.com/yuki-torii/yuki-zsh-theme",
+                "github": "yuki-torii/yuki-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "z4rr3t",
+                "href": "https://github.com/inimicus/z4rr3t",
+                "github": "inimicus/z4rr3t",
+                "type": "github"
+            },
+            {
+                "title": "zemm-blinks",
+                "href": "https://github.com/aranasaurus/zemm-blinks.zsh-theme",
+                "github": "aranasaurus/zemm-blinks.zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "zero",
+                "href": "https://github.com/arlimus/zero.zsh",
+                "github": "arlimus/zero.zsh",
+                "type": "github"
+            },
+            {
+                "title": "zeta",
+                "href": "https://github.com/skylerlee/zeta-zsh-theme",
+                "github": "skylerlee/zeta-zsh-theme",
+                "type": "github"
+            },
+            {
+                "title": "zsh-blackrain",
+                "href": "https://github.com/ginfuru/zsh-blackrain",
+                "github": "ginfuru/zsh-blackrain",
+                "type": "github"
+            },
+            {
+                "title": "zsh-megaprompt",
+                "href": "https://github.com/willghatch/zsh-megaprompt",
+                "github": "willghatch/zsh-megaprompt",
+                "type": "github"
+            },
+            {
+                "title": "zsh-prompt-powerline",
+                "href": "https://github.com/Valodim/zsh-prompt-powerline",
+                "github": "Valodim/zsh-prompt-powerline",
+                "type": "github"
+            },
+            {
+                "title": "zsh-theme-nerdish",
+                "href": "https://github.com/nyarla/zsh-theme-nerdish",
+                "github": "nyarla/zsh-theme-nerdish",
+                "type": "github"
+            },
+            {
+                "title": "zsh2000",
+                "href": "https://github.com/maverick2000/zsh2000",
+                "github": "maverick2000/zsh2000",
+                "type": "github"
+            },
+            {
+                "title": "zshcomrade",
+                "href": "https://github.com/landongn/zshcomrade",
+                "github": "landongn/zshcomrade",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fonts",
+        "childrens": [
+            {
+                "title": "Awesome Terminal Fonts",
+                "href": "https://github.com/gabrielelana/awesome-terminal-fonts",
+                "github": "gabrielelana/awesome-terminal-fonts",
+                "type": "github"
+            },
+            {
+                "title": "Fantasque Awesome Font",
+                "href": "https://github.com/ztomer/fantasque_awesome_powerline",
+                "github": "ztomer/fantasque_awesome_powerline",
+                "type": "github"
+            },
+            {
+                "title": "Fantasque-sans",
+                "href": "https://github.com/belluzj/fantasque-sans",
+                "github": "belluzj/fantasque-sans",
+                "type": "github"
+            },
+            {
+                "title": "nerd fonts",
+                "href": "https://github.com/ryanoasis/nerd-fonts",
+                "github": "ryanoasis/nerd-fonts",
+                "type": "github"
+            },
+            {
+                "title": "Powerline patched font collection",
+                "href": "https://github.com/powerline/fonts",
+                "github": "powerline/fonts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ZSH Tools",
+        "childrens": [
+            {
+                "title": "zshdb",
+                "href": "https://github.com/rocky/zshdb",
+                "github": "rocky/zshdb",
+                "type": "github"
+            },
+            {
+                "title": "zunit",
+                "href": "https://github.com/molovo/zunit",
+                "github": "molovo/zunit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Useful Lists",
+        "childrens": [
+            {
+                "title": "awesome-devenv",
+                "href": "https://github.com/jondot/awesome-devenv",
+                "github": "jondot/awesome-devenv",
+                "type": "github"
+            },
+            {
+                "title": "awesome-sysadmin",
+                "href": "https://github.com/n1trux/awesome-sysadmin",
+                "github": "n1trux/awesome-sysadmin",
+                "type": "github"
+            },
+            {
+                "title": "Terminals Are Sexy",
+                "href": "https://github.com/k4m4/terminals-are-sexy",
+                "github": "k4m4/terminals-are-sexy",
+                "type": "github"
+            }
+        ]
+    }
+]

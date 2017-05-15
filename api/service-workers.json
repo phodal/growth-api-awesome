@@ -1,0 +1,82 @@
+[
+    {
+        "heading": "Must Reads",
+        "childrens": [
+            {
+                "title": "Service Workers Explained",
+                "href": "https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md",
+                "github": "slightlyoff/ServiceWorker/blob/master/explainer.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Learning Resources",
+        "childrens": [
+            {
+                "title": "Service Workers 101",
+                "href": "https://github.com/delapuente/service-workers-101",
+                "github": "delapuente/service-workers-101",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries and Tools",
+        "childrens": [
+            {
+                "title": "sw-toolbox",
+                "href": "https://github.com/GoogleChrome/sw-toolbox/",
+                "github": "GoogleChrome/sw-toolbox/",
+                "type": "github"
+            },
+            {
+                "title": "sw-precache",
+                "href": "https://github.com/GoogleChrome/sw-precache/",
+                "github": "GoogleChrome/sw-precache/",
+                "type": "github"
+            },
+            {
+                "title": "sw-offline-google-analytics",
+                "href": "https://github.com/GoogleChrome/sw-helpers/tree/master/packages/sw-offline-google-analytics",
+                "github": "GoogleChrome/sw-helpers/tree/master/packages/sw-offline-google-analytics",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related Technologies",
+        "childrens": [
+            {
+                "title": "App Install Banners",
+                "href": "https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps",
+                "github": "TalAter/awesome-progressive-web-apps#installable-web-apps",
+                "type": "github"
+            },
+            {
+                "title": "Background Sync",
+                "href": "https://github.com/TalAter/awesome-progressive-web-apps#background-sync",
+                "github": "TalAter/awesome-progressive-web-apps#background-sync",
+                "type": "github"
+            },
+            {
+                "title": "CacheStorage API",
+                "href": "https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api",
+                "github": "TalAter/awesome-progressive-web-apps#cachestorage-api",
+                "type": "github"
+            },
+            {
+                "title": "IndexedDB",
+                "href": "https://github.com/TalAter/awesome-progressive-web-apps#indexeddb",
+                "github": "TalAter/awesome-progressive-web-apps#indexeddb",
+                "type": "github"
+            },
+            {
+                "title": "Push Notifications",
+                "href": "https://github.com/TalAter/awesome-progressive-web-apps#push-notifications",
+                "github": "TalAter/awesome-progressive-web-apps#push-notifications",
+                "type": "github"
+            }
+        ]
+    }
+]

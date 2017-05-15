@@ -1,0 +1,331 @@
+[
+    {
+        "heading": "Online Git Service",
+        "childrens": [
+            {
+                "title": "GitHub",
+                "href": "https://github.com/",
+                "github": "",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Writing",
+        "childrens": [
+            {
+                "title": "Git-scribe",
+                "href": "https://github.com/schacon/git-scribe",
+                "github": "schacon/git-scribe",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Writing",
+        "childrens": [
+            {
+                "title": "Theoretical Physics",
+                "href": "https://github.com/certik/theoretical-physics",
+                "github": "certik/theoretical-physics",
+                "type": "github"
+            },
+            {
+                "title": "Statistical Physics",
+                "href": "https://github.com/emptymalei/statisticalphysics",
+                "github": "emptymalei/statisticalphysics",
+                "type": "github"
+            },
+            {
+                "title": "Neutrino Physics",
+                "href": "https://github.com/NeuPhysics/neutrino",
+                "github": "NeuPhysics/neutrino",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hosting",
+        "childrens": [
+            {
+                "title": "GitHub pages",
+                "href": "https://pages.github.com/",
+                "github": "b.com/",
+                "type": "github"
+            },
+            {
+                "title": "GitHub",
+                "href": "http://github.com",
+                "github": "",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blog and CMS",
+        "childrens": [
+            {
+                "title": "Ghost",
+                "href": "https://github.com/tryghost/Ghost",
+                "github": "tryghost/Ghost",
+                "type": "github"
+            },
+            {
+                "title": "Pico",
+                "href": "https://github.com/picocms/Pico",
+                "github": "picocms/Pico",
+                "type": "github"
+            },
+            {
+                "title": "Dropplets",
+                "href": "https://github.com/circa75/dropplets",
+                "github": "circa75/dropplets",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Markdown",
+        "childrens": [
+            {
+                "title": "ReText",
+                "href": "https://github.com/retext-project/retext",
+                "github": "retext-project/retext",
+                "type": "github"
+            },
+            {
+                "title": "eme",
+                "href": "https://github.com/egoist/eme",
+                "github": "egoist/eme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "LaTeX",
+        "childrens": [
+            {
+                "title": "FlyLaTeX",
+                "href": "https://github.com/alabid/flylatex",
+                "github": "alabid/flylatex",
+                "type": "github"
+            },
+            {
+                "title": "ShareLaTeX Source Code",
+                "href": "https://github.com/sharelatex/sharelatex",
+                "github": "sharelatex/sharelatex",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "iPython Notebook",
+        "childrens": [
+            {
+                "title": "Scientific Python Lectures",
+                "href": "https://github.com/jrjohansson/scientific-python-lectures",
+                "github": "jrjohansson/scientific-python-lectures",
+                "type": "github"
+            },
+            {
+                "title": "More",
+                "href": "https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks",
+                "github": "ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mindmap",
+        "childrens": [
+            {
+                "title": "KityMinder By Baidu",
+                "href": "https://github.com/fex-team/kityminder",
+                "github": "fex-team/kityminder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mindmap",
+        "childrens": [
+            {
+                "title": "jsmind",
+                "href": "https://github.com/hizzgdev/jsmind",
+                "github": "hizzgdev/jsmind",
+                "type": "github"
+            },
+            {
+                "title": "mindmaps",
+                "href": "https://github.com/drichard/mindmaps",
+                "github": "drichard/mindmaps",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Online Load and Edit",
+        "childrens": [
+            {
+                "title": "Strut",
+                "href": "https://github.com/tantaman/Strut",
+                "github": "tantaman/Strut",
+                "type": "github"
+            },
+            {
+                "title": "Impressionist",
+                "href": "https://github.com/harish-io/Impressionist",
+                "github": "harish-io/Impressionist",
+                "type": "github"
+            },
+            {
+                "title": "hovercraft",
+                "href": "https://github.com/regebro/hovercraft",
+                "github": "regebro/hovercraft",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML+CSS+JS",
+        "childrens": [
+            {
+                "title": "Reveal.js",
+                "href": "https://github.com/hakimel/reveal.js",
+                "github": "hakimel/reveal.js",
+                "type": "github"
+            },
+            {
+                "title": "Beckpoke.js",
+                "href": "https://github.com/bespokejs/bespoke",
+                "github": "bespokejs/bespoke",
+                "type": "github"
+            },
+            {
+                "title": "CSSS",
+                "href": "https://github.com/LeaVerou/CSSS",
+                "github": "LeaVerou/CSSS",
+                "type": "github"
+            },
+            {
+                "title": "Scrolldeck",
+                "href": "https://github.com/johnpolacek/scrolldeck.js",
+                "github": "johnpolacek/scrolldeck.js",
+                "type": "github"
+            },
+            {
+                "title": "Deck.js",
+                "href": "https://github.com/imakewebthings/deck.js",
+                "github": "imakewebthings/deck.js",
+                "type": "github"
+            },
+            {
+                "title": "Shower",
+                "href": "https://github.com/shower/shower",
+                "github": "shower/shower",
+                "type": "github"
+            },
+            {
+                "title": "Flowtime.js",
+                "href": "https://github.com/marcolago/flowtime.js",
+                "github": "marcolago/flowtime.js",
+                "type": "github"
+            },
+            {
+                "title": "Slides",
+                "href": "https://github.com/briancavalier/slides",
+                "github": "briancavalier/slides",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "The Power of SVG",
+        "childrens": [
+            {
+                "title": "ext-sozi",
+                "href": "https://github.com/asyazwan/ext-sozi",
+                "github": "asyazwan/ext-sozi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sharing Slides",
+        "childrens": [
+            {
+                "title": "GitHub pages",
+                "href": "https://pages.github.com/",
+                "github": "b.com/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Add Citations to Your Code",
+        "childrens": [
+            {
+                "title": "duecredit",
+                "href": "https://github.com/duecredit/duecredit",
+                "github": "duecredit/duecredit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Use Licenses",
+        "childrens": [
+            {
+                "title": "Guokr Badge",
+                "href": "https://github.com/opentf/GuokrBadge",
+                "github": "opentf/GuokrBadge",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Visualization",
+        "childrens": [
+            {
+                "title": "matplotlib",
+                "href": "https://github.com/jbmouret/matplotlib_for_papers",
+                "github": "jbmouret/matplotlib_for_papers",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graph Making",
+        "childrens": [
+            {
+                "title": "LaTeXDraw",
+                "href": "https://github.com/arnobl/latexdraw",
+                "github": "arnobl/latexdraw",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Terminal",
+        "childrens": [
+            {
+                "title": "plot in terminal",
+                "href": "https://github.com/glamp/bashplotlib",
+                "github": "glamp/bashplotlib",
+                "type": "github"
+            },
+            {
+                "title": "bashplot",
+                "href": "https://github.com/glamp/bashplotlib",
+                "github": "glamp/bashplotlib",
+                "type": "github"
+            },
+            {
+                "title": "fuck",
+                "href": "https://github.com/EricFreeman/fuck",
+                "github": "EricFreeman/fuck",
+                "type": "github"
+            }
+        ]
+    }
+]

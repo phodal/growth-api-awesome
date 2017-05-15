@@ -1,0 +1,534 @@
+[
+    {
+        "heading": "General resources",
+        "childrens": [
+            {
+                "title": "GitHub repository",
+                "href": "https://github.com/wagtail/wagtail",
+                "github": "wagtail/wagtail",
+                "type": "github"
+            },
+            {
+                "title": "Roadmap",
+                "href": "https://github.com/wagtail/wagtail/projects/1",
+                "github": "wagtail/wagtail/projects/1",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blogging/news",
+        "childrens": [
+            {
+                "title": "wagtail_blog",
+                "href": "https://github.com/thelabnyc/wagtail_blog",
+                "github": "thelabnyc/wagtail_blog",
+                "type": "github"
+            },
+            {
+                "title": "wagtailnews",
+                "href": "https://github.com/takeflight/wagtailnews",
+                "github": "takeflight/wagtailnews",
+                "type": "github"
+            },
+            {
+                "title": "wagtail-blog-app",
+                "href": "https://github.com/Tivix/wagtail-blog-app",
+                "github": "Tivix/wagtail-blog-app",
+                "type": "github"
+            },
+            {
+                "title": "Django Wagtail Feeds",
+                "href": "https://github.com/chrisdev/django-wagtail-feeds",
+                "github": "chrisdev/django-wagtail-feeds",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rich text editor extensions",
+        "childrens": [
+            {
+                "title": "wagtail-readability",
+                "href": "https://github.com/takeflight/wagtail-readability",
+                "github": "takeflight/wagtail-readability",
+                "type": "github"
+            },
+            {
+                "title": "wagtailembedder",
+                "href": "https://github.com/springload/wagtailembedder",
+                "github": "springload/wagtailembedder",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail TinyMCE",
+                "href": "https://github.com/isotoma/wagtailtinymce",
+                "github": "isotoma/wagtailtinymce",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Froala",
+                "href": "https://github.com/jaydensmith/wagtailfroala",
+                "github": "jaydensmith/wagtailfroala",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Widgets",
+        "childrens": [
+            {
+                "title": "wagtailgmaps",
+                "href": "https://github.com/springload/wagtailgmaps",
+                "github": "springload/wagtailgmaps",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail-Geo-Widget",
+                "href": "https://github.com/Frojd/wagtail-geo-widget",
+                "github": "Frojd/wagtail-geo-widget",
+                "type": "github"
+            },
+            {
+                "title": "wagtail-markdown",
+                "href": "https://github.com/torchbox/wagtail-markdown",
+                "github": "torchbox/wagtail-markdown",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Streamfield",
+        "childrens": [
+            {
+                "title": "Wagtail FontAwesome",
+                "href": "https://github.com/alexgleason/wagtailfontawesome",
+                "github": "alexgleason/wagtailfontawesome",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Commonblocks",
+                "href": "https://github.com/springload/wagtailblocks",
+                "github": "springload/wagtailblocks",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail SVGmap",
+                "href": "https://github.com/City-of-Helsinki/wagtail-svgmap",
+                "github": "City-of-Helsinki/wagtail-svgmap",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail ClearStream",
+                "href": "https://github.com/heymonkeyriot/wagtailclearstream",
+                "github": "heymonkeyriot/wagtailclearstream",
+                "type": "github"
+            },
+            {
+                "title": "UWKM Streamfields",
+                "href": "https://github.com/UWKM/uwkm_streamfields",
+                "github": "UWKM/uwkm_streamfields",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Static site generation",
+        "childrens": [
+            {
+                "title": "Wagtail-bakery",
+                "href": "https://github.com/moorinteractive/wagtail-bakery",
+                "github": "moorinteractive/wagtail-bakery",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Settings management",
+        "childrens": [
+            {
+                "title": "Wagtail-Constance",
+                "href": "https://github.com/MechanisM/wagtail-constance",
+                "github": "MechanisM/wagtail-constance",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail-Flags",
+                "href": "https://github.com/cfpb/wagtail-flags",
+                "github": "cfpb/wagtail-flags",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "E-commerce",
+        "childrens": [
+            {
+                "title": "wagtailinvoices",
+                "href": "https://github.com/SableWalnut/wagtailinvoices",
+                "github": "SableWalnut/wagtailinvoices",
+                "type": "github"
+            },
+            {
+                "title": "wagtail-saleor",
+                "href": "https://github.com/mirumee/wagtail-saleor",
+                "github": "mirumee/wagtail-saleor",
+                "type": "github"
+            },
+            {
+                "title": "longclaw",
+                "href": "https://github.com/JamesRamm/longclaw",
+                "github": "JamesRamm/longclaw",
+                "type": "github"
+            },
+            {
+                "title": "django-oscar-wagtail",
+                "href": "https://github.com/LabD/django-oscar-wagtail",
+                "github": "LabD/django-oscar-wagtail",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SEO and SMO",
+        "childrens": [
+            {
+                "title": "wagtail-metadata",
+                "href": "https://github.com/takeflight/wagtail-metadata",
+                "github": "takeflight/wagtail-metadata",
+                "type": "github"
+            },
+            {
+                "title": "wagtail-metadata-mixin",
+                "href": "https://github.com/bashu/wagtail-metadata-mixin",
+                "github": "bashu/wagtail-metadata-mixin",
+                "type": "github"
+            },
+            {
+                "title": "wagtail-schema.org",
+                "href": "https://github.com/takeflight/wagtail-schema.org",
+                "github": "takeflight/wagtail-schema.org",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Analytics",
+        "childrens": [
+            {
+                "title": "Wagtail Analytics",
+                "href": "https://github.com/tomdyson/wagalytics",
+                "github": "tomdyson/wagalytics",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Experiments",
+                "href": "https://github.com/torchbox/wagtail-experiments",
+                "github": "torchbox/wagtail-experiments",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "wagtailenforcer",
+                "href": "https://github.com/springload/wagtailenforcer",
+                "github": "springload/wagtailenforcer",
+                "type": "github"
+            },
+            {
+                "title": "wagtail-yubikey",
+                "href": "https://github.com/ahopkins/wagtail-yubikey",
+                "github": "ahopkins/wagtail-yubikey",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Media",
+        "childrens": [
+            {
+                "title": "wagtailmedia",
+                "href": "https://github.com/torchbox/wagtailmedia",
+                "github": "torchbox/wagtailmedia",
+                "type": "github"
+            },
+            {
+                "title": "wagtail-embedvideos",
+                "href": "https://github.com/infoportugal/wagtail-embedvideos",
+                "github": "infoportugal/wagtail-embedvideos",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Alt Generator",
+                "href": "https://github.com/marteinn/wagtail-alt-generator",
+                "github": "marteinn/wagtail-alt-generator",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail FilePreviews",
+                "href": "https://github.com/filepreviews/wagtail-filepreviews",
+                "github": "filepreviews/wagtail-filepreviews",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Translations",
+        "childrens": [
+            {
+                "title": "Wagtail Modeltranslation",
+                "href": "https://github.com/infoportugal/wagtail-modeltranslation",
+                "github": "infoportugal/wagtail-modeltranslation",
+                "type": "github"
+            },
+            {
+                "title": "wagtailtrans",
+                "href": "https://github.com/LUKKIEN/wagtailtrans",
+                "github": "LUKKIEN/wagtailtrans",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forms",
+        "childrens": [
+            {
+                "title": "wagtailpolls",
+                "href": "https://github.com/takeflight/wagtailpolls",
+                "github": "takeflight/wagtailpolls",
+                "type": "github"
+            },
+            {
+                "title": "Wagtailsurveys",
+                "href": "https://github.com/torchbox/wagtailsurveys",
+                "github": "torchbox/wagtailsurveys",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail ReCaptcha",
+                "href": "https://github.com/springload/wagtail-django-recaptcha",
+                "github": "springload/wagtail-django-recaptcha",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "wagtail-linkchecker",
+                "href": "https://github.com/takeflight/wagtail-linkchecker",
+                "github": "takeflight/wagtail-linkchecker",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Accessibility",
+                "href": "https://github.com/takeflight/wagtail-accessibility",
+                "github": "takeflight/wagtail-accessibility",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Factories",
+                "href": "https://github.com/mvantellingen/wagtail-factories",
+                "github": "mvantellingen/wagtail-factories",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "Wagtail Plus",
+                "href": "https://github.com/rfosterslo/wagtailplus",
+                "github": "rfosterslo/wagtailplus",
+                "type": "github"
+            },
+            {
+                "title": "wagtailmenus",
+                "href": "https://github.com/rkhleics/wagtailmenus",
+                "github": "rkhleics/wagtailmenus",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Error Pages",
+                "href": "https://github.com/alexgleason/wagtailerrorpages",
+                "github": "alexgleason/wagtailerrorpages",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Themes",
+                "href": "https://github.com/moorinteractive/wagtail-themes",
+                "github": "moorinteractive/wagtail-themes",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Sharing",
+                "href": "https://github.com/cfpb/wagtail-sharing",
+                "github": "cfpb/wagtail-sharing",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Postgres Search Backend",
+                "href": "https://github.com/leukeleu/wagtail-pg-search-backend",
+                "github": "leukeleu/wagtail-pg-search-backend",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Gridder",
+                "href": "https://github.com/wharton/wagtailgridder",
+                "github": "wharton/wagtailgridder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Wagtail Cookiecutter Foundation",
+                "href": "https://github.com/chrisdev/wagtail-cookiecutter-foundation",
+                "github": "chrisdev/wagtail-cookiecutter-foundation",
+                "type": "github"
+            },
+            {
+                "title": "Beginner Wagtail Cookiecutter",
+                "href": "https://github.com/heymonkeyriot/beginner-wagtail",
+                "github": "heymonkeyriot/beginner-wagtail",
+                "type": "github"
+            },
+            {
+                "title": "Wagtail Starter Kit",
+                "href": "https://github.com/tkjone/starterkit-wagtail",
+                "github": "tkjone/starterkit-wagtail",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Recipes",
+        "childrens": [
+            {
+                "title": "Oscar Wagtail demo project",
+                "href": "https://github.com/LUKKIEN/oscar-wagtail-demo",
+                "github": "LUKKIEN/oscar-wagtail-demo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Showcases",
+        "childrens": [
+            {
+                "title": "Contributed apps and website code",
+                "href": "https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code",
+                "github": "torchbox/wagtail/wiki/Contributed-apps-and-website-code",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Open-source sites",
+        "childrens": [
+            {
+                "title": "wagtaildemo",
+                "href": "https://github.com/torchbox/wagtaildemo",
+                "github": "torchbox/wagtaildemo",
+                "type": "github"
+            },
+            {
+                "title": "Torchbox",
+                "href": "https://github.com/torchbox/wagtail-torchbox",
+                "github": "torchbox/wagtail-torchbox",
+                "type": "github"
+            },
+            {
+                "title": "Made with Wagtail",
+                "href": "https://github.com/springload/madewithwagtail",
+                "github": "springload/madewithwagtail",
+                "type": "github"
+            },
+            {
+                "title": "OpenCanada.org",
+                "href": "https://github.com/OpenCanada/website",
+                "github": "OpenCanada/website",
+                "type": "github"
+            },
+            {
+                "title": "Federal Electoral Commission",
+                "href": "https://github.com/18F/fec-cms",
+                "github": "18F/fec-cms",
+                "type": "github"
+            },
+            {
+                "title": "Table Tennis Wellington Business Class",
+                "href": "https://github.com/jordij/bctt.nz",
+                "github": "jordij/bctt.nz",
+                "type": "github"
+            },
+            {
+                "title": "Jordi Joan’s blog",
+                "href": "https://github.com/jordij/jordijoan.me",
+                "github": "jordij/jordijoan.me",
+                "type": "github"
+            },
+            {
+                "title": "Localore: Finding America",
+                "href": "https://github.com/ghostwords/localore",
+                "github": "ghostwords/localore",
+                "type": "github"
+            },
+            {
+                "title": "Adventure Capitalists",
+                "href": "https://github.com/AdventureCapitalists/website",
+                "github": "AdventureCapitalists/website",
+                "type": "github"
+            },
+            {
+                "title": "NHS.UK Content Store",
+                "href": "https://github.com/nhsuk/nhsuk-content-store",
+                "github": "nhsuk/nhsuk-content-store",
+                "type": "github"
+            },
+            {
+                "title": "dev.hel.fi",
+                "href": "https://github.com/City-of-Helsinki/devheldev",
+                "github": "City-of-Helsinki/devheldev",
+                "type": "github"
+            },
+            {
+                "title": "Digital Helsinki",
+                "href": "https://github.com/City-of-Helsinki/digihel",
+                "github": "City-of-Helsinki/digihel",
+                "type": "github"
+            },
+            {
+                "title": "Secure the News",
+                "href": "https://github.com/freedomofpress/securethenews",
+                "github": "freedomofpress/securethenews",
+                "type": "github"
+            },
+            {
+                "title": "HackSoft",
+                "href": "https://github.com/HackSoftware/hacksoft.io",
+                "github": "HackSoftware/hacksoft.io",
+                "type": "github"
+            },
+            {
+                "title": "HackConf",
+                "href": "https://github.com/HackSoftware/hackconf.bg",
+                "github": "HackSoftware/hackconf.bg",
+                "type": "github"
+            },
+            {
+                "title": "RTEI",
+                "href": "https://github.com/okfn/rtei",
+                "github": "okfn/rtei",
+                "type": "github"
+            }
+        ]
+    }
+]

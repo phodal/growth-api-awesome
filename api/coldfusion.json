@@ -1,0 +1,289 @@
+[
+    {
+        "heading": "Awesome ColdFusion ",
+        "childrens": [
+            {
+                "title": "Awesome ColdFusion",
+                "href": "https://github.com/seancoyne/awesome-coldfusion",
+                "github": "seancoyne/awesome-coldfusion",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Application Frameworks",
+        "childrens": [
+            {
+                "title": "cfwheels",
+                "href": "https://github.com/cfwheels/cfwheels",
+                "github": "cfwheels/cfwheels",
+                "type": "github"
+            },
+            {
+                "title": "FW/1 - Framework One",
+                "href": "https://github.com/framework-one/fw1",
+                "github": "framework-one/fw1",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "CFSelenium",
+                "href": "https://github.com/teamcfadvance/CFSelenium",
+                "github": "teamcfadvance/CFSelenium",
+                "type": "github"
+            },
+            {
+                "title": "MXUnit",
+                "href": "https://github.com/mxunit/mxunit",
+                "github": "mxunit/mxunit",
+                "type": "github"
+            },
+            {
+                "title": "mxunit-watch",
+                "href": "https://github.com/atuttle/mxunit-watch",
+                "github": "atuttle/mxunit-watch",
+                "type": "github"
+            },
+            {
+                "title": "TestBox",
+                "href": "https://github.com/Ortus-Solutions/TestBox",
+                "github": "Ortus-Solutions/TestBox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dependency Injection",
+        "childrens": [
+            {
+                "title": "DI/1 - Inject One",
+                "href": "https://github.com/framework-one/di1",
+                "github": "framework-one/di1",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CMS",
+        "childrens": [
+            {
+                "title": "ContentBox",
+                "href": "https://github.com/Ortus-Solutions/ContentBox",
+                "github": "Ortus-Solutions/ContentBox",
+                "type": "github"
+            },
+            {
+                "title": "FarCry CMS",
+                "href": "https://github.com/farcrycore/plugin-farcrycms",
+                "github": "farcrycore/plugin-farcrycms",
+                "type": "github"
+            },
+            {
+                "title": "Mura",
+                "href": "https://github.com/blueriver/MuraCMS",
+                "github": "blueriver/MuraCMS",
+                "type": "github"
+            },
+            {
+                "title": "Preside CMS",
+                "href": "https://github.com/pixl8/Preside-CMS",
+                "github": "pixl8/Preside-CMS",
+                "type": "github"
+            },
+            {
+                "title": "Slatwall",
+                "href": "https://github.com/ten24/Slatwall",
+                "github": "ten24/Slatwall",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "NoSQL",
+        "childrens": [
+            {
+                "title": "CFArango",
+                "href": "https://github.com/dajester2013/CFArango",
+                "github": "dajester2013/CFArango",
+                "type": "github"
+            },
+            {
+                "title": "CFCouchbase",
+                "href": "https://github.com/Ortus-Solutions/cfcouchbase-sdk",
+                "github": "Ortus-Solutions/cfcouchbase-sdk",
+                "type": "github"
+            },
+            {
+                "title": "cfmongodb",
+                "href": "https://github.com/marcesher/cfmongodb",
+                "github": "marcesher/cfmongodb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "REST",
+        "childrens": [
+            {
+                "title": "FW/1 REST",
+                "href": "https://github.com/framework-one/fw1/wiki/Developing-Applications-Manual#controllers-for-rest-apis",
+                "github": "framework-one/fw1/wiki/Developing-Applications-Manual#controllers-for-rest-apis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Libraries",
+        "childrens": [
+            {
+                "title": "cfbackport",
+                "href": "https://github.com/misterdai/cfbackport",
+                "github": "misterdai/cfbackport",
+                "type": "github"
+            },
+            {
+                "title": "cfpayment",
+                "href": "https://github.com/ghidinelli/cfpayment",
+                "github": "ghidinelli/cfpayment",
+                "type": "github"
+            },
+            {
+                "title": "Hoth",
+                "href": "https://github.com/aarongreenlee/Hoth",
+                "github": "aarongreenlee/Hoth",
+                "type": "github"
+            },
+            {
+                "title": "BugLogHQ",
+                "href": "https://github.com/oarevalo/BugLogHQ",
+                "github": "oarevalo/BugLogHQ",
+                "type": "github"
+            },
+            {
+                "title": "iQuery",
+                "href": "https://github.com/atuttle/iquery",
+                "github": "atuttle/iquery",
+                "type": "github"
+            },
+            {
+                "title": "JavaLoader",
+                "href": "https://github.com/markmandel/JavaLoader",
+                "github": "markmandel/JavaLoader",
+                "type": "github"
+            },
+            {
+                "title": "Moment.cfc",
+                "href": "https://github.com/AlumnIQ/momentcfc",
+                "github": "AlumnIQ/momentcfc",
+                "type": "github"
+            },
+            {
+                "title": "Mustache.cfc",
+                "href": "https://github.com/rip747/Mustache.cfc",
+                "github": "rip747/Mustache.cfc",
+                "type": "github"
+            },
+            {
+                "title": "UnderscoreCF",
+                "href": "https://github.com/russplaysguitar/UnderscoreCF",
+                "github": "russplaysguitar/UnderscoreCF",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editors",
+        "childrens": [
+            {
+                "title": "CFML Language for Atom",
+                "href": "https://github.com/atuttle/atom-language-cfml",
+                "github": "atuttle/atom-language-cfml",
+                "type": "github"
+            },
+            {
+                "title": "CFML Package for Sublime Text 3",
+                "href": "https://github.com/jcberquist/sublimetext-cfml",
+                "github": "jcberquist/sublimetext-cfml",
+                "type": "github"
+            },
+            {
+                "title": "TextMate",
+                "href": "https://github.com/textmate/coldfusion.tmbundle",
+                "github": "textmate/coldfusion.tmbundle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "CommandBox",
+                "href": "https://github.com/Ortus-Solutions/commandbox",
+                "github": "Ortus-Solutions/commandbox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "References",
+        "childrens": [
+            {
+                "title": "ColdFusion Koans",
+                "href": "https://github.com/nodoherty/ColdFusion-Koans",
+                "github": "nodoherty/ColdFusion-Koans",
+                "type": "github"
+            },
+            {
+                "title": "ColdFusion UI the Right Way",
+                "href": "https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way",
+                "github": "cfjedimaster/ColdFusion-UI-the-Right-Way",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "lucee5-heroku",
+                "href": "https://github.com/mikesprague/lucee5-heroku",
+                "github": "mikesprague/lucee5-heroku",
+                "type": "github"
+            },
+            {
+                "title": "Vagrant LEMTL",
+                "href": "https://github.com/mikesprague/vagrant-lemtl",
+                "github": "mikesprague/vagrant-lemtl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "CFML Tags to CFScript Reference",
+                "href": "https://github.com/cfchef/cfml-tag-to-script-conversions",
+                "github": "cfchef/cfml-tag-to-script-conversions",
+                "type": "github"
+            },
+            {
+                "title": "CFScript Reference",
+                "href": "https://github.com/daccfml/cfscript/blob/master/cfscript.md",
+                "github": "daccfml/cfscript/blob/master/cfscript.md",
+                "type": "github"
+            },
+            {
+                "title": "Railo Documentation",
+                "href": "https://github.com/getrailo/railo/wiki",
+                "github": "getrailo/railo/wiki",
+                "type": "github"
+            }
+        ]
+    }
+]

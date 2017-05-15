@@ -1,0 +1,540 @@
+[
+    {
+        "heading": "Charts",
+        "childrens": [
+            {
+                "title": "britecharts",
+                "href": "https://github.com/eventbrite/britecharts/",
+                "github": "eventbrite/britecharts/",
+                "type": "github"
+            },
+            {
+                "title": "bullet chart",
+                "href": "https://github.com/d3/d3-plugins/tree/master/bullet",
+                "github": "d3/d3-plugins/tree/master/bullet",
+                "type": "github"
+            },
+            {
+                "title": "dagre-d3",
+                "href": "https://github.com/cpettitt/dagre-d3",
+                "github": "cpettitt/dagre-d3",
+                "type": "github"
+            },
+            {
+                "title": "d3.chart.sankey",
+                "href": "https://github.com/q-m/d3.chart.sankey",
+                "github": "q-m/d3.chart.sankey",
+                "type": "github"
+            },
+            {
+                "title": "d3-bar",
+                "href": "https://github.com/tj/d3-bar",
+                "github": "tj/d3-bar",
+                "type": "github"
+            },
+            {
+                "title": "d3-bumps-chart",
+                "href": "https://github.com/johnwalley/d3-bumps-chart",
+                "github": "johnwalley/d3-bumps-chart",
+                "type": "github"
+            },
+            {
+                "title": "d3-circle",
+                "href": "https://github.com/tj/d3-circle",
+                "github": "tj/d3-circle",
+                "type": "github"
+            },
+            {
+                "title": "d3-dot",
+                "href": "https://github.com/tj/d3-dot",
+                "github": "tj/d3-dot",
+                "type": "github"
+            },
+            {
+                "title": "d3-heatmap",
+                "href": "https://github.com/tj/d3-heatmap",
+                "github": "tj/d3-heatmap",
+                "type": "github"
+            },
+            {
+                "title": "d3-line",
+                "href": "https://github.com/tj/d3-line",
+                "github": "tj/d3-line",
+                "type": "github"
+            },
+            {
+                "title": "d3-flame-graph",
+                "href": "https://github.com/spiermar/d3-flame-graph",
+                "github": "spiermar/d3-flame-graph",
+                "type": "github"
+            },
+            {
+                "title": "d3-message-sequence",
+                "href": "https://github.com/koudelka/d3-message-sequence",
+                "github": "koudelka/d3-message-sequence",
+                "type": "github"
+            },
+            {
+                "title": "d3-timeline",
+                "href": "https://github.com/commodityvectors/d3-timeline",
+                "github": "commodityvectors/d3-timeline",
+                "type": "github"
+            },
+            {
+                "title": "D3Funnel",
+                "href": "https://github.com/jakezatecky/d3-funnel",
+                "github": "jakezatecky/d3-funnel",
+                "type": "github"
+            },
+            {
+                "title": "d3panels",
+                "href": "https://github.com/kbroman/d3panels",
+                "github": "kbroman/d3panels",
+                "type": "github"
+            },
+            {
+                "title": "d3pie",
+                "href": "https://github.com/benkeen/d3pie",
+                "github": "benkeen/d3pie",
+                "type": "github"
+            },
+            {
+                "title": "D3xter",
+                "href": "https://github.com/NathanEpstein/D3xter",
+                "github": "NathanEpstein/D3xter",
+                "type": "github"
+            },
+            {
+                "title": "dTree",
+                "href": "https://github.com/ErikGartner/dTree",
+                "github": "ErikGartner/dTree",
+                "type": "github"
+            },
+            {
+                "title": "EventDrops",
+                "href": "https://github.com/marmelab/EventDrops",
+                "github": "marmelab/EventDrops",
+                "type": "github"
+            },
+            {
+                "title": "fancycharts",
+                "href": "https://github.com/ahoiin/Fancycharts.js",
+                "github": "ahoiin/Fancycharts.js",
+                "type": "github"
+            },
+            {
+                "title": "firespray",
+                "href": "https://github.com/boundary/firespray",
+                "github": "boundary/firespray",
+                "type": "github"
+            },
+            {
+                "title": "forest-d3",
+                "href": "https://github.com/robinfhu/forest-d3",
+                "github": "robinfhu/forest-d3",
+                "type": "github"
+            },
+            {
+                "title": "Gantt-Chart",
+                "href": "https://github.com/dk8996/Gantt-Chart",
+                "github": "dk8996/Gantt-Chart",
+                "type": "github"
+            },
+            {
+                "title": "insights",
+                "href": "https://github.com/ignacioola/insights",
+                "github": "ignacioola/insights",
+                "type": "github"
+            },
+            {
+                "title": "plotly",
+                "href": "https://github.com/plotly/plotly.js/",
+                "github": "plotly/plotly.js/",
+                "type": "github"
+            },
+            {
+                "title": "radar chart",
+                "href": "https://github.com/alangrafu/radar-chart-d3",
+                "github": "alangrafu/radar-chart-d3",
+                "type": "github"
+            },
+            {
+                "title": "rickshaw",
+                "href": "https://github.com/shutterstock/rickshaw",
+                "github": "shutterstock/rickshaw",
+                "type": "github"
+            },
+            {
+                "title": "sankey",
+                "href": "https://github.com/d3/d3-plugins/tree/master/sankey",
+                "github": "d3/d3-plugins/tree/master/sankey",
+                "type": "github"
+            },
+            {
+                "title": "vizabi",
+                "href": "https://github.com/Gapminder/vizabi",
+                "github": "Gapminder/vizabi",
+                "type": "github"
+            },
+            {
+                "title": "xkcdgraphs",
+                "href": "https://github.com/imkevinxu/xkcdgraphs",
+                "github": "imkevinxu/xkcdgraphs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third Party",
+        "childrens": [
+            {
+                "title": "d3act",
+                "href": "https://github.com/AnSavvides/d3act",
+                "github": "AnSavvides/d3act",
+                "type": "github"
+            },
+            {
+                "title": "react-d3",
+                "href": "https://github.com/esbullington/react-d3",
+                "github": "esbullington/react-d3",
+                "type": "github"
+            },
+            {
+                "title": "react-d3-components",
+                "href": "https://github.com/codesuki/react-d3-components",
+                "github": "codesuki/react-d3-components",
+                "type": "github"
+            },
+            {
+                "title": "react-vis",
+                "href": "https://github.com/uber-common/react-vis",
+                "github": "uber-common/react-vis",
+                "type": "github"
+            },
+            {
+                "title": "victory",
+                "href": "https://github.com/FormidableLabs/victory",
+                "github": "FormidableLabs/victory",
+                "type": "github"
+            },
+            {
+                "title": "vx",
+                "href": "https://github.com/hshoff/vx",
+                "github": "hshoff/vx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Maps",
+        "childrens": [
+            {
+                "title": "carto map",
+                "href": "https://github.com/emeeks/d3-carto-map",
+                "github": "emeeks/d3-carto-map",
+                "type": "github"
+            },
+            {
+                "title": "d3 geo projection",
+                "href": "https://github.com/d3/d3-geo-projection",
+                "github": "d3/d3-geo-projection",
+                "type": "github"
+            },
+            {
+                "title": "d3.geo2rect",
+                "href": "https://github.com/sebastian-meier/d3.geo2rect",
+                "github": "sebastian-meier/d3.geo2rect",
+                "type": "github"
+            },
+            {
+                "title": "mapmap.js",
+                "href": "https://github.com/floledermann/mapmap.js",
+                "github": "floledermann/mapmap.js",
+                "type": "github"
+            },
+            {
+                "title": "mapsense.js",
+                "href": "https://github.com/mapsense/mapsense.js",
+                "github": "mapsense/mapsense.js",
+                "type": "github"
+            },
+            {
+                "title": "maptable",
+                "href": "https://github.com/Packet-Clearing-House/maptable",
+                "github": "Packet-Clearing-House/maptable",
+                "type": "github"
+            },
+            {
+                "title": "spam",
+                "href": "https://github.com/newsappsio/spam",
+                "github": "newsappsio/spam",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third Party",
+        "childrens": [
+            {
+                "title": "leaflet-d3",
+                "href": "https://github.com/Asymmetrik/leaflet-d3",
+                "github": "Asymmetrik/leaflet-d3",
+                "type": "github"
+            },
+            {
+                "title": "Wikimaps-D3js Atlas",
+                "href": "https://github.com/WikimapsAtlas/make-modules",
+                "github": "WikimapsAtlas/make-modules",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utils",
+        "childrens": [
+            {
+                "title": "chroniton",
+                "href": "https://github.com/tmcw/chroniton",
+                "github": "tmcw/chroniton",
+                "type": "github"
+            },
+            {
+                "title": "d3scription",
+                "href": "https://github.com/GlobalWebIndex/d3scription",
+                "github": "GlobalWebIndex/d3scription",
+                "type": "github"
+            },
+            {
+                "title": "d3-component",
+                "href": "https://github.com/curran/d3-component",
+                "github": "curran/d3-component",
+                "type": "github"
+            },
+            {
+                "title": "d3-extended",
+                "href": "https://github.com/wbkd/d3-extended",
+                "github": "wbkd/d3-extended",
+                "type": "github"
+            },
+            {
+                "title": "d3-helpers",
+                "href": "https://github.com/bahmutov/d3-helpers",
+                "github": "bahmutov/d3-helpers",
+                "type": "github"
+            },
+            {
+                "title": "d3-history",
+                "href": "https://github.com/vijithassar/d3-history",
+                "github": "vijithassar/d3-history",
+                "type": "github"
+            },
+            {
+                "title": "d3-iconarray",
+                "href": "https://github.com/tomgp/d3-iconarray",
+                "github": "tomgp/d3-iconarray",
+                "type": "github"
+            },
+            {
+                "title": "d3-kit",
+                "href": "https://github.com/twitter/d3kit",
+                "github": "twitter/d3kit",
+                "type": "github"
+            },
+            {
+                "title": "d3-Labeler",
+                "href": "https://github.com/tinker10/D3-Labeler",
+                "github": "tinker10/D3-Labeler",
+                "type": "github"
+            },
+            {
+                "title": "d3-lasso",
+                "href": "https://github.com/skokenes/d3-lasso",
+                "github": "skokenes/d3-lasso",
+                "type": "github"
+            },
+            {
+                "title": "d3-nelson-rules",
+                "href": "https://github.com/kiernanmcgowan/d3-nelson-rules",
+                "github": "kiernanmcgowan/d3-nelson-rules",
+                "type": "github"
+            },
+            {
+                "title": "d3-peaks",
+                "href": "https://github.com/efekarakus/d3-peaks",
+                "github": "efekarakus/d3-peaks",
+                "type": "github"
+            },
+            {
+                "title": "d3-ring-note",
+                "href": "https://github.com/armollica/d3-ring-note",
+                "github": "armollica/d3-ring-note",
+                "type": "github"
+            },
+            {
+                "title": "d3-scale-cluster",
+                "href": "https://github.com/schnerd/d3-scale-cluster",
+                "github": "schnerd/d3-scale-cluster",
+                "type": "github"
+            },
+            {
+                "title": "d3-starterkit",
+                "href": "https://github.com/1wheel/d3-starterkit",
+                "github": "1wheel/d3-starterkit",
+                "type": "github"
+            },
+            {
+                "title": "d3-tip",
+                "href": "https://github.com/Caged/d3-tip",
+                "github": "Caged/d3-tip",
+                "type": "github"
+            },
+            {
+                "title": "d3-tipy",
+                "href": "https://github.com/tj/d3-tipy",
+                "github": "tj/d3-tipy",
+                "type": "github"
+            },
+            {
+                "title": "d3-trail",
+                "href": "https://github.com/bmschmidt/D3-trail",
+                "github": "bmschmidt/D3-trail",
+                "type": "github"
+            },
+            {
+                "title": "d3.slider",
+                "href": "https://github.com/MasterMaps/d3-slider",
+                "github": "MasterMaps/d3-slider",
+                "type": "github"
+            },
+            {
+                "title": "d3.svg.circularbrush",
+                "href": "https://github.com/emeeks/d3.svg.circularbrush",
+                "github": "emeeks/d3.svg.circularbrush",
+                "type": "github"
+            },
+            {
+                "title": "d3.svg.ribbon",
+                "href": "https://github.com/emeeks/d3.svg.ribbon",
+                "github": "emeeks/d3.svg.ribbon",
+                "type": "github"
+            },
+            {
+                "title": "jetpack",
+                "href": "https://github.com/gka/d3-jetpack",
+                "github": "gka/d3-jetpack",
+                "type": "github"
+            },
+            {
+                "title": "swoopyarrows",
+                "href": "https://github.com/bizweekgraphics/swoopyarrows",
+                "github": "bizweekgraphics/swoopyarrows",
+                "type": "github"
+            },
+            {
+                "title": "swoopyDrag",
+                "href": "https://github.com/1wheel/swoopy-drag",
+                "github": "1wheel/swoopy-drag",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "comic.js",
+                "href": "https://github.com/balint42/comic.js",
+                "github": "balint42/comic.js",
+                "type": "github"
+            },
+            {
+                "title": "dragit",
+                "href": "https://github.com/romsson/dragit",
+                "github": "romsson/dragit",
+                "type": "github"
+            },
+            {
+                "title": "d3moji",
+                "href": "https://github.com/mathisonian/d3moji",
+                "github": "mathisonian/d3moji",
+                "type": "github"
+            },
+            {
+                "title": "d3-cloud",
+                "href": "https://github.com/jasondavies/d3-cloud",
+                "github": "jasondavies/d3-cloud",
+                "type": "github"
+            },
+            {
+                "title": "d3-context-menu",
+                "href": "https://github.com/patorjk/d3-context-menu",
+                "github": "patorjk/d3-context-menu",
+                "type": "github"
+            },
+            {
+                "title": "d3-force-gravity",
+                "href": "https://github.com/sohamkamani/d3-force-gravity",
+                "github": "sohamkamani/d3-force-gravity",
+                "type": "github"
+            },
+            {
+                "title": "d3-resume",
+                "href": "https://github.com/glena/d3-resume",
+                "github": "glena/d3-resume",
+                "type": "github"
+            },
+            {
+                "title": "d3.sketchy",
+                "href": "https://github.com/sebastian-meier/d3.sketchy",
+                "github": "sebastian-meier/d3.sketchy",
+                "type": "github"
+            },
+            {
+                "title": "d3plus-text",
+                "href": "https://github.com/d3plus/d3plus-text",
+                "github": "d3plus/d3plus-text",
+                "type": "github"
+            },
+            {
+                "title": "jsdocs2diagram",
+                "href": "https://github.com/amcmillan01/jsdoc2diagram",
+                "github": "amcmillan01/jsdoc2diagram",
+                "type": "github"
+            },
+            {
+                "title": "netvis",
+                "href": "https://github.com/dborzov/netvis",
+                "github": "dborzov/netvis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Server side",
+        "childrens": [
+            {
+                "title": "d3-node",
+                "href": "https://github.com/d3-node/d3-node",
+                "github": "d3-node/d3-node",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Editors",
+        "childrens": [
+            {
+                "title": "Snippets for Atom",
+                "href": "https://github.com/martgnz/d3-snippets",
+                "github": "martgnz/d3-snippets",
+                "type": "github"
+            },
+            {
+                "title": "Snippets for Sublime Text 2",
+                "href": "https://github.com/fabriciotav/d3-snippets-for-sublime-text-2",
+                "github": "fabriciotav/d3-snippets-for-sublime-text-2",
+                "type": "github"
+            }
+        ]
+    }
+]

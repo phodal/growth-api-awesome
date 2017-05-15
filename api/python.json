@@ -1,0 +1,1907 @@
+[
+    {
+        "heading": "Admin Panels",
+        "childrens": [
+            {
+                "title": "Ajenti",
+                "href": "https://github.com/ajenti/ajenti",
+                "github": "ajenti/ajenti",
+                "type": "github"
+            },
+            {
+                "title": "django-xadmin",
+                "href": "https://github.com/sshwsfc/xadmin",
+                "github": "sshwsfc/xadmin",
+                "type": "github"
+            },
+            {
+                "title": "flask-admin",
+                "href": "https://github.com/flask-admin/flask-admin",
+                "github": "flask-admin/flask-admin",
+                "type": "github"
+            },
+            {
+                "title": "flower",
+                "href": "https://github.com/mher/flower",
+                "github": "mher/flower",
+                "type": "github"
+            },
+            {
+                "title": "Wooey",
+                "href": "https://github.com/wooey/wooey",
+                "github": "wooey/wooey",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Algorithms and Design Patterns",
+        "childrens": [
+            {
+                "title": "algorithms",
+                "href": "https://github.com/nryoung/algorithms",
+                "github": "nryoung/algorithms",
+                "type": "github"
+            },
+            {
+                "title": "PyPattyrn",
+                "href": "https://github.com/tylerlaberge/PyPattyrn",
+                "github": "tylerlaberge/PyPattyrn",
+                "type": "github"
+            },
+            {
+                "title": "python-patterns",
+                "href": "https://github.com/faif/python-patterns",
+                "github": "faif/python-patterns",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Anti-spam",
+        "childrens": [
+            {
+                "title": "django-simple-captcha",
+                "href": "https://github.com/mbi/django-simple-captcha",
+                "github": "mbi/django-simple-captcha",
+                "type": "github"
+            },
+            {
+                "title": "django-simple-spam-blocker",
+                "href": "https://github.com/moqada/django-simple-spam-blocker",
+                "github": "moqada/django-simple-spam-blocker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Asset Management",
+        "childrens": [
+            {
+                "title": "django-compressor",
+                "href": "https://github.com/django-compressor/django-compressor",
+                "github": "django-compressor/django-compressor",
+                "type": "github"
+            },
+            {
+                "title": "django-pipeline",
+                "href": "https://github.com/jazzband/django-pipeline",
+                "github": "jazzband/django-pipeline",
+                "type": "github"
+            },
+            {
+                "title": "django-storages",
+                "href": "https://github.com/jschneier/django-storages",
+                "github": "jschneier/django-storages",
+                "type": "github"
+            },
+            {
+                "title": "flask-assets",
+                "href": "https://github.com/miracle2k/flask-assets",
+                "github": "miracle2k/flask-assets",
+                "type": "github"
+            },
+            {
+                "title": "jinja-assets-compressor",
+                "href": "https://github.com/jaysonsantos/jinja-assets-compressor",
+                "github": "jaysonsantos/jinja-assets-compressor",
+                "type": "github"
+            },
+            {
+                "title": "webassets",
+                "href": "https://github.com/miracle2k/webassets",
+                "github": "miracle2k/webassets",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio",
+        "childrens": [
+            {
+                "title": "audiolazy",
+                "href": "https://github.com/danilobellini/audiolazy",
+                "github": "danilobellini/audiolazy",
+                "type": "github"
+            },
+            {
+                "title": "audioread",
+                "href": "https://github.com/beetbox/audioread",
+                "github": "beetbox/audioread",
+                "type": "github"
+            },
+            {
+                "title": "dejavu",
+                "href": "https://github.com/worldveil/dejavu",
+                "github": "worldveil/dejavu",
+                "type": "github"
+            },
+            {
+                "title": "django-elastic-transcoder",
+                "href": "https://github.com/StreetVoice/django-elastic-transcoder",
+                "github": "StreetVoice/django-elastic-transcoder",
+                "type": "github"
+            },
+            {
+                "title": "m3u8",
+                "href": "https://github.com/globocom/m3u8",
+                "github": "globocom/m3u8",
+                "type": "github"
+            },
+            {
+                "title": "mutagen",
+                "href": "https://github.com/quodlibet/mutagen",
+                "github": "quodlibet/mutagen",
+                "type": "github"
+            },
+            {
+                "title": "pyAudioAnalysis",
+                "href": "https://github.com/tyiannak/pyAudioAnalysis",
+                "github": "tyiannak/pyAudioAnalysis",
+                "type": "github"
+            },
+            {
+                "title": "pydub",
+                "href": "https://github.com/jiaaro/pydub",
+                "github": "jiaaro/pydub",
+                "type": "github"
+            },
+            {
+                "title": "pyechonest",
+                "href": "https://github.com/echonest/pyechonest",
+                "github": "echonest/pyechonest",
+                "type": "github"
+            },
+            {
+                "title": "TimeSide",
+                "href": "https://github.com/Parisson/TimeSide",
+                "github": "Parisson/TimeSide",
+                "type": "github"
+            },
+            {
+                "title": "tinytag",
+                "href": "https://github.com/devsnd/tinytag",
+                "github": "devsnd/tinytag",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build Tools",
+        "childrens": [
+            {
+                "title": "PlatformIO",
+                "href": "https://github.com/platformio/platformio",
+                "github": "platformio/platformio",
+                "type": "github"
+            },
+            {
+                "title": "PyBuilder",
+                "href": "https://github.com/pybuilder/pybuilder",
+                "github": "pybuilder/pybuilder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "Beaker",
+                "href": "https://github.com/bbangert/beaker",
+                "github": "bbangert/beaker",
+                "type": "github"
+            },
+            {
+                "title": "django-cache-machine",
+                "href": "https://github.com/django-cache-machine/django-cache-machine",
+                "github": "django-cache-machine/django-cache-machine",
+                "type": "github"
+            },
+            {
+                "title": "django-cacheops",
+                "href": "https://github.com/Suor/django-cacheops",
+                "github": "Suor/django-cacheops",
+                "type": "github"
+            },
+            {
+                "title": "django-viewlet",
+                "href": "https://github.com/5monkeys/django-viewlet",
+                "github": "5monkeys/django-viewlet",
+                "type": "github"
+            },
+            {
+                "title": "johnny-cache",
+                "href": "https://github.com/jmoiron/johnny-cache",
+                "github": "jmoiron/johnny-cache",
+                "type": "github"
+            },
+            {
+                "title": "pylibmc",
+                "href": "https://github.com/lericson/pylibmc",
+                "github": "lericson/pylibmc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compatibility",
+        "childrens": [
+            {
+                "title": "Python-Modernize",
+                "href": "https://github.com/mitsuhiko/python-modernize",
+                "github": "mitsuhiko/python-modernize",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Computer Vision",
+        "childrens": [
+            {
+                "title": "pyocr",
+                "href": "https://github.com/jflesch/pyocr",
+                "github": "jflesch/pyocr",
+                "type": "github"
+            },
+            {
+                "title": "pytesseract",
+                "href": "https://github.com/madmaze/pytesseract",
+                "github": "madmaze/pytesseract",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Concurrency and Parallelism",
+        "childrens": [
+            {
+                "title": "Tomorrow",
+                "href": "https://github.com/madisonmay/Tomorrow",
+                "github": "madisonmay/Tomorrow",
+                "type": "github"
+            },
+            {
+                "title": "uvloop",
+                "href": "https://github.com/MagicStack/uvloop",
+                "github": "MagicStack/uvloop",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Configuration",
+        "childrens": [
+            {
+                "title": "python-decouple",
+                "href": "https://github.com/henriquebastos/python-decouple",
+                "github": "henriquebastos/python-decouple",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cryptography",
+        "childrens": [
+            {
+                "title": "hashids",
+                "href": "https://github.com/davidaurelio/hashids-python",
+                "github": "davidaurelio/hashids-python",
+                "type": "github"
+            },
+            {
+                "title": "PyNacl",
+                "href": "https://github.com/pyca/pynacl",
+                "github": "pyca/pynacl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis",
+        "childrens": [
+            {
+                "title": "Blaze",
+                "href": "https://github.com/blaze/blaze",
+                "github": "blaze/blaze",
+                "type": "github"
+            },
+            {
+                "title": "Open Mining",
+                "href": "https://github.com/mining/mining",
+                "github": "mining/mining",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Validation",
+        "childrens": [
+            {
+                "title": "Cerberus",
+                "href": "https://github.com/nicolaiarocci/cerberus/",
+                "github": "nicolaiarocci/cerberus/",
+                "type": "github"
+            },
+            {
+                "title": "jsonschema",
+                "href": "https://github.com/Julian/jsonschema",
+                "github": "Julian/jsonschema",
+                "type": "github"
+            },
+            {
+                "title": "schema",
+                "href": "https://github.com/keleshev/schema",
+                "github": "keleshev/schema",
+                "type": "github"
+            },
+            {
+                "title": "Schematics",
+                "href": "https://github.com/schematics/schematics",
+                "github": "schematics/schematics",
+                "type": "github"
+            },
+            {
+                "title": "valideer",
+                "href": "https://github.com/podio/valideer",
+                "github": "podio/valideer",
+                "type": "github"
+            },
+            {
+                "title": "voluptuous",
+                "href": "https://github.com/alecthomas/voluptuous",
+                "github": "alecthomas/voluptuous",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Visualization",
+        "childrens": [
+            {
+                "title": "Altair",
+                "href": "https://github.com/altair-viz/altair",
+                "github": "altair-viz/altair",
+                "type": "github"
+            },
+            {
+                "title": "Bokeh",
+                "href": "https://github.com/bokeh/bokeh",
+                "github": "bokeh/bokeh",
+                "type": "github"
+            },
+            {
+                "title": "ggplot",
+                "href": "https://github.com/yhat/ggplot",
+                "github": "yhat/ggplot",
+                "type": "github"
+            },
+            {
+                "title": "Seaborn",
+                "href": "https://github.com/mwaskom/seaborn",
+                "github": "mwaskom/seaborn",
+                "type": "github"
+            },
+            {
+                "title": "VisPy",
+                "href": "https://github.com/vispy/vispy",
+                "github": "vispy/vispy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "TinyDB",
+                "href": "https://github.com/msiemens/tinydb",
+                "github": "msiemens/tinydb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Date and Time",
+        "childrens": [
+            {
+                "title": "arrow",
+                "href": "https://github.com/crsmithdev/arrow",
+                "github": "crsmithdev/arrow",
+                "type": "github"
+            },
+            {
+                "title": "Chronyk",
+                "href": "https://github.com/KoffeinFlummi/Chronyk",
+                "github": "KoffeinFlummi/Chronyk",
+                "type": "github"
+            },
+            {
+                "title": "dateutil",
+                "href": "https://github.com/dateutil/dateutil",
+                "github": "dateutil/dateutil",
+                "type": "github"
+            },
+            {
+                "title": "delorean",
+                "href": "https://github.com/myusuf3/delorean/",
+                "github": "myusuf3/delorean/",
+                "type": "github"
+            },
+            {
+                "title": "moment",
+                "href": "https://github.com/zachwill/moment",
+                "github": "zachwill/moment",
+                "type": "github"
+            },
+            {
+                "title": "Pendulum",
+                "href": "https://github.com/sdispater/pendulum",
+                "github": "sdispater/pendulum",
+                "type": "github"
+            },
+            {
+                "title": "PyTime",
+                "href": "https://github.com/shinux/PyTime",
+                "github": "shinux/PyTime",
+                "type": "github"
+            },
+            {
+                "title": "when.py",
+                "href": "https://github.com/dirn/When.py",
+                "github": "dirn/When.py",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deep Learning",
+        "childrens": [
+            {
+                "title": "Caffe",
+                "href": "https://github.com/BVLC/caffe",
+                "github": "BVLC/caffe",
+                "type": "github"
+            },
+            {
+                "title": "Keras",
+                "href": "https://github.com/fchollet/keras",
+                "github": "fchollet/keras",
+                "type": "github"
+            },
+            {
+                "title": "MXNet",
+                "href": "https://github.com/dmlc/mxnet",
+                "github": "dmlc/mxnet",
+                "type": "github"
+            },
+            {
+                "title": "TensorFlow",
+                "href": "https://github.com/tensorflow/tensorflow",
+                "github": "tensorflow/tensorflow",
+                "type": "github"
+            },
+            {
+                "title": "Theano",
+                "href": "https://github.com/Theano/Theano",
+                "github": "Theano/Theano",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DevOps Tools",
+        "childrens": [
+            {
+                "title": "Ansible",
+                "href": "https://github.com/ansible/ansible",
+                "github": "ansible/ansible",
+                "type": "github"
+            },
+            {
+                "title": "cuisine",
+                "href": "https://github.com/sebastien/cuisine",
+                "github": "sebastien/cuisine",
+                "type": "github"
+            },
+            {
+                "title": "Fabtools",
+                "href": "https://github.com/ronnix/fabtools",
+                "github": "ronnix/fabtools",
+                "type": "github"
+            },
+            {
+                "title": "honcho",
+                "href": "https://github.com/nickstenning/honcho",
+                "github": "nickstenning/honcho",
+                "type": "github"
+            },
+            {
+                "title": "pexpect",
+                "href": "https://github.com/pexpect/pexpect",
+                "github": "pexpect/pexpect",
+                "type": "github"
+            },
+            {
+                "title": "psutil",
+                "href": "https://github.com/giampaolo/psutil",
+                "github": "giampaolo/psutil",
+                "type": "github"
+            },
+            {
+                "title": "SaltStack",
+                "href": "https://github.com/saltstack/salt",
+                "github": "saltstack/salt",
+                "type": "github"
+            },
+            {
+                "title": "supervisor",
+                "href": "https://github.com/Supervisor/supervisor",
+                "github": "Supervisor/supervisor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distribution",
+        "childrens": [
+            {
+                "title": "dh-virtualenv",
+                "href": "https://github.com/spotify/dh-virtualenv",
+                "github": "spotify/dh-virtualenv",
+                "type": "github"
+            },
+            {
+                "title": "PyInstaller",
+                "href": "https://github.com/pyinstaller/pyinstaller",
+                "github": "pyinstaller/pyinstaller",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "pdoc",
+                "href": "https://github.com/BurntSushi/pdoc",
+                "github": "BurntSushi/pdoc",
+                "type": "github"
+            },
+            {
+                "title": "Pycco",
+                "href": "https://github.com/pycco-docs/pycco",
+                "github": "pycco-docs/pycco",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Downloader",
+        "childrens": [
+            {
+                "title": "s3cmd",
+                "href": "https://github.com/s3tools/s3cmd",
+                "github": "s3tools/s3cmd",
+                "type": "github"
+            },
+            {
+                "title": "s4cmd",
+                "href": "https://github.com/bloomreach/s4cmd",
+                "github": "bloomreach/s4cmd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "E-commerce",
+        "childrens": [
+            {
+                "title": "alipay",
+                "href": "https://github.com/lxneng/alipay",
+                "github": "lxneng/alipay",
+                "type": "github"
+            },
+            {
+                "title": "Cartridge",
+                "href": "https://github.com/stephenmcd/cartridge",
+                "github": "stephenmcd/cartridge",
+                "type": "github"
+            },
+            {
+                "title": "django-shop",
+                "href": "https://github.com/awesto/django-shop",
+                "github": "awesto/django-shop",
+                "type": "github"
+            },
+            {
+                "title": "merchant",
+                "href": "https://github.com/agiliq/merchant",
+                "github": "agiliq/merchant",
+                "type": "github"
+            },
+            {
+                "title": "money",
+                "href": "https://github.com/carlospalol/money",
+                "github": "carlospalol/money",
+                "type": "github"
+            },
+            {
+                "title": "python-currencies",
+                "href": "https://github.com/Alir3z4/python-currencies",
+                "github": "Alir3z4/python-currencies",
+                "type": "github"
+            },
+            {
+                "title": "forex-python",
+                "href": "https://github.com/MicroPyramid/forex-python",
+                "github": "MicroPyramid/forex-python",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Email",
+        "childrens": [
+            {
+                "title": "flanker",
+                "href": "https://github.com/mailgun/flanker",
+                "github": "mailgun/flanker",
+                "type": "github"
+            },
+            {
+                "title": "imbox",
+                "href": "https://github.com/martinrusev/imbox",
+                "github": "martinrusev/imbox",
+                "type": "github"
+            },
+            {
+                "title": "inbox.py",
+                "href": "https://github.com/kennethreitz/inbox.py",
+                "github": "kennethreitz/inbox.py",
+                "type": "github"
+            },
+            {
+                "title": "lamson",
+                "href": "https://github.com/zedshaw/lamson",
+                "github": "zedshaw/lamson",
+                "type": "github"
+            },
+            {
+                "title": "Marrow Mailer",
+                "href": "https://github.com/marrow/mailer",
+                "github": "marrow/mailer",
+                "type": "github"
+            },
+            {
+                "title": "modoboa",
+                "href": "https://github.com/tonioo/modoboa",
+                "github": "tonioo/modoboa",
+                "type": "github"
+            },
+            {
+                "title": "Nylas Sync Engine",
+                "href": "https://github.com/nylas/sync-engine",
+                "github": "nylas/sync-engine",
+                "type": "github"
+            },
+            {
+                "title": "yagmail",
+                "href": "https://github.com/kootenpv/yagmail",
+                "github": "kootenpv/yagmail",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Environment Management",
+        "childrens": [
+            {
+                "title": "p",
+                "href": "https://github.com/qw3rtman/p",
+                "github": "qw3rtman/p",
+                "type": "github"
+            },
+            {
+                "title": "pyenv",
+                "href": "https://github.com/yyuu/pyenv",
+                "github": "yyuu/pyenv",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Files",
+        "childrens": [
+            {
+                "title": "path.py",
+                "href": "https://github.com/jaraco/path.py",
+                "github": "jaraco/path.py",
+                "type": "github"
+            },
+            {
+                "title": "python-magic",
+                "href": "https://github.com/ahupp/python-magic",
+                "github": "ahupp/python-magic",
+                "type": "github"
+            },
+            {
+                "title": "Unipath",
+                "href": "https://github.com/mikeorr/Unipath",
+                "github": "mikeorr/Unipath",
+                "type": "github"
+            },
+            {
+                "title": "watchdog",
+                "href": "https://github.com/gorakhargosh/watchdog",
+                "github": "gorakhargosh/watchdog",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forms",
+        "childrens": [
+            {
+                "title": "Deform",
+                "href": "https://github.com/Pylons/deform",
+                "github": "Pylons/deform",
+                "type": "github"
+            },
+            {
+                "title": "django-bootstrap3",
+                "href": "https://github.com/dyve/django-bootstrap3",
+                "github": "dyve/django-bootstrap3",
+                "type": "github"
+            },
+            {
+                "title": "django-crispy-forms",
+                "href": "https://github.com/maraujop/django-crispy-forms",
+                "github": "maraujop/django-crispy-forms",
+                "type": "github"
+            },
+            {
+                "title": "django-remote-forms",
+                "href": "https://github.com/WiserTogether/django-remote-forms",
+                "github": "WiserTogether/django-remote-forms",
+                "type": "github"
+            },
+            {
+                "title": "WTForms",
+                "href": "https://github.com/wtforms/wtforms",
+                "github": "wtforms/wtforms",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Functional Programming",
+        "childrens": [
+            {
+                "title": "CyToolz",
+                "href": "https://github.com/pytoolz/cytoolz/",
+                "github": "pytoolz/cytoolz/",
+                "type": "github"
+            },
+            {
+                "title": "fn.py",
+                "href": "https://github.com/kachayev/fn.py",
+                "github": "kachayev/fn.py",
+                "type": "github"
+            },
+            {
+                "title": "funcy",
+                "href": "https://github.com/Suor/funcy",
+                "github": "Suor/funcy",
+                "type": "github"
+            },
+            {
+                "title": "Toolz",
+                "href": "https://github.com/pytoolz/toolz",
+                "github": "pytoolz/toolz",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "enaml",
+                "href": "https://github.com/nucleic/enaml",
+                "github": "nucleic/enaml",
+                "type": "github"
+            },
+            {
+                "title": "Flexx",
+                "href": "https://github.com/zoofIO/flexx",
+                "github": "zoofIO/flexx",
+                "type": "github"
+            },
+            {
+                "title": "pywebview",
+                "href": "https://github.com/r0x0r/pywebview/",
+                "github": "r0x0r/pywebview/",
+                "type": "github"
+            },
+            {
+                "title": "Toga",
+                "href": "https://github.com/pybee/toga",
+                "github": "pybee/toga",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Geolocation",
+        "childrens": [
+            {
+                "title": "django-countries",
+                "href": "https://github.com/SmileyChris/django-countries",
+                "github": "SmileyChris/django-countries",
+                "type": "github"
+            },
+            {
+                "title": "GeoIP",
+                "href": "https://github.com/maxmind/geoip-api-python",
+                "github": "maxmind/geoip-api-python",
+                "type": "github"
+            },
+            {
+                "title": "geojson",
+                "href": "https://github.com/frewsxcv/python-geojson",
+                "github": "frewsxcv/python-geojson",
+                "type": "github"
+            },
+            {
+                "title": "geopy",
+                "href": "https://github.com/geopy/geopy",
+                "github": "geopy/geopy",
+                "type": "github"
+            },
+            {
+                "title": "pygeoip",
+                "href": "https://github.com/appliedsec/pygeoip",
+                "github": "appliedsec/pygeoip",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML Manipulation",
+        "childrens": [
+            {
+                "title": "bleach",
+                "href": "https://github.com/mozilla/bleach",
+                "github": "mozilla/bleach",
+                "type": "github"
+            },
+            {
+                "title": "html5lib",
+                "href": "https://github.com/html5lib/html5lib-python",
+                "github": "html5lib/html5lib-python",
+                "type": "github"
+            },
+            {
+                "title": "MarkupSafe",
+                "href": "https://github.com/pallets/markupsafe",
+                "github": "pallets/markupsafe",
+                "type": "github"
+            },
+            {
+                "title": "pyquery",
+                "href": "https://github.com/gawel/pyquery",
+                "github": "gawel/pyquery",
+                "type": "github"
+            },
+            {
+                "title": "untangle",
+                "href": "https://github.com/stchris/untangle",
+                "github": "stchris/untangle",
+                "type": "github"
+            },
+            {
+                "title": "xmltodict",
+                "href": "https://github.com/martinblech/xmltodict",
+                "github": "martinblech/xmltodict",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP",
+        "childrens": [
+            {
+                "title": "grequests",
+                "href": "https://github.com/kennethreitz/grequests",
+                "github": "kennethreitz/grequests",
+                "type": "github"
+            },
+            {
+                "title": "httplib2",
+                "href": "https://github.com/httplib2/httplib2",
+                "github": "httplib2/httplib2",
+                "type": "github"
+            },
+            {
+                "title": "treq",
+                "href": "https://github.com/twisted/treq",
+                "github": "twisted/treq",
+                "type": "github"
+            },
+            {
+                "title": "urllib3",
+                "href": "https://github.com/shazow/urllib3",
+                "github": "shazow/urllib3",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hardware",
+        "childrens": [
+            {
+                "title": "PyUserInput",
+                "href": "https://github.com/SavinaRoja/PyUserInput",
+                "github": "SavinaRoja/PyUserInput",
+                "type": "github"
+            },
+            {
+                "title": "scapy",
+                "href": "https://github.com/secdev/scapy",
+                "github": "secdev/scapy",
+                "type": "github"
+            },
+            {
+                "title": "wifi",
+                "href": "https://github.com/rockymeza/wifi",
+                "github": "rockymeza/wifi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Imagery",
+        "childrens": [
+            {
+                "title": "hmap",
+                "href": "https://github.com/rossgoodwin/hmap",
+                "github": "rossgoodwin/hmap",
+                "type": "github"
+            },
+            {
+                "title": "nude.py",
+                "href": "https://github.com/hhatto/nude.py",
+                "github": "hhatto/nude.py",
+                "type": "github"
+            },
+            {
+                "title": "pagan",
+                "href": "https://github.com/daboth/pagan",
+                "github": "daboth/pagan",
+                "type": "github"
+            },
+            {
+                "title": "pillow",
+                "href": "https://github.com/python-pillow/Pillow",
+                "github": "python-pillow/Pillow",
+                "type": "github"
+            },
+            {
+                "title": "pygram",
+                "href": "https://github.com/ajkumar25/pygram",
+                "github": "ajkumar25/pygram",
+                "type": "github"
+            },
+            {
+                "title": "python-qrcode",
+                "href": "https://github.com/lincolnloop/python-qrcode",
+                "github": "lincolnloop/python-qrcode",
+                "type": "github"
+            },
+            {
+                "title": "Quads",
+                "href": "https://github.com/fogleman/Quads",
+                "github": "fogleman/Quads",
+                "type": "github"
+            },
+            {
+                "title": "thumbor",
+                "href": "https://github.com/thumbor/thumbor",
+                "github": "thumbor/thumbor",
+                "type": "github"
+            },
+            {
+                "title": "wand",
+                "href": "https://github.com/dahlia/wand",
+                "github": "dahlia/wand",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Implementations",
+        "childrens": [
+            {
+                "title": "CLPython",
+                "href": "https://github.com/metawilm/cl-python",
+                "github": "metawilm/cl-python",
+                "type": "github"
+            },
+            {
+                "title": "CPython",
+                "href": "https://github.com/python/cpython",
+                "github": "python/cpython",
+                "type": "github"
+            },
+            {
+                "title": "IronPython",
+                "href": "https://github.com/IronLanguages/ironpython3",
+                "github": "IronLanguages/ironpython3",
+                "type": "github"
+            },
+            {
+                "title": "MicroPython",
+                "href": "https://github.com/micropython/micropython",
+                "github": "micropython/micropython",
+                "type": "github"
+            },
+            {
+                "title": "PeachPy",
+                "href": "https://github.com/Maratyszcza/PeachPy",
+                "github": "Maratyszcza/PeachPy",
+                "type": "github"
+            },
+            {
+                "title": "Pyjion",
+                "href": "https://github.com/Microsoft/Pyjion",
+                "github": "Microsoft/Pyjion",
+                "type": "github"
+            },
+            {
+                "title": "PySec",
+                "href": "https://github.com/ebranca/owasp-pysec",
+                "github": "ebranca/owasp-pysec",
+                "type": "github"
+            },
+            {
+                "title": "Pyston",
+                "href": "https://github.com/dropbox/pyston",
+                "github": "dropbox/pyston",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Interactive Interpreter",
+        "childrens": [
+            {
+                "title": "bpython",
+                "href": "https://github.com/bpython/bpython",
+                "github": "bpython/bpython",
+                "type": "github"
+            },
+            {
+                "title": "ptpython",
+                "href": "https://github.com/jonathanslenders/ptpython",
+                "github": "jonathanslenders/ptpython",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Internationalization",
+        "childrens": [
+            {
+                "title": "PyICU",
+                "href": "https://github.com/ovalhub/pyicu",
+                "github": "ovalhub/pyicu",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Job Scheduler",
+        "childrens": [
+            {
+                "title": "django-schedule",
+                "href": "https://github.com/thauber/django-schedule",
+                "github": "thauber/django-schedule",
+                "type": "github"
+            },
+            {
+                "title": "gunnery",
+                "href": "https://github.com/gunnery/gunnery",
+                "github": "gunnery/gunnery",
+                "type": "github"
+            },
+            {
+                "title": "Plan",
+                "href": "https://github.com/fengsp/plan",
+                "github": "fengsp/plan",
+                "type": "github"
+            },
+            {
+                "title": "schedule",
+                "href": "https://github.com/dbader/schedule",
+                "github": "dbader/schedule",
+                "type": "github"
+            },
+            {
+                "title": "Spiff",
+                "href": "https://github.com/knipknap/SpiffWorkflow",
+                "github": "knipknap/SpiffWorkflow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "Eliot",
+                "href": "https://github.com/ClusterHQ/eliot",
+                "github": "ClusterHQ/eliot",
+                "type": "github"
+            },
+            {
+                "title": "Raven",
+                "href": "https://github.com/getsentry/raven-python",
+                "github": "getsentry/raven-python",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "gensim",
+                "href": "https://github.com/RaRe-Technologies/gensim",
+                "github": "RaRe-Technologies/gensim",
+                "type": "github"
+            },
+            {
+                "title": "LightFM",
+                "href": "https://github.com/lyst/lightfm",
+                "github": "lyst/lightfm",
+                "type": "github"
+            },
+            {
+                "title": "NuPIC",
+                "href": "https://github.com/numenta/nupic",
+                "github": "numenta/nupic",
+                "type": "github"
+            },
+            {
+                "title": "vowpal_porpoise",
+                "href": "https://github.com/josephreisinger/vowpal_porpoise",
+                "github": "josephreisinger/vowpal_porpoise",
+                "type": "github"
+            },
+            {
+                "title": "xgboost",
+                "href": "https://github.com/dmlc/xgboost",
+                "github": "dmlc/xgboost",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MapReduce",
+        "childrens": [
+            {
+                "title": "dpark",
+                "href": "https://github.com/douban/dpark",
+                "github": "douban/dpark",
+                "type": "github"
+            },
+            {
+                "title": "dumbo",
+                "href": "https://github.com/klbostee/dumbo",
+                "github": "klbostee/dumbo",
+                "type": "github"
+            },
+            {
+                "title": "luigi",
+                "href": "https://github.com/spotify/luigi",
+                "github": "spotify/luigi",
+                "type": "github"
+            },
+            {
+                "title": "mrjob",
+                "href": "https://github.com/Yelp/mrjob",
+                "github": "Yelp/mrjob",
+                "type": "github"
+            },
+            {
+                "title": "streamparse",
+                "href": "https://github.com/Parsely/streamparse",
+                "github": "Parsely/streamparse",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Microsoft Windows",
+        "childrens": [
+            {
+                "title": "PythonNet",
+                "href": "https://github.com/pythonnet/pythonnet",
+                "github": "pythonnet/pythonnet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "blinker",
+                "href": "https://github.com/jek/blinker",
+                "github": "jek/blinker",
+                "type": "github"
+            },
+            {
+                "title": "itsdangerous",
+                "href": "https://github.com/pallets/itsdangerous",
+                "github": "pallets/itsdangerous",
+                "type": "github"
+            },
+            {
+                "title": "pluginbase",
+                "href": "https://github.com/mitsuhiko/pluginbase",
+                "github": "mitsuhiko/pluginbase",
+                "type": "github"
+            },
+            {
+                "title": "Pychievements",
+                "href": "https://github.com/PacketPerception/pychievements",
+                "github": "PacketPerception/pychievements",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Jieba",
+                "href": "https://github.com/fxsjy/jieba",
+                "github": "fxsjy/jieba",
+                "type": "github"
+            },
+            {
+                "title": "langid.py",
+                "href": "https://github.com/saffsd/langid.py",
+                "github": "saffsd/langid.py",
+                "type": "github"
+            },
+            {
+                "title": "SnowNLP",
+                "href": "https://github.com/isnowfy/snownlp",
+                "github": "isnowfy/snownlp",
+                "type": "github"
+            },
+            {
+                "title": "TextBlob",
+                "href": "https://github.com/sloria/TextBlob",
+                "github": "sloria/TextBlob",
+                "type": "github"
+            },
+            {
+                "title": "TextGrocery",
+                "href": "https://github.com/2shou/TextGrocery",
+                "github": "2shou/TextGrocery",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Network Virtualization",
+        "childrens": [
+            {
+                "title": "POX",
+                "href": "https://github.com/noxrepo/pox",
+                "github": "noxrepo/pox",
+                "type": "github"
+            },
+            {
+                "title": "SDX Platform",
+                "href": "https://github.com/sdn-ixp/internet2award",
+                "github": "sdn-ixp/internet2award",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "diesel",
+                "href": "https://github.com/dieseldev/diesel",
+                "github": "dieseldev/diesel",
+                "type": "github"
+            },
+            {
+                "title": "pulsar",
+                "href": "https://github.com/quantmind/pulsar",
+                "github": "quantmind/pulsar",
+                "type": "github"
+            },
+            {
+                "title": "txZMQ",
+                "href": "https://github.com/smira/txZMQ",
+                "github": "smira/txZMQ",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "News Feed",
+        "childrens": [
+            {
+                "title": "django-activity-stream",
+                "href": "https://github.com/justquick/django-activity-stream",
+                "github": "justquick/django-activity-stream",
+                "type": "github"
+            },
+            {
+                "title": "Stream-Framework",
+                "href": "https://github.com/tschellenbach/Stream-Framework",
+                "github": "tschellenbach/Stream-Framework",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package Management",
+        "childrens": [
+            {
+                "title": "conda",
+                "href": "https://github.com/conda/conda/",
+                "github": "conda/conda/",
+                "type": "github"
+            },
+            {
+                "title": "pip-tools",
+                "href": "https://github.com/nvie/pip-tools",
+                "github": "nvie/pip-tools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package Repositories",
+        "childrens": [
+            {
+                "title": "warehouse",
+                "href": "https://github.com/pypa/warehouse",
+                "github": "pypa/warehouse",
+                "type": "github"
+            },
+            {
+                "title": "localshop",
+                "href": "https://github.com/mvantellingen/localshop",
+                "github": "mvantellingen/localshop",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Permissions",
+        "childrens": [
+            {
+                "title": "Carteblanche",
+                "href": "https://github.com/neuman/python-carteblanche/",
+                "github": "neuman/python-carteblanche/",
+                "type": "github"
+            },
+            {
+                "title": "django-guardian",
+                "href": "https://github.com/django-guardian/django-guardian",
+                "github": "django-guardian/django-guardian",
+                "type": "github"
+            },
+            {
+                "title": "django-rules",
+                "href": "https://github.com/dfunckt/django-rules",
+                "github": "dfunckt/django-rules",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Processes",
+        "childrens": [
+            {
+                "title": "envoy",
+                "href": "https://github.com/kennethreitz/envoy",
+                "github": "kennethreitz/envoy",
+                "type": "github"
+            },
+            {
+                "title": "sh",
+                "href": "https://github.com/amoffat/sh",
+                "github": "amoffat/sh",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Queue",
+        "childrens": [
+            {
+                "title": "huey",
+                "href": "https://github.com/coleifer/huey",
+                "github": "coleifer/huey",
+                "type": "github"
+            },
+            {
+                "title": "mrq",
+                "href": "https://github.com/pricingassistant/mrq",
+                "github": "pricingassistant/mrq",
+                "type": "github"
+            },
+            {
+                "title": "simpleq",
+                "href": "https://github.com/rdegges/simpleq",
+                "github": "rdegges/simpleq",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "RPC Servers",
+        "childrens": [
+            {
+                "title": "SimpleJSONRPCServer",
+                "href": "https://github.com/joshmarshall/jsonrpclib/",
+                "github": "joshmarshall/jsonrpclib/",
+                "type": "github"
+            },
+            {
+                "title": "zeroRPC",
+                "href": "https://github.com/0rpc/zerorpc-python",
+                "github": "0rpc/zerorpc-python",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Science",
+        "childrens": [
+            {
+                "title": "bcbio-nextgen",
+                "href": "https://github.com/chapmanb/bcbio-nextgen",
+                "github": "chapmanb/bcbio-nextgen",
+                "type": "github"
+            },
+            {
+                "title": "bccb",
+                "href": "https://github.com/chapmanb/bcbb",
+                "github": "chapmanb/bcbb",
+                "type": "github"
+            },
+            {
+                "title": "PyMC",
+                "href": "https://github.com/pymc-devs/pymc3",
+                "github": "pymc-devs/pymc3",
+                "type": "github"
+            },
+            {
+                "title": "statsmodels",
+                "href": "https://github.com/statsmodels/statsmodels",
+                "github": "statsmodels/statsmodels",
+                "type": "github"
+            },
+            {
+                "title": "SymPy",
+                "href": "https://github.com/sympy/sympy",
+                "github": "sympy/sympy",
+                "type": "github"
+            },
+            {
+                "title": "Zipline",
+                "href": "https://github.com/quantopian/zipline",
+                "github": "quantopian/zipline",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search",
+        "childrens": [
+            {
+                "title": "django-haystack",
+                "href": "https://github.com/django-haystack/django-haystack",
+                "github": "django-haystack/django-haystack",
+                "type": "github"
+            },
+            {
+                "title": "elasticsearch-dsl-py",
+                "href": "https://github.com/elastic/elasticsearch-dsl-py",
+                "github": "elastic/elasticsearch-dsl-py",
+                "type": "github"
+            },
+            {
+                "title": "esengine",
+                "href": "https://github.com/catholabs/esengine",
+                "github": "catholabs/esengine",
+                "type": "github"
+            },
+            {
+                "title": "pysolr",
+                "href": "https://github.com/django-haystack/pysolr",
+                "github": "django-haystack/pysolr",
+                "type": "github"
+            },
+            {
+                "title": "solrpy",
+                "href": "https://github.com/edsu/solrpy",
+                "github": "edsu/solrpy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Serialization",
+        "childrens": [
+            {
+                "title": "marshmallow",
+                "href": "https://github.com/marshmallow-code/marshmallow",
+                "github": "marshmallow-code/marshmallow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Serverless Frameworks",
+        "childrens": [
+            {
+                "title": "apex",
+                "href": "https://github.com/apex/apex",
+                "github": "apex/apex",
+                "type": "github"
+            },
+            {
+                "title": "python-lambda",
+                "href": "https://github.com/nficano/python-lambda",
+                "github": "nficano/python-lambda",
+                "type": "github"
+            },
+            {
+                "title": "Zappa",
+                "href": "https://github.com/Miserlou/Zappa",
+                "github": "Miserlou/Zappa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Static Site Generator",
+        "childrens": [
+            {
+                "title": "Cactus",
+                "href": "https://github.com/koenbok/Cactus/",
+                "github": "koenbok/Cactus/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tagging",
+        "childrens": [
+            {
+                "title": "django-taggit",
+                "href": "https://github.com/alex/django-taggit",
+                "github": "alex/django-taggit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Template Engine",
+        "childrens": [
+            {
+                "title": "Jinja2",
+                "href": "https://github.com/pallets/jinja",
+                "github": "pallets/jinja",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third-party APIs",
+        "childrens": [
+            {
+                "title": "boto3",
+                "href": "https://github.com/boto/boto3",
+                "github": "boto/boto3",
+                "type": "github"
+            },
+            {
+                "title": "django-wordpress",
+                "href": "https://github.com/sunlightlabs/django-wordpress/",
+                "github": "sunlightlabs/django-wordpress/",
+                "type": "github"
+            },
+            {
+                "title": "facebook-sdk",
+                "href": "https://github.com/mobolic/facebook-sdk",
+                "github": "mobolic/facebook-sdk",
+                "type": "github"
+            },
+            {
+                "title": "facepy",
+                "href": "https://github.com/jgorset/facepy",
+                "github": "jgorset/facepy",
+                "type": "github"
+            },
+            {
+                "title": "gmail",
+                "href": "https://github.com/charlierguo/gmail",
+                "github": "charlierguo/gmail",
+                "type": "github"
+            },
+            {
+                "title": "google-api-python-client",
+                "href": "https://github.com/google/google-api-python-client",
+                "github": "google/google-api-python-client",
+                "type": "github"
+            },
+            {
+                "title": "gspread",
+                "href": "https://github.com/burnash/gspread",
+                "github": "burnash/gspread",
+                "type": "github"
+            },
+            {
+                "title": "twython",
+                "href": "https://github.com/ryanmcgrath/twython",
+                "github": "ryanmcgrath/twython",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "URL Manipulation",
+        "childrens": [
+            {
+                "title": "furl",
+                "href": "https://github.com/gruns/furl",
+                "github": "gruns/furl",
+                "type": "github"
+            },
+            {
+                "title": "purl",
+                "href": "https://github.com/codeinthehole/purl",
+                "github": "codeinthehole/purl",
+                "type": "github"
+            },
+            {
+                "title": "pyshorteners",
+                "href": "https://github.com/ellisonleao/pyshorteners",
+                "github": "ellisonleao/pyshorteners",
+                "type": "github"
+            },
+            {
+                "title": "short_url",
+                "href": "https://github.com/Alir3z4/python-short_url",
+                "github": "Alir3z4/python-short_url",
+                "type": "github"
+            },
+            {
+                "title": "webargs",
+                "href": "https://github.com/sloria/webargs",
+                "github": "sloria/webargs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video",
+        "childrens": [
+            {
+                "title": "scikit-video",
+                "href": "https://github.com/aizvorski/scikit-video",
+                "github": "aizvorski/scikit-video",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "WSGI Servers",
+        "childrens": [
+            {
+                "title": "netius",
+                "href": "https://github.com/hivesolutions/netius",
+                "github": "hivesolutions/netius",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Content Extracting",
+        "childrens": [
+            {
+                "title": "Haul",
+                "href": "https://github.com/vinta/Haul",
+                "github": "vinta/Haul",
+                "type": "github"
+            },
+            {
+                "title": "html2text",
+                "href": "https://github.com/Alir3z4/html2text",
+                "github": "Alir3z4/html2text",
+                "type": "github"
+            },
+            {
+                "title": "lassie",
+                "href": "https://github.com/michaelhelmick/lassie",
+                "github": "michaelhelmick/lassie",
+                "type": "github"
+            },
+            {
+                "title": "micawber",
+                "href": "https://github.com/coleifer/micawber",
+                "github": "coleifer/micawber",
+                "type": "github"
+            },
+            {
+                "title": "newspaper",
+                "href": "https://github.com/codelucas/newspaper",
+                "github": "codelucas/newspaper",
+                "type": "github"
+            },
+            {
+                "title": "opengraph",
+                "href": "https://github.com/erikriver/opengraph",
+                "github": "erikriver/opengraph",
+                "type": "github"
+            },
+            {
+                "title": "python-goose",
+                "href": "https://github.com/grangier/python-goose",
+                "github": "grangier/python-goose",
+                "type": "github"
+            },
+            {
+                "title": "python-readability",
+                "href": "https://github.com/buriy/python-readability",
+                "github": "buriy/python-readability",
+                "type": "github"
+            },
+            {
+                "title": "sanitize",
+                "href": "https://github.com/Alir3z4/python-sanitize",
+                "github": "Alir3z4/python-sanitize",
+                "type": "github"
+            },
+            {
+                "title": "sumy",
+                "href": "https://github.com/miso-belica/sumy",
+                "github": "miso-belica/sumy",
+                "type": "github"
+            },
+            {
+                "title": "textract",
+                "href": "https://github.com/deanmalmgren/textract",
+                "github": "deanmalmgren/textract",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Crawling",
+        "childrens": [
+            {
+                "title": "cola",
+                "href": "https://github.com/chineking/cola",
+                "github": "chineking/cola",
+                "type": "github"
+            },
+            {
+                "title": "Demiurge",
+                "href": "https://github.com/matiasb/demiurge",
+                "github": "matiasb/demiurge",
+                "type": "github"
+            },
+            {
+                "title": "MechanicalSoup",
+                "href": "https://github.com/hickford/MechanicalSoup",
+                "github": "hickford/MechanicalSoup",
+                "type": "github"
+            },
+            {
+                "title": "portia",
+                "href": "https://github.com/scrapinghub/portia",
+                "github": "scrapinghub/portia",
+                "type": "github"
+            },
+            {
+                "title": "pyspider",
+                "href": "https://github.com/binux/pyspider",
+                "github": "binux/pyspider",
+                "type": "github"
+            },
+            {
+                "title": "RoboBrowser",
+                "href": "https://github.com/jmcarp/robobrowser",
+                "github": "jmcarp/robobrowser",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "Sanic",
+                "href": "https://github.com/channelcat/sanic",
+                "github": "channelcat/sanic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "WebSocket",
+        "childrens": [
+            {
+                "title": "AutobahnPython",
+                "href": "https://github.com/crossbario/autobahn-python",
+                "github": "crossbario/autobahn-python",
+                "type": "github"
+            },
+            {
+                "title": "Crossbar",
+                "href": "https://github.com/crossbario/crossbar/",
+                "github": "crossbario/crossbar/",
+                "type": "github"
+            },
+            {
+                "title": "django-socketio",
+                "href": "https://github.com/stephenmcd/django-socketio",
+                "github": "stephenmcd/django-socketio",
+                "type": "github"
+            },
+            {
+                "title": "WebSocket-for-Python",
+                "href": "https://github.com/Lawouach/WebSocket-for-Python",
+                "github": "Lawouach/WebSocket-for-Python",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Websites",
+        "childrens": [
+            {
+                "title": "Trending Python repositories on GitHub today",
+                "href": "https://github.com/trending?l=python",
+                "github": "trending?l=python",
+                "type": "github"
+            }
+        ]
+    }
+]

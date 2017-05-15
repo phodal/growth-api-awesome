@@ -1,0 +1,183 @@
+[
+    {
+        "heading": "Overview",
+        "childrens": [
+            {
+                "title": "Ten Principles for Great General Purpose Web Components",
+                "href": "https://github.com/basic-web-components/components-dev/wiki/Ten-Principles-for-Great-General-Purpose-Web-Components",
+                "github": "basic-web-components/components-dev/wiki/Ten-Principles-for-Great-General-Purpose-Web-Components",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Custom Elements",
+        "childrens": [
+            {
+                "title": "All about HTML Custom Elements",
+                "href": "https://github.com/shawnbot/custom-elements",
+                "github": "shawnbot/custom-elements",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Interoperability",
+        "childrens": [
+            {
+                "title": "Interop Sass",
+                "href": "https://github.com/webcomponents/sass-interop",
+                "github": "webcomponents/sass-interop",
+                "type": "github"
+            },
+            {
+                "title": "Interop Less",
+                "href": "https://github.com/webcomponents/less-interop",
+                "github": "webcomponents/less-interop",
+                "type": "github"
+            },
+            {
+                "title": "Interop Angular",
+                "href": "https://github.com/webcomponents/angular-interop",
+                "github": "webcomponents/angular-interop",
+                "type": "github"
+            },
+            {
+                "title": "Angular2-Polymer",
+                "href": "https://github.com/vaadin/angular2-polymer",
+                "github": "vaadin/angular2-polymer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Generators",
+        "childrens": [
+            {
+                "title": "Generator Elements",
+                "href": "https://github.com/webcomponents/generator-element",
+                "github": "webcomponents/generator-element",
+                "type": "github"
+            },
+            {
+                "title": "Generator Polymer",
+                "href": "https://github.com/yeoman/generator-polymer/",
+                "github": "yeoman/generator-polymer/",
+                "type": "github"
+            },
+            {
+                "title": "Geneator X-Tag",
+                "href": "https://github.com/x-tag/yo-x-tag-generator",
+                "github": "x-tag/yo-x-tag-generator",
+                "type": "github"
+            },
+            {
+                "title": "Slush Element",
+                "href": "https://github.com/webcomponents/slush-element",
+                "github": "webcomponents/slush-element",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tests",
+        "childrens": [
+            {
+                "title": "Seed-Element",
+                "href": "https://github.com/PolymerElements/seed-element",
+                "github": "PolymerElements/seed-element",
+                "type": "github"
+            },
+            {
+                "title": "Web Component Tester",
+                "href": "https://github.com/Polymer/web-component-tester",
+                "github": "Polymer/web-component-tester",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Discover",
+        "childrens": [
+            {
+                "title": "Polymer Projects",
+                "href": "https://github.com/abdonrd/PolymerProjects",
+                "github": "abdonrd/PolymerProjects",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Style Guides",
+        "childrens": [
+            {
+                "title": "Google Web Components Style Guide",
+                "href": "https://github.com/GoogleWebComponents/style-guide",
+                "github": "GoogleWebComponents/style-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "Skate",
+                "href": "https://github.com/skatejs/skatejs",
+                "github": "skatejs/skatejs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Concatenate",
+        "childrens": [
+            {
+                "title": "Vulcanize",
+                "href": "https://github.com/polymer/vulcanize",
+                "github": "polymer/vulcanize",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Polyfills",
+        "childrens": [
+            {
+                "title": "WebComponentsjs",
+                "href": "https://github.com/WebComponents/webcomponentsjs",
+                "github": "WebComponents/webcomponentsjs",
+                "type": "github"
+            },
+            {
+                "title": "custom-elements",
+                "href": "https://github.com/webcomponents/custom-elements",
+                "github": "webcomponents/custom-elements",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boilerplates",
+        "childrens": [
+            {
+                "title": "Polymer Boilerplate",
+                "href": "https://github.com/webcomponents/polymer-boilerplate",
+                "github": "webcomponents/polymer-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "X-Tag Boilerplate",
+                "href": "https://github.com/webcomponents/xtag-boilerplate",
+                "github": "webcomponents/xtag-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "VanillaJS Boilerplate",
+                "href": "https://github.com/webcomponents/element-boilerplate",
+                "github": "webcomponents/element-boilerplate",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "heading": "Guides",
+        "childrens": [
+            {
+                "title": "Acessibilidade for Devs - pt-br",
+                "href": "https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io",
+                "github": "acessibilidade-for-devs/acessibilidade-for-devs.github.io",
+                "type": "github"
+            },
+            {
+                "title": "Accessible Mega Menu",
+                "href": "https://github.com/adobe-accessibility/Accessible-Mega-Menu",
+                "github": "adobe-accessibility/Accessible-Mega-Menu",
+                "type": "github"
+            },
+            {
+                "title": "BBC Accessibility Standards Checker",
+                "href": "https://github.com/bbc/bbc-a11y",
+                "github": "bbc/bbc-a11y",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Articles and Videos",
+        "childrens": [
+            {
+                "title": "A11Y Dialog",
+                "href": "https://github.com/edenspiekermann/a11y-dialog",
+                "github": "edenspiekermann/a11y-dialog",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development Testing and Validators",
+        "childrens": [
+            {
+                "title": "A11Y.css",
+                "href": "https://github.com/ffoodd/a11y.css",
+                "github": "ffoodd/a11y.css",
+                "type": "github"
+            },
+            {
+                "title": "a11y-checker",
+                "href": "https://github.com/Muhnad/a11y-checker",
+                "github": "Muhnad/a11y-checker",
+                "type": "github"
+            },
+            {
+                "title": "Accessibility Developer Tools",
+                "href": "https://github.com/GoogleChrome/accessibility-developer-tools",
+                "github": "GoogleChrome/accessibility-developer-tools",
+                "type": "github"
+            },
+            {
+                "title": "React A11y",
+                "href": "https://github.com/reactjs/react-a11y",
+                "github": "reactjs/react-a11y",
+                "type": "github"
+            },
+            {
+                "title": "skip-to-content",
+                "href": "https://github.com/afonsopacifer/skip-to-content",
+                "github": "afonsopacifer/skip-to-content",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Resources",
+        "childrens": [
+            {
+                "title": "A11yProject",
+                "href": "https://github.com/a11yproject/a11yproject.com",
+                "github": "a11yproject/a11yproject.com",
+                "type": "github"
+            },
+            {
+                "title": "Alix",
+                "href": "https://github.com/ireade/alix",
+                "github": "ireade/alix",
+                "type": "github"
+            },
+            {
+                "title": "Middleman Aria_Current",
+                "href": "https://github.com/thoughtbot/middleman-aria_current",
+                "github": "thoughtbot/middleman-aria_current",
+                "type": "github"
+            },
+            {
+                "title": "Semantic Web Autocomplete for Atom",
+                "href": "https://github.com/obetomuniz/autocomplete-semantic-web",
+                "github": "obetomuniz/autocomplete-semantic-web",
+                "type": "github"
+            },
+            {
+                "title": "Trello accessibility cards generator",
+                "href": "https://github.com/luarmr/trello-a11y-cards",
+                "github": "luarmr/trello-a11y-cards",
+                "type": "github"
+            }
+        ]
+    }
+]

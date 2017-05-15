@@ -1,0 +1,194 @@
+[
+    {
+        "heading": "Third-Party Tools",
+        "childrens": [
+            {
+                "title": "moc-ng",
+                "href": "https://github.com/woboq/moc-ng",
+                "github": "woboq/moc-ng",
+                "type": "github"
+            },
+            {
+                "title": "Qt-Inspector",
+                "href": "https://github.com/robertknight/Qt-Inspector",
+                "github": "robertknight/Qt-Inspector",
+                "type": "github"
+            },
+            {
+                "title": "linuxdeployqt",
+                "href": "https://github.com/probonopd/linuxdeployqt",
+                "github": "probonopd/linuxdeployqt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bindings in Other Languages",
+        "childrens": [
+            {
+                "title": "Mono/.NET languages (via QtSharp)",
+                "href": "https://github.com/ddobrev/QtSharp",
+                "github": "ddobrev/QtSharp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Integrations",
+        "childrens": [
+            {
+                "title": "neiasound",
+                "href": "https://github.com/lucaspcamargo/neiasound",
+                "github": "lucaspcamargo/neiasound",
+                "type": "github"
+            },
+            {
+                "title": "QtAwesome",
+                "href": "https://github.com/gamecreature/QtAwesome",
+                "github": "gamecreature/QtAwesome",
+                "type": "github"
+            },
+            {
+                "title": "qtruby",
+                "href": "https://github.com/cybercatalyst/qtruby",
+                "github": "cybercatalyst/qtruby",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "New Functionality",
+        "childrens": [
+            {
+                "title": "DOtherSide",
+                "href": "https://github.com/filcuc/DOtherSide",
+                "github": "filcuc/DOtherSide",
+                "type": "github"
+            },
+            {
+                "title": "glraw",
+                "href": "https://github.com/cginternals/glraw",
+                "github": "cginternals/glraw",
+                "type": "github"
+            },
+            {
+                "title": "grantlee",
+                "href": "https://github.com/steveire/grantlee",
+                "github": "steveire/grantlee",
+                "type": "github"
+            },
+            {
+                "title": "injeqt",
+                "href": "https://github.com/vogel/injeqt",
+                "github": "vogel/injeqt",
+                "type": "github"
+            },
+            {
+                "title": "qgexedit2",
+                "href": "https://github.com/Simsys/qhexedit2",
+                "github": "Simsys/qhexedit2",
+                "type": "github"
+            },
+            {
+                "title": "qml-material",
+                "href": "https://github.com/papyros/qml-material",
+                "github": "papyros/qml-material",
+                "type": "github"
+            },
+            {
+                "title": "QNodeView",
+                "href": "https://github.com/gwihlidal/QNodeView",
+                "github": "gwihlidal/QNodeView",
+                "type": "github"
+            },
+            {
+                "title": "QSimpleUpdater",
+                "href": "https://github.com/alex-spataru/QSimpleUpdater",
+                "github": "alex-spataru/QSimpleUpdater",
+                "type": "github"
+            },
+            {
+                "title": "qt-maybe",
+                "href": "https://github.com/robertknight/qt-maybe",
+                "github": "robertknight/qt-maybe",
+                "type": "github"
+            },
+            {
+                "title": "qt-mustache",
+                "href": "https://github.com/robertknight/qt-mustache",
+                "github": "robertknight/qt-mustache",
+                "type": "github"
+            },
+            {
+                "title": "qtnotify",
+                "href": "https://github.com/cybercatalyst/qtnotify",
+                "github": "cybercatalyst/qtnotify",
+                "type": "github"
+            },
+            {
+                "title": "QtTerminalWidget",
+                "href": "https://github.com/cybercatalyst/qtterminalwidget",
+                "github": "cybercatalyst/qtterminalwidget",
+                "type": "github"
+            },
+            {
+                "title": "QtVerbalExpressions",
+                "href": "https://github.com/VerbalExpressions/QtVerbalExpressions",
+                "github": "VerbalExpressions/QtVerbalExpressions",
+                "type": "github"
+            },
+            {
+                "title": "qtwebserver",
+                "href": "https://github.com/cybercatalyst/qtwebserver",
+                "github": "cybercatalyst/qtwebserver",
+                "type": "github"
+            },
+            {
+                "title": "verdigris",
+                "href": "https://github.com/woboq/verdigris",
+                "github": "woboq/verdigris",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Software Repositories",
+        "childrens": [
+            {
+                "title": "QtPods",
+                "href": "https://github.com/qt-pods/qt-pods",
+                "github": "qt-pods/qt-pods",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Relevant Awesome Lists",
+        "childrens": [
+            {
+                "title": "Awesome C/C++",
+                "href": "https://github.com/fffaraz/awesome-cpp",
+                "github": "fffaraz/awesome-cpp",
+                "type": "github"
+            },
+            {
+                "title": "Awesome C",
+                "href": "https://github.com/aleksandar-todorovic/awesome-c",
+                "github": "aleksandar-todorovic/awesome-c",
+                "type": "github"
+            },
+            {
+                "title": "Awesome CMake",
+                "href": "https://github.com/onqtam/awesome-cmake",
+                "github": "onqtam/awesome-cmake",
+                "type": "github"
+            },
+            {
+                "title": "Awesome OpenGL",
+                "href": "https://github.com/eug/awesome-opengl",
+                "github": "eug/awesome-opengl",
+                "type": "github"
+            }
+        ]
+    }
+]

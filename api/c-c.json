@@ -1,0 +1,1845 @@
+[
+    {
+        "heading": "Standard Libraries",
+        "childrens": [
+            {
+                "title": "ISO C++ Standards Committee",
+                "href": "https://github.com/cplusplus",
+                "github": "cplusplus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Frameworks",
+        "childrens": [
+            {
+                "title": "Boost",
+                "href": "https://github.com/boostorg",
+                "github": "boostorg",
+                "type": "github"
+            },
+            {
+                "title": "BDE",
+                "href": "https://github.com/bloomberg/bde",
+                "github": "bloomberg/bde",
+                "type": "github"
+            },
+            {
+                "title": "Dlib",
+                "href": "https://github.com/davisking/dlib",
+                "github": "davisking/dlib",
+                "type": "github"
+            },
+            {
+                "title": "EASTL",
+                "href": "https://github.com/electronicarts/EASTL",
+                "github": "electronicarts/EASTL",
+                "type": "github"
+            },
+            {
+                "title": "ffead-cpp",
+                "href": "https://github.com/sumeetchhetri/ffead-cpp",
+                "github": "sumeetchhetri/ffead-cpp",
+                "type": "github"
+            },
+            {
+                "title": "Folly",
+                "href": "https://github.com/facebook/folly",
+                "github": "facebook/folly",
+                "type": "github"
+            },
+            {
+                "title": "JUCE",
+                "href": "https://github.com/julianstorer/JUCE",
+                "github": "julianstorer/JUCE",
+                "type": "github"
+            },
+            {
+                "title": "libPhenom",
+                "href": "https://github.com/facebook/libphenom",
+                "github": "facebook/libphenom",
+                "type": "github"
+            },
+            {
+                "title": "LibSourcey",
+                "href": "https://github.com/sourcey/libsourcey",
+                "github": "sourcey/libsourcey",
+                "type": "github"
+            },
+            {
+                "title": "LibU",
+                "href": "https://github.com/koanlogic/libu",
+                "github": "koanlogic/libu",
+                "type": "github"
+            },
+            {
+                "title": "OpenFrameworks",
+                "href": "https://github.com/openframeworks/openFrameworks",
+                "github": "openframeworks/openFrameworks",
+                "type": "github"
+            },
+            {
+                "title": "Yomm11",
+                "href": "https://github.com/jll63/yomm11",
+                "github": "jll63/yomm11",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Artificial Intelligence",
+        "childrens": [
+            {
+                "title": "ANNetGPGPU",
+                "href": "https://github.com/ANNetGPGPU/ANNetGPGPU",
+                "github": "ANNetGPGPU/ANNetGPGPU",
+                "type": "github"
+            },
+            {
+                "title": "btsk",
+                "href": "https://github.com/aigamedev/btsk",
+                "github": "aigamedev/btsk",
+                "type": "github"
+            },
+            {
+                "title": "Recast/Detour",
+                "href": "https://github.com/recastnavigation/recastnavigation",
+                "github": "recastnavigation/recastnavigation",
+                "type": "github"
+            },
+            {
+                "title": "TensorFlow",
+                "href": "https://github.com/tensorflow/tensorflow",
+                "github": "tensorflow/tensorflow",
+                "type": "github"
+            },
+            {
+                "title": "tiny-dnn",
+                "href": "https://github.com/tiny-dnn/tiny-dnn",
+                "github": "tiny-dnn/tiny-dnn",
+                "type": "github"
+            },
+            {
+                "title": "Veles",
+                "href": "https://github.com/Samsung/veles",
+                "github": "Samsung/veles",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Asynchronous Event Loop",
+        "childrens": [
+            {
+                "title": "libuv",
+                "href": "https://github.com/libuv/libuv",
+                "github": "libuv/libuv",
+                "type": "github"
+            },
+            {
+                "title": "uvw",
+                "href": "https://github.com/skypjack/uvw",
+                "github": "skypjack/uvw",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio",
+        "childrens": [
+            {
+                "title": "Maximilian",
+                "href": "https://github.com/micknoise/Maximilian",
+                "github": "micknoise/Maximilian",
+                "type": "github"
+            },
+            {
+                "title": "SELA",
+                "href": "https://github.com/sahaRatul/sela",
+                "github": "sahaRatul/sela",
+                "type": "github"
+            },
+            {
+                "title": "Tonic",
+                "href": "https://github.com/TonicAudio/Tonic",
+                "github": "TonicAudio/Tonic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Biology",
+        "childrens": [
+            {
+                "title": "Vcflib",
+                "href": "https://github.com/ekg/vcflib",
+                "github": "ekg/vcflib",
+                "type": "github"
+            },
+            {
+                "title": "Wham",
+                "href": "https://github.com/zeeev/wham",
+                "github": "zeeev/wham",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "BitTorrent",
+        "childrens": [
+            {
+                "title": "jech/dht",
+                "href": "https://github.com/jech/dht",
+                "github": "jech/dht",
+                "type": "github"
+            },
+            {
+                "title": "libtorrent",
+                "href": "https://github.com/arvidn/libtorrent",
+                "github": "arvidn/libtorrent",
+                "type": "github"
+            },
+            {
+                "title": "LibTorrent",
+                "href": "https://github.com/rakshasa/libtorrent",
+                "github": "rakshasa/libtorrent",
+                "type": "github"
+            },
+            {
+                "title": "libutp",
+                "href": "https://github.com/bittorrent/libutp",
+                "github": "bittorrent/libutp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CLI",
+        "childrens": [
+            {
+                "title": "docopt.cpp",
+                "href": "https://github.com/docopt/docopt.cpp",
+                "github": "docopt/docopt.cpp",
+                "type": "github"
+            },
+            {
+                "title": "termbox",
+                "href": "https://github.com/nsf/termbox",
+                "github": "nsf/termbox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compression",
+        "childrens": [
+            {
+                "title": "Brotli",
+                "href": "https://github.com/google/brotli",
+                "github": "google/brotli",
+                "type": "github"
+            },
+            {
+                "title": "FiniteStateEntropy",
+                "href": "https://github.com/Cyan4973/FiniteStateEntropy",
+                "github": "Cyan4973/FiniteStateEntropy",
+                "type": "github"
+            },
+            {
+                "title": "LZ4",
+                "href": "https://github.com/Cyan4973/lz4",
+                "github": "Cyan4973/lz4",
+                "type": "github"
+            },
+            {
+                "title": "LZFSE",
+                "href": "https://github.com/lzfse/lzfse",
+                "github": "lzfse/lzfse",
+                "type": "github"
+            },
+            {
+                "title": "Minizip",
+                "href": "https://github.com/nmoinvaz/minizip",
+                "github": "nmoinvaz/minizip",
+                "type": "github"
+            },
+            {
+                "title": "smaz",
+                "href": "https://github.com/antirez/smaz",
+                "github": "antirez/smaz",
+                "type": "github"
+            },
+            {
+                "title": "zlib-ng",
+                "href": "https://github.com/Dead2/zlib-ng",
+                "github": "Dead2/zlib-ng",
+                "type": "github"
+            },
+            {
+                "title": "zstd",
+                "href": "https://github.com/facebook/zstd",
+                "github": "facebook/zstd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Concurrency",
+        "childrens": [
+            {
+                "title": "ArrayFire",
+                "href": "https://github.com/arrayfire/arrayfire",
+                "github": "arrayfire/arrayfire",
+                "type": "github"
+            },
+            {
+                "title": "Boost.Compute",
+                "href": "https://github.com/boostorg/compute",
+                "github": "boostorg/compute",
+                "type": "github"
+            },
+            {
+                "title": "Bolt",
+                "href": "https://github.com/HSA-Libraries/Bolt",
+                "github": "HSA-Libraries/Bolt",
+                "type": "github"
+            },
+            {
+                "title": "ck",
+                "href": "https://github.com/concurrencykit/ck",
+                "github": "concurrencykit/ck",
+                "type": "github"
+            },
+            {
+                "title": "CUB",
+                "href": "https://github.com/NVlabs/cub",
+                "github": "NVlabs/cub",
+                "type": "github"
+            },
+            {
+                "title": "C++React",
+                "href": "https://github.com/schlangster/cpp.react",
+                "github": "schlangster/cpp.react",
+                "type": "github"
+            },
+            {
+                "title": "junction",
+                "href": "https://github.com/preshing/junction",
+                "github": "preshing/junction",
+                "type": "github"
+            },
+            {
+                "title": "libcds",
+                "href": "https://github.com/khizmax/libcds",
+                "github": "khizmax/libcds",
+                "type": "github"
+            },
+            {
+                "title": "Libclsph",
+                "href": "https://github.com/libclsph/libclsph",
+                "github": "libclsph/libclsph",
+                "type": "github"
+            },
+            {
+                "title": "moderngpu",
+                "href": "https://github.com/moderngpu/moderngpu",
+                "github": "moderngpu/moderngpu",
+                "type": "github"
+            },
+            {
+                "title": "NCCL",
+                "href": "https://github.com/NVIDIA/nccl",
+                "github": "NVIDIA/nccl",
+                "type": "github"
+            },
+            {
+                "title": "HPX",
+                "href": "https://github.com/STEllAR-GROUP/hpx/",
+                "github": "STEllAR-GROUP/hpx/",
+                "type": "github"
+            },
+            {
+                "title": "VexCL",
+                "href": "https://github.com/ddemidov/vexcl",
+                "github": "ddemidov/vexcl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Containers",
+        "childrens": [
+            {
+                "title": "Hashmaps",
+                "href": "https://github.com/goossaert/hashmap",
+                "github": "goossaert/hashmap",
+                "type": "github"
+            },
+            {
+                "title": "Hopscotch map",
+                "href": "https://github.com/Tessil/hopscotch-map",
+                "github": "Tessil/hopscotch-map",
+                "type": "github"
+            },
+            {
+                "title": "LSHBOX",
+                "href": "https://github.com/RSIA-LIESMARS-WHU/LSHBOX",
+                "github": "RSIA-LIESMARS-WHU/LSHBOX",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cryptography",
+        "childrens": [
+            {
+                "title": "libsodium",
+                "href": "https://github.com/jedisct1/libsodium",
+                "github": "jedisct1/libsodium",
+                "type": "github"
+            },
+            {
+                "title": "LibTomCrypt",
+                "href": "https://github.com/libtom/libtomcrypt",
+                "github": "libtom/libtomcrypt",
+                "type": "github"
+            },
+            {
+                "title": "mbedTLS",
+                "href": "https://github.com/ARMmbed/mbedtls",
+                "github": "ARMmbed/mbedtls",
+                "type": "github"
+            },
+            {
+                "title": "OpenSSL",
+                "href": "https://github.com/openssl/openssl",
+                "github": "openssl/openssl",
+                "type": "github"
+            },
+            {
+                "title": "retter",
+                "href": "https://github.com/MaciejCzyzewski/retter",
+                "github": "MaciejCzyzewski/retter",
+                "type": "github"
+            },
+            {
+                "title": "s2n",
+                "href": "https://github.com/awslabs/s2n",
+                "github": "awslabs/s2n",
+                "type": "github"
+            },
+            {
+                "title": "Tiny AES128 in C",
+                "href": "https://github.com/kokke/tiny-AES128-C",
+                "github": "kokke/tiny-AES128-C",
+                "type": "github"
+            },
+            {
+                "title": "Themis",
+                "href": "https://github.com/cossacklabs/themis",
+                "github": "cossacklabs/themis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "hiberlite",
+                "href": "https://github.com/paulftw/hiberlite",
+                "github": "paulftw/hiberlite",
+                "type": "github"
+            },
+            {
+                "title": "Hiredis",
+                "href": "https://github.com/redis/hiredis",
+                "github": "redis/hiredis",
+                "type": "github"
+            },
+            {
+                "title": "LevelDB",
+                "href": "https://github.com/google/leveldb",
+                "github": "google/leveldb",
+                "type": "github"
+            },
+            {
+                "title": "LMDB++",
+                "href": "https://github.com/bendiken/lmdbxx",
+                "github": "bendiken/lmdbxx",
+                "type": "github"
+            },
+            {
+                "title": "MongoDB C Driver",
+                "href": "https://github.com/mongodb/mongo-c-driver",
+                "github": "mongodb/mongo-c-driver",
+                "type": "github"
+            },
+            {
+                "title": "MongoDB C++ Driver",
+                "href": "https://github.com/mongodb/mongo-cxx-driver",
+                "github": "mongodb/mongo-cxx-driver",
+                "type": "github"
+            },
+            {
+                "title": "MongoDB Libbson",
+                "href": "https://github.com/mongodb/libbson",
+                "github": "mongodb/libbson",
+                "type": "github"
+            },
+            {
+                "title": "redis3m",
+                "href": "https://github.com/luca3m/redis3m",
+                "github": "luca3m/redis3m",
+                "type": "github"
+            },
+            {
+                "title": "RocksDB",
+                "href": "https://github.com/facebook/rocksdb",
+                "github": "facebook/rocksdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debug",
+        "childrens": [
+            {
+                "title": "backward-cpp",
+                "href": "https://github.com/bombela/backward-cpp",
+                "github": "bombela/backward-cpp",
+                "type": "github"
+            },
+            {
+                "title": "benchmark",
+                "href": "https://github.com/google/benchmark",
+                "github": "google/benchmark",
+                "type": "github"
+            },
+            {
+                "title": "doctest",
+                "href": "https://github.com/onqtam/doctest",
+                "github": "onqtam/doctest",
+                "type": "github"
+            },
+            {
+                "title": "Catch",
+                "href": "https://github.com/philsquared/Catch",
+                "github": "philsquared/Catch",
+                "type": "github"
+            },
+            {
+                "title": "Celero",
+                "href": "https://github.com/DigitalInBlue/Celero",
+                "github": "DigitalInBlue/Celero",
+                "type": "github"
+            },
+            {
+                "title": "Google Mock",
+                "href": "https://github.com/google/googletest/blob/master/googlemock/README.md",
+                "github": "google/googletest/blob/master/googlemock/README.md",
+                "type": "github"
+            },
+            {
+                "title": "Google Test",
+                "href": "https://github.com/google/googletest",
+                "github": "google/googletest",
+                "type": "github"
+            },
+            {
+                "title": "ig-debugheap",
+                "href": "https://github.com/deplinenoise/ig-debugheap",
+                "github": "deplinenoise/ig-debugheap",
+                "type": "github"
+            },
+            {
+                "title": "libtap",
+                "href": "https://github.com/zorgnax/libtap",
+                "github": "zorgnax/libtap",
+                "type": "github"
+            },
+            {
+                "title": "MinUnit",
+                "href": "https://github.com/siu/minunit",
+                "github": "siu/minunit",
+                "type": "github"
+            },
+            {
+                "title": "Remotery",
+                "href": "https://github.com/Celtoys/Remotery",
+                "github": "Celtoys/Remotery",
+                "type": "github"
+            },
+            {
+                "title": "UnitTest++",
+                "href": "https://github.com/unittest-cpp/unittest-cpp",
+                "github": "unittest-cpp/unittest-cpp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game Engine",
+        "childrens": [
+            {
+                "title": "GamePlay",
+                "href": "https://github.com/gameplay3d/GamePlay",
+                "github": "gameplay3d/GamePlay",
+                "type": "github"
+            },
+            {
+                "title": "Godot",
+                "href": "https://github.com/godotengine/godot",
+                "github": "godotengine/godot",
+                "type": "github"
+            },
+            {
+                "title": "Panda3D",
+                "href": "https://github.com/panda3d/panda3d",
+                "github": "panda3d/panda3d",
+                "type": "github"
+            },
+            {
+                "title": "Polycode",
+                "href": "https://github.com/ivansafrin/Polycode",
+                "github": "ivansafrin/Polycode",
+                "type": "github"
+            },
+            {
+                "title": "Torque2D",
+                "href": "https://github.com/GarageGames/Torque2D",
+                "github": "GarageGames/Torque2D",
+                "type": "github"
+            },
+            {
+                "title": "Torque3D",
+                "href": "https://github.com/GarageGames/Torque3D",
+                "github": "GarageGames/Torque3D",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "GacUI",
+                "href": "https://github.com/vczh-libraries/GacUI",
+                "github": "vczh-libraries/GacUI",
+                "type": "github"
+            },
+            {
+                "title": "imgui",
+                "href": "https://github.com/ocornut/imgui",
+                "github": "ocornut/imgui",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graphics",
+        "childrens": [
+            {
+                "title": "bgfx",
+                "href": "https://github.com/bkaradzic/bgfx",
+                "github": "bkaradzic/bgfx",
+                "type": "github"
+            },
+            {
+                "title": "GLFW",
+                "href": "https://github.com/glfw/glfw",
+                "github": "glfw/glfw",
+                "type": "github"
+            },
+            {
+                "title": "Horde3D",
+                "href": "https://github.com/horde3d/Horde3D",
+                "github": "horde3d/Horde3D",
+                "type": "github"
+            },
+            {
+                "title": "magnum",
+                "href": "https://github.com/mosra/magnum",
+                "github": "mosra/magnum",
+                "type": "github"
+            },
+            {
+                "title": "OpenSubdiv",
+                "href": "https://github.com/PixarAnimationStudios/OpenSubdiv",
+                "github": "PixarAnimationStudios/OpenSubdiv",
+                "type": "github"
+            },
+            {
+                "title": "Partio",
+                "href": "https://github.com/wdas/partio",
+                "github": "wdas/partio",
+                "type": "github"
+            },
+            {
+                "title": "Skia",
+                "href": "https://github.com/google/skia",
+                "github": "google/skia",
+                "type": "github"
+            },
+            {
+                "title": "urho3d",
+                "href": "https://github.com/urho3d/Urho3D",
+                "github": "urho3d/Urho3D",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image Processing",
+        "childrens": [
+            {
+                "title": "GD",
+                "href": "https://github.com/libgd/libgd",
+                "github": "libgd/libgd",
+                "type": "github"
+            },
+            {
+                "title": "libvips",
+                "href": "https://github.com/jcupitt/libvips",
+                "github": "jcupitt/libvips",
+                "type": "github"
+            },
+            {
+                "title": "OpenImageIO",
+                "href": "https://github.com/OpenImageIO/oiio",
+                "github": "OpenImageIO/oiio",
+                "type": "github"
+            },
+            {
+                "title": "tesseract-ocr",
+                "href": "https://github.com/tesseract-ocr",
+                "github": "tesseract-ocr",
+                "type": "github"
+            },
+            {
+                "title": "Video++",
+                "href": "https://github.com/matt-42/vpp",
+                "github": "matt-42/vpp",
+                "type": "github"
+            },
+            {
+                "title": "VIGRA",
+                "href": "https://github.com/ukoethe/vigra",
+                "github": "ukoethe/vigra",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Inter-process communication",
+        "childrens": [
+            {
+                "title": "gRPC",
+                "href": "https://github.com/grpc/grpc",
+                "github": "grpc/grpc",
+                "type": "github"
+            },
+            {
+                "title": "libjson-rpc-cpp",
+                "href": "https://github.com/cinemast/libjson-rpc-cpp",
+                "github": "cinemast/libjson-rpc-cpp",
+                "type": "github"
+            },
+            {
+                "title": "nanomsg",
+                "href": "https://github.com/nanomsg/nanomsg",
+                "github": "nanomsg/nanomsg",
+                "type": "github"
+            },
+            {
+                "title": "simple-rpc-cpp",
+                "href": "https://github.com/pearu/simple-rpc-cpp",
+                "github": "pearu/simple-rpc-cpp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JSON",
+        "childrens": [
+            {
+                "title": "frozen",
+                "href": "https://github.com/cesanta/frozen",
+                "github": "cesanta/frozen",
+                "type": "github"
+            },
+            {
+                "title": "Jansson",
+                "href": "https://github.com/akheron/jansson",
+                "github": "akheron/jansson",
+                "type": "github"
+            },
+            {
+                "title": "jbson",
+                "href": "https://github.com/chrismanning/jbson",
+                "github": "chrismanning/jbson",
+                "type": "github"
+            },
+            {
+                "title": "JeayeSON",
+                "href": "https://github.com/jeaye/jeayeson",
+                "github": "jeaye/jeayeson",
+                "type": "github"
+            },
+            {
+                "title": "json",
+                "href": "https://github.com/nlohmann/json",
+                "github": "nlohmann/json",
+                "type": "github"
+            },
+            {
+                "title": "JSON++",
+                "href": "https://github.com/hjiang/jsonxx",
+                "github": "hjiang/jsonxx",
+                "type": "github"
+            },
+            {
+                "title": "JsonCpp",
+                "href": "https://github.com/open-source-parsers/jsoncpp",
+                "github": "open-source-parsers/jsoncpp",
+                "type": "github"
+            },
+            {
+                "title": "json-parser",
+                "href": "https://github.com/udp/json-parser",
+                "github": "udp/json-parser",
+                "type": "github"
+            },
+            {
+                "title": "json11",
+                "href": "https://github.com/dropbox/json11",
+                "github": "dropbox/json11",
+                "type": "github"
+            },
+            {
+                "title": "json-voorhees",
+                "href": "https://github.com/tgockel/json-voorhees",
+                "github": "tgockel/json-voorhees",
+                "type": "github"
+            },
+            {
+                "title": "jute",
+                "href": "https://github.com/amir-s/jute",
+                "github": "amir-s/jute",
+                "type": "github"
+            },
+            {
+                "title": "libjson",
+                "href": "https://github.com/vincenthz/libjson",
+                "github": "vincenthz/libjson",
+                "type": "github"
+            },
+            {
+                "title": "LIBUCL",
+                "href": "https://github.com/vstakhov/libucl",
+                "github": "vstakhov/libucl",
+                "type": "github"
+            },
+            {
+                "title": "PicoJSON",
+                "href": "https://github.com/kazuho/picojson",
+                "github": "kazuho/picojson",
+                "type": "github"
+            },
+            {
+                "title": "qt-json",
+                "href": "https://github.com/gaudecker/qt-json",
+                "github": "gaudecker/qt-json",
+                "type": "github"
+            },
+            {
+                "title": "QJson",
+                "href": "https://github.com/flavio/qjson",
+                "github": "flavio/qjson",
+                "type": "github"
+            },
+            {
+                "title": "RapidJSON",
+                "href": "https://github.com/miloyip/rapidjson",
+                "github": "miloyip/rapidjson",
+                "type": "github"
+            },
+            {
+                "title": "YAJL",
+                "href": "https://github.com/lloyd/yajl",
+                "github": "lloyd/yajl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "Blackhole",
+                "href": "https://github.com/3Hren/blackhole",
+                "github": "3Hren/blackhole",
+                "type": "github"
+            },
+            {
+                "title": "Easylogging++",
+                "href": "https://github.com/easylogging/easyloggingpp",
+                "github": "easylogging/easyloggingpp",
+                "type": "github"
+            },
+            {
+                "title": "G3log",
+                "href": "https://github.com/KjellKod/g3log",
+                "github": "KjellKod/g3log",
+                "type": "github"
+            },
+            {
+                "title": "log4cplus",
+                "href": "https://github.com/log4cplus/log4cplus",
+                "github": "log4cplus/log4cplus",
+                "type": "github"
+            },
+            {
+                "title": "plog",
+                "href": "https://github.com/SergiusTheBest/plog",
+                "github": "SergiusTheBest/plog",
+                "type": "github"
+            },
+            {
+                "title": "reckless",
+                "href": "https://github.com/mattiasflodin/reckless",
+                "github": "mattiasflodin/reckless",
+                "type": "github"
+            },
+            {
+                "title": "spdlog",
+                "href": "https://github.com/gabime/spdlog",
+                "github": "gabime/spdlog",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "Caffe",
+                "href": "https://github.com/BVLC/caffe",
+                "github": "BVLC/caffe",
+                "type": "github"
+            },
+            {
+                "title": "CCV",
+                "href": "https://github.com/liuliu/ccv",
+                "github": "liuliu/ccv",
+                "type": "github"
+            },
+            {
+                "title": "Fido",
+                "href": "https://github.com/FidoProject/Fido",
+                "github": "FidoProject/Fido",
+                "type": "github"
+            },
+            {
+                "title": "MeTA",
+                "href": "https://github.com/meta-toolkit/meta",
+                "github": "meta-toolkit/meta",
+                "type": "github"
+            },
+            {
+                "title": "Minerva",
+                "href": "https://github.com/dmlc/minerva",
+                "github": "dmlc/minerva",
+                "type": "github"
+            },
+            {
+                "title": "mlpack",
+                "href": "https://github.com/mlpack/mlpack",
+                "github": "mlpack/mlpack",
+                "type": "github"
+            },
+            {
+                "title": "OpenCV",
+                "href": "https://github.com/Itseez/opencv",
+                "github": "Itseez/opencv",
+                "type": "github"
+            },
+            {
+                "title": "Recommender",
+                "href": "https://github.com/GHamrouni/Recommender",
+                "github": "GHamrouni/Recommender",
+                "type": "github"
+            },
+            {
+                "title": "SHOGUN",
+                "href": "https://github.com/shogun-toolbox/shogun",
+                "github": "shogun-toolbox/shogun",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Math",
+        "childrens": [
+            {
+                "title": "Apophenia",
+                "href": "https://github.com/b-k/apophenia",
+                "github": "b-k/apophenia",
+                "type": "github"
+            },
+            {
+                "title": "GLM",
+                "href": "https://github.com/g-truc/glm",
+                "github": "g-truc/glm",
+                "type": "github"
+            },
+            {
+                "title": "MIRACL",
+                "href": "https://github.com/CertiVox/MIRACL",
+                "github": "CertiVox/MIRACL",
+                "type": "github"
+            },
+            {
+                "title": "NT2",
+                "href": "https://github.com/Mathieu-/nt2",
+                "github": "Mathieu-/nt2",
+                "type": "github"
+            },
+            {
+                "title": "LibTomMath",
+                "href": "https://github.com/libtom/libtommath",
+                "github": "libtom/libtommath",
+                "type": "github"
+            },
+            {
+                "title": "QuantLib",
+                "href": "https://github.com/lballabio/quantlib",
+                "github": "lballabio/quantlib",
+                "type": "github"
+            },
+            {
+                "title": "Vc",
+                "href": "https://github.com/VcDevel/Vc",
+                "github": "VcDevel/Vc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Multimedia",
+        "childrens": [
+            {
+                "title": "QtAv",
+                "href": "https://github.com/wang-bin/QtAV",
+                "github": "wang-bin/QtAV",
+                "type": "github"
+            },
+            {
+                "title": "SFML",
+                "href": "https://github.com/SFML/SFML",
+                "github": "SFML/SFML",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "C++ REST SDK",
+                "href": "https://github.com/Microsoft/cpprestsdk",
+                "github": "Microsoft/cpprestsdk",
+                "type": "github"
+            },
+            {
+                "title": "Restbed",
+                "href": "https://github.com/corvusoft/restbed",
+                "github": "corvusoft/restbed",
+                "type": "github"
+            },
+            {
+                "title": "cpr",
+                "href": "https://github.com/whoshuu/cpr",
+                "github": "whoshuu/cpr",
+                "type": "github"
+            },
+            {
+                "title": "Dyad.c",
+                "href": "https://github.com/rxi/dyad",
+                "github": "rxi/dyad",
+                "type": "github"
+            },
+            {
+                "title": "Mongoose",
+                "href": "https://github.com/cesanta/mongoose",
+                "github": "cesanta/mongoose",
+                "type": "github"
+            },
+            {
+                "title": "Muduo",
+                "href": "https://github.com/chenshuo/muduo",
+                "github": "chenshuo/muduo",
+                "type": "github"
+            },
+            {
+                "title": "net_skeleton",
+                "href": "https://github.com/cesanta/fossa",
+                "github": "cesanta/fossa",
+                "type": "github"
+            },
+            {
+                "title": "nope.c",
+                "href": "https://github.com/riolet/nope.c",
+                "github": "riolet/nope.c",
+                "type": "github"
+            },
+            {
+                "title": "Onion",
+                "href": "https://github.com/davidmoreno/onion",
+                "github": "davidmoreno/onion",
+                "type": "github"
+            },
+            {
+                "title": "POCO",
+                "href": "https://github.com/pocoproject",
+                "github": "pocoproject",
+                "type": "github"
+            },
+            {
+                "title": "Proxygen",
+                "href": "https://github.com/facebook/proxygen",
+                "github": "facebook/proxygen",
+                "type": "github"
+            },
+            {
+                "title": "RakNet",
+                "href": "https://github.com/OculusVR/RakNet",
+                "github": "OculusVR/RakNet",
+                "type": "github"
+            },
+            {
+                "title": "Tufão",
+                "href": "https://github.com/vinipsmaker/tufao",
+                "github": "vinipsmaker/tufao",
+                "type": "github"
+            },
+            {
+                "title": "WebSocket++",
+                "href": "https://github.com/zaphoyd/websocketpp",
+                "github": "zaphoyd/websocketpp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Physics",
+        "childrens": [
+            {
+                "title": "Box2D",
+                "href": "https://github.com/erincatto/Box2D",
+                "github": "erincatto/Box2D",
+                "type": "github"
+            },
+            {
+                "title": "Bullet",
+                "href": "https://github.com/bulletphysics/bullet3",
+                "github": "bulletphysics/bullet3",
+                "type": "github"
+            },
+            {
+                "title": "Chipmunk",
+                "href": "https://github.com/slembcke/Chipmunk2D",
+                "github": "slembcke/Chipmunk2D",
+                "type": "github"
+            },
+            {
+                "title": "LiquidFun",
+                "href": "https://github.com/google/liquidfun",
+                "github": "google/liquidfun",
+                "type": "github"
+            },
+            {
+                "title": "Newton Dynamics",
+                "href": "https://github.com/MADEAPPS/newton-dynamics",
+                "github": "MADEAPPS/newton-dynamics",
+                "type": "github"
+            },
+            {
+                "title": "ofxBox2d",
+                "href": "https://github.com/vanderlin/ofxBox2d",
+                "github": "vanderlin/ofxBox2d",
+                "type": "github"
+            },
+            {
+                "title": "Simbody",
+                "href": "https://github.com/simbody/simbody",
+                "github": "simbody/simbody",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Robotics",
+        "childrens": [
+            {
+                "title": "PCL",
+                "href": "https://github.com/PointCloudLibrary/pcl",
+                "github": "PointCloudLibrary/pcl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scientific Computing",
+        "childrens": [
+            {
+                "title": "Trilinos",
+                "href": "https://github.com/trilinos/Trilinos",
+                "github": "trilinos/Trilinos",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scripting",
+        "childrens": [
+            {
+                "title": "ChaiScript",
+                "href": "https://github.com/ChaiScript/ChaiScript/",
+                "github": "ChaiScript/ChaiScript/",
+                "type": "github"
+            },
+            {
+                "title": "Duktape",
+                "href": "https://github.com/svaarala/duktape",
+                "github": "svaarala/duktape",
+                "type": "github"
+            },
+            {
+                "title": "luacxx",
+                "href": "https://github.com/dafrito/luacxx",
+                "github": "dafrito/luacxx",
+                "type": "github"
+            },
+            {
+                "title": "V7",
+                "href": "https://github.com/cesanta/v7",
+                "github": "cesanta/v7",
+                "type": "github"
+            },
+            {
+                "title": "ChakraCore",
+                "href": "https://github.com/Microsoft/ChakraCore",
+                "github": "Microsoft/ChakraCore",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Serialization",
+        "childrens": [
+            {
+                "title": "cereal",
+                "href": "https://github.com/USCiLab/cereal",
+                "github": "USCiLab/cereal",
+                "type": "github"
+            },
+            {
+                "title": "cppcodec",
+                "href": "https://github.com/tplgy/cppcodec",
+                "github": "tplgy/cppcodec",
+                "type": "github"
+            },
+            {
+                "title": "FlatBuffers",
+                "href": "https://github.com/google/flatbuffers",
+                "github": "google/flatbuffers",
+                "type": "github"
+            },
+            {
+                "title": "MessagePack",
+                "href": "https://github.com/msgpack/msgpack-c",
+                "github": "msgpack/msgpack-c",
+                "type": "github"
+            },
+            {
+                "title": "protobuf",
+                "href": "https://github.com/google/protobuf",
+                "github": "google/protobuf",
+                "type": "github"
+            },
+            {
+                "title": "protobuf-c",
+                "href": "https://github.com/protobuf-c/protobuf-c",
+                "github": "protobuf-c/protobuf-c",
+                "type": "github"
+            },
+            {
+                "title": "SimpleBinaryEncoding",
+                "href": "https://github.com/real-logic/simple-binary-encoding",
+                "github": "real-logic/simple-binary-encoding",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video",
+        "childrens": [
+            {
+                "title": "libde265",
+                "href": "https://github.com/strukturag/libde265",
+                "github": "strukturag/libde265",
+                "type": "github"
+            },
+            {
+                "title": "OpenH264",
+                "href": "https://github.com/cisco/openh264",
+                "github": "cisco/openh264",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Virtual Machines",
+        "childrens": [
+            {
+                "title": "CarpVM",
+                "href": "https://github.com/tekknolagi/carp",
+                "github": "tekknolagi/carp",
+                "type": "github"
+            },
+            {
+                "title": "MicroPython",
+                "href": "https://github.com/micropython/micropython",
+                "github": "micropython/micropython",
+                "type": "github"
+            },
+            {
+                "title": "TinyVM",
+                "href": "https://github.com/jakogut/tinyvm",
+                "github": "jakogut/tinyvm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Application Framework",
+        "childrens": [
+            {
+                "title": "Civetweb",
+                "href": "https://github.com/civetweb/civetweb",
+                "github": "civetweb/civetweb",
+                "type": "github"
+            },
+            {
+                "title": "Crow",
+                "href": "https://github.com/ipkn/crow",
+                "github": "ipkn/crow",
+                "type": "github"
+            },
+            {
+                "title": "lwan",
+                "href": "https://github.com/lpereira/lwan",
+                "github": "lpereira/lwan",
+                "type": "github"
+            },
+            {
+                "title": "QDjango",
+                "href": "https://github.com/jlaine/qdjango/",
+                "github": "jlaine/qdjango/",
+                "type": "github"
+            },
+            {
+                "title": "TreeFrog Framework",
+                "href": "https://github.com/treefrogframework/treefrog-framework",
+                "github": "treefrogframework/treefrog-framework",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "XML",
+        "childrens": [
+            {
+                "title": "TinyXML2",
+                "href": "https://github.com/leethomason/tinyxml2",
+                "github": "leethomason/tinyxml2",
+                "type": "github"
+            },
+            {
+                "title": "TinyXML++",
+                "href": "https://github.com/rjpcomputing/ticpp",
+                "github": "rjpcomputing/ticpp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "access_profiler",
+                "href": "https://github.com/arvidn/access_profiler",
+                "github": "arvidn/access_profiler",
+                "type": "github"
+            },
+            {
+                "title": "Better Enums",
+                "href": "https://github.com/aantron/better-enums",
+                "github": "aantron/better-enums",
+                "type": "github"
+            },
+            {
+                "title": "{fmt}",
+                "href": "https://github.com/fmtlib/fmt",
+                "github": "fmtlib/fmt",
+                "type": "github"
+            },
+            {
+                "title": "CppVerbalExpressions",
+                "href": "https://github.com/VerbalExpressions/CppVerbalExpressions",
+                "github": "VerbalExpressions/CppVerbalExpressions",
+                "type": "github"
+            },
+            {
+                "title": "QtVerbalExpressions",
+                "href": "https://github.com/VerbalExpressions/QtVerbalExpressions",
+                "github": "VerbalExpressions/QtVerbalExpressions",
+                "type": "github"
+            },
+            {
+                "title": "c-smart-pointers",
+                "href": "https://github.com/Snaipe/libcsptr",
+                "github": "Snaipe/libcsptr",
+                "type": "github"
+            },
+            {
+                "title": "cxx-prettyprint",
+                "href": "https://github.com/louisdx/cxx-prettyprint",
+                "github": "louisdx/cxx-prettyprint",
+                "type": "github"
+            },
+            {
+                "title": "gcc-poison",
+                "href": "https://github.com/leafsr/gcc-poison",
+                "github": "leafsr/gcc-poison",
+                "type": "github"
+            },
+            {
+                "title": "HTTP Parser",
+                "href": "https://github.com/nodejs/http-parser",
+                "github": "nodejs/http-parser",
+                "type": "github"
+            },
+            {
+                "title": "Klib",
+                "href": "https://github.com/attractivechaos/klib",
+                "github": "attractivechaos/klib",
+                "type": "github"
+            },
+            {
+                "title": "libcpuid",
+                "href": "https://github.com/anrieff/libcpuid",
+                "github": "anrieff/libcpuid",
+                "type": "github"
+            },
+            {
+                "title": "libevil",
+                "href": "https://github.com/avati/libevil",
+                "github": "avati/libevil",
+                "type": "github"
+            },
+            {
+                "title": "libnih",
+                "href": "https://github.com/keybuk/libnih",
+                "github": "keybuk/libnih",
+                "type": "github"
+            },
+            {
+                "title": "Mach7",
+                "href": "https://github.com/solodon4/Mach7",
+                "github": "solodon4/Mach7",
+                "type": "github"
+            },
+            {
+                "title": "RE2",
+                "href": "https://github.com/google/re2",
+                "github": "google/re2",
+                "type": "github"
+            },
+            {
+                "title": "PHP-CPP",
+                "href": "https://github.com/CopernicaMarketingSoftware/PHP-CPP",
+                "github": "CopernicaMarketingSoftware/PHP-CPP",
+                "type": "github"
+            },
+            {
+                "title": "SDS",
+                "href": "https://github.com/antirez/sds",
+                "github": "antirez/sds",
+                "type": "github"
+            },
+            {
+                "title": "semver.c",
+                "href": "https://github.com/h2non/semver.c",
+                "github": "h2non/semver.c",
+                "type": "github"
+            },
+            {
+                "title": "Serial Communication Library",
+                "href": "https://github.com/wjwwood/serial",
+                "github": "wjwwood/serial",
+                "type": "github"
+            },
+            {
+                "title": "SLDR",
+                "href": "https://github.com/cesanta/sldr",
+                "github": "cesanta/sldr",
+                "type": "github"
+            },
+            {
+                "title": "SLRE",
+                "href": "https://github.com/cesanta/slre",
+                "github": "cesanta/slre",
+                "type": "github"
+            },
+            {
+                "title": "Stage",
+                "href": "https://github.com/rtv/Stage",
+                "github": "rtv/Stage",
+                "type": "github"
+            },
+            {
+                "title": "stb",
+                "href": "https://github.com/nothings/stb",
+                "github": "nothings/stb",
+                "type": "github"
+            },
+            {
+                "title": "ub-canaries",
+                "href": "https://github.com/regehr/ub-canaries",
+                "github": "regehr/ub-canaries",
+                "type": "github"
+            },
+            {
+                "title": "ZXing",
+                "href": "https://github.com/zxing/zxing/",
+                "github": "zxing/zxing/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compiler",
+        "childrens": [
+            {
+                "title": "8cc",
+                "href": "https://github.com/rui314/8cc",
+                "github": "rui314/8cc",
+                "type": "github"
+            },
+            {
+                "title": "c",
+                "href": "https://github.com/ryanmjacobs/c",
+                "github": "ryanmjacobs/c",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Integrated Development Environment",
+        "childrens": [
+            {
+                "title": "color_coded",
+                "href": "https://github.com/jeaye/color_coded",
+                "github": "jeaye/color_coded",
+                "type": "github"
+            },
+            {
+                "title": "Irony-mode",
+                "href": "https://github.com/Sarcasm/irony-mode",
+                "github": "Sarcasm/irony-mode",
+                "type": "github"
+            },
+            {
+                "title": "juCi++",
+                "href": "https://github.com/cppit/jucipp",
+                "github": "cppit/jucipp",
+                "type": "github"
+            },
+            {
+                "title": "rtags",
+                "href": "https://github.com/Andersbakken/rtags",
+                "github": "Andersbakken/rtags",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build Systems",
+        "childrens": [
+            {
+                "title": "Bear",
+                "href": "https://github.com/rizsotto/Bear",
+                "github": "rizsotto/Bear",
+                "type": "github"
+            },
+            {
+                "title": "CPM",
+                "href": "https://github.com/iauns/cpm",
+                "github": "iauns/cpm",
+                "type": "github"
+            },
+            {
+                "title": "tundra",
+                "href": "https://github.com/deplinenoise/tundra",
+                "github": "deplinenoise/tundra",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Static Code Analysis",
+        "childrens": [
+            {
+                "title": "Infer",
+                "href": "https://github.com/facebook/infer",
+                "github": "facebook/infer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Coding Style Tools",
+        "childrens": [
+            {
+                "title": "Uncrustify",
+                "href": "https://github.com/bengardner/uncrustify",
+                "github": "bengardner/uncrustify",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Articles",
+        "childrens": [
+            {
+                "title": "CppCon 2016 Presentation Materials",
+                "href": "https://github.com/CppCon/CppCon2016",
+                "github": "CppCon/CppCon2016",
+                "type": "github"
+            },
+            {
+                "title": "CppCon 2015 Presentation Materials",
+                "href": "https://github.com/CppCon/CppCon2015",
+                "github": "CppCon/CppCon2015",
+                "type": "github"
+            },
+            {
+                "title": "CppCon 2014 Presentation Materials",
+                "href": "https://github.com/CppCon/CppCon2014",
+                "github": "CppCon/CppCon2014",
+                "type": "github"
+            },
+            {
+                "title": "C++Now 2016 Presentations",
+                "href": "https://github.com/brycelelbach/cppnow_presentations_2016",
+                "github": "brycelelbach/cppnow_presentations_2016",
+                "type": "github"
+            },
+            {
+                "title": "C++Now 2015 Presentations",
+                "href": "https://github.com/boostcon/cppnow_presentations_2015",
+                "github": "boostcon/cppnow_presentations_2015",
+                "type": "github"
+            },
+            {
+                "title": "C++Now 2014 Presentations",
+                "href": "https://github.com/boostcon/cppnow_presentations_2014",
+                "github": "boostcon/cppnow_presentations_2014",
+                "type": "github"
+            },
+            {
+                "title": "C++Now 2013 Presentations",
+                "href": "https://github.com/boostcon/cppnow_presentations_2013",
+                "github": "boostcon/cppnow_presentations_2013",
+                "type": "github"
+            },
+            {
+                "title": "C++Now 2012 Presentations",
+                "href": "https://github.com/boostcon/cppnow_presentations_2012",
+                "github": "boostcon/cppnow_presentations_2012",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Books",
+        "childrens": [
+            {
+                "title": "List of Free C/C++ Books",
+                "href": "https://github.com/fffaraz/awesome-cpp/blob/master/books.md",
+                "github": "fffaraz/awesome-cpp/blob/master/books.md",
+                "type": "github"
+            },
+            {
+                "title": "Free C Books",
+                "href": "https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c",
+                "github": "vhf/free-programming-books/blob/master/free-programming-books.md#c",
+                "type": "github"
+            },
+            {
+                "title": "Free C++ Books",
+                "href": "https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1",
+                "github": "vhf/free-programming-books/blob/master/free-programming-books.md#c-1",
+                "type": "github"
+            },
+            {
+                "title": "cppbestpractices",
+                "href": "https://github.com/lefticus/cppbestpractices",
+                "github": "lefticus/cppbestpractices",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Coding Style",
+        "childrens": [
+            {
+                "title": "C++ Core Guidelines",
+                "href": "https://github.com/isocpp/CppCoreGuidelines",
+                "github": "isocpp/CppCoreGuidelines",
+                "type": "github"
+            },
+            {
+                "title": "google-styleguide",
+                "href": "https://github.com/google/styleguide",
+                "github": "google/styleguide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Talks",
+        "childrens": [
+            {
+                "title": "Quick game development with C++11/C++14",
+                "href": "https://github.com/SuperV1234/cppcon2014",
+                "github": "SuperV1234/cppcon2014",
+                "type": "github"
+            },
+            {
+                "title": "Presentation on Hana for C++Now 2015",
+                "href": "https://github.com/ldionne/hana-cppnow-2015",
+                "github": "ldionne/hana-cppnow-2015",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Videos",
+        "childrens": [
+            {
+                "title": "List of C/C++ YouTube Videos",
+                "href": "https://github.com/fffaraz/awesome-cpp/blob/master/videos.md",
+                "github": "fffaraz/awesome-cpp/blob/master/videos.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Projects",
+        "childrens": [
+            {
+                "title": "algorithms",
+                "href": "https://github.com/xtaci/algorithms",
+                "github": "xtaci/algorithms",
+                "type": "github"
+            },
+            {
+                "title": "c-algorithms",
+                "href": "https://github.com/fragglet/c-algorithms",
+                "github": "fragglet/c-algorithms",
+                "type": "github"
+            },
+            {
+                "title": "C/C++ Awesome Pack",
+                "href": "https://github.com/JunianNet/CppAwesomePack",
+                "github": "JunianNet/CppAwesomePack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Lists",
+        "childrens": [
+            {
+                "title": "lists",
+                "href": "https://github.com/jnv/lists",
+                "github": "jnv/lists",
+                "type": "github"
+            },
+            {
+                "title": "awesome-awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            },
+            {
+                "title": "awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "C++ links",
+                "href": "https://github.com/MattPD/cpplinks",
+                "github": "MattPD/cpplinks",
+                "type": "github"
+            },
+            {
+                "title": "Awesome C",
+                "href": "https://github.com/aleksandar-todorovic/awesome-c",
+                "github": "aleksandar-todorovic/awesome-c",
+                "type": "github"
+            },
+            {
+                "title": "free-programming-books",
+                "href": "https://github.com/vhf/free-programming-books",
+                "github": "vhf/free-programming-books",
+                "type": "github"
+            },
+            {
+                "title": "papers-we-love",
+                "href": "https://github.com/papers-we-love/papers-we-love",
+                "github": "papers-we-love/papers-we-love",
+                "type": "github"
+            },
+            {
+                "title": "awesome-algorithms",
+                "href": "https://github.com/tayllan/awesome-algorithms",
+                "github": "tayllan/awesome-algorithms",
+                "type": "github"
+            },
+            {
+                "title": "awesome-talks",
+                "href": "https://github.com/JanVanRyswyck/awesome-talks",
+                "github": "JanVanRyswyck/awesome-talks",
+                "type": "github"
+            },
+            {
+                "title": "Projects",
+                "href": "https://github.com/karan/Projects",
+                "github": "karan/Projects",
+                "type": "github"
+            },
+            {
+                "title": "Awesome interview questions",
+                "href": "https://github.com/MaximAbramchuck/awesome-interviews",
+                "github": "MaximAbramchuck/awesome-interviews",
+                "type": "github"
+            }
+        ]
+    }
+]

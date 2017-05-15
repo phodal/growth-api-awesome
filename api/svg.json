@@ -1,0 +1,48 @@
+[
+    {
+        "heading": "Thanks to...",
+        "childrens": [
+            {
+                "title": "Marcus Vinicius",
+                "href": "https://github.com/mvfsillva",
+                "github": "mvfsillva",
+                "type": "github"
+            },
+            {
+                "title": "Rodrigo Machado",
+                "href": "https://github.com/rcmachado",
+                "github": "rcmachado",
+                "type": "github"
+            },
+            {
+                "title": "Cleyson Leal",
+                "href": "https://github.com/Cleysonlb",
+                "github": "Cleysonlb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Lists",
+        "childrens": [
+            {
+                "title": "Awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "Awesome-awesome",
+                "href": "https://github.com/emijrp/awesome-awesome",
+                "github": "emijrp/awesome-awesome",
+                "type": "github"
+            },
+            {
+                "title": "Awesome-awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            }
+        ]
+    }
+]

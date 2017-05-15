@@ -1,0 +1,107 @@
+[
+    {
+        "heading": "Software",
+        "childrens": [
+            {
+                "title": "GitHub",
+                "href": "https://github.com/",
+                "github": "",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Economists",
+        "childrens": [
+            {
+                "title": "davidrpugh",
+                "href": "https://github.com/davidrpugh",
+                "github": "davidrpugh",
+                "type": "github"
+            },
+            {
+                "title": "hmgaudecker",
+                "href": "https://github.com/hmgaudecker",
+                "github": "hmgaudecker",
+                "type": "github"
+            },
+            {
+                "title": "jesusfv",
+                "href": "https://github.com/jesusfv",
+                "github": "jesusfv",
+                "type": "github"
+            },
+            {
+                "title": "jstac",
+                "href": "https://github.com/jstac",
+                "github": "jstac",
+                "type": "github"
+            },
+            {
+                "title": "nathanlane",
+                "href": "https://github.com/nathanlane",
+                "github": "nathanlane",
+                "type": "github"
+            },
+            {
+                "title": "robertdkirkby",
+                "href": "https://github.com/robertdkirkby",
+                "github": "robertdkirkby",
+                "type": "github"
+            },
+            {
+                "title": "trickvi",
+                "href": "https://github.com/trickvi",
+                "github": "trickvi",
+                "type": "github"
+            },
+            {
+                "title": "nealbob",
+                "href": "https://github.com/nealbob",
+                "github": "nealbob",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Projects",
+        "childrens": [
+            {
+                "title": "economics-book",
+                "href": "https://github.com/philschatz/economics-book",
+                "github": "philschatz/economics-book",
+                "type": "github"
+            },
+            {
+                "title": "pyeconomics",
+                "href": "https://github.com/davidrpugh/pyeconomics",
+                "github": "davidrpugh/pyeconomics",
+                "type": "github"
+            },
+            {
+                "title": "QuantEcon",
+                "href": "https://github.com/QuantEcon/",
+                "github": "QuantEcon/",
+                "type": "github"
+            },
+            {
+                "title": "quantecon_nyu_2016",
+                "href": "https://github.com/jstac/quantecon_nyu_2016",
+                "github": "jstac/quantecon_nyu_2016",
+                "type": "github"
+            },
+            {
+                "title": "zice-2014",
+                "href": "https://github.com/davidrpugh/zice-2014",
+                "github": "davidrpugh/zice-2014",
+                "type": "github"
+            },
+            {
+                "title": "VFI Toolkit",
+                "href": "https://github.com/vfitoolkit",
+                "github": "vfitoolkit",
+                "type": "github"
+            }
+        ]
+    }
+]

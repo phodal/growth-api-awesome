@@ -1,0 +1,287 @@
+[
+    {
+        "heading": "Streaming Engine",
+        "childrens": [
+            {
+                "title": "Apache Apex",
+                "href": "https://github.com/apache/incubator-apex-core",
+                "github": "apache/incubator-apex-core",
+                "type": "github"
+            },
+            {
+                "title": "Hazelcast Jet",
+                "href": "https://github.com/hazelcast/hazelcast-jet",
+                "github": "hazelcast/hazelcast-jet",
+                "type": "github"
+            },
+            {
+                "title": "mupd8(muppet)",
+                "href": "https://github.com/walmartlabs/mupd8",
+                "github": "walmartlabs/mupd8",
+                "type": "github"
+            },
+            {
+                "title": "SPQR",
+                "href": "https://github.com/ottogroup/SPQR",
+                "github": "ottogroup/SPQR",
+                "type": "github"
+            },
+            {
+                "title": "tigon",
+                "href": "https://github.com/caskdata/tigon",
+                "github": "caskdata/tigon",
+                "type": "github"
+            },
+            {
+                "title": "hailstorm",
+                "href": "https://github.com/hailstorm-hs/hailstorm",
+                "github": "hailstorm-hs/hailstorm",
+                "type": "github"
+            },
+            {
+                "title": "Teknek",
+                "href": "https://github.com/edwardcapriolo/teknek-core",
+                "github": "edwardcapriolo/teknek-core",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Streaming Library",
+        "childrens": [
+            {
+                "title": "FS2(prev. 'Scalaz-Stream')",
+                "href": "https://github.com/functional-streams-for-scala/fs2",
+                "github": "functional-streams-for-scala/fs2",
+                "type": "github"
+            },
+            {
+                "title": "monifu",
+                "href": "https://github.com/monifu/monifu",
+                "github": "monifu/monifu",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Streaming Application",
+        "childrens": [
+            {
+                "title": "straw",
+                "href": "https://github.com/rwalk/straw",
+                "github": "rwalk/straw",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DSL",
+        "childrens": [
+            {
+                "title": "summingbird",
+                "href": "https://github.com/twitter/summingbird",
+                "github": "twitter/summingbird",
+                "type": "github"
+            },
+            {
+                "title": "coast",
+                "href": "https://github.com/bkirwi/coast",
+                "github": "bkirwi/coast",
+                "type": "github"
+            },
+            {
+                "title": "Apache Beam",
+                "href": "https://github.com/apache/incubator-beam",
+                "github": "apache/incubator-beam",
+                "type": "github"
+            },
+            {
+                "title": "Esper",
+                "href": "https://github.com/espertechinc/esper",
+                "github": "espertechinc/esper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Pipeline",
+        "childrens": [
+            {
+                "title": "Apache Kafka",
+                "href": "https://github.com/apache/kafka",
+                "github": "apache/kafka",
+                "type": "github"
+            },
+            {
+                "title": "metaq",
+                "href": "https://github.com/killme2008/Metamorphosis",
+                "github": "killme2008/Metamorphosis",
+                "type": "github"
+            },
+            {
+                "title": "nsq",
+                "href": "https://github.com/bitly/nsq",
+                "github": "bitly/nsq",
+                "type": "github"
+            },
+            {
+                "title": "NATS streaming",
+                "href": "https://github.com/nats-io/nats-streaming-server",
+                "github": "nats-io/nats-streaming-server",
+                "type": "github"
+            },
+            {
+                "title": "camus",
+                "href": "https://github.com/linkedin/camus",
+                "github": "linkedin/camus",
+                "type": "github"
+            },
+            {
+                "title": "databus",
+                "href": "https://github.com/linkedin/databus",
+                "github": "linkedin/databus",
+                "type": "github"
+            },
+            {
+                "title": "flume",
+                "href": "https://github.com/apache/flume",
+                "github": "apache/flume",
+                "type": "github"
+            },
+            {
+                "title": "suro",
+                "href": "https://github.com/Netflix/suro",
+                "github": "Netflix/suro",
+                "type": "github"
+            },
+            {
+                "title": "StreamSets Data Collector",
+                "href": "https://github.com/streamsets/datacollector",
+                "github": "streamsets/datacollector",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Online Machine Learning",
+        "childrens": [
+            {
+                "title": "streamDM",
+                "href": "https://github.com/huawei-noah/streamDM",
+                "github": "huawei-noah/streamDM",
+                "type": "github"
+            },
+            {
+                "title": "Apache Samoa",
+                "href": "https://github.com/yahoo/samoa",
+                "github": "yahoo/samoa",
+                "type": "github"
+            },
+            {
+                "title": "trident-ml",
+                "href": "https://github.com/pmerienne/trident-ml",
+                "github": "pmerienne/trident-ml",
+                "type": "github"
+            },
+            {
+                "title": "StormCV",
+                "href": "https://github.com/sensorstorm/StormCV",
+                "github": "sensorstorm/StormCV",
+                "type": "github"
+            },
+            {
+                "title": "DataSketches",
+                "href": "https://github.com/DataSketches/sketches-core",
+                "github": "DataSketches/sketches-core",
+                "type": "github"
+            },
+            {
+                "title": "StreamingBandit",
+                "href": "https://github.com/MKaptein/streamingbandit",
+                "github": "MKaptein/streamingbandit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Stream SQL",
+        "childrens": [
+            {
+                "title": "pipelinedb",
+                "href": "https://github.com/pipelinedb/pipelinedb",
+                "github": "pipelinedb/pipelinedb",
+                "type": "github"
+            },
+            {
+                "title": "squall",
+                "href": "https://github.com/epfldata/squall",
+                "github": "epfldata/squall",
+                "type": "github"
+            },
+            {
+                "title": "StreamCQL",
+                "href": "https://github.com/HuaweiBigData/StreamCQL",
+                "github": "HuaweiBigData/StreamCQL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Benchmark",
+        "childrens": [
+            {
+                "title": "storm-benchmark",
+                "href": "https://github.com/intel-hadoop/storm-benchmark",
+                "github": "intel-hadoop/storm-benchmark",
+                "type": "github"
+            },
+            {
+                "title": "storm-perf-test",
+                "href": "https://github.com/yahoo/storm-perf-test",
+                "github": "yahoo/storm-perf-test",
+                "type": "github"
+            },
+            {
+                "title": "streaming-benchmarks",
+                "href": "https://github.com/yahoo/streaming-benchmarks",
+                "github": "yahoo/streaming-benchmarks",
+                "type": "github"
+            },
+            {
+                "title": "flotilla",
+                "href": "https://github.com/tylertreat/Flotilla",
+                "github": "tylertreat/Flotilla",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Toolkit",
+        "childrens": [
+            {
+                "title": "aeron",
+                "href": "https://github.com/real-logic/Aeron",
+                "github": "real-logic/Aeron",
+                "type": "github"
+            },
+            {
+                "title": "StreamFlow",
+                "href": "https://github.com/lmco/streamflow",
+                "github": "lmco/streamflow",
+                "type": "github"
+            },
+            {
+                "title": "samza-luwak",
+                "href": "https://github.com/romseygeek/samza-luwak",
+                "github": "romseygeek/samza-luwak",
+                "type": "github"
+            },
+            {
+                "title": "Turbine",
+                "href": "https://github.com/Netflix/Turbine",
+                "github": "Netflix/Turbine",
+                "type": "github"
+            }
+        ]
+    }
+]

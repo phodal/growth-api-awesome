@@ -1,0 +1,118 @@
+[
+    {
+        "heading": "Free and Open Source Libraries",
+        "childrens": [
+            {
+                "title": "Chartkick",
+                "href": "https://github.com/ankane/chartkick",
+                "github": "ankane/chartkick",
+                "type": "github"
+            },
+            {
+                "title": "dygraphs",
+                "href": "https://github.com/danvk/dygraphs",
+                "github": "danvk/dygraphs",
+                "type": "github"
+            },
+            {
+                "title": "ECharts",
+                "href": "https://github.com/ecomfe/echarts",
+                "github": "ecomfe/echarts",
+                "type": "github"
+            },
+            {
+                "title": "EJSChart",
+                "href": "https://github.com/EmpriseCorporation/EJSCharts",
+                "github": "EmpriseCorporation/EJSCharts",
+                "type": "github"
+            },
+            {
+                "title": "Graphosaurus",
+                "href": "https://github.com/frewsxcv/graphosaurus",
+                "github": "frewsxcv/graphosaurus",
+                "type": "github"
+            },
+            {
+                "title": "Plotly",
+                "href": "https://github.com/plotly/plotly.js",
+                "github": "plotly/plotly.js",
+                "type": "github"
+            },
+            {
+                "title": "Plottable",
+                "href": "https://github.com/palantir/plottable",
+                "github": "palantir/plottable",
+                "type": "github"
+            },
+            {
+                "title": "sigma.js",
+                "href": "https://github.com/jacomyal/sigma.js",
+                "github": "jacomyal/sigma.js",
+                "type": "github"
+            },
+            {
+                "title": "Smoothie Charts",
+                "href": "https://github.com/joewalnes/smoothie",
+                "github": "joewalnes/smoothie",
+                "type": "github"
+            },
+            {
+                "title": "uvCharts",
+                "href": "https://github.com/imaginea/uvCharts",
+                "github": "imaginea/uvCharts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Angular",
+        "childrens": [
+            {
+                "title": "n3-charts",
+                "href": "https://github.com/n3-charts/line-chart",
+                "github": "n3-charts/line-chart",
+                "type": "github"
+            },
+            {
+                "title": "Angular-scale",
+                "href": "https://github.com/kirillstepkin/scale",
+                "github": "kirillstepkin/scale",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "jQuery",
+        "childrens": [
+            {
+                "title": "JQuery-linechart",
+                "href": "https://github.com/kirillstepkin/jquery-linechart",
+                "github": "kirillstepkin/jquery-linechart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React",
+        "childrens": [
+            {
+                "title": "Formiddable",
+                "href": "https://github.com/FormidableLabs/victory",
+                "github": "FormidableLabs/victory",
+                "type": "github"
+            },
+            {
+                "title": "react-d3",
+                "href": "https://github.com/esbullington/react-d3",
+                "github": "esbullington/react-d3",
+                "type": "github"
+            },
+            {
+                "title": "react-vis",
+                "href": "https://github.com/uber-common/react-vis",
+                "github": "uber-common/react-vis",
+                "type": "github"
+            }
+        ]
+    }
+]

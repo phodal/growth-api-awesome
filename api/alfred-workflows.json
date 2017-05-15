@@ -1,0 +1,304 @@
+[
+    {
+        "heading": "Communication",
+        "childrens": [
+            {
+                "title": "Slack",
+                "href": "https://github.com/fspinillo/slackfred",
+                "github": "fspinillo/slackfred",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Developer",
+        "childrens": [
+            {
+                "title": "caniuse",
+                "href": "https://github.com/willfarrell/alfred-caniuse-workflow",
+                "github": "willfarrell/alfred-caniuse-workflow",
+                "type": "github"
+            },
+            {
+                "title": "CDN",
+                "href": "https://github.com/willfarrell/alfred-cdn-workflow",
+                "github": "willfarrell/alfred-cdn-workflow",
+                "type": "github"
+            },
+            {
+                "title": "Composer",
+                "href": "https://github.com/vinkla/alfred-composer",
+                "github": "vinkla/alfred-composer",
+                "type": "github"
+            },
+            {
+                "title": "DevDocs",
+                "href": "https://github.com/yannickglt/alfred-devdocs",
+                "github": "yannickglt/alfred-devdocs",
+                "type": "github"
+            },
+            {
+                "title": "Font Awesome",
+                "href": "https://github.com/ruedap/alfred2-font-awesome-workflow",
+                "github": "ruedap/alfred2-font-awesome-workflow",
+                "type": "github"
+            },
+            {
+                "title": "Github",
+                "href": "https://github.com/gharlan/alfred-github-workflow",
+                "github": "gharlan/alfred-github-workflow",
+                "type": "github"
+            },
+            {
+                "title": "JetBrains",
+                "href": "https://github.com/bchatard/jetbrains-alfred-workflow",
+                "github": "bchatard/jetbrains-alfred-workflow",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Forge",
+                "href": "https://github.com/vmitchell85/alforge",
+                "github": "vmitchell85/alforge",
+                "type": "github"
+            },
+            {
+                "title": "mdi",
+                "href": "https://github.com/importre/alfred-mdi",
+                "github": "importre/alfred-mdi",
+                "type": "github"
+            },
+            {
+                "title": "npms",
+                "href": "https://github.com/sindresorhus/alfred-npms",
+                "github": "sindresorhus/alfred-npms",
+                "type": "github"
+            },
+            {
+                "title": "ng",
+                "href": "https://github.com/SamVerschueren/alfred-ng",
+                "github": "SamVerschueren/alfred-ng",
+                "type": "github"
+            },
+            {
+                "title": "Package Managers",
+                "href": "https://github.com/willfarrell/alfred-pkgman-workflow",
+                "github": "willfarrell/alfred-pkgman-workflow",
+                "type": "github"
+            },
+            {
+                "title": "Source Tree",
+                "href": "https://github.com/zhaocai/alfred2-sourcetree-workflow",
+                "github": "zhaocai/alfred2-sourcetree-workflow",
+                "type": "github"
+            },
+            {
+                "title": "VagrantUP",
+                "href": "https://github.com/m1keil/alfred-vagrant-workflow",
+                "github": "m1keil/alfred-vagrant-workflow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Text Manipulation",
+        "childrens": [
+            {
+                "title": "Encode / Decode",
+                "href": "https://github.com/willfarrell/alfred-encode-decode-workflow",
+                "github": "willfarrell/alfred-encode-decode-workflow",
+                "type": "github"
+            },
+            {
+                "title": "hl",
+                "href": "https://github.com/importre/alfred-hl",
+                "github": "importre/alfred-hl",
+                "type": "github"
+            },
+            {
+                "title": "HTML Entity Lookup",
+                "href": "https://github.com/ajgon/alfred2-html-entity-lookup",
+                "github": "ajgon/alfred2-html-entity-lookup",
+                "type": "github"
+            },
+            {
+                "title": "Pandoctor",
+                "href": "https://github.com/smargh/alfred_pandoctor",
+                "github": "smargh/alfred_pandoctor",
+                "type": "github"
+            },
+            {
+                "title": "Unicode Text Search",
+                "href": "https://github.com/bevesce/unicode-symbols-search",
+                "github": "bevesce/unicode-symbols-search",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scientific",
+        "childrens": [
+            {
+                "title": "DOITools",
+                "href": "https://github.com/hbuschme/doi-tools-alfred-workflow/",
+                "github": "hbuschme/doi-tools-alfred-workflow/",
+                "type": "github"
+            },
+            {
+                "title": "Scientific Workflow",
+                "href": "https://github.com/andrewning/alfred-workflows-scientific",
+                "github": "andrewning/alfred-workflows-scientific",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Emoj",
+                "href": "https://github.com/sindresorhus/alfred-emoj",
+                "github": "sindresorhus/alfred-emoj",
+                "type": "github"
+            },
+            {
+                "title": "WebScreenshot",
+                "href": "https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot",
+                "github": "vitorgalvao/alfred-workflows/tree/master/WebScreenshot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "LastPass Vault Manager",
+                "href": "https://github.com/bachya/lp-vault-manager",
+                "github": "bachya/lp-vault-manager",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "System",
+        "childrens": [
+            {
+                "title": "AppFreeze",
+                "href": "https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze",
+                "github": "vitorgalvao/alfred-workflows/tree/master/AppFreeze",
+                "type": "github"
+            },
+            {
+                "title": "Copy Paths to Clipboard",
+                "href": "https://github.com/franzheidl/copy-paths-to-clipboard",
+                "github": "franzheidl/copy-paths-to-clipboard",
+                "type": "github"
+            },
+            {
+                "title": "Finder New item",
+                "href": "https://github.com/danielbayley/alfred-finder-new-item",
+                "github": "danielbayley/alfred-finder-new-item",
+                "type": "github"
+            },
+            {
+                "title": "Fkill",
+                "href": "https://github.com/SamVerschueren/alfred-fkill",
+                "github": "SamVerschueren/alfred-fkill",
+                "type": "github"
+            },
+            {
+                "title": "Keyboard Maestro",
+                "href": "https://github.com/iansinnott/alfred-maestro",
+                "github": "iansinnott/alfred-maestro",
+                "type": "github"
+            },
+            {
+                "title": "Keylue",
+                "href": "https://github.com/zhaocai/alfred2-keylue-workflow",
+                "github": "zhaocai/alfred2-keylue-workflow",
+                "type": "github"
+            },
+            {
+                "title": "SSH",
+                "href": "https://github.com/isometry/alfred-ssh/",
+                "github": "isometry/alfred-ssh/",
+                "type": "github"
+            },
+            {
+                "title": "Swift Windows Switcher",
+                "href": "https://github.com/mandrigin/AlfredSwitchWindows",
+                "github": "mandrigin/AlfredSwitchWindows",
+                "type": "github"
+            },
+            {
+                "title": "TerminalFinder",
+                "href": "https://github.com/LeEnno/alfred-terminalfinder",
+                "github": "LeEnno/alfred-terminalfinder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web",
+        "childrens": [
+            {
+                "title": "BugNot",
+                "href": "https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot",
+                "github": "vitorgalvao/alfred-workflows/tree/master/BugNot",
+                "type": "github"
+            },
+            {
+                "title": "IncognitoClone",
+                "href": "https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone",
+                "github": "vitorgalvao/alfred-workflows/tree/master/IncognitoClone",
+                "type": "github"
+            },
+            {
+                "title": "TemporaryEmail",
+                "href": "https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail",
+                "github": "vitorgalvao/alfred-workflows/tree/master/TemporaryEmail",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Helpers",
+        "childrens": [
+            {
+                "title": "Alfy",
+                "href": "https://github.com/sindresorhus/alfy",
+                "github": "sindresorhus/alfy",
+                "type": "github"
+            },
+            {
+                "title": "Alfred-Workflow",
+                "href": "https://github.com/deanishe/alfred-workflow",
+                "github": "deanishe/alfred-workflow",
+                "type": "github"
+            },
+            {
+                "title": "OneUpdater",
+                "href": "https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater",
+                "github": "vitorgalvao/alfred-workflows/tree/master/OneUpdater",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Lists",
+        "childrens": [
+            {
+                "title": "Ctwise Alfred Workflows",
+                "href": "https://github.com/ctwise/alfred-workflows",
+                "github": "ctwise/alfred-workflows",
+                "type": "github"
+            },
+            {
+                "title": "Vítor Galvão’s Alfred Workflows",
+                "href": "https://github.com/vitorgalvao/alfred-workflows/",
+                "github": "vitorgalvao/alfred-workflows/",
+                "type": "github"
+            }
+        ]
+    }
+]

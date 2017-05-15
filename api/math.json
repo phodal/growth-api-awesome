@@ -1,0 +1,35 @@
+[
+    {
+        "heading": "Learn to Learn",
+        "childrens": [
+            {
+                "title": "Understanding Mathematics",
+                "href": "https://github.com/nelson-brochado/understanding-math",
+                "github": "nelson-brochado/understanding-math",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Linear Algebra",
+        "childrens": [
+            {
+                "title": "MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks",
+                "href": "https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06",
+                "github": "juanklopper/MIT_OCW_Linear_Algebra_18_06",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Probability Theory",
+        "childrens": [
+            {
+                "title": "Probability and Statistics Cookbook",
+                "href": "https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf",
+                "github": "mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf",
+                "type": "github"
+            }
+        ]
+    }
+]

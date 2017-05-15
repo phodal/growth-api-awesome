@@ -1,0 +1,128 @@
+[
+    {
+        "heading": "Articles",
+        "childrens": [
+            {
+                "title": "(2014) Ray tracing with OpenGL Compute Shaders",
+                "href": "https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29",
+                "github": "LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debug",
+        "childrens": [
+            {
+                "title": "GLIntercept",
+                "href": "https://github.com/dtrebilco/glintercept",
+                "github": "dtrebilco/glintercept",
+                "type": "github"
+            },
+            {
+                "title": "vogl",
+                "href": "https://github.com/ValveSoftware/vogl",
+                "github": "ValveSoftware/vogl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "GLFM",
+                "href": "https://github.com/brackeen/glfm",
+                "github": "brackeen/glfm",
+                "type": "github"
+            },
+            {
+                "title": "Magnum",
+                "href": "https://github.com/mosra/magnum",
+                "github": "mosra/magnum",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Profile Loaders",
+        "childrens": [
+            {
+                "title": "gl3w",
+                "href": "https://github.com/skaslev/gl3w",
+                "github": "skaslev/gl3w",
+                "type": "github"
+            },
+            {
+                "title": "glad",
+                "href": "https://github.com/Dav1dde/glad",
+                "github": "Dav1dde/glad",
+                "type": "github"
+            },
+            {
+                "title": "glbindify",
+                "href": "https://github.com/nnesse/glbindify",
+                "github": "nnesse/glbindify",
+                "type": "github"
+            },
+            {
+                "title": "glbinding",
+                "href": "https://github.com/cginternals/glbinding",
+                "github": "cginternals/glbinding",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Websites",
+        "childrens": [
+            {
+                "title": "OpenGL Examples",
+                "href": "https://github.com/McNopper/OpenGL",
+                "github": "McNopper/OpenGL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related lists",
+        "childrens": [
+            {
+                "title": "awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "awesome-computer-vision",
+                "href": "https://github.com/jbhuang0604/awesome-computer-vision",
+                "github": "jbhuang0604/awesome-computer-vision",
+                "type": "github"
+            },
+            {
+                "title": "awesome-webgl",
+                "href": "https://github.com/sjfricke/awesome-webgl",
+                "github": "sjfricke/awesome-webgl",
+                "type": "github"
+            },
+            {
+                "title": "awesome-vulkan",
+                "href": "https://github.com/vinjn/awesome-vulkan",
+                "github": "vinjn/awesome-vulkan",
+                "type": "github"
+            },
+            {
+                "title": "gamedev",
+                "href": "https://github.com/ellisonleao/magictools",
+                "github": "ellisonleao/magictools",
+                "type": "github"
+            },
+            {
+                "title": "graphics-resources",
+                "href": "https://github.com/mattdesl/graphics-resources",
+                "github": "mattdesl/graphics-resources",
+                "type": "github"
+            }
+        ]
+    }
+]

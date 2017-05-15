@@ -1,0 +1,2321 @@
+[
+    {
+        "heading": "Lists",
+        "childrens": [
+            {
+                "title": "awesome-open-slack",
+                "href": "https://github.com/tyshgc/awesome-open-slack",
+                "github": "tyshgc/awesome-open-slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third-party services",
+        "childrens": [
+            {
+                "title": "Graylog2",
+                "href": "https://github.com/Graylog2/graylog-plugin-slack",
+                "github": "Graylog2/graylog-plugin-slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C",
+        "childrens": [
+            {
+                "title": "PebbleSlack",
+                "href": "https://github.com/jakeboyles/PebbleSlack",
+                "github": "jakeboyles/PebbleSlack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++",
+        "childrens": [
+            {
+                "title": "slack-integrations",
+                "href": "https://github.com/rikbosch/slack-integrations",
+                "github": "rikbosch/slack-integrations",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C#",
+        "childrens": [
+            {
+                "title": "Cake.Slack",
+                "href": "https://github.com/WCOMAB/Cake.Slack",
+                "github": "WCOMAB/Cake.Slack",
+                "type": "github"
+            },
+            {
+                "title": "CCNetSlackPublisher",
+                "href": "https://github.com/jrjackso/CCNetSlackPublisher",
+                "github": "jrjackso/CCNetSlackPublisher",
+                "type": "github"
+            },
+            {
+                "title": "Log4Slack",
+                "href": "https://github.com/jonfreeland/Log4Slack",
+                "github": "jonfreeland/Log4Slack",
+                "type": "github"
+            },
+            {
+                "title": "margiebot",
+                "href": "https://github.com/jammerware/margiebot/wiki",
+                "github": "jammerware/margiebot/wiki",
+                "type": "github"
+            },
+            {
+                "title": "mmbot",
+                "href": "https://github.com/mmbot/mmbot",
+                "github": "mmbot/mmbot",
+                "type": "github"
+            },
+            {
+                "title": "Slack-Contour",
+                "href": "https://github.com/warrenbuckley/Slack-Contour",
+                "github": "warrenbuckley/Slack-Contour",
+                "type": "github"
+            },
+            {
+                "title": "Slack.Webhooks",
+                "href": "https://github.com/nerdfury/Slack.Webhooks",
+                "github": "nerdfury/Slack.Webhooks",
+                "type": "github"
+            },
+            {
+                "title": "SlackAPI",
+                "href": "https://github.com/Inumedia/SlackAPI",
+                "github": "Inumedia/SlackAPI",
+                "type": "github"
+            },
+            {
+                "title": "SlackCommander",
+                "href": "https://github.com/Hihaj/SlackCommander",
+                "github": "Hihaj/SlackCommander",
+                "type": "github"
+            },
+            {
+                "title": "SqlServerSlackAPI",
+                "href": "https://github.com/WCOMAB/SqlServerSlackAPI",
+                "github": "WCOMAB/SqlServerSlackAPI",
+                "type": "github"
+            },
+            {
+                "title": "svn-slack-notifier",
+                "href": "https://github.com/robertmiles3/svn-slack-notifier",
+                "github": "robertmiles3/svn-slack-notifier",
+                "type": "github"
+            },
+            {
+                "title": "TfsNotificationRelay",
+                "href": "https://github.com/kria/TfsNotificationRelay",
+                "github": "kria/TfsNotificationRelay",
+                "type": "github"
+            },
+            {
+                "title": "TSJ.Gemini.Slack",
+                "href": "https://github.com/thesoftwarejedi/TSJ.Gemini.Slack",
+                "github": "thesoftwarejedi/TSJ.Gemini.Slack",
+                "type": "github"
+            },
+            {
+                "title": "WooCode.Slack",
+                "href": "https://github.com/WooCode/WooCode.Slack",
+                "github": "WooCode/WooCode.Slack",
+                "type": "github"
+            },
+            {
+                "title": "workfront-to-slack",
+                "href": "https://github.com/manodrum/workfront-to-slack",
+                "github": "manodrum/workfront-to-slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Clojure",
+        "childrens": [
+            {
+                "title": "clj-slack",
+                "href": "https://github.com/julienXX/clj-slack",
+                "github": "julienXX/clj-slack",
+                "type": "github"
+            },
+            {
+                "title": "clj-slack-client",
+                "href": "https://github.com/tonyvanriet/clj-slack-client",
+                "github": "tonyvanriet/clj-slack-client",
+                "type": "github"
+            },
+            {
+                "title": "lunch-bot",
+                "href": "https://github.com/tonyvanriet/lunch-bot",
+                "github": "tonyvanriet/lunch-bot",
+                "type": "github"
+            },
+            {
+                "title": "markov-chainz",
+                "href": "https://github.com/sorenmacbeth/markov-chainz",
+                "github": "sorenmacbeth/markov-chainz",
+                "type": "github"
+            },
+            {
+                "title": "slack-hooks",
+                "href": "https://github.com/papertrail/slack-hooks",
+                "github": "papertrail/slack-hooks",
+                "type": "github"
+            },
+            {
+                "title": "slack.clj",
+                "href": "https://gist.github.com/mikebroberts/9604828",
+                "github": ".com/mikebroberts/9604828",
+                "type": "github"
+            },
+            {
+                "title": "slacks",
+                "href": "https://github.com/pnf/slacks",
+                "github": "pnf/slacks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CoffeeScript",
+        "childrens": [
+            {
+                "title": "bugsnag-notification-plugins",
+                "href": "https://github.com/bugsnag/bugsnag-notification-plugins",
+                "github": "bugsnag/bugsnag-notification-plugins",
+                "type": "github"
+            },
+            {
+                "title": "gifmatic",
+                "href": "https://github.com/adammulligan/gifmatic",
+                "github": "adammulligan/gifmatic",
+                "type": "github"
+            },
+            {
+                "title": "hubot-basecamp",
+                "href": "https://github.com/hubot-scripts/hubot-basecamp",
+                "github": "hubot-scripts/hubot-basecamp",
+                "type": "github"
+            },
+            {
+                "title": "humors",
+                "href": "https://github.com/AugustMiller/humors",
+                "github": "AugustMiller/humors",
+                "type": "github"
+            },
+            {
+                "title": "jinora",
+                "href": "https://github.com/sdslabs/jinora",
+                "github": "sdslabs/jinora",
+                "type": "github"
+            },
+            {
+                "title": "pr2slack",
+                "href": "https://github.com/ohwillie/pr2slack",
+                "github": "ohwillie/pr2slack",
+                "type": "github"
+            },
+            {
+                "title": "slack-api-client",
+                "href": "https://github.com/germanrcuriel/slack-api-client",
+                "github": "germanrcuriel/slack-api-client",
+                "type": "github"
+            },
+            {
+                "title": "slack-node-sdk",
+                "href": "https://github.com/clonn/slack-node-sdk",
+                "github": "clonn/slack-node-sdk",
+                "type": "github"
+            },
+            {
+                "title": "slacker",
+                "href": "https://github.com/cmalven/slacker",
+                "github": "cmalven/slacker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dart",
+        "childrens": [
+            {
+                "title": "dart-slack",
+                "href": "https://github.com/ChildrenOfUr/dart-slack",
+                "github": "ChildrenOfUr/dart-slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Erlang",
+        "childrens": [
+            {
+                "title": "slacker",
+                "href": "https://github.com/julienXX/slacker",
+                "github": "julienXX/slacker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "amiando-slack",
+                "href": "https://github.com/dotconferences/amiando-slack",
+                "github": "dotconferences/amiando-slack",
+                "type": "github"
+            },
+            {
+                "title": "anonymous-slack",
+                "href": "https://github.com/recursionpharma/anonymous-slack",
+                "github": "recursionpharma/anonymous-slack",
+                "type": "github"
+            },
+            {
+                "title": "circle2slack",
+                "href": "https://github.com/dstrelau/circle2slack",
+                "github": "dstrelau/circle2slack",
+                "type": "github"
+            },
+            {
+                "title": "enotify-slack",
+                "href": "https://github.com/daikikohara/enotify-slack",
+                "github": "daikikohara/enotify-slack",
+                "type": "github"
+            },
+            {
+                "title": "gdrive2slack",
+                "href": "https://github.com/optionfactory/gdrive2slack",
+                "github": "optionfactory/gdrive2slack",
+                "type": "github"
+            },
+            {
+                "title": "go-bot",
+                "href": "https://github.com/fabioxgn/go-bot/",
+                "github": "fabioxgn/go-bot/",
+                "type": "github"
+            },
+            {
+                "title": "hal",
+                "href": "https://github.com/danryan/hal",
+                "github": "danryan/hal",
+                "type": "github"
+            },
+            {
+                "title": "hipchat-notifications-to-slack",
+                "href": "https://github.com/agerlic/hipchat-notifications-to-slack",
+                "github": "agerlic/hipchat-notifications-to-slack",
+                "type": "github"
+            },
+            {
+                "title": "marvin",
+                "href": "https://github.com/RobotsAndPencils/marvin",
+                "github": "RobotsAndPencils/marvin",
+                "type": "github"
+            },
+            {
+                "title": "phoenix",
+                "href": "https://github.com/ehazlett/phoenix",
+                "github": "ehazlett/phoenix",
+                "type": "github"
+            },
+            {
+                "title": "rmslack",
+                "href": "https://github.com/mephux/rmslack",
+                "github": "mephux/rmslack",
+                "type": "github"
+            },
+            {
+                "title": "slack",
+                "href": "https://github.com/nlopes/slack",
+                "github": "nlopes/slack",
+                "type": "github"
+            },
+            {
+                "title": "slack",
+                "href": "https://github.com/tappleby/slack_auth_proxy",
+                "github": "tappleby/slack_auth_proxy",
+                "type": "github"
+            },
+            {
+                "title": "slack-cli",
+                "href": "https://github.com/siddontang/slack-cli",
+                "github": "siddontang/slack-cli",
+                "type": "github"
+            },
+            {
+                "title": "slack-fingerbumpbot",
+                "href": "https://github.com/grantmd/slack-fingerbumpbot",
+                "github": "grantmd/slack-fingerbumpbot",
+                "type": "github"
+            },
+            {
+                "title": "slack-markov",
+                "href": "https://github.com/grantmd/slack-markov",
+                "github": "grantmd/slack-markov",
+                "type": "github"
+            },
+            {
+                "title": "slack-oldbot",
+                "href": "https://github.com/grantmd/slack-oldbot",
+                "github": "grantmd/slack-oldbot",
+                "type": "github"
+            },
+            {
+                "title": "slack-upvote",
+                "href": "https://github.com/tampajohn/slack-upvote",
+                "github": "tampajohn/slack-upvote",
+                "type": "github"
+            },
+            {
+                "title": "slackbot",
+                "href": "https://github.com/collinvandyck/slackbot",
+                "github": "collinvandyck/slackbot",
+                "type": "github"
+            },
+            {
+                "title": "slackbot",
+                "href": "https://github.com/trinchan/slackbot",
+                "github": "trinchan/slackbot",
+                "type": "github"
+            },
+            {
+                "title": "slackcat",
+                "href": "https://github.com/paulhammond/slackcat",
+                "github": "paulhammond/slackcat",
+                "type": "github"
+            },
+            {
+                "title": "slacker-news",
+                "href": "https://github.com/munrocape/slacker-news",
+                "github": "munrocape/slacker-news",
+                "type": "github"
+            },
+            {
+                "title": "slackline",
+                "href": "https://github.com/ernesto-jimenez/slackline",
+                "github": "ernesto-jimenez/slackline",
+                "type": "github"
+            },
+            {
+                "title": "slackline-gae",
+                "href": "https://github.com/Bodhi5/slackline-gae",
+                "github": "Bodhi5/slackline-gae",
+                "type": "github"
+            },
+            {
+                "title": "SlackMS",
+                "href": "https://github.com/ueg1990/SlackMS",
+                "github": "ueg1990/SlackMS",
+                "type": "github"
+            },
+            {
+                "title": "slackrus",
+                "href": "https://github.com/johntdyer/slackrus",
+                "github": "johntdyer/slackrus",
+                "type": "github"
+            },
+            {
+                "title": "slacktogo",
+                "href": "https://github.com/oderwat/slacktogo",
+                "github": "oderwat/slacktogo",
+                "type": "github"
+            },
+            {
+                "title": "webhook",
+                "href": "https://github.com/adnanh/webhook",
+                "github": "adnanh/webhook",
+                "type": "github"
+            },
+            {
+                "title": "worktile-events-to-slack",
+                "href": "https://github.com/cybertk/worktile-events-to-slack",
+                "github": "cybertk/worktile-events-to-slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Groovy",
+        "childrens": [
+            {
+                "title": "slack-ozfindbiz",
+                "href": "https://github.com/alexycyap/slack-ozfindbiz",
+                "github": "alexycyap/slack-ozfindbiz",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haskell",
+        "childrens": [
+            {
+                "title": "hi5bot",
+                "href": "https://github.com/hlian/hi5bot",
+                "github": "hlian/hi5bot",
+                "type": "github"
+            },
+            {
+                "title": "jpgtobot",
+                "href": "https://github.com/hlian/jpegbot",
+                "github": "hlian/jpegbot",
+                "type": "github"
+            },
+            {
+                "title": "slack",
+                "href": "https://github.com/owainlewis/slack",
+                "github": "owainlewis/slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "AcraSlack",
+                "href": "https://github.com/tolmachevroman/AcraSlack",
+                "github": "tolmachevroman/AcraSlack",
+                "type": "github"
+            },
+            {
+                "title": "gitblit-slack-plugin",
+                "href": "https://github.com/gitblit/gitblit-slack-plugin",
+                "github": "gitblit/gitblit-slack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "rundeck-slack-incoming-webhook-plugin",
+                "href": "https://github.com/higanworks/rundeck-slack-incoming-webhook-plugin",
+                "github": "higanworks/rundeck-slack-incoming-webhook-plugin",
+                "type": "github"
+            },
+            {
+                "title": "rundeck-slack-plugin",
+                "href": "https://github.com/bitplaces/rundeck-slack-plugin",
+                "github": "bitplaces/rundeck-slack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "simple-slack-api",
+                "href": "https://github.com/Ullink/simple-slack-api",
+                "github": "Ullink/simple-slack-api",
+                "type": "github"
+            },
+            {
+                "title": "SlackMC",
+                "href": "https://github.com/CircuitSoftGroup/SlackMC",
+                "github": "CircuitSoftGroup/SlackMC",
+                "type": "github"
+            },
+            {
+                "title": "slack-for-confluence",
+                "href": "https://github.com/flaregames/slack-for-confluence",
+                "github": "flaregames/slack-for-confluence",
+                "type": "github"
+            },
+            {
+                "title": "slack-webhook",
+                "href": "https://github.com/gpedro/slack-webhook",
+                "github": "gpedro/slack-webhook",
+                "type": "github"
+            },
+            {
+                "title": "stash2slack",
+                "href": "https://github.com/pragbits/stash2slack",
+                "github": "pragbits/stash2slack",
+                "type": "github"
+            },
+            {
+                "title": "tcSlackBuildNotifier",
+                "href": "https://github.com/PeteGoo/tcSlackBuildNotifier",
+                "github": "PeteGoo/tcSlackBuildNotifier",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "bip-pod-slack",
+                "href": "https://github.com/bipio-server/bip-pod-slack",
+                "github": "bipio-server/bip-pod-slack",
+                "type": "github"
+            },
+            {
+                "title": "bitbucket-slack-pr-hook",
+                "href": "https://github.com/lfilho/bitbucket-slack-pr-hook",
+                "github": "lfilho/bitbucket-slack-pr-hook",
+                "type": "github"
+            },
+            {
+                "title": "brackets-slacksnippet",
+                "href": "https://github.com/Wikunia/brackets-slacksnippet",
+                "github": "Wikunia/brackets-slacksnippet",
+                "type": "github"
+            },
+            {
+                "title": "browser-node-slack",
+                "href": "https://github.com/RichardLitt/browser-node-slack",
+                "github": "RichardLitt/browser-node-slack",
+                "type": "github"
+            },
+            {
+                "title": "bunyan-slack",
+                "href": "https://github.com/qualitybath/bunyan-slack",
+                "github": "qualitybath/bunyan-slack",
+                "type": "github"
+            },
+            {
+                "title": "camayak-to-slack",
+                "href": "https://github.com/tcu360/camayak-to-slack",
+                "github": "tcu360/camayak-to-slack",
+                "type": "github"
+            },
+            {
+                "title": "chivebot",
+                "href": "https://github.com/totherik/chivebot",
+                "github": "totherik/chivebot",
+                "type": "github"
+            },
+            {
+                "title": "CircleCI2Slack",
+                "href": "https://github.com/modestinc/CircleCI2Slack",
+                "github": "modestinc/CircleCI2Slack",
+                "type": "github"
+            },
+            {
+                "title": "crispyfi",
+                "href": "https://github.com/crispymtn/crispyfi",
+                "github": "crispymtn/crispyfi",
+                "type": "github"
+            },
+            {
+                "title": "cylebot-slack",
+                "href": "https://github.com/cyle/cylebot-slack",
+                "github": "cyle/cylebot-slack",
+                "type": "github"
+            },
+            {
+                "title": "ExceptionalIO2Slack",
+                "href": "https://github.com/Dorian/ExceptionalIO2Slack",
+                "github": "Dorian/ExceptionalIO2Slack",
+                "type": "github"
+            },
+            {
+                "title": "generator-slack-command",
+                "href": "https://github.com/matiassingers/generator-slack-command",
+                "github": "matiassingers/generator-slack-command",
+                "type": "github"
+            },
+            {
+                "title": "gif-bot",
+                "href": "https://github.com/ms-digital-labs/gif-bot",
+                "github": "ms-digital-labs/gif-bot",
+                "type": "github"
+            },
+            {
+                "title": "giphyslack",
+                "href": "https://github.com/dotfury/giphyslack",
+                "github": "dotfury/giphyslack",
+                "type": "github"
+            },
+            {
+                "title": "good-slack",
+                "href": "https://github.com/dmacosta/good-slack",
+                "github": "dmacosta/good-slack",
+                "type": "github"
+            },
+            {
+                "title": "grunt-alert",
+                "href": "https://github.com/mmarcon/grunt-alert",
+                "github": "mmarcon/grunt-alert",
+                "type": "github"
+            },
+            {
+                "title": "grunt-slack-hook",
+                "href": "https://github.com/pwalczyszyn/grunt-slack-hook",
+                "github": "pwalczyszyn/grunt-slack-hook",
+                "type": "github"
+            },
+            {
+                "title": "hublin-slack-integration",
+                "href": "https://github.com/linagora/hublin-slack-integration",
+                "github": "linagora/hublin-slack-integration",
+                "type": "github"
+            },
+            {
+                "title": "imma-let-you-finish",
+                "href": "https://github.com/sparragus/imma-let-you-finish",
+                "github": "sparragus/imma-let-you-finish",
+                "type": "github"
+            },
+            {
+                "title": "irc-slack-echo",
+                "href": "https://github.com/rknLA/irc-slack-echo",
+                "github": "rknLA/irc-slack-echo",
+                "type": "github"
+            },
+            {
+                "title": "Live-WorldCup-Notification-for-Slack",
+                "href": "https://github.com/sbehrends/Live-WorldCup-Notification-for-Slack",
+                "github": "sbehrends/Live-WorldCup-Notification-for-Slack",
+                "type": "github"
+            },
+            {
+                "title": "LOUDBOT-SLACK",
+                "href": "https://github.com/ceejbot/LOUDBOT-SLACK",
+                "github": "ceejbot/LOUDBOT-SLACK",
+                "type": "github"
+            },
+            {
+                "title": "nasa-slack",
+                "href": "https://github.com/seanrose/nasa-slack",
+                "github": "seanrose/nasa-slack",
+                "type": "github"
+            },
+            {
+                "title": "node-slack-cli",
+                "href": "https://github.com/juanpabloaj/node-slack-cli",
+                "github": "juanpabloaj/node-slack-cli",
+                "type": "github"
+            },
+            {
+                "title": "node-slack-irc",
+                "href": "https://github.com/IgorAntun/node-slack-irc",
+                "github": "IgorAntun/node-slack-irc",
+                "type": "github"
+            },
+            {
+                "title": "node-slackbot",
+                "href": "https://github.com/rmcdaniel/node-slackbot",
+                "github": "rmcdaniel/node-slackbot",
+                "type": "github"
+            },
+            {
+                "title": "node-slackhook",
+                "href": "https://github.com/joezo/node-slackhook",
+                "github": "joezo/node-slackhook",
+                "type": "github"
+            },
+            {
+                "title": "node-slackr",
+                "href": "https://github.com/chenka/node-slackr",
+                "github": "chenka/node-slackr",
+                "type": "github"
+            },
+            {
+                "title": "nodebot-slack",
+                "href": "https://github.com/Nodejs-ar/nodebot-slack",
+                "github": "Nodejs-ar/nodebot-slack",
+                "type": "github"
+            },
+            {
+                "title": "Notifications for Fluid",
+                "href": "https://gist.github.com/banderson623/81889e7764da84f32112",
+                "github": ".com/banderson623/81889e7764da84f32112",
+                "type": "github"
+            },
+            {
+                "title": "Overcast",
+                "href": "https://github.com/andrewchilds/overcast",
+                "github": "andrewchilds/overcast",
+                "type": "github"
+            },
+            {
+                "title": "passport-slack",
+                "href": "https://github.com/mjpearson/passport-slack",
+                "github": "mjpearson/passport-slack",
+                "type": "github"
+            },
+            {
+                "title": "skynet",
+                "href": "https://github.com/johnhof/skynet",
+                "github": "johnhof/skynet",
+                "type": "github"
+            },
+            {
+                "title": "Send-to-Slack",
+                "href": "https://github.com/shahruz/Send-to-Slack",
+                "github": "shahruz/Send-to-Slack",
+                "type": "github"
+            },
+            {
+                "title": "slack-alias-plugin",
+                "href": "https://github.com/gsingers/slack-alias-plugin",
+                "github": "gsingers/slack-alias-plugin",
+                "type": "github"
+            },
+            {
+                "title": "slack-api",
+                "href": "https://github.com/ustice/slack-api",
+                "github": "ustice/slack-api",
+                "type": "github"
+            },
+            {
+                "title": "slack-assembla-plugin",
+                "href": "https://github.com/Ramzi-Alqrainy/slack-assembla-plugin",
+                "github": "Ramzi-Alqrainy/slack-assembla-plugin",
+                "type": "github"
+            },
+            {
+                "title": "slack-bill-sharing",
+                "href": "https://github.com/gsellator/slack-bill-sharing",
+                "github": "gsellator/slack-bill-sharing",
+                "type": "github"
+            },
+            {
+                "title": "slack-bot-api",
+                "href": "https://github.com/mishk0/slack-bot-api",
+                "github": "mishk0/slack-bot-api",
+                "type": "github"
+            },
+            {
+                "title": "slack-brewbot",
+                "href": "https://github.com/swirlycheetah/slack-brewbot",
+                "github": "swirlycheetah/slack-brewbot",
+                "type": "github"
+            },
+            {
+                "title": "slack-btc",
+                "href": "https://github.com/hkarthik/slack-btc",
+                "github": "hkarthik/slack-btc",
+                "type": "github"
+            },
+            {
+                "title": "slack-cli",
+                "href": "https://github.com/candrholdings/slack-cli",
+                "github": "candrholdings/slack-cli",
+                "type": "github"
+            },
+            {
+                "title": "slack-clicky",
+                "href": "https://github.com/joshfarrant/slack-clicky",
+                "github": "joshfarrant/slack-clicky",
+                "type": "github"
+            },
+            {
+                "title": "slack-currency",
+                "href": "https://github.com/matiassingers/slack-currency",
+                "github": "matiassingers/slack-currency",
+                "type": "github"
+            },
+            {
+                "title": "slack-dnd",
+                "href": "https://github.com/toddself/slack-dnd",
+                "github": "toddself/slack-dnd",
+                "type": "github"
+            },
+            {
+                "title": "slack-emoji-randomizer",
+                "href": "https://github.com/jasisk/slack-emoji-randomizer",
+                "github": "jasisk/slack-emoji-randomizer",
+                "type": "github"
+            },
+            {
+                "title": "slack-github",
+                "href": "https://github.com/sdslabs/slack-github",
+                "github": "sdslabs/slack-github",
+                "type": "github"
+            },
+            {
+                "title": "slack-harvest",
+                "href": "https://github.com/Neverbland/slack-harvest",
+                "github": "Neverbland/slack-harvest",
+                "type": "github"
+            },
+            {
+                "title": "slack-integrations",
+                "href": "https://github.com/CollectiveDS/slack-integrations",
+                "github": "CollectiveDS/slack-integrations",
+                "type": "github"
+            },
+            {
+                "title": "slack-integrator",
+                "href": "https://github.com/way2-technology/slack-integrator",
+                "github": "way2-technology/slack-integrator",
+                "type": "github"
+            },
+            {
+                "title": "slack-invite",
+                "href": "https://github.com/wski/slack-invite",
+                "github": "wski/slack-invite",
+                "type": "github"
+            },
+            {
+                "title": "slack-irc",
+                "href": "https://github.com/ekmartin/slack-irc",
+                "github": "ekmartin/slack-irc",
+                "type": "github"
+            },
+            {
+                "title": "slack-irc-plugin",
+                "href": "https://github.com/jimmyhillis/slack-irc-plugin",
+                "github": "jimmyhillis/slack-irc-plugin",
+                "type": "github"
+            },
+            {
+                "title": "slack-jira-plugin",
+                "href": "https://github.com/gsingers/slack-jira-plugin",
+                "github": "gsingers/slack-jira-plugin",
+                "type": "github"
+            },
+            {
+                "title": "slack-meme",
+                "href": "https://github.com/chrismeyersfsu/slack-meme",
+                "github": "chrismeyersfsu/slack-meme",
+                "type": "github"
+            },
+            {
+                "title": "slack-middle-server",
+                "href": "https://github.com/clonn/slack-middle-server",
+                "github": "clonn/slack-middle-server",
+                "type": "github"
+            },
+            {
+                "title": "slack-movie",
+                "href": "https://github.com/matiassingers/slack-movie",
+                "github": "matiassingers/slack-movie",
+                "type": "github"
+            },
+            {
+                "title": "slack-news",
+                "href": "https://github.com/karan/slack-news",
+                "github": "karan/slack-news",
+                "type": "github"
+            },
+            {
+                "title": "slack-notify",
+                "href": "https://github.com/andrewchilds/slack-notify",
+                "github": "andrewchilds/slack-notify",
+                "type": "github"
+            },
+            {
+                "title": "slack-pokemon",
+                "href": "https://github.com/rvinluan/slack-pokemon",
+                "github": "rvinluan/slack-pokemon",
+                "type": "github"
+            },
+            {
+                "title": "slack-poker-bot",
+                "href": "https://github.com/CharlieHess/slack-poker-bot",
+                "github": "CharlieHess/slack-poker-bot",
+                "type": "github"
+            },
+            {
+                "title": "slack-polls",
+                "href": "https://github.com/dsifford/slack-polls",
+                "github": "dsifford/slack-polls",
+                "type": "github"
+            },
+            {
+                "title": "slack-pongbot",
+                "href": "https://github.com/andrewvy/slack-pongbot",
+                "github": "andrewvy/slack-pongbot",
+                "type": "github"
+            },
+            {
+                "title": "slack-proxy",
+                "href": "https://github.com/phamann/slack-proxy",
+                "github": "phamann/slack-proxy",
+                "type": "github"
+            },
+            {
+                "title": "slack-reply-shortcut",
+                "href": "https://github.com/websharks/slack-reply-shortcut",
+                "github": "websharks/slack-reply-shortcut",
+                "type": "github"
+            },
+            {
+                "title": "slack-stuart",
+                "href": "https://github.com/gtracy/slack-stuart",
+                "github": "gtracy/slack-stuart",
+                "type": "github"
+            },
+            {
+                "title": "slack-tableflip",
+                "href": "https://github.com/josheverett/slack-tableflip",
+                "github": "josheverett/slack-tableflip",
+                "type": "github"
+            },
+            {
+                "title": "slack-texts",
+                "href": "https://github.com/nishanths/slack-texts",
+                "github": "nishanths/slack-texts",
+                "type": "github"
+            },
+            {
+                "title": "Slack-Twitter",
+                "href": "https://github.com/sillygwailo/Slack-Twitter",
+                "github": "sillygwailo/Slack-Twitter",
+                "type": "github"
+            },
+            {
+                "title": "slack-webex-plugin",
+                "href": "https://github.com/gsingers/slack-webex-plugin",
+                "github": "gsingers/slack-webex-plugin",
+                "type": "github"
+            },
+            {
+                "title": "slack-yandex-api",
+                "href": "https://github.com/wearegoat/slack-yandex-api",
+                "github": "wearegoat/slack-yandex-api",
+                "type": "github"
+            },
+            {
+                "title": "slack.com.js",
+                "href": "https://github.com/caseman72/slack.com.js",
+                "github": "caseman72/slack.com.js",
+                "type": "github"
+            },
+            {
+                "title": "slack-issue-tracker-parser",
+                "href": "https://github.com/caiosba/slack-issue-tracker-parser",
+                "github": "caiosba/slack-issue-tracker-parser",
+                "type": "github"
+            },
+            {
+                "title": "slackapi-angularjs",
+                "href": "https://github.com/nickaranz/slackapi-angularjs",
+                "github": "nickaranz/slackapi-angularjs",
+                "type": "github"
+            },
+            {
+                "title": "slackarma",
+                "href": "https://github.com/gdroel/slackarma",
+                "github": "gdroel/slackarma",
+                "type": "github"
+            },
+            {
+                "title": "slackbot-says",
+                "href": "https://github.com/smilledge/slackbot-says",
+                "github": "smilledge/slackbot-says",
+                "type": "github"
+            },
+            {
+                "title": "slackbotapi",
+                "href": "https://github.com/xBytez/slackbotapi",
+                "github": "xBytez/slackbotapi",
+                "type": "github"
+            },
+            {
+                "title": "slackbox",
+                "href": "https://github.com/benchmarkstudios/slackbox",
+                "github": "benchmarkstudios/slackbox",
+                "type": "github"
+            },
+            {
+                "title": "SlackChannelTrafficIndicator",
+                "href": "https://github.com/kjpluck/SlackChannelTrafficIndicator",
+                "github": "kjpluck/SlackChannelTrafficIndicator",
+                "type": "github"
+            },
+            {
+                "title": "slackdraw",
+                "href": "https://github.com/caiosba/slack-draw",
+                "github": "caiosba/slack-draw",
+                "type": "github"
+            },
+            {
+                "title": "slackey",
+                "href": "https://github.com/FredKSchott/slackey",
+                "github": "FredKSchott/slackey",
+                "type": "github"
+            },
+            {
+                "title": "slackihook",
+                "href": "https://github.com/kfatehi/slackihook",
+                "github": "kfatehi/slackihook",
+                "type": "github"
+            },
+            {
+                "title": "slacklink",
+                "href": "https://github.com/robjmills/slacklink",
+                "github": "robjmills/slacklink",
+                "type": "github"
+            },
+            {
+                "title": "slackr-bot",
+                "href": "https://github.com/tal/slackr-bot",
+                "github": "tal/slackr-bot",
+                "type": "github"
+            },
+            {
+                "title": "slacktappd",
+                "href": "https://github.com/nicksergeant/slacktappd",
+                "github": "nicksergeant/slacktappd",
+                "type": "github"
+            },
+            {
+                "title": "slacktocracy",
+                "href": "https://github.com/nicksergeant/slacktocracy",
+                "github": "nicksergeant/slacktocracy",
+                "type": "github"
+            },
+            {
+                "title": "SlackToggle",
+                "href": "https://github.com/keirua/SlackToggle",
+                "github": "keirua/SlackToggle",
+                "type": "github"
+            },
+            {
+                "title": "slackus",
+                "href": "https://github.com/jonathanwiesel/slackus",
+                "github": "jonathanwiesel/slackus",
+                "type": "github"
+            },
+            {
+                "title": "SlackVote",
+                "href": "https://github.com/azharb/SlackVote",
+                "github": "azharb/SlackVote",
+                "type": "github"
+            },
+            {
+                "title": "slackWeather.js",
+                "href": "https://gist.github.com/cmaneu/932e4628712ec9bbcaea",
+                "github": ".com/cmaneu/932e4628712ec9bbcaea",
+                "type": "github"
+            },
+            {
+                "title": "slackWeatherBot.js",
+                "href": "https://gist.github.com/franciskim/13a52debd47ffb7929f5",
+                "github": ".com/franciskim/13a52debd47ffb7929f5",
+                "type": "github"
+            },
+            {
+                "title": "Slotify",
+                "href": "https://github.com/dangitdang/Slotify",
+                "github": "dangitdang/Slotify",
+                "type": "github"
+            },
+            {
+                "title": "SnooBot",
+                "href": "https://github.com/nobe4/SnooBot",
+                "github": "nobe4/SnooBot",
+                "type": "github"
+            },
+            {
+                "title": "spotify-playlist-2-slack",
+                "href": "https://github.com/petterl/spotify-playlist-2-slack",
+                "github": "petterl/spotify-playlist-2-slack",
+                "type": "github"
+            },
+            {
+                "title": "step-slack-notify",
+                "href": "https://github.com/dimoreira/step-slack-notify",
+                "github": "dimoreira/step-slack-notify",
+                "type": "github"
+            },
+            {
+                "title": "strider-slack",
+                "href": "https://github.com/Strider-CD/strider-slack",
+                "github": "Strider-CD/strider-slack",
+                "type": "github"
+            },
+            {
+                "title": "superscript",
+                "href": "https://github.com/silentrob/superscript/",
+                "github": "silentrob/superscript/",
+                "type": "github"
+            },
+            {
+                "title": "swolebot",
+                "href": "https://github.com/robinpowered/swolebot",
+                "github": "robinpowered/swolebot",
+                "type": "github"
+            },
+            {
+                "title": "terminal-slack",
+                "href": "https://github.com/evanyeung/terminal-slack",
+                "github": "evanyeung/terminal-slack",
+                "type": "github"
+            },
+            {
+                "title": "tesla-slack",
+                "href": "https://github.com/heikkipora/tesla-slack",
+                "github": "heikkipora/tesla-slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lua",
+        "childrens": [
+            {
+                "title": "breezBot",
+                "href": "https://github.com/picsoung/breezBot/",
+                "github": "picsoung/breezBot/",
+                "type": "github"
+            },
+            {
+                "title": "Lua Slack",
+                "href": "https://github.com/ConnorVG/Lua-Slack",
+                "github": "ConnorVG/Lua-Slack",
+                "type": "github"
+            },
+            {
+                "title": "lubot",
+                "href": "https://github.com/lusis/lubot",
+                "github": "lusis/lubot",
+                "type": "github"
+            },
+            {
+                "title": "uberSlackBot",
+                "href": "https://github.com/picsoung/uberSlackBot",
+                "github": "picsoung/uberSlackBot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Matlab",
+        "childrens": [
+            {
+                "title": "SlackMatlab",
+                "href": "https://github.com/DylanMuir/SlackMatlab",
+                "github": "DylanMuir/SlackMatlab",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "OCaml",
+        "childrens": [
+            {
+                "title": "slacko",
+                "href": "https://github.com/Leonidas-from-XIV/slacko",
+                "github": "Leonidas-from-XIV/slacko",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Perl",
+        "childrens": [
+            {
+                "title": "slack-integrations",
+                "href": "https://github.com/khera/slack-integrations",
+                "github": "khera/slack-integrations",
+                "type": "github"
+            },
+            {
+                "title": "slappyhour",
+                "href": "https://github.com/obra/slappyhour",
+                "github": "obra/slappyhour",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "AlfredSlackSearch",
+                "href": "https://github.com/tylerhall/AlfredSlackSearch",
+                "github": "tylerhall/AlfredSlackSearch",
+                "type": "github"
+            },
+            {
+                "title": "Archibald",
+                "href": "https://github.com/lgaechter/Archibald",
+                "github": "lgaechter/Archibald",
+                "type": "github"
+            },
+            {
+                "title": "beanstalk-slack",
+                "href": "https://github.com/percipioglobal/beanstalk-slack",
+                "github": "percipioglobal/beanstalk-slack",
+                "type": "github"
+            },
+            {
+                "title": "CLSlackBundle",
+                "href": "https://github.com/cleentfaar/CLSlackBundle",
+                "github": "cleentfaar/CLSlackBundle",
+                "type": "github"
+            },
+            {
+                "title": "ExceptionHandler",
+                "href": "https://github.com/hexa2k9/ExceptionHandler",
+                "github": "hexa2k9/ExceptionHandler",
+                "type": "github"
+            },
+            {
+                "title": "Gifbot",
+                "href": "https://github.com/josephschmitt/gifbot",
+                "github": "josephschmitt/gifbot",
+                "type": "github"
+            },
+            {
+                "title": "GifBot",
+                "href": "https://github.com/gstjohn/GifBot",
+                "github": "gstjohn/GifBot",
+                "type": "github"
+            },
+            {
+                "title": "jira-slack-php",
+                "href": "https://github.com/HotAlexx/jira-slack-php",
+                "github": "HotAlexx/jira-slack-php",
+                "type": "github"
+            },
+            {
+                "title": "make-it-rain",
+                "href": "https://github.com/fitztrev/make-it-rain",
+                "github": "fitztrev/make-it-rain",
+                "type": "github"
+            },
+            {
+                "title": "MantisBT-Slack",
+                "href": "https://github.com/infojunkie/MantisBT-Slack",
+                "github": "infojunkie/MantisBT-Slack",
+                "type": "github"
+            },
+            {
+                "title": "mediawiki-slack",
+                "href": "https://github.com/grundleborg/mediawiki-slack",
+                "github": "grundleborg/mediawiki-slack",
+                "type": "github"
+            },
+            {
+                "title": "monolog",
+                "href": "https://github.com/Seldaek/monolog",
+                "github": "Seldaek/monolog",
+                "type": "github"
+            },
+            {
+                "title": "notifyme",
+                "href": "https://github.com/notifymehq/notifyme",
+                "github": "notifymehq/notifyme",
+                "type": "github"
+            },
+            {
+                "title": "opauth-slack",
+                "href": "https://github.com/t1mmen/opauth-slack",
+                "github": "t1mmen/opauth-slack",
+                "type": "github"
+            },
+            {
+                "title": "phlack",
+                "href": "https://github.com/mcrumm/phlack",
+                "github": "mcrumm/phlack",
+                "type": "github"
+            },
+            {
+                "title": "php-slack",
+                "href": "https://github.com/Frlnc/php-slack",
+                "github": "Frlnc/php-slack",
+                "type": "github"
+            },
+            {
+                "title": "PHP-Slack",
+                "href": "https://github.com/ConnorVG/PHP-Slack",
+                "github": "ConnorVG/PHP-Slack",
+                "type": "github"
+            },
+            {
+                "title": "php-slack-error-reporter",
+                "href": "https://github.com/tailored-tunes/php-slack-error-reporter",
+                "github": "tailored-tunes/php-slack-error-reporter",
+                "type": "github"
+            },
+            {
+                "title": "pslackr",
+                "href": "https://github.com/fullybaked/pslackr",
+                "github": "fullybaked/pslackr",
+                "type": "github"
+            },
+            {
+                "title": "redmine-command",
+                "href": "https://github.com/digitalicagroup/redmine-command",
+                "github": "digitalicagroup/redmine-command",
+                "type": "github"
+            },
+            {
+                "title": "rocketeer-slack",
+                "href": "https://github.com/rocketeers/rocketeer-slack",
+                "github": "rocketeers/rocketeer-slack",
+                "type": "github"
+            },
+            {
+                "title": "Shooker",
+                "href": "https://github.com/jwenzler/Shooker",
+                "github": "jwenzler/Shooker",
+                "type": "github"
+            },
+            {
+                "title": "Slack",
+                "href": "https://github.com/maknz/slack",
+                "github": "maknz/slack",
+                "type": "github"
+            },
+            {
+                "title": "slack-api",
+                "href": "https://github.com/10w042/slack-api",
+                "github": "10w042/slack-api",
+                "type": "github"
+            },
+            {
+                "title": "slack-notifier",
+                "href": "https://github.com/polem/slack-notifier",
+                "github": "polem/slack-notifier",
+                "type": "github"
+            },
+            {
+                "title": "slack-tea",
+                "href": "https://github.com/liquidlight/slack-tea",
+                "github": "liquidlight/slack-tea",
+                "type": "github"
+            },
+            {
+                "title": "slack-webhooks",
+                "href": "https://github.com/Xeonys/slack-webhooks",
+                "github": "Xeonys/slack-webhooks",
+                "type": "github"
+            },
+            {
+                "title": "slack-wordpress",
+                "href": "https://github.com/erayalakese/slack-wordpress",
+                "github": "erayalakese/slack-wordpress",
+                "type": "github"
+            },
+            {
+                "title": "SlackAgainstHumanity",
+                "href": "https://github.com/michaeljhopkins/SlackAgainstHumanity",
+                "github": "michaeljhopkins/SlackAgainstHumanity",
+                "type": "github"
+            },
+            {
+                "title": "SlackBundle",
+                "href": "https://github.com/DZunke/SlackBundle",
+                "github": "DZunke/SlackBundle",
+                "type": "github"
+            },
+            {
+                "title": "slackcamp",
+                "href": "https://github.com/jamescarlos/slackcamp",
+                "github": "jamescarlos/slackcamp",
+                "type": "github"
+            },
+            {
+                "title": "Slacker",
+                "href": "https://github.com/TidalLabs/Slacker",
+                "github": "TidalLabs/Slacker",
+                "type": "github"
+            },
+            {
+                "title": "SlackGoogle",
+                "href": "https://github.com/dommerq/SlackGoogle",
+                "github": "dommerq/SlackGoogle",
+                "type": "github"
+            },
+            {
+                "title": "SlackHelper",
+                "href": "https://github.com/leoetlino/SlackHelper",
+                "github": "leoetlino/SlackHelper",
+                "type": "github"
+            },
+            {
+                "title": "SlackHolidayBot",
+                "href": "https://github.com/bradslavin/SlackHolidayBot",
+                "github": "bradslavin/SlackHolidayBot",
+                "type": "github"
+            },
+            {
+                "title": "slackuntappd",
+                "href": "https://github.com/gregavola/slackuntappd",
+                "github": "gregavola/slackuntappd",
+                "type": "github"
+            },
+            {
+                "title": "SlackWamp",
+                "href": "https://github.com/voryx/SlackWamp",
+                "github": "voryx/SlackWamp",
+                "type": "github"
+            },
+            {
+                "title": "Sqwack",
+                "href": "https://github.com/heyupdate/Sqwack",
+                "github": "heyupdate/Sqwack",
+                "type": "github"
+            },
+            {
+                "title": "tourdefrance-slack-bot",
+                "href": "https://github.com/j0k3r/tourdefrance-slack-bot",
+                "github": "j0k3r/tourdefrance-slack-bot",
+                "type": "github"
+            },
+            {
+                "title": "versioneye-slack",
+                "href": "https://github.com/heyupdate/versioneye-slack",
+                "github": "heyupdate/versioneye-slack",
+                "type": "github"
+            },
+            {
+                "title": "VoiceChatAPI slack command",
+                "href": "https://gist.github.com/elsassph/49582cdc8c64823833bb",
+                "github": ".com/elsassph/49582cdc8c64823833bb",
+                "type": "github"
+            },
+            {
+                "title": "worldcup-slack-bot",
+                "href": "https://github.com/j0k3r/worldcup-slack-bot",
+                "github": "j0k3r/worldcup-slack-bot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "asterisk-slack",
+                "href": "https://github.com/firehooper/asterisk-slack",
+                "github": "firehooper/asterisk-slack",
+                "type": "github"
+            },
+            {
+                "title": "butterfield",
+                "href": "https://github.com/sunlightlabs/butterfield",
+                "github": "sunlightlabs/butterfield",
+                "type": "github"
+            },
+            {
+                "title": "changetip-slack",
+                "href": "https://github.com/changecoin/changetip-slack",
+                "github": "changecoin/changetip-slack",
+                "type": "github"
+            },
+            {
+                "title": "django-slack",
+                "href": "https://github.com/lamby/django-slack",
+                "github": "lamby/django-slack",
+                "type": "github"
+            },
+            {
+                "title": "django-slack-oauth",
+                "href": "https://github.com/izdi/django-slack-oauth",
+                "github": "izdi/django-slack-oauth",
+                "type": "github"
+            },
+            {
+                "title": "ellie-slack",
+                "href": "https://github.com/christinac/ellie-slack",
+                "github": "christinac/ellie-slack",
+                "type": "github"
+            },
+            {
+                "title": "errbot",
+                "href": "https://github.com/errbotio/errbot",
+                "github": "errbotio/errbot",
+                "type": "github"
+            },
+            {
+                "title": "flask-slack",
+                "href": "https://github.com/VeryCB/flask-slack",
+                "github": "VeryCB/flask-slack",
+                "type": "github"
+            },
+            {
+                "title": "fs-slack",
+                "href": "https://github.com/slackhappy/fs-slack",
+                "github": "slackhappy/fs-slack",
+                "type": "github"
+            },
+            {
+                "title": "gmail2slack",
+                "href": "https://github.com/brooksc/gmail2slack",
+                "github": "brooksc/gmail2slack",
+                "type": "github"
+            },
+            {
+                "title": "limbo",
+                "href": "https://github.com/llimllib/limbo",
+                "github": "llimllib/limbo",
+                "type": "github"
+            },
+            {
+                "title": "morgenbot",
+                "href": "https://github.com/eelzon/morgenbot",
+                "github": "eelzon/morgenbot",
+                "type": "github"
+            },
+            {
+                "title": "mqttwarn",
+                "href": "https://github.com/jpmens/mqttwarn#slack",
+                "github": "jpmens/mqttwarn#slack",
+                "type": "github"
+            },
+            {
+                "title": "openduty",
+                "href": "https://github.com/ustream/openduty",
+                "github": "ustream/openduty",
+                "type": "github"
+            },
+            {
+                "title": "pyslack",
+                "href": "https://github.com/loisaidasam/pyslack",
+                "github": "loisaidasam/pyslack",
+                "type": "github"
+            },
+            {
+                "title": "python-rtmbot",
+                "href": "https://github.com/slackhq/python-rtmbot",
+                "github": "slackhq/python-rtmbot",
+                "type": "github"
+            },
+            {
+                "title": "python-slack.com",
+                "href": "https://github.com/rosscdh/python-slack.com",
+                "github": "rosscdh/python-slack.com",
+                "type": "github"
+            },
+            {
+                "title": "python-slackclient",
+                "href": "https://github.com/slackhq/python-slackclient",
+                "github": "slackhq/python-slackclient",
+                "type": "github"
+            },
+            {
+                "title": "reach-slack-rtm",
+                "href": "https://github.com/izdi/react-slack-rtm",
+                "github": "izdi/react-slack-rtm",
+                "type": "github"
+            },
+            {
+                "title": "relay",
+                "href": "https://github.com/matsengrp/relay",
+                "github": "matsengrp/relay",
+                "type": "github"
+            },
+            {
+                "title": "scudcloud",
+                "href": "https://github.com/raelgc/scudcloud/",
+                "github": "raelgc/scudcloud/",
+                "type": "github"
+            },
+            {
+                "title": "sscaas",
+                "href": "https://github.com/danielsamuels/sscaas",
+                "github": "danielsamuels/sscaas",
+                "type": "github"
+            },
+            {
+                "title": "slack",
+                "href": "https://github.com/kn/slack",
+                "github": "kn/slack",
+                "type": "github"
+            },
+            {
+                "title": "slack-echo-chamber",
+                "href": "https://github.com/balloon-studios/slack-echo-chamber",
+                "github": "balloon-studios/slack-echo-chamber",
+                "type": "github"
+            },
+            {
+                "title": "slack-emojis",
+                "href": "https://github.com/jkloo/slack-emojis",
+                "github": "jkloo/slack-emojis",
+                "type": "github"
+            },
+            {
+                "title": "slack-imgur",
+                "href": "https://github.com/juanpabloaj/slack-imgur",
+                "github": "juanpabloaj/slack-imgur",
+                "type": "github"
+            },
+            {
+                "title": "slack-overflow",
+                "href": "https://github.com/karan/slack-overflow",
+                "github": "karan/slack-overflow",
+                "type": "github"
+            },
+            {
+                "title": "slack",
+                "href": "https://github.com/ramanshah/slack_standup_snitch",
+                "github": "ramanshah/slack_standup_snitch",
+                "type": "github"
+            },
+            {
+                "title": "slack-w3w",
+                "href": "https://github.com/samzhang111/slack-w3w",
+                "github": "samzhang111/slack-w3w",
+                "type": "github"
+            },
+            {
+                "title": "slack-workout",
+                "href": "https://github.com/brandonshin/slackbot-workout",
+                "github": "brandonshin/slackbot-workout",
+                "type": "github"
+            },
+            {
+                "title": "slack-zenoss",
+                "href": "https://github.com/ssplatt/slack-zenoss",
+                "github": "ssplatt/slack-zenoss",
+                "type": "github"
+            },
+            {
+                "title": "slackard",
+                "href": "https://github.com/aelse/slackard",
+                "github": "aelse/slackard",
+                "type": "github"
+            },
+            {
+                "title": "slackbot",
+                "href": "https://github.com/lins05/slackbot",
+                "github": "lins05/slackbot",
+                "type": "github"
+            },
+            {
+                "title": "slackbot-python",
+                "href": "https://github.com/fsalum/slackbot-python",
+                "github": "fsalum/slackbot-python",
+                "type": "github"
+            },
+            {
+                "title": "slackbridge",
+                "href": "https://github.com/ossobv/slackbridge",
+                "github": "ossobv/slackbridge",
+                "type": "github"
+            },
+            {
+                "title": "slackcmd",
+                "href": "https://github.com/pzelnip/slackcmd",
+                "github": "pzelnip/slackcmd",
+                "type": "github"
+            },
+            {
+                "title": "slackcraft",
+                "href": "https://github.com/MathyV/slackcraft",
+                "github": "MathyV/slackcraft",
+                "type": "github"
+            },
+            {
+                "title": "slacker",
+                "href": "https://github.com/os/slacker",
+                "github": "os/slacker",
+                "type": "github"
+            },
+            {
+                "title": "slacker-cli",
+                "href": "https://github.com/juanpabloaj/slacker-cli",
+                "github": "juanpabloaj/slacker-cli",
+                "type": "github"
+            },
+            {
+                "title": "slackfred",
+                "href": "https://github.com/fspinillo/slackfred",
+                "github": "fspinillo/slackfred",
+                "type": "github"
+            },
+            {
+                "title": "slackotron",
+                "href": "https://github.com/lettier/slackotron",
+                "github": "lettier/slackotron",
+                "type": "github"
+            },
+            {
+                "title": "slackpy",
+                "href": "https://github.com/iktakahiro/slackpy",
+                "github": "iktakahiro/slackpy",
+                "type": "github"
+            },
+            {
+                "title": "slacksocket",
+                "href": "https://github.com/vektorlab/slacksocket",
+                "github": "vektorlab/slacksocket",
+                "type": "github"
+            },
+            {
+                "title": "slouch",
+                "href": "https://github.com/venmo/slouch",
+                "github": "venmo/slouch",
+                "type": "github"
+            },
+            {
+                "title": "StackStorm Slack Pack",
+                "href": "https://github.com/StackStorm/st2contrib/tree/master/packs/slack",
+                "github": "StackStorm/st2contrib/tree/master/packs/slack",
+                "type": "github"
+            },
+            {
+                "title": "sublime-slack-integration",
+                "href": "https://github.com/simion/sublime-slack-integration",
+                "github": "simion/sublime-slack-integration",
+                "type": "github"
+            },
+            {
+                "title": "tracslack",
+                "href": "https://github.com/grexi/snippets/tree/master/tracslack",
+                "github": "grexi/snippets/tree/master/tracslack",
+                "type": "github"
+            },
+            {
+                "title": "webhook-bridge",
+                "href": "https://github.com/calvingiles/webhook-bridge",
+                "github": "calvingiles/webhook-bridge",
+                "type": "github"
+            },
+            {
+                "title": "wee-slack",
+                "href": "https://github.com/rawdigits/wee-slack",
+                "github": "rawdigits/wee-slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "R",
+        "childrens": [
+            {
+                "title": "slackr",
+                "href": "https://github.com/hrbrmstr/slackr",
+                "github": "hrbrmstr/slackr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "addon-slack",
+                "href": "https://github.com/magnumci/addon-slack",
+                "github": "magnumci/addon-slack",
+                "type": "github"
+            },
+            {
+                "title": "adventure-bot",
+                "href": "https://github.com/wstrinz/adventure-bot",
+                "github": "wstrinz/adventure-bot",
+                "type": "github"
+            },
+            {
+                "title": "airbrake2slack",
+                "href": "https://github.com/releu/airbrake2slack",
+                "github": "releu/airbrake2slack",
+                "type": "github"
+            },
+            {
+                "title": "Alfred-Slack-Channels",
+                "href": "https://github.com/akira-hamada/Alfred-Slack-Channels",
+                "github": "akira-hamada/Alfred-Slack-Channels",
+                "type": "github"
+            },
+            {
+                "title": "beach",
+                "href": "https://github.com/willrax/beach",
+                "github": "willrax/beach",
+                "type": "github"
+            },
+            {
+                "title": "capistrano-slack",
+                "href": "https://github.com/j-mcnally/capistrano-slack",
+                "github": "j-mcnally/capistrano-slack",
+                "type": "github"
+            },
+            {
+                "title": "capistrano-slack",
+                "href": "https://github.com/nextupdate/capistrano-slack",
+                "github": "nextupdate/capistrano-slack",
+                "type": "github"
+            },
+            {
+                "title": "capistrano-slackify",
+                "href": "https://github.com/onthebeach/capistrano-slackify",
+                "github": "onthebeach/capistrano-slackify",
+                "type": "github"
+            },
+            {
+                "title": "chef-slack",
+                "href": "https://github.com/risk-io/chef-slack",
+                "github": "risk-io/chef-slack",
+                "type": "github"
+            },
+            {
+                "title": "chef-slack",
+                "href": "https://github.com/dcm-ops/chef-slack_handler",
+                "github": "dcm-ops/chef-slack_handler",
+                "type": "github"
+            },
+            {
+                "title": "dogetip-slack",
+                "href": "https://github.com/tenforwardconsulting/dogetip-slack",
+                "github": "tenforwardconsulting/dogetip-slack",
+                "type": "github"
+            },
+            {
+                "title": "doorbell-server",
+                "href": "https://github.com/Lostmyname/doorbell-server",
+                "github": "Lostmyname/doorbell-server",
+                "type": "github"
+            },
+            {
+                "title": "fastlane",
+                "href": "https://github.com/fastlane/fastlane",
+                "github": "fastlane/fastlane",
+                "type": "github"
+            },
+            {
+                "title": "gifbot",
+                "href": "https://github.com/schuyler/gifbot",
+                "github": "schuyler/gifbot",
+                "type": "github"
+            },
+            {
+                "title": "hatebu-hooker",
+                "href": "https://github.com/kmrshntr/hatebu-hooker",
+                "github": "kmrshntr/hatebu-hooker",
+                "type": "github"
+            },
+            {
+                "title": "kickslacker",
+                "href": "https://github.com/marcroberts/kickslacker",
+                "github": "marcroberts/kickslacker",
+                "type": "github"
+            },
+            {
+                "title": "lita-slack",
+                "href": "https://github.com/kenjij/lita-slack",
+                "github": "kenjij/lita-slack",
+                "type": "github"
+            },
+            {
+                "title": "lita-slack-handler",
+                "href": "https://github.com/kenjij/lita-slack-handler",
+                "github": "kenjij/lita-slack-handler",
+                "type": "github"
+            },
+            {
+                "title": "mina",
+                "href": "https://github.com/mbajur/mina_slack",
+                "github": "mbajur/mina_slack",
+                "type": "github"
+            },
+            {
+                "title": "Monit to Slack",
+                "href": "https://gist.github.com/jlecour/9830941",
+                "github": ".com/jlecour/9830941",
+                "type": "github"
+            },
+            {
+                "title": "mslabs-slack-bridge",
+                "href": "https://github.com/ms-digital-labs/mslabs-slack-bridge",
+                "github": "ms-digital-labs/mslabs-slack-bridge",
+                "type": "github"
+            },
+            {
+                "title": "omniauth-slack",
+                "href": "https://github.com/kmrshntr/omniauth-slack",
+                "github": "kmrshntr/omniauth-slack",
+                "type": "github"
+            },
+            {
+                "title": "pagerbot",
+                "href": "https://github.com/stripe-contrib/pagerbot",
+                "github": "stripe-contrib/pagerbot",
+                "type": "github"
+            },
+            {
+                "title": "puppet-slack",
+                "href": "https://github.com/orlando/puppet-slack",
+                "github": "orlando/puppet-slack",
+                "type": "github"
+            },
+            {
+                "title": "puppet-slack",
+                "href": "https://github.com/fsalum/puppet-slack",
+                "github": "fsalum/puppet-slack",
+                "type": "github"
+            },
+            {
+                "title": "redmine-slack",
+                "href": "https://github.com/sciyoshi/redmine-slack",
+                "github": "sciyoshi/redmine-slack",
+                "type": "github"
+            },
+            {
+                "title": "resque-slack",
+                "href": "https://github.com/julienXX/resque-slack",
+                "github": "julienXX/resque-slack",
+                "type": "github"
+            },
+            {
+                "title": "semaphore-to-slack",
+                "href": "https://github.com/flevour/semaphore-to-slack",
+                "github": "flevour/semaphore-to-slack",
+                "type": "github"
+            },
+            {
+                "title": "slack-gamebot",
+                "href": "https://github.com/dblock/slack-gamebot",
+                "github": "dblock/slack-gamebot",
+                "type": "github"
+            },
+            {
+                "title": "slack",
+                "href": "https://github.com/nacyot/slack_notifier",
+                "github": "nacyot/slack_notifier",
+                "type": "github"
+            },
+            {
+                "title": "slack-notifier",
+                "href": "https://github.com/stevenosloan/slack-notifier",
+                "github": "stevenosloan/slack-notifier",
+                "type": "github"
+            },
+            {
+                "title": "slack-notify",
+                "href": "https://github.com/sosedoff/slack-notify",
+                "github": "sosedoff/slack-notify",
+                "type": "github"
+            },
+            {
+                "title": "slack-portals",
+                "href": "https://github.com/atomic-app/slack-portals",
+                "github": "atomic-app/slack-portals",
+                "type": "github"
+            },
+            {
+                "title": "slack-post",
+                "href": "https://github.com/CozyCo/slack-post",
+                "github": "CozyCo/slack-post",
+                "type": "github"
+            },
+            {
+                "title": "slack-poster",
+                "href": "https://github.com/rikas/slack-poster",
+                "github": "rikas/slack-poster",
+                "type": "github"
+            },
+            {
+                "title": "slack-repeater",
+                "href": "https://github.com/hekk/slack-repeater",
+                "github": "hekk/slack-repeater",
+                "type": "github"
+            },
+            {
+                "title": "slack-rtmapi",
+                "href": "https://github.com/mackwic/slack-rtmapi",
+                "github": "mackwic/slack-rtmapi",
+                "type": "github"
+            },
+            {
+                "title": "slack-ruby-bot",
+                "href": "https://github.com/dblock/slack-ruby-bot",
+                "github": "dblock/slack-ruby-bot",
+                "type": "github"
+            },
+            {
+                "title": "slack-ruby-client",
+                "href": "https://github.com/dblock/slack-ruby-client",
+                "github": "dblock/slack-ruby-client",
+                "type": "github"
+            },
+            {
+                "title": "slack-ruby-gem",
+                "href": "https://github.com/aki017/slack-ruby-gem",
+                "github": "aki017/slack-ruby-gem",
+                "type": "github"
+            },
+            {
+                "title": "slack-semaphore-integration",
+                "href": "https://github.com/brunoadacosta/slack-semaphore-integration",
+                "github": "brunoadacosta/slack-semaphore-integration",
+                "type": "github"
+            },
+            {
+                "title": "slack-shuffle",
+                "href": "https://github.com/romulomachado/slack-shuffle",
+                "github": "romulomachado/slack-shuffle",
+                "type": "github"
+            },
+            {
+                "title": "slack-slam",
+                "href": "https://github.com/matthewdu/slack-slam",
+                "github": "matthewdu/slack-slam",
+                "type": "github"
+            },
+            {
+                "title": "slack-timezone-converter",
+                "href": "https://github.com/caiosba/slack-timezone-converter",
+                "github": "caiosba/slack-timezone-converter",
+                "type": "github"
+            },
+            {
+                "title": "slackbot",
+                "href": "https://github.com/typekit/slackbot",
+                "github": "typekit/slackbot",
+                "type": "github"
+            },
+            {
+                "title": "slackbot",
+                "href": "https://github.com/tomnatt/slackbot",
+                "github": "tomnatt/slackbot",
+                "type": "github"
+            },
+            {
+                "title": "slackbot-plugin",
+                "href": "https://github.com/vjanelle/slackbot-plugin",
+                "github": "vjanelle/slackbot-plugin",
+                "type": "github"
+            },
+            {
+                "title": "slackbots",
+                "href": "https://github.com/treeder/slackbots",
+                "github": "treeder/slackbots",
+                "type": "github"
+            },
+            {
+                "title": "slackbotsy",
+                "href": "https://github.com/rlister/slackbotsy",
+                "github": "rlister/slackbotsy",
+                "type": "github"
+            },
+            {
+                "title": "slackcat",
+                "href": "https://github.com/rlister/slackcat",
+                "github": "rlister/slackcat",
+                "type": "github"
+            },
+            {
+                "title": "SlackCI",
+                "href": "https://github.com/grubernaut/SlackCI",
+                "github": "grubernaut/SlackCI",
+                "type": "github"
+            },
+            {
+                "title": "SlackEco",
+                "href": "https://github.com/riencroonenborghs/slackeco",
+                "github": "riencroonenborghs/slackeco",
+                "type": "github"
+            },
+            {
+                "title": "slacker",
+                "href": "https://github.com/ttaylorr/slacker",
+                "github": "ttaylorr/slacker",
+                "type": "github"
+            },
+            {
+                "title": "slackfire",
+                "href": "https://github.com/RokkinCat/slackfire",
+                "github": "RokkinCat/slackfire",
+                "type": "github"
+            },
+            {
+                "title": "slackistrano",
+                "href": "https://github.com/phallstrom/slackistrano",
+                "github": "phallstrom/slackistrano",
+                "type": "github"
+            },
+            {
+                "title": "slackr",
+                "href": "https://github.com/risk-io/slackr",
+                "github": "risk-io/slackr",
+                "type": "github"
+            },
+            {
+                "title": "slackr-gif-bot",
+                "href": "https://github.com/brianjriddle/slackr-gif-bot",
+                "github": "brianjriddle/slackr-gif-bot",
+                "type": "github"
+            },
+            {
+                "title": "Slackvant",
+                "href": "https://github.com/nh7a/Slackvant",
+                "github": "nh7a/Slackvant",
+                "type": "github"
+            },
+            {
+                "title": "slightly-weird",
+                "href": "https://github.com/willrax/slightly-weird",
+                "github": "willrax/slightly-weird",
+                "type": "github"
+            },
+            {
+                "title": "snarkov",
+                "href": "https://github.com/gesteves/snarkov",
+                "github": "gesteves/snarkov",
+                "type": "github"
+            },
+            {
+                "title": "spoilerbot",
+                "href": "https://github.com/austra/spoilerbot",
+                "github": "austra/spoilerbot",
+                "type": "github"
+            },
+            {
+                "title": "squirt",
+                "href": "https://gist.github.com/foozmeat/82f177d60d5dfc7fc518",
+                "github": ".com/foozmeat/82f177d60d5dfc7fc518",
+                "type": "github"
+            },
+            {
+                "title": "tarumi",
+                "href": "https://github.com/IcaliaLabs/tarumi",
+                "github": "IcaliaLabs/tarumi",
+                "type": "github"
+            },
+            {
+                "title": "tickbot",
+                "href": "https://github.com/barryf/tickbot",
+                "github": "barryf/tickbot",
+                "type": "github"
+            },
+            {
+                "title": "trebekbot",
+                "href": "https://github.com/gesteves/trebekbot",
+                "github": "gesteves/trebekbot",
+                "type": "github"
+            },
+            {
+                "title": "vip-notify",
+                "href": "https://github.com/doejo/vip-notify",
+                "github": "doejo/vip-notify",
+                "type": "github"
+            },
+            {
+                "title": "slack-webistrano",
+                "href": "https://github.com/caiosba/slack-webistrano",
+                "github": "caiosba/slack-webistrano",
+                "type": "github"
+            },
+            {
+                "title": "yobot",
+                "href": "https://github.com/voxmedia/yobot",
+                "github": "voxmedia/yobot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rust",
+        "childrens": [
+            {
+                "title": "rust-slack",
+                "href": "https://github.com/frostly/rust-slack",
+                "github": "frostly/rust-slack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala",
+        "childrens": [
+            {
+                "title": "scala-slack",
+                "href": "https://github.com/flyberry-capital/scala-slack",
+                "github": "flyberry-capital/scala-slack",
+                "type": "github"
+            },
+            {
+                "title": "sslack",
+                "href": "https://github.com/webpay/sslack",
+                "github": "webpay/sslack",
+                "type": "github"
+            },
+            {
+                "title": "slack-scala-client",
+                "href": "https://github.com/gilbertw1/slack-scala-client",
+                "github": "gilbertw1/slack-scala-client",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Shell",
+        "childrens": [
+            {
+                "title": "git-slack-hook",
+                "href": "https://github.com/chriseldredge/git-slack-hook",
+                "github": "chriseldredge/git-slack-hook",
+                "type": "github"
+            },
+            {
+                "title": "Sholat-Prayer-Times-Slack",
+                "href": "https://github.com/ainunnajib/Sholat-Prayer-Times-Slack",
+                "github": "ainunnajib/Sholat-Prayer-Times-Slack",
+                "type": "github"
+            },
+            {
+                "title": "slack",
+                "href": "https://github.com/rcrowley/slack",
+                "github": "rcrowley/slack",
+                "type": "github"
+            },
+            {
+                "title": "slack-hack",
+                "href": "https://github.com/steinn/slack-hack/",
+                "github": "steinn/slack-hack/",
+                "type": "github"
+            },
+            {
+                "title": "slack-rails-ci",
+                "href": "https://github.com/caiosba/slack-rails-ci",
+                "github": "caiosba/slack-rails-ci",
+                "type": "github"
+            },
+            {
+                "title": "slacktee",
+                "href": "https://github.com/course-hero/slacktee",
+                "github": "course-hero/slacktee",
+                "type": "github"
+            },
+            {
+                "title": "stash",
+                "href": "https://gist.github.com/linjer/2ee6146d3b320cbe9225",
+                "github": ".com/linjer/2ee6146d3b320cbe9225",
+                "type": "github"
+            },
+            {
+                "title": "wercker-step-slack-notify",
+                "href": "https://github.com/sherzberg/wercker-step-slack-notify",
+                "github": "sherzberg/wercker-step-slack-notify",
+                "type": "github"
+            },
+            {
+                "title": "wercker-step-slack-post",
+                "href": "https://github.com/kobim/wercker-step-slack-post",
+                "github": "kobim/wercker-step-slack-post",
+                "type": "github"
+            },
+            {
+                "title": "zabbix-slack-alertscript",
+                "href": "https://github.com/ericoc/zabbix-slack-alertscript",
+                "github": "ericoc/zabbix-slack-alertscript",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tcl",
+        "childrens": [
+            {
+                "title": "eggdrop-slack",
+                "href": "https://github.com/jasonroman/eggdrop-slackbot",
+                "github": "jasonroman/eggdrop-slackbot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Zephir",
+        "childrens": [
+            {
+                "title": "zephlack",
+                "href": "https://github.com/linxlad/zephlack",
+                "github": "linxlad/zephlack",
+                "type": "github"
+            }
+        ]
+    }
+]

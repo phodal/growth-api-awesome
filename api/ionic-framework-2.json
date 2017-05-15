@@ -1,0 +1,113 @@
+[
+    {
+        "heading": "Official Resources",
+        "childrens": [
+            {
+                "title": "Ionic Native",
+                "href": "https://github.com/driftyco/ionic-native/",
+                "github": "driftyco/ionic-native/",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Repo",
+                "href": "https://github.com/driftyco/ionic/",
+                "github": "driftyco/ionic/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Vim-ionic2",
+                "href": "https://github.com/akz92/vim-ionic2",
+                "github": "akz92/vim-ionic2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Open Source Projects",
+        "childrens": [
+            {
+                "title": "Ionic Conference App",
+                "href": "https://github.com/driftyco/ionic-conference-app",
+                "github": "driftyco/ionic-conference-app",
+                "type": "github"
+            },
+            {
+                "title": "IonicRealty",
+                "href": "https://github.com/ccoenraets/ionic2-realty",
+                "github": "ccoenraets/ionic2-realty",
+                "type": "github"
+            },
+            {
+                "title": "Ionic Firebase Chat App",
+                "href": "https://github.com/ionic2blueprints/firebase-chat",
+                "github": "ionic2blueprints/firebase-chat",
+                "type": "github"
+            },
+            {
+                "title": "Ionic Ecommerce App",
+                "href": "https://github.com/ionic2blueprints/ionic2-marketcloud",
+                "github": "ionic2blueprints/ionic2-marketcloud",
+                "type": "github"
+            },
+            {
+                "title": "Ionic Conference App based on Lanyrd API",
+                "href": "https://github.com/ionic2blueprints/conference-app",
+                "github": "ionic2blueprints/conference-app",
+                "type": "github"
+            },
+            {
+                "title": "Ionic Stock Tracking App",
+                "href": "https://github.com/ionic2blueprints/ionic2-stockmarket",
+                "github": "ionic2blueprints/ionic2-stockmarket",
+                "type": "github"
+            },
+            {
+                "title": "Ionic Wordpress Client",
+                "href": "https://github.com/ionic2blueprints/ionic2-wp-client",
+                "github": "ionic2blueprints/ionic2-wp-client",
+                "type": "github"
+            },
+            {
+                "title": "Ionic Media Player",
+                "href": "https://github.com/ionic2blueprints/media-player",
+                "github": "ionic2blueprints/media-player",
+                "type": "github"
+            },
+            {
+                "title": "Ionic Social App",
+                "href": "https://github.com/ionic2blueprints/social-app",
+                "github": "ionic2blueprints/social-app",
+                "type": "github"
+            },
+            {
+                "title": "Ionic 2 Push Notification",
+                "href": "https://github.com/aggarwalankush/ionic2-push-base",
+                "github": "aggarwalankush/ionic2-push-base",
+                "type": "github"
+            },
+            {
+                "title": "Ionic 2 Weather app",
+                "href": "https://github.com/aggarwalankush/ionic2-mosum",
+                "github": "aggarwalankush/ionic2-mosum",
+                "type": "github"
+            },
+            {
+                "title": "Ionic 2 Reddit Reader",
+                "href": "https://github.com/smartapant/ionic2-reddit-reader",
+                "github": "smartapant/ionic2-reddit-reader",
+                "type": "github"
+            },
+            {
+                "title": "Ionic 2 Advanced Components",
+                "href": "https://github.com/yannbf/ionic2-components",
+                "github": "yannbf/ionic2-components",
+                "type": "github"
+            }
+        ]
+    }
+]

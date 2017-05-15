@@ -1,0 +1,294 @@
+[
+    {
+        "heading": "Android",
+        "childrens": [
+            {
+                "title": "Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc",
+                "href": "https://github.com/derekargueta/Android-Interview-Questions",
+                "github": "derekargueta/Android-Interview-Questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "AngularJS",
+        "childrens": [
+            {
+                "title": "An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass",
+                "href": "https://github.com/gdi2290/ngExam",
+                "github": "gdi2290/ngExam",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++",
+        "childrens": [
+            {
+                "title": "LeetCode Problems' Solutions written in C++",
+                "href": "https://github.com/haoel/leetcode",
+                "github": "haoel/leetcode",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Clojure",
+        "childrens": [
+            {
+                "title": "Coding exercises in Clojure, handy practice for technical interview questions",
+                "href": "https://github.com/dpetrovics/coding-exercises",
+                "github": "dpetrovics/coding-exercises",
+                "type": "github"
+            },
+            {
+                "title": "Interview cake Clojure solutions",
+                "href": "https://github.com/DerekCuevas/interview-cake-clj",
+                "github": "DerekCuevas/interview-cake-clj",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Golang",
+        "childrens": [
+            {
+                "title": "Solutions for Elements of Programming Interviews problems written in Golang",
+                "href": "https://github.com/mrekucci/epi",
+                "github": "mrekucci/epi",
+                "type": "github"
+            },
+            {
+                "title": "Solutions for some basic coding interview tasks written in Go",
+                "href": "https://github.com/efischer19/golang_ctci",
+                "github": "efischer19/golang_ctci",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "iOS",
+        "childrens": [
+            {
+                "title": "A small guide to help those looking to hire a developer or designer for iOS work While tailored for iOS, many questions could be used for Android developers or designers as well A great self-test if you're looking to keep current or practice for your own interview",
+                "href": "https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions",
+                "github": "CameronBanga/iOS-Developer-and-Designer-Interview-Questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources",
+                "href": "https://github.com/svozniuk/java-interviews",
+                "github": "svozniuk/java-interviews",
+                "type": "github"
+            },
+            {
+                "title": "Data Structures and Algorithms in Java which can be useful in interview process",
+                "href": "https://github.com/donbeave/interview",
+                "github": "donbeave/interview",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "JavaScript 101 interview Question",
+                "href": "https://github.com/nishant8BITS/101-JavaScript-Interview-Question",
+                "github": "nishant8BITS/101-JavaScript-Interview-Question",
+                "type": "github"
+            },
+            {
+                "title": "Some basic javascript coding challenges and interview questions",
+                "href": "https://github.com/kolodny/exercises",
+                "github": "kolodny/exercises",
+                "type": "github"
+            },
+            {
+                "title": "Some JavaScript interview exercises",
+                "href": "https://github.com/csvenja/javascript-exercises",
+                "github": "csvenja/javascript-exercises",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "Basic PHP interview questions",
+                "href": "https://github.com/developerquestions/php-questions",
+                "github": "developerquestions/php-questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "A listing of questions that could potentially be asked for a python job listing",
+                "href": "https://github.com/sigmavirus24/python-interview-questions",
+                "github": "sigmavirus24/python-interview-questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby on Rails",
+        "childrens": [
+            {
+                "title": "A list of common questions with answers ask during interview of ruby on rails job",
+                "href": "https://github.com/rishiip/ruby-on-rails-interview-questions",
+                "github": "rishiip/ruby-on-rails-interview-questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "15 Questions to Ask During a Ruby Interview",
+                "href": "https://gist.github.com/ryansobol/5252653",
+                "github": ".com/ryansobol/5252653",
+                "type": "github"
+            },
+            {
+                "title": "A list of questions about Ruby programming you can use to quiz yourself",
+                "href": "https://github.com/undr/ruby-trivia",
+                "github": "undr/ruby-trivia",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala",
+        "childrens": [
+            {
+                "title": "A list of helpful Scala related questions you can use to interview potential candidates",
+                "href": "https://github.com/Jarlakxen/Scala-Interview-Questions",
+                "github": "Jarlakxen/Scala-Interview-Questions",
+                "type": "github"
+            },
+            {
+                "title": "Scala Interview Questions/Answers including Language Questions, Functional Programming Questions, Reactive Programming Questions",
+                "href": "https://github.com/peterarsentev/Scala-Interview-Questions-Answers",
+                "github": "peterarsentev/Scala-Interview-Questions-Answers",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Swift",
+        "childrens": [
+            {
+                "title": "Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1",
+                "href": "https://github.com/diwu/LeetCode-Solutions-in-Swift",
+                "github": "diwu/LeetCode-Solutions-in-Swift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SQL",
+        "childrens": [
+            {
+                "title": "Schema, Questions & Solutions for SQL Exercising",
+                "href": "https://github.com/XD-DENG/SQL-exercise",
+                "github": "XD-DENG/SQL-exercise",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Linux",
+        "childrens": [
+            {
+                "title": "Linux System Administrator/DevOps Interview Questions",
+                "href": "https://github.com/chassing/linux-sysadmin-interview-questions",
+                "github": "chassing/linux-sysadmin-interview-questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Algorithms",
+        "childrens": [
+            {
+                "title": "Algorithms playground for common interview questions written in Ruby",
+                "href": "https://github.com/sagivo/algorithms",
+                "github": "sagivo/algorithms",
+                "type": "github"
+            },
+            {
+                "title": "EKAlgorithms contains some well known CS algorithms & data structures",
+                "href": "https://github.com/EvgenyKarkan/EKAlgorithms",
+                "github": "EvgenyKarkan/EKAlgorithms",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Coding exercises",
+        "childrens": [
+            {
+                "title": "Common interview questions and puzzles solved in a number of languages",
+                "href": "https://github.com/mre/the-coding-interview",
+                "github": "mre/the-coding-interview",
+                "type": "github"
+            },
+            {
+                "title": "Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions",
+                "href": "https://github.com/donnemartin/interactive-coding-challenges",
+                "github": "donnemartin/interactive-coding-challenges",
+                "type": "github"
+            },
+            {
+                "title": "Interview questions solved in python",
+                "href": "https://github.com/roseperrone/interview-questions",
+                "github": "roseperrone/interview-questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Comprehensive lists",
+        "childrens": [
+            {
+                "title": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore",
+                "href": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+                "github": "h5bp/Front-end-Developer-Interview-Questions",
+                "type": "github"
+            },
+            {
+                "title": "Some simple questions to interview potential backend candidates",
+                "href": "https://github.com/starandtina/backend-interview-questions",
+                "github": "starandtina/backend-interview-questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Design Patterns",
+        "childrens": [
+            {
+                "title": "Design Patterns for Humans™ - An ultra-simplified explanation",
+                "href": "https://github.com/kamranahmedse/design-patterns-for-humans",
+                "github": "kamranahmedse/design-patterns-for-humans",
+                "type": "github"
+            },
+            {
+                "title": "Design patterns implemented in Java",
+                "href": "https://github.com/iluwatar/java-design-patterns",
+                "github": "iluwatar/java-design-patterns",
+                "type": "github"
+            }
+        ]
+    }
+]

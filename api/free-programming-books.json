@@ -1,0 +1,31 @@
+[
+    {
+        "heading": "How to Share",
+        "childrens": [
+            {
+                "title": "Share on Twitter",
+                "href": "http://twitter.com/home?status=https://github.com/vhf/free-programming-books%0AFree%20Programming%20Books",
+                "github": "home?status=https://github.com/vhf/free-programming-books%0AFree%20Programming%20Books",
+                "type": "github"
+            },
+            {
+                "title": "Share on Facebook",
+                "href": "http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/vhf/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=",
+                "github": ".com/sharer/sharer.php?s=100&p[url]=https://github.com/vhf/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=",
+                "type": "github"
+            },
+            {
+                "title": "Share on Google Plus",
+                "href": "https://plus.google.com/share?url=https://github.com/vhf/free-programming-books",
+                "github": ".com/share?url=https://github.com/vhf/free-programming-books",
+                "type": "github"
+            },
+            {
+                "title": "Share on LinkedIn",
+                "href": "http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/vhf/free-programming-books&title=Free%20Programming%20Books&summary=&source=",
+                "github": ".com/shareArticle?mini=true&url=https://github.com/vhf/free-programming-books&title=Free%20Programming%20Books&summary=&source=",
+                "type": "github"
+            }
+        ]
+    }
+]

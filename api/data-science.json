@@ -1,0 +1,146 @@
+[
+    {
+        "heading": "COLLEGES",
+        "childrens": [
+            {
+                "title": "A list of colleges and universities offering degrees in data science.",
+                "href": "https://github.com/ryanswanstrom/awesome-datascience-colleges",
+                "github": "ryanswanstrom/awesome-datascience-colleges",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MOOC's",
+        "childrens": [
+            {
+                "title": "Data Science Specialization",
+                "href": "https://github.com/DataScienceSpecialization/courses",
+                "github": "DataScienceSpecialization/courses",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Sets",
+        "childrens": [
+            {
+                "title": "Open Data Sources",
+                "href": "https://github.com/datasciencemasters/data",
+                "github": "datasciencemasters/data",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Toolboxes - Environment",
+        "childrens": [
+            {
+                "title": "Hydrosphere Mist",
+                "href": "https://github.com/Hydrospheredata/mist",
+                "github": "Hydrospheredata/mist",
+                "type": "github"
+            },
+            {
+                "title": "Nervana's python based Deep Learning Framework",
+                "href": "https://github.com/NervanaSystems/neon",
+                "github": "NervanaSystems/neon",
+                "type": "github"
+            },
+            {
+                "title": "Skale",
+                "href": "https://github.com/skale-me/skale-engine",
+                "github": "skale-me/skale-engine",
+                "type": "github"
+            },
+            {
+                "title": "Intel framework",
+                "href": "https://github.com/01org/idlf",
+                "github": "01org/idlf",
+                "type": "github"
+            },
+            {
+                "title": "IJulia",
+                "href": "https://github.com/JuliaLang/IJulia.jl",
+                "github": "JuliaLang/IJulia.jl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Presentations",
+        "childrens": [
+            {
+                "title": "How to Share Data with a Statistician",
+                "href": "https://github.com/jtleek/datasharing",
+                "github": "jtleek/datasharing",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Lists",
+        "childrens": [
+            {
+                "title": "Awesome Machine Learning",
+                "href": "https://github.com/josephmisiti/awesome-machine-learning",
+                "github": "josephmisiti/awesome-machine-learning",
+                "type": "github"
+            },
+            {
+                "title": "lists",
+                "href": "https://github.com/jnv/lists",
+                "github": "jnv/lists",
+                "type": "github"
+            },
+            {
+                "title": "awesome-dataviz",
+                "href": "https://github.com/fasouto/awesome-dataviz",
+                "github": "fasouto/awesome-dataviz",
+                "type": "github"
+            },
+            {
+                "title": "awesome-python",
+                "href": "https://github.com/vinta/awesome-python",
+                "github": "vinta/awesome-python",
+                "type": "github"
+            },
+            {
+                "title": "Data Science IPython Notebooks.",
+                "href": "https://github.com/donnemartin/data-science-ipython-notebooks",
+                "github": "donnemartin/data-science-ipython-notebooks",
+                "type": "github"
+            },
+            {
+                "title": "awesome-r",
+                "href": "https://github.com/qinwf/awesome-R",
+                "github": "qinwf/awesome-R",
+                "type": "github"
+            },
+            {
+                "title": "awesome-datasets",
+                "href": "https://github.com/caesar0301/awesome-public-datasets",
+                "github": "caesar0301/awesome-public-datasets",
+                "type": "github"
+            },
+            {
+                "title": "awesome-Machine Learning & Deep Learning Tutorials",
+                "href": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md",
+                "github": "ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Data Science Ideas",
+                "href": "https://github.com/JosPolfliet/awesome-datascience-ideas",
+                "github": "JosPolfliet/awesome-datascience-ideas",
+                "type": "github"
+            },
+            {
+                "title": "Machine Learning for Software Engineers",
+                "href": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+                "github": "ZuzooVn/machine-learning-for-software-engineers",
+                "type": "github"
+            }
+        ]
+    }
+]

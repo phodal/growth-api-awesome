@@ -1,0 +1,13 @@
+[
+    {
+        "heading": "Collaborate",
+        "childrens": [
+            {
+                "title": "Gist",
+                "href": "https://gist.github.com",
+                "github": ".com",
+                "type": "github"
+            }
+        ]
+    }
+]

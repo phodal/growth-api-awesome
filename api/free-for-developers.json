@@ -1,0 +1,58 @@
+[
+    {
+        "heading": "Source Code Repos",
+        "childrens": [
+            {
+                "title": "github.com",
+                "href": "https://github.com/",
+                "github": "",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CI / CD",
+        "childrens": [
+            {
+                "title": "github.com",
+                "href": "https://github.com/ligurio/Continuous-Integration-services",
+                "github": "ligurio/Continuous-Integration-services",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Issue Tracking and Project Management",
+        "childrens": [
+            {
+                "title": "github.com",
+                "href": "https://github.com/",
+                "github": "",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Free Resources",
+        "childrens": [
+            {
+                "title": "github.com - FOSS for Dev",
+                "href": "https://github.com/httpsGithubParty/FOSS-for-Dev",
+                "github": "httpsGithubParty/FOSS-for-Dev",
+                "type": "github"
+            },
+            {
+                "title": "github.com - Free for nonprofit",
+                "href": "https://github.com/pborreli/free-for-nonprofit",
+                "github": "pborreli/free-for-nonprofit",
+                "type": "github"
+            },
+            {
+                "title": "education.github.com",
+                "href": "https://education.github.com/pack",
+                "github": "ithub.com/pack",
+                "type": "github"
+            }
+        ]
+    }
+]

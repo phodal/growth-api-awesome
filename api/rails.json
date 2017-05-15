@@ -1,0 +1,649 @@
+[
+    {
+        "heading": "Essential Links",
+        "childrens": [
+            {
+                "title": "Rails Source Code",
+                "href": "https://github.com/rails/rails",
+                "github": "rails/rails",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blogging",
+        "childrens": [
+            {
+                "title": "publify",
+                "href": "https://github.com/publify/publify",
+                "github": "publify/publify",
+                "type": "github"
+            },
+            {
+                "title": "obtvse2",
+                "href": "https://github.com/natew/obtvse2",
+                "github": "natew/obtvse2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Community Management",
+        "childrens": [
+            {
+                "title": "discourse",
+                "href": "https://github.com/discourse/discourse",
+                "github": "discourse/discourse",
+                "type": "github"
+            },
+            {
+                "title": "loomio",
+                "href": "https://github.com/loomio/loomio",
+                "github": "loomio/loomio",
+                "type": "github"
+            },
+            {
+                "title": "campo",
+                "href": "https://github.com/chloerei/campo",
+                "github": "chloerei/campo",
+                "type": "github"
+            },
+            {
+                "title": "onebody",
+                "href": "https://github.com/churchio/onebody",
+                "github": "churchio/onebody",
+                "type": "github"
+            },
+            {
+                "title": "calagator",
+                "href": "https://github.com/calagator/calagator",
+                "github": "calagator/calagator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Crowdfunding & Fundraising",
+        "childrens": [
+            {
+                "title": "selfstarter",
+                "href": "https://github.com/lockitron/selfstarter",
+                "github": "lockitron/selfstarter",
+                "type": "github"
+            },
+            {
+                "title": "catarse",
+                "href": "https://github.com/catarse/catarse",
+                "github": "catarse/catarse",
+                "type": "github"
+            },
+            {
+                "title": "CrowdtiltOpen",
+                "href": "https://github.com/Crowdtilt/CrowdtiltOpen",
+                "github": "Crowdtilt/CrowdtiltOpen",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Developer Tools",
+        "childrens": [
+            {
+                "title": "gitlabhq",
+                "href": "https://github.com/gitlabhq/gitlabhq",
+                "github": "gitlabhq/gitlabhq",
+                "type": "github"
+            },
+            {
+                "title": "rubygems.org",
+                "href": "https://github.com/rubygems/rubygems.org",
+                "github": "rubygems/rubygems.org",
+                "type": "github"
+            },
+            {
+                "title": "codetriage.com",
+                "href": "https://github.com/codetriage/codetriage",
+                "github": "codetriage/codetriage",
+                "type": "github"
+            },
+            {
+                "title": "intercityup.com",
+                "href": "https://github.com/intercity/intercity-next",
+                "github": "intercity/intercity-next",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "E-commerce",
+        "childrens": [
+            {
+                "title": "Spree",
+                "href": "https://github.com/spree/spree",
+                "github": "spree/spree",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Health",
+        "childrens": [
+            {
+                "title": "quant",
+                "href": "https://github.com/jdjkelly/quant",
+                "github": "jdjkelly/quant",
+                "type": "github"
+            },
+            {
+                "title": "dgi-db",
+                "href": "https://github.com/genome/dgi-db",
+                "github": "genome/dgi-db",
+                "type": "github"
+            },
+            {
+                "title": "popHealth",
+                "href": "https://github.com/pophealth/popHealth",
+                "github": "pophealth/popHealth",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Learning",
+        "childrens": [
+            {
+                "title": "canvas-lms",
+                "href": "https://github.com/instructure/canvas-lms",
+                "github": "instructure/canvas-lms",
+                "type": "github"
+            },
+            {
+                "title": "theodinproject",
+                "href": "https://github.com/TheOdinProject/theodinproject",
+                "github": "TheOdinProject/theodinproject",
+                "type": "github"
+            },
+            {
+                "title": "cyberdojo",
+                "href": "https://github.com/JonJagger/cyber-dojo",
+                "github": "JonJagger/cyber-dojo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Music",
+        "childrens": [
+            {
+                "title": "Beatstream",
+                "href": "https://github.com/Darep/Beatstream",
+                "github": "Darep/Beatstream",
+                "type": "github"
+            },
+            {
+                "title": "listenup",
+                "href": "https://github.com/ooofinooo/listenup",
+                "github": "ooofinooo/listenup",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Nature",
+        "childrens": [
+            {
+                "title": "growstuff",
+                "href": "https://github.com/Growstuff/growstuff",
+                "github": "Growstuff/growstuff",
+                "type": "github"
+            },
+            {
+                "title": "inaturalist",
+                "href": "https://github.com/inaturalist/inaturalist",
+                "github": "inaturalist/inaturalist",
+                "type": "github"
+            },
+            {
+                "title": "OpenFarm",
+                "href": "https://github.com/openfarmcc/OpenFarm",
+                "github": "openfarmcc/OpenFarm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Personal Management",
+        "childrens": [
+            {
+                "title": "tracks",
+                "href": "https://github.com/TracksApp/tracks",
+                "github": "TracksApp/tracks",
+                "type": "github"
+            },
+            {
+                "title": "hummingbird",
+                "href": "https://github.com/hummingbird-me/hummingbird",
+                "github": "hummingbird-me/hummingbird",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Politics",
+        "childrens": [
+            {
+                "title": "whitehall",
+                "href": "https://github.com/alphagov/whitehall",
+                "github": "alphagov/whitehall",
+                "type": "github"
+            },
+            {
+                "title": "askaway",
+                "href": "https://github.com/askaway/askaway",
+                "github": "askaway/askaway",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Project Management",
+        "childrens": [
+            {
+                "title": "redmine",
+                "href": "https://github.com/edavis10/redmine",
+                "github": "edavis10/redmine",
+                "type": "github"
+            },
+            {
+                "title": "teambox",
+                "href": "https://github.com/teambox/teambox",
+                "github": "teambox/teambox",
+                "type": "github"
+            },
+            {
+                "title": "kanban",
+                "href": "https://github.com/somlor/kanban",
+                "github": "somlor/kanban",
+                "type": "github"
+            },
+            {
+                "title": "openproject",
+                "href": "https://github.com/opf/openproject",
+                "github": "opf/openproject",
+                "type": "github"
+            },
+            {
+                "title": "people",
+                "href": "https://github.com/netguru/people",
+                "github": "netguru/people",
+                "type": "github"
+            },
+            {
+                "title": "WebsiteOne",
+                "href": "https://github.com/AgileVentures/WebsiteOne",
+                "github": "AgileVentures/WebsiteOne",
+                "type": "github"
+            },
+            {
+                "title": "houston",
+                "href": "https://github.com/houston/houston-core",
+                "github": "houston/houston-core",
+                "type": "github"
+            },
+            {
+                "title": "hours",
+                "href": "https://github.com/defactosoftware/hours",
+                "github": "defactosoftware/hours",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Social Networking",
+        "childrens": [
+            {
+                "title": "diaspora",
+                "href": "https://github.com/diaspora/diaspora",
+                "github": "diaspora/diaspora",
+                "type": "github"
+            },
+            {
+                "title": "coderwall",
+                "href": "https://github.com/assemblymade/coderwall",
+                "github": "assemblymade/coderwall",
+                "type": "github"
+            },
+            {
+                "title": "follow-all",
+                "href": "https://github.com/codeforamerica/follow-all",
+                "github": "codeforamerica/follow-all",
+                "type": "github"
+            },
+            {
+                "title": "Hashrobot",
+                "href": "https://github.com/rysmith/hashrobot",
+                "github": "rysmith/hashrobot",
+                "type": "github"
+            },
+            {
+                "title": "socify",
+                "href": "https://github.com/sudharti/socify",
+                "github": "sudharti/socify",
+                "type": "github"
+            },
+            {
+                "title": "RoRdit",
+                "href": "https://github.com/mertbulan/RoRdit",
+                "github": "mertbulan/RoRdit",
+                "type": "github"
+            },
+            {
+                "title": "Mastodon",
+                "href": "https://github.com/tootsuite/mastodon",
+                "github": "tootsuite/mastodon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Social Responsibility",
+        "childrens": [
+            {
+                "title": "adopt-a-hydrant",
+                "href": "https://github.com/codeforamerica/adopt-a-hydrant",
+                "github": "codeforamerica/adopt-a-hydrant",
+                "type": "github"
+            },
+            {
+                "title": "planningalerts-app",
+                "href": "https://github.com/openaustralia/planningalerts",
+                "github": "openaustralia/planningalerts",
+                "type": "github"
+            },
+            {
+                "title": "spokenvote",
+                "href": "https://github.com/Spokenvote/spokenvote",
+                "github": "Spokenvote/spokenvote",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sports",
+        "childrens": [
+            {
+                "title": "bike_index",
+                "href": "https://github.com/bikeindex/bike_index",
+                "github": "bikeindex/bike_index",
+                "type": "github"
+            },
+            {
+                "title": "racing_on_rails",
+                "href": "https://github.com/scottwillson/racing_on_rails",
+                "github": "scottwillson/racing_on_rails",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "feedbin",
+                "href": "https://github.com/feedbin/feedbin",
+                "github": "feedbin/feedbin",
+                "type": "github"
+            },
+            {
+                "title": "brimir",
+                "href": "https://github.com/ivaldi/brimir",
+                "github": "ivaldi/brimir",
+                "type": "github"
+            },
+            {
+                "title": "lobsters",
+                "href": "https://github.com/jcs/lobsters",
+                "github": "jcs/lobsters",
+                "type": "github"
+            },
+            {
+                "title": "otwarchive",
+                "href": "https://github.com/otwcode/otwarchive",
+                "github": "otwcode/otwarchive",
+                "type": "github"
+            },
+            {
+                "title": "peatio",
+                "href": "https://github.com/peatio/peatio",
+                "github": "peatio/peatio",
+                "type": "github"
+            },
+            {
+                "title": "openstreetmap-website",
+                "href": "https://github.com/openstreetmap/openstreetmap-website",
+                "github": "openstreetmap/openstreetmap-website",
+                "type": "github"
+            },
+            {
+                "title": "RapidFTR",
+                "href": "https://github.com/rapidftr/RapidFTR",
+                "github": "rapidftr/RapidFTR",
+                "type": "github"
+            },
+            {
+                "title": "danbooru",
+                "href": "https://github.com/r888888888/danbooru",
+                "github": "r888888888/danbooru",
+                "type": "github"
+            },
+            {
+                "title": "sharetribe",
+                "href": "https://github.com/sharetribe/sharetribe",
+                "github": "sharetribe/sharetribe",
+                "type": "github"
+            },
+            {
+                "title": "AsakusaSatellite",
+                "href": "https://github.com/codefirst/AsakusaSatellite",
+                "github": "codefirst/AsakusaSatellite",
+                "type": "github"
+            },
+            {
+                "title": "sanataro",
+                "href": "https://github.com/kaznum/sanataro",
+                "github": "kaznum/sanataro",
+                "type": "github"
+            },
+            {
+                "title": "opencongress",
+                "href": "https://github.com/sunlightlabs/opencongress",
+                "github": "sunlightlabs/opencongress",
+                "type": "github"
+            },
+            {
+                "title": "rletters",
+                "href": "https://github.com/rletters/rletters",
+                "github": "rletters/rletters",
+                "type": "github"
+            },
+            {
+                "title": "scholarsphere",
+                "href": "https://github.com/psu-stewardship/scholarsphere",
+                "github": "psu-stewardship/scholarsphere",
+                "type": "github"
+            },
+            {
+                "title": "opensit",
+                "href": "https://github.com/danbartlett/opensit",
+                "github": "danbartlett/opensit",
+                "type": "github"
+            },
+            {
+                "title": "fromthepage",
+                "href": "https://github.com/benwbrum/fromthepage",
+                "github": "benwbrum/fromthepage",
+                "type": "github"
+            },
+            {
+                "title": "graff_mags",
+                "href": "https://github.com/dankleiman/graff_mags",
+                "github": "dankleiman/graff_mags",
+                "type": "github"
+            },
+            {
+                "title": "trado",
+                "href": "https://github.com/Jellyfishboy/trado",
+                "github": "Jellyfishboy/trado",
+                "type": "github"
+            },
+            {
+                "title": "CoRM",
+                "href": "https://github.com/SIGIRE/CoRM",
+                "github": "SIGIRE/CoRM",
+                "type": "github"
+            },
+            {
+                "title": "leihs",
+                "href": "https://github.com/leihs/leihs",
+                "github": "leihs/leihs",
+                "type": "github"
+            },
+            {
+                "title": "fairnopoly",
+                "href": "https://github.com/fairmondo/fairmondo",
+                "github": "fairmondo/fairmondo",
+                "type": "github"
+            },
+            {
+                "title": "AirCasting",
+                "href": "https://github.com/HabitatMap/AirCasting",
+                "github": "HabitatMap/AirCasting",
+                "type": "github"
+            },
+            {
+                "title": "reservations",
+                "href": "https://github.com/YaleSTC/reservations",
+                "github": "YaleSTC/reservations",
+                "type": "github"
+            },
+            {
+                "title": "ekylibre",
+                "href": "https://github.com/ekylibre/ekylibre",
+                "github": "ekylibre/ekylibre",
+                "type": "github"
+            },
+            {
+                "title": "calcentral",
+                "href": "https://github.com/ets-berkeley-edu/calcentral",
+                "github": "ets-berkeley-edu/calcentral",
+                "type": "github"
+            },
+            {
+                "title": "encrypt.to",
+                "href": "https://github.com/encrypt-to/encrypt.to",
+                "github": "encrypt-to/encrypt.to",
+                "type": "github"
+            },
+            {
+                "title": "eol",
+                "href": "https://github.com/EOL/eol",
+                "github": "EOL/eol",
+                "type": "github"
+            },
+            {
+                "title": "crabgrass-core",
+                "href": "https://github.com/riseuplabs/crabgrass-core",
+                "github": "riseuplabs/crabgrass-core",
+                "type": "github"
+            },
+            {
+                "title": "alaveteli",
+                "href": "https://github.com/mysociety/alaveteli",
+                "github": "mysociety/alaveteli",
+                "type": "github"
+            },
+            {
+                "title": "PasswordPusher",
+                "href": "https://github.com/pglombardo/PasswordPusher",
+                "github": "pglombardo/PasswordPusher",
+                "type": "github"
+            },
+            {
+                "title": "rentmybikes-rails",
+                "href": "https://github.com/balanced/rentmybikes-rails",
+                "github": "balanced/rentmybikes-rails",
+                "type": "github"
+            },
+            {
+                "title": "lavish",
+                "href": "https://github.com/mquan/lavish",
+                "github": "mquan/lavish",
+                "type": "github"
+            },
+            {
+                "title": "coursemology2",
+                "href": "https://github.com/Coursemology/coursemology2",
+                "github": "Coursemology/coursemology2",
+                "type": "github"
+            },
+            {
+                "title": "Helpy",
+                "href": "https://github.com/scott/helpy",
+                "github": "scott/helpy",
+                "type": "github"
+            },
+            {
+                "title": "expertiza",
+                "href": "https://github.com/expertiza/expertiza",
+                "github": "expertiza/expertiza",
+                "type": "github"
+            },
+            {
+                "title": "covoiturage-libre",
+                "href": "https://github.com/covoiturage-libre/covoiturage-libre",
+                "github": "covoiturage-libre/covoiturage-libre",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Platforms",
+        "childrens": [
+            {
+                "title": "Nanobox",
+                "href": "https://github.com/nanobox-io/nanobox",
+                "github": "nanobox-io/nanobox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Notable Awesome Stuffs",
+        "childrens": [
+            {
+                "title": "jnv/lists",
+                "href": "https://github.com/jnv/lists",
+                "github": "jnv/lists",
+                "type": "github"
+            },
+            {
+                "title": "awesome-ruby",
+                "href": "https://github.com/sdogruyol/awesome-ruby",
+                "github": "sdogruyol/awesome-ruby",
+                "type": "github"
+            },
+            {
+                "title": "awesome-rails-gem",
+                "href": "https://github.com/hothero/awesome-rails-gem",
+                "github": "hothero/awesome-rails-gem",
+                "type": "github"
+            },
+            {
+                "title": "Other awesome lists (by update dates)",
+                "href": "https://github.com/search?utf8=%E2%9C%93&q=awesome+list+sort%3Aupdated&type=Repositories&ref=searchresults",
+                "github": "search?utf8=%E2%9C%93&q=awesome+list+sort%3Aupdated&type=Repositories&ref=searchresults",
+                "type": "github"
+            }
+        ]
+    }
+]

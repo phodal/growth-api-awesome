@@ -1,0 +1,13 @@
+[
+    {
+        "heading": "Build",
+        "childrens": [
+            {
+                "title": "GNU Make",
+                "href": "https://github.com/AtomBuild/atom-build-make",
+                "github": "AtomBuild/atom-build-make",
+                "type": "github"
+            }
+        ]
+    }
+]

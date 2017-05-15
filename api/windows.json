@@ -1,0 +1,103 @@
+[
+    {
+        "heading": "Customization",
+        "childrens": [
+            {
+                "title": "TranslucentTB",
+                "href": "https://github.com/TranslucentTB/TranslucentTB",
+                "github": "TranslucentTB/TranslucentTB",
+                "type": "github"
+            },
+            {
+                "title": "Windows 10 Login Background Changer",
+                "href": "https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer",
+                "github": "PFCKrutonium/Windows-10-Login-Background-Changer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Developer Tools",
+        "childrens": [
+            {
+                "title": "Alacritty",
+                "href": "https://github.com/jwilm/alacritty",
+                "github": "jwilm/alacritty",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Desktop",
+                "href": "https://windows.github.com/",
+                "github": "hub.com/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Games",
+        "childrens": [
+            {
+                "title": "Awesome Games",
+                "href": "https://github.com/leereilly/games",
+                "github": "leereilly/games",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Productivity",
+        "childrens": [
+            {
+                "title": "Scoop",
+                "href": "https://github.com/lukesampson/scoop",
+                "github": "lukesampson/scoop",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Terminal",
+        "childrens": [
+            {
+                "title": "Cmder",
+                "href": "https://github.com/cmderdev/cmder",
+                "github": "cmderdev/cmder",
+                "type": "github"
+            },
+            {
+                "title": "ConEmu",
+                "href": "https://github.com/Maximus5/ConEmu",
+                "github": "Maximus5/ConEmu",
+                "type": "github"
+            },
+            {
+                "title": "ConsoleZ",
+                "href": "https://github.com/cbucher/console",
+                "github": "cbucher/console",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "Windows 10 Login Screen Changer",
+                "href": "https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/",
+                "github": "PFCKrutonium/Windows-10-Login-Background-Changer/releases/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Windows 10 Setup",
+        "childrens": [
+            {
+                "title": "Win10-Initial-Setup-Script",
+                "href": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
+                "github": "Disassembler0/Win10-Initial-Setup-Script",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "heading": "Awesome SQLAlchemy",
+        "childrens": [
+            {
+                "title": "Data Structures",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#data-structures",
+                "github": "dahlia/awesome-sqlalchemy#data-structures",
+                "type": "github"
+            },
+            {
+                "title": "Data Types",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#data-types",
+                "github": "dahlia/awesome-sqlalchemy#data-types",
+                "type": "github"
+            },
+            {
+                "title": "Database Migration Tools",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#database-migration-tools",
+                "github": "dahlia/awesome-sqlalchemy#database-migration-tools",
+                "type": "github"
+            },
+            {
+                "title": "Dialects",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#dialects",
+                "github": "dahlia/awesome-sqlalchemy#dialects",
+                "type": "github"
+            },
+            {
+                "title": "Documentation",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#documentation",
+                "github": "dahlia/awesome-sqlalchemy#documentation",
+                "type": "github"
+            },
+            {
+                "title": "File and Image Attachments",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#file-and-image-attachments",
+                "github": "dahlia/awesome-sqlalchemy#file-and-image-attachments",
+                "type": "github"
+            },
+            {
+                "title": "Forms and Data Validations",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#forms-and-data-validations",
+                "github": "dahlia/awesome-sqlalchemy#forms-and-data-validations",
+                "type": "github"
+            },
+            {
+                "title": "Full-text Searching",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#full-text-searching",
+                "github": "dahlia/awesome-sqlalchemy#full-text-searching",
+                "type": "github"
+            },
+            {
+                "title": "GIS and Spatial Databases",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#gis-and-spatial-databases",
+                "github": "dahlia/awesome-sqlalchemy#gis-and-spatial-databases",
+                "type": "github"
+            },
+            {
+                "title": "Internationalizations",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#internationalizations",
+                "github": "dahlia/awesome-sqlalchemy#internationalizations",
+                "type": "github"
+            },
+            {
+                "title": "Profilers",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#profilers",
+                "github": "dahlia/awesome-sqlalchemy#profilers",
+                "type": "github"
+            },
+            {
+                "title": "Query helpers",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#query-helpers",
+                "github": "dahlia/awesome-sqlalchemy#query-helpers",
+                "type": "github"
+            },
+            {
+                "title": "Recipes",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#recipes",
+                "github": "dahlia/awesome-sqlalchemy#recipes",
+                "type": "github"
+            },
+            {
+                "title": "Serialization and deserialization",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#serialization-and-deserialization",
+                "github": "dahlia/awesome-sqlalchemy#serialization-and-deserialization",
+                "type": "github"
+            },
+            {
+                "title": "Testing",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#testing",
+                "github": "dahlia/awesome-sqlalchemy#testing",
+                "type": "github"
+            },
+            {
+                "title": "Thin Abstractions",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#thin-abstractions",
+                "github": "dahlia/awesome-sqlalchemy#thin-abstractions",
+                "type": "github"
+            },
+            {
+                "title": "Vendor-specific Extensions",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#vendor-specific-extensions",
+                "github": "dahlia/awesome-sqlalchemy#vendor-specific-extensions",
+                "type": "github"
+            },
+            {
+                "title": "Visualizations",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#visualizations",
+                "github": "dahlia/awesome-sqlalchemy#visualizations",
+                "type": "github"
+            },
+            {
+                "title": "Web",
+                "href": "https://github.com/dahlia/awesome-sqlalchemy#web",
+                "github": "dahlia/awesome-sqlalchemy#web",
+                "type": "github"
+            }
+        ]
+    }
+]

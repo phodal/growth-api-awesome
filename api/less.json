@@ -1,0 +1,442 @@
+[
+    {
+        "heading": "Getting Started",
+        "childrens": [
+            {
+                "title": "Official Repository",
+                "href": "https://github.com/less/less.js",
+                "github": "less/less.js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI/Theme Frameworks and Components",
+        "childrens": [
+            {
+                "title": "Ant Design",
+                "href": "https://github.com/ant-design/ant-design/",
+                "github": "ant-design/ant-design/",
+                "type": "github"
+            },
+            {
+                "title": "Bootstrap a11y theme",
+                "href": "https://github.com/bassjobsen/bootstrap-a11y-theme",
+                "github": "bassjobsen/bootstrap-a11y-theme",
+                "type": "github"
+            },
+            {
+                "title": "CSSHórus",
+                "href": "https://github.com/firminoweb/csshorus",
+                "github": "firminoweb/csshorus",
+                "type": "github"
+            },
+            {
+                "title": "Less Rails",
+                "href": "https://github.com/metaskills/less-rails",
+                "github": "metaskills/less-rails",
+                "type": "github"
+            },
+            {
+                "title": "Material Design for Bootstrap",
+                "href": "https://github.com/FezVrasta/bootstrap-material-design",
+                "github": "FezVrasta/bootstrap-material-design",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Grid",
+        "childrens": [
+            {
+                "title": "Bootstrap Grid Only",
+                "href": "https://github.com/zirafa/bootstrap-grid-only",
+                "github": "zirafa/bootstrap-grid-only",
+                "type": "github"
+            },
+            {
+                "title": "Framework",
+                "href": "https://github.com/jonikorpi/Less-Framework",
+                "github": "jonikorpi/Less-Framework",
+                "type": "github"
+            },
+            {
+                "title": "Grid System",
+                "href": "https://github.com/goodpixels/less-grid-system",
+                "github": "goodpixels/less-grid-system",
+                "type": "github"
+            },
+            {
+                "title": "Less Zen Grid",
+                "href": "https://github.com/bassjobsen/LESS-Zen-Grid",
+                "github": "bassjobsen/LESS-Zen-Grid",
+                "type": "github"
+            },
+            {
+                "title": "Order.Less",
+                "href": "https://github.com/chromice/order.less",
+                "github": "chromice/order.less",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Media Queries",
+        "childrens": [
+            {
+                "title": "CSS and Media Query Strategies",
+                "href": "https://github.com/buymeasoda/less-media-queries",
+                "github": "buymeasoda/less-media-queries",
+                "type": "github"
+            },
+            {
+                "title": "Media Queries Library",
+                "href": "https://github.com/mrmlnc/less-mq",
+                "github": "mrmlnc/less-mq",
+                "type": "github"
+            },
+            {
+                "title": "Media Query to Type",
+                "href": "https://github.com/himedlooff/media-query-to-type",
+                "github": "himedlooff/media-query-to-type",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Color",
+        "childrens": [
+            {
+                "title": "Open Color",
+                "href": "https://github.com/yeun/open-color",
+                "github": "yeun/open-color",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Animation",
+        "childrens": [
+            {
+                "title": "Animate",
+                "href": "https://github.com/joshuapekera/animate",
+                "github": "joshuapekera/animate",
+                "type": "github"
+            },
+            {
+                "title": "Animate Less",
+                "href": "https://github.com/machito/animate.less",
+                "github": "machito/animate.less",
+                "type": "github"
+            },
+            {
+                "title": "Cube Less",
+                "href": "https://github.com/sparanoid/cube.less",
+                "github": "sparanoid/cube.less",
+                "type": "github"
+            },
+            {
+                "title": "Less Burguer",
+                "href": "https://github.com/MarkRabey/less-burger",
+                "github": "MarkRabey/less-burger",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Bidi",
+                "href": "https://github.com/danielkatz/less-bidi",
+                "github": "danielkatz/less-bidi",
+                "type": "github"
+            },
+            {
+                "title": "Dynamic Stylesheet",
+                "href": "https://github.com/mrkrupski/LESS-Dynamic-Stylesheet",
+                "github": "mrkrupski/LESS-Dynamic-Stylesheet",
+                "type": "github"
+            },
+            {
+                "title": "Est",
+                "href": "https://github.com/ecomfe/est/",
+                "github": "ecomfe/est/",
+                "type": "github"
+            },
+            {
+                "title": "Homeless",
+                "href": "https://github.com/pixelass/homeless",
+                "github": "pixelass/homeless",
+                "type": "github"
+            },
+            {
+                "title": "Lesshat",
+                "href": "https://github.com/madebysource/lesshat",
+                "github": "madebysource/lesshat",
+                "type": "github"
+            },
+            {
+                "title": "Lessley",
+                "href": "https://github.com/pixelass/lessley",
+                "github": "pixelass/lessley",
+                "type": "github"
+            },
+            {
+                "title": "Lessmore",
+                "href": "https://github.com/belyan/lessmore",
+                "github": "belyan/lessmore",
+                "type": "github"
+            },
+            {
+                "title": "Normalize",
+                "href": "https://github.com/segundofdez/normalize.less",
+                "github": "segundofdez/normalize.less",
+                "type": "github"
+            },
+            {
+                "title": "Preboot",
+                "href": "https://github.com/mdo/preboot",
+                "github": "mdo/preboot",
+                "type": "github"
+            },
+            {
+                "title": "Retina.js",
+                "href": "https://github.com/imulus/retinajs",
+                "github": "imulus/retinajs",
+                "type": "github"
+            },
+            {
+                "title": "Shape",
+                "href": "https://github.com/fahad19/shape.less",
+                "github": "fahad19/shape.less",
+                "type": "github"
+            },
+            {
+                "title": "TRRtoolbelt",
+                "href": "https://github.com/therebelrobot/tRRtoolbelt.less",
+                "github": "therebelrobot/tRRtoolbelt.less",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Style Guides",
+        "childrens": [
+            {
+                "title": "Handshake Style Guide",
+                "href": "https://github.com/handshake/less-style-guide",
+                "github": "handshake/less-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "WebMD Health Services Style Guide",
+                "href": "https://github.com/bitmap/less-styleguide",
+                "github": "bitmap/less-styleguide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "JLessC",
+                "href": "https://github.com/i-net-software/jlessc",
+                "github": "i-net-software/jlessc",
+                "type": "github"
+            },
+            {
+                "title": "Less Engine",
+                "href": "https://github.com/Asual/lesscss-engine",
+                "github": "Asual/lesscss-engine",
+                "type": "github"
+            },
+            {
+                "title": "Less CSS Compiler for Java",
+                "href": "https://github.com/marceloverdijk/lesscss-java",
+                "github": "marceloverdijk/lesscss-java",
+                "type": "github"
+            },
+            {
+                "title": "Less4j",
+                "href": "https://github.com/SomMeri/less4j",
+                "github": "SomMeri/less4j",
+                "type": "github"
+            },
+            {
+                "title": "Lesscss",
+                "href": "https://github.com/houbie/lesscss",
+                "github": "houbie/lesscss",
+                "type": "github"
+            },
+            {
+                "title": "Lesscss Gradle Plugin",
+                "href": "https://github.com/houbie/lesscss-gradle-plugin",
+                "github": "houbie/lesscss-gradle-plugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "ILess",
+                "href": "https://github.com/mishal/iless",
+                "github": "mishal/iless",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "Pyhton Compiler",
+                "href": "https://github.com/lesscpy/lesscpy",
+                "github": "lesscpy/lesscpy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "Ruby Compiler",
+                "href": "https://github.com/cowboyd/less.rb",
+                "github": "cowboyd/less.rb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "Go Compiler",
+                "href": "https://github.com/kib357/less-go",
+                "github": "kib357/less-go",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUIs, Editors and Plugins",
+        "childrens": [
+            {
+                "title": "Atom Linter",
+                "href": "https://github.com/josa42/atom-linter-less",
+                "github": "josa42/atom-linter-less",
+                "type": "github"
+            },
+            {
+                "title": "CSS Less(ish)",
+                "href": "https://github.com/kizza/CSS-Less-ish",
+                "github": "kizza/CSS-Less-ish",
+                "type": "github"
+            },
+            {
+                "title": "Eclipse Transpiler Plugin",
+                "href": "https://github.com/gossi/eclipse-transpiler-plugin",
+                "github": "gossi/eclipse-transpiler-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Emacs",
+                "href": "https://github.com/purcell/less-css-mode",
+                "github": "purcell/less-css-mode",
+                "type": "github"
+            },
+            {
+                "title": "Grunt Contrib",
+                "href": "https://github.com/gruntjs/grunt-contrib-less",
+                "github": "gruntjs/grunt-contrib-less",
+                "type": "github"
+            },
+            {
+                "title": "Grunt Lint",
+                "href": "https://github.com/jgable/grunt-lesslint",
+                "github": "jgable/grunt-lesslint",
+                "type": "github"
+            },
+            {
+                "title": "Gulp Less",
+                "href": "https://github.com/plus3network/gulp-less",
+                "github": "plus3network/gulp-less",
+                "type": "github"
+            },
+            {
+                "title": "Hayaky",
+                "href": "https://github.com/hayaku/hayaku",
+                "github": "hayaku/hayaku",
+                "type": "github"
+            },
+            {
+                "title": "Hyra Helper",
+                "href": "https://github.com/Hyra/less",
+                "github": "Hyra/less",
+                "type": "github"
+            },
+            {
+                "title": "Less for Notepad++",
+                "href": "https://github.com/azrafe7/LESS-for-Notepad-plusplus",
+                "github": "azrafe7/LESS-for-Notepad-plusplus",
+                "type": "github"
+            },
+            {
+                "title": "Less Sublime",
+                "href": "https://github.com/danro/Less-sublime",
+                "github": "danro/Less-sublime",
+                "type": "github"
+            },
+            {
+                "title": "Lesshint",
+                "href": "https://github.com/lesshint/lesshint",
+                "github": "lesshint/lesshint",
+                "type": "github"
+            },
+            {
+                "title": "Sublime Less2CSS",
+                "href": "https://github.com/timdouglas/sublime-less2css",
+                "github": "timdouglas/sublime-less2css",
+                "type": "github"
+            },
+            {
+                "title": "SublimeOnSaveBuild",
+                "href": "https://github.com/alexnj/SublimeOnSaveBuild",
+                "github": "alexnj/SublimeOnSaveBuild",
+                "type": "github"
+            },
+            {
+                "title": "Vim Less",
+                "href": "https://github.com/groenewege/vim-less",
+                "github": "groenewege/vim-less",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Translations",
+        "childrens": [
+            {
+                "title": "Polish",
+                "href": "http://ciembor.github.com/lesscss.org/",
+                "github": "ub.com/lesscss.org/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Community",
+        "childrens": [
+            {
+                "title": "Contributing to Less",
+                "href": "https://github.com/less/less.js/blob/master/CONTRIBUTING.md",
+                "github": "less/less.js/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    }
+]

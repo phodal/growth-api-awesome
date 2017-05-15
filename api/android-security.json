@@ -1,0 +1,495 @@
+[
+    {
+        "heading": "Static Analysis Tools",
+        "childrens": [
+            {
+                "title": "Androwarn",
+                "href": "https://github.com/maaaaz/androwarn/",
+                "github": "maaaaz/androwarn/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Static Analysis Tools",
+        "childrens": [
+            {
+                "title": "ApkAnalyser",
+                "href": "https://github.com/sonyxperiadev/ApkAnalyser",
+                "github": "sonyxperiadev/ApkAnalyser",
+                "type": "github"
+            },
+            {
+                "title": "APKInspector",
+                "href": "https://github.com/honeynet/apkinspector/",
+                "github": "honeynet/apkinspector/",
+                "type": "github"
+            },
+            {
+                "title": "Smali CFG generator",
+                "href": "https://github.com/EugenioDelfa/Smali-CFGs",
+                "github": "EugenioDelfa/Smali-CFGs",
+                "type": "github"
+            },
+            {
+                "title": "SmaliSCA",
+                "href": "https://github.com/dorneanu/smalisca",
+                "github": "dorneanu/smalisca",
+                "type": "github"
+            },
+            {
+                "title": "CFGScanDroid",
+                "href": "https://github.com/douggard/CFGScanDroid",
+                "github": "douggard/CFGScanDroid",
+                "type": "github"
+            },
+            {
+                "title": "Madrolyzer",
+                "href": "https://github.com/maldroid/maldrolyzer",
+                "github": "maldroid/maldrolyzer",
+                "type": "github"
+            },
+            {
+                "title": "ConDroid",
+                "href": "https://github.com/JulianSchuette/ConDroid",
+                "github": "JulianSchuette/ConDroid",
+                "type": "github"
+            },
+            {
+                "title": "DroidRA",
+                "href": "https://github.com/serval-snt-uni-lu/DroidRA",
+                "github": "serval-snt-uni-lu/DroidRA",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "App Vulnerability Scanners",
+        "childrens": [
+            {
+                "title": "QARK",
+                "href": "https://github.com/linkedin/qark/",
+                "github": "linkedin/qark/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "App Vulnerability Scanners",
+        "childrens": [
+            {
+                "title": "AndroBugs",
+                "href": "https://github.com/AndroBugs/AndroBugs_Framework",
+                "github": "AndroBugs/AndroBugs_Framework",
+                "type": "github"
+            },
+            {
+                "title": "Nogotofail",
+                "href": "https://github.com/google/nogotofail",
+                "github": "google/nogotofail",
+                "type": "github"
+            },
+            {
+                "title": "JAADAS",
+                "href": "https://github.com/flankerhqd/JAADAS",
+                "github": "flankerhqd/JAADAS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dynamic Analysis Tools",
+        "childrens": [
+            {
+                "title": "Androl4b",
+                "href": "https://github.com/sh4hin/Androl4b",
+                "github": "sh4hin/Androl4b",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dynamic Analysis Tools",
+        "childrens": [
+            {
+                "title": "Mobile-Security-Framework MobSF",
+                "href": "https://github.com/ajinabraham/Mobile-Security-Framework-MobSF",
+                "github": "ajinabraham/Mobile-Security-Framework-MobSF",
+                "type": "github"
+            },
+            {
+                "title": "Droidbox",
+                "href": "https://github.com/pjlantz/droidbox",
+                "github": "pjlantz/droidbox",
+                "type": "github"
+            },
+            {
+                "title": "Drozer",
+                "href": "https://github.com/mwrlabs/drozer",
+                "github": "mwrlabs/drozer",
+                "type": "github"
+            },
+            {
+                "title": "Inspeckage",
+                "href": "https://github.com/ac-pm/Inspeckage",
+                "github": "ac-pm/Inspeckage",
+                "type": "github"
+            },
+            {
+                "title": "Android Hooker",
+                "href": "https://github.com/AndroidHooker/hooker",
+                "github": "AndroidHooker/hooker",
+                "type": "github"
+            },
+            {
+                "title": "ProbeDroid",
+                "href": "https://github.com/ZSShen/ProbeDroid",
+                "github": "ZSShen/ProbeDroid",
+                "type": "github"
+            },
+            {
+                "title": "DECAF",
+                "href": "https://github.com/sycurelab/DECAF",
+                "github": "sycurelab/DECAF",
+                "type": "github"
+            },
+            {
+                "title": "CuckooDroid",
+                "href": "https://github.com/idanr1986/cuckoo-droid",
+                "github": "idanr1986/cuckoo-droid",
+                "type": "github"
+            },
+            {
+                "title": "Mem",
+                "href": "https://github.com/MobileForensicsResearch/mem",
+                "github": "MobileForensicsResearch/mem",
+                "type": "github"
+            },
+            {
+                "title": "AuditdAndroid",
+                "href": "https://github.com/nwhusted/AuditdAndroid",
+                "github": "nwhusted/AuditdAndroid",
+                "type": "github"
+            },
+            {
+                "title": "Aurasium",
+                "href": "https://github.com/xurubin/aurasium",
+                "github": "xurubin/aurasium",
+                "type": "github"
+            },
+            {
+                "title": "Android Linux Kernel modules",
+                "href": "https://github.com/strazzere/android-lkms",
+                "github": "strazzere/android-lkms",
+                "type": "github"
+            },
+            {
+                "title": "StaDynA",
+                "href": "https://github.com/zyrikby/StaDynA",
+                "github": "zyrikby/StaDynA",
+                "type": "github"
+            },
+            {
+                "title": "DroidAnalytics",
+                "href": "https://github.com/zhengmin1989/DroidAnalytics",
+                "github": "zhengmin1989/DroidAnalytics",
+                "type": "github"
+            },
+            {
+                "title": "Vezir Project",
+                "href": "https://github.com/oguzhantopgul/Vezir-Project",
+                "github": "oguzhantopgul/Vezir-Project",
+                "type": "github"
+            },
+            {
+                "title": "MARA",
+                "href": "https://github.com/xtiankisutsa/MARA_Framework",
+                "github": "xtiankisutsa/MARA_Framework",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reverse Engineering",
+        "childrens": [
+            {
+                "title": "Smali/Baksmali",
+                "href": "https://github.com/JesusFreke/smali",
+                "github": "JesusFreke/smali",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reverse Engineering",
+        "childrens": [
+            {
+                "title": "emacs syntax coloring for smali files",
+                "href": "https://github.com/strazzere/Emacs-Smali",
+                "github": "strazzere/Emacs-Smali",
+                "type": "github"
+            },
+            {
+                "title": "AndBug",
+                "href": "https://github.com/swdunlop/AndBug",
+                "github": "swdunlop/AndBug",
+                "type": "github"
+            },
+            {
+                "title": "Androguard",
+                "href": "https://github.com/androguard/androguard",
+                "github": "androguard/androguard",
+                "type": "github"
+            },
+            {
+                "title": "Android Framework for Exploitation",
+                "href": "https://github.com/appknox/AFE",
+                "github": "appknox/AFE",
+                "type": "github"
+            },
+            {
+                "title": "Bypass signature and permission checks for IPCs",
+                "href": "https://github.com/iSECPartners/Android-KillPermAndSigChecks",
+                "github": "iSECPartners/Android-KillPermAndSigChecks",
+                "type": "github"
+            },
+            {
+                "title": "Android OpenDebug",
+                "href": "https://github.com/iSECPartners/Android-OpenDebug",
+                "github": "iSECPartners/Android-OpenDebug",
+                "type": "github"
+            },
+            {
+                "title": "Dex2Jar",
+                "href": "https://github.com/pxb1988/dex2jar",
+                "github": "pxb1988/dex2jar",
+                "type": "github"
+            },
+            {
+                "title": "Enjarify",
+                "href": "https://github.com/google/enjarify",
+                "github": "google/enjarify",
+                "type": "github"
+            },
+            {
+                "title": "Fino",
+                "href": "https://github.com/sysdream/fino",
+                "github": "sysdream/fino",
+                "type": "github"
+            },
+            {
+                "title": "Introspy",
+                "href": "https://github.com/iSECPartners/Introspy-Android",
+                "github": "iSECPartners/Introspy-Android",
+                "type": "github"
+            },
+            {
+                "title": "JD-GUI",
+                "href": "https://github.com/java-decompiler/jd-gui",
+                "github": "java-decompiler/jd-gui",
+                "type": "github"
+            },
+            {
+                "title": "Krakatau",
+                "href": "https://github.com/Storyyeller/Krakatau",
+                "github": "Storyyeller/Krakatau",
+                "type": "github"
+            },
+            {
+                "title": "FernFlower",
+                "href": "https://github.com/fesh0r/fernflower",
+                "github": "fesh0r/fernflower",
+                "type": "github"
+            },
+            {
+                "title": "Redexer",
+                "href": "https://github.com/plum-umd/redexer",
+                "github": "plum-umd/redexer",
+                "type": "github"
+            },
+            {
+                "title": "Simplify Android deobfuscator",
+                "href": "https://github.com/CalebFenton/simplify",
+                "github": "CalebFenton/simplify",
+                "type": "github"
+            },
+            {
+                "title": "Bytecode viewer",
+                "href": "https://github.com/Konloch/bytecode-viewer",
+                "github": "Konloch/bytecode-viewer",
+                "type": "github"
+            },
+            {
+                "title": "Radare2",
+                "href": "https://github.com/radare/radare2",
+                "github": "radare/radare2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fuzz Testing",
+        "childrens": [
+            {
+                "title": "Radamsa Fuzzer",
+                "href": "https://github.com/anestisb/radamsa-android",
+                "github": "anestisb/radamsa-android",
+                "type": "github"
+            },
+            {
+                "title": "Honggfuzz",
+                "href": "https://github.com/google/honggfuzz",
+                "github": "google/honggfuzz",
+                "type": "github"
+            },
+            {
+                "title": "An Android port of the melkor ELF fuzzer",
+                "href": "https://github.com/anestisb/melkor-android",
+                "github": "anestisb/melkor-android",
+                "type": "github"
+            },
+            {
+                "title": "Media Fuzzing Framework for Android",
+                "href": "https://github.com/fuzzing/MFFA",
+                "github": "fuzzing/MFFA",
+                "type": "github"
+            },
+            {
+                "title": "AndroFuzz",
+                "href": "https://github.com/jonmetz/AndroFuzz",
+                "github": "jonmetz/AndroFuzz",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "App Repackaging Detectors",
+        "childrens": [
+            {
+                "title": "FSquaDRA",
+                "href": "https://github.com/zyrikby/FSquaDRA",
+                "github": "zyrikby/FSquaDRA",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Market Crawlers",
+        "childrens": [
+            {
+                "title": "Google play crawler (Java)",
+                "href": "https://github.com/Akdeniz/google-play-crawler",
+                "github": "Akdeniz/google-play-crawler",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Market Crawlers",
+        "childrens": [
+            {
+                "title": "Google play crawler (Python)",
+                "href": "https://github.com/egirault/googleplay-api",
+                "github": "egirault/googleplay-api",
+                "type": "github"
+            },
+            {
+                "title": "Google play crawler (Node) ",
+                "href": "https://github.com/dweinstein/node-google-play",
+                "github": "dweinstein/node-google-play",
+                "type": "github"
+            },
+            {
+                "title": "Aptoide downloader (Node)",
+                "href": "https://github.com/dweinstein/node-aptoide",
+                "github": "dweinstein/node-aptoide",
+                "type": "github"
+            },
+            {
+                "title": "Appland downloader (Node)",
+                "href": "https://github.com/dweinstein/node-appland",
+                "github": "dweinstein/node-appland",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc Tools",
+        "childrens": [
+            {
+                "title": "adb autocomplete",
+                "href": "https://github.com/mbrubeck/android-completion",
+                "github": "mbrubeck/android-completion",
+                "type": "github"
+            },
+            {
+                "title": "GoatDroid",
+                "href": "https://github.com/jackMannino/OWASP-GoatDroid-Project",
+                "github": "jackMannino/OWASP-GoatDroid-Project",
+                "type": "github"
+            },
+            {
+                "title": "mitmproxy",
+                "href": "https://github.com/mitmproxy/mitmproxy",
+                "github": "mitmproxy/mitmproxy",
+                "type": "github"
+            },
+            {
+                "title": "dockerfile/androguard",
+                "href": "https://github.com/dweinstein/dockerfile-androguard",
+                "github": "dweinstein/dockerfile-androguard",
+                "type": "github"
+            },
+            {
+                "title": "Android Vulnerability Test Suite",
+                "href": "https://github.com/AndroidVTS/android-vts",
+                "github": "AndroidVTS/android-vts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Research Papers",
+        "childrens": [
+            {
+                "title": "Android security related presentations",
+                "href": "https://github.com/jacobsoo/AndroidSlides",
+                "github": "jacobsoo/AndroidSlides",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Others",
+        "childrens": [
+            {
+                "title": "OWASP Mobile Security Testing Guide Manual",
+                "href": "https://github.com/OWASP/owasp-mstg",
+                "github": "OWASP/owasp-mstg",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Others",
+        "childrens": [
+            {
+                "title": "doridori/Android-Security-Reference",
+                "href": "https://github.com/doridori/Android-Security-Reference",
+                "github": "doridori/Android-Security-Reference",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Malware",
+        "childrens": [
+            {
+                "title": "Android Malware Github repo",
+                "href": "https://github.com/ashishb/android-malware",
+                "github": "ashishb/android-malware",
+                "type": "github"
+            }
+        ]
+    }
+]

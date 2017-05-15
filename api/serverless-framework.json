@@ -1,0 +1,2529 @@
+[
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "GitHub organization",
+                "href": "http://github.com/serverless",
+                "github": "erverless",
+                "type": "github"
+            },
+            {
+                "title": "Roadmap",
+                "href": "https://github.com/serverless/serverless/milestones",
+                "github": "serverless/serverless/milestones",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Heroes Resources",
+                "href": "https://github.com/ServerlessHeroes/serverless-resources",
+                "github": "ServerlessHeroes/serverless-resources",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blog posts",
+        "childrens": [
+            {
+                "title": "Working with Serverless and Java - Part 1",
+                "href": "https://gist.github.com/lobster1234/201fb83dc2847a1e2a106a098636bc1f",
+                "github": ".com/lobster1234/201fb83dc2847a1e2a106a098636bc1f",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Projects / Services",
+        "childrens": [
+            {
+                "title": "Official Serverless Examples",
+                "href": "https://github.com/serverless/examples/",
+                "github": "serverless/examples/",
+                "type": "github"
+            },
+            {
+                "title": "Serverless examples",
+                "href": "https://github.com/serverless-examples",
+                "github": "serverless-examples",
+                "type": "github"
+            },
+            {
+                "title": "React Serverless",
+                "href": "https://github.com/hiromoon/react-serverless",
+                "github": "hiromoon/react-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Serverless test plugin",
+                "href": "https://github.com/arabold/serverless-test-plugin",
+                "github": "arabold/serverless-test-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Lang Adventure backend",
+                "href": "https://github.com/jonatasschagas/langadventurebackend",
+                "github": "jonatasschagas/langadventurebackend",
+                "type": "github"
+            },
+            {
+                "title": "Serverless project written with ES2015",
+                "href": "https://github.com/mpppk/serverless-project-written-in-es2015",
+                "github": "mpppk/serverless-project-written-in-es2015",
+                "type": "github"
+            },
+            {
+                "title": "Serveress Telegram bot",
+                "href": "https://github.com/minibikini/serverless-telegram-bot",
+                "github": "minibikini/serverless-telegram-bot",
+                "type": "github"
+            },
+            {
+                "title": "Serverless pre register",
+                "href": "https://github.com/agentmilindu/Serverless-Pre-Register",
+                "github": "agentmilindu/Serverless-Pre-Register",
+                "type": "github"
+            },
+            {
+                "title": "Serverless mapbox classic",
+                "href": "https://github.com/LukeSwart/serverless-mapbox-classic",
+                "github": "LukeSwart/serverless-mapbox-classic",
+                "type": "github"
+            },
+            {
+                "title": "Universal Serverless React",
+                "href": "https://github.com/jstrutz/universal-serverless-react",
+                "github": "jstrutz/universal-serverless-react",
+                "type": "github"
+            },
+            {
+                "title": "Serverless example",
+                "href": "https://github.com/iblue/serverless-example",
+                "github": "iblue/serverless-example",
+                "type": "github"
+            },
+            {
+                "title": "DynamoDB CRUD example",
+                "href": "https://github.com/jagthedrummer/serverlessDynamoCrudExample",
+                "github": "jagthedrummer/serverlessDynamoCrudExample",
+                "type": "github"
+            },
+            {
+                "title": "GraphQL Blog",
+                "href": "https://github.com/serverless/serverless-graphql-blog",
+                "github": "serverless/serverless-graphql-blog",
+                "type": "github"
+            },
+            {
+                "title": "Password of the day",
+                "href": "https://github.com/ZeroSharp/ServerlessPotd",
+                "github": "ZeroSharp/ServerlessPotd",
+                "type": "github"
+            },
+            {
+                "title": "func4",
+                "href": "https://github.com/ac360/func4",
+                "github": "ac360/func4",
+                "type": "github"
+            },
+            {
+                "title": "Boxify",
+                "href": "https://github.com/jankei/boxify",
+                "github": "jankei/boxify",
+                "type": "github"
+            },
+            {
+                "title": "MIDAAS API",
+                "href": "https://github.com/presidential-innovation-fellows/midaas-api",
+                "github": "presidential-innovation-fellows/midaas-api",
+                "type": "github"
+            },
+            {
+                "title": "Zanon IO Demo",
+                "href": "https://github.com/zanon-io/aws-serverless-demo",
+                "github": "zanon-io/aws-serverless-demo",
+                "type": "github"
+            },
+            {
+                "title": "Cortex",
+                "href": "https://github.com/namastereid/cortex",
+                "github": "namastereid/cortex",
+                "type": "github"
+            },
+            {
+                "title": "Protocol service",
+                "href": "https://github.com/Backfeed/protocol-service",
+                "github": "Backfeed/protocol-service",
+                "type": "github"
+            },
+            {
+                "title": "Cat facts",
+                "href": "https://github.com/ryansb/serverless-cat-facts",
+                "github": "ryansb/serverless-cat-facts",
+                "type": "github"
+            },
+            {
+                "title": "Notes",
+                "href": "https://github.com/JustServerless/notes",
+                "github": "JustServerless/notes",
+                "type": "github"
+            },
+            {
+                "title": "Aquest",
+                "href": "https://github.com/dherault/Aquest",
+                "github": "dherault/Aquest",
+                "type": "github"
+            },
+            {
+                "title": "Hello world",
+                "href": "https://github.com/bart-blommaerts/serverless_helloworld",
+                "github": "bart-blommaerts/serverless_helloworld",
+                "type": "github"
+            },
+            {
+                "title": "Garage",
+                "href": "https://github.com/bart-blommaerts/serverless_garage",
+                "github": "bart-blommaerts/serverless_garage",
+                "type": "github"
+            },
+            {
+                "title": "Slackbot scaffold",
+                "href": "https://github.com/localytics/serverless-slackbot-scaffold",
+                "github": "localytics/serverless-slackbot-scaffold",
+                "type": "github"
+            },
+            {
+                "title": "Lambda-React-SSR",
+                "href": "https://github.com/dherault/Lambda-React-SSR/",
+                "github": "dherault/Lambda-React-SSR/",
+                "type": "github"
+            },
+            {
+                "title": "Authentication boilerplate",
+                "href": "https://github.com/laardee/serverless-authentication-boilerplate",
+                "github": "laardee/serverless-authentication-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Blog",
+                "href": "https://github.com/charltones/serverless_blog",
+                "github": "charltones/serverless_blog",
+                "type": "github"
+            },
+            {
+                "title": "MoonMail",
+                "href": "https://github.com/microapps/MoonMail",
+                "github": "microapps/MoonMail",
+                "type": "github"
+            },
+            {
+                "title": "Serverless GraphQL boilerplate",
+                "href": "https://github.com/serverless/serverless-graphql",
+                "github": "serverless/serverless-graphql",
+                "type": "github"
+            },
+            {
+                "title": "SC5 boilerplate",
+                "href": "https://github.com/SC5/sc5-serverless-boilerplate",
+                "github": "SC5/sc5-serverless-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Facebook messenger chatbot",
+                "href": "https://github.com/JustServerless/serverless-facebook-messenger-chatbot",
+                "github": "JustServerless/serverless-facebook-messenger-chatbot",
+                "type": "github"
+            },
+            {
+                "title": "Facebook messenger bot",
+                "href": "https://github.com/michalsanger/serverless-facebook-messenger-bot",
+                "github": "michalsanger/serverless-facebook-messenger-bot",
+                "type": "github"
+            },
+            {
+                "title": "Discuss",
+                "href": "https://github.com/JustServerless/discuss",
+                "github": "JustServerless/discuss",
+                "type": "github"
+            },
+            {
+                "title": "Elasticommerce search service",
+                "href": "https://github.com/amimoto-ami/serverless-elasticommerce-search-service",
+                "github": "amimoto-ami/serverless-elasticommerce-search-service",
+                "type": "github"
+            },
+            {
+                "title": "Serverless starter Python",
+                "href": "https://github.com/alexcasalboni/serverless-starter-python",
+                "github": "alexcasalboni/serverless-starter-python",
+                "type": "github"
+            },
+            {
+                "title": "Serverless (v1.0) Python Sample",
+                "href": "https://github.com/bennybauer/serverless-python-sample",
+                "github": "bennybauer/serverless-python-sample",
+                "type": "github"
+            },
+            {
+                "title": "Express to AWS Lambda",
+                "href": "https://github.com/johncmckim/express-to-aws-lambda",
+                "github": "johncmckim/express-to-aws-lambda",
+                "type": "github"
+            },
+            {
+                "title": "Serverless MongoDB",
+                "href": "https://github.com/pcorey/serverless-mongodb/",
+                "github": "pcorey/serverless-mongodb/",
+                "type": "github"
+            },
+            {
+                "title": "Serverless npm registry",
+                "href": "https://github.com/mgrenier/serverless-npm-registry",
+                "github": "mgrenier/serverless-npm-registry",
+                "type": "github"
+            },
+            {
+                "title": "AWS Serverless SoundCloud",
+                "href": "https://github.com/trunghieu138/aws-serverless-soundcloud",
+                "github": "trunghieu138/aws-serverless-soundcloud",
+                "type": "github"
+            },
+            {
+                "title": "PhantomJS Lambda pack",
+                "href": "https://github.com/justengland/phantomjs-lambda-pack",
+                "github": "justengland/phantomjs-lambda-pack",
+                "type": "github"
+            },
+            {
+                "title": "Garden Aid",
+                "href": "https://github.com/garden-aid",
+                "github": "garden-aid",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Cloud Vision",
+                "href": "https://github.com/ramhiser/serverless-cloud-vision",
+                "github": "ramhiser/serverless-cloud-vision",
+                "type": "github"
+            },
+            {
+                "title": "Yith",
+                "href": "https://github.com/craftship/yith",
+                "github": "craftship/yith",
+                "type": "github"
+            },
+            {
+                "title": "Trevorbot",
+                "href": "https://github.com/conveyal/trevorbot",
+                "github": "conveyal/trevorbot",
+                "type": "github"
+            },
+            {
+                "title": "Quotebot",
+                "href": "https://github.com/pmuens/quotebot",
+                "github": "pmuens/quotebot",
+                "type": "github"
+            },
+            {
+                "title": "Weekly2Pocket",
+                "href": "https://github.com/s0enke/weekly2pocket",
+                "github": "s0enke/weekly2pocket",
+                "type": "github"
+            },
+            {
+                "title": "Pokégo serverless",
+                "href": "https://github.com/jch254/pokego-serverless",
+                "github": "jch254/pokego-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Example",
+                "href": "https://github.com/andymac4182/serverless_example",
+                "github": "andymac4182/serverless_example",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Zwiftalizer",
+                "href": "https://github.com/mhanney/serverless-zwiftalizer",
+                "github": "mhanney/serverless-zwiftalizer",
+                "type": "github"
+            },
+            {
+                "title": "React boilerplate",
+                "href": "https://github.com/99xt/serverless-react-boilerplate",
+                "github": "99xt/serverless-react-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Serverless screenshot",
+                "href": "https://github.com/svdgraaf/serverless-screenshot",
+                "github": "svdgraaf/serverless-screenshot",
+                "type": "github"
+            },
+            {
+                "title": "Serverless minimal",
+                "href": "https://github.com/mthenw/serverless-minimal",
+                "github": "mthenw/serverless-minimal",
+                "type": "github"
+            },
+            {
+                "title": "Serverless authorizer",
+                "href": "https://github.com/eahefnawy/serverless-authorizer",
+                "github": "eahefnawy/serverless-authorizer",
+                "type": "github"
+            },
+            {
+                "title": "Serverless artillery",
+                "href": "https://github.com/Nordstrom/serverless-artillery",
+                "github": "Nordstrom/serverless-artillery",
+                "type": "github"
+            },
+            {
+                "title": "Delivery Framework",
+                "href": "https://github.com/99xt/serverless-delivery-framework",
+                "github": "99xt/serverless-delivery-framework",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Beer",
+                "href": "https://github.com/cassiozen/serverless-beer",
+                "github": "cassiozen/serverless-beer",
+                "type": "github"
+            },
+            {
+                "title": "CRUD",
+                "href": "https://github.com/pmuens/serverless-crud",
+                "github": "pmuens/serverless-crud",
+                "type": "github"
+            },
+            {
+                "title": "Mailer",
+                "href": "https://github.com/eahefnawy/serverless-mailer",
+                "github": "eahefnawy/serverless-mailer",
+                "type": "github"
+            },
+            {
+                "title": "Kinesis streams",
+                "href": "https://github.com/pmuens/serverless-kinesis-streams",
+                "github": "pmuens/serverless-kinesis-streams",
+                "type": "github"
+            },
+            {
+                "title": "DynamoDB streams",
+                "href": "https://github.com/pmuens/serverless-dynamodb-streams",
+                "github": "pmuens/serverless-dynamodb-streams",
+                "type": "github"
+            },
+            {
+                "title": "Landingpage backend",
+                "href": "https://github.com/pmuens/serverless-landingpage-backend",
+                "github": "pmuens/serverless-landingpage-backend",
+                "type": "github"
+            },
+            {
+                "title": "Facebook Messenger Chatbot",
+                "href": "https://github.com/pmuens/serverless-facebook-messenger-bot",
+                "github": "pmuens/serverless-facebook-messenger-bot",
+                "type": "github"
+            },
+            {
+                "title": "Lambda chaining",
+                "href": "https://github.com/pmuens/serverless-lambda-chaining",
+                "github": "pmuens/serverless-lambda-chaining",
+                "type": "github"
+            },
+            {
+                "title": "Secured API",
+                "href": "https://github.com/pmuens/serverless-secured-api",
+                "github": "pmuens/serverless-secured-api",
+                "type": "github"
+            },
+            {
+                "title": "Authorizer",
+                "href": "https://github.com/eahefnawy/serverless-authorizer",
+                "github": "eahefnawy/serverless-authorizer",
+                "type": "github"
+            },
+            {
+                "title": "Thumbnails",
+                "href": "https://github.com/eahefnawy/serverless-thumbnails",
+                "github": "eahefnawy/serverless-thumbnails",
+                "type": "github"
+            },
+            {
+                "title": "Boilerplate",
+                "href": "https://github.com/eahefnawy/serverless-boilerplate",
+                "github": "eahefnawy/serverless-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Sharp Image",
+                "href": "https://github.com/adieuadieu/serverless-sharp-image",
+                "github": "adieuadieu/serverless-sharp-image",
+                "type": "github"
+            },
+            {
+                "title": "Serverles Artillery workshop",
+                "href": "https://github.com/Nordstrom/serverless-artillery-workshop",
+                "github": "Nordstrom/serverless-artillery-workshop",
+                "type": "github"
+            },
+            {
+                "title": "ServerlessConf workshop",
+                "href": "https://github.com/ServerlessInc/serverlessconf-workshop",
+                "github": "ServerlessInc/serverlessconf-workshop",
+                "type": "github"
+            },
+            {
+                "title": "Messenger boilerplate",
+                "href": "https://github.com/SC5/serverless-messenger-boilerplate",
+                "github": "SC5/serverless-messenger-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "ES6 + Jest",
+                "href": "https://github.com/americansystems/serverless-es6-jest",
+                "github": "americansystems/serverless-es6-jest",
+                "type": "github"
+            },
+            {
+                "title": "CRUD Scala",
+                "href": "https://github.com/jahangirmohammed/serverless-crud-scala",
+                "github": "jahangirmohammed/serverless-crud-scala",
+                "type": "github"
+            },
+            {
+                "title": "Generator Serverless service",
+                "href": "https://github.com/ACloudGuru/generator-serverless-service",
+                "github": "ACloudGuru/generator-serverless-service",
+                "type": "github"
+            },
+            {
+                "title": "SlackNorris",
+                "href": "https://github.com/robertoestivill/slacknorris",
+                "github": "robertoestivill/slacknorris",
+                "type": "github"
+            },
+            {
+                "title": "Web API scaffold",
+                "href": "https://github.com/jch254/serverless-es6-dynamodb-webapi",
+                "github": "jch254/serverless-es6-dynamodb-webapi",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Notifications",
+                "href": "https://github.com/zanon-io/serverless-notifications",
+                "github": "zanon-io/serverless-notifications",
+                "type": "github"
+            },
+            {
+                "title": "Redirect example",
+                "href": "https://github.com/GorillaStack/serverless-redirect-example",
+                "github": "GorillaStack/serverless-redirect-example",
+                "type": "github"
+            },
+            {
+                "title": "Meetup event collector",
+                "href": "https://github.com/mavi888/meetup-event-collector-node",
+                "github": "mavi888/meetup-event-collector-node",
+                "type": "github"
+            },
+            {
+                "title": "Yesterdaytabase",
+                "href": "https://github.com/ryansb/yesterdaytabase",
+                "github": "ryansb/yesterdaytabase",
+                "type": "github"
+            },
+            {
+                "title": "Serverless dotenv WSGI",
+                "href": "https://github.com/braahyan/serverless-dotenv-wsgi",
+                "github": "braahyan/serverless-dotenv-wsgi",
+                "type": "github"
+            },
+            {
+                "title": "Serverless PHP",
+                "href": "https://github.com/ZeroSharp/serverless-php",
+                "github": "ZeroSharp/serverless-php",
+                "type": "github"
+            },
+            {
+                "title": "Newsletter Signup",
+                "href": "https://github.com/ivanderbu2/serverless-newsletter-signup",
+                "github": "ivanderbu2/serverless-newsletter-signup",
+                "type": "github"
+            },
+            {
+                "title": "Express Serverless Boilerplate",
+                "href": "https://github.com/SharathHuddar/express-serverless-boilerplate",
+                "github": "SharathHuddar/express-serverless-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "GraphQL Dad Jokes",
+                "href": "https://github.com/kevinold/serverless-graphql-dadjokes",
+                "github": "kevinold/serverless-graphql-dadjokes",
+                "type": "github"
+            },
+            {
+                "title": "Serverless HTTP",
+                "href": "https://github.com/dougmoscrop/serverless-http",
+                "github": "dougmoscrop/serverless-http",
+                "type": "github"
+            },
+            {
+                "title": "Coca Cola Session",
+                "href": "https://github.com/C0k3/session",
+                "github": "C0k3/session",
+                "type": "github"
+            },
+            {
+                "title": "Parking reminder",
+                "href": "https://github.com/worldsoup/serverless-parking-reminder",
+                "github": "worldsoup/serverless-parking-reminder",
+                "type": "github"
+            },
+            {
+                "title": "Boilerplate",
+                "href": "https://github.com/s0enke/serverless-boilerplate",
+                "github": "s0enke/serverless-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Cognito demo",
+                "href": "https://github.com/johnf/serverless-cognito-demo",
+                "github": "johnf/serverless-cognito-demo",
+                "type": "github"
+            },
+            {
+                "title": "Developer portal",
+                "href": "https://github.com/keboola/developer-portal",
+                "github": "keboola/developer-portal",
+                "type": "github"
+            },
+            {
+                "title": "Generator Serverless",
+                "href": "https://github.com/exaprint/generator-serverless",
+                "github": "exaprint/generator-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Bigdatr Startr",
+                "href": "https://github.com/bigdatr/bigdatr-startr",
+                "github": "bigdatr/bigdatr-startr",
+                "type": "github"
+            },
+            {
+                "title": "S3 CRUD",
+                "href": "https://github.com/tscanlin/serverless-s3-crud",
+                "github": "tscanlin/serverless-s3-crud",
+                "type": "github"
+            },
+            {
+                "title": "Santa serverless",
+                "href": "https://github.com/santaswap/users-serverless",
+                "github": "santaswap/users-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Learn Serverless",
+                "href": "https://github.com/WendySanarwanto/learn-serverless",
+                "github": "WendySanarwanto/learn-serverless",
+                "type": "github"
+            },
+            {
+                "title": "CloudWatch RDS Custom Metrics",
+                "href": "https://github.com/AndrewFarley/serverless-cloudwatch-rds-custom-metrics",
+                "github": "AndrewFarley/serverless-cloudwatch-rds-custom-metrics",
+                "type": "github"
+            },
+            {
+                "title": "Clouden Xmas",
+                "href": "https://github.com/cloudenoy/clouden-xmas",
+                "github": "cloudenoy/clouden-xmas",
+                "type": "github"
+            },
+            {
+                "title": "Hello Retail",
+                "href": "https://github.com/Nordstrom/hello-retail",
+                "github": "Nordstrom/hello-retail",
+                "type": "github"
+            },
+            {
+                "title": "Slack app",
+                "href": "https://github.com/johnagan/serverless-slack-app",
+                "github": "johnagan/serverless-slack-app",
+                "type": "github"
+            },
+            {
+                "title": "C# hello",
+                "href": "https://github.com/yunspace/serverless-csharp-hello",
+                "github": "yunspace/serverless-csharp-hello",
+                "type": "github"
+            },
+            {
+                "title": "Contact service",
+                "href": "https://github.com/ceccode/serverless-contact-service",
+                "github": "ceccode/serverless-contact-service",
+                "type": "github"
+            },
+            {
+                "title": "IAM Manager",
+                "href": "https://github.com/RafalWilinski/aws-iam-manager",
+                "github": "RafalWilinski/aws-iam-manager",
+                "type": "github"
+            },
+            {
+                "title": "Swift service template",
+                "href": "https://github.com/choefele/swift-lambda-app",
+                "github": "choefele/swift-lambda-app",
+                "type": "github"
+            },
+            {
+                "title": "MSG Gateway",
+                "href": "https://github.com/yonahforst/msg-gateway",
+                "github": "yonahforst/msg-gateway",
+                "type": "github"
+            },
+            {
+                "title": "Finpics",
+                "href": "https://github.com/rgfindl/finpics",
+                "github": "rgfindl/finpics",
+                "type": "github"
+            },
+            {
+                "title": "Slack Emojibot",
+                "href": "https://github.com/markhobson/emojibot",
+                "github": "markhobson/emojibot",
+                "type": "github"
+            },
+            {
+                "title": "JRestless",
+                "href": "https://github.com/bbilger/jrestless-examples",
+                "github": "bbilger/jrestless-examples",
+                "type": "github"
+            },
+            {
+                "title": "Elm english dictionary",
+                "href": "https://github.com/ktonon/elm-english-dictionary",
+                "github": "ktonon/elm-english-dictionary",
+                "type": "github"
+            },
+            {
+                "title": "Nightshell",
+                "href": "https://github.com/siliconmagi/nightshell",
+                "github": "siliconmagi/nightshell",
+                "type": "github"
+            },
+            {
+                "title": "Alexa Skill starter template",
+                "href": "https://github.com/rmtuckerphx/alexa-skill-serverless-starter-template",
+                "github": "rmtuckerphx/alexa-skill-serverless-starter-template",
+                "type": "github"
+            },
+            {
+                "title": "Golang",
+                "href": "https://github.com/yunspace/serverless-golang",
+                "github": "yunspace/serverless-golang",
+                "type": "github"
+            },
+            {
+                "title": "Web monitor",
+                "href": "https://github.com/haw-itn/serverless-web-monitor",
+                "github": "haw-itn/serverless-web-monitor",
+                "type": "github"
+            },
+            {
+                "title": "GraphQL Apollo",
+                "href": "https://github.com/serverless/serverless-graphql-apollo",
+                "github": "serverless/serverless-graphql-apollo",
+                "type": "github"
+            },
+            {
+                "title": "Windclock",
+                "href": "https://github.com/douweh/windclock_serverless",
+                "github": "douweh/windclock_serverless",
+                "type": "github"
+            },
+            {
+                "title": "C# HipChat",
+                "href": "https://github.com/FLGMwt/serverless-csharp-hipchat",
+                "github": "FLGMwt/serverless-csharp-hipchat",
+                "type": "github"
+            },
+            {
+                "title": "Blog to podcast",
+                "href": "https://github.com/SC5/serverless-blog-to-podcast",
+                "github": "SC5/serverless-blog-to-podcast",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Todos",
+                "href": "https://github.com/nerdguru/serverlessTodos",
+                "github": "nerdguru/serverlessTodos",
+                "type": "github"
+            },
+            {
+                "title": "Practical",
+                "href": "https://github.com/asantibanez/practical",
+                "github": "asantibanez/practical",
+                "type": "github"
+            },
+            {
+                "title": "Faceswap",
+                "href": "https://github.com/johncmckim/serverless-emoticon-faceswap",
+                "github": "johncmckim/serverless-emoticon-faceswap",
+                "type": "github"
+            },
+            {
+                "title": "3scale Authorizer",
+                "href": "https://github.com/picsoung/awsThreeScale_Authorizer",
+                "github": "picsoung/awsThreeScale_Authorizer",
+                "type": "github"
+            },
+            {
+                "title": "Slack to OpsGenie Alert Creator",
+                "href": "https://github.com/opsgenie/slack-to-opsgenie-alert-creator",
+                "github": "opsgenie/slack-to-opsgenie-alert-creator",
+                "type": "github"
+            },
+            {
+                "title": "Offset Trump",
+                "href": "https://github.com/FLGMwt/offset-trump",
+                "github": "FLGMwt/offset-trump",
+                "type": "github"
+            },
+            {
+                "title": "CRUD FaunaDB",
+                "href": "https://github.com/faunadb/serverless-crud",
+                "github": "faunadb/serverless-crud",
+                "type": "github"
+            },
+            {
+                "title": "Log group test",
+                "href": "https://github.com/geoffdutton/serverless-loggroup-test",
+                "github": "geoffdutton/serverless-loggroup-test",
+                "type": "github"
+            },
+            {
+                "title": "Stdlib Node.js",
+                "href": "https://github.com/serverless/stdlib-nodejs",
+                "github": "serverless/stdlib-nodejs",
+                "type": "github"
+            },
+            {
+                "title": "Deployment Ansible light",
+                "href": "https://github.com/SC5/serverless-deployment-ansible-lite",
+                "github": "SC5/serverless-deployment-ansible-lite",
+                "type": "github"
+            },
+            {
+                "title": "Scope",
+                "href": "https://github.com/serverless/scope",
+                "github": "serverless/scope",
+                "type": "github"
+            },
+            {
+                "title": "Roolbar example",
+                "href": "https://github.com/GorillaStack/serverless-rollbar-example",
+                "github": "GorillaStack/serverless-rollbar-example",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Docker",
+                "href": "https://github.com/gertjvr/serverless-docker",
+                "github": "gertjvr/serverless-docker",
+                "type": "github"
+            },
+            {
+                "title": "Boilerplate Azure Functions",
+                "href": "https://github.com/pragnagopa/boilerplate-azurefunctions",
+                "github": "pragnagopa/boilerplate-azurefunctions",
+                "type": "github"
+            },
+            {
+                "title": "URL shortener",
+                "href": "https://github.com/aletheia/serverless-url-shortener",
+                "github": "aletheia/serverless-url-shortener",
+                "type": "github"
+            },
+            {
+                "title": "Falke",
+                "href": "https://github.com/sbstjn/falke",
+                "github": "sbstjn/falke",
+                "type": "github"
+            },
+            {
+                "title": "LambdaAuth",
+                "href": "https://github.com/danilop/LambdAuth",
+                "github": "danilop/LambdAuth",
+                "type": "github"
+            },
+            {
+                "title": "Elasticpypi",
+                "href": "https://github.com/khornberg/elasticpypi",
+                "github": "khornberg/elasticpypi",
+                "type": "github"
+            },
+            {
+                "title": "Lambda coding round evaluator",
+                "href": "https://github.com/shekhargulati/lambda-coding-round-evaluator",
+                "github": "shekhargulati/lambda-coding-round-evaluator",
+                "type": "github"
+            },
+            {
+                "title": "TDD service",
+                "href": "https://github.com/laardee/my-tdd-service",
+                "github": "laardee/my-tdd-service",
+                "type": "github"
+            },
+            {
+                "title": "HTML PDF",
+                "href": "https://github.com/calvintychan/serverless-html-pdf",
+                "github": "calvintychan/serverless-html-pdf",
+                "type": "github"
+            },
+            {
+                "title": "Codebox npm",
+                "href": "https://github.com/craftship/codebox-npm",
+                "github": "craftship/codebox-npm",
+                "type": "github"
+            },
+            {
+                "title": "Overwatch bot",
+                "href": "https://github.com/hectorleiva/overwatch-serverless-telegram-bot",
+                "github": "hectorleiva/overwatch-serverless-telegram-bot",
+                "type": "github"
+            },
+            {
+                "title": "Shimless Golang",
+                "href": "https://github.com/cristim/serverless-golang",
+                "github": "cristim/serverless-golang",
+                "type": "github"
+            },
+            {
+                "title": "Post Scheduler",
+                "href": "https://github.com/serverless/post-scheduler",
+                "github": "serverless/post-scheduler",
+                "type": "github"
+            },
+            {
+                "title": "Bucket events",
+                "href": "https://github.com/manwaring/serverless-bucket-events",
+                "github": "manwaring/serverless-bucket-events",
+                "type": "github"
+            },
+            {
+                "title": "Cached RDS WS",
+                "href": "https://github.com/mugglmenzel/serverless-examples-cached-rds-ws",
+                "github": "mugglmenzel/serverless-examples-cached-rds-ws",
+                "type": "github"
+            },
+            {
+                "title": "Candidates app",
+                "href": "https://github.com/connor11528/candidates-app",
+                "github": "connor11528/candidates-app",
+                "type": "github"
+            },
+            {
+                "title": "SSR demo",
+                "href": "https://github.com/AInvest/ssr-demo",
+                "github": "AInvest/ssr-demo",
+                "type": "github"
+            },
+            {
+                "title": "Inveats",
+                "href": "https://github.com/unravel-project/hackathon-project",
+                "github": "unravel-project/hackathon-project",
+                "type": "github"
+            },
+            {
+                "title": "Chatbite",
+                "href": "https://github.com/JacopoDaeli/chatbite",
+                "github": "JacopoDaeli/chatbite",
+                "type": "github"
+            },
+            {
+                "title": "Bootie",
+                "href": "https://github.com/carlosmuvi/serverless-bootie",
+                "github": "carlosmuvi/serverless-bootie",
+                "type": "github"
+            },
+            {
+                "title": "Surprise assist",
+                "href": "https://github.com/Masv-io/SurpriseAssist-Backend",
+                "github": "Masv-io/SurpriseAssist-Backend",
+                "type": "github"
+            },
+            {
+                "title": "Triptunes",
+                "href": "https://github.com/jahlela/triptunes",
+                "github": "jahlela/triptunes",
+                "type": "github"
+            },
+            {
+                "title": "Allergic reaction",
+                "href": "https://github.com/billcheng-ucla/allergic-reaction-serverless",
+                "github": "billcheng-ucla/allergic-reaction-serverless",
+                "type": "github"
+            },
+            {
+                "title": "BrokenTable",
+                "href": "https://github.com/MiLeung/BrokenTable",
+                "github": "MiLeung/BrokenTable",
+                "type": "github"
+            },
+            {
+                "title": "iReact",
+                "href": "https://github.com/DavidLopezWhite/iReact",
+                "github": "DavidLopezWhite/iReact",
+                "type": "github"
+            },
+            {
+                "title": "Reactathon 2017",
+                "href": "https://github.com/Baw25/TeamNoSleepReactathon2017",
+                "github": "Baw25/TeamNoSleepReactathon2017",
+                "type": "github"
+            },
+            {
+                "title": "Reactathon Serverless",
+                "href": "https://github.com/ragingoctopus/reactathonServerless",
+                "github": "ragingoctopus/reactathonServerless",
+                "type": "github"
+            },
+            {
+                "title": "Restaurant deals",
+                "href": "https://github.com/afr114/reactathon2017",
+                "github": "afr114/reactathon2017",
+                "type": "github"
+            },
+            {
+                "title": "Profiles",
+                "href": "https://github.com/starbucks-hackers/reactathon-profiles",
+                "github": "starbucks-hackers/reactathon-profiles",
+                "type": "github"
+            },
+            {
+                "title": "Appointments",
+                "href": "https://github.com/starbucks-hackers/reactathon-appointments",
+                "github": "starbucks-hackers/reactathon-appointments",
+                "type": "github"
+            },
+            {
+                "title": "Alexa template",
+                "href": "https://github.com/chrishutchinson/alexa-serverless-template",
+                "github": "chrishutchinson/alexa-serverless-template",
+                "type": "github"
+            },
+            {
+                "title": "Policy generator",
+                "href": "https://github.com/dancrumb/generator-serverless-policy",
+                "github": "dancrumb/generator-serverless-policy",
+                "type": "github"
+            },
+            {
+                "title": "Deployment CodePipeline",
+                "href": "https://github.com/SC5/serverless-deployment-codepipeline",
+                "github": "SC5/serverless-deployment-codepipeline",
+                "type": "github"
+            },
+            {
+                "title": ".Net core template",
+                "href": "https://github.com/PageUpPeopleOrg/serverless-dotnetcore-template",
+                "github": "PageUpPeopleOrg/serverless-dotnetcore-template",
+                "type": "github"
+            },
+            {
+                "title": "Twilio Shippo",
+                "href": "https://github.com/shipping-api/serverless-twilio-shippo",
+                "github": "shipping-api/serverless-twilio-shippo",
+                "type": "github"
+            },
+            {
+                "title": "\"Hello, Retail!\" workshop",
+                "href": "https://github.com/Nordstrom/hello-retail-workshop",
+                "github": "Nordstrom/hello-retail-workshop",
+                "type": "github"
+            },
+            {
+                "title": "Serverless validator",
+                "href": "https://github.com/futtetennista/ServerlessValidator",
+                "github": "futtetennista/ServerlessValidator",
+                "type": "github"
+            },
+            {
+                "title": "Midsomerplots",
+                "href": "https://github.com/matthewberryman/midsomerplots",
+                "github": "matthewberryman/midsomerplots",
+                "type": "github"
+            },
+            {
+                "title": "Proxy",
+                "href": "https://github.com/dan-turner/serverless-proxy",
+                "github": "dan-turner/serverless-proxy",
+                "type": "github"
+            },
+            {
+                "title": "Chrome",
+                "href": "https://github.com/adieuadieu/serverless-chrome",
+                "github": "adieuadieu/serverless-chrome",
+                "type": "github"
+            },
+            {
+                "title": "Modern koa",
+                "href": "https://github.com/barczaG/serverless-modern-koa",
+                "github": "barczaG/serverless-modern-koa",
+                "type": "github"
+            },
+            {
+                "title": "Alexa skill",
+                "href": "https://github.com/sbstjn/serverless-alexa-skill",
+                "github": "sbstjn/serverless-alexa-skill",
+                "type": "github"
+            },
+            {
+                "title": "OpenWhisk Slack SMS bot",
+                "href": "https://github.com/ibmets/smsbot",
+                "github": "ibmets/smsbot",
+                "type": "github"
+            },
+            {
+                "title": "DynamoDB autoscaling",
+                "href": "https://github.com/trek10inc/dynamodb-autoscaling",
+                "github": "trek10inc/dynamodb-autoscaling",
+                "type": "github"
+            },
+            {
+                "title": "Cron Lambda HTTP trigger",
+                "href": "https://github.com/kandros/serverless-cron-lambda-http-trigger",
+                "github": "kandros/serverless-cron-lambda-http-trigger",
+                "type": "github"
+            },
+            {
+                "title": "Serverless SQS worker",
+                "href": "https://github.com/sbstjn/sqs-worker-serverless",
+                "github": "sbstjn/sqs-worker-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Serverlecs",
+                "href": "https://github.com/tobyhede/serverlecs",
+                "github": "tobyhede/serverlecs",
+                "type": "github"
+            },
+            {
+                "title": "Leto",
+                "href": "https://github.com/helixone/leto-serverless",
+                "github": "helixone/leto-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Open bot",
+                "href": "https://github.com/open-bot/open-bot",
+                "github": "open-bot/open-bot",
+                "type": "github"
+            },
+            {
+                "title": "Endless commerce",
+                "href": "https://github.com/endless-commerce/endless",
+                "github": "endless-commerce/endless",
+                "type": "github"
+            },
+            {
+                "title": "Slack Memebot",
+                "href": "https://github.com/GorillaStack/serverless-slack-memebot",
+                "github": "GorillaStack/serverless-slack-memebot",
+                "type": "github"
+            },
+            {
+                "title": "Serverless getting started",
+                "href": "https://github.com/maingi4/Serverless_Getting_Started",
+                "github": "maingi4/Serverless_Getting_Started",
+                "type": "github"
+            },
+            {
+                "title": "Serverless utilities",
+                "href": "https://github.com/silvermine/serverless-utils",
+                "github": "silvermine/serverless-utils",
+                "type": "github"
+            },
+            {
+                "title": "S3 API",
+                "href": "https://github.com/komushi/serverless-s3-api",
+                "github": "komushi/serverless-s3-api",
+                "type": "github"
+            },
+            {
+                "title": "Serverless TypeScript demo",
+                "href": "https://github.com/gshackles/serverless-typescript-demo",
+                "github": "gshackles/serverless-typescript-demo",
+                "type": "github"
+            },
+            {
+                "title": "Binary test",
+                "href": "https://github.com/bni/binary-test",
+                "github": "bni/binary-test",
+                "type": "github"
+            },
+            {
+                "title": "Serverless PHP",
+                "href": "https://github.com/araines/serverless-php",
+                "github": "araines/serverless-php",
+                "type": "github"
+            },
+            {
+                "title": "Video preview and analysis",
+                "href": "https://github.com/laardee/video-preview-and-analysis-service",
+                "github": "laardee/video-preview-and-analysis-service",
+                "type": "github"
+            },
+            {
+                "title": "AWS Lambda power tuning",
+                "href": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
+                "github": "alexcasalboni/aws-lambda-power-tuning",
+                "type": "github"
+            },
+            {
+                "title": "YouTube podcasts",
+                "href": "https://github.com/sedden/serverless-youtube-podcasts",
+                "github": "sedden/serverless-youtube-podcasts",
+                "type": "github"
+            },
+            {
+                "title": "Lambda view server",
+                "href": "https://github.com/kiva/lambda-view-server",
+                "github": "kiva/lambda-view-server",
+                "type": "github"
+            },
+            {
+                "title": "Thumbnail",
+                "href": "https://github.com/krisgholson/serverless-thumbnail",
+                "github": "krisgholson/serverless-thumbnail",
+                "type": "github"
+            },
+            {
+                "title": "Ruby",
+                "href": "https://github.com/stewartlord/serverless-ruby",
+                "github": "stewartlord/serverless-ruby",
+                "type": "github"
+            },
+            {
+                "title": "TypeScript starter",
+                "href": "https://github.com/pietrasiak/serverless-typescript-starter",
+                "github": "pietrasiak/serverless-typescript-starter",
+                "type": "github"
+            },
+            {
+                "title": "GitHub CodeBuild webhook",
+                "href": "https://github.com/svdgraaf/github-codebuild-webhook",
+                "github": "svdgraaf/github-codebuild-webhook",
+                "type": "github"
+            },
+            {
+                "title": "GraphQL API",
+                "href": "https://github.com/boazdejong/serverless-graphql-api",
+                "github": "boazdejong/serverless-graphql-api",
+                "type": "github"
+            },
+            {
+                "title": "Bittman",
+                "href": "https://github.com/rhlsthrm/bittman",
+                "github": "rhlsthrm/bittman",
+                "type": "github"
+            },
+            {
+                "title": "Adoptable pet bot",
+                "href": "https://github.com/lynnaloo/adoptable-pet-bot",
+                "github": "lynnaloo/adoptable-pet-bot",
+                "type": "github"
+            },
+            {
+                "title": "Owntracks",
+                "href": "https://github.com/dschep/owntracks-serverless",
+                "github": "dschep/owntracks-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Reactjs universal rendering boilerplate",
+                "href": "https://github.com/TylorShin/react-universal-in-serverless",
+                "github": "TylorShin/react-universal-in-serverless",
+                "type": "github"
+            },
+            {
+                "title": "AWS SES example",
+                "href": "https://github.com/lakshmantgld/aws-ses-serverless-example",
+                "github": "lakshmantgld/aws-ses-serverless-example",
+                "type": "github"
+            },
+            {
+                "title": "ES6 / 7 CRUD API",
+                "href": "https://github.com/AnomalyInnovations/serverless-stack-demo-api",
+                "github": "AnomalyInnovations/serverless-stack-demo-api",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related projects",
+        "childrens": [
+            {
+                "title": "DataFire",
+                "href": "https://github.com/DataFire/DataFire",
+                "github": "DataFire/DataFire",
+                "type": "github"
+            },
+            {
+                "title": "AWS log parser",
+                "href": "https://github.com/rotemtam/serverless-aws-logs-parser",
+                "github": "rotemtam/serverless-aws-logs-parser",
+                "type": "github"
+            },
+            {
+                "title": "IronFunctions",
+                "href": "https://github.com/iron-io/functions",
+                "github": "iron-io/functions",
+                "type": "github"
+            },
+            {
+                "title": "Dromedary Serverless",
+                "href": "https://github.com/stelligent/dromedary-serverless",
+                "github": "stelligent/dromedary-serverless",
+                "type": "github"
+            },
+            {
+                "title": "AWS profile manager",
+                "href": "https://github.com/DavidWells/aws-profile-manager",
+                "github": "DavidWells/aws-profile-manager",
+                "type": "github"
+            },
+            {
+                "title": "Crop",
+                "href": "https://github.com/ryansb/crop",
+                "github": "ryansb/crop",
+                "type": "github"
+            },
+            {
+                "title": "Microcule",
+                "href": "https://github.com/stackvana/microcule",
+                "github": "stackvana/microcule",
+                "type": "github"
+            },
+            {
+                "title": "Azure Functions Introduction",
+                "href": "https://github.com/guitarrapc/AzureFunctionsIntroduction",
+                "github": "guitarrapc/AzureFunctionsIntroduction",
+                "type": "github"
+            },
+            {
+                "title": "Hands-On serverless guide",
+                "href": "https://github.com/shekhargulati/hands-on-serverless-guide",
+                "github": "shekhargulati/hands-on-serverless-guide",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Z",
+                "href": "https://github.com/stashimi/serverless-z",
+                "github": "stashimi/serverless-z",
+                "type": "github"
+            },
+            {
+                "title": "Kubeless",
+                "href": "https://github.com/bitnami/kubeless",
+                "github": "bitnami/kubeless",
+                "type": "github"
+            },
+            {
+                "title": "Localstack",
+                "href": "https://github.com/atlassian/localstack",
+                "github": "atlassian/localstack",
+                "type": "github"
+            },
+            {
+                "title": "Azure functions pack",
+                "href": "https://github.com/christopheranderson/azure-functions-pack",
+                "github": "christopheranderson/azure-functions-pack",
+                "type": "github"
+            },
+            {
+                "title": "Azure Functions",
+                "href": "https://github.com/Azure/Azure-Functions",
+                "github": "Azure/Azure-Functions",
+                "type": "github"
+            },
+            {
+                "title": "Buildserverless",
+                "href": "https://github.com/jchorl/buildserverless",
+                "github": "jchorl/buildserverless",
+                "type": "github"
+            },
+            {
+                "title": "Cerberus components",
+                "href": "https://github.com/Nike-Inc/cerberus-serverless-components",
+                "github": "Nike-Inc/cerberus-serverless-components",
+                "type": "github"
+            },
+            {
+                "title": "Face recognition",
+                "href": "https://github.com/excamera/serverless-face-recognition",
+                "github": "excamera/serverless-face-recognition",
+                "type": "github"
+            },
+            {
+                "title": "NPM doc Serverless",
+                "href": "https://github.com/npmdoc/node-npmdoc-serverless",
+                "github": "npmdoc/node-npmdoc-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Gcdt",
+                "href": "https://github.com/glomex/gcdt",
+                "github": "glomex/gcdt",
+                "type": "github"
+            },
+            {
+                "title": "NoDB",
+                "href": "https://github.com/Miserlou/NoDB",
+                "github": "Miserlou/NoDB",
+                "type": "github"
+            },
+            {
+                "title": "BitTorrent tracker",
+                "href": "https://github.com/Miserlou/zappa-bittorrent-tracker",
+                "github": "Miserlou/zappa-bittorrent-tracker",
+                "type": "github"
+            },
+            {
+                "title": "Concierge",
+                "href": "https://github.com/ibm-cds-labs/concierge",
+                "github": "ibm-cds-labs/concierge",
+                "type": "github"
+            },
+            {
+                "title": "Serverless examples",
+                "href": "https://github.com/cfjedimaster/Serverless-Examples",
+                "github": "cfjedimaster/Serverless-Examples",
+                "type": "github"
+            },
+            {
+                "title": "Lambda Framework",
+                "href": "https://github.com/lambadaframework/lambadaframework",
+                "github": "lambadaframework/lambadaframework",
+                "type": "github"
+            },
+            {
+                "title": "Node dash",
+                "href": "https://github.com/seriousme/node-dash",
+                "github": "seriousme/node-dash",
+                "type": "github"
+            },
+            {
+                "title": "FaaSlang",
+                "href": "https://github.com/faaslang/faaslang",
+                "github": "faaslang/faaslang",
+                "type": "github"
+            },
+            {
+                "title": "FDK",
+                "href": "https://github.com/serverless/fdk",
+                "github": "serverless/fdk",
+                "type": "github"
+            },
+            {
+                "title": "Open Lambda",
+                "href": "https://github.com/open-lambda/open-lambda",
+                "github": "open-lambda/open-lambda",
+                "type": "github"
+            },
+            {
+                "title": "Serverless patterns",
+                "href": "https://github.com/yochay/serverlesspatterns",
+                "github": "yochay/serverlesspatterns",
+                "type": "github"
+            },
+            {
+                "title": "Serverless transceiver",
+                "href": "https://github.com/ACloudGuru/serverless-transceiver",
+                "github": "ACloudGuru/serverless-transceiver",
+                "type": "github"
+            },
+            {
+                "title": "Docker Serverless",
+                "href": "https://github.com/tomelliff/docker-serverless",
+                "github": "tomelliff/docker-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Local Lambda debug",
+                "href": "https://github.com/OneMuppet/local-lambda-debug",
+                "github": "OneMuppet/local-lambda-debug",
+                "type": "github"
+            },
+            {
+                "title": "Sencha Microservices Framework",
+                "href": "https://github.com/senecajs",
+                "github": "senecajs",
+                "type": "github"
+            },
+            {
+                "title": "Node Lambda",
+                "href": "https://github.com/motdotla/node-lambda",
+                "github": "motdotla/node-lambda",
+                "type": "github"
+            },
+            {
+                "title": "Lambda TV",
+                "href": "https://github.com/jeshan/lambdatv",
+                "github": "jeshan/lambdatv",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Plugins",
+        "childrens": [
+            {
+                "title": "Webpack",
+                "href": "https://github.com/elastic-coders/serverless-webpack",
+                "github": "elastic-coders/serverless-webpack",
+                "type": "github"
+            },
+            {
+                "title": "Scriptable",
+                "href": "https://github.com/wei-xu-myob/serverless-scriptable-plugin",
+                "github": "wei-xu-myob/serverless-scriptable-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Build plugin",
+                "href": "https://github.com/nfour/serverless-build-plugin",
+                "github": "nfour/serverless-build-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Write env vars",
+                "href": "https://github.com/silvermine/serverless-plugin-write-env-vars",
+                "github": "silvermine/serverless-plugin-write-env-vars",
+                "type": "github"
+            },
+            {
+                "title": "Alexa plugin",
+                "href": "https://github.com/rajington/serverless-alexa-plugin",
+                "github": "rajington/serverless-alexa-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Multi responses",
+                "href": "https://github.com/silvermine/serverless-plugin-multiple-responses",
+                "github": "silvermine/serverless-plugin-multiple-responses",
+                "type": "github"
+            },
+            {
+                "title": "Run function",
+                "href": "https://github.com/lithin/serverless-run-function-plugin",
+                "github": "lithin/serverless-run-function-plugin",
+                "type": "github"
+            },
+            {
+                "title": "DynamoDB local",
+                "href": "https://github.com/99xt/serverless-dynamodb-local/tree/v1",
+                "github": "99xt/serverless-dynamodb-local/tree/v1",
+                "type": "github"
+            },
+            {
+                "title": "Command line event args",
+                "href": "https://github.com/horike37/serverless-command-line-event-args",
+                "github": "horike37/serverless-command-line-event-args",
+                "type": "github"
+            },
+            {
+                "title": "WSGI",
+                "href": "https://github.com/logandk/serverless-wsgi",
+                "github": "logandk/serverless-wsgi",
+                "type": "github"
+            },
+            {
+                "title": "External SNS events",
+                "href": "https://github.com/silvermine/serverless-plugin-external-sns-events",
+                "github": "silvermine/serverless-plugin-external-sns-events",
+                "type": "github"
+            },
+            {
+                "title": "CloudWatch Sumologic",
+                "href": "https://github.com/ACloudGuru/serverless-plugin-cloudwatch-sumologic",
+                "github": "ACloudGuru/serverless-plugin-cloudwatch-sumologic",
+                "type": "github"
+            },
+            {
+                "title": "Browserify",
+                "href": "https://github.com/doapp-ryanp/serverless-plugin-browserify",
+                "github": "doapp-ryanp/serverless-plugin-browserify",
+                "type": "github"
+            },
+            {
+                "title": "Optimize",
+                "href": "https://github.com/FidelLimited/serverless-plugin-optimize",
+                "github": "FidelLimited/serverless-plugin-optimize",
+                "type": "github"
+            },
+            {
+                "title": "Include dependencies",
+                "href": "https://github.com/dougmoscrop/serverless-plugin-include-dependencies",
+                "github": "dougmoscrop/serverless-plugin-include-dependencies",
+                "type": "github"
+            },
+            {
+                "title": "Subscription filter",
+                "href": "https://github.com/blackevil245/serverless-subscription-filter",
+                "github": "blackevil245/serverless-subscription-filter",
+                "type": "github"
+            },
+            {
+                "title": "Snyk plugin",
+                "href": "https://github.com/Snyk/serverless-snyk",
+                "github": "Snyk/serverless-snyk",
+                "type": "github"
+            },
+            {
+                "title": "CloudWatch logging subscriptions",
+                "href": "https://github.com/TicketSolutionsPtyLtd/serverless-plugin-cloudwatch-logging-subscriptions",
+                "github": "TicketSolutionsPtyLtd/serverless-plugin-cloudwatch-logging-subscriptions",
+                "type": "github"
+            },
+            {
+                "title": "Crypt",
+                "href": "https://github.com/marcy-terui/serverless-crypt",
+                "github": "marcy-terui/serverless-crypt",
+                "type": "github"
+            },
+            {
+                "title": "Diff",
+                "href": "https://github.com/nicka/serverless-plugin-diff",
+                "github": "nicka/serverless-plugin-diff",
+                "type": "github"
+            },
+            {
+                "title": "Rollback function",
+                "href": "https://github.com/marcy-terui/serverless-rollback-function",
+                "github": "marcy-terui/serverless-rollback-function",
+                "type": "github"
+            },
+            {
+                "title": "CloudFormation Authorizer",
+                "href": "https://github.com/SC5/serverless-plugin-cfauthorizer",
+                "github": "SC5/serverless-plugin-cfauthorizer",
+                "type": "github"
+            },
+            {
+                "title": "Babel",
+                "href": "https://github.com/serverless/serverless-babel-plugin",
+                "github": "serverless/serverless-babel-plugin",
+                "type": "github"
+            },
+            {
+                "title": "External S3 event",
+                "href": "https://github.com/matt-filion/serverless-external-s3-event",
+                "github": "matt-filion/serverless-external-s3-event",
+                "type": "github"
+            },
+            {
+                "title": "Inspect",
+                "href": "https://github.com/SEEK-Jobs/serverless-plugin-inspect",
+                "github": "SEEK-Jobs/serverless-plugin-inspect",
+                "type": "github"
+            },
+            {
+                "title": "IBM OpenWhisk",
+                "href": "https://github.com/serverless/serverless-ibm-openwhisk",
+                "github": "serverless/serverless-ibm-openwhisk",
+                "type": "github"
+            },
+            {
+                "title": "Google Cloud Functions",
+                "href": "https://github.com/serverless/serverless-google-cloudfunctions",
+                "github": "serverless/serverless-google-cloudfunctions",
+                "type": "github"
+            },
+            {
+                "title": "Azure Functions",
+                "href": "https://github.com/serverless/serverless-azure-functions",
+                "github": "serverless/serverless-azure-functions",
+                "type": "github"
+            },
+            {
+                "title": "Remove CF Outputs",
+                "href": "https://github.com/Brigad/serverless-remove-cf-outputs-plugin",
+                "github": "Brigad/serverless-remove-cf-outputs-plugin",
+                "type": "github"
+            },
+            {
+                "title": "AWS Models",
+                "href": "https://github.com/9cookies/serverless-aws-models",
+                "github": "9cookies/serverless-aws-models",
+                "type": "github"
+            },
+            {
+                "title": "SWAG",
+                "href": "https://github.com/doapp-ryanp/serverless-plugin-swag",
+                "github": "doapp-ryanp/serverless-plugin-swag",
+                "type": "github"
+            },
+            {
+                "title": "Alexa",
+                "href": "https://github.com/rajington/serverless-alexa-plugin",
+                "github": "rajington/serverless-alexa-plugin",
+                "type": "github"
+            },
+            {
+                "title": "RAML",
+                "href": "https://github.com/andrewcurioso/raml-serverless",
+                "github": "andrewcurioso/raml-serverless",
+                "type": "github"
+            },
+            {
+                "title": "AWS documentation",
+                "href": "https://github.com/9cookies/serverless-aws-documentation",
+                "github": "9cookies/serverless-aws-documentation",
+                "type": "github"
+            },
+            {
+                "title": "Dotnet",
+                "href": "https://github.com/fruffin/serverless-dotnet",
+                "github": "fruffin/serverless-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "Python requirements",
+                "href": "https://github.com/UnitedIncome/serverless-python-requirements",
+                "github": "UnitedIncome/serverless-python-requirements",
+                "type": "github"
+            },
+            {
+                "title": "Subscription filter",
+                "href": "https://github.com/tsub/serverless-plugin-subscription-filter",
+                "github": "tsub/serverless-plugin-subscription-filter",
+                "type": "github"
+            },
+            {
+                "title": "Step Functions",
+                "href": "https://github.com/horike37/serverless-step-functions",
+                "github": "horike37/serverless-step-functions",
+                "type": "github"
+            },
+            {
+                "title": "Python individually",
+                "href": "https://github.com/cfchou/serverless-python-individually",
+                "github": "cfchou/serverless-python-individually",
+                "type": "github"
+            },
+            {
+                "title": "Enable API logs",
+                "href": "https://github.com/paulSambolin/serverless-enable-api-logs",
+                "github": "paulSambolin/serverless-enable-api-logs",
+                "type": "github"
+            },
+            {
+                "title": "Containerless",
+                "href": "https://github.com/Reckon-Limited/containerless",
+                "github": "Reckon-Limited/containerless",
+                "type": "github"
+            },
+            {
+                "title": "Swagger",
+                "href": "https://github.com/Reckon-Limited/serverless_swagger",
+                "github": "Reckon-Limited/serverless_swagger",
+                "type": "github"
+            },
+            {
+                "title": "Plugin scripts",
+                "href": "https://github.com/mvila/serverless-plugin-scripts",
+                "github": "mvila/serverless-plugin-scripts",
+                "type": "github"
+            },
+            {
+                "title": "Bind deployment id",
+                "href": "https://github.com/jacob-meacham/serverless-plugin-bind-deployment-id",
+                "github": "jacob-meacham/serverless-plugin-bind-deployment-id",
+                "type": "github"
+            },
+            {
+                "title": "CoffeeScript",
+                "href": "https://github.com/duanefields/serverless-coffeescript",
+                "github": "duanefields/serverless-coffeescript",
+                "type": "github"
+            },
+            {
+                "title": "GraphiQL",
+                "href": "https://github.com/bencooling/serverless-plugin-graphiql",
+                "github": "bencooling/serverless-plugin-graphiql",
+                "type": "github"
+            },
+            {
+                "title": "Jest",
+                "href": "https://github.com/SC5/serverless-jest-plugin",
+                "github": "SC5/serverless-jest-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Postgraphql",
+                "href": "https://github.com/rentrop/serverless-postgraphql",
+                "github": "rentrop/serverless-postgraphql",
+                "type": "github"
+            },
+            {
+                "title": "Lambda dead letter",
+                "href": "https://github.com/gmetzker/serverless-plugin-lambda-dead-letter",
+                "github": "gmetzker/serverless-plugin-lambda-dead-letter",
+                "type": "github"
+            },
+            {
+                "title": "Delete log groups",
+                "href": "https://github.com/horike37/serverless-delete-loggroups",
+                "github": "horike37/serverless-delete-loggroups",
+                "type": "github"
+            },
+            {
+                "title": "Dir config",
+                "href": "https://github.com/economysizegeek/serverless-dir-config-plugin",
+                "github": "economysizegeek/serverless-dir-config-plugin",
+                "type": "github"
+            },
+            {
+                "title": "AWS alerts",
+                "href": "https://github.com/ACloudGuru/serverless-plugin-aws-alerts",
+                "github": "ACloudGuru/serverless-plugin-aws-alerts",
+                "type": "github"
+            },
+            {
+                "title": "Crypt",
+                "href": "https://github.com/ACloudGuru/serverless-plugin-crypt",
+                "github": "ACloudGuru/serverless-plugin-crypt",
+                "type": "github"
+            },
+            {
+                "title": "CLJS",
+                "href": "https://github.com/nervous-systems/serverless-cljs-plugin",
+                "github": "nervous-systems/serverless-cljs-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Encode env var objects",
+                "href": "https://github.com/yonomi/serverless-plugin-encode-env-var-objects",
+                "github": "yonomi/serverless-plugin-encode-env-var-objects",
+                "type": "github"
+            },
+            {
+                "title": "Additional stacks",
+                "href": "https://github.com/SC5/serverless-plugin-additional-stacks",
+                "github": "SC5/serverless-plugin-additional-stacks",
+                "type": "github"
+            },
+            {
+                "title": "Prune",
+                "href": "https://github.com/claygregory/serverless-prune-plugin",
+                "github": "claygregory/serverless-prune-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Offline scheduler",
+                "href": "https://github.com/ajmath/serverless-offline-scheduler",
+                "github": "ajmath/serverless-offline-scheduler",
+                "type": "github"
+            },
+            {
+                "title": "Simulate",
+                "href": "https://github.com/gertjvr/serverless-plugin-simulate",
+                "github": "gertjvr/serverless-plugin-simulate",
+                "type": "github"
+            },
+            {
+                "title": "Alias",
+                "href": "https://github.com/HyperBrain/serverless-aws-alias",
+                "github": "HyperBrain/serverless-aws-alias",
+                "type": "github"
+            },
+            {
+                "title": "Package .env file",
+                "href": "https://github.com/ACloudGuru/serverless-plugin-package-dotenv-file",
+                "github": "ACloudGuru/serverless-plugin-package-dotenv-file",
+                "type": "github"
+            },
+            {
+                "title": "CI / CD",
+                "href": "https://github.com/HyperBrain/serverless-cicd",
+                "github": "HyperBrain/serverless-cicd",
+                "type": "github"
+            },
+            {
+                "title": "Select",
+                "href": "https://github.com/FidelLimited/serverless-plugin-select",
+                "github": "FidelLimited/serverless-plugin-select",
+                "type": "github"
+            },
+            {
+                "title": "Webpack",
+                "href": "https://github.com/goldwasserexchange/serverless-plugin-webpack",
+                "github": "goldwasserexchange/serverless-plugin-webpack",
+                "type": "github"
+            },
+            {
+                "title": "OpenWhisk",
+                "href": "https://github.com/serverless/serverless-openwhisk",
+                "github": "serverless/serverless-openwhisk",
+                "type": "github"
+            },
+            {
+                "title": "Warmup",
+                "href": "https://github.com/FidelLimited/serverless-plugin-warmup",
+                "github": "FidelLimited/serverless-plugin-warmup",
+                "type": "github"
+            },
+            {
+                "title": "ReasonML",
+                "href": "https://github.com/ReasonVienna/serverless-reason-plugin",
+                "github": "ReasonVienna/serverless-reason-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Gulp",
+                "href": "https://github.com/rhythminme/serverless-gulp",
+                "github": "rhythminme/serverless-gulp",
+                "type": "github"
+            },
+            {
+                "title": ".env",
+                "href": "https://github.com/Jimdo/serverless-dotenv",
+                "github": "Jimdo/serverless-dotenv",
+                "type": "github"
+            },
+            {
+                "title": "Common excludes",
+                "href": "https://github.com/dougmoscrop/serverless-plugin-common-excludes",
+                "github": "dougmoscrop/serverless-plugin-common-excludes",
+                "type": "github"
+            },
+            {
+                "title": "Existing CloudWatch rule",
+                "href": "https://github.com/AlexanderMS/serverless-plugin-existing-cloudwatch-rule",
+                "github": "AlexanderMS/serverless-plugin-existing-cloudwatch-rule",
+                "type": "github"
+            },
+            {
+                "title": "Shared vars",
+                "href": "https://github.com/dittto/serverless-shared-vars",
+                "github": "dittto/serverless-shared-vars",
+                "type": "github"
+            },
+            {
+                "title": "Import swagger",
+                "href": "https://github.com/AKIRA-MIYAKE/serverless-import-swagger",
+                "github": "AKIRA-MIYAKE/serverless-import-swagger",
+                "type": "github"
+            },
+            {
+                "title": "SQS alarms",
+                "href": "https://github.com/sbstjn/serverless-sqs-alarms-plugin",
+                "github": "sbstjn/serverless-sqs-alarms-plugin",
+                "type": "github"
+            },
+            {
+                "title": "SQS fifo",
+                "href": "https://github.com/vortarian/serverless-sqs-fifo",
+                "github": "vortarian/serverless-sqs-fifo",
+                "type": "github"
+            },
+            {
+                "title": "Wavefront rollback",
+                "href": "https://github.com/wavefrontHQ/wavefront-serverless-rollback-plugin",
+                "github": "wavefrontHQ/wavefront-serverless-rollback-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Hooks",
+                "href": "https://github.com/uswitch/serverless-hooks-plugin",
+                "github": "uswitch/serverless-hooks-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Enable API logs",
+                "href": "https://github.com/paulSambolin/serverless-enable-api-logs",
+                "github": "paulSambolin/serverless-enable-api-logs",
+                "type": "github"
+            },
+            {
+                "title": "Git variables",
+                "href": "https://github.com/jacob-meacham/serverless-plugin-git-variables",
+                "github": "jacob-meacham/serverless-plugin-git-variables",
+                "type": "github"
+            },
+            {
+                "title": "Dynalite",
+                "href": "https://github.com/sdd/serverless-dynalite",
+                "github": "sdd/serverless-dynalite",
+                "type": "github"
+            },
+            {
+                "title": "TypeScript",
+                "href": "https://github.com/graphcool/serverless-plugin-typescript",
+                "github": "graphcool/serverless-plugin-typescript",
+                "type": "github"
+            },
+            {
+                "title": "APIG S3",
+                "href": "https://github.com/sdd/serverless-apig-s3",
+                "github": "sdd/serverless-apig-s3",
+                "type": "github"
+            },
+            {
+                "title": "IOpipe",
+                "href": "https://github.com/iopipe/serverless-plugin-iopipe",
+                "github": "iopipe/serverless-plugin-iopipe",
+                "type": "github"
+            },
+            {
+                "title": "API Gateway",
+                "href": "https://github.com/btxhuman/locision-serverless-plugin-api-gateway",
+                "github": "btxhuman/locision-serverless-plugin-api-gateway",
+                "type": "github"
+            },
+            {
+                "title": "Parameters",
+                "href": "https://github.com/svdgraaf/serverless-parameters",
+                "github": "svdgraaf/serverless-parameters",
+                "type": "github"
+            },
+            {
+                "title": "Pseudo parameters",
+                "href": "https://github.com/svdgraaf/serverless-pseudo-parameters",
+                "github": "svdgraaf/serverless-pseudo-parameters",
+                "type": "github"
+            },
+            {
+                "title": "DynamoDB TTL",
+                "href": "https://github.com/Jimdo/serverless-dynamodb-ttl",
+                "github": "Jimdo/serverless-dynamodb-ttl",
+                "type": "github"
+            },
+            {
+                "title": "API stage",
+                "href": "https://github.com/leftclickben/serverless-api-stage",
+                "github": "leftclickben/serverless-api-stage",
+                "type": "github"
+            },
+            {
+                "title": "API Gateway auth",
+                "href": "https://github.com/frankleonrose/api-gateway-auth-plugin",
+                "github": "frankleonrose/api-gateway-auth-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Api Gateway auth",
+                "href": "https://github.com/nochtap/serverless-plugin-api-gateway-auth",
+                "github": "nochtap/serverless-plugin-api-gateway-auth",
+                "type": "github"
+            },
+            {
+                "title": "Export env",
+                "href": "https://github.com/arabold/serverless-export-env",
+                "github": "arabold/serverless-export-env",
+                "type": "github"
+            },
+            {
+                "title": "Split stacks",
+                "href": "https://github.com/dougmoscrop/serverless-plugin-split-stacks",
+                "github": "dougmoscrop/serverless-plugin-split-stacks",
+                "type": "github"
+            },
+            {
+                "title": "FaaS",
+                "href": "https://github.com/alexellis/serverless-faas",
+                "github": "alexellis/serverless-faas",
+                "type": "github"
+            },
+            {
+                "title": "Package Python functions",
+                "href": "https://github.com/ubaniabalogun/serverless-package-python-functions",
+                "github": "ubaniabalogun/serverless-package-python-functions",
+                "type": "github"
+            },
+            {
+                "title": "Swagger to Serverless",
+                "href": "https://github.com/poi5305/swagger-to-serverless",
+                "github": "poi5305/swagger-to-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Custom domain",
+                "href": "https://github.com/Icenium/serverless-custom-domain",
+                "github": "Icenium/serverless-custom-domain",
+                "type": "github"
+            },
+            {
+                "title": "Stack config",
+                "href": "https://github.com/rawphp/serverless-plugin-stack-config",
+                "github": "rawphp/serverless-plugin-stack-config",
+                "type": "github"
+            },
+            {
+                "title": "SAM",
+                "href": "https://github.com/SAPessi/serverless-sam",
+                "github": "SAPessi/serverless-sam",
+                "type": "github"
+            },
+            {
+                "title": "ElasticBeanstalk",
+                "href": "https://github.com/rawphp/serverless-plugin-elastic-beanstalk",
+                "github": "rawphp/serverless-plugin-elastic-beanstalk",
+                "type": "github"
+            },
+            {
+                "title": "VPC discovery",
+                "href": "https://github.com/amplify-education/serverless-vpc-discovery",
+                "github": "amplify-education/serverless-vpc-discovery",
+                "type": "github"
+            },
+            {
+                "title": "Kubeless",
+                "href": "https://github.com/ngtuna/serverless-kubeless",
+                "github": "ngtuna/serverless-kubeless",
+                "type": "github"
+            },
+            {
+                "title": "KMS secrets",
+                "href": "https://github.com/SC5/serverless-kms-secrets",
+                "github": "SC5/serverless-kms-secrets",
+                "type": "github"
+            },
+            {
+                "title": "Export endpoints",
+                "href": "https://github.com/ar90n/serverless-plugin-export-endpoints",
+                "github": "ar90n/serverless-plugin-export-endpoints",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Literature",
+        "childrens": [
+            {
+                "title": "Serverless book - By the Serverless team",
+                "href": "https://github.com/pmuens/serverless-book",
+                "github": "pmuens/serverless-book",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "Community repository",
+                "href": "https://github.com/serverless/serverless-community",
+                "github": "serverless/serverless-community",
+                "type": "github"
+            },
+            {
+                "title": "Community plugins",
+                "href": "https://github.com/serverless/community-plugins",
+                "github": "serverless/community-plugins",
+                "type": "github"
+            },
+            {
+                "title": "AWSM",
+                "href": "https://github.com/awsm-org/awsm",
+                "github": "awsm-org/awsm",
+                "type": "github"
+            },
+            {
+                "title": "Serverless starter",
+                "href": "https://github.com/serverless/serverless-starter",
+                "github": "serverless/serverless-starter",
+                "type": "github"
+            },
+            {
+                "title": "JAWS local server",
+                "href": "https://github.com/martinlindenberg/JawsLocalServer",
+                "github": "martinlindenberg/JawsLocalServer",
+                "type": "github"
+            },
+            {
+                "title": "Shark Notes",
+                "href": "https://github.com/JustServerless/shark-notes",
+                "github": "JustServerless/shark-notes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Projects (v0.5)",
+        "childrens": [
+            {
+                "title": "Demo with DynamoDB",
+                "href": "https://github.com/abalone0204/serverless-demo-with-dynamodb-node",
+                "github": "abalone0204/serverless-demo-with-dynamodb-node",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Plugins (v0.5)",
+        "childrens": [
+            {
+                "title": "Plugin boilerplate",
+                "href": "https://github.com/serverless/serverless-plugin-boilerplate",
+                "github": "serverless/serverless-plugin-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Serverless resources validation",
+                "href": "https://github.com/tmilewski/serverless-resources-validation-plugin",
+                "github": "tmilewski/serverless-resources-validation-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Alerting",
+                "href": "https://github.com/martinlindenberg/serverless-plugin-alerting",
+                "github": "martinlindenberg/serverless-plugin-alerting",
+                "type": "github"
+            },
+            {
+                "title": "Lambda prune",
+                "href": "https://github.com/Nopik/serverless-lambda-prune-plugin",
+                "github": "Nopik/serverless-lambda-prune-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Autoprune",
+                "href": "https://github.com/kennu/serverless-plugin-autoprune",
+                "github": "kennu/serverless-plugin-autoprune",
+                "type": "github"
+            },
+            {
+                "title": "Swagger",
+                "href": "https://github.com/marklawlor/serverless-swagger",
+                "github": "marklawlor/serverless-swagger",
+                "type": "github"
+            },
+            {
+                "title": "CORS",
+                "href": "https://github.com/joostfarla/serverless-cors-plugin",
+                "github": "joostfarla/serverless-cors-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Serve",
+                "href": "https://github.com/Nopik/serverless-serve",
+                "github": "Nopik/serverless-serve",
+                "type": "github"
+            },
+            {
+                "title": "Base path plugin",
+                "href": "https://github.com/daffinity/serverless-base-path-plugin",
+                "github": "daffinity/serverless-base-path-plugin",
+                "type": "github"
+            },
+            {
+                "title": "SNS",
+                "href": "https://github.com/martinlindenberg/serverless-plugin-sns",
+                "github": "martinlindenberg/serverless-plugin-sns",
+                "type": "github"
+            },
+            {
+                "title": "Cronjob",
+                "href": "https://github.com/martinlindenberg/serverless-plugin-cronjob",
+                "github": "martinlindenberg/serverless-plugin-cronjob",
+                "type": "github"
+            },
+            {
+                "title": "API Blueprint",
+                "href": "https://github.com/hiroara/serverless-api-blueprint",
+                "github": "hiroara/serverless-api-blueprint",
+                "type": "github"
+            },
+            {
+                "title": "VPC",
+                "href": "https://github.com/martinlindenberg/serverless-plugin-vpc",
+                "github": "martinlindenberg/serverless-plugin-vpc",
+                "type": "github"
+            },
+            {
+                "title": "Client S3",
+                "href": "https://github.com/serverless/serverless-client-s3",
+                "github": "serverless/serverless-client-s3",
+                "type": "github"
+            },
+            {
+                "title": "Offline",
+                "href": "https://github.com/dherault/serverless-offline",
+                "github": "dherault/serverless-offline",
+                "type": "github"
+            },
+            {
+                "title": "Serverless optimizer",
+                "href": "https://github.com/asprouse/serverless-optimizer-plugin",
+                "github": "asprouse/serverless-optimizer-plugin",
+                "type": "github"
+            },
+            {
+                "title": "JSHint",
+                "href": "https://github.com/joostfarla/serverless-jshint-plugin",
+                "github": "joostfarla/serverless-jshint-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Webpack",
+                "href": "https://github.com/asprouse/serverless-webpack-plugin",
+                "github": "asprouse/serverless-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Runtime Babel",
+                "href": "https://github.com/serverless/serverless-runtime-babel",
+                "github": "serverless/serverless-runtime-babel",
+                "type": "github"
+            },
+            {
+                "title": "Runtime Streamline",
+                "href": "https://github.com/marclar/serverless-runtime-streamline",
+                "github": "marclar/serverless-runtime-streamline",
+                "type": "github"
+            },
+            {
+                "title": "Meta Sync",
+                "href": "https://github.com/serverless/serverless-meta-sync",
+                "github": "serverless/serverless-meta-sync",
+                "type": "github"
+            },
+            {
+                "title": "GraphiQL",
+                "href": "https://github.com/marclar/serverless-graphiql",
+                "github": "marclar/serverless-graphiql",
+                "type": "github"
+            },
+            {
+                "title": "S3",
+                "href": "https://github.com/camhart/sls-s3",
+                "github": "camhart/sls-s3",
+                "type": "github"
+            },
+            {
+                "title": "Swagger",
+                "href": "https://github.com/serverless/serverless-swagger-plugin",
+                "github": "serverless/serverless-swagger-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Synchronous resource",
+                "href": "https://github.com/stelligent/serverless-synchronous-resource-plugin",
+                "github": "stelligent/serverless-synchronous-resource-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Models",
+                "href": "https://github.com/HyperBrain/serverless-models-plugin",
+                "github": "HyperBrain/serverless-models-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Mocha",
+                "href": "https://github.com/SC5/serverless-mocha-plugin",
+                "github": "SC5/serverless-mocha-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Package",
+                "href": "https://github.com/HyperBrain/serverless-package-plugin",
+                "github": "HyperBrain/serverless-package-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Sentry",
+                "href": "https://github.com/arabold/serverless-sentry-plugin",
+                "github": "arabold/serverless-sentry-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Autoprune",
+                "href": "https://github.com/arabold/serverless-autoprune-plugin",
+                "github": "arabold/serverless-autoprune-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Secrets",
+                "href": "https://github.com/trek10inc/serverless-secrets",
+                "github": "trek10inc/serverless-secrets",
+                "type": "github"
+            },
+            {
+                "title": "Vandium",
+                "href": "https://github.com/vandium-io/vandium-serverless",
+                "github": "vandium-io/vandium-serverless",
+                "type": "github"
+            },
+            {
+                "title": "Command line event args",
+                "href": "https://github.com/horike37/serverless-command-line-event-args",
+                "github": "horike37/serverless-command-line-event-args",
+                "type": "github"
+            },
+            {
+                "title": "Unit test boilerplate",
+                "href": "https://github.com/horike37/serverless-unittest-boilerplate",
+                "github": "horike37/serverless-unittest-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Dependency install",
+                "href": "https://github.com/99xt/serverless-dependency-install",
+                "github": "99xt/serverless-dependency-install",
+                "type": "github"
+            },
+            {
+                "title": "DynamoDB local",
+                "href": "https://github.com/99xt/serverless-dynamodb-local",
+                "github": "99xt/serverless-dynamodb-local",
+                "type": "github"
+            },
+            {
+                "title": "Cognito manager",
+                "href": "https://github.com/trek10inc/serverless-cognito-manager",
+                "github": "trek10inc/serverless-cognito-manager",
+                "type": "github"
+            },
+            {
+                "title": "Hook scripts",
+                "href": "https://github.com/kennu/serverless-plugin-hookscripts",
+                "github": "kennu/serverless-plugin-hookscripts",
+                "type": "github"
+            },
+            {
+                "title": "Header function",
+                "href": "https://github.com/blackevil245/serverless-header-function",
+                "github": "blackevil245/serverless-header-function",
+                "type": "github"
+            },
+            {
+                "title": "Runtime Node.js 6.10",
+                "href": "https://github.com/creditiq/serverless-runtime-node610",
+                "github": "creditiq/serverless-runtime-node610",
+                "type": "github"
+            },
+            {
+                "title": "Swagger export",
+                "href": "https://github.com/kennu/serverless-plugin-swagger-export",
+                "github": "kennu/serverless-plugin-swagger-export",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Modules",
+        "childrens": [
+            {
+                "title": "npm registry",
+                "href": "https://github.com/Inbot/awsm-npm-registry",
+                "github": "Inbot/awsm-npm-registry",
+                "type": "github"
+            },
+            {
+                "title": "Users",
+                "href": "https://github.com/dekz/awsm-users",
+                "github": "dekz/awsm-users",
+                "type": "github"
+            },
+            {
+                "title": "Test AWS users library",
+                "href": "https://github.com/oren/test-awsm-users",
+                "github": "oren/test-awsm-users",
+                "type": "github"
+            },
+            {
+                "title": "Stripe webhook",
+                "href": "https://github.com/eahefnawy/serverless-stripe-webhook",
+                "github": "eahefnawy/serverless-stripe-webhook",
+                "type": "github"
+            },
+            {
+                "title": "Slack webhook",
+                "href": "https://github.com/eahefnawy/serverless-slack-webhook",
+                "github": "eahefnawy/serverless-slack-webhook",
+                "type": "github"
+            },
+            {
+                "title": "Slack",
+                "href": "https://github.com/serverless/serverless-slack",
+                "github": "serverless/serverless-slack",
+                "type": "github"
+            },
+            {
+                "title": "Examples",
+                "href": "https://github.com/remicastaing/serverless-examples",
+                "github": "remicastaing/serverless-examples",
+                "type": "github"
+            },
+            {
+                "title": "Slackbot",
+                "href": "https://github.com/serverless/serverless-slackbot",
+                "github": "serverless/serverless-slackbot",
+                "type": "github"
+            },
+            {
+                "title": "Images",
+                "href": "https://github.com/awsm-org/awsm-images",
+                "github": "awsm-org/awsm-images",
+                "type": "github"
+            },
+            {
+                "title": "Cloudfront",
+                "href": "https://github.com/boushley/awsm-cloudfront",
+                "github": "boushley/awsm-cloudfront",
+                "type": "github"
+            },
+            {
+                "title": "S3 token vendor",
+                "href": "https://github.com/binoculars/awsm-s3tokenvendor",
+                "github": "binoculars/awsm-s3tokenvendor",
+                "type": "github"
+            },
+            {
+                "title": "Loggly",
+                "href": "https://github.com/jwulf/awsm-loggly",
+                "github": "jwulf/awsm-loggly",
+                "type": "github"
+            },
+            {
+                "title": "Middleware",
+                "href": "https://github.com/jwulf/awsm-middleware",
+                "github": "jwulf/awsm-middleware",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Webhook",
+                "href": "https://github.com/bisque33/awsm-github-webhook",
+                "github": "bisque33/awsm-github-webhook",
+                "type": "github"
+            },
+            {
+                "title": "Comments",
+                "href": "https://github.com/donleyp/awsm-comments",
+                "github": "donleyp/awsm-comments",
+                "type": "github"
+            },
+            {
+                "title": "3scale",
+                "href": "https://github.com/jerzyn/awsm-3scale",
+                "github": "jerzyn/awsm-3scale",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Literature",
+        "childrens": [
+            {
+                "title": "Learn Serverless - By Philipp Müns",
+                "href": "https://github.com/JustServerless/learnserverless-book",
+                "github": "JustServerless/learnserverless-book",
+                "type": "github"
+            }
+        ]
+    }
+]

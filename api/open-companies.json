@@ -1,0 +1,13 @@
+[
+    {
+        "heading": "Similar lists",
+        "childrens": [
+            {
+                "title": "Awesome Open",
+                "href": "https://github.com/paulhendricks/awesome-open",
+                "github": "paulhendricks/awesome-open",
+                "type": "github"
+            }
+        ]
+    }
+]

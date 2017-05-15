@@ -1,0 +1,239 @@
+[
+    {
+        "heading": "General Purpose Computer Vision Library",
+        "childrens": [
+            {
+                "title": "Open source Python module for computer vision",
+                "href": "https://github.com/jesolem/PCV",
+                "github": "jesolem/PCV",
+                "type": "github"
+            },
+            {
+                "title": "ccv: A Modern Computer Vision Library",
+                "href": "https://github.com/liuliu/ccv",
+                "github": "liuliu/ccv",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Multiple-view Computer Vision",
+        "childrens": [
+            {
+                "title": "Awesome 3D reconstruction list",
+                "href": "https://github.com/openMVG/awesome_3DReconstruction_list",
+                "github": "openMVG/awesome_3DReconstruction_list",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Feature Detection and Extraction",
+        "childrens": [
+            {
+                "title": "Local Binary Patterns",
+                "href": "https://github.com/nourani/LBP",
+                "github": "nourani/LBP",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "High Dynamic Range Imaging",
+        "childrens": [
+            {
+                "title": "HDR_Toolbox",
+                "href": "https://github.com/banterle/HDR_Toolbox",
+                "github": "banterle/HDR_Toolbox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Contour Detection and Image Segmentation",
+        "childrens": [
+            {
+                "title": "SEEDS Revised",
+                "href": "https://github.com/davidstutz/seeds-revised",
+                "github": "davidstutz/seeds-revised",
+                "type": "github"
+            },
+            {
+                "title": "Fast Edge Detection Using Structured Forests",
+                "href": "https://github.com/pdollar/edges",
+                "github": "pdollar/edges",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tracking/Odometry:",
+        "childrens": [
+            {
+                "title": "KFusion: Implementation of KinectFusion",
+                "href": "https://github.com/GerhardR/kfusion",
+                "github": "GerhardR/kfusion",
+                "type": "github"
+            },
+            {
+                "title": "kinfu_remake: Lightweight, reworked and optimized version of Kinfu.",
+                "href": "https://github.com/Nerei/kinfu_remake",
+                "github": "Nerei/kinfu_remake",
+                "type": "github"
+            },
+            {
+                "title": "VoxelHashing: Large-scale KinectFusion",
+                "href": "https://github.com/nachtmar/VoxelHashing",
+                "github": "nachtmar/VoxelHashing",
+                "type": "github"
+            },
+            {
+                "title": "SVO: Semi-direct visual odometry",
+                "href": "https://github.com/uzh-rpg/rpg_svo",
+                "github": "uzh-rpg/rpg_svo",
+                "type": "github"
+            },
+            {
+                "title": "DVO: dense visual odometry",
+                "href": "https://github.com/tum-vision/dvo_slam",
+                "github": "tum-vision/dvo_slam",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graph Optimization:",
+        "childrens": [
+            {
+                "title": "G2O: General framework for graph optomization",
+                "href": "https://github.com/RainerKuemmerle/g2o",
+                "github": "RainerKuemmerle/g2o",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Localization & Mapping:",
+        "childrens": [
+            {
+                "title": "LSD-SLAM",
+                "href": "https://github.com/tum-vision/lsd_slam",
+                "github": "tum-vision/lsd_slam",
+                "type": "github"
+            },
+            {
+                "title": "ORB-SLAM",
+                "href": "https://github.com/raulmur/ORB_SLAM",
+                "github": "raulmur/ORB_SLAM",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Single-view Spatial Understanding",
+        "childrens": [
+            {
+                "title": "RGBD2Full3D",
+                "href": "https://github.com/arron2003/rgbd2full3d",
+                "github": "arron2003/rgbd2full3d",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Object Detection",
+        "childrens": [
+            {
+                "title": "VOC-DPM",
+                "href": "https://github.com/rbgirshick/voc-dpm",
+                "github": "rbgirshick/voc-dpm",
+                "type": "github"
+            },
+            {
+                "title": "R-CNN: Regions with Convolutional Neural Network Features",
+                "href": "https://github.com/rbgirshick/rcnn",
+                "github": "rbgirshick/rcnn",
+                "type": "github"
+            },
+            {
+                "title": "SPP-Net",
+                "href": "https://github.com/ShaoqingRen/SPP_net",
+                "github": "ShaoqingRen/SPP_net",
+                "type": "github"
+            },
+            {
+                "title": "Edge Boxes",
+                "href": "https://github.com/pdollar/edges",
+                "github": "pdollar/edges",
+                "type": "github"
+            },
+            {
+                "title": "ReInspect",
+                "href": "https://github.com/Russell91/ReInspect",
+                "github": "Russell91/ReInspect",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Nearest Neighbor Field Estimation",
+        "childrens": [
+            {
+                "title": "PMBP: PatchMatch Belief Propagation",
+                "href": "https://github.com/fbesse/pmbp",
+                "github": "fbesse/pmbp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image Captioning",
+        "childrens": [
+            {
+                "title": "NeuralTalk",
+                "href": "https://github.com/karpathy/neuraltalk",
+                "github": "karpathy/neuraltalk",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deep Learning",
+        "childrens": [
+            {
+                "title": "Awesome Deep Vision",
+                "href": "https://github.com/kjw0612/awesome-deep-vision",
+                "github": "kjw0612/awesome-deep-vision",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "Awesome Machine Learning",
+                "href": "https://github.com/josephmisiti/awesome-machine-learning",
+                "github": "josephmisiti/awesome-machine-learning",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Links",
+        "childrens": [
+            {
+                "title": "awesome-deep-learning",
+                "href": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+                "github": "ChristosChristofidis/awesome-deep-learning",
+                "type": "github"
+            },
+            {
+                "title": "awesome-machine-learning",
+                "href": "https://github.com/josephmisiti/awesome-machine-learning",
+                "github": "josephmisiti/awesome-machine-learning",
+                "type": "github"
+            }
+        ]
+    }
+]

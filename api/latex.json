@@ -1,0 +1,57 @@
+[
+    {
+        "heading": "Misc. Tools",
+        "childrens": [
+            {
+                "title": "CaTeX",
+                "href": "https://github.com/Alexis-benoist/CaTeX",
+                "github": "Alexis-benoist/CaTeX",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "LaTeX-compatible GUI tools",
+        "childrens": [
+            {
+                "title": "TikZ-Editor",
+                "href": "https://github.com/fredokun/TikZ-Editor",
+                "github": "fredokun/TikZ-Editor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TikZ",
+        "childrens": [
+            {
+                "title": "PetarV-/TikZ",
+                "href": "https://github.com/PetarV-/TikZ",
+                "github": "PetarV-/TikZ",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Templates",
+        "childrens": [
+            {
+                "title": "Ultimate Beamer Theme List",
+                "href": "https://github.com/martinbjeldbak/ultimate-beamer-theme-list",
+                "github": "martinbjeldbak/ultimate-beamer-theme-list",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "MartinThoma's LaTeX example",
+                "href": "https://github.com/MartinThoma/LaTeX-examples/",
+                "github": "MartinThoma/LaTeX-examples/",
+                "type": "github"
+            }
+        ]
+    }
+]

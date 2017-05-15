@@ -1,0 +1,42 @@
+[
+    {
+        "heading": "KiCAD",
+        "childrens": [
+            {
+                "title": "Xesscorp's list of KiCAD 3rd part tools",
+                "href": "https://github.com/xesscorp/kicad-3rd-party-tools",
+                "github": "xesscorp/kicad-3rd-party-tools",
+                "type": "github"
+            },
+            {
+                "title": "Keyboard PCB Guide",
+                "href": "https://github.com/ruiqimao/keyboard-pcb-guide",
+                "github": "ruiqimao/keyboard-pcb-guide",
+                "type": "github"
+            },
+            {
+                "title": "Footprint Collection",
+                "href": "https://github.com/monostable/kicad_footprints",
+                "github": "monostable/kicad_footprints",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Eagle",
+        "childrens": [
+            {
+                "title": "Adafruit Eagle Library",
+                "href": "https://github.com/adafruit/Adafruit-Eagle-Library",
+                "github": "adafruit/Adafruit-Eagle-Library",
+                "type": "github"
+            },
+            {
+                "title": "SparkFun Electronics Eagle Libraries",
+                "href": "https://github.com/sparkfun/SparkFun-Eagle-Libraries",
+                "github": "sparkfun/SparkFun-Eagle-Libraries",
+                "type": "github"
+            }
+        ]
+    }
+]

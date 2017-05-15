@@ -1,0 +1,2865 @@
+[
+    {
+        "heading": "Algorithms and Data structures",
+        "childrens": [
+            {
+                "title": "Algorithmia",
+                "href": "https://github.com/SolutionsDesign/Algorithmia",
+                "github": "SolutionsDesign/Algorithmia",
+                "type": "github"
+            },
+            {
+                "title": "C# Algorithms",
+                "href": "https://github.com/aalhour/C-Sharp-Algorithms",
+                "github": "aalhour/C-Sharp-Algorithms",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API",
+        "childrens": [
+            {
+                "title": "NancyFx",
+                "href": "https://github.com/NancyFx/Nancy",
+                "github": "NancyFx/Nancy",
+                "type": "github"
+            },
+            {
+                "title": "Mobius: C# API for Spark",
+                "href": "https://github.com/Microsoft/Mobius",
+                "github": "Microsoft/Mobius",
+                "type": "github"
+            },
+            {
+                "title": "ServiceStack",
+                "href": "https://github.com/ServiceStack/ServiceStack",
+                "github": "ServiceStack/ServiceStack",
+                "type": "github"
+            },
+            {
+                "title": "Nelibur",
+                "href": "https://github.com/Nelibur/Nelibur",
+                "github": "Nelibur/Nelibur",
+                "type": "github"
+            },
+            {
+                "title": "WebAPI Contrib",
+                "href": "https://github.com/WebApiContrib/WebAPIContrib",
+                "github": "WebApiContrib/WebAPIContrib",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Application Frameworks",
+        "childrens": [
+            {
+                "title": "ASP.NET Boilerplate",
+                "href": "https://github.com/aspnetboilerplate/aspnetboilerplate",
+                "github": "aspnetboilerplate/aspnetboilerplate",
+                "type": "github"
+            },
+            {
+                "title": "ASP.NET MVC Boilerplate Framework",
+                "href": "https://github.com/ASP-NET-MVC-Boilerplate/Framework",
+                "github": "ASP-NET-MVC-Boilerplate/Framework",
+                "type": "github"
+            },
+            {
+                "title": "Orleans",
+                "href": "https://github.com/dotnet/orleans",
+                "github": "dotnet/orleans",
+                "type": "github"
+            },
+            {
+                "title": "CoreFX",
+                "href": "https://github.com/dotnet/corefx",
+                "github": "dotnet/corefx",
+                "type": "github"
+            },
+            {
+                "title": "CSLA .NET",
+                "href": "https://github.com/MarimerLLC/csla",
+                "github": "MarimerLLC/csla",
+                "type": "github"
+            },
+            {
+                "title": "Mono",
+                "href": "https://github.com/mono/mono",
+                "github": "mono/mono",
+                "type": "github"
+            },
+            {
+                "title": "Mono-Addins",
+                "href": "https://github.com/mono/mono-addins",
+                "github": "mono/mono-addins",
+                "type": "github"
+            },
+            {
+                "title": "peasy",
+                "href": "https://github.com/peasy/Peasy.NET",
+                "github": "peasy/Peasy.NET",
+                "type": "github"
+            },
+            {
+                "title": "Spring.Net",
+                "href": "https://github.com/spring-projects/spring-net",
+                "github": "spring-projects/spring-net",
+                "type": "github"
+            },
+            {
+                "title": "DotNetty",
+                "href": "https://github.com/Azure/DotNetty",
+                "github": "Azure/DotNetty",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Application Templates",
+        "childrens": [
+            {
+                "title": "ASP.NET Core Starter Kit",
+                "href": "https://github.com/kriasoft/aspnet-starter-kit",
+                "github": "kriasoft/aspnet-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "ASP.NET MVC Boilerplate",
+                "href": "https://github.com/ASP-NET-MVC-Boilerplate/Templates",
+                "github": "ASP-NET-MVC-Boilerplate/Templates",
+                "type": "github"
+            },
+            {
+                "title": "MVC.Template",
+                "href": "https://github.com/NonFactors/MVC6.Template",
+                "github": "NonFactors/MVC6.Template",
+                "type": "github"
+            },
+            {
+                "title": "ProjectScaffold",
+                "href": "https://github.com/fsprojects/ProjectScaffold",
+                "github": "fsprojects/ProjectScaffold",
+                "type": "github"
+            },
+            {
+                "title": "Serene",
+                "href": "https://github.com/volkanceylan/Serenity",
+                "github": "volkanceylan/Serenity",
+                "type": "github"
+            },
+            {
+                "title": "Side-Waffle",
+                "href": "https://github.com/LigerShark/side-waffle",
+                "github": "LigerShark/side-waffle",
+                "type": "github"
+            },
+            {
+                "title": "Template10",
+                "href": "https://github.com/Windows-XAML/Template10",
+                "github": "Windows-XAML/Template10",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Assembly Manipulation",
+        "childrens": [
+            {
+                "title": "Fody",
+                "href": "https://github.com/Fody/Fody",
+                "github": "Fody/Fody",
+                "type": "github"
+            },
+            {
+                "title": "Mono.Cecil",
+                "href": "https://github.com/jbevain/cecil",
+                "github": "jbevain/cecil",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Assets",
+        "childrens": [
+            {
+                "title": "Cassette",
+                "href": "https://github.com/andrewdavey/cassette",
+                "github": "andrewdavey/cassette",
+                "type": "github"
+            },
+            {
+                "title": "NodeAssets",
+                "href": "https://github.com/ajorkowski/NodeAssets",
+                "github": "ajorkowski/NodeAssets",
+                "type": "github"
+            },
+            {
+                "title": "Bundler",
+                "href": "https://github.com/ServiceStack/Bundler",
+                "github": "ServiceStack/Bundler",
+                "type": "github"
+            },
+            {
+                "title": "SquishIt",
+                "href": "https://github.com/jetheredge/SquishIt",
+                "github": "jetheredge/SquishIt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication and Authorization",
+        "childrens": [
+            {
+                "title": "DotNetOpenAuth",
+                "href": "https://github.com/DotNetOpenAuth/DotNetOpenAuth",
+                "github": "DotNetOpenAuth/DotNetOpenAuth",
+                "type": "github"
+            },
+            {
+                "title": "Logibit Hawk",
+                "href": "https://github.com/logibit/logibit.hawk/",
+                "github": "logibit/logibit.hawk/",
+                "type": "github"
+            },
+            {
+                "title": "IdentityModel",
+                "href": "https://github.com/IdentityModel",
+                "github": "IdentityModel",
+                "type": "github"
+            },
+            {
+                "title": "IdentityServer",
+                "href": "https://github.com/IdentityServer",
+                "github": "IdentityServer",
+                "type": "github"
+            },
+            {
+                "title": "OAuth",
+                "href": "https://github.com/danielcrenna/vault/tree/master/oauth",
+                "github": "danielcrenna/vault/tree/master/oauth",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build Automation",
+        "childrens": [
+            {
+                "title": "Psake",
+                "href": "https://github.com/psake/psake",
+                "github": "psake/psake",
+                "type": "github"
+            },
+            {
+                "title": "FAKE",
+                "href": "https://github.com/fsharp/FAKE",
+                "github": "fsharp/FAKE",
+                "type": "github"
+            },
+            {
+                "title": "Invoke-Build",
+                "href": "https://github.com/nightroman/Invoke-Build",
+                "github": "nightroman/Invoke-Build",
+                "type": "github"
+            },
+            {
+                "title": "MSBuild",
+                "href": "https://github.com/Microsoft/msbuild",
+                "github": "Microsoft/msbuild",
+                "type": "github"
+            },
+            {
+                "title": "Cake",
+                "href": "https://github.com/cake-build/cake",
+                "github": "cake-build/cake",
+                "type": "github"
+            },
+            {
+                "title": "Nake",
+                "href": "https://github.com/yevhen/Nake",
+                "github": "yevhen/Nake",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "CacheCow",
+                "href": "https://github.com/aliostad/CacheCow",
+                "github": "aliostad/CacheCow",
+                "type": "github"
+            },
+            {
+                "title": "Akavache",
+                "href": "https://github.com/akavache/Akavache",
+                "github": "akavache/Akavache",
+                "type": "github"
+            },
+            {
+                "title": "CacheManager",
+                "href": "https://github.com/MichaCo/CacheManager",
+                "github": "MichaCo/CacheManager",
+                "type": "github"
+            },
+            {
+                "title": "Foundatio",
+                "href": "https://github.com/exceptionless/Foundatio#caching",
+                "github": "exceptionless/Foundatio#caching",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CLI",
+        "childrens": [
+            {
+                "title": "Command Line Parser",
+                "href": "https://github.com/gsscoder/commandline",
+                "github": "gsscoder/commandline",
+                "type": "github"
+            },
+            {
+                "title": "Fluent Command Line Parser",
+                "href": "https://github.com/fclp/fluent-command-line-parser",
+                "github": "fclp/fluent-command-line-parser",
+                "type": "github"
+            },
+            {
+                "title": "Power Args",
+                "href": "https://github.com/adamabdelhamed/PowerArgs",
+                "github": "adamabdelhamed/PowerArgs",
+                "type": "github"
+            },
+            {
+                "title": "Argu",
+                "href": "https://github.com/fsprojects/Argu",
+                "github": "fsprojects/Argu",
+                "type": "github"
+            },
+            {
+                "title": "Colorful.Console",
+                "href": "https://github.com/tomakita/Colorful.Console",
+                "github": "tomakita/Colorful.Console",
+                "type": "github"
+            },
+            {
+                "title": "EntryPoint",
+                "href": "https://github.com/Nick-Lucas/EntryPoint",
+                "github": "Nick-Lucas/EntryPoint",
+                "type": "github"
+            },
+            {
+                "title": "clipr",
+                "href": "https://github.com/nemec/clipr",
+                "github": "nemec/clipr",
+                "type": "github"
+            },
+            {
+                "title": "ReadLine",
+                "href": "https://github.com/tsolarin/readline",
+                "github": "tsolarin/readline",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CLR",
+        "childrens": [
+            {
+                "title": "CoreCLR",
+                "href": "https://github.com/dotnet/coreclr",
+                "github": "dotnet/coreclr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CMS",
+        "childrens": [
+            {
+                "title": "Composite C1",
+                "href": "https://github.com/Orckestra/C1-CMS-Foundation",
+                "github": "Orckestra/C1-CMS-Foundation",
+                "type": "github"
+            },
+            {
+                "title": "N2CMS",
+                "href": "https://github.com/n2cms/n2cms",
+                "github": "n2cms/n2cms",
+                "type": "github"
+            },
+            {
+                "title": "Orchard ",
+                "href": "https://github.com/OrchardCMS/Orchard",
+                "github": "OrchardCMS/Orchard",
+                "type": "github"
+            },
+            {
+                "title": "Piranha CMS",
+                "href": "https://github.com/PiranhaCMS/Piranha",
+                "github": "PiranhaCMS/Piranha",
+                "type": "github"
+            },
+            {
+                "title": "Umbraco",
+                "href": "https://github.com/umbraco/Umbraco-CMS",
+                "github": "umbraco/Umbraco-CMS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Analysis and Metrics",
+        "childrens": [
+            {
+                "title": ".NET Compiler Platform (\"Roslyn\") Analyzers",
+                "href": "https://github.com/dotnet/roslyn-analyzers",
+                "github": "dotnet/roslyn-analyzers",
+                "type": "github"
+            },
+            {
+                "title": "App.Metrics",
+                "href": "https://github.com/alhardy/AppMetrics",
+                "github": "alhardy/AppMetrics",
+                "type": "github"
+            },
+            {
+                "title": "Gendarme",
+                "href": "https://github.com/spouliot/gendarme",
+                "github": "spouliot/gendarme",
+                "type": "github"
+            },
+            {
+                "title": "Metrics-Net",
+                "href": "https://github.com/Recognos/Metrics.NET",
+                "github": "Recognos/Metrics.NET",
+                "type": "github"
+            },
+            {
+                "title": "AspNet.Metrics",
+                "href": "https://github.com/alhardy/aspnet-metrics",
+                "github": "alhardy/aspnet-metrics",
+                "type": "github"
+            },
+            {
+                "title": "BenchmarkDotNet",
+                "href": "https://github.com/dotnet/BenchmarkDotNet",
+                "github": "dotnet/BenchmarkDotNet",
+                "type": "github"
+            },
+            {
+                "title": "NsDepCop",
+                "href": "https://github.com/realvizu/NsDepCop",
+                "github": "realvizu/NsDepCop",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compilers, Transpilers and Languages",
+        "childrens": [
+            {
+                "title": "Bridge.NET",
+                "href": "https://github.com/bridgedotnet/Bridge",
+                "github": "bridgedotnet/Bridge",
+                "type": "github"
+            },
+            {
+                "title": "ClojureCLR",
+                "href": "https://github.com/clojure/clojure-clr",
+                "github": "clojure/clojure-clr",
+                "type": "github"
+            },
+            {
+                "title": "F#",
+                "href": "https://github.com/fsharp/fsharp/",
+                "github": "fsharp/fsharp/",
+                "type": "github"
+            },
+            {
+                "title": "IronScheme",
+                "href": "https://github.com/leppie/IronScheme",
+                "github": "leppie/IronScheme",
+                "type": "github"
+            },
+            {
+                "title": "JSIL",
+                "href": "https://github.com/sq/JSIL",
+                "github": "sq/JSIL",
+                "type": "github"
+            },
+            {
+                "title": "Mono-basic",
+                "href": "https://github.com/mono/mono-basic",
+                "github": "mono/mono-basic",
+                "type": "github"
+            },
+            {
+                "title": "Nemerle",
+                "href": "https://github.com/rsdn/nemerle",
+                "github": "rsdn/nemerle",
+                "type": "github"
+            },
+            {
+                "title": "Netjs",
+                "href": "https://github.com/praeclarum/Netjs",
+                "github": "praeclarum/Netjs",
+                "type": "github"
+            },
+            {
+                "title": "P",
+                "href": "https://github.com/p-org/P",
+                "github": "p-org/P",
+                "type": "github"
+            },
+            {
+                "title": "Roslyn",
+                "href": "https://github.com/dotnet/roslyn",
+                "github": "dotnet/roslyn",
+                "type": "github"
+            },
+            {
+                "title": "Testura.Code",
+                "href": "https://github.com/Testura/Testura.Code",
+                "github": "Testura/Testura.Code",
+                "type": "github"
+            },
+            {
+                "title": "VisualFSharp",
+                "href": "https://github.com/Microsoft/visualfsharp",
+                "github": "Microsoft/visualfsharp",
+                "type": "github"
+            },
+            {
+                "title": "Fable",
+                "href": "https://github.com/fable-compiler/Fable",
+                "github": "fable-compiler/Fable",
+                "type": "github"
+            },
+            {
+                "title": "LinqOptimizer",
+                "href": "https://github.com/nessos/LinqOptimizer",
+                "github": "nessos/LinqOptimizer",
+                "type": "github"
+            },
+            {
+                "title": "Roslyn-linq-rewrite",
+                "href": "https://github.com/antiufo/roslyn-linq-rewrite",
+                "github": "antiufo/roslyn-linq-rewrite",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compression",
+        "childrens": [
+            {
+                "title": "SharpCompress",
+                "href": "https://github.com/adamhathcock/sharpcompress",
+                "github": "adamhathcock/sharpcompress",
+                "type": "github"
+            },
+            {
+                "title": "DotNetZip.Semverd",
+                "href": "https://github.com/haf/DotNetZip.Semverd",
+                "github": "haf/DotNetZip.Semverd",
+                "type": "github"
+            },
+            {
+                "title": "Snappy.Sharp",
+                "href": "https://github.com/jeffesp/Snappy.Sharp",
+                "github": "jeffesp/Snappy.Sharp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cryptography",
+        "childrens": [
+            {
+                "title": "libsodium-net",
+                "href": "https://github.com/adamcaudill/libsodium-net",
+                "github": "adamcaudill/libsodium-net",
+                "type": "github"
+            },
+            {
+                "title": "Pkcs11Interop",
+                "href": "https://github.com/Pkcs11Interop/Pkcs11Interop",
+                "github": "Pkcs11Interop/Pkcs11Interop",
+                "type": "github"
+            },
+            {
+                "title": "StreamCryptor",
+                "href": "https://github.com/bitbeans/StreamCryptor",
+                "github": "bitbeans/StreamCryptor",
+                "type": "github"
+            },
+            {
+                "title": "SecurityDriven.Inferno",
+                "href": "https://github.com/sdrapkin/SecurityDriven.Inferno",
+                "github": "sdrapkin/SecurityDriven.Inferno",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "BrightstarDb",
+                "href": "https://github.com/BrightstarDB/BrightstarDB",
+                "github": "BrightstarDB/BrightstarDB",
+                "type": "github"
+            },
+            {
+                "title": "Event Store",
+                "href": "https://github.com/EventStore/EventStore",
+                "github": "EventStore/EventStore",
+                "type": "github"
+            },
+            {
+                "title": "LiteDB",
+                "href": "https://github.com/mbdavid/LiteDB",
+                "github": "mbdavid/LiteDB",
+                "type": "github"
+            },
+            {
+                "title": "RavenDB",
+                "href": "https://github.com/ravendb/ravendb",
+                "github": "ravendb/ravendb",
+                "type": "github"
+            },
+            {
+                "title": "Marten",
+                "href": "https://github.com/JasperFx/marten",
+                "github": "JasperFx/marten",
+                "type": "github"
+            },
+            {
+                "title": "Realm Xamarin",
+                "href": "https://github.com/realm/realm-dotnet",
+                "github": "realm/realm-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "Streamstone",
+                "href": "https://github.com/yevhen/Streamstone",
+                "github": "yevhen/Streamstone",
+                "type": "github"
+            },
+            {
+                "title": "Ignite",
+                "href": "https://github.com/apache/ignite",
+                "github": "apache/ignite",
+                "type": "github"
+            },
+            {
+                "title": "Yessql",
+                "href": "https://github.com/sebastienros/yessql",
+                "github": "sebastienros/yessql",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database Drivers",
+        "childrens": [
+            {
+                "title": "Npgsql",
+                "href": "https://github.com/npgsql/Npgsql",
+                "github": "npgsql/Npgsql",
+                "type": "github"
+            },
+            {
+                "title": "MongoDB",
+                "href": "https://github.com/mongodb/mongo-csharp-driver",
+                "github": "mongodb/mongo-csharp-driver",
+                "type": "github"
+            },
+            {
+                "title": "RethinkDb.Driver",
+                "href": "https://github.com/bchavez/RethinkDb.Driver/",
+                "github": "bchavez/RethinkDb.Driver/",
+                "type": "github"
+            },
+            {
+                "title": "ServiceStack Redis",
+                "href": "https://github.com/ServiceStack/ServiceStack.Redis",
+                "github": "ServiceStack/ServiceStack.Redis",
+                "type": "github"
+            },
+            {
+                "title": "StackExchange Redis",
+                "href": "https://github.com/StackExchange/StackExchange.Redis",
+                "github": "StackExchange/StackExchange.Redis",
+                "type": "github"
+            },
+            {
+                "title": "Cassandra",
+                "href": "https://github.com/datastax/csharp-driver",
+                "github": "datastax/csharp-driver",
+                "type": "github"
+            },
+            {
+                "title": "Couchbase",
+                "href": "https://github.com/couchbase/couchbase-net-client",
+                "github": "couchbase/couchbase-net-client",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Datetime",
+        "childrens": [
+            {
+                "title": "NodaTime",
+                "href": "https://github.com/nodatime/nodatime",
+                "github": "nodatime/nodatime",
+                "type": "github"
+            },
+            {
+                "title": "DateTimeExtensions",
+                "href": "https://github.com/joaomatossilva/DateTimeExtensions",
+                "github": "joaomatossilva/DateTimeExtensions",
+                "type": "github"
+            },
+            {
+                "title": "Exceptionless.DateTimeExtensions",
+                "href": "https://github.com/exceptionless/Exceptionless.DateTimeExtensions",
+                "github": "exceptionless/Exceptionless.DateTimeExtensions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Decompilation",
+        "childrens": [
+            {
+                "title": "dnSpy",
+                "href": "https://github.com/0xd4d/dnSpy",
+                "github": "0xd4d/dnSpy",
+                "type": "github"
+            },
+            {
+                "title": "JustDecompile Engine",
+                "href": "https://github.com/telerik/JustDecompileEngine",
+                "github": "telerik/JustDecompileEngine",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deployment",
+        "childrens": [
+            {
+                "title": "Unfold",
+                "href": "https://github.com/thomasvm/unfold",
+                "github": "thomasvm/unfold",
+                "type": "github"
+            },
+            {
+                "title": "DbUp",
+                "href": "https://github.com/DbUp/DbUp",
+                "github": "DbUp/DbUp",
+                "type": "github"
+            },
+            {
+                "title": "Octo Pack",
+                "href": "https://github.com/OctopusDeploy/OctoPack",
+                "github": "OctopusDeploy/OctoPack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DirectX",
+        "childrens": [
+            {
+                "title": "SharpDX",
+                "href": "https://github.com/sharpdx/SharpDX",
+                "github": "sharpdx/SharpDX",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distributed Computing",
+        "childrens": [
+            {
+                "title": "Orleans",
+                "href": "https://github.com/dotnet/orleans",
+                "github": "dotnet/orleans",
+                "type": "github"
+            },
+            {
+                "title": "Orleankka",
+                "href": "https://github.com/OrleansContrib/Orleankka",
+                "github": "OrleansContrib/Orleankka",
+                "type": "github"
+            },
+            {
+                "title": "Akka.net",
+                "href": "https://github.com/akkadotnet/akka.net",
+                "github": "akkadotnet/akka.net",
+                "type": "github"
+            },
+            {
+                "title": "Zebus",
+                "href": "https://github.com/Abc-Arbitrage/Zebus",
+                "github": "Abc-Arbitrage/Zebus",
+                "type": "github"
+            },
+            {
+                "title": "FsShelter",
+                "href": "https://github.com/Prolucid/FsShelter",
+                "github": "Prolucid/FsShelter",
+                "type": "github"
+            },
+            {
+                "title": "Foundatio",
+                "href": "https://github.com/exceptionless/Foundatio",
+                "github": "exceptionless/Foundatio",
+                "type": "github"
+            },
+            {
+                "title": "MBrace",
+                "href": "https://github.com/mbraceproject",
+                "github": "mbraceproject",
+                "type": "github"
+            },
+            {
+                "title": "protoactor-dotnet",
+                "href": "https://github.com/AsynkronIT/protoactor-dotnet",
+                "github": "AsynkronIT/protoactor-dotnet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DLR",
+        "childrens": [
+            {
+                "title": "cmd",
+                "href": "https://github.com/manojlds/cmd",
+                "github": "manojlds/cmd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "Sandcastle",
+                "href": "https://github.com/EWSoftware/SHFB",
+                "github": "EWSoftware/SHFB",
+                "type": "github"
+            },
+            {
+                "title": "SharpDox",
+                "href": "https://github.com/Geaz/sharpDox",
+                "github": "Geaz/sharpDox",
+                "type": "github"
+            },
+            {
+                "title": "SourceBrowser",
+                "href": "https://github.com/KirillOsenkov/SourceBrowser",
+                "github": "KirillOsenkov/SourceBrowser",
+                "type": "github"
+            },
+            {
+                "title": "Swashbuckle",
+                "href": "https://github.com/domaindrivendev/Swashbuckle",
+                "github": "domaindrivendev/Swashbuckle",
+                "type": "github"
+            },
+            {
+                "title": "DocFX",
+                "href": "https://github.com/dotnet/docfx",
+                "github": "dotnet/docfx",
+                "type": "github"
+            },
+            {
+                "title": "DocNet",
+                "href": "https://github.com/FransBouma/DocNet",
+                "github": "FransBouma/DocNet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "E-Commerce and Payments",
+        "childrens": [
+            {
+                "title": "Paypal Merchant SDK",
+                "href": "https://github.com/paypal/merchant-sdk-dotnet",
+                "github": "paypal/merchant-sdk-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "NopCommerce",
+                "href": "https://github.com/nopSolutions/nopCommerce",
+                "github": "nopSolutions/nopCommerce",
+                "type": "github"
+            },
+            {
+                "title": "ServiceStack.Stripe",
+                "href": "https://github.com/ServiceStack/Stripe",
+                "github": "ServiceStack/Stripe",
+                "type": "github"
+            },
+            {
+                "title": "SmartStoreNET",
+                "href": "https://github.com/smartstoreag/SmartStoreNET",
+                "github": "smartstoreag/SmartStoreNET",
+                "type": "github"
+            },
+            {
+                "title": "Stripe.Net",
+                "href": "https://github.com/jaymedavis/stripe.net",
+                "github": "jaymedavis/stripe.net",
+                "type": "github"
+            },
+            {
+                "title": "BeYourMarket",
+                "href": "https://github.com/beyourmarket/beyourmarket",
+                "github": "beyourmarket/beyourmarket",
+                "type": "github"
+            },
+            {
+                "title": "Virto Commerce",
+                "href": "https://github.com/VirtoCommerce/vc-platform",
+                "github": "VirtoCommerce/vc-platform",
+                "type": "github"
+            },
+            {
+                "title": "SimplCommerce",
+                "href": "https://github.com/simplcommerce/simplcommerce",
+                "github": "simplcommerce/simplcommerce",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Environment Management",
+        "childrens": [
+            {
+                "title": "Dotnet CLI",
+                "href": "https://github.com/dotnet/cli",
+                "github": "dotnet/cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Exceptions",
+        "childrens": [
+            {
+                "title": "Exceptionless",
+                "href": "https://github.com/exceptionless/Exceptionless.Net",
+                "github": "exceptionless/Exceptionless.Net",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Extensions",
+        "childrens": [
+            {
+                "title": "Z.ExtensionMethods",
+                "href": "https://github.com/zzzprojects/Z.ExtensionMethods",
+                "github": "zzzprojects/Z.ExtensionMethods",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Functional programming",
+        "childrens": [
+            {
+                "title": "language-ext",
+                "href": "https://github.com/louthy/language-ext",
+                "github": "louthy/language-ext",
+                "type": "github"
+            },
+            {
+                "title": "Optional",
+                "href": "https://github.com/nlkl/Optional",
+                "github": "nlkl/Optional",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game",
+        "childrens": [
+            {
+                "title": "MonoGame",
+                "href": "https://github.com/MonoGame/MonoGame",
+                "github": "MonoGame/MonoGame",
+                "type": "github"
+            },
+            {
+                "title": "CocosSharp",
+                "href": "https://github.com/mono/CocosSharp",
+                "github": "mono/CocosSharp",
+                "type": "github"
+            },
+            {
+                "title": "Duality",
+                "href": "https://github.com/AdamsLair/duality",
+                "github": "AdamsLair/duality",
+                "type": "github"
+            },
+            {
+                "title": "UrhoSharp",
+                "href": "https://github.com/xamarin/urho",
+                "github": "xamarin/urho",
+                "type": "github"
+            },
+            {
+                "title": "Nez",
+                "href": "https://github.com/prime31/Nez",
+                "github": "prime31/Nez",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GIS",
+        "childrens": [
+            {
+                "title": "NetTopologySuite",
+                "href": "https://github.com/NetTopologySuite/NetTopologySuite/",
+                "github": "NetTopologySuite/NetTopologySuite/",
+                "type": "github"
+            },
+            {
+                "title": "GeoJSON4EntityFramework",
+                "href": "https://github.com/alatas/GeoJSON4EntityFramework",
+                "github": "alatas/GeoJSON4EntityFramework",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Git Tools",
+        "childrens": [
+            {
+                "title": "Bonobo Git Server",
+                "href": "https://github.com/jakubgarfield/Bonobo-Git-Server",
+                "github": "jakubgarfield/Bonobo-Git-Server",
+                "type": "github"
+            },
+            {
+                "title": "GitExtensions",
+                "href": "https://github.com/gitextensions/gitextensions",
+                "github": "gitextensions/gitextensions",
+                "type": "github"
+            },
+            {
+                "title": "GitLink",
+                "href": "https://github.com/GitTools/GitLink",
+                "github": "GitTools/GitLink",
+                "type": "github"
+            },
+            {
+                "title": "GitVersion",
+                "href": "https://github.com/GitTools/GitVersion",
+                "github": "GitTools/GitVersion",
+                "type": "github"
+            },
+            {
+                "title": "LibGit2Sharp",
+                "href": "https://github.com/libgit2/libgit2sharp",
+                "github": "libgit2/libgit2sharp",
+                "type": "github"
+            },
+            {
+                "title": "NGit",
+                "href": "https://github.com/mono/ngit",
+                "github": "mono/ngit",
+                "type": "github"
+            },
+            {
+                "title": "posh-git",
+                "href": "https://github.com/dahlbyk/posh-git",
+                "github": "dahlbyk/posh-git",
+                "type": "github"
+            },
+            {
+                "title": "Git Credential Manager for Windows",
+                "href": "https://github.com/Microsoft/Git-Credential-Manager-for-Windows",
+                "github": "Microsoft/Git-Credential-Manager-for-Windows",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graphics",
+        "childrens": [
+            {
+                "title": "LibTessDotNet",
+                "href": "https://github.com/speps/LibTessDotNet",
+                "github": "speps/LibTessDotNet",
+                "type": "github"
+            },
+            {
+                "title": "Oxyplot",
+                "href": "https://github.com/oxyplot/",
+                "github": "oxyplot/",
+                "type": "github"
+            },
+            {
+                "title": "OpenTK",
+                "href": "https://github.com/opentk/opentk",
+                "github": "opentk/opentk",
+                "type": "github"
+            },
+            {
+                "title": "NGraphics",
+                "href": "https://github.com/praeclarum/NGraphics",
+                "github": "praeclarum/NGraphics",
+                "type": "github"
+            },
+            {
+                "title": "Live-Charts",
+                "href": "https://github.com/beto-rodriguez/Live-Charts",
+                "github": "beto-rodriguez/Live-Charts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "MahApps.Metro",
+                "href": "https://github.com/MahApps/MahApps.Metro",
+                "github": "MahApps/MahApps.Metro",
+                "type": "github"
+            },
+            {
+                "title": "Callisto",
+                "href": "https://github.com/timheuer/callisto",
+                "github": "timheuer/callisto",
+                "type": "github"
+            },
+            {
+                "title": "AvalonEdit",
+                "href": "https://github.com/icsharpcode/AvalonEdit",
+                "github": "icsharpcode/AvalonEdit",
+                "type": "github"
+            },
+            {
+                "title": "XWT",
+                "href": "https://github.com/mono/xwt",
+                "github": "mono/xwt",
+                "type": "github"
+            },
+            {
+                "title": "Gtk#",
+                "href": "https://github.com/mono/gtk-sharp",
+                "github": "mono/gtk-sharp",
+                "type": "github"
+            },
+            {
+                "title": "MaterialDesignInXamlToolkit",
+                "href": "https://github.com/ButchersBoy/MaterialDesignInXamlToolkit",
+                "github": "ButchersBoy/MaterialDesignInXamlToolkit",
+                "type": "github"
+            },
+            {
+                "title": "Eto.Forms",
+                "href": "https://github.com/picoe/Eto",
+                "github": "picoe/Eto",
+                "type": "github"
+            },
+            {
+                "title": "Dragablz",
+                "href": "https://github.com/ButchersBoy/Dragablz",
+                "github": "ButchersBoy/Dragablz",
+                "type": "github"
+            },
+            {
+                "title": "Fluent.Ribbon",
+                "href": "https://github.com/fluentribbon/Fluent.Ribbon",
+                "github": "fluentribbon/Fluent.Ribbon",
+                "type": "github"
+            },
+            {
+                "title": "Perspex",
+                "href": "https://github.com/AvaloniaUI/Avalonia",
+                "github": "AvaloniaUI/Avalonia",
+                "type": "github"
+            },
+            {
+                "title": "MaterialSkin",
+                "href": "https://github.com/IgnaceMaes/MaterialSkin",
+                "github": "IgnaceMaes/MaterialSkin",
+                "type": "github"
+            },
+            {
+                "title": "Xamarin.Forms",
+                "href": "https://github.com/xamarin/Xamarin.Forms",
+                "github": "xamarin/Xamarin.Forms",
+                "type": "github"
+            },
+            {
+                "title": "SciterSharp",
+                "href": "https://github.com/MISoftware/SciterSharp",
+                "github": "MISoftware/SciterSharp",
+                "type": "github"
+            },
+            {
+                "title": "UWP Community Toolkit",
+                "href": "https://github.com/Microsoft/UWPCommunityToolkit",
+                "github": "Microsoft/UWPCommunityToolkit",
+                "type": "github"
+            },
+            {
+                "title": "ScintillaNET",
+                "href": "https://github.com/jacobslusser/ScintillaNET",
+                "github": "jacobslusser/ScintillaNET",
+                "type": "github"
+            },
+            {
+                "title": "FastColoredTextBox",
+                "href": "https://github.com/PavelTorgashov/FastColoredTextBox",
+                "github": "PavelTorgashov/FastColoredTextBox",
+                "type": "github"
+            },
+            {
+                "title": "Avalonia",
+                "href": "https://github.com/AvaloniaUI/Avalonia",
+                "github": "AvaloniaUI/Avalonia",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML and CSS",
+        "childrens": [
+            {
+                "title": "AngleSharp",
+                "href": "https://github.com/AngleSharp/AngleSharp",
+                "github": "AngleSharp/AngleSharp",
+                "type": "github"
+            },
+            {
+                "title": "CsQuery",
+                "href": "https://github.com/jamietre/CsQuery",
+                "github": "jamietre/CsQuery",
+                "type": "github"
+            },
+            {
+                "title": "dotless",
+                "href": "https://github.com/dotless/dotless",
+                "github": "dotless/dotless",
+                "type": "github"
+            },
+            {
+                "title": "ExCSS",
+                "href": "https://github.com/TylerBrinks/ExCSS",
+                "github": "TylerBrinks/ExCSS",
+                "type": "github"
+            },
+            {
+                "title": "LibSass Host",
+                "href": "https://github.com/Taritsyn/LibSassHost",
+                "github": "Taritsyn/LibSassHost",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP",
+        "childrens": [
+            {
+                "title": "Http.fs",
+                "href": "https://github.com/haf/Http.fs",
+                "github": "haf/Http.fs",
+                "type": "github"
+            },
+            {
+                "title": "RestSharp",
+                "href": "https://github.com/restsharp/RestSharp",
+                "github": "restsharp/RestSharp",
+                "type": "github"
+            },
+            {
+                "title": "EasyHttp",
+                "href": "https://github.com/EasyHttp/EasyHttp",
+                "github": "EasyHttp/EasyHttp",
+                "type": "github"
+            },
+            {
+                "title": "Refit",
+                "href": "https://github.com/paulcbetts/refit",
+                "github": "paulcbetts/refit",
+                "type": "github"
+            },
+            {
+                "title": "RestEase",
+                "href": "https://github.com/canton7/RestEase",
+                "github": "canton7/RestEase",
+                "type": "github"
+            },
+            {
+                "title": "HttpClientGoodies",
+                "href": "https://github.com/jeffijoe/httpclientgoodies.net",
+                "github": "jeffijoe/httpclientgoodies.net",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDE",
+        "childrens": [
+            {
+                "title": "SharpDevelop",
+                "href": "https://github.com/icsharpcode/SharpDevelop",
+                "github": "icsharpcode/SharpDevelop",
+                "type": "github"
+            },
+            {
+                "title": "MonoDevelop",
+                "href": "https://github.com/mono/monodevelop",
+                "github": "mono/monodevelop",
+                "type": "github"
+            },
+            {
+                "title": "RoslynPad",
+                "href": "https://github.com/aelij/RoslynPad",
+                "github": "aelij/RoslynPad",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image Processing",
+        "childrens": [
+            {
+                "title": "ImageProcessor",
+                "href": "https://github.com/JimBobSquarePants/ImageProcessor",
+                "github": "JimBobSquarePants/ImageProcessor",
+                "type": "github"
+            },
+            {
+                "title": "MetadataExtractor",
+                "href": "https://github.com/drewnoakes/metadata-extractor-dotnet",
+                "github": "drewnoakes/metadata-extractor-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "DotImaging",
+                "href": "https://github.com/dajuric/dot-imaging",
+                "github": "dajuric/dot-imaging",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Install tools",
+        "childrens": [
+            {
+                "title": "Squirrel",
+                "href": "https://github.com/squirrel/squirrel.windows",
+                "github": "squirrel/squirrel.windows",
+                "type": "github"
+            },
+            {
+                "title": "Chocolatey",
+                "href": "https://github.com/chocolatey/choco",
+                "github": "chocolatey/choco",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Internationalization",
+        "childrens": [
+            {
+                "title": "i18n",
+                "href": "https://github.com/turquoiseowl/i18n",
+                "github": "turquoiseowl/i18n",
+                "type": "github"
+            },
+            {
+                "title": "MessageFormat.NET",
+                "href": "https://github.com/jeffijoe/MessageFormat.NET",
+                "github": "jeffijoe/MessageFormat.NET",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Interoperability",
+        "childrens": [
+            {
+                "title": "CppSharp",
+                "href": "https://github.com/mono/CppSharp",
+                "github": "mono/CppSharp",
+                "type": "github"
+            },
+            {
+                "title": "Sharpen",
+                "href": "https://github.com/mono/sharpen",
+                "github": "mono/sharpen",
+                "type": "github"
+            },
+            {
+                "title": "CXXI",
+                "href": "https://github.com/mono/cxxi",
+                "github": "mono/cxxi",
+                "type": "github"
+            },
+            {
+                "title": "pythonnet",
+                "href": "https://github.com/pythonnet/pythonnet",
+                "github": "pythonnet/pythonnet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IoC",
+        "childrens": [
+            {
+                "title": "Castle Windsor",
+                "href": "https://github.com/castleproject/Windsor",
+                "github": "castleproject/Windsor",
+                "type": "github"
+            },
+            {
+                "title": "Unity",
+                "href": "https://github.com/unitycontainer/unity",
+                "github": "unitycontainer/unity",
+                "type": "github"
+            },
+            {
+                "title": "Autofac",
+                "href": "https://github.com/autofac/Autofac",
+                "github": "autofac/Autofac",
+                "type": "github"
+            },
+            {
+                "title": "Ninject",
+                "href": "https://github.com/ninject/ninject",
+                "github": "ninject/ninject",
+                "type": "github"
+            },
+            {
+                "title": "Spring.Net",
+                "href": "https://github.com/spring-projects/spring-net",
+                "github": "spring-projects/spring-net",
+                "type": "github"
+            },
+            {
+                "title": "LightInject",
+                "href": "https://github.com/seesharper/LightInject",
+                "github": "seesharper/LightInject",
+                "type": "github"
+            },
+            {
+                "title": "TinyIoC",
+                "href": "https://github.com/grumpydev/TinyIoC",
+                "github": "grumpydev/TinyIoC",
+                "type": "github"
+            },
+            {
+                "title": "Simple Injector",
+                "href": "https://github.com/simpleinjector/SimpleInjector",
+                "github": "simpleinjector/SimpleInjector",
+                "type": "github"
+            },
+            {
+                "title": "Microsoft.Extensions.DependencyInjection",
+                "href": "https://github.com/aspnet/DependencyInjection",
+                "github": "aspnet/DependencyInjection",
+                "type": "github"
+            },
+            {
+                "title": "Scrutor",
+                "href": "https://github.com/khellang/Scrutor",
+                "github": "khellang/Scrutor",
+                "type": "github"
+            },
+            {
+                "title": "VS MEF",
+                "href": "https://github.com/Microsoft/vs-mef",
+                "github": "Microsoft/vs-mef",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript Engines",
+        "childrens": [
+            {
+                "title": "Edge.js",
+                "href": "https://github.com/tjanczuk/edge",
+                "github": "tjanczuk/edge",
+                "type": "github"
+            },
+            {
+                "title": "Jint",
+                "href": "https://github.com/sebastienros/jint",
+                "github": "sebastienros/jint",
+                "type": "github"
+            },
+            {
+                "title": "Jurassic",
+                "href": "https://github.com/paulbartrum/jurassic",
+                "github": "paulbartrum/jurassic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "NLog",
+                "href": "https://github.com/nlog/NLog/",
+                "github": "nlog/NLog/",
+                "type": "github"
+            },
+            {
+                "title": "Logazmic",
+                "href": "https://github.com/ihtfw/Logazmic",
+                "github": "ihtfw/Logazmic",
+                "type": "github"
+            },
+            {
+                "title": "Elmah MVC",
+                "href": "https://github.com/alexbeletsky/elmah-mvc",
+                "github": "alexbeletsky/elmah-mvc",
+                "type": "github"
+            },
+            {
+                "title": "Serilog",
+                "href": "https://github.com/serilog/serilog",
+                "github": "serilog/serilog",
+                "type": "github"
+            },
+            {
+                "title": "StackExchange.Exceptional",
+                "href": "https://github.com/NickCraver/StackExchange.Exceptional",
+                "github": "NickCraver/StackExchange.Exceptional",
+                "type": "github"
+            },
+            {
+                "title": "Foundatio",
+                "href": "https://github.com/exceptionless/Foundatio#logging",
+                "github": "exceptionless/Foundatio#logging",
+                "type": "github"
+            },
+            {
+                "title": "Exceptionless",
+                "href": "https://github.com/exceptionless/Exceptionless.Net",
+                "github": "exceptionless/Exceptionless.Net",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning and Data Science",
+        "childrens": [
+            {
+                "title": "Accord.NET Extensions",
+                "href": "https://github.com/dajuric/accord-net-extensions",
+                "github": "dajuric/accord-net-extensions",
+                "type": "github"
+            },
+            {
+                "title": "numl",
+                "href": "https://github.com/sethjuarez/numl",
+                "github": "sethjuarez/numl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Markdown Processors",
+        "childrens": [
+            {
+                "title": "CommonMark.NET",
+                "href": "https://github.com/Knagis/CommonMark.NET",
+                "github": "Knagis/CommonMark.NET",
+                "type": "github"
+            },
+            {
+                "title": "markdig",
+                "href": "https://github.com/lunet-io/markdig",
+                "github": "lunet-io/markdig",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mail",
+        "childrens": [
+            {
+                "title": "FluentEmail",
+                "href": "https://github.com/lukencode/FluentEmail",
+                "github": "lukencode/FluentEmail",
+                "type": "github"
+            },
+            {
+                "title": "MailKit",
+                "href": "https://github.com/jstedfast/MailKit",
+                "github": "jstedfast/MailKit",
+                "type": "github"
+            },
+            {
+                "title": "MimeKit",
+                "href": "https://github.com/jstedfast/MimeKit",
+                "github": "jstedfast/MimeKit",
+                "type": "github"
+            },
+            {
+                "title": "PreMailer.Net",
+                "href": "https://github.com/milkshakesoftware/PreMailer.Net",
+                "github": "milkshakesoftware/PreMailer.Net",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mathematics",
+        "childrens": [
+            {
+                "title": "Microsoft Automatic Graph Layout",
+                "href": "https://github.com/Microsoft/automatic-graph-layout",
+                "github": "Microsoft/automatic-graph-layout",
+                "type": "github"
+            },
+            {
+                "title": "UnitConversion",
+                "href": "https://github.com/Stratajet/UnitConversion",
+                "github": "Stratajet/UnitConversion",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Media",
+        "childrens": [
+            {
+                "title": "TagLib#",
+                "href": "https://github.com/mono/taglib-sharp",
+                "github": "mono/taglib-sharp",
+                "type": "github"
+            },
+            {
+                "title": "NAudio",
+                "href": "https://github.com/naudio/NAudio",
+                "github": "naudio/NAudio",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Metrics",
+        "childrens": [
+            {
+                "title": "C# StatsD Client",
+                "href": "https://github.com/Pereingo/statsd-csharp-client",
+                "github": "Pereingo/statsd-csharp-client",
+                "type": "github"
+            },
+            {
+                "title": "Foundatio",
+                "href": "https://github.com/exceptionless/Foundatio#metrics",
+                "github": "exceptionless/Foundatio#metrics",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Micro Framework",
+        "childrens": [
+            {
+                "title": ".NET Micro Framework Interpreter",
+                "href": "https://github.com/NETMF/netmf-interpreter",
+                "github": "NETMF/netmf-interpreter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Minification",
+        "childrens": [
+            {
+                "title": "Web Markup Minifier",
+                "href": "https://github.com/Taritsyn/WebMarkupMin",
+                "github": "Taritsyn/WebMarkupMin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "AzureCrawler",
+                "href": "https://github.com/yagopv/AzureCrawler",
+                "github": "yagopv/AzureCrawler",
+                "type": "github"
+            },
+            {
+                "title": "BitSharp",
+                "href": "https://github.com/pmlyon/BitSharp",
+                "github": "pmlyon/BitSharp",
+                "type": "github"
+            },
+            {
+                "title": "CsvHelper",
+                "href": "https://github.com/JoshClose/CsvHelper",
+                "github": "JoshClose/CsvHelper",
+                "type": "github"
+            },
+            {
+                "title": "FlatMapper",
+                "href": "https://github.com/joaomatossilva/FlatMapper",
+                "github": "joaomatossilva/FlatMapper",
+                "type": "github"
+            },
+            {
+                "title": "FluentValidation",
+                "href": "https://github.com/JeremySkinner/FluentValidation",
+                "github": "JeremySkinner/FluentValidation",
+                "type": "github"
+            },
+            {
+                "title": "Humanizer",
+                "href": "https://github.com/Humanizr/Humanizer",
+                "github": "Humanizr/Humanizer",
+                "type": "github"
+            },
+            {
+                "title": "Polly",
+                "href": "https://github.com/App-vNext/Polly",
+                "github": "App-vNext/Polly",
+                "type": "github"
+            },
+            {
+                "title": "Rant",
+                "href": "https://github.com/TheBerkin/Rant",
+                "github": "TheBerkin/Rant",
+                "type": "github"
+            },
+            {
+                "title": "ScriptCS",
+                "href": "https://github.com/scriptcs/scriptcs",
+                "github": "scriptcs/scriptcs",
+                "type": "github"
+            },
+            {
+                "title": "Shielded",
+                "href": "https://github.com/jbakic/Shielded",
+                "github": "jbakic/Shielded",
+                "type": "github"
+            },
+            {
+                "title": "ReactJS.NET",
+                "href": "https://github.com/reactjs/React.NET",
+                "github": "reactjs/React.NET",
+                "type": "github"
+            },
+            {
+                "title": "Aeron.NET",
+                "href": "https://github.com/AdaptiveConsulting/Aeron.NET",
+                "github": "AdaptiveConsulting/Aeron.NET",
+                "type": "github"
+            },
+            {
+                "title": "TypeShape",
+                "href": "https://github.com/eiriktsarpalis/TypeShape",
+                "github": "eiriktsarpalis/TypeShape",
+                "type": "github"
+            },
+            {
+                "title": "Streams",
+                "href": "https://github.com/nessos/Streams",
+                "github": "nessos/Streams",
+                "type": "github"
+            },
+            {
+                "title": "MediatR",
+                "href": "https://github.com/jbogard/MediatR",
+                "github": "jbogard/MediatR",
+                "type": "github"
+            },
+            {
+                "title": "Warden",
+                "href": "https://github.com/warden-stack/Warden",
+                "github": "warden-stack/Warden",
+                "type": "github"
+            },
+            {
+                "title": "ByteSize",
+                "href": "https://github.com/omar/ByteSize",
+                "github": "omar/ByteSize",
+                "type": "github"
+            },
+            {
+                "title": "Jot",
+                "href": "https://github.com/anakic/jot",
+                "github": "anakic/jot",
+                "type": "github"
+            },
+            {
+                "title": "Mediator.Net",
+                "href": "https://github.com/mayuanyang/Mediator.Net",
+                "github": "mayuanyang/Mediator.Net",
+                "type": "github"
+            },
+            {
+                "title": "Enums.NET",
+                "href": "https://github.com/TylerBrinkley/Enums.NET",
+                "github": "TylerBrinkley/Enums.NET",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MVVM",
+        "childrens": [
+            {
+                "title": "Caliburn.Micro",
+                "href": "https://github.com/Caliburn-Micro/Caliburn.Micro",
+                "github": "Caliburn-Micro/Caliburn.Micro",
+                "type": "github"
+            },
+            {
+                "title": "ReactiveUI",
+                "href": "https://github.com/reactiveui/reactiveui/",
+                "github": "reactiveui/reactiveui/",
+                "type": "github"
+            },
+            {
+                "title": "Prism",
+                "href": "https://github.com/PrismLibrary/Prism",
+                "github": "PrismLibrary/Prism",
+                "type": "github"
+            },
+            {
+                "title": "MVVMCross",
+                "href": "https://github.com/MvvmCross/MvvmCross",
+                "github": "MvvmCross/MvvmCross",
+                "type": "github"
+            },
+            {
+                "title": "Stylet",
+                "href": "https://github.com/canton7/stylet/",
+                "github": "canton7/stylet/",
+                "type": "github"
+            },
+            {
+                "title": "Gemini",
+                "href": "https://github.com/tgjones/gemini",
+                "github": "tgjones/gemini",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Object to object mapping",
+        "childrens": [
+            {
+                "title": "AutoMapper",
+                "href": "https://github.com/AutoMapper/AutoMapper",
+                "github": "AutoMapper/AutoMapper",
+                "type": "github"
+            },
+            {
+                "title": "TinyMapper",
+                "href": "https://github.com/TinyMapper/TinyMapper",
+                "github": "TinyMapper/TinyMapper",
+                "type": "github"
+            },
+            {
+                "title": "ExpressMapper",
+                "href": "https://github.com/fluentsprings/ExpressMapper",
+                "github": "fluentsprings/ExpressMapper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Office",
+        "childrens": [
+            {
+                "title": "ExcelDna",
+                "href": "https://github.com/Excel-DNA/ExcelDna",
+                "github": "Excel-DNA/ExcelDna",
+                "type": "github"
+            },
+            {
+                "title": "ClosedXML",
+                "href": "https://github.com/ClosedXML/ClosedXML",
+                "github": "ClosedXML/ClosedXML",
+                "type": "github"
+            },
+            {
+                "title": "Open XML SDK",
+                "href": "https://github.com/officedev/open-xml-sdk",
+                "github": "officedev/open-xml-sdk",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM",
+        "childrens": [
+            {
+                "title": "Entity Framework",
+                "href": "https://github.com/aspnet/EntityFramework",
+                "github": "aspnet/EntityFramework",
+                "type": "github"
+            },
+            {
+                "title": "BL Toolkit",
+                "href": "https://github.com/igor-tkachev/bltoolkit",
+                "github": "igor-tkachev/bltoolkit",
+                "type": "github"
+            },
+            {
+                "title": "Dapper",
+                "href": "https://github.com/StackExchange/Dapper",
+                "github": "StackExchange/Dapper",
+                "type": "github"
+            },
+            {
+                "title": "Dapper Extensions",
+                "href": "https://github.com/tmsmith/Dapper-Extensions",
+                "github": "tmsmith/Dapper-Extensions",
+                "type": "github"
+            },
+            {
+                "title": "Dapper.FastCRUD",
+                "href": "https://github.com/MoonStorm/Dapper.FastCRUD",
+                "github": "MoonStorm/Dapper.FastCRUD",
+                "type": "github"
+            },
+            {
+                "title": "NHibernate",
+                "href": "https://github.com/nhibernate",
+                "github": "nhibernate",
+                "type": "github"
+            },
+            {
+                "title": "Fluent NHibernate",
+                "href": "https://github.com/jagregory/fluent-nhibernate",
+                "github": "jagregory/fluent-nhibernate",
+                "type": "github"
+            },
+            {
+                "title": "FluentMigrator",
+                "href": "https://github.com/fluentmigrator/fluentmigrator",
+                "github": "fluentmigrator/fluentmigrator",
+                "type": "github"
+            },
+            {
+                "title": "ServiceStack.OrmLite",
+                "href": "https://github.com/ServiceStack/ServiceStack.OrmLite",
+                "github": "ServiceStack/ServiceStack.OrmLite",
+                "type": "github"
+            },
+            {
+                "title": "Massive",
+                "href": "https://github.com/FransBouma/Massive",
+                "github": "FransBouma/Massive",
+                "type": "github"
+            },
+            {
+                "title": "LINQ to DB",
+                "href": "https://github.com/linq2db/linq2db",
+                "github": "linq2db/linq2db",
+                "type": "github"
+            },
+            {
+                "title": "MicroLite ORM",
+                "href": "https://github.com/TrevorPilley/MicroLite",
+                "github": "TrevorPilley/MicroLite",
+                "type": "github"
+            },
+            {
+                "title": "PetaPoco",
+                "href": "https://github.com/CollaboratingPlatypus/PetaPoco",
+                "github": "CollaboratingPlatypus/PetaPoco",
+                "type": "github"
+            },
+            {
+                "title": "AsyncPoco",
+                "href": "https://github.com/tmenier/AsyncPoco",
+                "github": "tmenier/AsyncPoco",
+                "type": "github"
+            },
+            {
+                "title": "NPoco",
+                "href": "https://github.com/schotime/NPoco",
+                "github": "schotime/NPoco",
+                "type": "github"
+            },
+            {
+                "title": "Limebean",
+                "href": "https://github.com/Nick-Lucas/LimeBean",
+                "github": "Nick-Lucas/LimeBean",
+                "type": "github"
+            },
+            {
+                "title": "Insight.Database",
+                "href": "https://github.com/jonwagner/Insight.Database",
+                "github": "jonwagner/Insight.Database",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package Management",
+        "childrens": [
+            {
+                "title": "Paket",
+                "href": "https://github.com/fsprojects/Paket",
+                "github": "fsprojects/Paket",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PDF",
+        "childrens": [
+            {
+                "title": "ITextSharp",
+                "href": "https://github.com/itext/itextsharp",
+                "github": "itext/itextsharp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Profiler",
+        "childrens": [
+            {
+                "title": "MiniProfiler",
+                "href": "https://github.com/MiniProfiler/dotnet",
+                "github": "MiniProfiler/dotnet",
+                "type": "github"
+            },
+            {
+                "title": "Glimpse",
+                "href": "https://github.com/glimpse/glimpse",
+                "github": "glimpse/glimpse",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Protocols",
+        "childrens": [
+            {
+                "title": "SSH.NET",
+                "href": "https://github.com/sshnet/SSH.NET",
+                "github": "sshnet/SSH.NET",
+                "type": "github"
+            },
+            {
+                "title": "FluentFTP",
+                "href": "https://github.com/hgupta9/FluentFTP",
+                "github": "hgupta9/FluentFTP",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Push Notifications",
+        "childrens": [
+            {
+                "title": "PushSharp",
+                "href": "https://github.com/Redth/PushSharp",
+                "github": "Redth/PushSharp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Queue",
+        "childrens": [
+            {
+                "title": "NServiceBus",
+                "href": "https://github.com/Particular/NServiceBus",
+                "github": "Particular/NServiceBus",
+                "type": "github"
+            },
+            {
+                "title": "Hangfire",
+                "href": "https://github.com/HangfireIO/Hangfire",
+                "github": "HangfireIO/Hangfire",
+                "type": "github"
+            },
+            {
+                "title": "RabbitMQ.NET",
+                "href": "https://github.com/rabbitmq/rabbitmq-dotnet-client",
+                "github": "rabbitmq/rabbitmq-dotnet-client",
+                "type": "github"
+            },
+            {
+                "title": "NetMQ",
+                "href": "https://github.com/zeromq/netmq",
+                "github": "zeromq/netmq",
+                "type": "github"
+            },
+            {
+                "title": "MassTransit",
+                "href": "https://github.com/MassTransit/MassTransit",
+                "github": "MassTransit/MassTransit",
+                "type": "github"
+            },
+            {
+                "title": "Rebus",
+                "href": "https://github.com/rebus-org/Rebus",
+                "github": "rebus-org/Rebus",
+                "type": "github"
+            },
+            {
+                "title": "RestBus",
+                "href": "https://github.com/tenor/RestBus",
+                "github": "tenor/RestBus",
+                "type": "github"
+            },
+            {
+                "title": "RawRabbit",
+                "href": "https://github.com/pardahlman/RawRabbit",
+                "github": "pardahlman/RawRabbit",
+                "type": "github"
+            },
+            {
+                "title": "EasyNetQ",
+                "href": "https://github.com/EasyNetQ/EasyNetQ",
+                "github": "EasyNetQ/EasyNetQ",
+                "type": "github"
+            },
+            {
+                "title": "Warewolf ESB",
+                "href": "https://github.com/Warewolf-ESB/Warewolf",
+                "github": "Warewolf-ESB/Warewolf",
+                "type": "github"
+            },
+            {
+                "title": "Kafka Client",
+                "href": "https://github.com/Microsoft/CSharpClient-for-Kafka",
+                "github": "Microsoft/CSharpClient-for-Kafka",
+                "type": "github"
+            },
+            {
+                "title": "Foundatio",
+                "href": "https://github.com/exceptionless/Foundatio#queues",
+                "github": "exceptionless/Foundatio#queues",
+                "type": "github"
+            },
+            {
+                "title": "Kafunk",
+                "href": "https://github.com/jet/kafunk",
+                "github": "jet/kafunk",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reactive Programming",
+        "childrens": [
+            {
+                "title": "Rx.NET",
+                "href": "https://github.com/Reactive-Extensions/Rx.NET",
+                "github": "Reactive-Extensions/Rx.NET",
+                "type": "github"
+            },
+            {
+                "title": "Dynamic Data",
+                "href": "https://github.com/RolandPheasant/DynamicData",
+                "github": "RolandPheasant/DynamicData",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scheduling",
+        "childrens": [
+            {
+                "title": "FluentScheduler",
+                "href": "https://github.com/fluentscheduler/FluentScheduler",
+                "github": "fluentscheduler/FluentScheduler",
+                "type": "github"
+            },
+            {
+                "title": "NCrontab",
+                "href": "https://github.com/atifaziz/NCrontab",
+                "github": "atifaziz/NCrontab",
+                "type": "github"
+            },
+            {
+                "title": "QuartzNet",
+                "href": "https://github.com/quartznet/quartznet",
+                "github": "quartznet/quartznet",
+                "type": "github"
+            },
+            {
+                "title": "Hangfire",
+                "href": "https://github.com/HangfireIO",
+                "github": "HangfireIO",
+                "type": "github"
+            },
+            {
+                "title": "Chroniton",
+                "href": "https://github.com/leosperry/Chroniton",
+                "github": "leosperry/Chroniton",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SDK and API Clients",
+        "childrens": [
+            {
+                "title": "AWS SDK",
+                "href": "https://github.com/aws/aws-sdk-net",
+                "github": "aws/aws-sdk-net",
+                "type": "github"
+            },
+            {
+                "title": "Azure PowerShell",
+                "href": "https://github.com/Azure/azure-powershell",
+                "github": "Azure/azure-powershell",
+                "type": "github"
+            },
+            {
+                "title": "Octokit.NET",
+                "href": "https://github.com/octokit/octokit.net",
+                "github": "octokit/octokit.net",
+                "type": "github"
+            },
+            {
+                "title": "DropNet",
+                "href": "https://github.com/DropNet/DropNet",
+                "github": "DropNet/DropNet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search",
+        "childrens": [
+            {
+                "title": "Elasticsearch .NET",
+                "href": "https://github.com/elastic/elasticsearch-net",
+                "github": "elastic/elasticsearch-net",
+                "type": "github"
+            },
+            {
+                "title": "PlainElastic.Net",
+                "href": "https://github.com/Yegoroff/PlainElastic.Net",
+                "github": "Yegoroff/PlainElastic.Net",
+                "type": "github"
+            },
+            {
+                "title": "SolrNet",
+                "href": "https://github.com/SolrNet/SolrNet",
+                "github": "SolrNet/SolrNet",
+                "type": "github"
+            },
+            {
+                "title": "SolrExpress",
+                "href": "https://github.com/solr-express/solr-express",
+                "github": "solr-express/solr-express",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Serialization",
+        "childrens": [
+            {
+                "title": "Protobuf.NET",
+                "href": "https://github.com/mgravell/protobuf-net",
+                "github": "mgravell/protobuf-net",
+                "type": "github"
+            },
+            {
+                "title": "Json.NET",
+                "href": "https://github.com/JamesNK/Newtonsoft.Json",
+                "github": "JamesNK/Newtonsoft.Json",
+                "type": "github"
+            },
+            {
+                "title": "ServiceStack.Text",
+                "href": "https://github.com/ServiceStack/ServiceStack.Text",
+                "github": "ServiceStack/ServiceStack.Text",
+                "type": "github"
+            },
+            {
+                "title": "Msgpack-Cli",
+                "href": "https://github.com/msgpack/msgpack-cli",
+                "github": "msgpack/msgpack-cli",
+                "type": "github"
+            },
+            {
+                "title": "Jil",
+                "href": "https://github.com/kevin-montrose/Jil",
+                "github": "kevin-montrose/Jil",
+                "type": "github"
+            },
+            {
+                "title": "ProtoBuf",
+                "href": "https://github.com/hultqvist/ProtoBuf",
+                "github": "hultqvist/ProtoBuf",
+                "type": "github"
+            },
+            {
+                "title": "Bond",
+                "href": "https://github.com/Microsoft/bond",
+                "github": "Microsoft/bond",
+                "type": "github"
+            },
+            {
+                "title": "Hyperion",
+                "href": "https://github.com/akkadotnet/Hyperion",
+                "github": "akkadotnet/Hyperion",
+                "type": "github"
+            },
+            {
+                "title": "FileHelpers",
+                "href": "https://github.com/MarcosMeli/FileHelpers",
+                "github": "MarcosMeli/FileHelpers",
+                "type": "github"
+            },
+            {
+                "title": "FsPickler",
+                "href": "https://github.com/mbraceproject/FsPickler",
+                "github": "mbraceproject/FsPickler",
+                "type": "github"
+            },
+            {
+                "title": "Migrant",
+                "href": "https://github.com/antmicro/Migrant",
+                "github": "antmicro/Migrant",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SMS and Phone calls",
+        "childrens": [
+            {
+                "title": "Twilio-csharp",
+                "href": "https://github.com/twilio/twilio-csharp",
+                "github": "twilio/twilio-csharp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "State machines",
+        "childrens": [
+            {
+                "title": "Stateless",
+                "href": "https://github.com/dotnet-state-machine/stateless",
+                "github": "dotnet-state-machine/stateless",
+                "type": "github"
+            },
+            {
+                "title": "Automatonymous",
+                "href": "https://github.com/MassTransit/Automatonymous",
+                "github": "MassTransit/Automatonymous",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Static Site Generators",
+        "childrens": [
+            {
+                "title": "FsBlog",
+                "href": "https://github.com/fsprojects/FsBlog/",
+                "github": "fsprojects/FsBlog/",
+                "type": "github"
+            },
+            {
+                "title": "Pretzel",
+                "href": "https://github.com/Code52/pretzel",
+                "github": "Code52/pretzel",
+                "type": "github"
+            },
+            {
+                "title": "Sandra.Snow",
+                "href": "https://github.com/Sandra/Sandra.Snow",
+                "github": "Sandra/Sandra.Snow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Template Engine",
+        "childrens": [
+            {
+                "title": "RazorEngine",
+                "href": "https://github.com/Antaris/RazorEngine",
+                "github": "Antaris/RazorEngine",
+                "type": "github"
+            },
+            {
+                "title": "Nustache",
+                "href": "https://github.com/jdiamond/Nustache",
+                "github": "jdiamond/Nustache",
+                "type": "github"
+            },
+            {
+                "title": "Stubble",
+                "href": "https://github.com/stubbleorg/stubble",
+                "github": "stubbleorg/stubble",
+                "type": "github"
+            },
+            {
+                "title": "DotLiquid",
+                "href": "https://github.com/dotliquid/dotliquid",
+                "github": "dotliquid/dotliquid",
+                "type": "github"
+            },
+            {
+                "title": "Mustache Sharp",
+                "href": "https://github.com/jehugaleahsa/mustache-sharp",
+                "github": "jehugaleahsa/mustache-sharp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "AutoFixture",
+                "href": "https://github.com/AutoFixture/AutoFixture",
+                "github": "AutoFixture/AutoFixture",
+                "type": "github"
+            },
+            {
+                "title": "BDDfy",
+                "href": "https://github.com/TestStack/TestStack.BDDfy",
+                "github": "TestStack/TestStack.BDDfy",
+                "type": "github"
+            },
+            {
+                "title": "Bogus",
+                "href": "https://github.com/bchavez/Bogus",
+                "github": "bchavez/Bogus",
+                "type": "github"
+            },
+            {
+                "title": "ExpressionToCode",
+                "href": "https://github.com/EamonNerbonne/ExpressionToCode",
+                "github": "EamonNerbonne/ExpressionToCode",
+                "type": "github"
+            },
+            {
+                "title": "FakeItEasy",
+                "href": "https://github.com/FakeItEasy/FakeItEasy",
+                "github": "FakeItEasy/FakeItEasy",
+                "type": "github"
+            },
+            {
+                "title": "Fluent Assertions",
+                "href": "https://github.com/fluentassertions/fluentassertions",
+                "github": "fluentassertions/fluentassertions",
+                "type": "github"
+            },
+            {
+                "title": "FluentAutomation",
+                "href": "https://github.com/stirno/FluentAutomation",
+                "github": "stirno/FluentAutomation",
+                "type": "github"
+            },
+            {
+                "title": "FsCheck",
+                "href": "https://github.com/fscheck/FsCheck",
+                "github": "fscheck/FsCheck",
+                "type": "github"
+            },
+            {
+                "title": "Fuchu",
+                "href": "https://github.com/mausch/Fuchu",
+                "github": "mausch/Fuchu",
+                "type": "github"
+            },
+            {
+                "title": "Machine.Specifications",
+                "href": "https://github.com/machine/machine.specifications",
+                "github": "machine/machine.specifications",
+                "type": "github"
+            },
+            {
+                "title": "Moq",
+                "href": "https://github.com/Moq/moq4",
+                "github": "Moq/moq4",
+                "type": "github"
+            },
+            {
+                "title": "NBuilder",
+                "href": "https://github.com/garethdown44/nbuilder",
+                "github": "garethdown44/nbuilder",
+                "type": "github"
+            },
+            {
+                "title": "NUnit",
+                "href": "https://github.com/nunit/nunit",
+                "github": "nunit/nunit",
+                "type": "github"
+            },
+            {
+                "title": "Rhino Mocks",
+                "href": "https://github.com/ayende/rhino-mocks",
+                "github": "ayende/rhino-mocks",
+                "type": "github"
+            },
+            {
+                "title": "Shouldly",
+                "href": "https://github.com/shouldly/shouldly",
+                "github": "shouldly/shouldly",
+                "type": "github"
+            },
+            {
+                "title": "SpecFlow",
+                "href": "https://github.com/techtalk/SpecFlow/",
+                "github": "techtalk/SpecFlow/",
+                "type": "github"
+            },
+            {
+                "title": "xBehave.net",
+                "href": "https://github.com/xbehave/xbehave.net",
+                "github": "xbehave/xbehave.net",
+                "type": "github"
+            },
+            {
+                "title": "xUnit",
+                "href": "https://github.com/xunit/xunit",
+                "github": "xunit/xunit",
+                "type": "github"
+            },
+            {
+                "title": "Canopy",
+                "href": "https://github.com/lefthandedgoat/canopy",
+                "github": "lefthandedgoat/canopy",
+                "type": "github"
+            },
+            {
+                "title": "Expecto",
+                "href": "https://github.com/haf/expecto",
+                "github": "haf/expecto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Open Live Writer",
+                "href": "https://github.com/OpenLiveWriter/OpenLiveWriter",
+                "github": "OpenLiveWriter/OpenLiveWriter",
+                "type": "github"
+            },
+            {
+                "title": "CodeHub",
+                "href": "https://github.com/thedillonb/CodeHub",
+                "github": "thedillonb/CodeHub",
+                "type": "github"
+            },
+            {
+                "title": "ShareX",
+                "href": "https://github.com/ShareX/ShareX",
+                "github": "ShareX/ShareX",
+                "type": "github"
+            },
+            {
+                "title": "Myrtille",
+                "href": "https://github.com/cedrozor/myrtille",
+                "github": "cedrozor/myrtille",
+                "type": "github"
+            },
+            {
+                "title": "Opserver",
+                "href": "https://github.com/Opserver/Opserver",
+                "github": "Opserver/Opserver",
+                "type": "github"
+            },
+            {
+                "title": "Netling",
+                "href": "https://github.com/hallatore/Netling",
+                "github": "hallatore/Netling",
+                "type": "github"
+            },
+            {
+                "title": "Papercut",
+                "href": "https://github.com/ChangemakerStudios/Papercut",
+                "github": "ChangemakerStudios/Papercut",
+                "type": "github"
+            },
+            {
+                "title": "Visual Studio Uninstaller",
+                "href": "https://github.com/Microsoft/VisualStudioUninstaller",
+                "github": "Microsoft/VisualStudioUninstaller",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Trading",
+        "childrens": [
+            {
+                "title": "Lean",
+                "href": "https://github.com/QuantConnect/Lean",
+                "github": "QuantConnect/Lean",
+                "type": "github"
+            },
+            {
+                "title": "StockSharp",
+                "href": "https://github.com/StockSharp/StockSharp",
+                "github": "StockSharp/StockSharp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Visual Studio Plugins",
+        "childrens": [
+            {
+                "title": "Web Essentials",
+                "href": "https://github.com/madskristensen/WebEssentials2013",
+                "github": "madskristensen/WebEssentials2013",
+                "type": "github"
+            },
+            {
+                "title": "VsVIM",
+                "href": "https://github.com/jaredpar/VsVim",
+                "github": "jaredpar/VsVim",
+                "type": "github"
+            },
+            {
+                "title": "SideWaffle",
+                "href": "https://github.com/ligershark/side-waffle",
+                "github": "ligershark/side-waffle",
+                "type": "github"
+            },
+            {
+                "title": "CodeContracts",
+                "href": "https://github.com/Microsoft/CodeContracts",
+                "github": "Microsoft/CodeContracts",
+                "type": "github"
+            },
+            {
+                "title": "Git Diff Margin",
+                "href": "https://github.com/laurentkempe/GitDiffMargin",
+                "github": "laurentkempe/GitDiffMargin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Browsers",
+        "childrens": [
+            {
+                "title": "CefSharp",
+                "href": "https://github.com/cefsharp/CefSharp/",
+                "github": "cefsharp/CefSharp/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "FubuMVC",
+                "href": "https://github.com/DarthFubuMVC/fubumvc",
+                "github": "DarthFubuMVC/fubumvc",
+                "type": "github"
+            },
+            {
+                "title": "NancyFx",
+                "href": "https://github.com/NancyFx/Nancy",
+                "github": "NancyFx/Nancy",
+                "type": "github"
+            },
+            {
+                "title": "IISNode",
+                "href": "https://github.com/tjanczuk/iisnode",
+                "github": "tjanczuk/iisnode",
+                "type": "github"
+            },
+            {
+                "title": "DotVVM",
+                "href": "https://github.com/riganti/dotvvm",
+                "github": "riganti/dotvvm",
+                "type": "github"
+            },
+            {
+                "title": "Giraffe",
+                "href": "https://github.com/dustinmoris/Giraffe",
+                "github": "dustinmoris/Giraffe",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Servers",
+        "childrens": [
+            {
+                "title": "Kestrel",
+                "href": "https://github.com/aspnet/KestrelHttpServer",
+                "github": "aspnet/KestrelHttpServer",
+                "type": "github"
+            },
+            {
+                "title": "EmbedIO",
+                "href": "https://github.com/unosquare/embedio",
+                "github": "unosquare/embedio",
+                "type": "github"
+            },
+            {
+                "title": "XSP",
+                "href": "https://github.com/mono/xsp",
+                "github": "mono/xsp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "WebSocket",
+        "childrens": [
+            {
+                "title": "Fleck",
+                "href": "https://github.com/statianzo/Fleck",
+                "github": "statianzo/Fleck",
+                "type": "github"
+            },
+            {
+                "title": "SignalR",
+                "href": "https://github.com/SignalR/SignalR",
+                "github": "SignalR/SignalR",
+                "type": "github"
+            },
+            {
+                "title": "SuperSocket",
+                "href": "https://github.com/kerryjiang/SuperSocket",
+                "github": "kerryjiang/SuperSocket",
+                "type": "github"
+            },
+            {
+                "title": "Websocket-Sharp",
+                "href": "https://github.com/sta/websocket-sharp",
+                "github": "sta/websocket-sharp",
+                "type": "github"
+            },
+            {
+                "title": "WampSharp",
+                "href": "https://github.com/Code-Sharp/WampSharp",
+                "github": "Code-Sharp/WampSharp",
+                "type": "github"
+            },
+            {
+                "title": "NetGain",
+                "href": "https://github.com/StackExchange/NetGain",
+                "github": "StackExchange/NetGain",
+                "type": "github"
+            },
+            {
+                "title": "Websockets.PCL",
+                "href": "https://github.com/NVentimiglia/Websockets.PCL",
+                "github": "NVentimiglia/Websockets.PCL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Windows Services",
+        "childrens": [
+            {
+                "title": "TopShelf",
+                "href": "https://github.com/Topshelf/Topshelf",
+                "github": "Topshelf/Topshelf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Lists",
+        "childrens": [
+            {
+                "title": ".NET-libraries-that-make-your-life-easier",
+                "href": "https://github.com/tallesl/net-libraries-that-make-your-life-easier",
+                "github": "tallesl/net-libraries-that-make-your-life-easier",
+                "type": "github"
+            },
+            {
+                "title": "awesome-LINQ",
+                "href": "https://github.com/aloisdg/awesome-linq",
+                "github": "aloisdg/awesome-linq",
+                "type": "github"
+            },
+            {
+                "title": "awesome-analyzers",
+                "href": "https://github.com/Cybermaxs/awesome-analyzers",
+                "github": "Cybermaxs/awesome-analyzers",
+                "type": "github"
+            },
+            {
+                "title": "C# Algorithms, Data Structures",
+                "href": "https://github.com/aalhour/C-Sharp-Algorithms",
+                "github": "aalhour/C-Sharp-Algorithms",
+                "type": "github"
+            },
+            {
+                "title": "Awesome .NET Core",
+                "href": "https://github.com/thangchung/awesome-dotnet-core",
+                "github": "thangchung/awesome-dotnet-core",
+                "type": "github"
+            },
+            {
+                "title": "ASP.NET Core Library and Framework Support",
+                "href": "https://github.com/jpsingleton/ANCLAFS",
+                "github": "jpsingleton/ANCLAFS",
+                "type": "github"
+            },
+            {
+                "title": "Awesome .NET Performance",
+                "href": "https://github.com/adamsitnik/awesome-dot-net-performance",
+                "github": "adamsitnik/awesome-dot-net-performance",
+                "type": "github"
+            },
+            {
+                "title": "awesome-ddd",
+                "href": "https://github.com/heynickc/awesome-ddd",
+                "github": "heynickc/awesome-ddd",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Unity",
+                "href": "https://github.com/RyanNielson/awesome-unity",
+                "github": "RyanNielson/awesome-unity",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Xamarin",
+                "href": "https://github.com/benoitjadinon/awesome-xamarin",
+                "github": "benoitjadinon/awesome-xamarin",
+                "type": "github"
+            }
+        ]
+    }
+]

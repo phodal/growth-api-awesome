@@ -1,0 +1,64 @@
+[
+    {
+        "heading": "Play to learn",
+        "childrens": [
+            {
+                "title": "Election Forecasting",
+                "href": "https://github.com/jseabold/538model",
+                "github": "jseabold/538model",
+                "type": "github"
+            },
+            {
+                "title": "An example Machine Learning notebook",
+                "href": "https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb",
+                "github": "rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Play to learn",
+        "childrens": [
+            {
+                "title": "A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science",
+                "href": "https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science",
+                "github": "ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bayesian Statistics and Machine Learning",
+        "childrens": [
+            {
+                "title": "Bayesian Modelling in Python",
+                "href": "https://github.com/markdregan/Bayesian-Modelling-in-Python",
+                "github": "markdregan/Bayesian-Modelling-in-Python",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Alternative ways to \"Dive into Machine Learning\"",
+        "childrens": [
+            {
+                "title": "Machine Learning for Programmers [with caveats]",
+                "href": "https://gist.github.com/hangtwenty/a15c8bed5b120eebf352",
+                "github": ".com/hangtwenty/a15c8bed5b120eebf352",
+                "type": "github"
+            },
+            {
+                "title": "Example Machine Learning notebook, exercise, and guide",
+                "href": "https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb",
+                "github": "rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb",
+                "type": "github"
+            },
+            {
+                "title": "Machine Learning for Software Engineers",
+                "href": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+                "github": "ZuzooVn/machine-learning-for-software-engineers",
+                "type": "github"
+            }
+        ]
+    }
+]

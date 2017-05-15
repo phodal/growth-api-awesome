@@ -1,0 +1,619 @@
+[
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "CGold",
+                "href": "https://github.com/ruslo/CGold",
+                "github": "ruslo/CGold",
+                "type": "github"
+            },
+            {
+                "title": "Modern CMake",
+                "href": "https://github.com/toeb/moderncmake",
+                "github": "toeb/moderncmake",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package Management / Build Systems",
+        "childrens": [
+            {
+                "title": "hunter",
+                "href": "https://github.com/ruslo/hunter",
+                "github": "ruslo/hunter",
+                "type": "github"
+            },
+            {
+                "title": "cget",
+                "href": "https://github.com/pfultz2/cget",
+                "github": "pfultz2/cget",
+                "type": "github"
+            },
+            {
+                "title": "cpm",
+                "href": "https://github.com/iauns/cpm",
+                "github": "iauns/cpm",
+                "type": "github"
+            },
+            {
+                "title": "conan",
+                "href": "https://github.com/conan-io/conan",
+                "github": "conan-io/conan",
+                "type": "github"
+            },
+            {
+                "title": "fips",
+                "href": "https://github.com/floooh/fips",
+                "github": "floooh/fips",
+                "type": "github"
+            },
+            {
+                "title": "Ninja",
+                "href": "https://github.com/ninja-build/ninja",
+                "github": "ninja-build/ninja",
+                "type": "github"
+            },
+            {
+                "title": "Vcpkg",
+                "href": "https://github.com/Microsoft/vcpkg",
+                "github": "Microsoft/vcpkg",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Modules",
+        "childrens": [
+            {
+                "title": "cmake-modules",
+                "href": "https://github.com/rpavlik/cmake-modules",
+                "github": "rpavlik/cmake-modules",
+                "type": "github"
+            },
+            {
+                "title": "cmake-modules",
+                "href": "https://github.com/bilke/cmake-modules",
+                "github": "bilke/cmake-modules",
+                "type": "github"
+            },
+            {
+                "title": "CMake",
+                "href": "https://github.com/Eyescale/CMake",
+                "github": "Eyescale/CMake",
+                "type": "github"
+            },
+            {
+                "title": "sdl2-cmake-scripts",
+                "href": "https://github.com/tcbrindle/sdl2-cmake-scripts",
+                "github": "tcbrindle/sdl2-cmake-scripts",
+                "type": "github"
+            },
+            {
+                "title": "vfxcmake",
+                "href": "https://github.com/nerdvegas/vfxcmake",
+                "github": "nerdvegas/vfxcmake",
+                "type": "github"
+            },
+            {
+                "title": "cmake-modules",
+                "href": "https://github.com/jedbrown/cmake-modules",
+                "github": "jedbrown/cmake-modules",
+                "type": "github"
+            },
+            {
+                "title": "cgcmake",
+                "href": "https://github.com/chadmv/cgcmake",
+                "github": "chadmv/cgcmake",
+                "type": "github"
+            },
+            {
+                "title": "FindMathematica",
+                "href": "https://github.com/sakra/FindMathematica",
+                "github": "sakra/FindMathematica",
+                "type": "github"
+            },
+            {
+                "title": "extra-cmake-modules",
+                "href": "https://github.com/KDE/extra-cmake-modules",
+                "github": "KDE/extra-cmake-modules",
+                "type": "github"
+            },
+            {
+                "title": "FindICU.cmake",
+                "href": "https://github.com/julp/FindICU.cmake",
+                "github": "julp/FindICU.cmake",
+                "type": "github"
+            },
+            {
+                "title": "FindTBB",
+                "href": "https://github.com/justusc/FindTBB",
+                "github": "justusc/FindTBB",
+                "type": "github"
+            },
+            {
+                "title": "cmake-modules",
+                "href": "https://github.com/hanjianwei/cmake-modules",
+                "github": "hanjianwei/cmake-modules",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utility Scripts",
+        "childrens": [
+            {
+                "title": "cotire",
+                "href": "https://github.com/sakra/cotire",
+                "github": "sakra/cotire",
+                "type": "github"
+            },
+            {
+                "title": "ucm",
+                "href": "https://github.com/onqtam/ucm",
+                "github": "onqtam/ucm",
+                "type": "github"
+            },
+            {
+                "title": "cmakepp",
+                "href": "https://github.com/toeb/cmakepp",
+                "github": "toeb/cmakepp",
+                "type": "github"
+            },
+            {
+                "title": "sugar",
+                "href": "https://github.com/ruslo/sugar",
+                "github": "ruslo/sugar",
+                "type": "github"
+            },
+            {
+                "title": "DownloadProject",
+                "href": "https://github.com/Crascit/DownloadProject",
+                "github": "Crascit/DownloadProject",
+                "type": "github"
+            },
+            {
+                "title": "buildem",
+                "href": "https://github.com/janelia-flyem/buildem",
+                "github": "janelia-flyem/buildem",
+                "type": "github"
+            },
+            {
+                "title": "coveralls-cmake",
+                "href": "https://github.com/JoakimSoderberg/coveralls-cmake",
+                "github": "JoakimSoderberg/coveralls-cmake",
+                "type": "github"
+            },
+            {
+                "title": "compatibility",
+                "href": "https://github.com/foonathan/compatibility",
+                "github": "foonathan/compatibility",
+                "type": "github"
+            },
+            {
+                "title": "cmake-modules",
+                "href": "https://github.com/Tronic/cmake-modules",
+                "github": "Tronic/cmake-modules",
+                "type": "github"
+            },
+            {
+                "title": "GreatCMakeCookOff",
+                "href": "https://github.com/UCL/GreatCMakeCookOff",
+                "github": "UCL/GreatCMakeCookOff",
+                "type": "github"
+            },
+            {
+                "title": "cppcheck-target-cmake",
+                "href": "https://github.com/polysquare/cppcheck-target-cmake",
+                "github": "polysquare/cppcheck-target-cmake",
+                "type": "github"
+            },
+            {
+                "title": "clang-tidy-target-cmake",
+                "href": "https://github.com/polysquare/clang-tidy-target-cmake",
+                "github": "polysquare/clang-tidy-target-cmake",
+                "type": "github"
+            },
+            {
+                "title": "cmake-unit",
+                "href": "https://github.com/polysquare/cmake-unit",
+                "github": "polysquare/cmake-unit",
+                "type": "github"
+            },
+            {
+                "title": "cmake-header-language",
+                "href": "https://github.com/polysquare/cmake-header-language",
+                "github": "polysquare/cmake-header-language",
+                "type": "github"
+            },
+            {
+                "title": "tooling-cmake-util",
+                "href": "https://github.com/polysquare/tooling-cmake-util",
+                "github": "polysquare/tooling-cmake-util",
+                "type": "github"
+            },
+            {
+                "title": "iwyu-target-cmake",
+                "href": "https://github.com/polysquare/iwyu-target-cmake",
+                "github": "polysquare/iwyu-target-cmake",
+                "type": "github"
+            },
+            {
+                "title": "sanitizers-cmake",
+                "href": "https://github.com/arsenm/sanitizers-cmake",
+                "github": "arsenm/sanitizers-cmake",
+                "type": "github"
+            },
+            {
+                "title": "cmake-precompiled-header",
+                "href": "https://github.com/larsch/cmake-precompiled-header",
+                "github": "larsch/cmake-precompiled-header",
+                "type": "github"
+            },
+            {
+                "title": "CMakePCHCompiler",
+                "href": "https://github.com/nanoant/CMakePCHCompiler",
+                "github": "nanoant/CMakePCHCompiler",
+                "type": "github"
+            },
+            {
+                "title": "CMake-codecov",
+                "href": "https://github.com/RWTH-ELP/CMake-codecov",
+                "github": "RWTH-ELP/CMake-codecov",
+                "type": "github"
+            },
+            {
+                "title": "leatherman",
+                "href": "https://github.com/puppetlabs/leatherman",
+                "github": "puppetlabs/leatherman",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Toolchains",
+        "childrens": [
+            {
+                "title": "dockcross",
+                "href": "https://github.com/dockcross/dockcross",
+                "github": "dockcross/dockcross",
+                "type": "github"
+            },
+            {
+                "title": "android-cmake",
+                "href": "https://github.com/taka-no-me/android-cmake",
+                "github": "taka-no-me/android-cmake",
+                "type": "github"
+            },
+            {
+                "title": "ios-cmake",
+                "href": "https://github.com/cristeab/ios-cmake",
+                "github": "cristeab/ios-cmake",
+                "type": "github"
+            },
+            {
+                "title": "qt-android-cmake",
+                "href": "https://github.com/LaurentGomila/qt-android-cmake",
+                "github": "LaurentGomila/qt-android-cmake",
+                "type": "github"
+            },
+            {
+                "title": "mingw-w64-cmake",
+                "href": "https://github.com/lachs0r/mingw-w64-cmake",
+                "github": "lachs0r/mingw-w64-cmake",
+                "type": "github"
+            },
+            {
+                "title": "cmake-avr",
+                "href": "https://github.com/mkleemann/cmake-avr",
+                "github": "mkleemann/cmake-avr",
+                "type": "github"
+            },
+            {
+                "title": "arduino-cmake",
+                "href": "https://github.com/francoiscampbell/arduino-cmake",
+                "github": "francoiscampbell/arduino-cmake",
+                "type": "github"
+            },
+            {
+                "title": "polly",
+                "href": "https://github.com/ruslo/polly",
+                "github": "ruslo/polly",
+                "type": "github"
+            },
+            {
+                "title": "toolchains",
+                "href": "https://github.com/mosra/toolchains",
+                "github": "mosra/toolchains",
+                "type": "github"
+            },
+            {
+                "title": "cmake",
+                "href": "https://github.com/staticlibs/cmake/tree/master/toolchains",
+                "github": "staticlibs/cmake/tree/master/toolchains",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials / Examples / Templates",
+        "childrens": [
+            {
+                "title": "cmake-init",
+                "href": "https://github.com/cginternals/cmake-init",
+                "github": "cginternals/cmake-init",
+                "type": "github"
+            },
+            {
+                "title": "learning-cmake",
+                "href": "https://github.com/Akagi201/learning-cmake",
+                "github": "Akagi201/learning-cmake",
+                "type": "github"
+            },
+            {
+                "title": "cmake_test",
+                "href": "https://github.com/skebanga/cmake_test",
+                "github": "skebanga/cmake_test",
+                "type": "github"
+            },
+            {
+                "title": "android-cmake",
+                "href": "https://github.com/forexample/android-cmake",
+                "github": "forexample/android-cmake",
+                "type": "github"
+            },
+            {
+                "title": "hunter-simple",
+                "href": "https://github.com/forexample/hunter-simple",
+                "github": "forexample/hunter-simple",
+                "type": "github"
+            },
+            {
+                "title": "weather",
+                "href": "https://github.com/ruslo/weather",
+                "github": "ruslo/weather",
+                "type": "github"
+            },
+            {
+                "title": "package-example",
+                "href": "https://github.com/forexample/package-example",
+                "github": "forexample/package-example",
+                "type": "github"
+            },
+            {
+                "title": "CMakeTemplates",
+                "href": "https://github.com/OutOfOrder/CMakeTemplates",
+                "github": "OutOfOrder/CMakeTemplates",
+                "type": "github"
+            },
+            {
+                "title": "minimal_cmake_example",
+                "href": "https://github.com/krux02/minimal_cmake_example",
+                "github": "krux02/minimal_cmake_example",
+                "type": "github"
+            },
+            {
+                "title": "cmake-example",
+                "href": "https://github.com/bast/cmake-example",
+                "github": "bast/cmake-example",
+                "type": "github"
+            },
+            {
+                "title": "cmake-examples",
+                "href": "https://github.com/ttroy50/cmake-examples",
+                "github": "ttroy50/cmake-examples",
+                "type": "github"
+            },
+            {
+                "title": "cmake-templates",
+                "href": "https://github.com/district10/cmake-templates",
+                "github": "district10/cmake-templates",
+                "type": "github"
+            },
+            {
+                "title": "CppProjectTemplate",
+                "href": "https://github.com/Barthelemy/CppProjectTemplate",
+                "github": "Barthelemy/CppProjectTemplate",
+                "type": "github"
+            },
+            {
+                "title": "mini-cmake-qt",
+                "href": "https://github.com/euler0/mini-cmake-qt",
+                "github": "euler0/mini-cmake-qt",
+                "type": "github"
+            },
+            {
+                "title": "CMake-VisualStudio-Example",
+                "href": "https://github.com/cognitivewaves/CMake-VisualStudio-Example",
+                "github": "cognitivewaves/CMake-VisualStudio-Example",
+                "type": "github"
+            },
+            {
+                "title": "Cpp-Project-Template",
+                "href": "https://github.com/NewProggie/Cpp-Project-Template",
+                "github": "NewProggie/Cpp-Project-Template",
+                "type": "github"
+            },
+            {
+                "title": "BASIS",
+                "href": "https://github.com/cmake-basis/BASIS",
+                "github": "cmake-basis/BASIS",
+                "type": "github"
+            },
+            {
+                "title": "OpenGL_CMake_Skeleton",
+                "href": "https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton",
+                "github": "ArthurSonzogni/OpenGL_CMake_Skeleton",
+                "type": "github"
+            },
+            {
+                "title": "coveralls-cmake-example",
+                "href": "https://github.com/JoakimSoderberg/coveralls-cmake-example",
+                "github": "JoakimSoderberg/coveralls-cmake-example",
+                "type": "github"
+            },
+            {
+                "title": "cppbase",
+                "href": "https://github.com/kartikkumar/cppbase",
+                "github": "kartikkumar/cppbase",
+                "type": "github"
+            },
+            {
+                "title": "Arduino-CMake-Template",
+                "href": "https://github.com/maxbader/Arduino-CMake-Template",
+                "github": "maxbader/Arduino-CMake-Template",
+                "type": "github"
+            },
+            {
+                "title": "c-template",
+                "href": "https://github.com/fletcher/c-template",
+                "github": "fletcher/c-template",
+                "type": "github"
+            },
+            {
+                "title": "cpp_project_template",
+                "href": "https://github.com/duckie/cpp_project_template",
+                "github": "duckie/cpp_project_template",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "autocmake",
+                "href": "https://github.com/coderefinery/autocmake",
+                "github": "coderefinery/autocmake",
+                "type": "github"
+            },
+            {
+                "title": "UseLATEX",
+                "href": "https://github.com/kmorel/UseLATEX",
+                "github": "kmorel/UseLATEX",
+                "type": "github"
+            },
+            {
+                "title": "python-cmake-buildsystem",
+                "href": "https://github.com/python-cmake-buildsystem/python-cmake-buildsystem",
+                "github": "python-cmake-buildsystem/python-cmake-buildsystem",
+                "type": "github"
+            },
+            {
+                "title": "scikit-build",
+                "href": "https://github.com/scikit-build/scikit-build",
+                "github": "scikit-build/scikit-build",
+                "type": "github"
+            },
+            {
+                "title": "protobuf-cmake",
+                "href": "https://github.com/jesperes/protobuf-cmake",
+                "github": "jesperes/protobuf-cmake",
+                "type": "github"
+            },
+            {
+                "title": "node-cmake",
+                "href": "https://github.com/cjntaylor/node-cmake",
+                "github": "cjntaylor/node-cmake",
+                "type": "github"
+            },
+            {
+                "title": "cmake-font-lock",
+                "href": "https://github.com/Lindydancer/cmake-font-lock",
+                "github": "Lindydancer/cmake-font-lock",
+                "type": "github"
+            },
+            {
+                "title": "stm32-cmake",
+                "href": "https://github.com/ObKo/stm32-cmake",
+                "github": "ObKo/stm32-cmake",
+                "type": "github"
+            },
+            {
+                "title": "autovala",
+                "href": "https://github.com/rastersoft/autovala",
+                "github": "rastersoft/autovala",
+                "type": "github"
+            },
+            {
+                "title": "catkin",
+                "href": "https://github.com/ros/catkin",
+                "github": "ros/catkin",
+                "type": "github"
+            },
+            {
+                "title": "suitesparse-metis-for-windows",
+                "href": "https://github.com/jlblancoc/suitesparse-metis-for-windows",
+                "github": "jlblancoc/suitesparse-metis-for-windows",
+                "type": "github"
+            },
+            {
+                "title": "cython-cmake-example",
+                "href": "https://github.com/thewtex/cython-cmake-example",
+                "github": "thewtex/cython-cmake-example",
+                "type": "github"
+            },
+            {
+                "title": "osg-3rdparty-cmake",
+                "href": "https://github.com/bjornblissing/osg-3rdparty-cmake",
+                "github": "bjornblissing/osg-3rdparty-cmake",
+                "type": "github"
+            },
+            {
+                "title": "cmake-d",
+                "href": "https://github.com/dcarp/cmake-d",
+                "github": "dcarp/cmake-d",
+                "type": "github"
+            },
+            {
+                "title": "cmakeprojectmanager2",
+                "href": "https://github.com/h4tr3d/cmakeprojectmanager2",
+                "github": "h4tr3d/cmakeprojectmanager2",
+                "type": "github"
+            },
+            {
+                "title": "ycm",
+                "href": "https://github.com/robotology/ycm",
+                "github": "robotology/ycm",
+                "type": "github"
+            },
+            {
+                "title": "cmake-lint",
+                "href": "https://github.com/richq/cmake-lint",
+                "github": "richq/cmake-lint",
+                "type": "github"
+            },
+            {
+                "title": "git-cmake-format",
+                "href": "https://github.com/kbenzie/git-cmake-format",
+                "github": "kbenzie/git-cmake-format",
+                "type": "github"
+            },
+            {
+                "title": "configure-cmake",
+                "href": "https://github.com/nemequ/configure-cmake",
+                "github": "nemequ/configure-cmake",
+                "type": "github"
+            },
+            {
+                "title": "tbb",
+                "href": "https://github.com/wjakob/tbb",
+                "github": "wjakob/tbb",
+                "type": "github"
+            },
+            {
+                "title": "sqlite.cmake.build",
+                "href": "https://github.com/snikulov/sqlite.cmake.build",
+                "github": "snikulov/sqlite.cmake.build",
+                "type": "github"
+            },
+            {
+                "title": "cmake-ast",
+                "href": "https://github.com/polysquare/cmake-ast",
+                "github": "polysquare/cmake-ast",
+                "type": "github"
+            }
+        ]
+    }
+]

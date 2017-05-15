@@ -1,0 +1,283 @@
+[
+    {
+        "heading": "Official resources",
+        "childrens": [
+            {
+                "title": "Docs",
+                "href": "https://github.com/yoshuawuyts/choo/blob/master/README.md",
+                "github": "yoshuawuyts/choo/blob/master/README.md",
+                "type": "github"
+            },
+            {
+                "title": "Handbook",
+                "href": "https://github.com/yoshuawuyts/choo-handbook",
+                "github": "yoshuawuyts/choo-handbook",
+                "type": "github"
+            },
+            {
+                "title": "Repo",
+                "href": "https://github.com/yoshuawuyts/choo",
+                "github": "yoshuawuyts/choo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dependencies",
+        "childrens": [
+            {
+                "title": "yo-yo",
+                "href": "https://github.com/maxogden/yo-yo",
+                "github": "maxogden/yo-yo",
+                "type": "github"
+            },
+            {
+                "title": "bel",
+                "href": "https://github.com/shama/bel",
+                "github": "shama/bel",
+                "type": "github"
+            },
+            {
+                "title": "hyperx",
+                "href": "https://github.com/substack/hyperx",
+                "github": "substack/hyperx",
+                "type": "github"
+            },
+            {
+                "title": "morphdom",
+                "href": "https://github.com/patrick-steele-idem/morphdom",
+                "github": "patrick-steele-idem/morphdom",
+                "type": "github"
+            },
+            {
+                "title": "nanoraf",
+                "href": "https://github.com/yoshuawuyts/nanoraf",
+                "github": "yoshuawuyts/nanoraf",
+                "type": "github"
+            },
+            {
+                "title": "barracks",
+                "href": "https://github.com/yoshuawuyts/barracks",
+                "github": "yoshuawuyts/barracks",
+                "type": "github"
+            },
+            {
+                "title": "sheet-router",
+                "href": "https://github.com/yoshuawuyts/sheet-router",
+                "github": "yoshuawuyts/sheet-router",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Demos",
+        "childrens": [
+            {
+                "title": "Mailbox routing",
+                "href": "https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox",
+                "github": "yoshuawuyts/choo/tree/master/examples/mailbox",
+                "type": "github"
+            },
+            {
+                "title": "chat-random",
+                "href": "https://github.com/akiva/chat-random",
+                "github": "akiva/chat-random",
+                "type": "github"
+            },
+            {
+                "title": "choo-leaflet-demo",
+                "href": "https://github.com/timwis/choo-leaflet-demo",
+                "github": "timwis/choo-leaflet-demo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Plugins and addons",
+        "childrens": [
+            {
+                "title": "choo-location-electron",
+                "href": "https://github.com/bcomnes/choo-location-electron",
+                "github": "bcomnes/choo-location-electron",
+                "type": "github"
+            },
+            {
+                "title": "choo-log",
+                "href": "https://github.com/yoshuawuyts/choo-log",
+                "github": "yoshuawuyts/choo-log",
+                "type": "github"
+            },
+            {
+                "title": "choo-test",
+                "href": "https://github.com/mantoni/choo-test",
+                "github": "mantoni/choo-test",
+                "type": "github"
+            },
+            {
+                "title": "choo-persist",
+                "href": "https://github.com/yoshuawuyts/choo-persist/",
+                "github": "yoshuawuyts/choo-persist/",
+                "type": "github"
+            },
+            {
+                "title": "choo-promise",
+                "href": "https://github.com/rahatarmanahmed/choo-promise",
+                "github": "rahatarmanahmed/choo-promise",
+                "type": "github"
+            },
+            {
+                "title": "choo-pull",
+                "href": "https://github.com/yoshuawuyts/choo-pull",
+                "github": "yoshuawuyts/choo-pull",
+                "type": "github"
+            },
+            {
+                "title": "choo-redirect",
+                "href": "https://github.com/yoshuawuyts/choo-redirect",
+                "github": "yoshuawuyts/choo-redirect",
+                "type": "github"
+            },
+            {
+                "title": "choo-model",
+                "href": "https://github.com/yoshuawuyts/choo-model",
+                "github": "yoshuawuyts/choo-model",
+                "type": "github"
+            },
+            {
+                "title": "choo-resume",
+                "href": "https://github.com/bengourley/choo-resume",
+                "github": "bengourley/choo-resume",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elements",
+        "childrens": [
+            {
+                "title": "dom-notifications",
+                "href": "https://github.com/finnp/dom-notifications",
+                "github": "finnp/dom-notifications",
+                "type": "github"
+            },
+            {
+                "title": "choodown",
+                "href": "https://github.com/trainyard/choodown",
+                "github": "trainyard/choodown",
+                "type": "github"
+            },
+            {
+                "title": "choo-md-editor",
+                "href": "https://github.com/dbtek/choo-md-editor",
+                "github": "dbtek/choo-md-editor",
+                "type": "github"
+            },
+            {
+                "title": "choo-chartist",
+                "href": "https://github.com/rexmortus/choo-chartist",
+                "github": "rexmortus/choo-chartist",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CLI Templates",
+        "childrens": [
+            {
+                "title": "trainyard/template-basic",
+                "href": "https://github.com/trainyard/template-basic",
+                "github": "trainyard/template-basic",
+                "type": "github"
+            },
+            {
+                "title": "haroenv/template-webpack",
+                "href": "https://github.com/haroenv/template-webpack",
+                "github": "haroenv/template-webpack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Projects using choo",
+        "childrens": [
+            {
+                "title": "boxcar",
+                "href": "https://github.com/toddself/boxcar",
+                "github": "toddself/boxcar",
+                "type": "github"
+            },
+            {
+                "title": "choo-sortable",
+                "href": "https://github.com/willkessler/choo-sortable",
+                "github": "willkessler/choo-sortable",
+                "type": "github"
+            },
+            {
+                "title": "hacker-choo",
+                "href": "https://github.com/mw222rs/hacker-choo",
+                "github": "mw222rs/hacker-choo",
+                "type": "github"
+            },
+            {
+                "title": "footprint-rechoo",
+                "href": "https://github.com/npeihl/footprint-rechoo",
+                "github": "npeihl/footprint-rechoo",
+                "type": "github"
+            },
+            {
+                "title": "minidocs",
+                "href": "https://github.com/freeman-lab/minidocs",
+                "github": "freeman-lab/minidocs",
+                "type": "github"
+            },
+            {
+                "title": "dataface",
+                "href": "https://github.com/timwis/dataface",
+                "github": "timwis/dataface",
+                "type": "github"
+            },
+            {
+                "title": "BlankUp",
+                "href": "https://github.com/HoverBaum/BlankUp-Electron",
+                "github": "HoverBaum/BlankUp-Electron",
+                "type": "github"
+            },
+            {
+                "title": "hackernews-choo",
+                "href": "https://github.com/kvnneff/hackernews-choo",
+                "github": "kvnneff/hackernews-choo",
+                "type": "github"
+            },
+            {
+                "title": "tic-tac-choo",
+                "href": "https://github.com/YerkoPalma/tic-tac-toe",
+                "github": "YerkoPalma/tic-tac-toe",
+                "type": "github"
+            },
+            {
+                "title": "enviar",
+                "href": "https://github.com/timwis/enviar",
+                "github": "timwis/enviar",
+                "type": "github"
+            },
+            {
+                "title": "kaktus",
+                "href": "https://github.com/kaktus/kaktus",
+                "github": "kaktus/kaktus",
+                "type": "github"
+            },
+            {
+                "title": "civicdr.org",
+                "href": "https://github.com/CiviCDR/civicdr.org",
+                "github": "CiviCDR/civicdr.org",
+                "type": "github"
+            },
+            {
+                "title": "nekocafe",
+                "href": "https://github.com/notenoughneon/nekocafe",
+                "github": "notenoughneon/nekocafe",
+                "type": "github"
+            }
+        ]
+    }
+]

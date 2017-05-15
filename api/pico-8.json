@@ -1,0 +1,123 @@
+[
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "Going from Lua 5.2 to PICO-8's Lua",
+                "href": "https://gist.github.com/josefnpat/bfe4aaa5bbb44f572cd0",
+                "github": ".com/josefnpat/bfe4aaa5bbb44f572cd0",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Token optimization",
+                "href": "https://github.com/seleb/PICO-8-Token-Optimizations",
+                "github": "seleb/PICO-8-Token-Optimizations",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "pico2png",
+                "href": "https://github.com/briacp/pico2png",
+                "github": "briacp/pico2png",
+                "type": "github"
+            },
+            {
+                "title": "Pico8Utils",
+                "href": "https://github.com/josefnpat/pico8utils",
+                "github": "josefnpat/pico8utils",
+                "type": "github"
+            },
+            {
+                "title": "picotool",
+                "href": "https://github.com/dansanderson/picotool",
+                "github": "dansanderson/picotool",
+                "type": "github"
+            },
+            {
+                "title": "p8dl - Carts Downloader - Python",
+                "href": "https://github.com/franciscod/p8dl",
+                "github": "franciscod/p8dl",
+                "type": "github"
+            },
+            {
+                "title": "Pico-8 Carts Downloader - Bash ",
+                "href": "https://github.com/kikookoubis/pico-8-carts-bash-downloader",
+                "github": "kikookoubis/pico-8-carts-bash-downloader",
+                "type": "github"
+            },
+            {
+                "title": "p8 responsive webplayer transform",
+                "href": "https://github.com/benwiley4000/pico8-responsive-webplayer-transform",
+                "github": "benwiley4000/pico8-responsive-webplayer-transform",
+                "type": "github"
+            },
+            {
+                "title": "pico-test",
+                "href": "https://github.com/jozanza/pico-test",
+                "github": "jozanza/pico-test",
+                "type": "github"
+            },
+            {
+                "title": "Lib-Pico8",
+                "href": "https://github.com/clowerweb/Lib-Pico8",
+                "github": "clowerweb/Lib-Pico8",
+                "type": "github"
+            },
+            {
+                "title": "pico8-missing-builtins",
+                "href": "https://github.com/adamscott/pico8-missing-builtins",
+                "github": "adamscott/pico8-missing-builtins",
+                "type": "github"
+            },
+            {
+                "title": "P8Coder",
+                "href": "https://github.com/movAX13h/P8Coder",
+                "github": "movAX13h/P8Coder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hacks - undocumented PICO-8 features",
+        "childrens": [
+            {
+                "title": "p8keyboard.js",
+                "href": "https://github.com/dppc/p8keyboard.js",
+                "github": "dppc/p8keyboard.js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Clones",
+        "childrens": [
+            {
+                "title": "PicoLove",
+                "href": "https://github.com/gamax92/picolove",
+                "github": "gamax92/picolove",
+                "type": "github"
+            },
+            {
+                "title": "LIKO-12",
+                "href": "https://github.com/RamiLego4Game/LIKO-12",
+                "github": "RamiLego4Game/LIKO-12",
+                "type": "github"
+            },
+            {
+                "title": "PX8",
+                "href": "https://github.com/Gigoteur/PX8",
+                "github": "Gigoteur/PX8",
+                "type": "github"
+            }
+        ]
+    }
+]

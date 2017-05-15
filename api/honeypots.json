@@ -1,0 +1,30 @@
+[
+    {
+        "heading": "Related Lists",
+        "childrens": [
+            {
+                "title": "awesome-pcaptools",
+                "href": "https://github.com/caesar0301/awesome-pcaptools",
+                "github": "caesar0301/awesome-pcaptools",
+                "type": "github"
+            },
+            {
+                "title": "awesome-malware-analysis",
+                "href": "https://github.com/rshipp/awesome-malware-analysis",
+                "github": "rshipp/awesome-malware-analysis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "<a name=\"guides\">",
+        "childrens": [
+            {
+                "title": "Honeypot (Dionaea and kippo) setup script",
+                "href": "https://github.com/andrewmichaelsmith/honeypot-setup-script/",
+                "github": "andrewmichaelsmith/honeypot-setup-script/",
+                "type": "github"
+            }
+        ]
+    }
+]

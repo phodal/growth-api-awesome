@@ -1,0 +1,1040 @@
+[
+    {
+        "heading": "Applications written in Rust",
+        "childrens": [
+            {
+                "title": "andschwa/rust-genetic-algorithm",
+                "href": "https://github.com/andschwa/rust-genetic-algorithm",
+                "github": "andschwa/rust-genetic-algorithm",
+                "type": "github"
+            },
+            {
+                "title": "azerupi/mdBook",
+                "href": "https://github.com/azerupi/mdBook",
+                "github": "azerupi/mdBook",
+                "type": "github"
+            },
+            {
+                "title": "bluejekyll/trust-dns",
+                "href": "https://github.com/bluejekyll/trust-dns",
+                "github": "bluejekyll/trust-dns",
+                "type": "github"
+            },
+            {
+                "title": "ivanceras/curtain",
+                "href": "https://github.com/ivanceras/curtain",
+                "github": "ivanceras/curtain",
+                "type": "github"
+            },
+            {
+                "title": "darrint/device-blocker",
+                "href": "https://github.com/darrint/device-blocker",
+                "github": "darrint/device-blocker",
+                "type": "github"
+            },
+            {
+                "title": "dlecan/generic-dns-update",
+                "href": "https://github.com/dlecan/generic-dns-update",
+                "github": "dlecan/generic-dns-update",
+                "type": "github"
+            },
+            {
+                "title": "Factotum",
+                "href": "https://github.com/snowplow/factotum",
+                "github": "snowplow/factotum",
+                "type": "github"
+            },
+            {
+                "title": "Fractalide",
+                "href": "https://github.com/fractalide/fractalide",
+                "github": "fractalide/fractalide",
+                "type": "github"
+            },
+            {
+                "title": "imjacobclark/Herd",
+                "href": "https://github.com/imjacobclark/Herd",
+                "github": "imjacobclark/Herd",
+                "type": "github"
+            },
+            {
+                "title": "intecture/api",
+                "href": "https://github.com/intecture/api",
+                "github": "intecture/api",
+                "type": "github"
+            },
+            {
+                "title": "jedisct1/flowgger",
+                "href": "https://github.com/jedisct1/flowgger",
+                "github": "jedisct1/flowgger",
+                "type": "github"
+            },
+            {
+                "title": "jwilm/alacritty",
+                "href": "https://github.com/jwilm/alacritty",
+                "github": "jwilm/alacritty",
+                "type": "github"
+            },
+            {
+                "title": "kbknapp/docli",
+                "href": "https://github.com/kbknapp/docli-rs",
+                "github": "kbknapp/docli-rs",
+                "type": "github"
+            },
+            {
+                "title": "notty",
+                "href": "https://github.com/withoutboats/notty",
+                "github": "withoutboats/notty",
+                "type": "github"
+            },
+            {
+                "title": "qmx/limonite",
+                "href": "https://github.com/qmx/limonite",
+                "github": "qmx/limonite",
+                "type": "github"
+            },
+            {
+                "title": "Sandstorm Collections App",
+                "href": "https://github.com/sandstorm-io/collections-app",
+                "github": "sandstorm-io/collections-app",
+                "type": "github"
+            },
+            {
+                "title": "Servo",
+                "href": "https://github.com/servo/servo",
+                "github": "servo/servo",
+                "type": "github"
+            },
+            {
+                "title": "Parity",
+                "href": "https://github.com/paritytech/parity",
+                "github": "paritytech/parity",
+                "type": "github"
+            },
+            {
+                "title": "parity-bitcoin",
+                "href": "https://github.com/paritytech/parity-bitcoin",
+                "github": "paritytech/parity-bitcoin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development tools",
+        "childrens": [
+            {
+                "title": "Clippy",
+                "href": "https://github.com/Manishearth/rust-clippy",
+                "github": "Manishearth/rust-clippy",
+                "type": "github"
+            },
+            {
+                "title": "clog-tool/clog-cli",
+                "href": "https://github.com/clog-tool/clog-cli",
+                "github": "clog-tool/clog-cli",
+                "type": "github"
+            },
+            {
+                "title": "dan-t/rusty-tags",
+                "href": "https://github.com/dan-t/rusty-tags",
+                "github": "dan-t/rusty-tags",
+                "type": "github"
+            },
+            {
+                "title": "frewsxcv/crate-deps",
+                "href": "https://github.com/frewsxcv/crate-deps",
+                "github": "frewsxcv/crate-deps",
+                "type": "github"
+            },
+            {
+                "title": "git-journal",
+                "href": "https://github.com/saschagrunert/git-journal/",
+                "github": "saschagrunert/git-journal/",
+                "type": "github"
+            },
+            {
+                "title": "killercup/rustfix",
+                "href": "https://github.com/killercup/rustfix",
+                "github": "killercup/rustfix",
+                "type": "github"
+            },
+            {
+                "title": "Racer",
+                "href": "https://github.com/phildawes/racer",
+                "github": "phildawes/racer",
+                "type": "github"
+            },
+            {
+                "title": "rustfmt",
+                "href": "https://github.com/rust-lang-nursery/rustfmt",
+                "github": "rust-lang-nursery/rustfmt",
+                "type": "github"
+            },
+            {
+                "title": "Rustup",
+                "href": "https://github.com/rust-lang-nursery/rustup.rs",
+                "github": "rust-lang-nursery/rustup.rs",
+                "type": "github"
+            },
+            {
+                "title": "Rust Language Server",
+                "href": "https://github.com/jonathandturner/rls",
+                "github": "jonathandturner/rls",
+                "type": "github"
+            },
+            {
+                "title": "artifact",
+                "href": "https://github.com/vitiral/artifact",
+                "github": "vitiral/artifact",
+                "type": "github"
+            },
+            {
+                "title": "semantic-rs",
+                "href": "https://github.com/semantic-rs/semantic-rs",
+                "github": "semantic-rs/semantic-rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDEs",
+        "childrens": [
+            {
+                "title": "Ride",
+                "href": "https://github.com/madeso/ride",
+                "github": "madeso/ride",
+                "type": "github"
+            },
+            {
+                "title": "SolidOak",
+                "href": "https://github.com/oakes/SolidOak",
+                "github": "oakes/SolidOak",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Pattern Recognition",
+        "childrens": [
+            {
+                "title": "sfikas/rusteval",
+                "href": "https://github.com/sfikas/rusteval",
+                "github": "sfikas/rusteval",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Profiling",
+        "childrens": [
+            {
+                "title": "ellisonch/rust-stopwatch",
+                "href": "https://github.com/ellisonch/rust-stopwatch",
+                "github": "ellisonch/rust-stopwatch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "BurntSushi/quickcheck",
+                "href": "https://github.com/BurntSushi/quickcheck",
+                "github": "BurntSushi/quickcheck",
+                "type": "github"
+            },
+            {
+                "title": "farcaller/shiny",
+                "href": "https://github.com/farcaller/shiny",
+                "github": "farcaller/shiny",
+                "type": "github"
+            },
+            {
+                "title": "frewsxcv/afl.rs",
+                "href": "https://github.com/frewsxcv/afl.rs",
+                "github": "frewsxcv/afl.rs",
+                "type": "github"
+            },
+            {
+                "title": "reem/stainless",
+                "href": "https://github.com/reem/stainless",
+                "github": "reem/stainless",
+                "type": "github"
+            },
+            {
+                "title": "AlKass/polish",
+                "href": "https://github.com/AlKass/polish",
+                "github": "AlKass/polish",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Astronomy",
+        "childrens": [
+            {
+                "title": "saurvs/astro-rust",
+                "href": "https://github.com/saurvs/astro-rust",
+                "github": "saurvs/astro-rust",
+                "type": "github"
+            },
+            {
+                "title": "mindriot101/rust-fitsio",
+                "href": "https://github.com/mindriot101/rust-fitsio",
+                "github": "mindriot101/rust-fitsio",
+                "type": "github"
+            },
+            {
+                "title": "flosse/rust-sun",
+                "href": "https://github.com/flosse/rust-sun",
+                "github": "flosse/rust-sun",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Asynchronous",
+        "childrens": [
+            {
+                "title": "zonyitoo/coio-rs",
+                "href": "https://github.com/zonyitoo/coio-rs",
+                "github": "zonyitoo/coio-rs",
+                "type": "github"
+            },
+            {
+                "title": "dpc/mioco",
+                "href": "https://github.com/dpc/mioco",
+                "github": "dpc/mioco",
+                "type": "github"
+            },
+            {
+                "title": "alexcrichton/futures-rs",
+                "href": "https://github.com/alexcrichton/futures-rs",
+                "github": "alexcrichton/futures-rs",
+                "type": "github"
+            },
+            {
+                "title": "carllerche/mio",
+                "href": "https://github.com/carllerche/mio",
+                "github": "carllerche/mio",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio",
+        "childrens": [
+            {
+                "title": "GuillaumeGomez/rust-fmod",
+                "href": "https://github.com/GuillaumeGomez/rust-fmod",
+                "github": "GuillaumeGomez/rust-fmod",
+                "type": "github"
+            },
+            {
+                "title": "jhasse/ears",
+                "href": "https://github.com/jhasse/ears",
+                "github": "jhasse/ears",
+                "type": "github"
+            },
+            {
+                "title": "jpernst/openal-rs",
+                "href": "https://github.com/jpernst/openal-rs",
+                "github": "jpernst/openal-rs",
+                "type": "github"
+            },
+            {
+                "title": "musitdev/portmidi-rs",
+                "href": "https://github.com/musitdev/portmidi-rs",
+                "github": "musitdev/portmidi-rs",
+                "type": "github"
+            },
+            {
+                "title": "ruuda/hound",
+                "href": "https://github.com/ruuda/hound",
+                "github": "ruuda/hound",
+                "type": "github"
+            },
+            {
+                "title": "RustAudio",
+                "href": "https://github.com/RustAudio",
+                "github": "RustAudio",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication",
+        "childrens": [
+            {
+                "title": "keats/rust-jwt",
+                "href": "https://github.com/keats/rust-jwt",
+                "github": "keats/rust-jwt",
+                "type": "github"
+            },
+            {
+                "title": "hngiang/rust-accountkit",
+                "href": "https://github.com/hngiang/rust-accountkit",
+                "github": "hngiang/rust-accountkit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bioinformatics",
+        "childrens": [
+            {
+                "title": "Rust-Bio",
+                "href": "https://github.com/rust-bio",
+                "github": "rust-bio",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "jaysonsantos/bmemcached-rs",
+                "href": "https://github.com/jaysonsantos/bmemcached-rs",
+                "github": "jaysonsantos/bmemcached-rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Concurrency",
+        "childrens": [
+            {
+                "title": "aturon/crossbeam",
+                "href": "https://github.com/aturon/crossbeam",
+                "github": "aturon/crossbeam",
+                "type": "github"
+            },
+            {
+                "title": "nikomatsakis/rayon",
+                "href": "https://github.com/nikomatsakis/rayon",
+                "github": "nikomatsakis/rayon",
+                "type": "github"
+            },
+            {
+                "title": "rustcc/coroutine-rs",
+                "href": "https://github.com/rustcc/coroutine-rs",
+                "github": "rustcc/coroutine-rs",
+                "type": "github"
+            },
+            {
+                "title": "zonyitoo/coio-rs",
+                "href": "https://github.com/zonyitoo/coio-rs",
+                "github": "zonyitoo/coio-rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Command-line argument parsing",
+        "childrens": [
+            {
+                "title": "docopt/docopt.rs",
+                "href": "https://github.com/docopt/docopt.rs",
+                "github": "docopt/docopt.rs",
+                "type": "github"
+            },
+            {
+                "title": "kbknapp/clap-rs",
+                "href": "https://github.com/kbknapp/clap-rs",
+                "github": "kbknapp/clap-rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Command-line interface",
+        "childrens": [
+            {
+                "title": "kkawakam/rustyline",
+                "href": "https://github.com/kkawakam/rustyline",
+                "github": "kkawakam/rustyline",
+                "type": "github"
+            },
+            {
+                "title": "srijs/rust-copperline",
+                "href": "https://github.com/srijs/rust-copperline",
+                "github": "srijs/rust-copperline",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Computation",
+        "childrens": [
+            {
+                "title": "sebcrozet/nalgebra",
+                "href": "https://github.com/sebcrozet/nalgebra",
+                "github": "sebcrozet/nalgebra",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Configuration",
+        "childrens": [
+            {
+                "title": "mehcode/config-rs",
+                "href": "https://github.com/mehcode/config-rs",
+                "github": "mehcode/config-rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cryptography",
+        "childrens": [
+            {
+                "title": "briansmith/ring",
+                "href": "https://github.com/briansmith/ring",
+                "github": "briansmith/ring",
+                "type": "github"
+            },
+            {
+                "title": "briansmith/webpki",
+                "href": "https://github.com/briansmith/webpki",
+                "github": "briansmith/webpki",
+                "type": "github"
+            },
+            {
+                "title": "ctz/rustls",
+                "href": "https://github.com/ctz/rustls",
+                "github": "ctz/rustls",
+                "type": "github"
+            },
+            {
+                "title": "DaGenix/rust-crypto",
+                "href": "https://github.com/DaGenix/rust-crypto",
+                "github": "DaGenix/rust-crypto",
+                "type": "github"
+            },
+            {
+                "title": "dnaq/sodiumoxide",
+                "href": "https://github.com/dnaq/sodiumoxide",
+                "github": "dnaq/sodiumoxide",
+                "type": "github"
+            },
+            {
+                "title": "klutzy/suruga",
+                "href": "https://github.com/klutzy/suruga",
+                "github": "klutzy/suruga",
+                "type": "github"
+            },
+            {
+                "title": "libOctavo/octavo",
+                "href": "https://github.com/libOctavo/octavo",
+                "github": "libOctavo/octavo",
+                "type": "github"
+            },
+            {
+                "title": "lispyclouds/mpw-rs",
+                "href": "https://github.com/lispyclouds/mpw-rs",
+                "github": "lispyclouds/mpw-rs",
+                "type": "github"
+            },
+            {
+                "title": "sfackler/rust-native-tls",
+                "href": "https://github.com/sfackler/rust-native-tls",
+                "github": "sfackler/rust-native-tls",
+                "type": "github"
+            },
+            {
+                "title": "sfackler/rust-openssl",
+                "href": "https://github.com/sfackler/rust-openssl",
+                "github": "sfackler/rust-openssl",
+                "type": "github"
+            },
+            {
+                "title": "sfackler/rust-security-framework",
+                "href": "https://github.com/sfackler/rust-security-framework",
+                "github": "sfackler/rust-security-framework",
+                "type": "github"
+            },
+            {
+                "title": "steffengy/schannel-rs",
+                "href": "https://github.com/steffengy/schannel-rs",
+                "github": "steffengy/schannel-rs",
+                "type": "github"
+            },
+            {
+                "title": "RNCryptor/rncryptor-rs",
+                "href": "https://github.com/RNCryptor/rncryptor-rs",
+                "github": "RNCryptor/rncryptor-rs",
+                "type": "github"
+            },
+            {
+                "title": "doublify/libblockchain",
+                "href": "https://github.com/doublify/libblockchain",
+                "github": "doublify/libblockchain",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "sfackler/r2d2",
+                "href": "https://github.com/sfackler/r2d2",
+                "github": "sfackler/r2d2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data structures",
+        "childrens": [
+            {
+                "title": "bluss/rust-itertools",
+                "href": "https://github.com/bluss/rust-itertools",
+                "github": "bluss/rust-itertools",
+                "type": "github"
+            },
+            {
+                "title": "contain-rs",
+                "href": "https://github.com/contain-rs",
+                "github": "contain-rs",
+                "type": "github"
+            },
+            {
+                "title": "danielpclark/array_tool",
+                "href": "https://github.com/danielpclark/array_tool",
+                "github": "danielpclark/array_tool",
+                "type": "github"
+            },
+            {
+                "title": "fizyk20/generic-array",
+                "href": "https://github.com/fizyk20/generic-array",
+                "github": "fizyk20/generic-array",
+                "type": "github"
+            },
+            {
+                "title": "Nemo157/roaring-rs",
+                "href": "https://github.com/Nemo157/roaring-rs",
+                "github": "Nemo157/roaring-rs",
+                "type": "github"
+            },
+            {
+                "title": "reem/rust-typemap",
+                "href": "https://github.com/reem/rust-typemap",
+                "github": "reem/rust-typemap",
+                "type": "github"
+            },
+            {
+                "title": "serde-rs/serde",
+                "href": "https://github.com/serde-rs/serde",
+                "github": "serde-rs/serde",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Date and time",
+        "childrens": [
+            {
+                "title": "chronotope/chrono",
+                "href": "https://github.com/chronotope/chrono",
+                "github": "chronotope/chrono",
+                "type": "github"
+            },
+            {
+                "title": "yaa110/rust-persian-calendar",
+                "href": "https://github.com/yaa110/rust-persian-calendar",
+                "github": "yaa110/rust-persian-calendar",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Email",
+        "childrens": [
+            {
+                "title": "gsquire/sendgrid-rs",
+                "href": "https://github.com/gsquire/sendgrid-rs",
+                "github": "gsquire/sendgrid-rs",
+                "type": "github"
+            },
+            {
+                "title": "lettre/lettre",
+                "href": "https://github.com/lettre/lettre",
+                "github": "lettre/lettre",
+                "type": "github"
+            },
+            {
+                "title": "staktrace/mailparse",
+                "href": "https://github.com/staktrace/mailparse",
+                "github": "staktrace/mailparse",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Geospatial",
+        "childrens": [
+            {
+                "title": "Georust",
+                "href": "https://github.com/georust",
+                "github": "georust",
+                "type": "github"
+            },
+            {
+                "title": "rust-reverse-geocoder",
+                "href": "https://github.com/llambda/rust-reverse-geocoder",
+                "github": "llambda/rust-reverse-geocoder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graphics",
+        "childrens": [
+            {
+                "title": "gfx-rs/gfx",
+                "href": "https://github.com/gfx-rs/gfx",
+                "github": "gfx-rs/gfx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graph processing",
+        "childrens": [
+            {
+                "title": "kud1ing/tinkerpop-rs",
+                "href": "https://github.com/kud1ing/tinkerpop-rs",
+                "github": "kud1ing/tinkerpop-rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "PistonDevelopers/conrod",
+                "href": "https://github.com/PistonDevelopers/conrod/",
+                "github": "PistonDevelopers/conrod/",
+                "type": "github"
+            },
+            {
+                "title": "gyscos/Cursive",
+                "href": "https://github.com/gyscos/Cursive",
+                "github": "gyscos/Cursive",
+                "type": "github"
+            },
+            {
+                "title": "ImGui",
+                "href": "https://github.com/ocornut/imgui",
+                "github": "ocornut/imgui",
+                "type": "github"
+            },
+            {
+                "title": "libui",
+                "href": "https://github.com/andlabs/libui",
+                "github": "andlabs/libui",
+                "type": "github"
+            },
+            {
+                "title": "Nuklear",
+                "href": "https://github.com/vurtun/nuklear",
+                "github": "vurtun/nuklear",
+                "type": "github"
+            },
+            {
+                "title": "saurvs/nfd-rs",
+                "href": "https://github.com/saurvs/nfd-rs",
+                "github": "saurvs/nfd-rs",
+                "type": "github"
+            },
+            {
+                "title": "Termbox",
+                "href": "https://github.com/nsf/termbox",
+                "github": "nsf/termbox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image processing",
+        "childrens": [
+            {
+                "title": "chyh1990/imageproc",
+                "href": "https://github.com/chyh1990/imageproc",
+                "github": "chyh1990/imageproc",
+                "type": "github"
+            },
+            {
+                "title": "cybergeek94/img-hash",
+                "href": "https://github.com/cybergeek94/img_hash",
+                "github": "cybergeek94/img_hash",
+                "type": "github"
+            },
+            {
+                "title": "PistonDevelopers/image",
+                "href": "https://github.com/PistonDevelopers/image",
+                "github": "PistonDevelopers/image",
+                "type": "github"
+            },
+            {
+                "title": "kali/opencv-rust",
+                "href": "https://github.com/kali/opencv-rust",
+                "github": "kali/opencv-rust",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "rust-lang-nursery/log",
+                "href": "https://github.com/rust-lang-nursery/log",
+                "github": "rust-lang-nursery/log",
+                "type": "github"
+            },
+            {
+                "title": "slog-rs/slog",
+                "href": "https://github.com/slog-rs/slog",
+                "github": "slog-rs/slog",
+                "type": "github"
+            },
+            {
+                "title": "sfackler/log4rs",
+                "href": "https://github.com/sfackler/log4rs",
+                "github": "sfackler/log4rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine learning",
+        "childrens": [
+            {
+                "title": "AtheMathmo/rusty-machine",
+                "href": "https://github.com/AtheMathmo/rusty-machine",
+                "github": "AtheMathmo/rusty-machine",
+                "type": "github"
+            },
+            {
+                "title": "autumnai/leaf",
+                "href": "https://github.com/autumnai/leaf",
+                "github": "autumnai/leaf",
+                "type": "github"
+            },
+            {
+                "title": "tensorflow/rust",
+                "href": "https://github.com/tensorflow/rust",
+                "github": "tensorflow/rust",
+                "type": "github"
+            },
+            {
+                "title": "maciejkula/rustlearn",
+                "href": "https://github.com/maciejkula/rustlearn",
+                "github": "maciejkula/rustlearn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Parser",
+        "childrens": [
+            {
+                "title": "dragostis/pest",
+                "href": "https://github.com/dragostis/pest",
+                "github": "dragostis/pest",
+                "type": "github"
+            },
+            {
+                "title": "Geal/nom",
+                "href": "https://github.com/Geal/nom",
+                "github": "Geal/nom",
+                "type": "github"
+            },
+            {
+                "title": "ivanceras/inquerest",
+                "href": "https://github.com/ivanceras/inquerest",
+                "github": "ivanceras/inquerest",
+                "type": "github"
+            },
+            {
+                "title": "kevinmehall/rust-peg",
+                "href": "https://github.com/kevinmehall/rust-peg",
+                "github": "kevinmehall/rust-peg",
+                "type": "github"
+            },
+            {
+                "title": "m4rw3r/chomp",
+                "href": "https://github.com/m4rw3r/chomp",
+                "github": "m4rw3r/chomp",
+                "type": "github"
+            },
+            {
+                "title": "Marwes/combine",
+                "href": "https://github.com/Marwes/combine",
+                "github": "Marwes/combine",
+                "type": "github"
+            },
+            {
+                "title": "nikomatsakis/lalrpop",
+                "href": "https://github.com/nikomatsakis/lalrpop",
+                "github": "nikomatsakis/lalrpop",
+                "type": "github"
+            },
+            {
+                "title": "nrc/zero",
+                "href": "https://github.com/nrc/zero",
+                "github": "nrc/zero",
+                "type": "github"
+            },
+            {
+                "title": "ptal/oak",
+                "href": "https://github.com/ptal/oak",
+                "github": "ptal/oak",
+                "type": "github"
+            },
+            {
+                "title": "rustless/queryst",
+                "href": "https://github.com/rustless/queryst",
+                "github": "rustless/queryst",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scripting",
+        "childrens": [
+            {
+                "title": "PistonDevelopers/dyon",
+                "href": "https://github.com/PistonDevelopers/dyon",
+                "github": "PistonDevelopers/dyon",
+                "type": "github"
+            },
+            {
+                "title": "gluon-lang/gluon",
+                "href": "https://github.com/gluon-lang/gluon",
+                "github": "gluon-lang/gluon",
+                "type": "github"
+            },
+            {
+                "title": "murarth/ketos",
+                "href": "https://github.com/murarth/ketos",
+                "github": "murarth/ketos",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Template engine",
+        "childrens": [
+            {
+                "title": "tailhook/marafet",
+                "href": "https://github.com/tailhook/marafet",
+                "github": "tailhook/marafet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Text processing",
+        "childrens": [
+            {
+                "title": "BurntSushi/suffix",
+                "href": "https://github.com/BurntSushi/suffix",
+                "github": "BurntSushi/suffix",
+                "type": "github"
+            },
+            {
+                "title": "BurntSushi/tabwriter",
+                "href": "https://github.com/BurntSushi/tabwriter",
+                "github": "BurntSushi/tabwriter",
+                "type": "github"
+            },
+            {
+                "title": "pwoolcoc/ngrams",
+                "href": "https://github.com/pwoolcoc/ngrams",
+                "github": "pwoolcoc/ngrams",
+                "type": "github"
+            },
+            {
+                "title": "rust-lang-nursery/regex",
+                "href": "https://github.com/rust-lang-nursery/regex",
+                "github": "rust-lang-nursery/regex",
+                "type": "github"
+            },
+            {
+                "title": "greyblake/whatlang-rs",
+                "href": "https://github.com/greyblake/whatlang-rs",
+                "github": "greyblake/whatlang-rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Text search",
+        "childrens": [
+            {
+                "title": "BurntSushi/fst",
+                "href": "https://github.com/BurntSushi/fst",
+                "github": "BurntSushi/fst",
+                "type": "github"
+            },
+            {
+                "title": "JDemler/perlin",
+                "href": "https://github.com/JDemler/perlin",
+                "github": "JDemler/perlin",
+                "type": "github"
+            },
+            {
+                "title": "tantivy-search/tantivy",
+                "href": "https://github.com/tantivy-search/tantivy",
+                "github": "tantivy-search/tantivy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Virtualization",
+        "childrens": [
+            {
+                "title": "beneills/quantum",
+                "href": "https://github.com/beneills/quantum",
+                "github": "beneills/quantum",
+                "type": "github"
+            },
+            {
+                "title": "ekse/unicorn-rs",
+                "href": "https://github.com/ekse/unicorn-rs",
+                "github": "ekse/unicorn-rs",
+                "type": "github"
+            },
+            {
+                "title": "saurvs/hypervisor-rs",
+                "href": "https://github.com/saurvs/hypervisor-rs",
+                "github": "saurvs/hypervisor-rs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "Rust Design Patterns",
+                "href": "https://github.com/nrc/patterns",
+                "github": "nrc/patterns",
+                "type": "github"
+            },
+            {
+                "title": "RustBooks",
+                "href": "https://github.com/sger/RustBooks",
+                "github": "sger/RustBooks",
+                "type": "github"
+            }
+        ]
+    }
+]

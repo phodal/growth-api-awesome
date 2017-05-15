@@ -1,0 +1,43 @@
+[
+    {
+        "heading": "Other Available Languages:",
+        "childrens": [
+            {
+                "title": "Arabic Git Cheat Sheet",
+                "href": "https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ar.md",
+                "github": "arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ar.md",
+                "type": "github"
+            },
+            {
+                "title": "Chinese Git Cheat Sheet",
+                "href": "https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-zh.md",
+                "github": "arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-zh.md",
+                "type": "github"
+            },
+            {
+                "title": "Hindi Git Cheat Sheet",
+                "href": "https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-hi.md",
+                "github": "arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-hi.md",
+                "type": "github"
+            },
+            {
+                "title": "Turkish Git Cheat Sheet",
+                "href": "https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md",
+                "github": "arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md",
+                "type": "github"
+            },
+            {
+                "title": "Spanish Git Cheat Sheet",
+                "href": "https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md",
+                "github": "arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md",
+                "type": "github"
+            },
+            {
+                "title": "Greek Git Cheat Sheet",
+                "href": "https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-el.md",
+                "github": "arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-el.md",
+                "type": "github"
+            }
+        ]
+    }
+]

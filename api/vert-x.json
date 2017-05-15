@@ -1,0 +1,769 @@
+[
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "Vert.x Web",
+                "href": "https://github.com/vert-x3/vertx-web",
+                "github": "vert-x3/vertx-web",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Jersey",
+                "href": "https://github.com/englishtown/vertx-jersey",
+                "github": "englishtown/vertx-jersey",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Nubes",
+                "href": "https://github.com/aesteve/vertx-nubes",
+                "github": "aesteve/vertx-nubes",
+                "type": "github"
+            },
+            {
+                "title": "Kovert",
+                "href": "https://github.com/kohesive/kovert",
+                "github": "kohesive/kovert",
+                "type": "github"
+            },
+            {
+                "title": "Handlers",
+                "href": "https://github.com/spriet2000/vertx-handlers-http",
+                "github": "spriet2000/vertx-handlers-http",
+                "type": "github"
+            },
+            {
+                "title": "QBit",
+                "href": "https://github.com/advantageous/qbit",
+                "github": "advantageous/qbit",
+                "type": "github"
+            },
+            {
+                "title": "vertx-rest-storage",
+                "href": "https://github.com/swisspush/vertx-rest-storage",
+                "github": "swisspush/vertx-rest-storage",
+                "type": "github"
+            },
+            {
+                "title": "Jubilee",
+                "href": "https://github.com/isaiah/jubilee",
+                "github": "isaiah/jubilee",
+                "type": "github"
+            },
+            {
+                "title": "katharsis-vertx",
+                "href": "https://github.com/katharsis-project/katharsis-vertx",
+                "github": "katharsis-project/katharsis-vertx",
+                "type": "github"
+            },
+            {
+                "title": "Knot.x",
+                "href": "https://github.com/Cognifide/knotx",
+                "github": "Cognifide/knotx",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Jspare",
+                "href": "https://github.com/jspare-projects/vertx-jspare",
+                "github": "jspare-projects/vertx-jspare",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication Authorisation",
+        "childrens": [
+            {
+                "title": "Vert.x Auth JDBC",
+                "href": "https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-jdbc",
+                "github": "vert-x3/vertx-auth/tree/master/vertx-auth-jdbc",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Auth JWT",
+                "href": "https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-jwt",
+                "github": "vert-x3/vertx-auth/tree/master/vertx-auth-jwt",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Auth Shiro",
+                "href": "https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-shiro",
+                "github": "vert-x3/vertx-auth/tree/master/vertx-auth-shiro",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x-Pac4j",
+                "href": "https://github.com/pac4j/vertx-pac4j",
+                "github": "pac4j/vertx-pac4j",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database Clients",
+        "childrens": [
+            {
+                "title": "vertx-pojo-mapper",
+                "href": "https://github.com/BraintagsGmbH/vertx-pojo-mapper",
+                "github": "BraintagsGmbH/vertx-pojo-mapper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Middleware",
+        "childrens": [
+            {
+                "title": "Gateleen",
+                "href": "https://github.com/swisspush/gateleen",
+                "github": "swisspush/gateleen",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Language Support",
+        "childrens": [
+            {
+                "title": "Ceylon",
+                "href": "https://github.com/vert-x3/vertx-lang-ceylon",
+                "github": "vert-x3/vertx-lang-ceylon",
+                "type": "github"
+            },
+            {
+                "title": "Groovy",
+                "href": "https://github.com/vert-x3/vertx-lang-groovy",
+                "github": "vert-x3/vertx-lang-groovy",
+                "type": "github"
+            },
+            {
+                "title": "Java",
+                "href": "https://github.com/eclipse/vert.x",
+                "github": "eclipse/vert.x",
+                "type": "github"
+            },
+            {
+                "title": "JavaScript",
+                "href": "https://github.com/vert-x3/vertx-lang-js",
+                "github": "vert-x3/vertx-lang-js",
+                "type": "github"
+            },
+            {
+                "title": "Python",
+                "href": "https://github.com/vert-x3/vertx-lang-python",
+                "github": "vert-x3/vertx-lang-python",
+                "type": "github"
+            },
+            {
+                "title": "Ruby",
+                "href": "https://github.com/vert-x3/vertx-lang-ruby",
+                "github": "vert-x3/vertx-lang-ruby",
+                "type": "github"
+            },
+            {
+                "title": "Scala",
+                "href": "https://github.com/vert-x3/vertx-lang-scala",
+                "github": "vert-x3/vertx-lang-scala",
+                "type": "github"
+            },
+            {
+                "title": "Kotlin",
+                "href": "https://github.com/vert-x3/vertx3-lang-kotlin",
+                "github": "vert-x3/vertx3-lang-kotlin",
+                "type": "github"
+            },
+            {
+                "title": "TypeScript",
+                "href": "https://github.com/michel-kraemer/vertx-lang-typescript",
+                "github": "michel-kraemer/vertx-lang-typescript",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Language Support",
+        "childrens": [
+            {
+                "title": "Grooveex",
+                "href": "https://github.com/aesteve/grooveex",
+                "github": "aesteve/grooveex",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reactive",
+        "childrens": [
+            {
+                "title": "Reactive Streams",
+                "href": "https://github.com/vert-x3/vertx-reactive-streams",
+                "github": "vert-x3/vertx-reactive-streams",
+                "type": "github"
+            },
+            {
+                "title": "Reactive Extensions",
+                "href": "https://github.com/vert-x3/vertx-rx",
+                "github": "vert-x3/vertx-rx",
+                "type": "github"
+            },
+            {
+                "title": "vertx-util",
+                "href": "https://github.com/cyngn/vertx-util",
+                "github": "cyngn/vertx-util",
+                "type": "github"
+            },
+            {
+                "title": "QBit",
+                "href": "https://github.com/advantageous/qbit",
+                "github": "advantageous/qbit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sync Thread Non Block",
+        "childrens": [
+            {
+                "title": "Sync",
+                "href": "https://github.com/vert-x3/vertx-sync",
+                "github": "vert-x3/vertx-sync",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Vert.x Event Bus Clients",
+        "childrens": [
+            {
+                "title": "C++11",
+                "href": "https://github.com/julien3/vertxbuspp",
+                "github": "julien3/vertxbuspp",
+                "type": "github"
+            },
+            {
+                "title": "Java",
+                "href": "https://github.com/saffron-technology/vertx-eventbusbridge",
+                "github": "saffron-technology/vertx-eventbusbridge",
+                "type": "github"
+            },
+            {
+                "title": "Java",
+                "href": "https://github.com/abdlquadri/vertx-eventbus-java",
+                "github": "abdlquadri/vertx-eventbus-java",
+                "type": "github"
+            },
+            {
+                "title": "CLI",
+                "href": "https://github.com/cinterloper/vxc",
+                "github": "cinterloper/vxc",
+                "type": "github"
+            },
+            {
+                "title": "Swift",
+                "href": "https://github.com/tobias/vertx-swift-eventbus",
+                "github": "tobias/vertx-swift-eventbus",
+                "type": "github"
+            },
+            {
+                "title": "Python",
+                "href": "https://github.com/jaymine/TCP-eventbus-client-Python",
+                "github": "jaymine/TCP-eventbus-client-Python",
+                "type": "github"
+            },
+            {
+                "title": "C#",
+                "href": "https://github.com/jaymine/TCP-eventbus-client-C-Sharp",
+                "github": "jaymine/TCP-eventbus-client-C-Sharp",
+                "type": "github"
+            },
+            {
+                "title": "C",
+                "href": "https://github.com/jaymine/TCP-eventbus-client-C",
+                "github": "jaymine/TCP-eventbus-client-C",
+                "type": "github"
+            },
+            {
+                "title": "Go",
+                "href": "https://github.com/jponge/vertx-go-tcp-eventbus-bridge",
+                "github": "jponge/vertx-go-tcp-eventbus-bridge",
+                "type": "github"
+            },
+            {
+                "title": "Java",
+                "href": "https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport",
+                "github": "nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cluster Managers",
+        "childrens": [
+            {
+                "title": "Hazelcast Cluster Manager",
+                "href": "https://github.com/vert-x3/vertx-hazelcast",
+                "github": "vert-x3/vertx-hazelcast",
+                "type": "github"
+            },
+            {
+                "title": "Ignite Cluster Manager",
+                "href": "https://github.com/vert-x3/vertx-ignite",
+                "github": "vert-x3/vertx-ignite",
+                "type": "github"
+            },
+            {
+                "title": "JGroups Cluster Manager",
+                "href": "https://github.com/vert-x3/vertx-jgroups",
+                "github": "vert-x3/vertx-jgroups",
+                "type": "github"
+            },
+            {
+                "title": "Zookeeper Cluster Manager",
+                "href": "https://github.com/vert-x3/vertx-zookeeper",
+                "github": "vert-x3/vertx-zookeeper",
+                "type": "github"
+            },
+            {
+                "title": "Atomix Cluster Manager",
+                "href": "https://github.com/atomix/atomix-vertx",
+                "github": "atomix/atomix-vertx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cloud Support",
+        "childrens": [
+            {
+                "title": "OpenShift DIY cartridge",
+                "href": "https://github.com/vert-x3/vertx-openshift-diy-quickstart",
+                "github": "vert-x3/vertx-openshift-diy-quickstart",
+                "type": "github"
+            },
+            {
+                "title": "OpenShift Vert.x cartridge",
+                "href": "https://github.com/vert-x3/vertx-openshift-cartridge",
+                "github": "vert-x3/vertx-openshift-cartridge",
+                "type": "github"
+            },
+            {
+                "title": "S3",
+                "href": "https://github.com/hubrick/vertx-s3-client",
+                "github": "hubrick/vertx-s3-client",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Docker",
+        "childrens": [
+            {
+                "title": "Docker images",
+                "href": "https://github.com/vert-x3/vertx-stack/tree/master/stack-docker",
+                "github": "vert-x3/vertx-stack/tree/master/stack-docker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Microservices",
+        "childrens": [
+            {
+                "title": "Service Discovery",
+                "href": "https://github.com/vert-x3/vertx-service-discovery",
+                "github": "vert-x3/vertx-service-discovery",
+                "type": "github"
+            },
+            {
+                "title": "Circuit Breaker",
+                "href": "https://github.com/vert-x3/vertx-circuit-breaker",
+                "github": "vert-x3/vertx-circuit-breaker",
+                "type": "github"
+            },
+            {
+                "title": "Service Discovery - Consul",
+                "href": "https://github.com/vert-x3/vertx-service-discovery",
+                "github": "vert-x3/vertx-service-discovery",
+                "type": "github"
+            },
+            {
+                "title": "Service Discovery - Docker links",
+                "href": "https://github.com/vert-x3/vertx-service-discovery",
+                "github": "vert-x3/vertx-service-discovery",
+                "type": "github"
+            },
+            {
+                "title": "Service Discovery - Kubernetes",
+                "href": "https://github.com/vert-x3/vertx-service-discovery",
+                "github": "vert-x3/vertx-service-discovery",
+                "type": "github"
+            },
+            {
+                "title": "Service Discovery - Redis backend",
+                "href": "https://github.com/vert-x3/vertx-service-discovery",
+                "github": "vert-x3/vertx-service-discovery",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x GraphQL Service Discovery",
+                "href": "https://github.com/engagingspaces/vertx-graphql-service-discovery",
+                "github": "engagingspaces/vertx-graphql-service-discovery",
+                "type": "github"
+            },
+            {
+                "title": "HTTP Request Multiplexer - Kalfor",
+                "href": "https://github.com/derveloper/kalfor",
+                "github": "derveloper/kalfor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search Engines",
+        "childrens": [
+            {
+                "title": "Vert.x Elasticsearch Service",
+                "href": "https://github.com/englishtown/vertx-elasticsearch-service",
+                "github": "englishtown/vertx-elasticsearch-service",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Elasticsearch Service (redesign)",
+                "href": "https://github.com/hubrick/vertx-elasticsearch-service",
+                "github": "hubrick/vertx-elasticsearch-service",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Solr Service",
+                "href": "https://github.com/englishtown/vertx-solr-service",
+                "github": "englishtown/vertx-solr-service",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Service Factory",
+        "childrens": [
+            {
+                "title": "Service Factory",
+                "href": "https://github.com/vert-x3/vertx-service-factory",
+                "github": "vert-x3/vertx-service-factory",
+                "type": "github"
+            },
+            {
+                "title": "Maven Service Factory",
+                "href": "https://github.com/vert-x3/vertx-maven-service-factory",
+                "github": "vert-x3/vertx-maven-service-factory",
+                "type": "github"
+            },
+            {
+                "title": "HTTP Service Factory",
+                "href": "https://github.com/vert-x3/vertx-http-service-factory",
+                "github": "vert-x3/vertx-http-service-factory",
+                "type": "github"
+            },
+            {
+                "title": "Node.js Service Factory",
+                "href": "https://github.com/mellster2012/vertx-nodejs-service-factory",
+                "github": "mellster2012/vertx-nodejs-service-factory",
+                "type": "github"
+            },
+            {
+                "title": "Eclipse SISU Service Factories",
+                "href": "https://github.com/cstamas/vertx-sisu",
+                "github": "cstamas/vertx-sisu",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dependency Injection",
+        "childrens": [
+            {
+                "title": "Vert.x Guice",
+                "href": "https://github.com/englishtown/vertx-guice",
+                "github": "englishtown/vertx-guice",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x HK2",
+                "href": "https://github.com/englishtown/vertx-hk2",
+                "github": "englishtown/vertx-hk2",
+                "type": "github"
+            },
+            {
+                "title": "Spring Vert.x Extension",
+                "href": "https://github.com/amoAHCP/spring-vertx-ext",
+                "github": "amoAHCP/spring-vertx-ext",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Beans",
+                "href": "https://github.com/rworsnop/vertx-beans",
+                "github": "rworsnop/vertx-beans",
+                "type": "github"
+            },
+            {
+                "title": "QBit",
+                "href": "https://github.com/advantageous/qbit",
+                "github": "advantageous/qbit",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Eclipse SISU",
+                "href": "https://github.com/cstamas/vertx-sisu",
+                "github": "cstamas/vertx-sisu",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Spring Verticle Factory",
+                "href": "https://github.com/juanavelez/vertx-spring-verticle-factory",
+                "github": "juanavelez/vertx-spring-verticle-factory",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Vert.x Unit",
+                "href": "https://github.com/vert-x3/vertx-unit",
+                "github": "vert-x3/vertx-unit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development Tools",
+        "childrens": [
+            {
+                "title": "Vert.x Hot",
+                "href": "https://github.com/dazraf/vertx-hot",
+                "github": "dazraf/vertx-hot",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x for Visual Studio Code",
+                "href": "https://github.com/pmlopes/VertxSnippet",
+                "github": "pmlopes/VertxSnippet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Vert.x Child Process",
+                "href": "https://github.com/vietj/vertx-childprocess",
+                "github": "vietj/vertx-childprocess",
+                "type": "github"
+            },
+            {
+                "title": "vertx-redisques",
+                "href": "https://github.com/swisspush/vertx-redisques",
+                "github": "swisspush/vertx-redisques",
+                "type": "github"
+            },
+            {
+                "title": "Simple File Server",
+                "href": "https://github.com/pitchpoint-solutions/sfs",
+                "github": "pitchpoint-solutions/sfs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distribution",
+        "childrens": [
+            {
+                "title": "Vert.x Stack",
+                "href": "https://github.com/vert-x3/vertx-stack",
+                "github": "vert-x3/vertx-stack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Examples",
+        "childrens": [
+            {
+                "title": "Vert.x blueprint - Microservice application",
+                "href": "https://github.com/sczyh30/vertx-blueprint-microservice",
+                "github": "sczyh30/vertx-blueprint-microservice",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x blueprint - Job Queue",
+                "href": "https://github.com/sczyh30/vertx-blueprint-job-queue",
+                "github": "sczyh30/vertx-blueprint-job-queue",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x blueprint - TODO backend",
+                "href": "https://github.com/sczyh30/vertx-blueprint-todo-backend",
+                "github": "sczyh30/vertx-blueprint-todo-backend",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x examples",
+                "href": "https://github.com/vert-x3/vertx-examples",
+                "github": "vert-x3/vertx-examples",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x feeds",
+                "href": "https://github.com/aesteve/vertx-feeds",
+                "github": "aesteve/vertx-feeds",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Markdown service",
+                "href": "https://github.com/aesteve/vertx-markdown-service",
+                "github": "aesteve/vertx-markdown-service",
+                "type": "github"
+            },
+            {
+                "title": "Example using event bus and service proxies to connect vertx and node",
+                "href": "https://github.com/advantageous/vertx-node-ec2-eventbus-example",
+                "github": "advantageous/vertx-node-ec2-eventbus-example",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Todo-Backend implementation",
+                "href": "https://github.com/aesteve/todo-backend-vertx",
+                "github": "aesteve/todo-backend-vertx",
+                "type": "github"
+            },
+            {
+                "title": "Kotlin Todo-Backend implementation",
+                "href": "https://github.com/aesteve/vertx-kotlin-todomvc",
+                "github": "aesteve/vertx-kotlin-todomvc",
+                "type": "github"
+            },
+            {
+                "title": "Scala Todo-Backend implementation",
+                "href": "https://github.com/aesteve/vertx-scala-todomvc",
+                "github": "aesteve/vertx-scala-todomvc",
+                "type": "github"
+            },
+            {
+                "title": "Grooveex Todo-Backend implementation",
+                "href": "https://github.com/aesteve/todo-backend-grooveex",
+                "github": "aesteve/todo-backend-grooveex",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Gradle Starter",
+                "href": "https://github.com/yyunikov/vertx-gradle-starter",
+                "github": "yyunikov/vertx-gradle-starter",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Gentics Mesh Example",
+                "href": "https://github.com/gentics/mesh-vertx-example",
+                "github": "gentics/mesh-vertx-example",
+                "type": "github"
+            },
+            {
+                "title": "HTTP/2 showcase",
+                "href": "https://github.com/aesteve/http2-showcase",
+                "github": "aesteve/http2-showcase",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deployment",
+        "childrens": [
+            {
+                "title": "Vert.x Deploy Application",
+                "href": "https://github.com/msoute/vertx-deploy-tools",
+                "github": "msoute/vertx-deploy-tools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "Chime",
+                "href": "https://github.com/LisiLisenok/Chime",
+                "github": "LisiLisenok/Chime",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Cron",
+                "href": "https://github.com/diabolicallabs/vertx-cron",
+                "github": "diabolicallabs/vertx-cron",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x POJO config",
+                "href": "https://github.com/aesteve/vertx-pojo-config",
+                "github": "aesteve/vertx-pojo-config",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Async",
+                "href": "https://github.com/gchauvet/vertx-async",
+                "github": "gchauvet/vertx-async",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x JOLT",
+                "href": "https://github.com/lusoalex/vertx-jolt",
+                "github": "lusoalex/vertx-jolt",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Dependent Verticle Deployer",
+                "href": "https://github.com/juanavelez/vertx-dependent-verticle-deployer",
+                "github": "juanavelez/vertx-dependent-verticle-deployer",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Dataloader",
+                "href": "https://github.com/engagingspaces/vertx-dataloader",
+                "github": "engagingspaces/vertx-dataloader",
+                "type": "github"
+            },
+            {
+                "title": "Vert.x Util",
+                "href": "https://github.com/juanavelez/vertx-util",
+                "github": "juanavelez/vertx-util",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Community",
+        "childrens": [
+            {
+                "title": "Issues",
+                "href": "https://github.com/vert-x3/issues/issues",
+                "github": "vert-x3/issues/issues",
+                "type": "github"
+            },
+            {
+                "title": "Wiki",
+                "href": "https://github.com/vert-x3/wiki/wiki",
+                "github": "vert-x3/wiki/wiki",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Front-End",
+        "childrens": [
+            {
+                "title": "VertxUI",
+                "href": "https://github.com/nielsbaloe/vertxui",
+                "github": "nielsbaloe/vertxui",
+                "type": "github"
+            }
+        ]
+    }
+]

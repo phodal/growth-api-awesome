@@ -1,0 +1,257 @@
+[
+    {
+        "heading": "Training Courses",
+        "childrens": [
+            {
+                "title": "Mixter",
+                "href": "https://github.com/DevLyon/mixter",
+                "github": "DevLyon/mixter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sample Projects",
+        "childrens": [
+            {
+                "title": "Reactive Trader Cloud",
+                "href": "https://github.com/AdaptiveConsulting/ReactiveTraderCloud",
+                "github": "AdaptiveConsulting/ReactiveTraderCloud",
+                "type": "github"
+            },
+            {
+                "title": "Example of Domain-Driven Design in F#",
+                "href": "https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d",
+                "github": ".com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d",
+                "type": "github"
+            },
+            {
+                "title": "SimpleCQRS",
+                "href": "https://github.com/gregoryyoung/m-r",
+                "github": "gregoryyoung/m-r",
+                "type": "github"
+            },
+            {
+                "title": "Microsoft Patterns and Practices: CQRS Journey Sample Code",
+                "href": "https://github.com/mspnp/cqrs-journey",
+                "github": "mspnp/cqrs-journey",
+                "type": "github"
+            },
+            {
+                "title": "CQRS-DDD Example",
+                "href": "https://github.com/dcomartin/DDD-CQRS-ES-Example",
+                "github": "dcomartin/DDD-CQRS-ES-Example",
+                "type": "github"
+            },
+            {
+                "title": "Scritchy",
+                "href": "https://github.com/ToJans/Scritchy",
+                "github": "ToJans/Scritchy",
+                "type": "github"
+            },
+            {
+                "title": "Simple CQRS in F#",
+                "href": "https://github.com/thinkbeforecoding/m-r",
+                "github": "thinkbeforecoding/m-r",
+                "type": "github"
+            },
+            {
+                "title": "FsUno",
+                "href": "https://github.com/thinkbeforecoding/FsUno",
+                "github": "thinkbeforecoding/FsUno",
+                "type": "github"
+            },
+            {
+                "title": "IDDD Samples",
+                "href": "https://github.com/VaughnVernon/IDDD_Samples",
+                "github": "VaughnVernon/IDDD_Samples",
+                "type": "github"
+            },
+            {
+                "title": "IDDD Samples in .NET",
+                "href": "https://github.com/VaughnVernon/IDDD_Samples_NET",
+                "github": "VaughnVernon/IDDD_Samples_NET",
+                "type": "github"
+            },
+            {
+                "title": "Akka CQRS ES Demo",
+                "href": "https://github.com/mdonkers/akka-cqrs-es-demo",
+                "github": "mdonkers/akka-cqrs-es-demo",
+                "type": "github"
+            },
+            {
+                "title": "DDD Leaven",
+                "href": "https://github.com/BottegaIT/ddd-leaven-v2",
+                "github": "BottegaIT/ddd-leaven-v2",
+                "type": "github"
+            },
+            {
+                "title": "DDD Playground",
+                "href": "https://github.com/jorge07/ddd-playground/",
+                "github": "jorge07/ddd-playground/",
+                "type": "github"
+            },
+            {
+                "title": "Fohjin",
+                "href": "https://github.com/MarkNijhof/Fohjin",
+                "github": "MarkNijhof/Fohjin",
+                "type": "github"
+            },
+            {
+                "title": "Lokad IDDD Sample",
+                "href": "https://github.com/Lokad/lokad-iddd-sample",
+                "github": "Lokad/lokad-iddd-sample",
+                "type": "github"
+            },
+            {
+                "title": "ContosoUniversityCore",
+                "href": "https://github.com/jbogard/ContosoUniversityCore",
+                "github": "jbogard/ContosoUniversityCore",
+                "type": "github"
+            },
+            {
+                "title": "DDDSkeletonNet",
+                "href": "https://github.com/andras-nemes/DDDSkeletonNet",
+                "github": "andras-nemes/DDDSkeletonNet",
+                "type": "github"
+            },
+            {
+                "title": "Event Sourcing Example",
+                "href": "https://github.com/Pragmatists/eventsourcing-java-example",
+                "github": "Pragmatists/eventsourcing-java-example",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries and Frameworks",
+        "childrens": [
+            {
+                "title": "MessageRouter",
+                "href": "https://github.com/QuickenLoans/MessageRouter",
+                "github": "QuickenLoans/MessageRouter",
+                "type": "github"
+            },
+            {
+                "title": "NEventStore",
+                "href": "https://github.com/NEventStore/NEventStore",
+                "github": "NEventStore/NEventStore",
+                "type": "github"
+            },
+            {
+                "title": "Projac",
+                "href": "https://github.com/yreynhout/Projac",
+                "github": "yreynhout/Projac",
+                "type": "github"
+            },
+            {
+                "title": "Streamstone",
+                "href": "https://github.com/yevhen/Streamstone",
+                "github": "yevhen/Streamstone",
+                "type": "github"
+            },
+            {
+                "title": "Value",
+                "href": "https://github.com/tpierrain/Value",
+                "github": "tpierrain/Value",
+                "type": "github"
+            },
+            {
+                "title": "Cirqus",
+                "href": "https://github.com/d60/Cirqus",
+                "github": "d60/Cirqus",
+                "type": "github"
+            },
+            {
+                "title": "Its.Cqrs",
+                "href": "https://github.com/jonsequitur/Its.Cqrs",
+                "github": "jonsequitur/Its.Cqrs",
+                "type": "github"
+            },
+            {
+                "title": "AggregateSource",
+                "href": "https://github.com/yreynhout/aggregateSource",
+                "github": "yreynhout/aggregateSource",
+                "type": "github"
+            },
+            {
+                "title": "JESA",
+                "href": "https://github.com/yreynhout/JESA",
+                "github": "yreynhout/JESA",
+                "type": "github"
+            },
+            {
+                "title": "EventFlow",
+                "href": "https://github.com/eventflow/EventFlow",
+                "github": "eventflow/EventFlow",
+                "type": "github"
+            },
+            {
+                "title": "CQRS on Azure",
+                "href": "https://github.com/MerrionComputing/CQRSAzure",
+                "github": "MerrionComputing/CQRSAzure",
+                "type": "github"
+            },
+            {
+                "title": "SqlStreamStore",
+                "href": "https://github.com/damianh/SqlStreamStore",
+                "github": "damianh/SqlStreamStore",
+                "type": "github"
+            },
+            {
+                "title": "Cedar.CommandHandling",
+                "href": "https://github.com/damianh/Cedar.CommandHandling",
+                "github": "damianh/Cedar.CommandHandling",
+                "type": "github"
+            },
+            {
+                "title": "NServiceBus",
+                "href": "https://github.com/Particular/NServiceBus",
+                "github": "Particular/NServiceBus",
+                "type": "github"
+            },
+            {
+                "title": "MassTransit",
+                "href": "https://github.com/MassTransit/MassTransit",
+                "github": "MassTransit/MassTransit",
+                "type": "github"
+            },
+            {
+                "title": "Aggregates.NET",
+                "href": "https://github.com/volak/Aggregates.NET",
+                "github": "volak/Aggregates.NET",
+                "type": "github"
+            },
+            {
+                "title": "Stringly.Typed",
+                "href": "https://github.com/mission202/Stringly.Typed",
+                "github": "mission202/Stringly.Typed",
+                "type": "github"
+            },
+            {
+                "title": "Commanded",
+                "href": "https://github.com/slashdotdash/commanded",
+                "github": "slashdotdash/commanded",
+                "type": "github"
+            },
+            {
+                "title": "akka-ddd",
+                "href": "https://github.com/pawelkaczor/akka-ddd",
+                "github": "pawelkaczor/akka-ddd",
+                "type": "github"
+            },
+            {
+                "title": "eventstore",
+                "href": "https://github.com/slashdotdash/eventstore",
+                "github": "slashdotdash/eventstore",
+                "type": "github"
+            },
+            {
+                "title": "Node API Boilerplate",
+                "href": "https://github.com/talyssonoc/node-api-boilerplate",
+                "github": "talyssonoc/node-api-boilerplate",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "heading": "Frameworks",
+        "childrens": [
+            {
+                "title": "Foundation for Emails",
+                "href": "https://github.com/zurb/foundation-emails",
+                "github": "zurb/foundation-emails",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Templates",
+        "childrens": [
+            {
+                "title": "Campaign",
+                "href": "https://github.com/bevacqua/campaign",
+                "github": "bevacqua/campaign",
+                "type": "github"
+            },
+            {
+                "title": "Mailchimp Email Blueprints",
+                "href": "https://github.com/mailchimp/Email-Blueprints",
+                "github": "mailchimp/Email-Blueprints",
+                "type": "github"
+            },
+            {
+                "title": "Responsive Transactional HTML Email Templates",
+                "href": "https://github.com/mailgun/transactional-email-templates",
+                "github": "mailgun/transactional-email-templates",
+                "type": "github"
+            },
+            {
+                "title": "Cerberus",
+                "href": "https://github.com/TedGoas/Cerberus",
+                "github": "TedGoas/Cerberus",
+                "type": "github"
+            },
+            {
+                "title": "Antwort",
+                "href": "https://github.com/internations/antwort",
+                "github": "internations/antwort",
+                "type": "github"
+            },
+            {
+                "title": "Responsive HTML Template",
+                "href": "https://github.com/charlesmudy/responsive-html-email-template",
+                "github": "charlesmudy/responsive-html-email-template",
+                "type": "github"
+            },
+            {
+                "title": "Grunt Email Boilerplate",
+                "href": "https://github.com/dwightjack/grunt-email-boilerplate",
+                "github": "dwightjack/grunt-email-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Email boilerplate",
+                "href": "https://github.com/seanpowell/Email-Boilerplate",
+                "github": "seanpowell/Email-Boilerplate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Services",
+        "childrens": [
+            {
+                "title": "Postal",
+                "href": "https://github.com/atech/postal",
+                "github": "atech/postal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Workflows",
+        "childrens": [
+            {
+                "title": "Lee Munroe's Grunt Email Design",
+                "href": "https://github.com/leemunroe/grunt-email-workflow",
+                "github": "leemunroe/grunt-email-workflow",
+                "type": "github"
+            },
+            {
+                "title": "Darylldoyle Gulp workflow",
+                "href": "https://github.com/darylldoyle/Gulp-Email-Creator",
+                "github": "darylldoyle/Gulp-Email-Creator",
+                "type": "github"
+            }
+        ]
+    }
+]

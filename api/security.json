@@ -1,0 +1,405 @@
+[
+    {
+        "heading": "Scanning / Pentesting",
+        "childrens": [
+            {
+                "title": "Metasploit Framework",
+                "href": "https://github.com/rapid7/metasploit-framework",
+                "github": "rapid7/metasploit-framework",
+                "type": "github"
+            },
+            {
+                "title": "pig",
+                "href": "https://github.com/rafael-santiago/pig",
+                "github": "rafael-santiago/pig",
+                "type": "github"
+            },
+            {
+                "title": "scapy",
+                "href": "https://github.com/secdev/scapy",
+                "github": "secdev/scapy",
+                "type": "github"
+            },
+            {
+                "title": "Pompem",
+                "href": "https://github.com/rfunix/Pompem",
+                "github": "rfunix/Pompem",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Monitoring / Logging",
+        "childrens": [
+            {
+                "title": "passivedns",
+                "href": "https://github.com/gamelinux/passivedns",
+                "github": "gamelinux/passivedns",
+                "type": "github"
+            },
+            {
+                "title": "Fibratus",
+                "href": "https://github.com/rabbitstack/fibratus",
+                "github": "rabbitstack/fibratus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDS / IPS / Host IDS / Host IPS",
+        "childrens": [
+            {
+                "title": "sshwatch",
+                "href": "https://github.com/marshyski/sshwatch",
+                "github": "marshyski/sshwatch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Honey Pot / Honey Net",
+        "childrens": [
+            {
+                "title": "awesome-honeypots",
+                "href": "https://github.com/paralax/awesome-honeypots",
+                "github": "paralax/awesome-honeypots",
+                "type": "github"
+            },
+            {
+                "title": "HoneyPy",
+                "href": "https://github.com/foospidy/HoneyPy",
+                "github": "foospidy/HoneyPy",
+                "type": "github"
+            },
+            {
+                "title": "Amun",
+                "href": "https://github.com/zeroq/amun",
+                "github": "zeroq/amun",
+                "type": "github"
+            },
+            {
+                "title": "Kippo",
+                "href": "https://github.com/desaster/kippo",
+                "github": "desaster/kippo",
+                "type": "github"
+            },
+            {
+                "title": "HonSSH",
+                "href": "https://github.com/tnich/honssh",
+                "github": "tnich/honssh",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Full Packet Capture / Forensic",
+        "childrens": [
+            {
+                "title": "tcpflow",
+                "href": "https://github.com/simsong/tcpflow",
+                "github": "simsong/tcpflow",
+                "type": "github"
+            },
+            {
+                "title": "Moloch",
+                "href": "https://github.com/aol/moloch",
+                "github": "aol/moloch",
+                "type": "github"
+            },
+            {
+                "title": "Dshell",
+                "href": "https://github.com/USArmyResearchLab/Dshell",
+                "github": "USArmyResearchLab/Dshell",
+                "type": "github"
+            },
+            {
+                "title": "stenographer",
+                "href": "https://github.com/google/stenographer",
+                "github": "google/stenographer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security Information & Event Management",
+        "childrens": [
+            {
+                "title": "FIR",
+                "href": "https://github.com/certsocietegenerale/FIR",
+                "github": "certsocietegenerale/FIR",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fast Packet Processing",
+        "childrens": [
+            {
+                "title": "PFQ",
+                "href": "https://github.com/pfq/PFQ",
+                "github": "pfq/PFQ",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication",
+        "childrens": [
+            {
+                "title": "google-authenticator",
+                "href": "https://github.com/google/google-authenticator",
+                "github": "google/google-authenticator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile / Android / iOS",
+        "childrens": [
+            {
+                "title": "android-security-awesome",
+                "href": "https://github.com/ashishb/android-security-awesome",
+                "github": "ashishb/android-security-awesome",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forensics",
+        "childrens": [
+            {
+                "title": "grr",
+                "href": "https://github.com/google/grr",
+                "github": "google/grr",
+                "type": "github"
+            },
+            {
+                "title": "Volatility",
+                "href": "https://github.com/volatilityfoundation/volatility",
+                "github": "volatilityfoundation/volatility",
+                "type": "github"
+            },
+            {
+                "title": "ir-rescue",
+                "href": "https://github.com/diogo-fernan/ir-rescue",
+                "github": "diogo-fernan/ir-rescue",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Threat Intelligence",
+        "childrens": [
+            {
+                "title": "FireEye OpenIOCs",
+                "href": "https://github.com/fireeye/iocs",
+                "github": "fireeye/iocs",
+                "type": "github"
+            },
+            {
+                "title": "IntelMQ",
+                "href": "https://github.com/certtools/intelmq/",
+                "github": "certtools/intelmq/",
+                "type": "github"
+            },
+            {
+                "title": "CIFv2",
+                "href": "https://github.com/csirtgadgets/massive-octo-spice",
+                "github": "csirtgadgets/massive-octo-spice",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Application Firewall",
+        "childrens": [
+            {
+                "title": "NAXSI",
+                "href": "https://github.com/nbs-system/naxsi",
+                "github": "nbs-system/naxsi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scanning / Pentesting",
+        "childrens": [
+            {
+                "title": "PTF",
+                "href": "https://github.com/trustedsec/ptf",
+                "github": "trustedsec/ptf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Big Data",
+        "childrens": [
+            {
+                "title": "data_hacking",
+                "href": "https://github.com/ClickSecurity/data_hacking",
+                "github": "ClickSecurity/data_hacking",
+                "type": "github"
+            },
+            {
+                "title": "hadoop-pcap",
+                "href": "https://github.com/RIPE-NCC/hadoop-pcap",
+                "github": "RIPE-NCC/hadoop-pcap",
+                "type": "github"
+            },
+            {
+                "title": "OpenSOC",
+                "href": "https://github.com/OpenSOC/opensoc",
+                "github": "OpenSOC/opensoc",
+                "type": "github"
+            },
+            {
+                "title": "Apache Metron (incubating)",
+                "href": "github.com/apache/incubator-metron",
+                "github": "ncubator-metron",
+                "type": "github"
+            },
+            {
+                "title": "Apache Spot (incubating)",
+                "href": "github.com/apache/incubator-spot",
+                "github": "ncubator-spot",
+                "type": "github"
+            },
+            {
+                "title": "binarypig",
+                "href": "https://github.com/endgameinc/binarypig",
+                "github": "endgameinc/binarypig",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Datastores",
+        "childrens": [
+            {
+                "title": "Safe",
+                "href": "https://github.com/starkandwayne/safe",
+                "github": "starkandwayne/safe",
+                "type": "github"
+            },
+            {
+                "title": "Sops",
+                "href": "https://github.com/mozilla/sops",
+                "github": "mozilla/sops",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Security Awesome Lists",
+        "childrens": [
+            {
+                "title": "Android Security Awesome",
+                "href": "https://github.com/ashishb/android-security-awesome",
+                "github": "ashishb/android-security-awesome",
+                "type": "github"
+            },
+            {
+                "title": "Awesome CTF",
+                "href": "https://github.com/apsdehal/awesome-ctf",
+                "github": "apsdehal/awesome-ctf",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Cyber Skills",
+                "href": "https://github.com/joe-shenouda/awesome-cyber-skills",
+                "github": "joe-shenouda/awesome-cyber-skills",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Hacking",
+                "href": "https://github.com/carpedm20/awesome-hacking",
+                "github": "carpedm20/awesome-hacking",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Honeypots",
+                "href": "https://github.com/paralax/awesome-honeypots",
+                "github": "paralax/awesome-honeypots",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Malware Analysis",
+                "href": "https://github.com/rshipp/awesome-malware-analysis",
+                "github": "rshipp/awesome-malware-analysis",
+                "type": "github"
+            },
+            {
+                "title": "Awesome PCAP Tools",
+                "href": "https://github.com/caesar0301/awesome-pcaptools",
+                "github": "caesar0301/awesome-pcaptools",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Pentest",
+                "href": "https://github.com/enaqx/awesome-pentest",
+                "github": "enaqx/awesome-pentest",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Linux Containers",
+                "href": "https://github.com/Friz-zy/awesome-linux-containers",
+                "github": "Friz-zy/awesome-linux-containers",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Incident Response",
+                "href": "https://github.com/meirwah/awesome-incident-response",
+                "github": "meirwah/awesome-incident-response",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Web Hacking",
+                "href": "https://github.com/infoslack/awesome-web-hacking",
+                "github": "infoslack/awesome-web-hacking",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Threat Intelligence",
+                "href": "https://github.com/hslatman/awesome-threat-intelligence",
+                "github": "hslatman/awesome-threat-intelligence",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Pentest Cheat Sheets",
+                "href": "https://github.com/coreb1t/awesome-pentest-cheat-sheets",
+                "github": "coreb1t/awesome-pentest-cheat-sheets",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Industrial Control System Security",
+                "href": "https://github.com/mpesen/awesome-industrial-control-system-security",
+                "github": "mpesen/awesome-industrial-control-system-security",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Common Awesome Lists",
+        "childrens": [
+            {
+                "title": "awesome-awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            },
+            {
+                "title": "lists",
+                "href": "https://github.com/jnv/lists",
+                "github": "jnv/lists",
+                "type": "github"
+            },
+            {
+                "title": "Movies For Hacker",
+                "href": "https://github.com/k4m4/movies-for-hackers",
+                "github": "k4m4/movies-for-hackers",
+                "type": "github"
+            }
+        ]
+    }
+]

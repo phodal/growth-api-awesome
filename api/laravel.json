@@ -1,0 +1,1172 @@
+[
+    {
+        "heading": "Developer Tools",
+        "childrens": [
+            {
+                "title": "Scaffold Interface",
+                "href": "https://github.com/amranidev/scaffold-interface",
+                "github": "amranidev/scaffold-interface",
+                "type": "github"
+            },
+            {
+                "title": "IDE Helper",
+                "href": "https://github.com/barryvdh/laravel-ide-helper",
+                "github": "barryvdh/laravel-ide-helper",
+                "type": "github"
+            },
+            {
+                "title": "Laravel 5 Extended Generators",
+                "href": "https://github.com/laracasts/Laravel-5-Generators-Extended",
+                "github": "laracasts/Laravel-5-Generators-Extended",
+                "type": "github"
+            },
+            {
+                "title": "Laravel API Documentation Generator",
+                "href": "https://github.com/mpociot/laravel-apidoc-generator",
+                "github": "mpociot/laravel-apidoc-generator",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Packager",
+                "href": "https://github.com/Jeroen-G/Laravel-Packager",
+                "github": "Jeroen-G/Laravel-Packager",
+                "type": "github"
+            },
+            {
+                "title": "Workbench Export to Migrations",
+                "href": "https://github.com/beckenrode/mysql-workbench-export-laravel-5-migrations",
+                "github": "beckenrode/mysql-workbench-export-laravel-5-migrations",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging & Profiling",
+        "childrens": [
+            {
+                "title": "Clockwork",
+                "href": "https://github.com/itsgoingd/clockwork",
+                "github": "itsgoingd/clockwork",
+                "type": "github"
+            },
+            {
+                "title": "Debug Bar",
+                "href": "https://github.com/barryvdh/laravel-debugbar",
+                "github": "barryvdh/laravel-debugbar",
+                "type": "github"
+            },
+            {
+                "title": "Laravel 5 Log Viewer",
+                "href": "https://github.com/rap2hpoutre/laravel-log-viewer",
+                "github": "rap2hpoutre/laravel-log-viewer",
+                "type": "github"
+            },
+            {
+                "title": "LogViewer",
+                "href": "https://github.com/ARCANEDEV/LogViewer",
+                "github": "ARCANEDEV/LogViewer",
+                "type": "github"
+            },
+            {
+                "title": "LERN",
+                "href": "https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier",
+                "github": "tylercd100/lern#lern-laravel-exception-recorder-and-notifier",
+                "type": "github"
+            },
+            {
+                "title": "Mail Preview",
+                "href": "https://github.com/themsaid/laravel-mail-preview",
+                "github": "themsaid/laravel-mail-preview",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Tracy",
+                "href": "https://github.com/recca0120/laravel-tracy",
+                "github": "recca0120/laravel-tracy",
+                "type": "github"
+            },
+            {
+                "title": "Laravel API Tester",
+                "href": "https://github.com/asvae/laravel-api-tester",
+                "github": "asvae/laravel-api-tester",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication & Authorisation",
+        "childrens": [
+            {
+                "title": "Bouncer",
+                "href": "https://github.com/JosephSilber/bouncer",
+                "github": "JosephSilber/bouncer",
+                "type": "github"
+            },
+            {
+                "title": "Entrust",
+                "href": "https://github.com/Zizaco/entrust",
+                "github": "Zizaco/entrust",
+                "type": "github"
+            },
+            {
+                "title": "JWT Auth",
+                "href": "https://github.com/tymondesigns/jwt-auth",
+                "github": "tymondesigns/jwt-auth",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Permission",
+                "href": "https://github.com/spatie/laravel-permission",
+                "github": "spatie/laravel-permission",
+                "type": "github"
+            },
+            {
+                "title": "Defender",
+                "href": "https://github.com/artesaos/defender",
+                "github": "artesaos/defender",
+                "type": "github"
+            },
+            {
+                "title": "OAuth2 Server Laravel",
+                "href": "https://github.com/lucadegasperi/oauth2-server-laravel",
+                "github": "lucadegasperi/oauth2-server-laravel",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Roles",
+                "href": "https://github.com/romanbican/roles",
+                "github": "romanbican/roles",
+                "type": "github"
+            },
+            {
+                "title": "Sentinel",
+                "href": "https://github.com/cartalyst/sentinel",
+                "github": "cartalyst/sentinel",
+                "type": "github"
+            },
+            {
+                "title": "Socialite",
+                "href": "https://github.com/laravel/socialite",
+                "github": "laravel/socialite",
+                "type": "github"
+            },
+            {
+                "title": "Google2FA",
+                "href": "https://github.com/antonioribeiro/google2fa",
+                "github": "antonioribeiro/google2fa",
+                "type": "github"
+            },
+            {
+                "title": "Laravel User Verification",
+                "href": "https://github.com/jrean/laravel-user-verification",
+                "github": "jrean/laravel-user-verification",
+                "type": "github"
+            },
+            {
+                "title": "Adldap2 Laravel",
+                "href": "https://github.com/Adldap2/Adldap2-Laravel",
+                "github": "Adldap2/Adldap2-Laravel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "Artisan View",
+                "href": "https://github.com/svenluijten/artisan-view",
+                "github": "svenluijten/artisan-view",
+                "type": "github"
+            },
+            {
+                "title": "Bootstrapper",
+                "href": "https://github.com/patricktalmadge/bootstrapper/",
+                "github": "patricktalmadge/bootstrapper/",
+                "type": "github"
+            },
+            {
+                "title": "Captcha",
+                "href": "https://github.com/mewebstudio/captcha",
+                "github": "mewebstudio/captcha",
+                "type": "github"
+            },
+            {
+                "title": "Charts",
+                "href": "https://github.com/ConsoleTVs/Charts",
+                "github": "ConsoleTVs/Charts",
+                "type": "github"
+            },
+            {
+                "title": "Datatable",
+                "href": "https://github.com/Chumper/Datatable",
+                "github": "Chumper/Datatable",
+                "type": "github"
+            },
+            {
+                "title": "Eloquent Filter",
+                "href": "https://github.com/Tucker-Eric/EloquentFilter",
+                "github": "Tucker-Eric/EloquentFilter",
+                "type": "github"
+            },
+            {
+                "title": "Eloquent Sluggable",
+                "href": "https://github.com/cviebrock/eloquent-sluggable",
+                "github": "cviebrock/eloquent-sluggable",
+                "type": "github"
+            },
+            {
+                "title": "Eloquent Sortable",
+                "href": "https://github.com/spatie/eloquent-sortable",
+                "github": "spatie/eloquent-sortable",
+                "type": "github"
+            },
+            {
+                "title": "Presenter",
+                "href": "https://github.com/laracasts/Presenter",
+                "github": "laracasts/Presenter",
+                "type": "github"
+            },
+            {
+                "title": "HTML",
+                "href": "https://github.com/LaravelCollective/html",
+                "github": "LaravelCollective/html",
+                "type": "github"
+            },
+            {
+                "title": "Hyn/multi-tenant",
+                "href": "https://github.com/hyn/multi-tenant",
+                "github": "hyn/multi-tenant",
+                "type": "github"
+            },
+            {
+                "title": "Laravel 5 form builder",
+                "href": "https://github.com/kristijanhusak/laravel-form-builder",
+                "github": "kristijanhusak/laravel-form-builder",
+                "type": "github"
+            },
+            {
+                "title": "Intervention Image",
+                "href": "https://github.com/Intervention/image",
+                "github": "Intervention/image",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Activitylog",
+                "href": "https://github.com/spatie/laravel-activitylog",
+                "github": "spatie/laravel-activitylog",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Auditing",
+                "href": "https://github.com/owen-it/laravel-auditing",
+                "github": "owen-it/laravel-auditing",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Blade Javascript",
+                "href": "https://github.com/spatie/laravel-blade-javascript",
+                "github": "spatie/laravel-blade-javascript",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Breadcrumbs",
+                "href": "https://github.com/davejamesmiller/laravel-breadcrumbs",
+                "github": "davejamesmiller/laravel-breadcrumbs",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Collection Macros",
+                "href": "https://github.com/spatie/laravel-collection-macros",
+                "github": "spatie/laravel-collection-macros",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Cookie Consent",
+                "href": "https://github.com/spatie/laravel-cookie-consent",
+                "github": "spatie/laravel-cookie-consent",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Datatables",
+                "href": "https://github.com/yajra/laravel-datatables",
+                "github": "yajra/laravel-datatables",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Dot Env Generator",
+                "href": "https://github.com/mathiasgrimm/laravel-dot-env-gen",
+                "github": "mathiasgrimm/laravel-dot-env-gen",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Excel",
+                "href": "https://github.com/Maatwebsite/Laravel-Excel",
+                "github": "Maatwebsite/Laravel-Excel",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Failed Job Monitor",
+                "href": "https://github.com/spatie/laravel-failed-job-monitor",
+                "github": "spatie/laravel-failed-job-monitor",
+                "type": "github"
+            },
+            {
+                "title": "Laravel GeoIP",
+                "href": "https://github.com/Torann/laravel-geoip",
+                "github": "Torann/laravel-geoip",
+                "type": "github"
+            },
+            {
+                "title": "Laravel GitScrum",
+                "href": "https://github.com/renatomarinho/laravel-gitscrum",
+                "github": "renatomarinho/laravel-gitscrum",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Glide",
+                "href": "https://github.com/spatie/laravel-glide",
+                "github": "spatie/laravel-glide",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Hashids",
+                "href": "https://github.com/vinkla/laravel-hashids",
+                "github": "vinkla/laravel-hashids",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Impersonate",
+                "href": "https://github.com/404labfr/laravel-impersonate",
+                "github": "404labfr/laravel-impersonate",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Markdown",
+                "href": "https://github.com/GrahamCampbell/Laravel-Markdown",
+                "github": "GrahamCampbell/Laravel-Markdown",
+                "type": "github"
+            },
+            {
+                "title": "Laravel MediaLibrary",
+                "href": "https://github.com/spatie/laravel-medialibrary",
+                "github": "spatie/laravel-medialibrary",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Menu",
+                "href": "https://github.com/spatie/laravel-menu",
+                "github": "spatie/laravel-menu",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Messenger",
+                "href": "https://github.com/cmgmyr/laravel-messenger",
+                "github": "cmgmyr/laravel-messenger",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Moderation",
+                "href": "https://github.com/hootlex/laravel-moderation",
+                "github": "hootlex/laravel-moderation",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Paginateroute",
+                "href": "https://github.com/spatie/laravel-paginateroute",
+                "github": "spatie/laravel-paginateroute",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Pjax",
+                "href": "https://github.com/spatie/laravel-pjax",
+                "github": "spatie/laravel-pjax",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Responsecache",
+                "href": "https://github.com/spatie/laravel-responsecache",
+                "github": "spatie/laravel-responsecache",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Snappy",
+                "href": "https://github.com/barryvdh/laravel-snappy",
+                "github": "barryvdh/laravel-snappy",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Stapler",
+                "href": "https://github.com/CodeSleeve/laravel-stapler",
+                "github": "CodeSleeve/laravel-stapler",
+                "type": "github"
+            },
+            {
+                "title": "Laravel url signer",
+                "href": "https://github.com/spatie/laravel-url-signer",
+                "github": "spatie/laravel-url-signer",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Tail",
+                "href": "https://github.com/spatie/laravel-tail",
+                "github": "spatie/laravel-tail",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Tags",
+                "href": "https://github.com/spatie/laravel-tags",
+                "github": "spatie/laravel-tags",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Uptime Monitor",
+                "href": "https://github.com/spatie/laravel-uptime-monitor",
+                "github": "spatie/laravel-uptime-monitor",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Stats Tracker",
+                "href": "https://github.com/antonioribeiro/tracker",
+                "github": "antonioribeiro/tracker",
+                "type": "github"
+            },
+            {
+                "title": "Listify",
+                "href": "https://github.com/lookitsatravis/listify",
+                "github": "lookitsatravis/listify",
+                "type": "github"
+            },
+            {
+                "title": "noCAPTCHA",
+                "href": "https://github.com/ARCANEDEV/noCAPTCHA",
+                "github": "ARCANEDEV/noCAPTCHA",
+                "type": "github"
+            },
+            {
+                "title": "Purifier",
+                "href": "https://github.com/mewebstudio/purifier",
+                "github": "mewebstudio/purifier",
+                "type": "github"
+            },
+            {
+                "title": "Revisionable",
+                "href": "https://github.com/VentureCraft/revisionable",
+                "github": "VentureCraft/revisionable",
+                "type": "github"
+            },
+            {
+                "title": "SEOTools",
+                "href": "https://github.com/artesaos/seotools",
+                "github": "artesaos/seotools",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Setting",
+                "href": "https://github.com/anlutro/laravel-settings",
+                "github": "anlutro/laravel-settings",
+                "type": "github"
+            },
+            {
+                "title": "Friendship",
+                "href": "https://github.com/hootlex/laravel-friendships",
+                "github": "hootlex/laravel-friendships",
+                "type": "github"
+            },
+            {
+                "title": "Teamwork",
+                "href": "https://github.com/mpociot/teamwork",
+                "github": "mpociot/teamwork",
+                "type": "github"
+            },
+            {
+                "title": "Validating",
+                "href": "https://github.com/dwightwatson/validating",
+                "github": "dwightwatson/validating",
+                "type": "github"
+            },
+            {
+                "title": "VAT Calculator",
+                "href": "https://github.com/mpociot/vat-calculator",
+                "github": "mpociot/vat-calculator",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Uuid",
+                "href": "https://github.com/webpatser/laravel-uuid",
+                "github": "webpatser/laravel-uuid",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Installer",
+                "href": "https://github.com/RachidLaasri/LaravelInstaller",
+                "github": "RachidLaasri/LaravelInstaller",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Test Factory Generator",
+                "href": "https://github.com/mpociot/laravel-test-factory-helper",
+                "github": "mpociot/laravel-test-factory-helper",
+                "type": "github"
+            },
+            {
+                "title": "Laravel-modules",
+                "href": "https://github.com/nWidart/laravel-modules",
+                "github": "nWidart/laravel-modules",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Phone",
+                "href": "https://github.com/Propaganistas/Laravel-Phone",
+                "github": "Propaganistas/Laravel-Phone",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Ban",
+                "href": "https://github.com/cybercog/laravel-ban",
+                "github": "cybercog/laravel-ban",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Proxy",
+                "href": "https://github.com/fideloper/TrustedProxy",
+                "github": "fideloper/TrustedProxy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Working with Javascript",
+        "childrens": [
+            {
+                "title": "Laroute",
+                "href": "https://github.com/aaronlord/laroute",
+                "github": "aaronlord/laroute",
+                "type": "github"
+            },
+            {
+                "title": "PHP Vars to JavaScript Transformer",
+                "href": "https://github.com/laracasts/PHP-Vars-To-Js-Transformer",
+                "github": "laracasts/PHP-Vars-To-Js-Transformer",
+                "type": "github"
+            },
+            {
+                "title": "Javascript Validation",
+                "href": "https://github.com/proengsoft/laravel-jsvalidation",
+                "github": "proengsoft/laravel-jsvalidation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Databases, ORMs, Migrations & Seeding",
+        "childrens": [
+            {
+                "title": "Backup Manager",
+                "href": "https://github.com/backup-manager/laravel",
+                "github": "backup-manager/laravel",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Nestedset",
+                "href": "https://github.com/lazychaser/laravel-nestedset",
+                "github": "lazychaser/laravel-nestedset",
+                "type": "github"
+            },
+            {
+                "title": "ClosureTable",
+                "href": "https://github.com/franzose/ClosureTable",
+                "github": "franzose/ClosureTable",
+                "type": "github"
+            },
+            {
+                "title": "Eloquence",
+                "href": "https://github.com/kirkbushell/eloquence",
+                "github": "kirkbushell/eloquence",
+                "type": "github"
+            },
+            {
+                "title": "iSeed",
+                "href": "https://github.com/orangehill/iseed",
+                "github": "orangehill/iseed",
+                "type": "github"
+            },
+            {
+                "title": "Laravel OCI8",
+                "href": "https://github.com/yajra/laravel-oci8",
+                "github": "yajra/laravel-oci8",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Backup",
+                "href": "https://github.com/spatie/laravel-backup",
+                "github": "spatie/laravel-backup",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Doctrine",
+                "href": "https://github.com/laravel-doctrine/orm",
+                "github": "laravel-doctrine/orm",
+                "type": "github"
+            },
+            {
+                "title": "Laravel MongoDB",
+                "href": "https://github.com/jenssegers/laravel-mongodb",
+                "github": "jenssegers/laravel-mongodb",
+                "type": "github"
+            },
+            {
+                "title": "Migrations Generator",
+                "href": "https://github.com/Xethron/migrations-generator",
+                "github": "Xethron/migrations-generator",
+                "type": "github"
+            },
+            {
+                "title": "Sofa/Eloquence",
+                "href": "https://github.com/jarektkaczyk/eloquence",
+                "github": "jarektkaczyk/eloquence",
+                "type": "github"
+            },
+            {
+                "title": "Tenanti",
+                "href": "https://github.com/orchestral/tenanti",
+                "github": "orchestral/tenanti",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Repository",
+                "href": "https://github.com/andersao/l5-repository",
+                "github": "andersao/l5-repository",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search",
+        "childrens": [
+            {
+                "title": "Algolia Search",
+                "href": "https://github.com/algolia/algoliasearch-laravel",
+                "github": "algolia/algoliasearch-laravel",
+                "type": "github"
+            },
+            {
+                "title": "Elasticquent",
+                "href": "https://github.com/elasticquent/Elasticquent",
+                "github": "elasticquent/Elasticquent",
+                "type": "github"
+            },
+            {
+                "title": "Plastic",
+                "href": "https://github.com/sleimanx2/plastic",
+                "github": "sleimanx2/plastic",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Search",
+                "href": "https://github.com/mmanos/laravel-search",
+                "github": "mmanos/laravel-search",
+                "type": "github"
+            },
+            {
+                "title": "SearchIndex",
+                "href": "https://github.com/spatie/searchindex",
+                "github": "spatie/searchindex",
+                "type": "github"
+            },
+            {
+                "title": "Searchable",
+                "href": "https://github.com/nicolaslopezj/searchable",
+                "github": "nicolaslopezj/searchable",
+                "type": "github"
+            },
+            {
+                "title": "TNTSearch",
+                "href": "https://github.com/teamtnt/tntsearch",
+                "github": "teamtnt/tntsearch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "APIs",
+        "childrens": [
+            {
+                "title": "ApiGuard",
+                "href": "https://github.com/chrisbjr/api-guard",
+                "github": "chrisbjr/api-guard",
+                "type": "github"
+            },
+            {
+                "title": "Dingo API",
+                "href": "https://github.com/dingo/api",
+                "github": "dingo/api",
+                "type": "github"
+            },
+            {
+                "title": "Laravel CORS",
+                "href": "https://github.com/barryvdh/laravel-cors",
+                "github": "barryvdh/laravel-cors",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Fractal",
+                "href": "https://github.com/spatie/laravel-fractal",
+                "github": "spatie/laravel-fractal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tasks, Commands and Scheduling",
+        "childrens": [
+            {
+                "title": "Dispatcher",
+                "href": "https://github.com/indatus/dispatcher",
+                "github": "indatus/dispatcher",
+                "type": "github"
+            },
+            {
+                "title": "Elixir",
+                "href": "https://github.com/laravel/elixir",
+                "github": "laravel/elixir",
+                "type": "github"
+            },
+            {
+                "title": "Envoy",
+                "href": "https://github.com/laravel/envoy",
+                "github": "laravel/envoy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Payments",
+        "childrens": [
+            {
+                "title": "Cashier",
+                "href": "https://github.com/laravel/cashier",
+                "github": "laravel/cashier",
+                "type": "github"
+            },
+            {
+                "title": "Omnipay for Laravel",
+                "href": "https://github.com/ignited/laravel-omnipay",
+                "github": "ignited/laravel-omnipay",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Optimization",
+        "childrens": [
+            {
+                "title": "Intervention Image Cache",
+                "href": "https://github.com/Intervention/imagecache",
+                "github": "Intervention/imagecache",
+                "type": "github"
+            },
+            {
+                "title": "Laravel HTMLMin",
+                "href": "https://github.com/GrahamCampbell/Laravel-HTMLMin",
+                "github": "GrahamCampbell/Laravel-HTMLMin",
+                "type": "github"
+            },
+            {
+                "title": "Rememberable",
+                "href": "https://github.com/dwightwatson/rememberable",
+                "github": "dwightwatson/rememberable",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Localization",
+        "childrens": [
+            {
+                "title": "Language Files",
+                "href": "https://github.com/caouecs/Laravel-lang",
+                "github": "caouecs/Laravel-lang",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Localization",
+                "href": "https://github.com/mcamara/laravel-localization",
+                "github": "mcamara/laravel-localization",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Translatable",
+                "href": "https://github.com/spatie/laravel-translatable",
+                "github": "spatie/laravel-translatable",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Translatable",
+                "href": "https://github.com/dimsav/laravel-translatable",
+                "github": "dimsav/laravel-translatable",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Translator",
+                "href": "https://github.com/vinkla/laravel-translator",
+                "github": "vinkla/laravel-translator",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Date",
+                "href": "https://github.com/jenssegers/date",
+                "github": "jenssegers/date",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Langman",
+                "href": "https://github.com/themsaid/laravel-langman",
+                "github": "themsaid/laravel-langman",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Translation",
+                "href": "https://github.com/waavi/translation",
+                "github": "waavi/translation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third-party Service Integration",
+        "childrens": [
+            {
+                "title": "Laravel Algolia",
+                "href": "https://github.com/vinkla/laravel-algolia",
+                "github": "vinkla/laravel-algolia",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Analytics",
+                "href": "https://github.com/spatie/laravel-analytics",
+                "github": "spatie/laravel-analytics",
+                "type": "github"
+            },
+            {
+                "title": "Laravel DigitalOcean",
+                "href": "https://github.com/GrahamCampbell/Laravel-DigitalOcean",
+                "github": "GrahamCampbell/Laravel-DigitalOcean",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Dropbox",
+                "href": "https://github.com/GrahamCampbell/Laravel-Dropbox",
+                "github": "GrahamCampbell/Laravel-Dropbox",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Facebook",
+                "href": "https://github.com/vinkla/laravel-facebook",
+                "github": "vinkla/laravel-facebook",
+                "type": "github"
+            },
+            {
+                "title": "Laravel GitHub",
+                "href": "https://github.com/GrahamCampbell/Laravel-GitHub",
+                "github": "GrahamCampbell/Laravel-GitHub",
+                "type": "github"
+            },
+            {
+                "title": "Laravel GitLab",
+                "href": "https://github.com/vinkla/laravel-gitlab",
+                "github": "vinkla/laravel-gitlab",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Googletagmanager",
+                "href": "https://github.com/spatie/laravel-googletagmanager",
+                "github": "spatie/laravel-googletagmanager",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Instagram",
+                "href": "https://github.com/vinkla/laravel-instagram",
+                "github": "vinkla/laravel-instagram",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Newsletter",
+                "href": "https://github.com/spatie/laravel-newsletter",
+                "github": "spatie/laravel-newsletter",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Parse",
+                "href": "https://github.com/GrahamCampbell/Laravel-Parse",
+                "github": "GrahamCampbell/Laravel-Parse",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Pusher",
+                "href": "https://github.com/vinkla/laravel-pusher",
+                "github": "vinkla/laravel-pusher",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Pushwoosh",
+                "href": "https://github.com/hoymultimedia/Laravel-Pushwoosh",
+                "github": "hoymultimedia/Laravel-Pushwoosh",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Vimeo",
+                "href": "https://github.com/vinkla/laravel-vimeo",
+                "github": "vinkla/laravel-vimeo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development Setup",
+        "childrens": [
+            {
+                "title": "LaraDock",
+                "href": "https://github.com/LaraDock/laradock",
+                "github": "LaraDock/laradock",
+                "type": "github"
+            },
+            {
+                "title": "LaraEdit Docker",
+                "href": "https://github.com/laraedit/laraedit-docker",
+                "github": "laraedit/laraedit-docker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Application Deployment",
+        "childrens": [
+            {
+                "title": "Rocketeer",
+                "href": "https://github.com/rocketeers/rocketeer",
+                "github": "rocketeers/rocketeer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Starter Projects",
+        "childrens": [
+            {
+                "title": "Laracogs",
+                "href": "https://github.com/yabhq/laracogs",
+                "github": "yabhq/laracogs",
+                "type": "github"
+            },
+            {
+                "title": "Laravel 5.2 Boilerplate",
+                "href": "https://github.com/rappasoft/laravel-5-boilerplate",
+                "github": "rappasoft/laravel-5-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Laravel 5 Angular Material Starter",
+                "href": "https://github.com/jadjoubran/laravel5-angular-material-starter",
+                "github": "jadjoubran/laravel5-angular-material-starter",
+                "type": "github"
+            },
+            {
+                "title": "Acacha adminlte-laravel",
+                "href": "https://github.com/acacha/adminlte-laravel",
+                "github": "acacha/adminlte-laravel",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Hackathon Starter",
+                "href": "https://github.com/unicodeveloper/laravel-hackathon-starter",
+                "github": "unicodeveloper/laravel-hackathon-starter",
+                "type": "github"
+            },
+            {
+                "title": "Laravel API",
+                "href": "https://github.com/joselfonseca/laravel-api",
+                "github": "joselfonseca/laravel-api",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Angular AdminLTE",
+                "href": "https://github.com/silverbux/laravel-angular-admin",
+                "github": "silverbux/laravel-angular-admin",
+                "type": "github"
+            },
+            {
+                "title": "Laravel-admin",
+                "href": "https://github.com/z-song/laravel-admin",
+                "github": "z-song/laravel-admin",
+                "type": "github"
+            },
+            {
+                "title": "Laravel REST API Boilerplate",
+                "href": "https://github.com/francescomalatesta/laravel-api-boilerplate-jwt",
+                "github": "francescomalatesta/laravel-api-boilerplate-jwt",
+                "type": "github"
+            },
+            {
+                "title": "Hello API",
+                "href": "https://github.com/Porto-SAP/Hello-API",
+                "github": "Porto-SAP/Hello-API",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Codebases for Reference",
+        "childrens": [
+            {
+                "title": "92Five",
+                "href": "https://github.com/chintanbanugaria/92five",
+                "github": "chintanbanugaria/92five",
+                "type": "github"
+            },
+            {
+                "title": "Cachet",
+                "href": "https://github.com/cachethq/Cachet",
+                "github": "cachethq/Cachet",
+                "type": "github"
+            },
+            {
+                "title": "Deployer",
+                "href": "https://github.com/REBELinBLUE/deployer",
+                "github": "REBELinBLUE/deployer",
+                "type": "github"
+            },
+            {
+                "title": "Invoice Ninja",
+                "href": "https://github.com/invoiceninja/invoiceninja",
+                "github": "invoiceninja/invoiceninja",
+                "type": "github"
+            },
+            {
+                "title": "Koel",
+                "href": "https://github.com/phanan/koel",
+                "github": "phanan/koel",
+                "type": "github"
+            },
+            {
+                "title": "Laravel Tricks",
+                "href": "https://github.com/CodepadME/laravel-tricks",
+                "github": "CodepadME/laravel-tricks",
+                "type": "github"
+            },
+            {
+                "title": "Laravel.io",
+                "href": "https://github.com/laravelio/laravel.io",
+                "github": "laravelio/laravel.io",
+                "type": "github"
+            },
+            {
+                "title": "Paperwork",
+                "href": "https://github.com/twostairs/paperwork",
+                "github": "twostairs/paperwork",
+                "type": "github"
+            },
+            {
+                "title": "PHPHub",
+                "href": "https://github.com/summerblue/phphub",
+                "github": "summerblue/phphub",
+                "type": "github"
+            },
+            {
+                "title": "Flarum",
+                "href": "https://github.com/flarum/flarum",
+                "github": "flarum/flarum",
+                "type": "github"
+            },
+            {
+                "title": "Laramap",
+                "href": "https://github.com/laramap/laramap.com",
+                "github": "laramap/laramap.com",
+                "type": "github"
+            },
+            {
+                "title": "Attendize",
+                "href": "https://github.com/Attendize/Attendize",
+                "github": "Attendize/Attendize",
+                "type": "github"
+            },
+            {
+                "title": "Katana",
+                "href": "https://github.com/themsaid/katana",
+                "github": "themsaid/katana",
+                "type": "github"
+            },
+            {
+                "title": "Antvel",
+                "href": "https://github.com/ant-vel/antVel",
+                "github": "ant-vel/antVel",
+                "type": "github"
+            },
+            {
+                "title": "Canvas",
+                "href": "https://github.com/austintoddj/Canvas",
+                "github": "austintoddj/Canvas",
+                "type": "github"
+            },
+            {
+                "title": "Vuedo",
+                "href": "https://github.com/Vuedo/vuedo",
+                "github": "Vuedo/vuedo",
+                "type": "github"
+            },
+            {
+                "title": "Screeenly",
+                "href": "https://github.com/stefanzweifel/screeenly",
+                "github": "stefanzweifel/screeenly",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Content Management Systems",
+        "childrens": [
+            {
+                "title": "Bootstrap CMS",
+                "href": "https://github.com/BootstrapCMS/CMS",
+                "github": "BootstrapCMS/CMS",
+                "type": "github"
+            },
+            {
+                "title": "TypiCMS",
+                "href": "https://github.com/typicms/base",
+                "github": "typicms/base",
+                "type": "github"
+            },
+            {
+                "title": "Quarx",
+                "href": "https://github.com/yabhq/quarx",
+                "github": "yabhq/quarx",
+                "type": "github"
+            },
+            {
+                "title": "WebEd CMS",
+                "href": "https://github.com/sgsoft-studio/webed",
+                "github": "sgsoft-studio/webed",
+                "type": "github"
+            },
+            {
+                "title": "Borgert CMS",
+                "href": "https://github.com/odirleiborgert/borgert-cms/",
+                "github": "odirleiborgert/borgert-cms/",
+                "type": "github"
+            },
+            {
+                "title": "WebEd CMS",
+                "href": "https://github.com/sgsoft-studio/webed",
+                "github": "sgsoft-studio/webed",
+                "type": "github"
+            },
+            {
+                "title": "PJ Blog",
+                "href": "https://github.com/jcc/blog/",
+                "github": "jcc/blog/",
+                "type": "github"
+            }
+        ]
+    }
+]

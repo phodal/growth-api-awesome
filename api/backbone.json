@@ -1,0 +1,160 @@
+[
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "Github repository",
+                "href": "https://github.com/jashkenas/backbone",
+                "github": "jashkenas/backbone",
+                "type": "github"
+            },
+            {
+                "title": "Yeoman generator for Backbone.js",
+                "href": "https://github.com/yeoman/generator-backbone",
+                "github": "yeoman/generator-backbone",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Examples and boilerplates",
+        "childrens": [
+            {
+                "title": "Backbone Require Boilerplate",
+                "href": "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate",
+                "github": "BoilerplateMVC/Backbone-Require-Boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Wine Cellar Sample Application",
+                "href": "https://github.com/ccoenraets/backbone-cellar",
+                "github": "ccoenraets/backbone-cellar",
+                "type": "github"
+            },
+            {
+                "title": "Employee Directory",
+                "href": "https://github.com/ccoenraets/directory-backbone-bootstrap",
+                "github": "ccoenraets/directory-backbone-bootstrap",
+                "type": "github"
+            },
+            {
+                "title": "Backbone Contact Manager",
+                "href": "https://github.com/dmytroyarmak/backbone-contact-manager",
+                "github": "dmytroyarmak/backbone-contact-manager",
+                "type": "github"
+            },
+            {
+                "title": "Backbone Boilerplates",
+                "href": "https://github.com/addyosmani/backbone-boilerplates",
+                "github": "addyosmani/backbone-boilerplates",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Courses",
+        "childrens": [
+            {
+                "title": "Structuring Your Web Apps via Backbone.js",
+                "href": "https://github.com/hegdeashwin/Backbone",
+                "github": "hegdeashwin/Backbone",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "Backbone.Relational",
+                "href": "https://github.com/PaulUithol/Backbone-relational",
+                "github": "PaulUithol/Backbone-relational",
+                "type": "github"
+            },
+            {
+                "title": "Backbone-forms",
+                "href": "https://github.com/powmedia/backbone-forms",
+                "github": "powmedia/backbone-forms",
+                "type": "github"
+            },
+            {
+                "title": "Backgrid.js",
+                "href": "https://github.com/wyuenho/backgrid",
+                "github": "wyuenho/backgrid",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.localStorage",
+                "href": "https://github.com/jeromegn/Backbone.localStorage",
+                "github": "jeromegn/Backbone.localStorage",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.stickit",
+                "href": "https://github.com/NYTimes/backbone.stickit",
+                "github": "NYTimes/backbone.stickit",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.paginator",
+                "href": "https://github.com/backbone-paginator/backbone.paginator",
+                "github": "backbone-paginator/backbone.paginator",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.validation",
+                "href": "https://github.com/thedersen/backbone.validation",
+                "github": "thedersen/backbone.validation",
+                "type": "github"
+            },
+            {
+                "title": "Exoskeleton",
+                "href": "https://github.com/paulmillr/exoskeleton",
+                "github": "paulmillr/exoskeleton",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.dualstorage",
+                "href": "https://github.com/nilbus/Backbone.dualStorage",
+                "github": "nilbus/Backbone.dualStorage",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.iobind",
+                "href": "https://github.com/noveogroup/backbone.iobind",
+                "github": "noveogroup/backbone.iobind",
+                "type": "github"
+            },
+            {
+                "title": "Backbone-associations",
+                "href": "https://github.com/dhruvaray/backbone-associations",
+                "github": "dhruvaray/backbone-associations",
+                "type": "github"
+            },
+            {
+                "title": "Backbone-tastypie",
+                "href": "https://github.com/PaulUithol/backbone-tastypie",
+                "github": "PaulUithol/backbone-tastypie",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.Radio",
+                "href": "https://github.com/marionettejs/backbone.radio",
+                "github": "marionettejs/backbone.radio",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.BabySitter",
+                "href": "https://github.com/marionettejs/backbone.babysitter",
+                "github": "marionettejs/backbone.babysitter",
+                "type": "github"
+            },
+            {
+                "title": "Backbone.History.Polyfill",
+                "href": "https://github.com/FidelityInternational/BackboneHistoryPolyfill",
+                "github": "FidelityInternational/BackboneHistoryPolyfill",
+                "type": "github"
+            }
+        ]
+    }
+]

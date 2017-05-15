@@ -1,0 +1,88 @@
+[
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "OWASP ZAP",
+                "href": "https://github.com/zaproxy/zaproxy",
+                "github": "zaproxy/zaproxy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Training (Includes developer training for automation testers)",
+        "childrens": [
+            {
+                "title": "Learn to Code",
+                "href": "https://github.com/karlhorky/learn-to-program",
+                "github": "karlhorky/learn-to-program",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Must Read",
+        "childrens": [
+            {
+                "title": "Falsehoods",
+                "href": "https://github.com/kdeldycke/awesome-falsehood",
+                "github": "kdeldycke/awesome-falsehood",
+                "type": "github"
+            },
+            {
+                "title": "Naughty Strings",
+                "href": "https://github.com/minimaxir/big-list-of-naughty-strings",
+                "github": "minimaxir/big-list-of-naughty-strings",
+                "type": "github"
+            },
+            {
+                "title": "Unicode",
+                "href": "https://github.com/jagracey/Awesome-Unicode",
+                "github": "jagracey/Awesome-Unicode",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Useful References",
+        "childrens": [
+            {
+                "title": "The Original",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "Learn to Code",
+                "href": "https://github.com/karlhorky/learn-to-program",
+                "github": "karlhorky/learn-to-program",
+                "type": "github"
+            },
+            {
+                "title": "Application Security",
+                "href": "https://github.com/paragonie/awesome-appsec",
+                "github": "paragonie/awesome-appsec",
+                "type": "github"
+            },
+            {
+                "title": "Selenium",
+                "href": "https://github.com/christian-bromann/awesome-selenium",
+                "github": "christian-bromann/awesome-selenium",
+                "type": "github"
+            },
+            {
+                "title": "Security",
+                "href": "https://github.com/sbilly/awesome-security",
+                "github": "sbilly/awesome-security",
+                "type": "github"
+            },
+            {
+                "title": "Free Software Testing Books",
+                "href": "https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md",
+                "github": "ligurio/free-software-testing-books/blob/master/free-software-testing-books.md",
+                "type": "github"
+            }
+        ]
+    }
+]

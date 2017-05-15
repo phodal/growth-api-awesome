@@ -1,0 +1,13 @@
+[
+    {
+        "heading": "Awesome Events in NL ",
+        "childrens": [
+            {
+                "title": "What is an awesome list?",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            }
+        ]
+    }
+]

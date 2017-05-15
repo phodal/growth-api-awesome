@@ -1,0 +1,19 @@
+[
+    {
+        "heading": "Who to Follow",
+        "childrens": [
+            {
+                "title": "Matthew Riley",
+                "href": "https://github.com/tofumatt",
+                "github": "tofumatt",
+                "type": "github"
+            },
+            {
+                "title": "Jake Archibald",
+                "href": "https://github.com/jakearchibald",
+                "github": "jakearchibald",
+                "type": "github"
+            }
+        ]
+    }
+]

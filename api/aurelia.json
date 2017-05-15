@@ -1,0 +1,668 @@
+[
+    {
+        "heading": "Official Resources",
+        "childrens": [
+            {
+                "title": "Official GitHub Repo",
+                "href": "https://github.com/aurelia/framework",
+                "github": "aurelia/framework",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Tools",
+        "childrens": [
+            {
+                "title": "vscode-aurelia-snippets",
+                "href": "https://github.com/behzad888/vscode-aurelia-snippets",
+                "github": "behzad888/vscode-aurelia-snippets",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-update",
+                "href": "https://github.com/SpoonX/aurelia-update",
+                "github": "SpoonX/aurelia-update",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-template-lint",
+                "href": "https://github.com/MeirionHughes/aurelia-template-lint",
+                "github": "MeirionHughes/aurelia-template-lint",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-installer",
+                "href": "https://github.com/kristianmandrup/aurelia-installer",
+                "github": "kristianmandrup/aurelia-installer",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-debugger",
+                "href": "https://github.com/charlespockert/aurelia-debugger",
+                "github": "charlespockert/aurelia-debugger",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Seed Project",
+        "childrens": [
+            {
+                "title": "Beginner kits",
+                "href": "https://github.com/aurelia/beginner-kits",
+                "github": "aurelia/beginner-kits",
+                "type": "github"
+            },
+            {
+                "title": "TypeScript + Webpack Starter Kit",
+                "href": "https://github.com/michaelbull/aurelia-typescript-webpack-starter",
+                "github": "michaelbull/aurelia-typescript-webpack-starter",
+                "type": "github"
+            },
+            {
+                "href": "https://github.com/behzad888/awesome/edit/master/README.md",
+                "github": "behzad888/awesome/edit/master/README.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Generators",
+        "childrens": [
+            {
+                "title": "zewa666/generator-aurelia",
+                "href": "https://github.com/zewa666/generator-aurelia",
+                "github": "zewa666/generator-aurelia",
+                "type": "github"
+            },
+            {
+                "title": "kristianmandrup/generator-aurelia-ts",
+                "href": "https://github.com/kristianmandrup/generator-aurelia-ts",
+                "github": "kristianmandrup/generator-aurelia-ts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Tutorials",
+        "childrens": [
+            {
+                "title": "Aurelia-styleguide",
+                "href": "https://github.com/behzad888/Aurelia-styleguide",
+                "github": "behzad888/Aurelia-styleguide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Material Design",
+        "childrens": [
+            {
+                "title": "Official Aurelia Material Design (Github)",
+                "href": "https://github.com/joelcoxokc/aurelia-interface",
+                "github": "joelcoxokc/aurelia-interface",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-mdl",
+                "href": "https://github.com/genadis/aurelia-mdl",
+                "github": "genadis/aurelia-mdl",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-material",
+                "href": "https://github.com/redpelicans/aurelia-material",
+                "github": "redpelicans/aurelia-material",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-mdl-plugin",
+                "href": "https://github.com/arabsight/aurelia-mdl-plugin",
+                "github": "arabsight/aurelia-mdl-plugin",
+                "type": "github"
+            },
+            {
+                "href": "https://github.com/behzad888/awesome/edit/master/README.md",
+                "github": "behzad888/awesome/edit/master/README.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Plugins",
+        "childrens": [
+            {
+                "title": "aurelia-auth",
+                "href": "https://github.com/paulvanbladel/aurelia-auth",
+                "github": "paulvanbladel/aurelia-auth",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-computed",
+                "href": "https://github.com/jdanyow/aurelia-computed",
+                "github": "jdanyow/aurelia-computed",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-i18n",
+                "href": "https://github.com/aurelia/i18n",
+                "github": "aurelia/i18n",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-ui-virtualization",
+                "href": "https://github.com/aurelia/ui-virtualization",
+                "github": "aurelia/ui-virtualization",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-bs-grid",
+                "href": "https://github.com/charlespockert/aurelia-bs-grid",
+                "github": "charlespockert/aurelia-bs-grid",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-polymer",
+                "href": "https://github.com/roguePanda/aurelia-polymer",
+                "github": "roguePanda/aurelia-polymer",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-google-maps",
+                "href": "https://github.com/Vheissu/aurelia-google-maps",
+                "github": "Vheissu/aurelia-google-maps",
+                "type": "github"
+            },
+            {
+                "title": "webpack-plugin",
+                "href": "https://github.com/aurelia/webpack-plugin",
+                "github": "aurelia/webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-cycle",
+                "href": "https://github.com/niieani/aurelia-cycle",
+                "github": "niieani/aurelia-cycle",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-kendoui-bridge",
+                "href": "https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge",
+                "github": "aurelia-ui-toolkits/aurelia-kendoui-bridge",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-react-loader",
+                "href": "https://github.com/bryanrsmith/aurelia-react-loader",
+                "github": "bryanrsmith/aurelia-react-loader",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-validatejs",
+                "href": "https://github.com/aurelia/validatejs",
+                "github": "aurelia/validatejs",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-view-pipeline",
+                "href": "https://github.com/behzad888/aurelia-view-pipeline",
+                "github": "behzad888/aurelia-view-pipeline",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-routed-footer",
+                "href": "https://github.com/drivesoftware/aurelia-routed-footer",
+                "github": "drivesoftware/aurelia-routed-footer",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-api",
+                "href": "https://github.com/SpoonX/aurelia-api",
+                "github": "SpoonX/aurelia-api",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-authentication",
+                "href": "https://github.com/SpoonX/aurelia-authentication",
+                "github": "SpoonX/aurelia-authentication",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-orm",
+                "href": "https://github.com/SpoonX/aurelia-orm",
+                "github": "SpoonX/aurelia-orm",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-notification",
+                "href": "https://github.com/SpoonX/aurelia-notification",
+                "github": "SpoonX/aurelia-notification",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-binding-loader",
+                "href": "https://github.com/bryanrsmith/aurelia-binding-loader",
+                "github": "bryanrsmith/aurelia-binding-loader",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-dragula",
+                "href": "https://github.com/michaelmalonenz/aurelia-dragula",
+                "github": "michaelmalonenz/aurelia-dragula",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-breeze",
+                "href": "https://github.com/jdanyow/aurelia-breeze",
+                "github": "jdanyow/aurelia-breeze",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-bootstrap-datepicker",
+                "href": "https://github.com/Itprosolutions/aurelia-bootstrap-datepicker",
+                "github": "Itprosolutions/aurelia-bootstrap-datepicker",
+                "type": "github"
+            },
+            {
+                "title": "Aurelia-Configuration",
+                "href": "https://github.com/vheissu/aurelia-configuration",
+                "github": "vheissu/aurelia-configuration",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-environment",
+                "href": "https://github.com/MarcScheib/aurelia-environment",
+                "github": "MarcScheib/aurelia-environment",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-firebase",
+                "href": "https://github.com/pulsarblow/aurelia-firebase",
+                "github": "pulsarblow/aurelia-firebase",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-flux",
+                "href": "https://github.com/tfrydrychewicz/aurelia-flux",
+                "github": "tfrydrychewicz/aurelia-flux",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-grid",
+                "href": "https://github.com/corneliutusnea/aurelia-grid",
+                "github": "corneliutusnea/aurelia-grid",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-google-analytics",
+                "href": "https://github.com/miguelzakharia/aurelia-google-analytics",
+                "github": "miguelzakharia/aurelia-google-analytics",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-knockout",
+                "href": "https://github.com/code-chris/aurelia-knockout",
+                "github": "code-chris/aurelia-knockout",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-leaflet",
+                "href": "https://github.com/ceoaliongroo/aurelia-leaflet",
+                "github": "ceoaliongroo/aurelia-leaflet",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-notify",
+                "href": "https://github.com/MarcScheib/aurelia-notify",
+                "github": "MarcScheib/aurelia-notify",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-rethink-bindtable",
+                "href": "https://github.com/kristianmandrup/aurelia-rethink-bindtable",
+                "github": "kristianmandrup/aurelia-rethink-bindtable",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-sails-socket-client",
+                "href": "https://github.com/Mordred/aurelia-sails-socket-client",
+                "github": "Mordred/aurelia-sails-socket-client",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-switch",
+                "href": "https://github.com/Itprosolutions/aurelia-switch",
+                "github": "Itprosolutions/aurelia-switch",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-yt-player",
+                "href": "https://github.com/genadis/aurelia-yt-player",
+                "github": "genadis/aurelia-yt-player",
+                "type": "github"
+            },
+            {
+                "title": "abalmus/aurelia-ace-editor",
+                "href": "https://github.com/abalmus/aurelia-ace-editor",
+                "github": "abalmus/aurelia-ace-editor",
+                "type": "github"
+            },
+            {
+                "title": "Tseberechts/aurelia-place-picker",
+                "href": "https://github.com/Tseberechts/aurelia-place-picker",
+                "github": "Tseberechts/aurelia-place-picker",
+                "type": "github"
+            },
+            {
+                "title": "treacherous-aurelia",
+                "href": "https://github.com/grofit/treacherous-aurelia",
+                "github": "grofit/treacherous-aurelia",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-filter",
+                "href": "https://github.com/SpoonX/aurelia-filter",
+                "github": "SpoonX/aurelia-filter",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-charts",
+                "href": "https://github.com/SpoonX/aurelia-charts",
+                "github": "SpoonX/aurelia-charts",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-view-manager",
+                "href": "https://github.com/SpoonX/aurelia-view-manager",
+                "github": "SpoonX/aurelia-view-manager",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-resize",
+                "href": "https://github.com/MeirionHughes/aurelia-resize",
+                "github": "MeirionHughes/aurelia-resize",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-keyboard-plugin",
+                "href": "https://github.com/Novatrox/aurelia-keyboard-plugin",
+                "github": "Novatrox/aurelia-keyboard-plugin",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-ui-framework",
+                "href": "https://github.com/adarshpastakia/aurelia-ui-framework",
+                "github": "adarshpastakia/aurelia-ui-framework",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-tags-input",
+                "href": "https://github.com/TGMorais/aurelia-tags-input",
+                "github": "TGMorais/aurelia-tags-input",
+                "type": "github"
+            },
+            {
+                "href": "https://github.com/behzad888/awesome/edit/master/README.md",
+                "github": "behzad888/awesome/edit/master/README.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Implementation",
+        "childrens": [
+            {
+                "title": "aurelia-animator-tinyanimate",
+                "href": "https://github.com/gooy/aurelia-animator-tinyanimate",
+                "github": "gooy/aurelia-animator-tinyanimate",
+                "type": "github"
+            },
+            {
+                "title": "sukobuto/aurelia-tinymce-sample",
+                "href": "https://github.com/sukobuto/aurelia-tinymce-sample",
+                "github": "sukobuto/aurelia-tinymce-sample",
+                "type": "github"
+            },
+            {
+                "title": "stamp-web/stamp-web-aurelia",
+                "href": "https://github.com/stamp-web/stamp-web-aurelia",
+                "github": "stamp-web/stamp-web-aurelia",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-tabs",
+                "href": "https://github.com/Vheissu/aurelia-tabs",
+                "github": "Vheissu/aurelia-tabs",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-flickr-ts-memo-game",
+                "href": "https://github.com/kst83/aurelia-flickr-ts-memo-game",
+                "github": "kst83/aurelia-flickr-ts-memo-game",
+                "type": "github"
+            },
+            {
+                "title": "AureliaElectronHappiness",
+                "href": "https://github.com/seesharper/AureliaElectronHappiness",
+                "github": "seesharper/AureliaElectronHappiness",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-datatable",
+                "href": "https://github.com/SpoonX/aurelia-datatable",
+                "github": "SpoonX/aurelia-datatable",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Custom Element",
+        "childrens": [
+            {
+                "title": "aurelia-v-grid",
+                "href": "https://github.com/aurelia-ui-toolkits/aurelia-v-grid",
+                "github": "aurelia-ui-toolkits/aurelia-v-grid",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-leaflet",
+                "href": "https://github.com/benib/aurelia-leaflet",
+                "github": "benib/aurelia-leaflet",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-chart",
+                "href": "https://github.com/grofit/aurelia-chart",
+                "github": "grofit/aurelia-chart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Auth",
+        "childrens": [
+            {
+                "title": "sentry",
+                "href": "https://github.com/Foursails/sentry",
+                "github": "Foursails/sentry",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-authentication-loopback-sample",
+                "href": "https://github.com/doktordirk/aurelia-authentication-loopback-sample",
+                "github": "doktordirk/aurelia-authentication-loopback-sample",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-identityserver-aspnetcore",
+                "href": "https://github.com/paulvanbladel/aurelia-identityserver-aspnetcore",
+                "github": "paulvanbladel/aurelia-identityserver-aspnetcore",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Libraries",
+        "childrens": [
+            {
+                "title": "pollyfils",
+                "href": "https://github.com/aurelia/polyfills",
+                "github": "aurelia/polyfills",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-sails-socket-client",
+                "href": "https://github.com/Mordred/aurelia-sails-socket-client",
+                "github": "Mordred/aurelia-sails-socket-client",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-bundler",
+                "href": "https://github.com/aurelia/bundler",
+                "github": "aurelia/bundler",
+                "type": "github"
+            },
+            {
+                "href": "https://github.com/behzad888/awesome/edit/master/README.md",
+                "github": "behzad888/awesome/edit/master/README.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Aurelia Examples",
+        "childrens": [
+            {
+                "title": "jdanyow/aurelia-breeze-northwind",
+                "href": "https://github.com/jdanyow/aurelia-breeze-northwind",
+                "github": "jdanyow/aurelia-breeze-northwind",
+                "type": "github"
+            },
+            {
+                "title": "jdanyow/aurelia-solitaire",
+                "href": "https://github.com/jdanyow/aurelia-solitaire",
+                "github": "jdanyow/aurelia-solitaire",
+                "type": "github"
+            },
+            {
+                "title": "discosultan/aurelia-minesweeper",
+                "href": "https://github.com/discosultan/aurelia-minesweeper/",
+                "github": "discosultan/aurelia-minesweeper/",
+                "type": "github"
+            },
+            {
+                "title": "electron-aurelia-example",
+                "href": "https://github.com/jimschubert/electron-aurelia-example",
+                "github": "jimschubert/electron-aurelia-example",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-webapi-example",
+                "href": "https://github.com/jimschubert/aurelia-webapi-example",
+                "github": "jimschubert/aurelia-webapi-example",
+                "type": "github"
+            },
+            {
+                "title": "michaelbull/aurelia-hacker-news",
+                "href": "https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone",
+                "github": "michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TypeScript General Resources",
+        "childrens": [
+            {
+                "title": "TypeScript Repository (GitHub)",
+                "href": "https://github.com/Microsoft/TypeScript",
+                "github": "Microsoft/TypeScript",
+                "type": "github"
+            },
+            {
+                "title": "DefinitelyTyped Repository (GitHub)",
+                "href": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+                "github": "DefinitelyTyped/DefinitelyTyped",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Typescript Seed Projects",
+        "childrens": [
+            {
+                "title": "Aurelia Typescript",
+                "href": "https://github.com/cmichaelgraham/aurelia-typescript",
+                "github": "cmichaelgraham/aurelia-typescript",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-axel",
+                "href": "https://github.com/cmichaelgraham/aurelia-axel",
+                "github": "cmichaelgraham/aurelia-axel",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-axel-northwind",
+                "href": "https://github.com/cmichaelgraham/aurelia-axel-northwind",
+                "github": "cmichaelgraham/aurelia-axel-northwind",
+                "type": "github"
+            },
+            {
+                "title": "aurelia-skeleton-navigation-gulp-typescript",
+                "href": "https://github.com/Enrapt/aurelia-skeleton-navigation-gulp-typescript",
+                "github": "Enrapt/aurelia-skeleton-navigation-gulp-typescript",
+                "type": "github"
+            },
+            {
+                "href": "https://github.com/behzad888/awesome/edit/master/README.md",
+                "github": "behzad888/awesome/edit/master/README.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ES5 General Resources",
+        "childrens": [
+            {
+                "href": "https://github.com/behzad888/awesome/edit/master/README.md",
+                "github": "behzad888/awesome/edit/master/README.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ES5 Seed Projects",
+        "childrens": [
+            {
+                "title": "ahmedshuhel/nav-app-es5",
+                "href": "https://github.com/ahmedshuhel/nav-app-es5",
+                "github": "ahmedshuhel/nav-app-es5",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ES5 Examples",
+        "childrens": [
+            {
+                "title": "aurelia-observer-patterns",
+                "href": "https://github.com/axwalker/aurelia-observer-patterns",
+                "github": "axwalker/aurelia-observer-patterns",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Meteor Seed Projects",
+        "childrens": [
+            {
+                "title": "TsumiNa/meteor-aurelia",
+                "href": "https://github.com/TsumiNa/meteor-aurelia",
+                "github": "TsumiNa/meteor-aurelia",
+                "type": "github"
+            }
+        ]
+    }
+]

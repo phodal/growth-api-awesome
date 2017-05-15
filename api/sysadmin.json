@@ -1,0 +1,355 @@
+[
+    {
+        "heading": "Automation",
+        "childrens": [
+            {
+                "title": "Rake",
+                "href": "https://github.com/ruby/rake",
+                "github": "ruby/rake",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Backups",
+        "childrens": [
+            {
+                "title": "BorgBackup",
+                "href": "https://github.com/borgbackup/borg",
+                "github": "borgbackup/borg",
+                "type": "github"
+            },
+            {
+                "title": "Elkarbackup",
+                "href": "https://github.com/elkarbackup/elkarbackup",
+                "github": "elkarbackup/elkarbackup",
+                "type": "github"
+            },
+            {
+                "title": "Lsyncd",
+                "href": "https://github.com/axkibe/lsyncd",
+                "github": "axkibe/lsyncd",
+                "type": "github"
+            },
+            {
+                "title": "Shield",
+                "href": "https://github.com/starkandwayne/shield",
+                "github": "starkandwayne/shield",
+                "type": "github"
+            },
+            {
+                "title": "DREBS",
+                "href": "https://github.com/dojo4/drebs",
+                "github": "dojo4/drebs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ChatOps",
+        "childrens": [
+            {
+                "title": "CloudBot",
+                "href": "https://github.com/CloudBotIRC/CloudBot",
+                "github": "CloudBotIRC/CloudBot",
+                "type": "github"
+            },
+            {
+                "title": "Hubot",
+                "href": "https://hubot.github.com/",
+                "github": "b.com/",
+                "type": "github"
+            },
+            {
+                "title": "Lazlo",
+                "href": "https://github.com/djosephsen/lazlo",
+                "github": "djosephsen/lazlo",
+                "type": "github"
+            },
+            {
+                "title": "Abot",
+                "href": "https://github.com/itsabot/abot",
+                "github": "itsabot/abot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cloud Computing",
+        "childrens": [
+            {
+                "title": "AppScale",
+                "href": "https://github.com/AppScale/appscale",
+                "github": "AppScale/appscale",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cloud Orchestration",
+        "childrens": [
+            {
+                "title": "Genesis",
+                "href": "https://github.com/starkandwayne/genesis",
+                "github": "starkandwayne/genesis",
+                "type": "github"
+            },
+            {
+                "title": "Spruce",
+                "href": "https://github.com/geofffranks/spruce",
+                "github": "geofffranks/spruce",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Configuration Management Database",
+        "childrens": [
+            {
+                "title": "Ralph",
+                "href": "https://github.com/allegro/ralph",
+                "github": "allegro/ralph",
+                "type": "github"
+            },
+            {
+                "title": "Clusto",
+                "href": "https://github.com/clusto/clusto",
+                "github": "clusto/clusto",
+                "type": "github"
+            },
+            {
+                "title": "netbox",
+                "href": "https://github.com/digitalocean/netbox",
+                "github": "digitalocean/netbox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Continuous Integration & Continuous Deployment",
+        "childrens": [
+            {
+                "title": "CapsuleCD",
+                "href": "https://github.com/AnalogJ/capsulecd",
+                "github": "AnalogJ/capsulecd",
+                "type": "github"
+            },
+            {
+                "title": "Drone",
+                "href": "https://github.com/drone/drone",
+                "github": "drone/drone",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deployment Automation",
+        "childrens": [
+            {
+                "title": "Vlad the Deployer",
+                "href": "https://github.com/seattlerb/vlad",
+                "github": "seattlerb/vlad",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distributed Filesystems",
+        "childrens": [
+            {
+                "title": "Go IPFS",
+                "href": "https://github.com/ipfs/go-ipfs",
+                "github": "ipfs/go-ipfs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editors",
+        "childrens": [
+            {
+                "title": "jotgit",
+                "href": "https://github.com/jdleesmiller/jotgit",
+                "github": "jdleesmiller/jotgit",
+                "type": "github"
+            },
+            {
+                "title": "TextMate",
+                "href": "https://github.com/textmate/textmate/",
+                "github": "textmate/textmate/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IT Asset Management",
+        "childrens": [
+            {
+                "title": "Ralph",
+                "href": "https://github.com/allegro/ralph",
+                "github": "allegro/ralph",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Monitoring",
+        "childrens": [
+            {
+                "title": "Alerta",
+                "href": "https://github.com/guardian/alerta",
+                "github": "guardian/alerta",
+                "type": "github"
+            },
+            {
+                "title": "cadvisor",
+                "href": "https://github.com/google/cadvisor",
+                "github": "google/cadvisor",
+                "type": "github"
+            },
+            {
+                "title": "Dash",
+                "href": "https://github.com/afaqurk/linux-dash",
+                "github": "afaqurk/linux-dash",
+                "type": "github"
+            },
+            {
+                "title": "Node-Bell",
+                "href": "https://github.com/eleme/bell.js",
+                "github": "eleme/bell.js",
+                "type": "github"
+            },
+            {
+                "title": "psdash",
+                "href": "https://github.com/Jahaja/psdash",
+                "github": "Jahaja/psdash",
+                "type": "github"
+            },
+            {
+                "title": "ServerStatus BotoX",
+                "href": "https://github.com/BotoX/ServerStatus",
+                "github": "BotoX/ServerStatus",
+                "type": "github"
+            },
+            {
+                "title": "ServerStatus moejda",
+                "href": "https://github.com/mojeda/ServerStatus",
+                "github": "mojeda/ServerStatus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Network Configuration Management",
+        "childrens": [
+            {
+                "title": "Oxidized",
+                "href": "https://github.com/ytti/oxidized",
+                "github": "ytti/oxidized",
+                "type": "github"
+            },
+            {
+                "title": "trigger",
+                "href": "https://github.com/trigger/trigger",
+                "github": "trigger/trigger",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Newsletters",
+        "childrens": [
+            {
+                "title": "LibreMailer",
+                "href": "https://github.com/averna-syd/LibreMailer",
+                "github": "averna-syd/LibreMailer",
+                "type": "github"
+            },
+            {
+                "title": "Lewsnetter",
+                "href": "https://github.com/bborn/lewsnetter",
+                "github": "bborn/lewsnetter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Packaging",
+        "childrens": [
+            {
+                "title": "fpm",
+                "href": "https://github.com/jordansissel/fpm",
+                "github": "jordansissel/fpm",
+                "type": "github"
+            },
+            {
+                "title": "omnibus-ruby",
+                "href": "https://github.com/chef/omnibus",
+                "github": "chef/omnibus",
+                "type": "github"
+            },
+            {
+                "title": "tito",
+                "href": "https://github.com/dgoodwin/tito",
+                "github": "dgoodwin/tito",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Service Discovery",
+        "childrens": [
+            {
+                "title": "Doozerd",
+                "href": "https://github.com/ha/doozerd",
+                "github": "ha/doozerd",
+                "type": "github"
+            },
+            {
+                "title": "etcd",
+                "href": "https://github.com/coreos/etcd",
+                "github": "coreos/etcd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Troubleshooting",
+        "childrens": [
+            {
+                "title": "perf-tools",
+                "href": "https://github.com/brendangregg/perf-tools",
+                "github": "brendangregg/perf-tools",
+                "type": "github"
+            },
+            {
+                "title": "Dripcap",
+                "href": "https://github.com/dripcap/dripcap",
+                "github": "dripcap/dripcap",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "VPN",
+        "childrens": [
+            {
+                "title": "sshuttle",
+                "href": "https://github.com/apenwarr/sshuttle",
+                "github": "apenwarr/sshuttle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web",
+        "childrens": [
+            {
+                "title": "uWSGI",
+                "href": "https://github.com/unbit/uwsgi/",
+                "github": "unbit/uwsgi/",
+                "type": "github"
+            }
+        ]
+    }
+]

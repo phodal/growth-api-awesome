@@ -1,0 +1,703 @@
+[
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "jQuery guide for teams",
+                "href": "https://github.com/voorhoede/jquery-style-guide",
+                "github": "voorhoede/jquery-style-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "jQuery patterns",
+                "href": "https://github.com/jquery-boilerplate/jquery-patterns",
+                "github": "jquery-boilerplate/jquery-patterns",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Free Books",
+        "childrens": [
+            {
+                "title": "jQuery fundamentals",
+                "href": "https://github.com/bocoup/jqfundamentals.com",
+                "github": "bocoup/jqfundamentals.com",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous Resources",
+        "childrens": [
+            {
+                "title": "TodoMVC",
+                "href": "https://github.com/tastejs/todomvc",
+                "github": "tastejs/todomvc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Animation",
+        "childrens": [
+            {
+                "title": "Animsition",
+                "href": "https://github.com/blivesta/animsition/",
+                "github": "blivesta/animsition/",
+                "type": "github"
+            },
+            {
+                "title": "fakeLoader.js",
+                "href": "https://github.com/joaopereirawd/fakeLoader.js",
+                "github": "joaopereirawd/fakeLoader.js",
+                "type": "github"
+            },
+            {
+                "title": "jQuery Transit",
+                "href": "https://github.com/rstacruz/jquery.transit",
+                "github": "rstacruz/jquery.transit",
+                "type": "github"
+            },
+            {
+                "title": "Material Design Preloader!s",
+                "href": "https://github.com/aarondo/Material-Preloader",
+                "github": "aarondo/Material-Preloader",
+                "type": "github"
+            },
+            {
+                "title": "Midnight",
+                "href": "https://github.com/Aerolab/midnight.js",
+                "github": "Aerolab/midnight.js",
+                "type": "github"
+            },
+            {
+                "title": "Parallax.js",
+                "href": "https://github.com/pixelcog/parallax.js/",
+                "github": "pixelcog/parallax.js/",
+                "type": "github"
+            },
+            {
+                "title": "Scrollify",
+                "href": "https://github.com/lukehaas/Scrollify/",
+                "github": "lukehaas/Scrollify/",
+                "type": "github"
+            },
+            {
+                "title": "Waves",
+                "href": "https://github.com/fians/Waves",
+                "github": "fians/Waves",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editors",
+        "childrens": [
+            {
+                "title": "Froala WYSIWYG HTML Editor",
+                "href": "https://github.com/froala/wysiwyg-editor",
+                "github": "froala/wysiwyg-editor",
+                "type": "github"
+            },
+            {
+                "title": "Hallo",
+                "href": "https://github.com/bergie/hallo",
+                "github": "bergie/hallo",
+                "type": "github"
+            },
+            {
+                "title": "jQuery Notebook",
+                "href": "https://github.com/raphaelcruzeiro/jquery-notebook",
+                "github": "raphaelcruzeiro/jquery-notebook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forms",
+        "childrens": [
+            {
+                "title": "Bootstrap Multiselect",
+                "href": "https://github.com/davidstutz/bootstrap-multiselect",
+                "github": "davidstutz/bootstrap-multiselect",
+                "type": "github"
+            },
+            {
+                "title": "File Upload",
+                "href": "https://github.com/blueimp/jQuery-File-Upload",
+                "github": "blueimp/jQuery-File-Upload",
+                "type": "github"
+            },
+            {
+                "title": "Ideal Forms",
+                "href": "https://github.com/elclanrs/jq-idealforms",
+                "github": "elclanrs/jq-idealforms",
+                "type": "github"
+            },
+            {
+                "title": "jQuery Form Plugin",
+                "href": "https://github.com/malsup/form/",
+                "github": "malsup/form/",
+                "type": "github"
+            },
+            {
+                "title": "jquery-minicolors",
+                "href": "https://github.com/claviska/jquery-minicolors",
+                "github": "claviska/jquery-minicolors",
+                "type": "github"
+            },
+            {
+                "title": "Justified Gallery",
+                "href": "https://github.com/miromannino/Justified-Gallery",
+                "github": "miromannino/Justified-Gallery",
+                "type": "github"
+            },
+            {
+                "title": "Labelauty",
+                "href": "https://github.com/fntneves/jquery-labelauty",
+                "github": "fntneves/jquery-labelauty",
+                "type": "github"
+            },
+            {
+                "title": "Payform",
+                "href": "https://github.com/jondavidjohn/payform",
+                "github": "jondavidjohn/payform",
+                "type": "github"
+            },
+            {
+                "title": "Pickadate",
+                "href": "https://github.com/amsul/pickadate.js",
+                "github": "amsul/pickadate.js",
+                "type": "github"
+            },
+            {
+                "title": "Select2",
+                "href": "https://github.com/select2/select2",
+                "github": "select2/select2",
+                "type": "github"
+            },
+            {
+                "title": "selectize.js",
+                "href": "https://github.com/selectize/selectize.js/",
+                "github": "selectize/selectize.js/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Images, Maps and Charts",
+        "childrens": [
+            {
+                "title": "AnyChart-jQuery",
+                "href": "https://github.com/AnyChart/AnyChart-jQuery",
+                "github": "AnyChart/AnyChart-jQuery",
+                "type": "github"
+            },
+            {
+                "title": "Arbor",
+                "href": "https://github.com/samizdatco/arbor",
+                "github": "samizdatco/arbor",
+                "type": "github"
+            },
+            {
+                "title": "Chart.js",
+                "href": "https://github.com/chartjs/Chart.js",
+                "github": "chartjs/Chart.js",
+                "type": "github"
+            },
+            {
+                "title": "Cropper",
+                "href": "https://github.com/fengyuanchen/cropper",
+                "github": "fengyuanchen/cropper",
+                "type": "github"
+            },
+            {
+                "title": "Dense.js",
+                "href": "https://github.com/gocom/dense",
+                "github": "gocom/dense",
+                "type": "github"
+            },
+            {
+                "title": "Flot",
+                "href": "https://github.com/flot/flot",
+                "github": "flot/flot",
+                "type": "github"
+            },
+            {
+                "title": "Gridder",
+                "href": "https://github.com/oriongunning/gridder",
+                "github": "oriongunning/gridder",
+                "type": "github"
+            },
+            {
+                "title": "jquery.sparkline",
+                "href": "https://github.com/gwatts/jquery.sparkline",
+                "github": "gwatts/jquery.sparkline",
+                "type": "github"
+            },
+            {
+                "title": "jQuery.eraser",
+                "href": "https://github.com/boblemarin/jQuery.eraser",
+                "github": "boblemarin/jQuery.eraser",
+                "type": "github"
+            },
+            {
+                "title": "jQuery Mapael",
+                "href": "https://github.com/neveldo/jQuery-Mapael",
+                "github": "neveldo/jQuery-Mapael",
+                "type": "github"
+            },
+            {
+                "title": "jQueryGantt",
+                "href": "https://github.com/robicch/jQueryGantt",
+                "github": "robicch/jQueryGantt",
+                "type": "github"
+            },
+            {
+                "title": "Nivo Slider",
+                "href": "https://github.com/Codeinwp/Nivo-Slider-jQuery",
+                "github": "Codeinwp/Nivo-Slider-jQuery",
+                "type": "github"
+            },
+            {
+                "title": "Owl Carousel 2",
+                "href": "https://github.com/OwlCarousel2/OwlCarousel2",
+                "github": "OwlCarousel2/OwlCarousel2",
+                "type": "github"
+            },
+            {
+                "title": "Peity",
+                "href": "https://github.com/benpickles/peity",
+                "github": "benpickles/peity",
+                "type": "github"
+            },
+            {
+                "title": "Unite Gallery",
+                "href": "https://github.com/vvvmax/unitegallery/",
+                "github": "vvvmax/unitegallery/",
+                "type": "github"
+            },
+            {
+                "title": "Viewer",
+                "href": "https://github.com/fengyuanchen/viewer",
+                "github": "fengyuanchen/viewer",
+                "type": "github"
+            },
+            {
+                "title": "JQuery-linechart",
+                "href": "https://github.com/kirillstepkin/jquery-linechart",
+                "github": "kirillstepkin/jquery-linechart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Menus",
+        "childrens": [
+            {
+                "title": "jQuery contextMenu",
+                "href": "https://github.com/swisnl/jQuery-contextMenu",
+                "github": "swisnl/jQuery-contextMenu",
+                "type": "github"
+            },
+            {
+                "title": "jPanelMenu",
+                "href": "https://github.com/acolangelo/jPanelMenu",
+                "github": "acolangelo/jPanelMenu",
+                "type": "github"
+            },
+            {
+                "title": "jQuery-menu-aim",
+                "href": "https://github.com/kamens/jQuery-menu-aim",
+                "github": "kamens/jQuery-menu-aim",
+                "type": "github"
+            },
+            {
+                "title": "mmenu",
+                "href": "https://github.com/FrDH/jQuery.mmenu",
+                "github": "FrDH/jQuery.mmenu",
+                "type": "github"
+            },
+            {
+                "title": "Multi-level push menu",
+                "href": "https://github.com/adgsm/multi-level-push-menu",
+                "github": "adgsm/multi-level-push-menu",
+                "type": "github"
+            },
+            {
+                "title": "Slidebars",
+                "href": "https://github.com/adchsm/Slidebars",
+                "github": "adchsm/Slidebars",
+                "type": "github"
+            },
+            {
+                "title": "stickUp",
+                "href": "https://github.com/LiranCohen/stickUp",
+                "github": "LiranCohen/stickUp",
+                "type": "github"
+            },
+            {
+                "title": "Superfish",
+                "href": "https://github.com/joeldbirch/superfish",
+                "github": "joeldbirch/superfish",
+                "type": "github"
+            },
+            {
+                "title": "Yamm",
+                "href": "https://github.com/geedmo/yamm3",
+                "github": "geedmo/yamm3",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Modals and Popups",
+        "childrens": [
+            {
+                "title": "animatedModal.js",
+                "href": "https://github.com/joaopereirawd/animatedModal.js",
+                "github": "joaopereirawd/animatedModal.js",
+                "type": "github"
+            },
+            {
+                "title": "Avgrund",
+                "href": "https://github.com/voronianski/jquery.avgrund.js",
+                "github": "voronianski/jquery.avgrund.js",
+                "type": "github"
+            },
+            {
+                "title": "Bootstrap Modal",
+                "href": "https://github.com/jschr/bootstrap-modal",
+                "github": "jschr/bootstrap-modal",
+                "type": "github"
+            },
+            {
+                "title": "iziModal",
+                "href": "https://github.com/dolce/iziModal",
+                "github": "dolce/iziModal",
+                "type": "github"
+            },
+            {
+                "title": "jBox",
+                "href": "https://github.com/StephanWagner/jBox",
+                "github": "StephanWagner/jBox",
+                "type": "github"
+            },
+            {
+                "title": "jQuery Modal",
+                "href": "https://github.com/kylefox/jquery-modal",
+                "github": "kylefox/jquery-modal",
+                "type": "github"
+            },
+            {
+                "title": "jQuery Popup Overlay",
+                "href": "https://github.com/vast-engineering/jquery-popup-overlay",
+                "github": "vast-engineering/jquery-popup-overlay",
+                "type": "github"
+            },
+            {
+                "title": "Lightbox",
+                "href": "https://github.com/lokesh/lightbox2/",
+                "github": "lokesh/lightbox2/",
+                "type": "github"
+            },
+            {
+                "title": "Magnific Popup",
+                "href": "https://github.com/dimsemenov/Magnific-Popup",
+                "github": "dimsemenov/Magnific-Popup",
+                "type": "github"
+            },
+            {
+                "title": "SweetAlert",
+                "href": "https://github.com/t4t5/sweetalert",
+                "github": "t4t5/sweetalert",
+                "type": "github"
+            },
+            {
+                "title": "tipso",
+                "href": "https://github.com/object505/tipso",
+                "github": "object505/tipso",
+                "type": "github"
+            },
+            {
+                "title": "vex",
+                "href": "https://github.com/hubspot/vex",
+                "github": "hubspot/vex",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tables",
+        "childrens": [
+            {
+                "title": "Bootgrid",
+                "href": "https://github.com/rstaib/jquery-bootgrid",
+                "github": "rstaib/jquery-bootgrid",
+                "type": "github"
+            },
+            {
+                "title": "Filter Table",
+                "href": "https://github.com/sunnywalker/jQuery.FilterTable",
+                "github": "sunnywalker/jQuery.FilterTable",
+                "type": "github"
+            },
+            {
+                "title": "FooTable",
+                "href": "https://github.com/fooplugins/FooTable/",
+                "github": "fooplugins/FooTable/",
+                "type": "github"
+            },
+            {
+                "title": "Isotope",
+                "href": "https://github.com/metafizzy/isotope",
+                "github": "metafizzy/isotope",
+                "type": "github"
+            },
+            {
+                "title": "HighchartTable",
+                "href": "https://github.com/highchartTable/jquery-highchartTable-plugin",
+                "github": "highchartTable/jquery-highchartTable-plugin",
+                "type": "github"
+            },
+            {
+                "title": "jqGrid",
+                "href": "https://github.com/tonytomov/jqGrid",
+                "github": "tonytomov/jqGrid",
+                "type": "github"
+            },
+            {
+                "title": "jQuery treetable",
+                "href": "https://github.com/ludo/jquery-treetable",
+                "github": "ludo/jquery-treetable",
+                "type": "github"
+            },
+            {
+                "title": "jsGrid",
+                "href": "https://github.com/tabalinas/jsgrid",
+                "github": "tabalinas/jsgrid",
+                "type": "github"
+            },
+            {
+                "title": "Stackable.js",
+                "href": "https://github.com/johnpolacek/stacktable.js/",
+                "github": "johnpolacek/stacktable.js/",
+                "type": "github"
+            },
+            {
+                "title": "Stupid Table Sort",
+                "href": "https://github.com/joequery/Stupid-Table-Plugin",
+                "github": "joequery/Stupid-Table-Plugin",
+                "type": "github"
+            },
+            {
+                "title": "tableExport.jquery.plugin",
+                "href": "https://github.com/hhurz/tableExport.jquery.plugin",
+                "github": "hhurz/tableExport.jquery.plugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Time and Date",
+        "childrens": [
+            {
+                "title": "jQuery Timer Plugin",
+                "href": "https://github.com/walmik/timer.jquery",
+                "github": "walmik/timer.jquery",
+                "type": "github"
+            },
+            {
+                "title": "Timeago",
+                "href": "https://github.com/rmm5t/jquery-timeago",
+                "github": "rmm5t/jquery-timeago",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Translations",
+        "childrens": [
+            {
+                "title": "i18n properties",
+                "href": "https://github.com/jquery-i18n-properties/jquery-i18n-properties",
+                "github": "jquery-i18n-properties/jquery-i18n-properties",
+                "type": "github"
+            },
+            {
+                "title": "jquery.i18n",
+                "href": "https://github.com/wikimedia/jquery.i18n",
+                "github": "wikimedia/jquery.i18n",
+                "type": "github"
+            },
+            {
+                "title": "jquery.localize.js",
+                "href": "https://github.com/coderifous/jquery-localize",
+                "github": "coderifous/jquery-localize",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Validation",
+        "childrens": [
+            {
+                "title": "FormValidation",
+                "href": "https://github.com/formvalidation/formvalidation",
+                "github": "formvalidation/formvalidation",
+                "type": "github"
+            },
+            {
+                "title": "h5Validate",
+                "href": "https://github.com/ericelliott/h5Validate",
+                "github": "ericelliott/h5Validate",
+                "type": "github"
+            },
+            {
+                "title": "jQuery Form Validator",
+                "href": "https://github.com/victorjonsson/jQuery-Form-Validator/",
+                "github": "victorjonsson/jQuery-Form-Validator/",
+                "type": "github"
+            },
+            {
+                "title": "jquery-validation",
+                "href": "https://github.com/jzaefferer/jquery-validation/",
+                "github": "jzaefferer/jquery-validation/",
+                "type": "github"
+            },
+            {
+                "title": "jQuery.validationEngine",
+                "href": "https://github.com/posabsolute/jQuery-Validation-Engine",
+                "github": "posabsolute/jQuery-Validation-Engine",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous Plugins",
+        "childrens": [
+            {
+                "title": "Boilerplate",
+                "href": "https://github.com/jquery-boilerplate/jquery-boilerplate",
+                "github": "jquery-boilerplate/jquery-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Interlink",
+                "href": "https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6",
+                "github": ".com/Golpha/c5c7ae9b6ed11dc93ce6",
+                "type": "github"
+            },
+            {
+                "title": "Sisyphus",
+                "href": "https://github.com/simsalabim/sisyphus",
+                "github": "simsalabim/sisyphus",
+                "type": "github"
+            },
+            {
+                "title": "Slugify",
+                "href": "https://github.com/pmcelhaney/jQuery-Slugify-Plugin",
+                "github": "pmcelhaney/jQuery-Slugify-Plugin",
+                "type": "github"
+            },
+            {
+                "title": "Readmore.js",
+                "href": "https://github.com/jedfoster/Readmore.js",
+                "github": "jedfoster/Readmore.js",
+                "type": "github"
+            },
+            {
+                "title": "autoNumberic",
+                "href": "https://github.com/BobKnothe/autoNumeric",
+                "github": "BobKnothe/autoNumeric",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile",
+        "childrens": [
+            {
+                "title": "Interdimensional",
+                "href": "https://github.com/VodkaBears/Interdimensional",
+                "github": "VodkaBears/Interdimensional",
+                "type": "github"
+            },
+            {
+                "title": "OhSnap!.js",
+                "href": "https://github.com/justindomingue/ohSnap",
+                "github": "justindomingue/ohSnap",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI",
+        "childrens": [
+            {
+                "title": "Dragula",
+                "href": "https://github.com/bevacqua/dragula",
+                "github": "bevacqua/dragula",
+                "type": "github"
+            },
+            {
+                "title": "jQuery Enhanced Splitter",
+                "href": "https://github.com/hiltonjanfield/jquery.enhsplitter",
+                "github": "hiltonjanfield/jquery.enhsplitter",
+                "type": "github"
+            },
+            {
+                "title": "tabulous.js",
+                "href": "https://github.com/aarondo/tabulous.js",
+                "github": "aarondo/tabulous.js",
+                "type": "github"
+            },
+            {
+                "title": "X-editable",
+                "href": "https://github.com/vitalets/x-editable",
+                "github": "vitalets/x-editable",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Mockjax",
+                "href": "https://github.com/jakerella/jquery-mockjax",
+                "github": "jakerella/jquery-mockjax",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Looking for more lists like this?",
+        "childrens": [
+            {
+                "title": "awesome-javascript",
+                "href": "https://github.com/sorrycc/awesome-javascript",
+                "github": "sorrycc/awesome-javascript",
+                "type": "github"
+            },
+            {
+                "title": "awesome-javascript-books",
+                "href": "https://github.com/heatroom/awesome-javascript-books",
+                "github": "heatroom/awesome-javascript-books",
+                "type": "github"
+            },
+            {
+                "title": "js-must-watch",
+                "href": "https://github.com/bolshchikov/js-must-watch",
+                "github": "bolshchikov/js-must-watch",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "heading": "APIs",
+        "childrens": [
+            {
+                "title": "PokeAPI",
+                "href": "https://github.com/PokeAPI/pokeapi/",
+                "github": "PokeAPI/pokeapi/",
+                "type": "github"
+            },
+            {
+                "title": "Pokemon_Go_API",
+                "href": "https://github.com/Mila432/Pokemon_Go_API",
+                "github": "Mila432/Pokemon_Go_API",
+                "type": "github"
+            },
+            {
+                "title": "pgoapi",
+                "href": "https://github.com/tejado/pgoapi",
+                "github": "tejado/pgoapi",
+                "type": "github"
+            },
+            {
+                "title": "Pokemon-GO-node-api",
+                "href": "https://github.com/Armax/Pokemon-GO-node-api",
+                "github": "Armax/Pokemon-GO-node-api",
+                "type": "github"
+            },
+            {
+                "title": "Pokemon-Go-Rocket-API",
+                "href": "https://github.com/FeroxRev/Pokemon-Go-Rocket-API",
+                "github": "FeroxRev/Pokemon-Go-Rocket-API",
+                "type": "github"
+            },
+            {
+                "title": "Pokemon GO Java API",
+                "href": "https://github.com/Grover-c13/PokeGOAPI-Java",
+                "github": "Grover-c13/PokeGOAPI-Java",
+                "type": "github"
+            },
+            {
+                "title": "Pokemon Name API",
+                "href": "https://github.com/sindresorhus/pokemon",
+                "github": "sindresorhus/pokemon",
+                "type": "github"
+            },
+            {
+                "title": "PokemonGO-Pokedex",
+                "href": "https://github.com/Biuni/PokemonGO-Pokedex",
+                "github": "Biuni/PokemonGO-Pokedex",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Apps",
+        "childrens": [
+            {
+                "title": "Pokemon-Showdown",
+                "href": "https://github.com/Zarel/Pokemon-Showdown",
+                "github": "Zarel/Pokemon-Showdown",
+                "type": "github"
+            },
+            {
+                "title": "pokemongo-webspoof",
+                "href": "https://github.com/iam4x/pokemongo-webspoof",
+                "github": "iam4x/pokemongo-webspoof",
+                "type": "github"
+            },
+            {
+                "title": "iPokeMon",
+                "href": "https://github.com/Kjuly/iPokeMon",
+                "github": "Kjuly/iPokeMon",
+                "type": "github"
+            },
+            {
+                "title": "pokemon-online",
+                "href": "https://github.com/po-devs/pokemon-online",
+                "github": "po-devs/pokemon-online",
+                "type": "github"
+            },
+            {
+                "title": "Shuffle-Move",
+                "href": "https://github.com/Loreinator/Shuffle-Move",
+                "github": "Loreinator/Shuffle-Move",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bots",
+        "childrens": [
+            {
+                "title": "Pokemon Go Bot",
+                "href": "https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API",
+                "github": "Hrithikd/Pokemon-Go-Bot-Working-Hack-API",
+                "type": "github"
+            },
+            {
+                "title": "slack-pokemon",
+                "href": "https://github.com/rvinluan/slack-pokemon",
+                "github": "rvinluan/slack-pokemon",
+                "type": "github"
+            },
+            {
+                "title": "PokeSlack",
+                "href": "https://github.com/timwah/pokeslack",
+                "github": "timwah/pokeslack",
+                "type": "github"
+            },
+            {
+                "title": "TwitchPlaysPokemon",
+                "href": "https://github.com/sunshinekitty/TwitchPlaysPokemon",
+                "github": "sunshinekitty/TwitchPlaysPokemon",
+                "type": "github"
+            },
+            {
+                "title": "PokemonGo-Bot",
+                "href": "https://github.com/PokemonGoF/PokemonGo-Bot",
+                "github": "PokemonGoF/PokemonGo-Bot",
+                "type": "github"
+            },
+            {
+                "title": "Poketrainer",
+                "href": "https://github.com/j-e-k/poketrainer",
+                "github": "j-e-k/poketrainer",
+                "type": "github"
+            },
+            {
+                "title": "PokeBot",
+                "href": "https://github.com/akbaryahya/PokeBot",
+                "github": "akbaryahya/PokeBot",
+                "type": "github"
+            },
+            {
+                "title": "PokemonGoBot",
+                "href": "https://github.com/jabbink/PokemonGoBot",
+                "github": "jabbink/PokemonGoBot",
+                "type": "github"
+            },
+            {
+                "title": "Bot Builder for PokemonGoBot",
+                "href": "https://github.com/shilch/pogobot-builder",
+                "github": "shilch/pogobot-builder",
+                "type": "github"
+            },
+            {
+                "title": "PokeBuddy",
+                "href": "https://github.com/finndev/PokeBuddy",
+                "github": "finndev/PokeBuddy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "alfred-pokedex",
+                "href": "https://github.com/vutran/alfred-pokedex",
+                "github": "vutran/alfred-pokedex",
+                "type": "github"
+            },
+            {
+                "title": "Pokemon-Go-Controller",
+                "href": "https://github.com/kahopoon/Pokemon-Go-Controller",
+                "github": "kahopoon/Pokemon-Go-Controller",
+                "type": "github"
+            },
+            {
+                "title": "pokecrystal",
+                "href": "https://github.com/pret/pokecrystal",
+                "github": "pret/pokecrystal",
+                "type": "github"
+            },
+            {
+                "title": "x-pokemon",
+                "href": "https://github.com/passy/x-pokemon",
+                "github": "passy/x-pokemon",
+                "type": "github"
+            },
+            {
+                "title": "pokered",
+                "href": "https://github.com/pret/pokered",
+                "github": "pret/pokered",
+                "type": "github"
+            },
+            {
+                "title": "pokemon-reverse-engineering-tools",
+                "href": "https://github.com/pret/pokemon-reverse-engineering-tools",
+                "github": "pret/pokemon-reverse-engineering-tools",
+                "type": "github"
+            },
+            {
+                "title": "pokemon-go-mitm-node",
+                "href": "https://github.com/rastapasta/pokemon-go-mitm-node",
+                "github": "rastapasta/pokemon-go-mitm-node",
+                "type": "github"
+            },
+            {
+                "title": "PokeMMO",
+                "href": "https://github.com/maierfelix/PokeMMO",
+                "github": "maierfelix/PokeMMO",
+                "type": "github"
+            },
+            {
+                "title": "pogo-optimizer",
+                "href": "https://github.com/justinleewells/pogo-optimizer",
+                "github": "justinleewells/pogo-optimizer",
+                "type": "github"
+            },
+            {
+                "title": "PoGoTools",
+                "href": "https://github.com/nelsyeung/PoGoTools",
+                "github": "nelsyeung/PoGoTools",
+                "type": "github"
+            },
+            {
+                "title": "is-pokemon-go-up",
+                "href": "https://github.com/sotojuan/is-pokemon-go-up",
+                "github": "sotojuan/is-pokemon-go-up",
+                "type": "github"
+            },
+            {
+                "title": "slack-pokemon-emoji",
+                "href": "https://github.com/fraserxu/slack-pokemon-emoji",
+                "github": "fraserxu/slack-pokemon-emoji",
+                "type": "github"
+            },
+            {
+                "title": "PokemonGO-IV-Renamer",
+                "href": "https://github.com/Boren/PokemonGO-IV-Renamer",
+                "github": "Boren/PokemonGO-IV-Renamer",
+                "type": "github"
+            },
+            {
+                "title": "pokemongo-genymotion",
+                "href": "https://github.com/jlobos/pokemongo-genymotion",
+                "github": "jlobos/pokemongo-genymotion",
+                "type": "github"
+            },
+            {
+                "title": "pokemongo-game-master",
+                "href": "https://github.com/BrunnerLivio/pokemongo-game-master",
+                "github": "BrunnerLivio/pokemongo-game-master",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Maps",
+        "childrens": [
+            {
+                "title": "PokemonGo-Map",
+                "href": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+                "github": "AHAAAAAAA/PokemonGo-Map",
+                "type": "github"
+            },
+            {
+                "title": "PokemonGo-DesktopMap",
+                "href": "https://github.com/mchristopher/PokemonGo-DesktopMap",
+                "github": "mchristopher/PokemonGo-DesktopMap",
+                "type": "github"
+            },
+            {
+                "title": "pokelocater",
+                "href": "https://github.com/emeth-/pokelocater",
+                "github": "emeth-/pokelocater",
+                "type": "github"
+            },
+            {
+                "title": "Pokemap",
+                "href": "https://github.com/omkarmoghe/Pokemap",
+                "github": "omkarmoghe/Pokemap",
+                "type": "github"
+            },
+            {
+                "title": "iPokeGo",
+                "href": "https://github.com/istornz/iPokeGo",
+                "github": "istornz/iPokeGo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Wiki",
+        "childrens": [
+            {
+                "title": "Pokedex",
+                "href": "https://github.com/veekun/pokedex",
+                "github": "veekun/pokedex",
+                "type": "github"
+            },
+            {
+                "title": "Pokedex.org",
+                "href": "https://github.com/nolanlawson/pokedex.org",
+                "github": "nolanlawson/pokedex.org",
+                "type": "github"
+            }
+        ]
+    }
+]

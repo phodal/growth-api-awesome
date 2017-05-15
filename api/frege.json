@@ -1,0 +1,346 @@
+[
+    {
+        "heading": "Overview",
+        "childrens": [
+            {
+                "title": "Frege",
+                "href": "https://github.com/Frege/frege",
+                "github": "Frege/frege",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "First Steps",
+        "childrens": [
+            {
+                "title": "Getting Started",
+                "href": "https://github.com/Frege/frege/wiki/Getting-Started",
+                "github": "Frege/frege/wiki/Getting-Started",
+                "type": "github"
+            },
+            {
+                "title": "Examples",
+                "href": "https://github.com/Frege/frege/tree/master/examples",
+                "github": "Frege/frege/tree/master/examples",
+                "type": "github"
+            },
+            {
+                "title": "Template",
+                "href": "https://github.com/tfausak/fregexample",
+                "github": "tfausak/fregexample",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Comparisons",
+        "childrens": [
+            {
+                "title": "Frege vs. Haskell",
+                "href": "https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell",
+                "github": "Frege/frege/wiki/Differences-between-Frege-and-Haskell",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Official Resources",
+        "childrens": [
+            {
+                "title": "FAQ",
+                "href": "https://github.com/Frege/frege/wiki/Frequently-Asked-Questions",
+                "github": "Frege/frege/wiki/Frequently-Asked-Questions",
+                "type": "github"
+            },
+            {
+                "title": "Wiki",
+                "href": "https://github.com/Frege/frege/wiki",
+                "github": "Frege/frege/wiki",
+                "type": "github"
+            },
+            {
+                "title": "Changelog",
+                "href": "https://github.com/Frege/frege/wiki/New-or-Changed-Features",
+                "github": "Frege/frege/wiki/New-or-Changed-Features",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Articles",
+        "childrens": [
+            {
+                "title": "Frege Wiki",
+                "href": "https://github.com/Frege/frege/wiki/Articles",
+                "github": "Frege/frege/wiki/Articles",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Books",
+        "childrens": [
+            {
+                "title": "Learn You a Frege for Great Good!",
+                "href": "https://github.com/y-taka-23/learn-you-a-frege",
+                "github": "y-taka-23/learn-you-a-frege",
+                "type": "github"
+            },
+            {
+                "title": "Frege Wiki",
+                "href": "https://github.com/Frege/frege/wiki/Books",
+                "github": "Frege/frege/wiki/Books",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Talks",
+        "childrens": [
+            {
+                "title": "Frege Wiki",
+                "href": "https://github.com/Frege/frege/wiki/Talks",
+                "github": "Frege/frege/wiki/Talks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "Frege Wiki",
+                "href": "https://github.com/Frege/frege/wiki/Libraries",
+                "github": "Frege/frege/wiki/Libraries",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Android",
+        "childrens": [
+            {
+                "title": "FregeAndroid",
+                "href": "https://github.com/trilogysci/FregeAndroid",
+                "github": "trilogysci/FregeAndroid",
+                "type": "github"
+            },
+            {
+                "title": "frege-on-android",
+                "href": "https://github.com/ppelleti/frege-on-android",
+                "github": "ppelleti/frege-on-android",
+                "type": "github"
+            },
+            {
+                "title": "FregeAndroid",
+                "href": "https://github.com/mchav/FregeAndroid",
+                "github": "mchav/FregeAndroid",
+                "type": "github"
+            },
+            {
+                "title": "GeoQuiz-Frege",
+                "href": "https://github.com/mchav/GeoQuiz-Frege",
+                "github": "mchav/GeoQuiz-Frege",
+                "type": "github"
+            },
+            {
+                "title": "froid",
+                "href": "https://github.com/mchav/froid",
+                "github": "mchav/froid",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Big Data",
+        "childrens": [
+            {
+                "title": "Spark",
+                "href": "https://github.com/sw1sh/frege-spark",
+                "github": "sw1sh/frege-spark",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Databases",
+        "childrens": [
+            {
+                "title": "Sirocco",
+                "href": "https://github.com/fregelab/sirocco",
+                "github": "fregelab/sirocco",
+                "type": "github"
+            },
+            {
+                "title": "frege-dbc",
+                "href": "https://github.com/DellCliff/frege-dbc",
+                "github": "DellCliff/frege-dbc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Email",
+        "childrens": [
+            {
+                "title": "Frege Email",
+                "href": "https://github.com/y-taka-23/frege-email",
+                "github": "y-taka-23/frege-email",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graphics",
+        "childrens": [
+            {
+                "title": "Frege-RayTracer",
+                "href": "https://github.com/mchav/Frege-RayTracer",
+                "github": "mchav/Frege-RayTracer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "FregeFX",
+                "href": "https://github.com/Frege/FregeFX",
+                "github": "Frege/FregeFX",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "Chinook",
+                "href": "https://github.com/fregelab/chinook",
+                "github": "fregelab/chinook",
+                "type": "github"
+            },
+            {
+                "title": "Fregelet",
+                "href": "https://github.com/mmhelloworld/fregelet",
+                "github": "mmhelloworld/fregelet",
+                "type": "github"
+            },
+            {
+                "title": "Play",
+                "href": "https://github.com/mmhelloworld/hello-play-frege",
+                "github": "mmhelloworld/hello-play-frege",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Games",
+        "childrens": [
+            {
+                "title": "2048",
+                "href": "https://github.com/tfausak/fr2048",
+                "github": "tfausak/fr2048",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Media",
+        "childrens": [
+            {
+                "title": "Zwana",
+                "href": "https://github.com/mchav/Zwana",
+                "github": "mchav/Zwana",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web",
+        "childrens": [
+            {
+                "title": "RESTful Todo Manager",
+                "href": "https://github.com/y-taka-23/restful-todo",
+                "github": "y-taka-23/restful-todo",
+                "type": "github"
+            },
+            {
+                "title": "Play Framework",
+                "href": "https://github.com/mmhelloworld/hello-play-frege",
+                "github": "mmhelloworld/hello-play-frege",
+                "type": "github"
+            },
+            {
+                "title": "Fervor",
+                "href": "https://github.com/mchav/fervor",
+                "github": "mchav/fervor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build Tools",
+        "childrens": [
+            {
+                "title": "Leiningen Template",
+                "href": "https://github.com/Frege/frege-lein-template",
+                "github": "Frege/frege-lein-template",
+                "type": "github"
+            },
+            {
+                "title": "Gofre",
+                "href": "https://github.com/NickSeagull/gofre",
+                "github": "NickSeagull/gofre",
+                "type": "github"
+            },
+            {
+                "title": "gottlob",
+                "href": "https://github.com/mchav/gottlob",
+                "github": "mchav/gottlob",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDEs",
+        "childrens": [
+            {
+                "title": "fregIDE",
+                "href": "https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial",
+                "github": "Frege/eclipse-plugin/wiki/fregIDE-Tutorial",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "REPLs",
+        "childrens": [
+            {
+                "title": "Console REPL",
+                "href": "https://github.com/Frege/frege-repl",
+                "github": "Frege/frege-repl",
+                "type": "github"
+            },
+            {
+                "title": "GUI REPL",
+                "href": "https://github.com/Dierk/frepl-gui",
+                "github": "Dierk/frepl-gui",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Unit Testing",
+        "childrens": [
+            {
+                "title": "FrUnit",
+                "href": "https://github.com/melrief/FrUnit",
+                "github": "melrief/FrUnit",
+                "type": "github"
+            }
+        ]
+    }
+]

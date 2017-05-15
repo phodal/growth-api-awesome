@@ -1,0 +1,106 @@
+[
+    {
+        "heading": "Must-have :heart:",
+        "childrens": [
+            {
+                "title": "Content Generator",
+                "href": "https://github.com/timuric/Content-generator-sketch-plugin",
+                "github": "timuric/Content-generator-sketch-plugin",
+                "type": "github"
+            },
+            {
+                "title": "RenameIt",
+                "href": "https://github.com/rodi01/RenameIt",
+                "github": "rodi01/RenameIt",
+                "type": "github"
+            },
+            {
+                "title": "Sketch Measure",
+                "href": "https://github.com/utom/sketch-measure",
+                "github": "utom/sketch-measure",
+                "type": "github"
+            },
+            {
+                "title": "Style Inventory",
+                "href": "https://github.com/getflourish/Sketch-Style-Inventory/",
+                "github": "getflourish/Sketch-Style-Inventory/",
+                "type": "github"
+            },
+            {
+                "title": "Dynamic Button",
+                "href": "https://github.com/ddwht/sketch-dynamic-button",
+                "github": "ddwht/sketch-dynamic-button",
+                "type": "github"
+            },
+            {
+                "title": "Page Switch",
+                "href": "https://github.com/mauehara/sketch-page-switch",
+                "github": "mauehara/sketch-page-switch",
+                "type": "github"
+            },
+            {
+                "title": "Sketch Flex Layout",
+                "href": "https://github.com/hrescak/Sketch-Flex-Layout",
+                "github": "hrescak/Sketch-Flex-Layout",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Nice-to-have :thumbsup:",
+        "childrens": [
+            {
+                "title": "Handy Tools",
+                "href": "https://github.com/webpatch/Handy-Tools/",
+                "github": "webpatch/Handy-Tools/",
+                "type": "github"
+            },
+            {
+                "title": "User Flow",
+                "href": "https://github.com/abynim/UserFlows",
+                "github": "abynim/UserFlows",
+                "type": "github"
+            },
+            {
+                "title": "Efficiency",
+                "href": "https://github.com/x-raizor/Efficiency",
+                "github": "x-raizor/Efficiency",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Get more plugins",
+        "childrens": [
+            {
+                "title": "Sketch Plugin Directory",
+                "href": "https://github.com/sketchplugins/plugin-directory",
+                "github": "sketchplugins/plugin-directory",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Templates & UI Kits",
+        "childrens": [
+            {
+                "title": "Responsive Web Design Template",
+                "href": "https://github.com/luandro/sketch-responsive-design-template",
+                "github": "luandro/sketch-responsive-design-template",
+                "type": "github"
+            },
+            {
+                "title": "Sketch iOS Templates",
+                "href": "https://github.com/nvk/sketch-ios",
+                "github": "nvk/sketch-ios",
+                "type": "github"
+            },
+            {
+                "title": "Teracy Wireframe Kit",
+                "href": "https://github.com/teracyhq/wireframe",
+                "github": "teracyhq/wireframe",
+                "type": "github"
+            }
+        ]
+    }
+]

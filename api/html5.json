@@ -1,0 +1,41 @@
+[
+    {
+        "heading": "Web Components",
+        "childrens": [
+            {
+                "title": "Polymer project",
+                "href": "https://github.com/polymer",
+                "github": "polymer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Service Workers",
+        "childrens": [
+            {
+                "title": "Service workers explained",
+                "href": "https://github.com/w3c/ServiceWorker/blob/master/explainer.md",
+                "github": "w3c/ServiceWorker/blob/master/explainer.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other awesome lists",
+        "childrens": [
+            {
+                "title": "awesome-awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            },
+            {
+                "title": "lists",
+                "href": "https://github.com/jnv/lists",
+                "github": "jnv/lists",
+                "type": "github"
+            }
+        ]
+    }
+]

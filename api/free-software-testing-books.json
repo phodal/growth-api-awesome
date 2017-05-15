@@ -1,0 +1,76 @@
+[
+    {
+        "heading": "Software testing theory",
+        "childrens": [
+            {
+                "title": "Measure Software Quality using Application Security",
+                "href": "https://github.com/DinisCruz/Book_Software_Quality/tree/master/content",
+                "github": "DinisCruz/Book_Software_Quality/tree/master/content",
+                "type": "github"
+            },
+            {
+                "title": "Random testing book",
+                "href": "https://github.com/regehr/random-testing-book",
+                "github": "regehr/random-testing-book",
+                "type": "github"
+            },
+            {
+                "title": "Software Testing: A Comprehensive Approach",
+                "href": "https://github.com/laboon/ebook",
+                "github": "laboon/ebook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Standards in software testing",
+        "childrens": [
+            {
+                "title": "Everything You Need to Know About Software Test Formats",
+                "href": "https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5",
+                "github": ".com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing of Free and OpenSource Software",
+        "childrens": [
+            {
+                "title": "Testing and quality management of free and open source software",
+                "href": "https://github.com/ligurio/tos-book",
+                "github": "ligurio/tos-book",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing with different programming languages",
+        "childrens": [
+            {
+                "title": "Testing Erlang",
+                "href": "https://github.com/zkessin/testing-erlang-book",
+                "github": "zkessin/testing-erlang-book",
+                "type": "github"
+            },
+            {
+                "title": "Testing in Scala",
+                "href": "https://github.com/dhinojosa/testing-in-scala-book",
+                "github": "dhinojosa/testing-in-scala-book",
+                "type": "github"
+            },
+            {
+                "title": "Test-Driven Development - Extensive Tutorial",
+                "href": "https://github.com/grzesiek-galezowski/tdd-ebook",
+                "github": "grzesiek-galezowski/tdd-ebook",
+                "type": "github"
+            },
+            {
+                "title": "Testing and Debugging JavaScript",
+                "href": "https://github.com/roblevintennis/Testing-and-Debugging-JavaScript",
+                "github": "roblevintennis/Testing-and-Debugging-JavaScript",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "heading": "Automation",
+        "childrens": [
+            {
+                "title": "AutoItMonkey",
+                "href": "https://github.com/ohtejera/AutoItMonkey",
+                "github": "ohtejera/AutoItMonkey",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Social Media and other Website API",
+        "childrens": [
+            {
+                "title": "Imgur",
+                "href": "https://github.com/J2TeaM/AutoIt-Imgur-UDF",
+                "github": "J2TeaM/AutoIt-Imgur-UDF",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "AutoItAppveyor (by KyleChamberlin)",
+                "href": "https://github.com/AutoItMicro/AutoItAppveyor",
+                "github": "AutoItMicro/AutoItAppveyor",
+                "type": "github"
+            },
+            {
+                "title": "Micro Unit Testing Framework (by KyleChamberlin)",
+                "href": "https://github.com/AutoItMicro/MicroUnitTestingFramework",
+                "github": "AutoItMicro/MicroUnitTestingFramework",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Syntax Highlighter",
+        "childrens": [
+            {
+                "title": "AutoIt - Visual Studio",
+                "href": "https://github.com/loganch/AutoIt-VSCode",
+                "github": "loganch/AutoIt-VSCode",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Lists",
+        "childrens": [
+            {
+                "title": "awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "awesome-all",
+                "href": "https://github.com/bradoyler/awesome-all",
+                "github": "bradoyler/awesome-all",
+                "type": "github"
+            },
+            {
+                "title": "awesome-awesome",
+                "href": "https://github.com/emijrp/awesome-awesome",
+                "github": "emijrp/awesome-awesome",
+                "type": "github"
+            },
+            {
+                "title": "awesome-awesome",
+                "href": "https://github.com/erichs/awesome-awesome",
+                "github": "erichs/awesome-awesome",
+                "type": "github"
+            },
+            {
+                "title": "awesome-awesome",
+                "href": "https://github.com/oyvindrobertsen/awesome-awesome",
+                "github": "oyvindrobertsen/awesome-awesome",
+                "type": "github"
+            },
+            {
+                "title": "awesome-awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            },
+            {
+                "title": "awesome-awesomes",
+                "href": "https://github.com/fleveque/awesome-awesomes",
+                "github": "fleveque/awesome-awesomes",
+                "type": "github"
+            },
+            {
+                "title": "awesome-collection",
+                "href": "https://github.com/flyhigher139/awesome-collection",
+                "github": "flyhigher139/awesome-collection",
+                "type": "github"
+            },
+            {
+                "title": "lists",
+                "href": "https://github.com/jnv/lists",
+                "github": "jnv/lists",
+                "type": "github"
+            }
+        ]
+    }
+]

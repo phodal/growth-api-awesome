@@ -1,0 +1,863 @@
+[
+    {
+        "heading": "General Resources",
+        "childrens": [
+            {
+                "title": "Github Repository",
+                "href": "https://github.com/gulpjs/gulp",
+                "github": "gulpjs/gulp",
+                "type": "github"
+            },
+            {
+                "title": "Blacklisted Plugins",
+                "href": "https://github.com/gulpjs/plugins/blob/master/src/blackList.json",
+                "github": "gulpjs/plugins/blob/master/src/blackList.json",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Official Documentation",
+        "childrens": [
+            {
+                "title": "Getting Started",
+                "href": "https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md",
+                "github": "gulpjs/gulp/blob/master/docs/getting-started.md",
+                "type": "github"
+            },
+            {
+                "title": "API Documentation",
+                "href": "https://github.com/gulpjs/gulp/blob/master/docs/API.md",
+                "github": "gulpjs/gulp/blob/master/docs/API.md",
+                "type": "github"
+            },
+            {
+                "title": "CLI Documentation",
+                "href": "https://github.com/gulpjs/gulp/tree/master/docs#articles",
+                "github": "gulpjs/gulp/tree/master/docs#articles",
+                "type": "github"
+            },
+            {
+                "title": "Writing a Plugin",
+                "href": "https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md",
+                "github": "gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md",
+                "type": "github"
+            },
+            {
+                "title": "Recipes",
+                "href": "https://github.com/gulpjs/gulp/tree/master/docs/recipes",
+                "github": "gulpjs/gulp/tree/master/docs/recipes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Gulp with Browserify",
+        "childrens": [
+            {
+                "title": "Fast Browserify Builds with Watchify",
+                "href": "https://github.com/gulpjs/gulp/blob/master/docs/recipes/fast-browserify-builds-with-watchify.md",
+                "github": "gulpjs/gulp/blob/master/docs/recipes/fast-browserify-builds-with-watchify.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous Resources",
+        "childrens": [
+            {
+                "title": "Gulp Cheatsheet",
+                "href": "https://github.com/osscafe/gulp-cheatsheet",
+                "github": "osscafe/gulp-cheatsheet",
+                "type": "github"
+            },
+            {
+                "title": "Playground for Gulp Recipes",
+                "href": "https://github.com/johnpapa/gulp-patterns",
+                "github": "johnpapa/gulp-patterns",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compilation",
+        "childrens": [
+            {
+                "title": "gulp-sass",
+                "href": "https://github.com/dlmanning/gulp-sass",
+                "github": "dlmanning/gulp-sass",
+                "type": "github"
+            },
+            {
+                "title": "gulp-ruby-sass",
+                "href": "https://github.com/sindresorhus/gulp-ruby-sass",
+                "github": "sindresorhus/gulp-ruby-sass",
+                "type": "github"
+            },
+            {
+                "title": "gulp-compass",
+                "href": "https://github.com/appleboy/gulp-compass",
+                "github": "appleboy/gulp-compass",
+                "type": "github"
+            },
+            {
+                "title": "gulp-less",
+                "href": "https://github.com/plus3network/gulp-less",
+                "github": "plus3network/gulp-less",
+                "type": "github"
+            },
+            {
+                "title": "gulp-stylus",
+                "href": "https://github.com/stevelacy/gulp-stylus",
+                "github": "stevelacy/gulp-stylus",
+                "type": "github"
+            },
+            {
+                "title": "gulp-postcss",
+                "href": "https://github.com/postcss/gulp-postcss",
+                "github": "postcss/gulp-postcss",
+                "type": "github"
+            },
+            {
+                "title": "gulp-coffee",
+                "href": "https://github.com/contra/gulp-coffee",
+                "github": "contra/gulp-coffee",
+                "type": "github"
+            },
+            {
+                "title": "gulp-typescript",
+                "href": "https://github.com/ivogabe/gulp-typescript",
+                "github": "ivogabe/gulp-typescript",
+                "type": "github"
+            },
+            {
+                "title": "gulp-react",
+                "href": "https://github.com/sindresorhus/gulp-react",
+                "github": "sindresorhus/gulp-react",
+                "type": "github"
+            },
+            {
+                "title": "webpack-stream",
+                "href": "https://github.com/shama/webpack-stream",
+                "github": "shama/webpack-stream",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Transpilation",
+        "childrens": [
+            {
+                "title": "gulp-babel",
+                "href": "https://github.com/babel/gulp-babel",
+                "github": "babel/gulp-babel",
+                "type": "github"
+            },
+            {
+                "title": "gulp-traceur",
+                "href": "https://github.com/sindresorhus/gulp-traceur",
+                "github": "sindresorhus/gulp-traceur",
+                "type": "github"
+            },
+            {
+                "title": "gulp-regenerator",
+                "href": "https://github.com/sindresorhus/gulp-regenerator",
+                "github": "sindresorhus/gulp-regenerator",
+                "type": "github"
+            },
+            {
+                "title": "gulp-es6-transpiler",
+                "href": "https://github.com/sindresorhus/gulp-es6-transpiler",
+                "github": "sindresorhus/gulp-es6-transpiler",
+                "type": "github"
+            },
+            {
+                "title": "gulp-myth",
+                "href": "https://github.com/sindresorhus/gulp-myth",
+                "github": "sindresorhus/gulp-myth",
+                "type": "github"
+            },
+            {
+                "title": "gulp-cssnext",
+                "href": "https://github.com/MoOx/gulp-cssnext",
+                "github": "MoOx/gulp-cssnext",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Concatenation",
+        "childrens": [
+            {
+                "title": "gulp-concat",
+                "href": "https://github.com/contra/gulp-concat",
+                "github": "contra/gulp-concat",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Minification",
+        "childrens": [
+            {
+                "title": "gulp-clean-css",
+                "href": "https://github.com/scniro/gulp-clean-css",
+                "github": "scniro/gulp-clean-css",
+                "type": "github"
+            },
+            {
+                "title": "gulp-csso",
+                "href": "https://github.com/ben-eb/gulp-csso",
+                "github": "ben-eb/gulp-csso",
+                "type": "github"
+            },
+            {
+                "title": "gulp-uglify",
+                "href": "https://github.com/terinjokes/gulp-uglify",
+                "github": "terinjokes/gulp-uglify",
+                "type": "github"
+            },
+            {
+                "title": "gulp-htmlmin",
+                "href": "https://github.com/jonschlinkert/gulp-htmlmin",
+                "github": "jonschlinkert/gulp-htmlmin",
+                "type": "github"
+            },
+            {
+                "title": "gulp-htmlmin",
+                "href": "https://github.com/jonschlinkert/gulp-htmlmin",
+                "github": "jonschlinkert/gulp-htmlmin",
+                "type": "github"
+            },
+            {
+                "title": "gulp-imagemin",
+                "href": "https://github.com/sindresorhus/gulp-imagemin",
+                "github": "sindresorhus/gulp-imagemin",
+                "type": "github"
+            },
+            {
+                "title": "gulp-svgmin",
+                "href": "https://github.com/ben-eb/gulp-svgmin",
+                "github": "ben-eb/gulp-svgmin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Optimization",
+        "childrens": [
+            {
+                "title": "gulp-uncss",
+                "href": "https://github.com/ben-eb/gulp-uncss",
+                "github": "ben-eb/gulp-uncss",
+                "type": "github"
+            },
+            {
+                "title": "gulp-css-base64",
+                "href": "https://github.com/zckrs/gulp-css-base64",
+                "github": "zckrs/gulp-css-base64",
+                "type": "github"
+            },
+            {
+                "title": "gulp-svg2png",
+                "href": "https://github.com/akoenig/gulp-svg2png",
+                "github": "akoenig/gulp-svg2png",
+                "type": "github"
+            },
+            {
+                "title": "gulp-responsive",
+                "href": "https://github.com/mahnunchik/gulp-responsive",
+                "github": "mahnunchik/gulp-responsive",
+                "type": "github"
+            },
+            {
+                "title": "gulp-svgstore",
+                "href": "https://github.com/w0rm/gulp-svgstore",
+                "github": "w0rm/gulp-svgstore",
+                "type": "github"
+            },
+            {
+                "title": "gulp-iconfont",
+                "href": "https://github.com/nfroidure/gulp-iconfont",
+                "github": "nfroidure/gulp-iconfont",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Injecting Assets",
+        "childrens": [
+            {
+                "title": "gulp-useref",
+                "href": "https://github.com/jonkemp/gulp-useref",
+                "github": "jonkemp/gulp-useref",
+                "type": "github"
+            },
+            {
+                "title": "gulp-inject",
+                "href": "https://github.com/klei/gulp-inject",
+                "github": "klei/gulp-inject",
+                "type": "github"
+            },
+            {
+                "title": "wiredep",
+                "href": "https://github.com/taptapship/wiredep",
+                "github": "taptapship/wiredep",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Templating",
+        "childrens": [
+            {
+                "title": "gulp-angular-templatecache",
+                "href": "https://github.com/miickel/gulp-angular-templatecache",
+                "github": "miickel/gulp-angular-templatecache",
+                "type": "github"
+            },
+            {
+                "title": "gulp-jade",
+                "href": "https://github.com/phated/gulp-jade",
+                "github": "phated/gulp-jade",
+                "type": "github"
+            },
+            {
+                "title": "gulp-handlebars",
+                "href": "https://github.com/lazd/gulp-handlebars",
+                "github": "lazd/gulp-handlebars",
+                "type": "github"
+            },
+            {
+                "title": "gulp-hb",
+                "href": "https://github.com/shannonmoeller/gulp-hb",
+                "github": "shannonmoeller/gulp-hb",
+                "type": "github"
+            },
+            {
+                "title": "gulp-nunjucks",
+                "href": "https://github.com/sindresorhus/gulp-nunjucks",
+                "github": "sindresorhus/gulp-nunjucks",
+                "type": "github"
+            },
+            {
+                "title": "gulp-dustjs",
+                "href": "https://github.com/sindresorhus/gulp-dust",
+                "github": "sindresorhus/gulp-dust",
+                "type": "github"
+            },
+            {
+                "title": "gulp-riot",
+                "href": "https://github.com/e-jigsaw/gulp-riot",
+                "github": "e-jigsaw/gulp-riot",
+                "type": "github"
+            },
+            {
+                "title": "gulp-markdown",
+                "href": "https://github.com/sindresorhus/gulp-markdown",
+                "github": "sindresorhus/gulp-markdown",
+                "type": "github"
+            },
+            {
+                "title": "gulp-template",
+                "href": "https://github.com/sindresorhus/gulp-template",
+                "github": "sindresorhus/gulp-template",
+                "type": "github"
+            },
+            {
+                "title": "gulp-swig",
+                "href": "https://github.com/colynb/gulp-swig",
+                "github": "colynb/gulp-swig",
+                "type": "github"
+            },
+            {
+                "title": "gulp-remark",
+                "href": "https://github.com/denysdovhan/gulp-remark",
+                "github": "denysdovhan/gulp-remark",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Linting",
+        "childrens": [
+            {
+                "title": "gulp-htmlhint",
+                "href": "https://github.com/bezoerb/gulp-htmlhint",
+                "github": "bezoerb/gulp-htmlhint",
+                "type": "github"
+            },
+            {
+                "title": "gulp-jshint",
+                "href": "https://github.com/spalger/gulp-jshint",
+                "github": "spalger/gulp-jshint",
+                "type": "github"
+            },
+            {
+                "title": "gulp-jscs",
+                "href": "https://github.com/jscs-dev/gulp-jscs",
+                "github": "jscs-dev/gulp-jscs",
+                "type": "github"
+            },
+            {
+                "title": "gulp-coffeelint",
+                "href": "https://github.com/janraasch/gulp-coffeelint",
+                "github": "janraasch/gulp-coffeelint",
+                "type": "github"
+            },
+            {
+                "title": "gulp-tslint",
+                "href": "https://github.com/panuhorsmalahti/gulp-tslint",
+                "github": "panuhorsmalahti/gulp-tslint",
+                "type": "github"
+            },
+            {
+                "title": "gulp-eslint",
+                "href": "https://github.com/adametry/gulp-eslint",
+                "github": "adametry/gulp-eslint",
+                "type": "github"
+            },
+            {
+                "title": "gulp-w3cjs",
+                "href": "https://github.com/callumacrae/gulp-w3cjs",
+                "github": "callumacrae/gulp-w3cjs",
+                "type": "github"
+            },
+            {
+                "title": "gulp-lesshint",
+                "href": "https://github.com/lesshint/gulp-lesshint",
+                "github": "lesshint/gulp-lesshint",
+                "type": "github"
+            },
+            {
+                "title": "gulp-check-unused-css",
+                "href": "https://github.com/zalando/gulp-check-unused-css",
+                "github": "zalando/gulp-check-unused-css",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Live Reload",
+        "childrens": [
+            {
+                "title": "browser-sync",
+                "href": "https://github.com/BrowserSync/browser-sync",
+                "github": "BrowserSync/browser-sync",
+                "type": "github"
+            },
+            {
+                "title": "gulp-livereload",
+                "href": "https://github.com/vohof/gulp-livereload",
+                "github": "vohof/gulp-livereload",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "gulp-changed",
+                "href": "https://github.com/sindresorhus/gulp-changed",
+                "github": "sindresorhus/gulp-changed",
+                "type": "github"
+            },
+            {
+                "title": "gulp-cached",
+                "href": "https://github.com/contra/gulp-cached",
+                "github": "contra/gulp-cached",
+                "type": "github"
+            },
+            {
+                "title": "gulp-remember",
+                "href": "https://github.com/ahaurw01/gulp-remember",
+                "github": "ahaurw01/gulp-remember",
+                "type": "github"
+            },
+            {
+                "title": "gulp-newer",
+                "href": "https://github.com/tschaub/gulp-newer",
+                "github": "tschaub/gulp-newer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Flow Control",
+        "childrens": [
+            {
+                "title": "merge-stream",
+                "href": "https://github.com/grncdr/merge-stream",
+                "github": "grncdr/merge-stream",
+                "type": "github"
+            },
+            {
+                "title": "streamqueue",
+                "href": "https://github.com/nfroidure/StreamQueue",
+                "github": "nfroidure/StreamQueue",
+                "type": "github"
+            },
+            {
+                "title": "run-sequence",
+                "href": "https://github.com/OverZealous/run-sequence",
+                "github": "OverZealous/run-sequence",
+                "type": "github"
+            },
+            {
+                "title": "gulp-if",
+                "href": "https://github.com/robrich/gulp-if",
+                "github": "robrich/gulp-if",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "gulp-notify",
+                "href": "https://github.com/mikaelbr/gulp-notify",
+                "github": "mikaelbr/gulp-notify",
+                "type": "github"
+            },
+            {
+                "title": "gulp-size",
+                "href": "https://github.com/sindresorhus/gulp-size",
+                "github": "sindresorhus/gulp-size",
+                "type": "github"
+            },
+            {
+                "title": "gulp-debug",
+                "href": "https://github.com/sindresorhus/gulp-debug",
+                "github": "sindresorhus/gulp-debug",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "gulp-mocha",
+                "href": "https://github.com/sindresorhus/gulp-mocha",
+                "github": "sindresorhus/gulp-mocha",
+                "type": "github"
+            },
+            {
+                "title": "gulp-jasmine",
+                "href": "https://github.com/sindresorhus/gulp-jasmine",
+                "github": "sindresorhus/gulp-jasmine",
+                "type": "github"
+            },
+            {
+                "title": "gulp-protractor",
+                "href": "https://github.com/mllrsohn/gulp-protractor",
+                "github": "mllrsohn/gulp-protractor",
+                "type": "github"
+            },
+            {
+                "title": "gulp-coverage",
+                "href": "https://github.com/dylanb/gulp-coverage",
+                "github": "dylanb/gulp-coverage",
+                "type": "github"
+            },
+            {
+                "title": "gulp-karma",
+                "href": "https://github.com/karma-runner/gulp-karma",
+                "github": "karma-runner/gulp-karma",
+                "type": "github"
+            },
+            {
+                "title": "gulp-ava",
+                "href": "https://github.com/sindresorhus/gulp-ava",
+                "github": "sindresorhus/gulp-ava",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous Plugins",
+        "childrens": [
+            {
+                "title": "gulp-util",
+                "href": "https://github.com/gulpjs/gulp-util",
+                "github": "gulpjs/gulp-util",
+                "type": "github"
+            },
+            {
+                "title": "gulp-plumber",
+                "href": "https://github.com/floatdrop/gulp-plumber",
+                "github": "floatdrop/gulp-plumber",
+                "type": "github"
+            },
+            {
+                "title": "gulp-load-plugins",
+                "href": "https://github.com/jackfranklin/gulp-load-plugins",
+                "github": "jackfranklin/gulp-load-plugins",
+                "type": "github"
+            },
+            {
+                "title": "main-bower-files",
+                "href": "https://github.com/ck86/main-bower-files",
+                "github": "ck86/main-bower-files",
+                "type": "github"
+            },
+            {
+                "title": "autoprefixer",
+                "href": "https://github.com/postcss/autoprefixer",
+                "github": "postcss/autoprefixer",
+                "type": "github"
+            },
+            {
+                "title": "gulp-sourcemaps",
+                "href": "https://github.com/floridoo/gulp-sourcemaps",
+                "github": "floridoo/gulp-sourcemaps",
+                "type": "github"
+            },
+            {
+                "title": "gulp-replace",
+                "href": "https://github.com/lazd/gulp-replace",
+                "github": "lazd/gulp-replace",
+                "type": "github"
+            },
+            {
+                "title": "gulp-rename",
+                "href": "https://github.com/hparra/gulp-rename",
+                "github": "hparra/gulp-rename",
+                "type": "github"
+            },
+            {
+                "title": "gulp-rev",
+                "href": "https://github.com/sindresorhus/gulp-rev",
+                "github": "sindresorhus/gulp-rev",
+                "type": "github"
+            },
+            {
+                "title": "del",
+                "href": "https://github.com/sindresorhus/del",
+                "github": "sindresorhus/del",
+                "type": "github"
+            },
+            {
+                "title": "gulp-exec",
+                "href": "https://github.com/robrich/gulp-exec",
+                "github": "robrich/gulp-exec",
+                "type": "github"
+            },
+            {
+                "title": "gulp-strip-debug",
+                "href": "https://github.com/sindresorhus/gulp-strip-debug",
+                "github": "sindresorhus/gulp-strip-debug",
+                "type": "github"
+            },
+            {
+                "title": "gulp-cssimport",
+                "href": "https://github.com/unlight/gulp-cssimport",
+                "github": "unlight/gulp-cssimport",
+                "type": "github"
+            },
+            {
+                "title": "gulp-inline-css",
+                "href": "https://github.com/jonkemp/gulp-inline-css",
+                "github": "jonkemp/gulp-inline-css",
+                "type": "github"
+            },
+            {
+                "title": "gulp-gh-pages",
+                "href": "https://github.com/shinnn/gulp-gh-pages",
+                "github": "shinnn/gulp-gh-pages",
+                "type": "github"
+            },
+            {
+                "title": "gulp-ng-annotate",
+                "href": "https://github.com/Kagami/gulp-ng-annotate",
+                "github": "Kagami/gulp-ng-annotate",
+                "type": "github"
+            },
+            {
+                "title": "gulp-bump",
+                "href": "https://github.com/stevelacy/gulp-bump",
+                "github": "stevelacy/gulp-bump",
+                "type": "github"
+            },
+            {
+                "title": "gulp-file-include",
+                "href": "https://github.com/coderhaoxin/gulp-file-include",
+                "github": "coderhaoxin/gulp-file-include",
+                "type": "github"
+            },
+            {
+                "title": "gulp-zip",
+                "href": "https://github.com/sindresorhus/gulp-zip",
+                "github": "sindresorhus/gulp-zip",
+                "type": "github"
+            },
+            {
+                "title": "gulp-git",
+                "href": "https://github.com/stevelacy/gulp-git",
+                "github": "stevelacy/gulp-git",
+                "type": "github"
+            },
+            {
+                "title": "gulp-filter",
+                "href": "https://github.com/sindresorhus/gulp-filter",
+                "github": "sindresorhus/gulp-filter",
+                "type": "github"
+            },
+            {
+                "title": "gulp-preprocess",
+                "href": "https://github.com/jas/gulp-preprocess",
+                "github": "jas/gulp-preprocess",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boilerplates",
+        "childrens": [
+            {
+                "title": "web-starter-kit",
+                "href": "https://github.com/google/web-starter-kit",
+                "github": "google/web-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "gulp-plugin-boilerplate",
+                "href": "https://github.com/sindresorhus/gulp-plugin-boilerplate",
+                "github": "sindresorhus/gulp-plugin-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "polymer-starter-kit",
+                "href": "https://github.com/polymerelements/polymer-starter-kit",
+                "github": "polymerelements/polymer-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "este",
+                "href": "https://github.com/este/este",
+                "github": "este/este",
+                "type": "github"
+            },
+            {
+                "title": "mnml",
+                "href": "https://github.com/mrmrs/mnml",
+                "github": "mrmrs/mnml",
+                "type": "github"
+            },
+            {
+                "title": "kraken",
+                "href": "https://github.com/cferdinandi/kraken",
+                "github": "cferdinandi/kraken",
+                "type": "github"
+            },
+            {
+                "title": "angularjs-gulp-browserify-boilerplate",
+                "href": "https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate",
+                "github": "jakemmarsh/angularjs-gulp-browserify-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "hapi-ninja",
+                "href": "https://github.com/poeticninja/hapi-ninja",
+                "github": "poeticninja/hapi-ninja",
+                "type": "github"
+            },
+            {
+                "title": "laravel-5-boilerplate",
+                "href": "https://github.com/rappasoft/laravel-5-boilerplate",
+                "github": "rappasoft/laravel-5-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "react-starterkit",
+                "href": "https://github.com/wbkd/react-starterkit",
+                "github": "wbkd/react-starterkit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Yeoman Generators",
+        "childrens": [
+            {
+                "title": "generator-gulp-webapp",
+                "href": "https://github.com/yeoman/generator-gulp-webapp",
+                "github": "yeoman/generator-gulp-webapp",
+                "type": "github"
+            },
+            {
+                "title": "generator-gulp-angular",
+                "href": "https://github.com/Swiip/generator-gulp-angular",
+                "github": "Swiip/generator-gulp-angular",
+                "type": "github"
+            },
+            {
+                "title": "generator-react-gulp-browserify",
+                "href": "https://github.com/randylien/generator-react-gulp-browserify",
+                "github": "randylien/generator-react-gulp-browserify",
+                "type": "github"
+            },
+            {
+                "title": "generator-node-gulp",
+                "href": "https://github.com/youngmountain/generator-node-gulp",
+                "github": "youngmountain/generator-node-gulp",
+                "type": "github"
+            },
+            {
+                "title": "generator-gulp-bootstrap",
+                "href": "https://github.com/niallobrien/generator-gulp-bootstrap",
+                "github": "niallobrien/generator-gulp-bootstrap",
+                "type": "github"
+            },
+            {
+                "title": "generator-angulpify",
+                "href": "https://github.com/jgoux/generator-angulpify",
+                "github": "jgoux/generator-angulpify",
+                "type": "github"
+            },
+            {
+                "title": "generator-ionic-gulp",
+                "href": "https://github.com/tmaximini/generator-ionic-gulp",
+                "github": "tmaximini/generator-ionic-gulp",
+                "type": "github"
+            },
+            {
+                "title": "generator-gulp-plugin-boilerplate",
+                "href": "https://github.com/sindresorhus/generator-gulp-plugin-boilerplate",
+                "github": "sindresorhus/generator-gulp-plugin-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "generator-jekyllized",
+                "href": "https://github.com/sondr3/generator-jekyllized",
+                "github": "sondr3/generator-jekyllized",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "elixir",
+                "href": "https://github.com/laravel/elixir",
+                "github": "laravel/elixir",
+                "type": "github"
+            },
+            {
+                "title": "gulp-app",
+                "href": "https://github.com/sindresorhus/gulp-app",
+                "github": "sindresorhus/gulp-app",
+                "type": "github"
+            },
+            {
+                "title": "lmn-gulp-tasks",
+                "href": "https://github.com/Lostmyname/lmn-gulp-tasks",
+                "github": "Lostmyname/lmn-gulp-tasks",
+                "type": "github"
+            }
+        ]
+    }
+]

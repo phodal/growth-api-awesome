@@ -1,0 +1,591 @@
+[
+    {
+        "heading": "Collections",
+        "childrens": [
+            {
+                "title": "aldeed:collection2",
+                "href": "https://github.com/aldeed/meteor-collection2/",
+                "github": "aldeed/meteor-collection2/",
+                "type": "github"
+            },
+            {
+                "title": "dburles:collection-helpers",
+                "href": "https://github.com/dburles/meteor-collection-helpers/",
+                "github": "dburles/meteor-collection-helpers/",
+                "type": "github"
+            },
+            {
+                "title": "matb33:collection-hooks",
+                "href": "https://github.com/matb33/meteor-collection-hooks/",
+                "github": "matb33/meteor-collection-hooks/",
+                "type": "github"
+            },
+            {
+                "title": "reywood:publish-composite",
+                "href": "https://github.com/englue/meteor-publish-composite",
+                "github": "englue/meteor-publish-composite",
+                "type": "github"
+            },
+            {
+                "title": "jagi:astronomy",
+                "href": "https://github.com/jagi/meteor-astronomy/",
+                "github": "jagi/meteor-astronomy/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "REST",
+        "childrens": [
+            {
+                "title": "simple:rest",
+                "href": "https://github.com/stubailo/meteor-rest",
+                "github": "stubailo/meteor-rest",
+                "type": "github"
+            },
+            {
+                "title": "nimble:restivus",
+                "href": "https://github.com/kahmali/meteor-restivus",
+                "github": "kahmali/meteor-restivus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forms and Templates",
+        "childrens": [
+            {
+                "title": "aldeed:autoform",
+                "href": "https://github.com/aldeed/meteor-autoform",
+                "github": "aldeed/meteor-autoform",
+                "type": "github"
+            },
+            {
+                "title": "dispatch:scrollview",
+                "href": "https://github.com/DispatchMe/meteor-scrollview",
+                "github": "DispatchMe/meteor-scrollview",
+                "type": "github"
+            },
+            {
+                "title": "themeteorites:blaze-magic-events",
+                "href": "https://github.com/themeteorites/blaze-magic-events",
+                "github": "themeteorites/blaze-magic-events",
+                "type": "github"
+            },
+            {
+                "title": "manuel:viewmodel",
+                "href": "https://github.com/ManuelDeLeon/viewmodel",
+                "github": "ManuelDeLeon/viewmodel",
+                "type": "github"
+            },
+            {
+                "title": "webix:webix",
+                "href": "https://github.com/dandv/meteor-webix",
+                "github": "dandv/meteor-webix",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Users and Authentication",
+        "childrens": [
+            {
+                "title": "alanning:roles",
+                "href": "https://github.com/alanning/meteor-roles",
+                "github": "alanning/meteor-roles",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deployment",
+        "childrens": [
+            {
+                "title": "meteorhacks:kadira",
+                "href": "https://github.com/meteorhacks/kadira",
+                "github": "meteorhacks/kadira",
+                "type": "github"
+            },
+            {
+                "title": "meteor-up",
+                "href": "https://github.com/arunoda/meteor-up",
+                "github": "arunoda/meteor-up",
+                "type": "github"
+            },
+            {
+                "title": "davidyaha:collection2-migrations",
+                "href": "https://github.com/davidyaha/meteor-collection2-migrations",
+                "github": "davidyaha/meteor-collection2-migrations",
+                "type": "github"
+            },
+            {
+                "title": "percolate:migrations",
+                "href": "https://github.com/percolatestudio/meteor-migrations",
+                "github": "percolatestudio/meteor-migrations",
+                "type": "github"
+            },
+            {
+                "title": "meteorhacks:fast-render",
+                "href": "https://github.com/kadirahq/fast-render",
+                "github": "kadirahq/fast-render",
+                "type": "github"
+            },
+            {
+                "title": "meteorhacks:cluster",
+                "href": "https://github.com/meteorhacks/cluster",
+                "github": "meteorhacks/cluster",
+                "type": "github"
+            },
+            {
+                "title": "yogiben:admin",
+                "href": "https://github.com/yogiben/meteor-admin",
+                "github": "yogiben/meteor-admin",
+                "type": "github"
+            },
+            {
+                "title": "demeteorizer",
+                "href": "https://github.com/onmodulus/demeteorizer",
+                "github": "onmodulus/demeteorizer",
+                "type": "github"
+            },
+            {
+                "title": "houston:admin",
+                "href": "https://github.com/gterrono/houston",
+                "github": "gterrono/houston",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Routers",
+        "childrens": [
+            {
+                "title": "iron:router",
+                "href": "https://github.com/iron-meteor/iron-router",
+                "github": "iron-meteor/iron-router",
+                "type": "github"
+            },
+            {
+                "title": "meteorhacks:flow-router",
+                "href": "https://github.com/kadirahq/flow-router",
+                "github": "kadirahq/flow-router",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Offline",
+        "childrens": [
+            {
+                "title": "ground:db",
+                "href": "https://github.com/GroundMeteor/db",
+                "github": "GroundMeteor/db",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "mike:mocha",
+                "href": "https://github.com/mad-eye/meteor-mocha-web/",
+                "github": "mad-eye/meteor-mocha-web/",
+                "type": "github"
+            },
+            {
+                "title": "xolvio:chimp",
+                "href": "https://github.com/xolvio/chimp",
+                "github": "xolvio/chimp",
+                "type": "github"
+            },
+            {
+                "title": "velocity:html-reporter",
+                "href": "https://github.com/meteor-velocity/html-reporter",
+                "github": "meteor-velocity/html-reporter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Files",
+        "childrens": [
+            {
+                "title": "Meteor-CollectionFS",
+                "href": "https://github.com/CollectionFS/Meteor-CollectionFS",
+                "github": "CollectionFS/Meteor-CollectionFS",
+                "type": "github"
+            },
+            {
+                "title": "netanelgilad:excel",
+                "href": "https://github.com/netanelgilad/meteor-excel",
+                "github": "netanelgilad/meteor-excel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search sort paginate",
+        "childrens": [
+            {
+                "title": "tmeasday:publish-counts",
+                "href": "https://github.com/percolatestudio/publish-counts",
+                "github": "percolatestudio/publish-counts",
+                "type": "github"
+            },
+            {
+                "title": "percolate:find-from-publication",
+                "href": "https://github.com/versolearning/find-from-publication",
+                "github": "versolearning/find-from-publication",
+                "type": "github"
+            },
+            {
+                "title": "meteorhacks:search-source",
+                "href": "https://github.com/meteorhacks/search-source",
+                "github": "meteorhacks/search-source",
+                "type": "github"
+            },
+            {
+                "title": "matteodem:easy-search",
+                "href": "https://github.com/matteodem/meteor-easy-search",
+                "github": "matteodem/meteor-easy-search",
+                "type": "github"
+            },
+            {
+                "title": "alethes:pages",
+                "href": "https://github.com/alethes/meteor-pages",
+                "github": "alethes/meteor-pages",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile",
+        "childrens": [
+            {
+                "title": "meteoric:ionic",
+                "href": "https://github.com/meteoric/meteor-ionic",
+                "github": "meteoric/meteor-ionic",
+                "type": "github"
+            },
+            {
+                "title": "driftyco:ionic",
+                "href": "https://github.com/driftyco/ionic",
+                "github": "driftyco/ionic",
+                "type": "github"
+            },
+            {
+                "title": "raix:push",
+                "href": "https://github.com/raix/push",
+                "github": "raix/push",
+                "type": "github"
+            },
+            {
+                "title": "martijnwalraven:meteor-ios",
+                "href": "https://github.com/martijnwalraven/meteor-ios",
+                "github": "martijnwalraven/meteor-ios",
+                "type": "github"
+            },
+            {
+                "title": "delight-im/Android-DDP",
+                "href": "https://github.com/delight-im/Android-DDP",
+                "github": "delight-im/Android-DDP",
+                "type": "github"
+            },
+            {
+                "title": "okland:accounts-phone",
+                "href": "https://github.com/okland/accounts-phone",
+                "github": "okland/accounts-phone",
+                "type": "github"
+            },
+            {
+                "title": "okland:camera-ui",
+                "href": "https://github.com/okland/camera-ui",
+                "github": "okland/camera-ui",
+                "type": "github"
+            },
+            {
+                "title": "percolatestudio/cordova-plugin-safe-reload",
+                "href": "https://github.com/percolatestudio/cordova-plugin-safe-reload",
+                "github": "percolatestudio/cordova-plugin-safe-reload",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Analytics",
+        "childrens": [
+            {
+                "title": "okgrow:analytics",
+                "href": "https://github.com/okgrow/analytics/",
+                "github": "okgrow/analytics/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cron Jobs",
+        "childrens": [
+            {
+                "title": "percolate:synced-cron",
+                "href": "https://github.com/percolatestudio/meteor-synced-cron",
+                "github": "percolatestudio/meteor-synced-cron",
+                "type": "github"
+            },
+            {
+                "title": "vsivsi:job-collection",
+                "href": "https://github.com/vsivsi/meteor-job-collection/",
+                "github": "vsivsi/meteor-job-collection/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging Tools",
+        "childrens": [
+            {
+                "title": "msavin:mongol",
+                "href": "https://github.com/msavin/Mongol/",
+                "github": "msavin/Mongol/",
+                "type": "github"
+            },
+            {
+                "title": "msavin:jetsetter",
+                "href": "https://github.com/msavin/JetSetter",
+                "github": "msavin/JetSetter",
+                "type": "github"
+            },
+            {
+                "title": "meteorhacks:kadira-debug",
+                "href": "https://github.com/kadirahq/meteor-debug",
+                "github": "kadirahq/meteor-debug",
+                "type": "github"
+            },
+            {
+                "title": "babrahams:constellation",
+                "href": "https://github.com/JackAdams/constellation-distro/",
+                "github": "JackAdams/constellation-distro/",
+                "type": "github"
+            },
+            {
+                "title": "Meteor DDP Monitor",
+                "href": "https://github.com/thebakeryio/meteor-ddp-monitor",
+                "github": "thebakeryio/meteor-ddp-monitor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package Managers",
+        "childrens": [
+            {
+                "title": "meteorhacks:npm",
+                "href": "https://github.com/meteorhacks/npm/",
+                "github": "meteorhacks/npm/",
+                "type": "github"
+            },
+            {
+                "title": "cosmos:browserify",
+                "href": "https://github.com/elidoran/cosmos-browserify",
+                "github": "elidoran/cosmos-browserify",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scaffolding",
+        "childrens": [
+            {
+                "title": "iron-cli",
+                "href": "https://github.com/iron-meteor/iron-cli",
+                "github": "iron-meteor/iron-cli",
+                "type": "github"
+            },
+            {
+                "title": "Differential - meteor-boilerplate",
+                "href": "https://github.com/Differential/meteor-boilerplate",
+                "github": "Differential/meteor-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "matteodem - meteor-boilerplate",
+                "href": "https://github.com/matteodem/meteor-boilerplate",
+                "github": "matteodem/meteor-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "meteoris2",
+                "href": "https://github.com/radiegtya/meteoris2",
+                "github": "radiegtya/meteoris2",
+                "type": "github"
+            },
+            {
+                "title": "Base",
+                "href": "https://github.com/themeteorchef/base",
+                "github": "themeteorchef/base",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tooling",
+        "childrens": [
+            {
+                "title": "ESLint-plugin-Meteor",
+                "href": "https://github.com/dferber90/eslint-plugin-meteor/",
+                "github": "dferber90/eslint-plugin-meteor/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Open source apps",
+        "childrens": [
+            {
+                "title": "Telescope",
+                "href": "https://github.com/TelescopeJS/Telescope",
+                "github": "TelescopeJS/Telescope",
+                "type": "github"
+            },
+            {
+                "title": "Microscope",
+                "href": "https://github.com/DiscoverMeteor/Microscope",
+                "github": "DiscoverMeteor/Microscope",
+                "type": "github"
+            },
+            {
+                "title": "Wekan",
+                "href": "https://github.com/wekan/wekan",
+                "github": "wekan/wekan",
+                "type": "github"
+            },
+            {
+                "title": "Reaction Commerce",
+                "href": "https://github.com/reactioncommerce/reaction",
+                "github": "reactioncommerce/reaction",
+                "type": "github"
+            },
+            {
+                "title": "Crowducate Platform",
+                "href": "https://github.com/Crowducate/crowducate-platform",
+                "github": "Crowducate/crowducate-platform",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Front End Frameworks",
+        "childrens": [
+            {
+                "title": "Angular",
+                "href": "https://github.com/Urigo/angular-meteor",
+                "github": "Urigo/angular-meteor",
+                "type": "github"
+            },
+            {
+                "title": "Angular 2",
+                "href": "https://github.com/Urigo/angular2-meteor",
+                "github": "Urigo/angular2-meteor",
+                "type": "github"
+            },
+            {
+                "title": "Famo.us",
+                "href": "https://github.com/gadicc/meteor-famous-views/",
+                "github": "gadicc/meteor-famous-views/",
+                "type": "github"
+            },
+            {
+                "title": "Vue",
+                "href": "https://github.com/Akryum/meteor-vue-component",
+                "github": "Akryum/meteor-vue-component",
+                "type": "github"
+            },
+            {
+                "title": "frozeman:build-client",
+                "href": "https://github.com/frozeman/meteor-build-client",
+                "github": "frozeman/meteor-build-client",
+                "type": "github"
+            },
+            {
+                "title": "Asteroid",
+                "href": "https://github.com/mondora/asteroid",
+                "github": "mondora/asteroid",
+                "type": "github"
+            },
+            {
+                "title": "ddp.js",
+                "href": "https://github.com/mondora/ddp.js",
+                "github": "mondora/ddp.js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Alternative Databases",
+        "childrens": [
+            {
+                "title": "meteor-pg",
+                "href": "https://github.com/Richie765/meteor-pg",
+                "github": "Richie765/meteor-pg",
+                "type": "github"
+            },
+            {
+                "title": "numtel:pg",
+                "href": "https://github.com/numtel/meteor-pg",
+                "github": "numtel/meteor-pg",
+                "type": "github"
+            },
+            {
+                "title": "numtel:mysql",
+                "href": "https://github.com/numtel/meteor-mysql",
+                "github": "numtel/meteor-mysql",
+                "type": "github"
+            },
+            {
+                "title": "simple:rethink",
+                "href": "https://github.com/Slava/meteor-rethinkdb",
+                "github": "Slava/meteor-rethinkdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Books",
+        "childrens": [
+            {
+                "title": "Meteor Cookbook",
+                "href": "https://github.com/awatson1978/meteor-cookbook",
+                "github": "awatson1978/meteor-cookbook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Meteor Learning",
+                "href": "https://github.com/ericdouglas/Meteor-Learning",
+                "github": "ericdouglas/Meteor-Learning",
+                "type": "github"
+            },
+            {
+                "title": "Phusion Passenger: Meteor tutorial",
+                "href": "https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial",
+                "github": "phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Websites",
+        "childrens": [
+            {
+                "title": "Unofficial Meteor FAQ",
+                "href": "https://github.com/oortcloud/unofficial-meteor-faq",
+                "github": "oortcloud/unofficial-meteor-faq",
+                "type": "github"
+            }
+        ]
+    }
+]

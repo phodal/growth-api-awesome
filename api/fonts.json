@@ -1,0 +1,479 @@
+[
+    {
+        "heading": "Fonts",
+        "childrens": [
+            {
+                "title": "Redacted",
+                "href": "https://github.com/christiannaths/Redacted-Font",
+                "github": "christiannaths/Redacted-Font",
+                "type": "github"
+            },
+            {
+                "title": "SansBullshitSans",
+                "href": "https://github.com/RoelN/SansBullshitSans",
+                "github": "RoelN/SansBullshitSans",
+                "type": "github"
+            },
+            {
+                "title": "WorkSans",
+                "href": "https://github.com/weiweihuanghuang/Work-Sans",
+                "github": "weiweihuanghuang/Work-Sans",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Emojis",
+        "childrens": [
+            {
+                "title": "alfred-emoji-workflow",
+                "href": "https://github.com/carlosgaldino/alfred-emoji-workflow",
+                "github": "carlosgaldino/alfred-emoji-workflow",
+                "type": "github"
+            },
+            {
+                "title": "emoji-cheat-sheet.com",
+                "href": "https://github.com/WebpageFX/emoji-cheat-sheet.com",
+                "github": "WebpageFX/emoji-cheat-sheet.com",
+                "type": "github"
+            },
+            {
+                "title": "emoji-data-js",
+                "href": "https://github.com/mroth/emoji-data-js",
+                "github": "mroth/emoji-data-js",
+                "type": "github"
+            },
+            {
+                "title": "emoji-minesweeper",
+                "href": "https://github.com/muan/emoji-minesweeper",
+                "github": "muan/emoji-minesweeper",
+                "type": "github"
+            },
+            {
+                "title": "emoji-regex",
+                "href": "https://github.com/mathiasbynens/emoji-regex",
+                "github": "mathiasbynens/emoji-regex",
+                "type": "github"
+            },
+            {
+                "title": "emoji-rspec",
+                "href": "https://github.com/cupakromer/emoji-rspec",
+                "github": "cupakromer/emoji-rspec",
+                "type": "github"
+            },
+            {
+                "title": "emoji-translate",
+                "href": "https://github.com/notwaldorf/emoji-translate",
+                "github": "notwaldorf/emoji-translate",
+                "type": "github"
+            },
+            {
+                "title": "emoji",
+                "href": "https://github.com/leereilly/emoji",
+                "github": "leereilly/emoji",
+                "type": "github"
+            },
+            {
+                "title": "emoji",
+                "href": "https://github.com/muan/emoji",
+                "github": "muan/emoji",
+                "type": "github"
+            },
+            {
+                "title": "emoji",
+                "href": "https://github.com/wpeterson/emoji",
+                "github": "wpeterson/emoji",
+                "type": "github"
+            },
+            {
+                "title": "emojidex",
+                "href": "https://github.com/emojidex/emojidex",
+                "github": "emojidex/emojidex",
+                "type": "github"
+            },
+            {
+                "title": "emojify.js",
+                "href": "https://github.com/Ranks/emojify.js",
+                "github": "Ranks/emojify.js",
+                "type": "github"
+            },
+            {
+                "title": "emojify",
+                "href": "https://github.com/mrowa44/emojify",
+                "github": "mrowa44/emojify",
+                "type": "github"
+            },
+            {
+                "title": "emojilib",
+                "href": "https://github.com/muan/emojilib",
+                "github": "muan/emojilib",
+                "type": "github"
+            },
+            {
+                "title": "emojillate",
+                "href": "https://github.com/notwaldorf/emojillate",
+                "github": "notwaldorf/emojillate",
+                "type": "github"
+            },
+            {
+                "title": "emojione",
+                "href": "https://github.com/Ranks/emojione",
+                "github": "Ranks/emojione",
+                "type": "github"
+            },
+            {
+                "title": "emojistatic",
+                "href": "https://github.com/mroth/emojistatic",
+                "github": "mroth/emojistatic",
+                "type": "github"
+            },
+            {
+                "title": "emojitracker",
+                "href": "https://github.com/mroth/emojitracker",
+                "github": "mroth/emojitracker",
+                "type": "github"
+            },
+            {
+                "title": "emojize",
+                "href": "https://github.com/ded/emojize",
+                "github": "ded/emojize",
+                "type": "github"
+            },
+            {
+                "title": "gemoji",
+                "href": "https://github.com/github/gemoji",
+                "github": "github/gemoji",
+                "type": "github"
+            },
+            {
+                "title": "gh-emoji",
+                "href": "https://github.com/zzarcon/gh-emoji",
+                "github": "zzarcon/gh-emoji",
+                "type": "github"
+            },
+            {
+                "title": "megamoji",
+                "href": "https://github.com/muan/megamoji",
+                "github": "muan/megamoji",
+                "type": "github"
+            },
+            {
+                "title": "mojibar",
+                "href": "https://github.com/muan/mojibar",
+                "github": "muan/mojibar",
+                "type": "github"
+            },
+            {
+                "title": "mojime",
+                "href": "https://github.com/JuanitoFatas/mojime",
+                "github": "JuanitoFatas/mojime",
+                "type": "github"
+            },
+            {
+                "title": "php-emoji",
+                "href": "https://github.com/iamcal/php-emoji",
+                "github": "iamcal/php-emoji",
+                "type": "github"
+            },
+            {
+                "title": "twemoji",
+                "href": "https://github.com/twitter/twemoji",
+                "github": "twitter/twemoji",
+                "type": "github"
+            },
+            {
+                "title": "vim-emoji",
+                "href": "https://github.com/junegunn/vim-emoji",
+                "github": "junegunn/vim-emoji",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Iconic fonts",
+        "childrens": [
+            {
+                "title": "Appa Sariicon",
+                "href": "https://github.com/sariina/appa-sariicon",
+                "github": "sariina/appa-sariicon",
+                "type": "github"
+            },
+            {
+                "title": "Country Icons",
+                "href": "https://github.com/lipis/flag-icon-css",
+                "github": "lipis/flag-icon-css",
+                "type": "github"
+            },
+            {
+                "title": "Font Custom",
+                "href": "https://github.com/FontCustom/fontcustom",
+                "github": "FontCustom/fontcustom",
+                "type": "github"
+            },
+            {
+                "title": "font-mfizz",
+                "href": "https://github.com/fizzed/font-mfizz",
+                "github": "fizzed/font-mfizz",
+                "type": "github"
+            },
+            {
+                "title": "FontAwesomeKit",
+                "href": "https://github.com/PrideChung/FontAwesomeKit",
+                "github": "PrideChung/FontAwesomeKit",
+                "type": "github"
+            },
+            {
+                "title": "Iconic",
+                "href": "https://github.com/somerandomdude/Iconic",
+                "github": "somerandomdude/Iconic",
+                "type": "github"
+            },
+            {
+                "title": "Map Icons",
+                "href": "https://github.com/scottdejonge/map-icons",
+                "github": "scottdejonge/map-icons",
+                "type": "github"
+            },
+            {
+                "title": "Material design icons",
+                "href": "https://github.com/google/material-design-icons",
+                "github": "google/material-design-icons",
+                "type": "github"
+            },
+            {
+                "title": "Micon",
+                "href": "https://github.com/xtoolkit/Micon",
+                "github": "xtoolkit/Micon",
+                "type": "github"
+            },
+            {
+                "title": "octicons",
+                "href": "https://octicons.github.com/",
+                "github": "thub.com/",
+                "type": "github"
+            },
+            {
+                "title": "PE-Analog-Clock-icon-font",
+                "href": "https://github.com/jhogue/PE-Analog-Clock-icon-font",
+                "github": "jhogue/PE-Analog-Clock-icon-font",
+                "type": "github"
+            },
+            {
+                "title": "stackicons",
+                "href": "https://github.com/parkerbennett/stackicons",
+                "github": "parkerbennett/stackicons",
+                "type": "github"
+            },
+            {
+                "title": "WebHostingHub Glyphs",
+                "href": "https://github.com/whhglyphs/webhostinghub-glyphs",
+                "github": "whhglyphs/webhostinghub-glyphs",
+                "type": "github"
+            },
+            {
+                "title": "Zocial",
+                "href": "https://github.com/adamstac/zocial",
+                "github": "adamstac/zocial",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Programming fonts",
+        "childrens": [
+            {
+                "title": "Adobe Fonts",
+                "href": "https://github.com/adobe-fonts",
+                "github": "adobe-fonts",
+                "type": "github"
+            },
+            {
+                "title": "Codeface",
+                "href": "https://github.com/chrissimpkins/codeface",
+                "github": "chrissimpkins/codeface",
+                "type": "github"
+            },
+            {
+                "title": "Fantasque Sans Mono",
+                "href": "https://github.com/belluzj/fantasque-sans",
+                "github": "belluzj/fantasque-sans",
+                "type": "github"
+            },
+            {
+                "title": "Hack",
+                "href": "https://github.com/chrissimpkins/Hack",
+                "github": "chrissimpkins/Hack",
+                "type": "github"
+            },
+            {
+                "title": "Meslo-Font",
+                "href": "https://github.com/andreberg/Meslo-Font",
+                "github": "andreberg/Meslo-Font",
+                "type": "github"
+            },
+            {
+                "title": "Nerd Fonts",
+                "href": "https://github.com/ryanoasis/nerd-fonts",
+                "github": "ryanoasis/nerd-fonts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Programming fonts with ligatures",
+        "childrens": [
+            {
+                "title": "FiraCode",
+                "href": "https://github.com/tonsky/FiraCode",
+                "github": "tonsky/FiraCode",
+                "type": "github"
+            },
+            {
+                "title": "Fixedsys Excelsior",
+                "href": "https://github.com/kika/fixedsys",
+                "github": "kika/fixedsys",
+                "type": "github"
+            },
+            {
+                "title": "Hasklig",
+                "href": "https://github.com/i-tu/Hasklig",
+                "github": "i-tu/Hasklig",
+                "type": "github"
+            },
+            {
+                "title": "Iosevka",
+                "href": "https://github.com/be5invis/Iosevka",
+                "github": "be5invis/Iosevka",
+                "type": "github"
+            },
+            {
+                "title": "Monoid",
+                "href": "https://github.com/larsenwork/monoid",
+                "github": "larsenwork/monoid",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript libs",
+        "childrens": [
+            {
+                "title": "fontkit",
+                "href": "https://github.com/devongovett/fontkit",
+                "github": "devongovett/fontkit",
+                "type": "github"
+            },
+            {
+                "title": "fontmin",
+                "href": "https://github.com/ecomfe/fontmin",
+                "github": "ecomfe/fontmin",
+                "type": "github"
+            },
+            {
+                "title": "Lettering.js",
+                "href": "https://github.com/davatron5000/Lettering.js",
+                "github": "davatron5000/Lettering.js",
+                "type": "github"
+            },
+            {
+                "title": "localFont",
+                "href": "https://github.com/jaicab/localFont",
+                "github": "jaicab/localFont",
+                "type": "github"
+            },
+            {
+                "title": "opentype.js",
+                "href": "https://github.com/nodebox/opentype.js",
+                "github": "nodebox/opentype.js",
+                "type": "github"
+            },
+            {
+                "title": "Typefont",
+                "href": "https://github.com/Sirvasile/Typefont",
+                "github": "Sirvasile/Typefont",
+                "type": "github"
+            },
+            {
+                "title": "Typeset.js",
+                "href": "https://github.com/davidmerfield/typeset",
+                "github": "davidmerfield/typeset",
+                "type": "github"
+            },
+            {
+                "title": "Typr.js",
+                "href": "https://github.com/photopea/Typr.js",
+                "github": "photopea/Typr.js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Event listeners for fonts loading on a web page",
+        "childrens": [
+            {
+                "title": "Font Face Observer",
+                "href": "https://github.com/bramstein/fontfaceobserver",
+                "github": "bramstein/fontfaceobserver",
+                "type": "github"
+            },
+            {
+                "title": "Web Font Loader",
+                "href": "https://github.com/typekit/webfontloader",
+                "github": "typekit/webfontloader",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GitHub Showcases",
+        "childrens": [
+            {
+                "title": "Fonts",
+                "href": "https://github.com/showcases/fonts",
+                "github": "showcases/fonts",
+                "type": "github"
+            },
+            {
+                "title": "Icon Fonts",
+                "href": "https://github.com/showcases/icon-fonts",
+                "github": "showcases/icon-fonts",
+                "type": "github"
+            },
+            {
+                "title": "Design Essentials",
+                "href": "https://github.com/showcases/design-essentials",
+                "github": "showcases/design-essentials",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "Command line font-manager",
+                "href": "https://github.com/alyssais/font",
+                "github": "alyssais/font",
+                "type": "github"
+            },
+            {
+                "title": "font",
+                "href": "https://github.com/Benvie/font",
+                "github": "Benvie/font",
+                "type": "github"
+            },
+            {
+                "title": "FontForge",
+                "href": "https://github.com/fontforge/fontforge",
+                "github": "fontforge/fontforge",
+                "type": "github"
+            },
+            {
+                "title": "Powerline Fonts",
+                "href": "https://github.com/powerline/fonts",
+                "github": "powerline/fonts",
+                "type": "github"
+            }
+        ]
+    }
+]

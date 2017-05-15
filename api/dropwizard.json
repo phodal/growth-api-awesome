@@ -1,0 +1,322 @@
+[
+    {
+        "heading": "Eclipse",
+        "childrens": [
+            {
+                "title": "dropwizard-tools",
+                "href": "https://github.com/Tasktop/dropwizard-tools",
+                "github": "Tasktop/dropwizard-tools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Open Source",
+        "childrens": [
+            {
+                "title": "dropwizard-swagger",
+                "href": "https://github.com/smoketurner/dropwizard-swagger",
+                "github": "smoketurner/dropwizard-swagger",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-jaxws",
+                "href": "https://github.com/roskart/dropwizard-jaxws",
+                "github": "roskart/dropwizard-jaxws",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-redirect-bundle",
+                "href": "https://github.com/bazaarvoice/dropwizard-redirect-bundle",
+                "github": "bazaarvoice/dropwizard-redirect-bundle",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-template-config",
+                "href": "https://github.com/tkrille/dropwizard-template-config",
+                "github": "tkrille/dropwizard-template-config",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-caching-bundle",
+                "href": "https://github.com/bazaarvoice/dropwizard-caching-bundle",
+                "github": "bazaarvoice/dropwizard-caching-bundle",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-xml",
+                "href": "https://github.com/yunspace/dropwizard-xml",
+                "github": "yunspace/dropwizard-xml",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-crypto",
+                "href": "https://github.com/meltmedia/dropwizard-crypto",
+                "github": "meltmedia/dropwizard-crypto",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-circuitbreaker",
+                "href": "https://github.com/mtakaki/dropwizard-circuitbreaker",
+                "github": "mtakaki/dropwizard-circuitbreaker",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-maxmind-bundle",
+                "href": "https://github.com/phaneesh/dropwizard-maxmind-bundle",
+                "github": "phaneesh/dropwizard-maxmind-bundle",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-protobuf",
+                "href": "https://github.com/dropwizard/dropwizard-protobuf",
+                "github": "dropwizard/dropwizard-protobuf",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-activemq-bundle",
+                "href": "https://github.com/mbknor/dropwizard-activemq-bundle",
+                "github": "mbknor/dropwizard-activemq-bundle",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-consul",
+                "href": "https://github.com/smoketurner/dropwizard-consul",
+                "github": "smoketurner/dropwizard-consul",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-zipkin",
+                "href": "https://github.com/smoketurner/dropwizard-zipkin",
+                "github": "smoketurner/dropwizard-zipkin",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-graphql",
+                "href": "https://github.com/smoketurner/dropwizard-graphql",
+                "github": "smoketurner/dropwizard-graphql",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-money",
+                "href": "https://github.com/smoketurner/dropwizard-money",
+                "github": "smoketurner/dropwizard-money",
+                "type": "github"
+            },
+            {
+                "title": "breakerbox",
+                "href": "https://github.com/yammer/breakerbox",
+                "github": "yammer/breakerbox",
+                "type": "github"
+            },
+            {
+                "title": "tenacity",
+                "href": "https://github.com/yammer/tenacity",
+                "github": "yammer/tenacity",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-grpc",
+                "href": "https://github.com/msteinhoff/dropwizard-grpc",
+                "github": "msteinhoff/dropwizard-grpc",
+                "type": "github"
+            },
+            {
+                "title": "sqs-dropwizard",
+                "href": "https://github.com/bascan/sqs-dropwizard",
+                "github": "bascan/sqs-dropwizard",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-simple-cors",
+                "href": "https://github.com/ojacobson/dropwizard-simple-cors",
+                "github": "ojacobson/dropwizard-simple-cors",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-version-info",
+                "href": "https://github.com/palantir/dropwizard-version-info",
+                "github": "palantir/dropwizard-version-info",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication",
+        "childrens": [
+            {
+                "title": "dropwizard-auth-ldap",
+                "href": "https://github.com/yammer/dropwizard-auth-ldap",
+                "github": "yammer/dropwizard-auth-ldap",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-jwt-cookie-authentication",
+                "href": "https://github.com/dhatim/dropwizard-jwt-cookie-authentication",
+                "github": "dhatim/dropwizard-jwt-cookie-authentication",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Assets",
+        "childrens": [
+            {
+                "title": "dropwizard-configurable-assets-bundle",
+                "href": "https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle",
+                "github": "bazaarvoice/dropwizard-configurable-assets-bundle",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-markdown-assets-bundle",
+                "href": "https://github.com/rnorth/dropwizard-markdown-assets-bundle",
+                "github": "rnorth/dropwizard-markdown-assets-bundle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Stores",
+        "childrens": [
+            {
+                "title": "dropwizard-etcd",
+                "href": "https://github.com/meltmedia/dropwizard-etcd",
+                "github": "meltmedia/dropwizard-etcd",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-mongo",
+                "href": "https://github.com/eeb/dropwizard-mongo",
+                "github": "eeb/dropwizard-mongo",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-elasticsearch",
+                "href": "https://github.com/dropwizard/dropwizard-elasticsearch",
+                "github": "dropwizard/dropwizard-elasticsearch",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-service-discovery",
+                "href": "https://github.com/santanusinha/dropwizard-service-discovery",
+                "github": "santanusinha/dropwizard-service-discovery",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-cassandra",
+                "href": "https://github.com/composable-systems/dropwizard-cassandra",
+                "github": "composable-systems/dropwizard-cassandra",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-riak",
+                "href": "https://github.com/smoketurner/dropwizard-riak",
+                "github": "smoketurner/dropwizard-riak",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-orient-server",
+                "href": "https://github.com/xvik/dropwizard-orient-server",
+                "github": "xvik/dropwizard-orient-server",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Metrics",
+        "childrens": [
+            {
+                "title": "riemann-bundle",
+                "href": "https://github.com/phaneesh/riemann-bundle",
+                "github": "phaneesh/riemann-bundle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "dropwizard-gelf",
+                "href": "https://github.com/gini/dropwizard-gelf",
+                "github": "gini/dropwizard-gelf",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-raven",
+                "href": "https://github.com/tradier/dropwizard-raven",
+                "github": "tradier/dropwizard-raven",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-logstash-encoder",
+                "href": "https://github.com/Wikia/dropwizard-logstash-encoder",
+                "github": "Wikia/dropwizard-logstash-encoder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scheduled/Recurrence Jobs",
+        "childrens": [
+            {
+                "title": "dropwizard-quartz",
+                "href": "https://github.com/jaredstehler/dropwizard-quartz",
+                "github": "jaredstehler/dropwizard-quartz",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-jobs",
+                "href": "https://github.com/spinscale/dropwizard-jobs",
+                "github": "spinscale/dropwizard-jobs",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-sundial",
+                "href": "https://github.com/timmolter/dropwizard-sundial",
+                "github": "timmolter/dropwizard-sundial",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Guice",
+        "childrens": [
+            {
+                "title": "dropwizard-guice",
+                "href": "https://github.com/HubSpot/dropwizard-guice",
+                "github": "HubSpot/dropwizard-guice",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-guicey",
+                "href": "https://github.com/xvik/dropwizard-guicey",
+                "github": "xvik/dropwizard-guicey",
+                "type": "github"
+            },
+            {
+                "title": "dropwizard-guicier",
+                "href": "https://github.com/HubSpot/dropwizard-guicier",
+                "github": "HubSpot/dropwizard-guicier",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deployment",
+        "childrens": [
+            {
+                "title": "WizToWar",
+                "href": "https://github.com/twilio/wiztowar",
+                "github": "twilio/wiztowar",
+                "type": "github"
+            },
+            {
+                "title": "wizard-in-a-box",
+                "href": "https://github.com/rvs-fluid-it/wizard-in-a-box",
+                "github": "rvs-fluid-it/wizard-in-a-box",
+                "type": "github"
+            }
+        ]
+    }
+]

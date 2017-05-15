@@ -1,0 +1,453 @@
+[
+    {
+        "heading": "Platforms",
+        "childrens": [
+            {
+                "title": "CTFd",
+                "href": "https://github.com/isislab/CTFd",
+                "github": "isislab/CTFd",
+                "type": "github"
+            },
+            {
+                "title": "FBCTF",
+                "href": "https://github.com/facebook/fbctf",
+                "github": "facebook/fbctf",
+                "type": "github"
+            },
+            {
+                "title": "HackTheArch",
+                "href": "https://github.com/mcpa-stlouis/hack-the-arch",
+                "github": "mcpa-stlouis/hack-the-arch",
+                "type": "github"
+            },
+            {
+                "title": "Mellivora",
+                "href": "https://github.com/Nakiami/mellivora",
+                "github": "Nakiami/mellivora",
+                "type": "github"
+            },
+            {
+                "title": "NightShade",
+                "href": "https://github.com/UnrealAkama/NightShade",
+                "github": "UnrealAkama/NightShade",
+                "type": "github"
+            },
+            {
+                "title": "OpenCTF",
+                "href": "https://github.com/easyctf/openctf",
+                "github": "easyctf/openctf",
+                "type": "github"
+            },
+            {
+                "title": "PicoCTF Platform 2",
+                "href": "https://github.com/picoCTF/picoCTF-Platform-2",
+                "github": "picoCTF/picoCTF-Platform-2",
+                "type": "github"
+            },
+            {
+                "title": "PyChallFactory",
+                "href": "https://github.com/pdautry/py_chall_factory",
+                "github": "pdautry/py_chall_factory",
+                "type": "github"
+            },
+            {
+                "title": "RootTheBox",
+                "href": "https://github.com/moloch--/RootTheBox",
+                "github": "moloch--/RootTheBox",
+                "type": "github"
+            },
+            {
+                "title": "Scorebot",
+                "href": "https://github.com/legitbs/scorebot",
+                "github": "legitbs/scorebot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web",
+        "childrens": [
+            {
+                "title": "Metasploit JavaScript Obfustcator",
+                "href": "https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit",
+                "github": "rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Attacks",
+        "childrens": [
+            {
+                "title": "Bettercap",
+                "href": "https://github.com/evilsocket/bettercap",
+                "github": "evilsocket/bettercap",
+                "type": "github"
+            },
+            {
+                "title": "Layer 2 attacks",
+                "href": "https://github.com/tomac/yersinia",
+                "github": "tomac/yersinia",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Crypto",
+        "childrens": [
+            {
+                "title": "FeatherDuster",
+                "href": "https://github.com/nccgroup/featherduster",
+                "github": "nccgroup/featherduster",
+                "type": "github"
+            },
+            {
+                "title": "RSATool",
+                "href": "https://github.com/ius/rsatool",
+                "github": "ius/rsatool",
+                "type": "github"
+            },
+            {
+                "title": "XORTool",
+                "href": "https://github.com/hellman/xortool",
+                "github": "hellman/xortool",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bruteforcers",
+        "childrens": [
+            {
+                "title": "John The Jumbo",
+                "href": "https://github.com/magnumripper/JohnTheRipper",
+                "github": "magnumripper/JohnTheRipper",
+                "type": "github"
+            },
+            {
+                "title": "Nozzlr",
+                "href": "https://github.com/intrd/nozzlr",
+                "github": "intrd/nozzlr",
+                "type": "github"
+            },
+            {
+                "title": "Patator",
+                "href": "https://github.com/lanjelot/patator",
+                "github": "lanjelot/patator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Exploits",
+        "childrens": [
+            {
+                "title": "DLLInjector",
+                "href": "https://github.com/OpenSecurityResearch/dllinjector",
+                "github": "OpenSecurityResearch/dllinjector",
+                "type": "github"
+            },
+            {
+                "title": "libformatstr",
+                "href": "https://github.com/hellman/libformatstr",
+                "github": "hellman/libformatstr",
+                "type": "github"
+            },
+            {
+                "title": "Pwntools",
+                "href": "https://github.com/Gallopsled/pwntools",
+                "github": "Gallopsled/pwntools",
+                "type": "github"
+            },
+            {
+                "title": "Qira",
+                "href": "https://github.com/BinaryAnalysisPlatform/qira",
+                "github": "BinaryAnalysisPlatform/qira",
+                "type": "github"
+            },
+            {
+                "title": "ROP Gadget",
+                "href": "https://github.com/JonathanSalwan/ROPgadget",
+                "github": "JonathanSalwan/ROPgadget",
+                "type": "github"
+            },
+            {
+                "title": "V0lt",
+                "href": "https://github.com/P1kachu/v0lt",
+                "github": "P1kachu/v0lt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forensics",
+        "childrens": [
+            {
+                "title": "Creddump",
+                "href": "https://github.com/moyix/creddump",
+                "github": "moyix/creddump",
+                "type": "github"
+            },
+            {
+                "title": "DVCS Ripper",
+                "href": "https://github.com/kost/dvcs-ripper",
+                "github": "kost/dvcs-ripper",
+                "type": "github"
+            },
+            {
+                "title": "Fibratus",
+                "href": "https://github.com/rabbitstack/fibratus",
+                "github": "rabbitstack/fibratus",
+                "type": "github"
+            },
+            {
+                "title": "Shellbags",
+                "href": "https://github.com/williballenthin/shellbags",
+                "github": "williballenthin/shellbags",
+                "type": "github"
+            },
+            {
+                "title": "Volatility",
+                "href": "https://github.com/volatilityfoundation/volatility",
+                "github": "volatilityfoundation/volatility",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "Masscan",
+                "href": "https://github.com/robertdavidgraham/masscan",
+                "github": "robertdavidgraham/masscan",
+                "type": "github"
+            },
+            {
+                "title": "Nipe",
+                "href": "https://github.com/GouveaHeitor/nipe",
+                "github": "GouveaHeitor/nipe",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reversing",
+        "childrens": [
+            {
+                "title": "Androguard",
+                "href": "https://github.com/androguard/androguard",
+                "github": "androguard/androguard",
+                "type": "github"
+            },
+            {
+                "title": "Angr",
+                "href": "https://github.com/angr/angr",
+                "github": "angr/angr",
+                "type": "github"
+            },
+            {
+                "title": "Apk2Gold",
+                "href": "https://github.com/lxdvs/apk2gold",
+                "github": "lxdvs/apk2gold",
+                "type": "github"
+            },
+            {
+                "title": "Barf",
+                "href": "https://github.com/programa-stic/barf-project",
+                "github": "programa-stic/barf-project",
+                "type": "github"
+            },
+            {
+                "title": "BinWalk",
+                "href": "https://github.com/devttys0/binwalk",
+                "github": "devttys0/binwalk",
+                "type": "github"
+            },
+            {
+                "title": "Boomerang",
+                "href": "https://github.com/nemerle/boomerang",
+                "github": "nemerle/boomerang",
+                "type": "github"
+            },
+            {
+                "title": "ctf_import",
+                "href": "https://github.com/docileninja/ctf_import",
+                "github": "docileninja/ctf_import",
+                "type": "github"
+            },
+            {
+                "title": "GEF",
+                "href": "https://github.com/hugsy/gef",
+                "github": "hugsy/gef",
+                "type": "github"
+            },
+            {
+                "title": "Jadx",
+                "href": "https://github.com/skylot/jadx",
+                "github": "skylot/jadx",
+                "type": "github"
+            },
+            {
+                "title": "Krakatau",
+                "href": "https://github.com/Storyyeller/Krakatau",
+                "github": "Storyyeller/Krakatau",
+                "type": "github"
+            },
+            {
+                "title": "PEDA",
+                "href": "https://github.com/longld/peda",
+                "github": "longld/peda",
+                "type": "github"
+            },
+            {
+                "title": "Plasma",
+                "href": "https://github.com/joelpx/plasma",
+                "github": "joelpx/plasma",
+                "type": "github"
+            },
+            {
+                "title": "Pwndbg",
+                "href": "https://github.com/pwndbg/pwndbg",
+                "github": "pwndbg/pwndbg",
+                "type": "github"
+            },
+            {
+                "title": "radare2",
+                "href": "https://github.com/radare/radare2",
+                "github": "radare/radare2",
+                "type": "github"
+            },
+            {
+                "title": "Uncompyle",
+                "href": "https://github.com/gstarnberger/uncompyle",
+                "github": "gstarnberger/uncompyle",
+                "type": "github"
+            },
+            {
+                "title": "Z3",
+                "href": "https://github.com/Z3Prover/z3",
+                "github": "Z3Prover/z3",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reversing",
+        "childrens": [
+            {
+                "title": "RABCDAsm",
+                "href": "https://github.com/CyberShadow/RABCDAsm",
+                "github": "CyberShadow/RABCDAsm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Steganography",
+        "childrens": [
+            {
+                "title": "SmartDeblur",
+                "href": "https://github.com/Y-Vladimir/SmartDeblur",
+                "github": "Y-Vladimir/SmartDeblur",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web",
+        "childrens": [
+            {
+                "title": "Commix",
+                "href": "https://github.com/commixproject/commix",
+                "github": "commixproject/commix",
+                "type": "github"
+            },
+            {
+                "title": "SQLMap",
+                "href": "https://github.com/sqlmapproject/sqlmap",
+                "github": "sqlmapproject/sqlmap",
+                "type": "github"
+            },
+            {
+                "title": "W3af",
+                "href": "https://github.com/andresriancho/w3af",
+                "github": "andresriancho/w3af",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Starter Packs",
+        "childrens": [
+            {
+                "title": "CTF Tools",
+                "href": "https://github.com/zardus/ctf-tools",
+                "github": "zardus/ctf-tools",
+                "type": "github"
+            },
+            {
+                "title": "LazyKali",
+                "href": "https://github.com/jlevitsk/lazykali",
+                "github": "jlevitsk/lazykali",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "MIPT CTF",
+                "href": "https://github.com/xairy/mipt-ctf",
+                "github": "xairy/mipt-ctf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Wargames",
+        "childrens": [
+            {
+                "title": "Juice Shop CTF",
+                "href": "https://github.com/bkimminich/juice-shop-ctf",
+                "github": "bkimminich/juice-shop-ctf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Wikis",
+        "childrens": [
+            {
+                "title": "ISIS Lab",
+                "href": "https://github.com/isislab/Project-Ideas/wiki",
+                "github": "isislab/Project-Ideas/wiki",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Writeups Collections",
+        "childrens": [
+            {
+                "title": "CTF write-ups (community)",
+                "href": "https://github.com/ctfs/",
+                "github": "ctfs/",
+                "type": "github"
+            },
+            {
+                "title": "pwntools writeups",
+                "href": "https://github.com/Gallopsled/pwntools-write-ups",
+                "github": "Gallopsled/pwntools-write-ups",
+                "type": "github"
+            },
+            {
+                "title": "Smoke Leet Everyday",
+                "href": "https://github.com/smokeleeteveryday/CTF_WRITEUPS",
+                "github": "smokeleeteveryday/CTF_WRITEUPS",
+                "type": "github"
+            }
+        ]
+    }
+]

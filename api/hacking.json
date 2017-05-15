@@ -1,0 +1,145 @@
+[
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Metasploit",
+                "href": "https://github.com/rapid7/metasploit-framework",
+                "github": "rapid7/metasploit-framework",
+                "type": "github"
+            },
+            {
+                "title": "mimikatz",
+                "href": "https://github.com/gentilkiwi/mimikatz",
+                "github": "gentilkiwi/mimikatz",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "dex2jar",
+                "href": "https://github.com/pxb1988/dex2jar",
+                "github": "pxb1988/dex2jar",
+                "type": "github"
+            },
+            {
+                "title": "ILSpy",
+                "href": "https://github.com/icsharpcode/ILSpy/",
+                "github": "icsharpcode/ILSpy/",
+                "type": "github"
+            },
+            {
+                "title": "dnSpy",
+                "href": "https://github.com/0xd4d/dnSpy",
+                "github": "0xd4d/dnSpy",
+                "type": "github"
+            },
+            {
+                "title": "de4dot",
+                "href": "https://github.com/0xd4d/de4dot",
+                "github": "0xd4d/de4dot",
+                "type": "github"
+            },
+            {
+                "title": "antinet",
+                "href": "https://github.com/0xd4d/antinet",
+                "github": "0xd4d/antinet",
+                "type": "github"
+            },
+            {
+                "title": "radare2",
+                "href": "https://github.com/radare/radare2",
+                "github": "radare/radare2",
+                "type": "github"
+            },
+            {
+                "title": "plasma",
+                "href": "https://github.com/joelpx/plasma",
+                "github": "joelpx/plasma",
+                "type": "github"
+            },
+            {
+                "title": "ScratchABit",
+                "href": "https://github.com/pfalcon/ScratchABit",
+                "github": "pfalcon/ScratchABit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "sqlmap",
+                "href": "https://github.com/sqlmapproject/sqlmap",
+                "github": "sqlmapproject/sqlmap",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "pig",
+                "href": "https://github.com/rafael-santiago/pig",
+                "github": "rafael-santiago/pig",
+                "type": "github"
+            },
+            {
+                "title": "mitmsocks4j",
+                "href": "https://github.com/Akdeniz/mitmsocks4j",
+                "github": "Akdeniz/mitmsocks4j",
+                "type": "github"
+            },
+            {
+                "title": "Nipe",
+                "href": "https://github.com/GouveaHeitor/nipe",
+                "github": "GouveaHeitor/nipe",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "sleuthkit",
+                "href": "https://github.com/sleuthkit/sleuthkit",
+                "github": "sleuthkit/sleuthkit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "xortool",
+                "href": "https://github.com/hellman/xortool",
+                "github": "hellman/xortool",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "Pentest Cheat Sheets",
+                "href": "https://github.com/coreb1t/awesome-pentest-cheat-sheets",
+                "github": "coreb1t/awesome-pentest-cheat-sheets",
+                "type": "github"
+            },
+            {
+                "title": "Movies For Hacker",
+                "href": "https://github.com/k4m4/movies-for-hackers",
+                "github": "k4m4/movies-for-hackers",
+                "type": "github"
+            }
+        ]
+    }
+]

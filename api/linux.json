@@ -1,0 +1,122 @@
+[
+    {
+        "heading": "X Windows Managers",
+        "childrens": [
+            {
+                "title": "bspwm",
+                "href": "https://github.com/baskerville/bspwm",
+                "github": "baskerville/bspwm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Pantheon-based",
+        "childrens": [
+            {
+                "title": "Spice-Up",
+                "href": "https://github.com/Philip-Scott/Spice-up",
+                "github": "Philip-Scott/Spice-up",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third-party clients for online services",
+        "childrens": [
+            {
+                "title": "Caprine",
+                "href": "https://github.com/sindresorhus/caprine/",
+                "github": "sindresorhus/caprine/",
+                "type": "github"
+            },
+            {
+                "title": "PB for Desktop",
+                "href": "https://github.com/sidneys/pb-for-desktop",
+                "github": "sidneys/pb-for-desktop",
+                "type": "github"
+            },
+            {
+                "title": "ramme",
+                "href": "https://github.com/terkelg/ramme",
+                "github": "terkelg/ramme",
+                "type": "github"
+            },
+            {
+                "title": "ScudCloud",
+                "href": "https://github.com/raelgc/scudcloud/",
+                "github": "raelgc/scudcloud/",
+                "type": "github"
+            },
+            {
+                "title": "Whatever",
+                "href": "https://github.com/CellarD0-0r/whatever",
+                "github": "CellarD0-0r/whatever",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package management and creation tools",
+        "childrens": [
+            {
+                "title": "Aura",
+                "href": "https://github.com/aurapm/aura",
+                "github": "aurapm/aura",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package management and creation tools",
+        "childrens": [
+            {
+                "title": "AppImageKit",
+                "href": "https://github.com/probonopd/AppImageKit",
+                "github": "probonopd/AppImageKit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Console-based Applications",
+        "childrens": [
+            {
+                "title": "fuck",
+                "href": "https://github.com/nvbn/thefuck",
+                "github": "nvbn/thefuck",
+                "type": "github"
+            },
+            {
+                "title": "ranger",
+                "href": "https://github.com/ranger/ranger",
+                "github": "ranger/ranger",
+                "type": "github"
+            },
+            {
+                "title": "screenFetch",
+                "href": "https://github.com/KittyKatt/screenFetch",
+                "github": "KittyKatt/screenFetch",
+                "type": "github"
+            },
+            {
+                "title": "speed-test",
+                "href": "https://github.com/sindresorhus/speed-test",
+                "github": "sindresorhus/speed-test",
+                "type": "github"
+            },
+            {
+                "title": "wavemon",
+                "href": "https://github.com/uoaerg/wavemon",
+                "github": "uoaerg/wavemon",
+                "type": "github"
+            },
+            {
+                "title": "youtube-dl",
+                "href": "https://github.com/rg3/youtube-dl",
+                "github": "rg3/youtube-dl",
+                "type": "github"
+            }
+        ]
+    }
+]

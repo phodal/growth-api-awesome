@@ -1,0 +1,342 @@
+[
+    {
+        "heading": "API Wrapper",
+        "childrens": [
+            {
+                "title": "PSGitHub",
+                "href": "https://github.com/pcgeek86/PSGitHub",
+                "github": "pcgeek86/PSGitHub",
+                "type": "github"
+            },
+            {
+                "title": "Posh-Github",
+                "href": "https://github.com/Iristyle/Posh-GitHub",
+                "github": "Iristyle/Posh-GitHub",
+                "type": "github"
+            },
+            {
+                "title": "Posh-Gist",
+                "href": "https://github.com/dfinke/Posh-Gist",
+                "github": "dfinke/Posh-Gist",
+                "type": "github"
+            },
+            {
+                "title": "PSGist",
+                "href": "https://github.com/dotps1/PSGist",
+                "github": "dotps1/PSGist",
+                "type": "github"
+            },
+            {
+                "title": "PSAppVeyor",
+                "href": "https://github.com/dotps1/PSAppVeyor",
+                "github": "dotps1/PSAppVeyor",
+                "type": "github"
+            },
+            {
+                "title": "PSSlack",
+                "href": "https://github.com/RamblingCookieMonster/PSSlack",
+                "github": "RamblingCookieMonster/PSSlack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build Tools",
+        "childrens": [
+            {
+                "title": "psake",
+                "href": "https://github.com/psake/psake",
+                "github": "psake/psake",
+                "type": "github"
+            },
+            {
+                "title": "Invoke-Build",
+                "href": "https://github.com/nightroman/Invoke-Build",
+                "github": "nightroman/Invoke-Build",
+                "type": "github"
+            },
+            {
+                "title": "PSDeploy",
+                "href": "https://github.com/RamblingCookieMonster/PSDeploy",
+                "github": "RamblingCookieMonster/PSDeploy",
+                "type": "github"
+            },
+            {
+                "title": "BuildHelpers",
+                "href": "https://github.com/RamblingCookieMonster/BuildHelpers",
+                "github": "RamblingCookieMonster/BuildHelpers",
+                "type": "github"
+            },
+            {
+                "title": "YDeliver",
+                "href": "https://github.com/manojlds/YDeliver",
+                "github": "manojlds/YDeliver",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code and Package Repositories",
+        "childrens": [
+            {
+                "title": "GitHub",
+                "href": "https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories",
+                "github": "search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Commandline Productivity",
+        "childrens": [
+            {
+                "title": "posh-git",
+                "href": "https://github.com/dahlbyk/posh-git",
+                "github": "dahlbyk/posh-git",
+                "type": "github"
+            },
+            {
+                "title": "PSReadLine",
+                "href": "https://github.com/lzybkr/PSReadLine",
+                "github": "lzybkr/PSReadLine",
+                "type": "github"
+            },
+            {
+                "title": "TabExpansionPlusPlus",
+                "href": "https://github.com/lzybkr/TabExpansionPlusPlus",
+                "github": "lzybkr/TabExpansionPlusPlus",
+                "type": "github"
+            },
+            {
+                "title": "Jump-Location",
+                "href": "https://github.com/tkellogg/Jump-Location",
+                "github": "tkellogg/Jump-Location",
+                "type": "github"
+            },
+            {
+                "title": "Zlocation",
+                "href": "https://github.com/vors/ZLocation",
+                "github": "vors/ZLocation",
+                "type": "github"
+            },
+            {
+                "title": "thefuck",
+                "href": "https://github.com/nvbn/thefuck",
+                "github": "nvbn/thefuck",
+                "type": "github"
+            },
+            {
+                "title": "pslinq",
+                "href": "https://github.com/manojlds/pslinq",
+                "github": "manojlds/pslinq",
+                "type": "github"
+            },
+            {
+                "title": "posh-with",
+                "href": "https://github.com/JanJoris/posh-with",
+                "github": "JanJoris/posh-with",
+                "type": "github"
+            },
+            {
+                "title": "poco",
+                "href": "https://gist.github.com/yumura/8df37c22ae1b7942dec7",
+                "github": ".com/yumura/8df37c22ae1b7942dec7",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation Helper",
+        "childrens": [
+            {
+                "title": "platyPS",
+                "href": "https://github.com/PowerShell/platyPS",
+                "github": "PowerShell/platyPS",
+                "type": "github"
+            },
+            {
+                "title": "Invoke-CreateModuleHelpFile",
+                "href": "https://github.com/gravejester/Invoke-CreateModuleHelpFile",
+                "github": "gravejester/Invoke-CreateModuleHelpFile",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editors and IDEs",
+        "childrens": [
+            {
+                "title": "PoshTools for Visual Studio",
+                "href": "https://github.com/adamdriscoll/PoshTools",
+                "github": "adamdriscoll/PoshTools",
+                "type": "github"
+            },
+            {
+                "title": "SublimeText package",
+                "href": "https://github.com/SublimeText/PowerShell",
+                "github": "SublimeText/PowerShell",
+                "type": "github"
+            },
+            {
+                "title": "Atom package",
+                "href": "https://github.com/jugglingnutcase/language-powershell",
+                "github": "jugglingnutcase/language-powershell",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Frameworks",
+        "childrens": [
+            {
+                "title": "PowerShell PowerUp",
+                "href": "https://github.com/janikvonrotz/PowerShell-PowerUp",
+                "github": "janikvonrotz/PowerShell-PowerUp",
+                "type": "github"
+            },
+            {
+                "title": "PlatyPS",
+                "href": "https://github.com/PowerShell/platyPS",
+                "github": "PowerShell/platyPS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package Managers",
+        "childrens": [
+            {
+                "title": "PowershellGet",
+                "href": "https://github.com/powershell/powershellget",
+                "github": "powershell/powershellget",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Parallel Processing",
+        "childrens": [
+            {
+                "title": "PoshRSJob",
+                "href": "https://github.com/proxb/PoshRSJob",
+                "github": "proxb/PoshRSJob",
+                "type": "github"
+            },
+            {
+                "title": "Invoke-Parallel",
+                "href": "https://github.com/RamblingCookieMonster/Invoke-Parallel",
+                "github": "RamblingCookieMonster/Invoke-Parallel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "PowerShellArsenal",
+                "href": "https://github.com/mattifestation/PowerShellArsenal",
+                "github": "mattifestation/PowerShellArsenal",
+                "type": "github"
+            },
+            {
+                "title": "PowerTools",
+                "href": "https://github.com/Veil-Framework/PowerTools",
+                "github": "Veil-Framework/PowerTools",
+                "type": "github"
+            },
+            {
+                "title": "PowerForensics",
+                "href": "https://github.com/Invoke-IR/PowerForensics",
+                "github": "Invoke-IR/PowerForensics",
+                "type": "github"
+            },
+            {
+                "title": "PowerSploit",
+                "href": "https://github.com/PowerShellMafia/PowerSploit",
+                "github": "PowerShellMafia/PowerSploit",
+                "type": "github"
+            },
+            {
+                "title": "PowerShellEmpire",
+                "href": "https://github.com/PowerShellEmpire/Empire",
+                "github": "PowerShellEmpire/Empire",
+                "type": "github"
+            },
+            {
+                "title": "PSReflect",
+                "href": "https://github.com/mattifestation/PSReflect",
+                "github": "mattifestation/PSReflect",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Pester",
+                "href": "https://github.com/pester/Pester",
+                "github": "pester/Pester",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Themes",
+        "childrens": [
+            {
+                "title": "Oh-My-Posh",
+                "href": "https://github.com/JanJoris/oh-my-posh",
+                "github": "JanJoris/oh-my-posh",
+                "type": "github"
+            },
+            {
+                "title": "Powerline",
+                "href": "https://github.com/Jaykul/PowerLine",
+                "github": "Jaykul/PowerLine",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Webserver",
+        "childrens": [
+            {
+                "title": "Flancy",
+                "href": "https://github.com/toenuff/flancy",
+                "github": "toenuff/flancy",
+                "type": "github"
+            },
+            {
+                "title": "NancyPS",
+                "href": "https://github.com/Jaykul/NancyPS",
+                "github": "Jaykul/NancyPS",
+                "type": "github"
+            },
+            {
+                "title": "WebCommander",
+                "href": "https://github.com/vmware/webcommander",
+                "github": "vmware/webcommander",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "poke",
+                "href": "https://github.com/oising/poke",
+                "github": "oising/poke",
+                "type": "github"
+            },
+            {
+                "title": "psInlineProgress",
+                "href": "https://github.com/gravejester/psInlineProgress",
+                "github": "gravejester/psInlineProgress",
+                "type": "github"
+            }
+        ]
+    }
+]

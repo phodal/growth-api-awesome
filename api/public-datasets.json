@@ -1,0 +1,391 @@
+[
+    {
+        "heading": "Awesome Public Datasets",
+        "childrens": [
+            {
+                "title": "Agriculture",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#agriculture",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#agriculture",
+                "type": "github"
+            },
+            {
+                "title": "Biology",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#biology",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#biology",
+                "type": "github"
+            },
+            {
+                "title": "Climate/Weather",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#climate-weather",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#climate-weather",
+                "type": "github"
+            },
+            {
+                "title": "Complex Networks",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#complex-networks",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#complex-networks",
+                "type": "github"
+            },
+            {
+                "title": "Computer Networks",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#computer-networks",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#computer-networks",
+                "type": "github"
+            },
+            {
+                "title": "Data Challenges",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#data-challenges",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#data-challenges",
+                "type": "github"
+            },
+            {
+                "title": "Earth Science",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#earth-science",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#earth-science",
+                "type": "github"
+            },
+            {
+                "title": "Economics",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#economics",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#economics",
+                "type": "github"
+            },
+            {
+                "title": "Education",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#education",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#education",
+                "type": "github"
+            },
+            {
+                "title": "Energy",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#energy",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#energy",
+                "type": "github"
+            },
+            {
+                "title": "Finance",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#finance",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#finance",
+                "type": "github"
+            },
+            {
+                "title": "GIS",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#gis",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#gis",
+                "type": "github"
+            },
+            {
+                "title": "Government",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#government",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#government",
+                "type": "github"
+            },
+            {
+                "title": "Healthcare",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#healthcare",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#healthcare",
+                "type": "github"
+            },
+            {
+                "title": "Image Processing",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#image-processing",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#image-processing",
+                "type": "github"
+            },
+            {
+                "title": "Machine Learning",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#machine-learning",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#machine-learning",
+                "type": "github"
+            },
+            {
+                "title": "Museums",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#museums",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#museums",
+                "type": "github"
+            },
+            {
+                "title": "Natural Language",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#natural-language",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#natural-language",
+                "type": "github"
+            },
+            {
+                "title": "Neuroscience",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#neuroscience",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#neuroscience",
+                "type": "github"
+            },
+            {
+                "title": "Physics",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#physics",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#physics",
+                "type": "github"
+            },
+            {
+                "title": "Psychology/Cognition",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#psychology-cognition",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#psychology-cognition",
+                "type": "github"
+            },
+            {
+                "title": "Public Domains",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#public-domains",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#public-domains",
+                "type": "github"
+            },
+            {
+                "title": "Search Engines",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#search-engines",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#search-engines",
+                "type": "github"
+            },
+            {
+                "title": "Social Networks",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#social-networks",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#social-networks",
+                "type": "github"
+            },
+            {
+                "title": "Social Sciences",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#social-sciences",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#social-sciences",
+                "type": "github"
+            },
+            {
+                "title": "Software",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#software",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#software",
+                "type": "github"
+            },
+            {
+                "title": "Sports",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#sports",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#sports",
+                "type": "github"
+            },
+            {
+                "title": "Time Series",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#time-series",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#time-series",
+                "type": "github"
+            },
+            {
+                "title": "Transportation",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#transportation",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#transportation",
+                "type": "github"
+            },
+            {
+                "title": "Complementary Collections",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst#complementary-collections",
+                "github": "caesar0301/awesome-public-datasets/blob/master/README.rst#complementary-collections",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "American Gut (Microbiome Project)",
+                "href": "https://github.com/biocore/American-Gut",
+                "github": "biocore/American-Gut",
+                "type": "github"
+            },
+            {
+                "title": "Global Biotic Interactions (GloBI)",
+                "href": "https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data",
+                "github": "jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Bruteforce Database",
+                "href": "https://github.com/duyetdev/bruteforce-database",
+                "github": "duyetdev/bruteforce-database",
+                "type": "github"
+            },
+            {
+                "title": "Localytics Data Visualization Challenge",
+                "href": "https://github.com/localytics/data-viz-challenge",
+                "github": "localytics/data-viz-challenge",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "List of all countries in all languages",
+                "href": "https://github.com/umpirsky/country-list",
+                "github": "umpirsky/country-list",
+                "type": "github"
+            },
+            {
+                "title": "Reverse Geocoder using OSM data",
+                "href": "https://github.com/kno10/reversegeocode",
+                "github": "kno10/reversegeocode",
+                "type": "github"
+            },
+            {
+                "title": "TwoFishes - Foursquare's coarse geocoder",
+                "href": "https://github.com/foursquare/twofishes",
+                "github": "foursquare/twofishes",
+                "type": "github"
+            },
+            {
+                "title": "World countries in multiple formats",
+                "href": "https://github.com/mledoze/countries",
+                "github": "mledoze/countries",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "A list of cities and countries contributed by community",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst",
+                "github": "caesar0301/awesome-public-datasets/blob/master/Government.rst",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Context-aware data sets from five domains",
+                "href": "https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets",
+                "github": "irecsys/CARSKit/tree/master/context-aware_data_sets",
+                "type": "github"
+            },
+            {
+                "title": "New Yorker caption contest ratings",
+                "href": "https://github.com/nextml/caption-contest-data",
+                "github": "nextml/caption-contest-data",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Cooper-Hewitt's Collection Database",
+                "href": "https://github.com/cooperhewitt/collection",
+                "github": "cooperhewitt/collection",
+                "type": "github"
+            },
+            {
+                "title": "Minneapolis Institute of Arts metadata",
+                "href": "https://github.com/artsmia/collection",
+                "github": "artsmia/collection",
+                "type": "github"
+            },
+            {
+                "title": "Tate Collection metadata",
+                "href": "https://github.com/tategallery/collection",
+                "github": "tategallery/collection",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Automatic Keyphrase Extracttion",
+                "href": "https://github.com/snkim/AutomaticKeyphraseExtraction/",
+                "github": "snkim/AutomaticKeyphraseExtraction/",
+                "type": "github"
+            },
+            {
+                "title": "Google MC-AFP, generated based on the public available Gigaword dataset using Paragraph Vectors",
+                "href": "https://github.com/google/mcafp",
+                "github": "google/mcafp",
+                "type": "github"
+            },
+            {
+                "title": "SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles)",
+                "href": "https://github.com/ParallelMazen/SaudiNewsNet",
+                "github": "ParallelMazen/SaudiNewsNet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Skytrax' Air Travel Reviews Dataset",
+                "href": "https://github.com/quankiquanki/skytrax-reviews-dataset",
+                "github": "quankiquanki/skytrax-reviews-dataset",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "FBI Hate Crime 2013 - aggregated data",
+                "href": "https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013",
+                "github": "emorisse/FBI-Hate-Crime-Statistics/tree/master/2013",
+                "type": "github"
+            },
+            {
+                "title": "Titanic Survival Data Set",
+                "href": "https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets",
+                "github": "caesar0301/awesome-public-datasets/tree/master/Datasets",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Pinhooker: Thoroughbred Bloodstock Sale Data",
+                "href": "https://github.com/phillc73/pinhooker",
+                "github": "phillc73/pinhooker",
+                "type": "github"
+            },
+            {
+                "title": "Tennis database of rankings, results, and stats for ATP",
+                "href": "https://github.com/JeffSackmann/tennis_atp",
+                "github": "JeffSackmann/tennis_atp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Bike Share Systems (BSS) collection",
+                "href": "https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems",
+                "github": "BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems",
+                "type": "github"
+            },
+            {
+                "title": "NYC Uber trip data April 2014 to September 2014",
+                "href": "https://github.com/fivethirtyeight/uber-tlc-foil-response",
+                "github": "fivethirtyeight/uber-tlc-foil-response",
+                "type": "github"
+            },
+            {
+                "title": "Open Traffic collection",
+                "href": "https://github.com/graphhopper/open-traffic-collection",
+                "github": "graphhopper/open-traffic-collection",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Data Packaged Core Datasets",
+                "href": "https://github.com/datasets/",
+                "github": "datasets/",
+                "type": "github"
+            }
+        ]
+    }
+]

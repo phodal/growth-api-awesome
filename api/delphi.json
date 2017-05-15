@@ -1,0 +1,894 @@
+[
+    {
+        "heading": "General Libraries",
+        "childrens": [
+            {
+                "title": "JCL",
+                "href": "https://github.com/project-jedi/jcl",
+                "github": "project-jedi/jcl",
+                "type": "github"
+            },
+            {
+                "title": "JVCL",
+                "href": "https://github.com/project-jedi/jvcl",
+                "github": "project-jedi/jvcl",
+                "type": "github"
+            },
+            {
+                "title": "TheUnknownOnes",
+                "href": "https://github.com/chaosben/theunknownones",
+                "github": "chaosben/theunknownones",
+                "type": "github"
+            },
+            {
+                "title": "CNVCL",
+                "href": "https://github.com/cnpack/cnvcl",
+                "github": "cnpack/cnvcl",
+                "type": "github"
+            },
+            {
+                "title": "mORMot",
+                "href": "https://github.com/synopse/mORMot",
+                "github": "synopse/mORMot",
+                "type": "github"
+            },
+            {
+                "title": "MARS - Curiosity",
+                "href": "https://github.com/andrea-magni/MARS",
+                "github": "andrea-magni/MARS",
+                "type": "github"
+            },
+            {
+                "title": "LKSL",
+                "href": "https://github.com/LaKraven/LKSL",
+                "github": "LaKraven/LKSL",
+                "type": "github"
+            },
+            {
+                "title": "Redux Delphi",
+                "href": "https://github.com/pierrejean-coudert/ReduxDelphi",
+                "github": "pierrejean-coudert/ReduxDelphi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video",
+        "childrens": [
+            {
+                "title": "Delphi-OpenCV",
+                "href": "https://github.com/Laex/Delphi-OpenCV",
+                "github": "Laex/Delphi-OpenCV",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graphic",
+        "childrens": [
+            {
+                "title": "Graphics32",
+                "href": "https://github.com/graphics32/graphics32",
+                "github": "graphics32/graphics32",
+                "type": "github"
+            },
+            {
+                "title": "Synopse PDF",
+                "href": "https://github.com/synopse/SynPDF",
+                "github": "synopse/SynPDF",
+                "type": "github"
+            },
+            {
+                "title": "PowerPDF",
+                "href": "https://github.com/TurboPack/PowerPDF",
+                "github": "TurboPack/PowerPDF",
+                "type": "github"
+            },
+            {
+                "title": "SynGdiPlus",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynGdiPlus.pas",
+                "github": "synopse/mORMot/blob/master/SynGdiPlus.pas",
+                "type": "github"
+            },
+            {
+                "title": "mORMotReport",
+                "href": "https://github.com/synopse/mORMot/blob/master/SQLite3/mORMotReport.pas",
+                "github": "synopse/mORMot/blob/master/SQLite3/mORMotReport.pas",
+                "type": "github"
+            },
+            {
+                "title": "Transparent-canvas",
+                "href": "https://github.com/vintagedave/transparent-canvas",
+                "github": "vintagedave/transparent-canvas",
+                "type": "github"
+            },
+            {
+                "title": "Fully-justified-text",
+                "href": "https://github.com/vintagedave/fully-justified-text",
+                "github": "vintagedave/fully-justified-text",
+                "type": "github"
+            },
+            {
+                "title": "AsciiImage",
+                "href": "https://github.com/Memnarch/AsciiImage",
+                "github": "Memnarch/AsciiImage",
+                "type": "github"
+            },
+            {
+                "title": "AggPasMod",
+                "href": "https://github.com/CWBudde/AggPasMod",
+                "github": "CWBudde/AggPasMod",
+                "type": "github"
+            },
+            {
+                "title": "delphi-shader",
+                "href": "https://github.com/WouterVanNifterick/delphi-shader",
+                "github": "WouterVanNifterick/delphi-shader",
+                "type": "github"
+            },
+            {
+                "title": "dglOpenGL",
+                "href": "https://github.com/SaschaWillems/dglOpenGL",
+                "github": "SaschaWillems/dglOpenGL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game dev",
+        "childrens": [
+            {
+                "title": "RecastNavigation",
+                "href": "https://github.com/Kromster80/RecastNavigationDelphi",
+                "github": "Kromster80/RecastNavigationDelphi",
+                "type": "github"
+            },
+            {
+                "title": "Kraft Physics Engine",
+                "href": "https://github.com/BeRo1985/kraft",
+                "github": "BeRo1985/kraft",
+                "type": "github"
+            },
+            {
+                "title": "ZenGL",
+                "href": "https://github.com/andru-kun/zengl",
+                "github": "andru-kun/zengl",
+                "type": "github"
+            },
+            {
+                "title": "CrystalPathFinding",
+                "href": "https://github.com/d-mozulyov/CrystalPathFinding",
+                "github": "d-mozulyov/CrystalPathFinding",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Network",
+        "childrens": [
+            {
+                "title": "SynCrtSock",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynCrtSock.pas",
+                "github": "synopse/mORMot/blob/master/SynCrtSock.pas",
+                "type": "github"
+            },
+            {
+                "title": "DMVCFramework",
+                "href": "https://github.com/danieleteti/delphimvcframework",
+                "github": "danieleteti/delphimvcframework",
+                "type": "github"
+            },
+            {
+                "title": "Delphi IOCP",
+                "href": "https://github.com/ymofen/diocp-v5",
+                "github": "ymofen/diocp-v5",
+                "type": "github"
+            },
+            {
+                "title": "delphi-aws-ses",
+                "href": "https://github.com/monde-sistemas/delphi-aws-ses",
+                "github": "monde-sistemas/delphi-aws-ses",
+                "type": "github"
+            },
+            {
+                "title": "delphi-slackbot",
+                "href": "https://github.com/monde-sistemas/delphi-slackbot",
+                "github": "monde-sistemas/delphi-slackbot",
+                "type": "github"
+            },
+            {
+                "title": "Kitto",
+                "href": "https://github.com/nandod/kitto",
+                "github": "nandod/kitto",
+                "type": "github"
+            },
+            {
+                "title": "Daraja Framework",
+                "href": "https://github.com/michaelJustin/daraja-framework",
+                "github": "michaelJustin/daraja-framework",
+                "type": "github"
+            },
+            {
+                "title": "SDriver",
+                "href": "https://github.com/andrea-magni/SDriver",
+                "github": "andrea-magni/SDriver",
+                "type": "github"
+            },
+            {
+                "title": "Hprose for Delphi/Lazarus",
+                "href": "https://github.com/hprose/hprose-delphi",
+                "github": "hprose/hprose-delphi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Control packs",
+        "childrens": [
+            {
+                "title": "Essentials",
+                "href": "https://github.com/TurboPack/Essentials",
+                "github": "TurboPack/Essentials",
+                "type": "github"
+            },
+            {
+                "title": "FreeEsVCLComponents",
+                "href": "https://github.com/errorcalc/FreeEsVCLComponents",
+                "github": "errorcalc/FreeEsVCLComponents",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Single controls",
+        "childrens": [
+            {
+                "title": "VirtualTreeView",
+                "href": "https://github.com/Virtual-TreeView/Virtual-TreeView",
+                "github": "Virtual-TreeView/Virtual-TreeView",
+                "type": "github"
+            },
+            {
+                "title": "Delphi Chromium Embedded",
+                "href": "https://github.com/hgourvest/dcef3/commits/master",
+                "github": "hgourvest/dcef3/commits/master",
+                "type": "github"
+            },
+            {
+                "title": "TChromeTabs",
+                "href": "https://github.com/norgepaul/tchrometabs",
+                "github": "norgepaul/tchrometabs",
+                "type": "github"
+            },
+            {
+                "title": "TFrameStand",
+                "href": "https://github.com/andrea-magni/TFrameStand",
+                "github": "andrea-magni/TFrameStand",
+                "type": "github"
+            },
+            {
+                "title": "TPrintPreview",
+                "href": "https://github.com/landrix/TPrintPreview-for-Delphi",
+                "github": "landrix/TPrintPreview-for-Delphi",
+                "type": "github"
+            },
+            {
+                "title": "TTreeListView",
+                "href": "http://github.com/benibela/treelistview",
+                "github": "enibela/treelistview",
+                "type": "github"
+            },
+            {
+                "title": "neTabControl",
+                "href": "https://github.com/jkour/neTabControl",
+                "github": "jkour/neTabControl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editors",
+        "childrens": [
+            {
+                "title": "BCEditor",
+                "href": "https://github.com/bonecode/BCEditor",
+                "github": "bonecode/BCEditor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Viewers",
+        "childrens": [
+            {
+                "title": "HtmlViewer",
+                "href": "https://github.com/BerndGabriel/HtmlViewer",
+                "github": "BerndGabriel/HtmlViewer",
+                "type": "github"
+            },
+            {
+                "title": "SciDe",
+                "href": "https://github.com/da-baranov/SciDe",
+                "github": "da-baranov/SciDe",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other GUI",
+        "childrens": [
+            {
+                "title": "VCL Styles Utils",
+                "href": "https://github.com/rruz/vcl-styles-utils",
+                "github": "rruz/vcl-styles-utils",
+                "type": "github"
+            },
+            {
+                "title": "TaskbarListComponents",
+                "href": "https://github.com/chaosben/theunknownones",
+                "github": "chaosben/theunknownones",
+                "type": "github"
+            },
+            {
+                "title": "TFireMonkeyContainer",
+                "href": "https://github.com/vintagedave/firemonkey-container",
+                "github": "vintagedave/firemonkey-container",
+                "type": "github"
+            },
+            {
+                "title": "Windows Ribbon Framework for Delphi",
+                "href": "https://github.com/turbopack/ribbonframework",
+                "github": "turbopack/ribbonframework",
+                "type": "github"
+            },
+            {
+                "title": "DKLang",
+                "href": "https://github.com/yktoo/dklang",
+                "github": "yktoo/dklang",
+                "type": "github"
+            },
+            {
+                "title": "SynTaskDialog",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynTaskDialog.pas",
+                "github": "synopse/mORMot/blob/master/SynTaskDialog.pas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "Unified Interbase",
+                "href": "https://github.com/hgourvest/uib",
+                "github": "hgourvest/uib",
+                "type": "github"
+            },
+            {
+                "title": "ASQLite",
+                "href": "https://github.com/remobjects/ASQLite3",
+                "github": "remobjects/ASQLite3",
+                "type": "github"
+            },
+            {
+                "title": "TxQuery",
+                "href": "https://github.com/ccy/txquery",
+                "github": "ccy/txquery",
+                "type": "github"
+            },
+            {
+                "title": "SynDB",
+                "href": "https://github.com/synopse/mORMot",
+                "github": "synopse/mORMot",
+                "type": "github"
+            },
+            {
+                "title": "SynMongoDB",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynMongoDB.pas",
+                "github": "synopse/mORMot/blob/master/SynMongoDB.pas",
+                "type": "github"
+            },
+            {
+                "title": "ghORM",
+                "href": "https://github.com/leledumbo/ghORM",
+                "github": "leledumbo/ghORM",
+                "type": "github"
+            },
+            {
+                "title": "Redis client",
+                "href": "https://github.com/danieleteti/delphiredisclient",
+                "github": "danieleteti/delphiredisclient",
+                "type": "github"
+            },
+            {
+                "title": "SynBigTable",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynBigTable.pas",
+                "github": "synopse/mORMot/blob/master/SynBigTable.pas",
+                "type": "github"
+            },
+            {
+                "title": "tiOPF",
+                "href": "https://github.com/graemeg/tiopf",
+                "github": "graemeg/tiopf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scripting",
+        "childrens": [
+            {
+                "title": "Pascal Script",
+                "href": "https://github.com/remobjects/pascalscript",
+                "github": "remobjects/pascalscript",
+                "type": "github"
+            },
+            {
+                "title": "SpiderMonkey",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynSM.pas",
+                "github": "synopse/mORMot/blob/master/SynSM.pas",
+                "type": "github"
+            },
+            {
+                "title": "BESEN",
+                "href": "https://github.com/BeRo1985/besen",
+                "github": "BeRo1985/besen",
+                "type": "github"
+            },
+            {
+                "title": "Python for Delphi (P4D)",
+                "href": "https://github.com/pyscripter/python4delphi",
+                "github": "pyscripter/python4delphi",
+                "type": "github"
+            },
+            {
+                "title": "CrystalLUA",
+                "href": "https://github.com/d-mozulyov/CrystalLUA",
+                "github": "d-mozulyov/CrystalLUA",
+                "type": "github"
+            },
+            {
+                "title": "lua4delphi",
+                "href": "https://github.com/danieleteti/lua4delphi",
+                "github": "danieleteti/lua4delphi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compression",
+        "childrens": [
+            {
+                "title": "FWZip",
+                "href": "https://github.com/AlexanderBagel/FWZip",
+                "github": "AlexanderBagel/FWZip",
+                "type": "github"
+            },
+            {
+                "title": "SynLZ SynLZO SynZip PasZip",
+                "href": "https://github.com/synopse/mORMot",
+                "github": "synopse/mORMot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Encryption",
+        "childrens": [
+            {
+                "title": "Delphi Encryption Compendium (DEC)",
+                "href": "https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases",
+                "github": "winkelsdorf/DelphiEncryptionCompendium/releases",
+                "type": "github"
+            },
+            {
+                "title": "SynCrypto",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynCrypto.pas",
+                "github": "synopse/mORMot/blob/master/SynCrypto.pas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "XML/JSON/YAML",
+        "childrens": [
+            {
+                "title": "SuperObject",
+                "href": "https://github.com/hgourvest/superobject",
+                "github": "hgourvest/superobject",
+                "type": "github"
+            },
+            {
+                "title": "Delphi-XmlLite",
+                "href": "https://github.com/the-Arioch/Delphi-XmlLite",
+                "github": "the-Arioch/Delphi-XmlLite",
+                "type": "github"
+            },
+            {
+                "title": "SynCommons",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynCommons.pas",
+                "github": "synopse/mORMot/blob/master/SynCommons.pas",
+                "type": "github"
+            },
+            {
+                "title": "SynCrossPlatformJSON",
+                "href": "https://github.com/synopse/mORMot/blob/master/CrossPlatform/SynCrossPlatformJSON.pas",
+                "github": "synopse/mORMot/blob/master/CrossPlatform/SynCrossPlatformJSON.pas",
+                "type": "github"
+            },
+            {
+                "title": "Json Data Objects",
+                "href": "https://github.com/ahausladen/JsonDataObjects",
+                "github": "ahausladen/JsonDataObjects",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Language",
+        "childrens": [
+            {
+                "title": "Next Delphi Yacc & Lex",
+                "href": "https://github.com/RomanYankovsky/ndyacclex",
+                "github": "RomanYankovsky/ndyacclex",
+                "type": "github"
+            },
+            {
+                "title": "Abstract Syntax Tree Builder",
+                "href": "https://github.com/RomanYankovsky/DelphiAST",
+                "github": "RomanYankovsky/DelphiAST",
+                "type": "github"
+            },
+            {
+                "title": "Castalia-Delphi-Parser",
+                "href": "https://github.com/jacobthurman/Castalia-Delphi-Parser",
+                "github": "jacobthurman/Castalia-Delphi-Parser",
+                "type": "github"
+            },
+            {
+                "title": "CrossPascal",
+                "href": "https://github.com/BeRo1985/crosspascal",
+                "github": "BeRo1985/crosspascal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Memory managers",
+        "childrens": [
+            {
+                "title": "FastMM",
+                "href": "https://github.com/pleriche/FastMM4",
+                "github": "pleriche/FastMM4",
+                "type": "github"
+            },
+            {
+                "title": "ScaleMM",
+                "href": "https://github.com/andremussche/scalemm",
+                "github": "andremussche/scalemm",
+                "type": "github"
+            },
+            {
+                "title": "BrainMM",
+                "href": "https://github.com/d-mozulyov/BrainMM",
+                "github": "d-mozulyov/BrainMM",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "System",
+        "childrens": [
+            {
+                "title": "OmniThreadLibrary",
+                "href": "https://github.com/gabr42/OmniThreadLibrary",
+                "github": "gabr42/OmniThreadLibrary",
+                "type": "github"
+            },
+            {
+                "title": "Delphi Detours Library",
+                "href": "https://github.com/mahdisafsafi/delphi-detours-library",
+                "github": "mahdisafsafi/delphi-detours-library",
+                "type": "github"
+            },
+            {
+                "title": "MemoryModule",
+                "href": "https://github.com/Fr0sT-Brutal/Delphi_MemoryModule",
+                "github": "Fr0sT-Brutal/Delphi_MemoryModule",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Template",
+        "childrens": [
+            {
+                "title": "SynMustache",
+                "href": "https://github.com/synopse/dmustache",
+                "github": "synopse/dmustache",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "Log4d",
+                "href": "https://github.com/landrix/Log4d-for-Delphi",
+                "github": "landrix/Log4d-for-Delphi",
+                "type": "github"
+            },
+            {
+                "title": "LoggerPro",
+                "href": "https://github.com/danieleteti/loggerpro",
+                "github": "danieleteti/loggerpro",
+                "type": "github"
+            },
+            {
+                "title": "SynLog",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynLog.pas",
+                "github": "synopse/mORMot/blob/master/SynLog.pas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other non-visual",
+        "childrens": [
+            {
+                "title": "TRegExpr",
+                "href": "https://github.com/ashumkin/RegExpr",
+                "github": "ashumkin/RegExpr",
+                "type": "github"
+            },
+            {
+                "title": "FLRE",
+                "href": "https://github.com/BeRo1985/flre",
+                "github": "BeRo1985/flre",
+                "type": "github"
+            },
+            {
+                "title": "StringSimilarity",
+                "href": "https://github.com/chaosben/theunknownones",
+                "github": "chaosben/theunknownones",
+                "type": "github"
+            },
+            {
+                "title": "STOMP Client",
+                "href": "https://github.com/danieleteti/delphistompclient",
+                "github": "danieleteti/delphistompclient",
+                "type": "github"
+            },
+            {
+                "title": "byterage",
+                "href": "https://github.com/quartexNOR/byterage",
+                "github": "quartexNOR/byterage",
+                "type": "github"
+            },
+            {
+                "title": "stateless",
+                "href": "https://github.com/SirRufo/stateless",
+                "github": "SirRufo/stateless",
+                "type": "github"
+            },
+            {
+                "title": "GenericTree",
+                "href": "https://github.com/davidberneda/GenericTree",
+                "github": "davidberneda/GenericTree",
+                "type": "github"
+            },
+            {
+                "title": "Delphi Event Bus",
+                "href": "https://github.com/spinettaro/delphi-event-bus",
+                "github": "spinettaro/delphi-event-bus",
+                "type": "github"
+            },
+            {
+                "title": "DHibernate",
+                "href": "https://github.com/thecocce/delphi-hibernate",
+                "github": "thecocce/delphi-hibernate",
+                "type": "github"
+            },
+            {
+                "title": "UniConv",
+                "href": "https://github.com/d-mozulyov/UniConv",
+                "github": "d-mozulyov/UniConv",
+                "type": "github"
+            },
+            {
+                "title": "CachedBuffers",
+                "href": "https://github.com/d-mozulyov/CachedBuffers",
+                "github": "d-mozulyov/CachedBuffers",
+                "type": "github"
+            },
+            {
+                "title": "CachedTexts",
+                "href": "https://github.com/d-mozulyov/CachedTexts",
+                "github": "d-mozulyov/CachedTexts",
+                "type": "github"
+            },
+            {
+                "title": "ZEXMLSS",
+                "href": "https://github.com/Avemey/zexmlss",
+                "github": "Avemey/zexmlss",
+                "type": "github"
+            },
+            {
+                "title": "PasMP",
+                "href": "https://github.com/BeRo1985/pasmp",
+                "github": "BeRo1985/pasmp",
+                "type": "github"
+            },
+            {
+                "title": "TCommandLineReader",
+                "href": "https://github.com/benibela/rcmdline",
+                "github": "benibela/rcmdline",
+                "type": "github"
+            },
+            {
+                "title": "Big Decimal Math",
+                "href": "https://github.com/benibela/bigdecimalmath",
+                "github": "benibela/bigdecimalmath",
+                "type": "github"
+            },
+            {
+                "title": "CommandLineParser",
+                "href": "https://github.com/VSoftTechnologies/VSoft.CommandLineParser",
+                "github": "VSoftTechnologies/VSoft.CommandLineParser",
+                "type": "github"
+            },
+            {
+                "title": "GpCommandLineParser",
+                "href": "https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas",
+                "github": "gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas",
+                "type": "github"
+            },
+            {
+                "title": "GpDelphiUnits",
+                "href": "https://github.com/gabr42/GpDelphiUnits",
+                "github": "gabr42/GpDelphiUnits",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "OS",
+        "childrens": [
+            {
+                "title": "MemoryMap",
+                "href": "https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap",
+                "github": "AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap",
+                "type": "github"
+            },
+            {
+                "title": "The new Drag and Drop Component Suite",
+                "href": "https://github.com/DelphiPraxis/The-Drag-and-Drop-Component-Suite-for-Delphi",
+                "github": "DelphiPraxis/The-Drag-and-Drop-Component-Suite-for-Delphi",
+                "type": "github"
+            },
+            {
+                "title": "TSMBIOS",
+                "href": "https://github.com/RRUZ/tsmbios",
+                "github": "RRUZ/tsmbios",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Unit Testing",
+        "childrens": [
+            {
+                "title": "DUnitX",
+                "href": "https://github.com/VSoftTechnologies/DUnitX",
+                "github": "VSoftTechnologies/DUnitX",
+                "type": "github"
+            },
+            {
+                "title": "DelphiSpec",
+                "href": "https://github.com/RomanYankovsky/DelphiSpec",
+                "github": "RomanYankovsky/DelphiSpec",
+                "type": "github"
+            },
+            {
+                "title": "Delphi-Mocks",
+                "href": "https://github.com/VSoftTechnologies/Delphi-Mocks",
+                "github": "VSoftTechnologies/Delphi-Mocks",
+                "type": "github"
+            },
+            {
+                "title": "DUnit-XML",
+                "href": "https://github.com/VSoftTechnologies/DUnit-XML",
+                "github": "VSoftTechnologies/DUnit-XML",
+                "type": "github"
+            },
+            {
+                "title": "Smoketest",
+                "href": "https://github.com/deltics/delphi.libs/tree/master/smoketest",
+                "github": "deltics/delphi.libs/tree/master/smoketest",
+                "type": "github"
+            },
+            {
+                "title": "SynTests",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynTests.pas",
+                "github": "synopse/mORMot/blob/master/SynTests.pas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDE plugins/wizards",
+        "childrens": [
+            {
+                "title": "Delphi IDE theme editor / Delphi IDE Colorizer",
+                "href": "https://github.com/rruz/delphi-ide-theme-editor",
+                "github": "rruz/delphi-ide-theme-editor",
+                "type": "github"
+            },
+            {
+                "title": "CnWizards",
+                "href": "https://github.com/cnpack",
+                "github": "cnpack",
+                "type": "github"
+            },
+            {
+                "title": "ResEd",
+                "href": "https://github.com/chaosben/theunknownones",
+                "github": "chaosben/theunknownones",
+                "type": "github"
+            },
+            {
+                "title": "DelphiSettingManager",
+                "href": "https://github.com/Arvur/DelphiSettingManager",
+                "github": "Arvur/DelphiSettingManager",
+                "type": "github"
+            },
+            {
+                "title": "Delphinus",
+                "href": "https://github.com/Memnarch/Delphinus",
+                "github": "Memnarch/Delphinus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "SynProject",
+                "href": "https://github.com/synopse/SynProject",
+                "github": "synopse/SynProject",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "WMI Delphi Code Creator",
+                "href": "https://github.com/RRUZ/wmi-delphi-code-creator",
+                "github": "RRUZ/wmi-delphi-code-creator",
+                "type": "github"
+            },
+            {
+                "title": "Delphi Preview Handler",
+                "href": "https://github.com/RRUZ/delphi-preview-handler",
+                "github": "RRUZ/delphi-preview-handler",
+                "type": "github"
+            },
+            {
+                "title": "Delphi Dev. Shell Tools",
+                "href": "https://github.com/RRUZ/delphi-dev-shell-tools",
+                "github": "RRUZ/delphi-dev-shell-tools",
+                "type": "github"
+            },
+            {
+                "title": "Delphi.gitignore",
+                "href": "https://github.com/github/gitignore",
+                "github": "github/gitignore",
+                "type": "github"
+            }
+        ]
+    }
+]

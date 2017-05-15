@@ -1,0 +1,64 @@
+[
+    {
+        "heading": "Official",
+        "childrens": [
+            {
+                "title": "Source code",
+                "href": "https://github.com/microsoft/vscode",
+                "github": "microsoft/vscode",
+                "type": "github"
+            },
+            {
+                "title": "Monthly iteration plans",
+                "href": "https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+",
+                "github": "Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI",
+        "childrens": [
+            {
+                "title": "Essence",
+                "href": "https://github.com/flagello/Essence",
+                "github": "flagello/Essence",
+                "type": "github"
+            },
+            {
+                "title": "Pragmatic Essence",
+                "href": "https://github.com/orta/Essence",
+                "github": "orta/Essence",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "vscode-set-text",
+                "href": "https://github.com/samverschueren/vscode-set-text",
+                "github": "samverschueren/vscode-set-text",
+                "type": "github"
+            },
+            {
+                "title": "vscode-test-content",
+                "href": "https://github.com/mlewand-org/vscode-test-content",
+                "github": "mlewand-org/vscode-test-content",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Open in Code",
+                "href": "https://github.com/sozercan/OpenInCode",
+                "github": "sozercan/OpenInCode",
+                "type": "github"
+            }
+        ]
+    }
+]

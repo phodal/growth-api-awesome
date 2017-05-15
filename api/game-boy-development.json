@@ -1,0 +1,533 @@
+[
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "The Cycle-Accurate Game Boy Docs",
+                "href": "https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf",
+                "github": "AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf",
+                "type": "github"
+            },
+            {
+                "title": "GBSOUND.txt",
+                "href": "https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt",
+                "github": "bwhitman/pushpin/blob/master/src/gbsound.txt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Peripherals",
+        "childrens": [
+            {
+                "title": "Game Boy Camera RE",
+                "href": "https://github.com/AntonioND/gbcam-rev-engineer",
+                "github": "AntonioND/gbcam-rev-engineer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cartridges",
+        "childrens": [
+            {
+                "title": "AntonioND's docs",
+                "href": "https://github.com/AntonioND/giibiiadvance/tree/master/docs",
+                "github": "AntonioND/giibiiadvance/tree/master/docs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Open-source emulators",
+        "childrens": [
+            {
+                "title": "Mooneye-gb",
+                "href": "https://github.com/Gekkio/mooneye-gb",
+                "github": "Gekkio/mooneye-gb",
+                "type": "github"
+            },
+            {
+                "title": "php-terminal-Game Boy-emulator",
+                "href": "https://github.com/gabrielrcouto/php-terminal-gameboy-emulator",
+                "github": "gabrielrcouto/php-terminal-gameboy-emulator",
+                "type": "github"
+            },
+            {
+                "title": "gameboy-Online",
+                "href": "https://github.com/taisel/gameboy-Online",
+                "github": "taisel/gameboy-Online",
+                "type": "github"
+            },
+            {
+                "title": "cboy",
+                "href": "https://github.com/jkbenaim/cboy",
+                "github": "jkbenaim/cboy",
+                "type": "github"
+            },
+            {
+                "title": "weplay",
+                "href": "https://github.com/rauchg/weplay",
+                "github": "rauchg/weplay",
+                "type": "github"
+            },
+            {
+                "title": "giibiiadvance",
+                "href": "https://github.com/AntonioND/giibiiadvance",
+                "github": "AntonioND/giibiiadvance",
+                "type": "github"
+            },
+            {
+                "title": "GBE+",
+                "href": "https://github.com/shonumi/gbe-plus",
+                "github": "shonumi/gbe-plus",
+                "type": "github"
+            },
+            {
+                "title": "Sameboy",
+                "href": "https://github.com/LIJI32/SameBoy",
+                "github": "LIJI32/SameBoy",
+                "type": "github"
+            },
+            {
+                "title": "GameYob",
+                "href": "https://github.com/Drenn1/GameYob",
+                "github": "Drenn1/GameYob",
+                "type": "github"
+            },
+            {
+                "title": "oneup-gb",
+                "href": "https://github.com/oneup40/oneup-gb",
+                "github": "oneup40/oneup-gb",
+                "type": "github"
+            },
+            {
+                "title": "rustboy",
+                "href": "https://github.com/VelocityRa/rustboy",
+                "github": "VelocityRa/rustboy",
+                "type": "github"
+            },
+            {
+                "title": "Gearboy",
+                "href": "https://github.com/drhelius/Gearboy",
+                "github": "drhelius/Gearboy",
+                "type": "github"
+            },
+            {
+                "title": "AndroidGameBoyEmulator",
+                "href": "https://github.com/pedrovgs/AndroidGameBoyEmulator",
+                "github": "pedrovgs/AndroidGameBoyEmulator",
+                "type": "github"
+            },
+            {
+                "title": "GameLad",
+                "href": "https://github.com/Dooskington/GameLad",
+                "github": "Dooskington/GameLad",
+                "type": "github"
+            },
+            {
+                "title": "Wadatsumi",
+                "href": "https://github.com/arrow-lang/wadatsumi",
+                "github": "arrow-lang/wadatsumi",
+                "type": "github"
+            },
+            {
+                "title": "Binjgb",
+                "href": "https://github.com/binji/binjgb",
+                "github": "binji/binjgb",
+                "type": "github"
+            },
+            {
+                "title": "jgilchrist",
+                "href": "https://github.com/jgilchrist/emulator",
+                "github": "jgilchrist/emulator",
+                "type": "github"
+            },
+            {
+                "title": "gameboyGO",
+                "href": "https://github.com/gonccalo/gameboyGO",
+                "github": "gonccalo/gameboyGO",
+                "type": "github"
+            },
+            {
+                "title": "GameBoyEmulator-GBS",
+                "href": "https://github.com/Salgat/GameBoyEmulator-GBS",
+                "github": "Salgat/GameBoyEmulator-GBS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Assemblers",
+        "childrens": [
+            {
+                "title": "rgbds",
+                "href": "https://github.com/bentley/rgbds",
+                "github": "bentley/rgbds",
+                "type": "github"
+            },
+            {
+                "title": "wla-dx",
+                "href": "https://github.com/vhelin/wla-dx",
+                "github": "vhelin/wla-dx",
+                "type": "github"
+            },
+            {
+                "title": "gbasm",
+                "href": "https://github.com/BonsaiDen/gbasm",
+                "github": "BonsaiDen/gbasm",
+                "type": "github"
+            },
+            {
+                "title": "Assembler",
+                "href": "https://github.com/ulrikdamm/Assembler",
+                "github": "ulrikdamm/Assembler",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compilers",
+        "childrens": [
+            {
+                "title": "gbdk-osx",
+                "href": "https://github.com/x43x61x69/gbdk-osx",
+                "github": "x43x61x69/gbdk-osx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "ZGB",
+                "href": "https://github.com/Zal0/ZGB",
+                "github": "Zal0/ZGB",
+                "type": "github"
+            },
+            {
+                "title": "DevSound",
+                "href": "https://github.com/DevEd2/DevSound",
+                "github": "DevEd2/DevSound",
+                "type": "github"
+            },
+            {
+                "title": "rgbds_textmate",
+                "href": "https://github.com/Bananattack/rgbds_textmate",
+                "github": "Bananattack/rgbds_textmate",
+                "type": "github"
+            },
+            {
+                "title": "GBT PLAYER",
+                "href": "https://github.com/AntonioND/gbt-player",
+                "github": "AntonioND/gbt-player",
+                "type": "github"
+            },
+            {
+                "title": "gbcamextract",
+                "href": "https://github.com/jkbenaim/gbcamextract",
+                "github": "jkbenaim/gbcamextract",
+                "type": "github"
+            },
+            {
+                "title": "bmp2cgb",
+                "href": "https://github.com/gitendo/bmp2cgb",
+                "github": "gitendo/bmp2cgb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ASM",
+        "childrens": [
+            {
+                "title": "gb-template",
+                "href": "https://github.com/exezin/gb-template",
+                "github": "exezin/gb-template",
+                "type": "github"
+            },
+            {
+                "title": "assemblydigest",
+                "href": "https://github.com/assemblydigest/gameboy",
+                "github": "assemblydigest/gameboy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Glitches and exploits",
+        "childrens": [
+            {
+                "title": "DMA hijacking",
+                "href": "https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md",
+                "github": "avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C",
+        "childrens": [
+            {
+                "title": "Grooves Game Boy Programming",
+                "href": "https://github.com/gbdk-salvage/grooves-game-boy-programming",
+                "github": "gbdk-salvage/grooves-game-boy-programming",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Games",
+        "childrens": [
+            {
+                "title": "Infinity",
+                "href": "https://github.com/infinity-gbc/infinity",
+                "github": "infinity-gbc/infinity",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ASM",
+        "childrens": [
+            {
+                "title": "RedPlusPlus",
+                "href": "https://github.com/TheFakeMateo/RedPlusPlus",
+                "github": "TheFakeMateo/RedPlusPlus",
+                "type": "github"
+            },
+            {
+                "title": "Tuff",
+                "href": "https://github.com/BonsaiDen/Tuff.gb",
+                "github": "BonsaiDen/Tuff.gb",
+                "type": "github"
+            },
+            {
+                "title": "2048-gb",
+                "href": "https://github.com/Sanqui/2048-gb",
+                "github": "Sanqui/2048-gb",
+                "type": "github"
+            },
+            {
+                "title": "PlantBoy",
+                "href": "https://github.com/siObyte/PlantBoy",
+                "github": "siObyte/PlantBoy",
+                "type": "github"
+            },
+            {
+                "title": "Lazerpong",
+                "href": "https://github.com/huderlem/lazerpong",
+                "github": "huderlem/lazerpong",
+                "type": "github"
+            },
+            {
+                "title": "Back to Color",
+                "href": "https://github.com/AntonioND/back-to-color",
+                "github": "AntonioND/back-to-color",
+                "type": "github"
+            },
+            {
+                "title": "Geometrix",
+                "href": "https://github.com/AntonioND/geometrix",
+                "github": "AntonioND/geometrix",
+                "type": "github"
+            },
+            {
+                "title": "µCity",
+                "href": "https://github.com/AntonioND/ucity",
+                "github": "AntonioND/ucity",
+                "type": "github"
+            },
+            {
+                "title": "Carazu",
+                "href": "https://github.com/mholtkamp/carazu",
+                "github": "mholtkamp/carazu",
+                "type": "github"
+            },
+            {
+                "title": "Snake-gb",
+                "href": "https://github.com/DonaldHays/snake-gb",
+                "github": "DonaldHays/snake-gb",
+                "type": "github"
+            },
+            {
+                "title": "GB303",
+                "href": "https://github.com/furrtek/GB303",
+                "github": "furrtek/GB303",
+                "type": "github"
+            },
+            {
+                "title": "Pokémon Christmas",
+                "href": "https://github.com/TheFakeMateo/xmas",
+                "github": "TheFakeMateo/xmas",
+                "type": "github"
+            },
+            {
+                "title": "Sushi",
+                "href": "https://github.com/JustSid/Sushi",
+                "github": "JustSid/Sushi",
+                "type": "github"
+            },
+            {
+                "title": "Flappy-boy-asm",
+                "href": "https://github.com/bitnenfer/flappy-boy-asm",
+                "github": "bitnenfer/flappy-boy-asm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C",
+        "childrens": [
+            {
+                "title": "flappybird-gb",
+                "href": "https://github.com/LuckyLights/flappybird-gb",
+                "github": "LuckyLights/flappybird-gb",
+                "type": "github"
+            },
+            {
+                "title": "FlappyBoy",
+                "href": "https://github.com/bitnenfer/FlappyBoy",
+                "github": "bitnenfer/FlappyBoy",
+                "type": "github"
+            },
+            {
+                "title": "Squishy the Turtle",
+                "href": "https://github.com/cppchriscpp/SquishyTheTurtle",
+                "github": "cppchriscpp/SquishyTheTurtle",
+                "type": "github"
+            },
+            {
+                "title": "Quadratino",
+                "href": "https://github.com/avivace/quadratino",
+                "github": "avivace/quadratino",
+                "type": "github"
+            },
+            {
+                "title": "Doctor How",
+                "href": "https://github.com/elfgames/doctorhow",
+                "github": "elfgames/doctorhow",
+                "type": "github"
+            },
+            {
+                "title": "Super Princess' 2092 Exodus",
+                "href": "https://github.com/Zal0/gbjam2016",
+                "github": "Zal0/gbjam2016",
+                "type": "github"
+            },
+            {
+                "title": "GBsnake",
+                "href": "https://github.com/brovador/GBsnake",
+                "github": "brovador/GBsnake",
+                "type": "github"
+            },
+            {
+                "title": "gb-mines",
+                "href": "https://github.com/andreasjhkarlsson/gb-mines",
+                "github": "andreasjhkarlsson/gb-mines",
+                "type": "github"
+            },
+            {
+                "title": "red hot princess carnage",
+                "href": "https://github.com/Imanolea/bitbitjam3_red_hot_princess_carnage",
+                "github": "Imanolea/bitbitjam3_red_hot_princess_carnage",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ROMs Disassembly",
+        "childrens": [
+            {
+                "title": "Sonic 1",
+                "href": "https://github.com/Kroc/Sonic1-Z80-ASM",
+                "github": "Kroc/Sonic1-Z80-ASM",
+                "type": "github"
+            },
+            {
+                "title": "Pokémon Red/Blue",
+                "href": "https://github.com/pret/pokered",
+                "github": "pret/pokered",
+                "type": "github"
+            },
+            {
+                "title": "Pokémon Crystal",
+                "href": "https://github.com/pret/pokecrystal",
+                "github": "pret/pokecrystal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related sites, posts and projects",
+        "childrens": [
+            {
+                "title": "fpgaboy",
+                "href": "https://github.com/trun/fpgaboy",
+                "github": "trun/fpgaboy",
+                "type": "github"
+            },
+            {
+                "title": "Piglet",
+                "href": "https://github.com/danShumway/Piglet",
+                "github": "danShumway/Piglet",
+                "type": "github"
+            },
+            {
+                "title": "gbdk-n",
+                "href": "https://github.com/rotmoset/gbdk-n",
+                "github": "rotmoset/gbdk-n",
+                "type": "github"
+            },
+            {
+                "title": "Wiz",
+                "href": "https://github.com/Bananattack/wiz",
+                "github": "Bananattack/wiz",
+                "type": "github"
+            },
+            {
+                "title": "Ostrich",
+                "href": "https://github.com/PumpMagic/ostrich",
+                "github": "PumpMagic/ostrich",
+                "type": "github"
+            },
+            {
+                "title": "mGB",
+                "href": "https://github.com/trash80/mGB",
+                "github": "trash80/mGB",
+                "type": "github"
+            },
+            {
+                "title": "GBVisualizer",
+                "href": "https://github.com/LIJI32/GBVisualizer",
+                "github": "LIJI32/GBVisualizer",
+                "type": "github"
+            },
+            {
+                "title": "GBVideoPlayer",
+                "href": "https://github.com/LIJI32/GBVideoPlayer",
+                "github": "LIJI32/GBVideoPlayer",
+                "type": "github"
+            },
+            {
+                "title": "rgbgfx",
+                "href": "https://github.com/stag019/rgbgfx",
+                "github": "stag019/rgbgfx",
+                "type": "github"
+            },
+            {
+                "title": "ArduinoGameBoy",
+                "href": "https://github.com/drhelius/arduinogameboy",
+                "github": "drhelius/arduinogameboy",
+                "type": "github"
+            },
+            {
+                "title": "gameboy-brainfuck",
+                "href": "https://github.com/bitnenfer/gameboy-brainfuck",
+                "github": "bitnenfer/gameboy-brainfuck",
+                "type": "github"
+            }
+        ]
+    }
+]

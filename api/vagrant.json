@@ -1,0 +1,129 @@
+[
+    {
+        "heading": "Official resources",
+        "childrens": [
+            {
+                "title": "GitHub repo",
+                "href": "https://github.com/mitchellh/vagrant",
+                "github": "mitchellh/vagrant",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boxes",
+        "childrens": [
+            {
+                "title": "Baseboxes from Opscode",
+                "href": "https://github.com/chef/bento#current-baseboxes",
+                "github": "chef/bento#current-baseboxes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Notable plugins",
+        "childrens": [
+            {
+                "title": "List of available Vagrant plugins from GitHub wiki",
+                "href": "https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins",
+                "github": "mitchellh/vagrant/wiki/Available-Vagrant-Plugins",
+                "type": "github"
+            },
+            {
+                "title": "vagrant-vbguest",
+                "href": "https://github.com/dotless-de/vagrant-vbguest",
+                "github": "dotless-de/vagrant-vbguest",
+                "type": "github"
+            },
+            {
+                "title": "vagrant-hostsupdater",
+                "href": "https://github.com/cogitatio/vagrant-hostsupdater",
+                "github": "cogitatio/vagrant-hostsupdater",
+                "type": "github"
+            },
+            {
+                "title": "vagrant-host-shell",
+                "href": "https://github.com/phinze/vagrant-host-shell",
+                "github": "phinze/vagrant-host-shell",
+                "type": "github"
+            },
+            {
+                "title": "vagrant-ansible-local",
+                "href": "https://github.com/jaugustin/vagrant-ansible-local",
+                "github": "jaugustin/vagrant-ansible-local",
+                "type": "github"
+            },
+            {
+                "title": "sahara",
+                "href": "https://github.com/jedi4ever/sahara",
+                "github": "jedi4ever/sahara",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Helpers / Tools",
+        "childrens": [
+            {
+                "title": "Veewee",
+                "href": "https://github.com/jedi4ever/veewee",
+                "github": "jedi4ever/veewee",
+                "type": "github"
+            },
+            {
+                "title": "Vagrant plugin for ZSH shell",
+                "href": "https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant",
+                "github": "robbyrussell/oh-my-zsh/wiki/Plugins#vagrant",
+                "type": "github"
+            },
+            {
+                "title": "CLI Vagrant Manager",
+                "href": "https://github.com/MunGell/vgm",
+                "github": "MunGell/vgm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Popular readymade environments",
+        "childrens": [
+            {
+                "title": "Vagrantpress",
+                "href": "https://github.com/vagrantpress/vagrantpress",
+                "github": "vagrantpress/vagrantpress",
+                "type": "github"
+            },
+            {
+                "title": "Varying Vagrant Vagrants",
+                "href": "https://github.com/Varying-Vagrant-Vagrants/VVV",
+                "github": "Varying-Vagrant-Vagrants/VVV",
+                "type": "github"
+            },
+            {
+                "title": "Joomla-Vagrant",
+                "href": "https://github.com/joomlatools/joomlatools-vagrant",
+                "github": "joomlatools/joomlatools-vagrant",
+                "type": "github"
+            },
+            {
+                "title": "Try Yii2",
+                "href": "https://github.com/iJackUA/try-yii2",
+                "github": "iJackUA/try-yii2",
+                "type": "github"
+            },
+            {
+                "title": "Laravel4-Vagrant",
+                "href": "https://github.com/bryannielsen/Laravel4-Vagrant",
+                "github": "bryannielsen/Laravel4-Vagrant",
+                "type": "github"
+            },
+            {
+                "title": "OpenStack on Ansible with Vagrant",
+                "href": "https://github.com/openstack-ansible/openstack-ansible",
+                "github": "openstack-ansible/openstack-ansible",
+                "type": "github"
+            }
+        ]
+    }
+]

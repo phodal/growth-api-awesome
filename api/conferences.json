@@ -1,0 +1,100 @@
+[
+    {
+        "heading": "Old Conferences List",
+        "childrens": [
+            {
+                "title": "Papers We Love",
+                "href": "https://github.com/papers-we-love/papers-we-love",
+                "github": "papers-we-love/papers-we-love",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Help with Speaking",
+        "childrens": [
+            {
+                "title": "awesome-speaking",
+                "href": "https://github.com/matteofigus/awesome-speaking",
+                "github": "matteofigus/awesome-speaking",
+                "type": "github"
+            },
+            {
+                "title": "gitpitch",
+                "href": "https://github.com/gitpitch/gitpitch",
+                "github": "gitpitch/gitpitch",
+                "type": "github"
+            },
+            {
+                "title": "Public speaking tips",
+                "href": "https://gist.github.com/macintux/5354837",
+                "github": ".com/macintux/5354837",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Lists",
+        "childrens": [
+            {
+                "title": "AndroidStudyGroup",
+                "href": "https://github.com/AndroidStudyGroup/conferences",
+                "github": "AndroidStudyGroup/conferences",
+                "type": "github"
+            },
+            {
+                "title": "awesome-django#conferences",
+                "href": "https://github.com/rosarior/awesome-django#conferences",
+                "github": "rosarior/awesome-django#conferences",
+                "type": "github"
+            },
+            {
+                "title": "awesome-software-craftsmanship conferences",
+                "href": "https://github.com/benas/awesome-software-craftsmanship#school-conferences",
+                "github": "benas/awesome-software-craftsmanship#school-conferences",
+                "type": "github"
+            },
+            {
+                "title": "Cocoa Conferences",
+                "href": "https://github.com/Lascorbe/CocoaConferences",
+                "github": "Lascorbe/CocoaConferences",
+                "type": "github"
+            },
+            {
+                "title": "watson/conferences",
+                "href": "https://github.com/watson/conferences",
+                "github": "watson/conferences",
+                "type": "github"
+            },
+            {
+                "title": "Interdisciplinary Open Source Community Conferences",
+                "href": "https://gist.github.com/maxogden/322a649ff84fe1c2a680",
+                "github": ".com/maxogden/322a649ff84fe1c2a680",
+                "type": "github"
+            },
+            {
+                "title": "php conferences in fall 2015",
+                "href": "https://gist.github.com/DragonBe/51002bd40a6fa99a5123",
+                "github": ".com/DragonBe/51002bd40a6fa99a5123",
+                "type": "github"
+            },
+            {
+                "title": "planetruby/awesome-events",
+                "href": "https://github.com/planetruby/awesome-events",
+                "github": "planetruby/awesome-events",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Maintainers",
+        "childrens": [
+            {
+                "title": "@Richardlitt",
+                "href": "https://github.com/RichardLitt",
+                "github": "RichardLitt",
+                "type": "github"
+            }
+        ]
+    }
+]

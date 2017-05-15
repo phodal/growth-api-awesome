@@ -1,0 +1,3761 @@
+[
+    {
+        "heading": "Abstraction",
+        "childrens": [
+            {
+                "title": "ActiveInteraction",
+                "href": "https://github.com/orgsync/active_interaction",
+                "github": "orgsync/active_interaction",
+                "type": "github"
+            },
+            {
+                "title": "Apotomo",
+                "href": "https://github.com/apotonick/apotomo",
+                "github": "apotonick/apotomo",
+                "type": "github"
+            },
+            {
+                "title": "Cells",
+                "href": "https://github.com/apotonick/cells",
+                "github": "apotonick/cells",
+                "type": "github"
+            },
+            {
+                "title": "Decent Exposure",
+                "href": "https://github.com/hashrocket/decent_exposure",
+                "github": "hashrocket/decent_exposure",
+                "type": "github"
+            },
+            {
+                "title": "dry-rb",
+                "href": "https://github.com/dry-rb",
+                "github": "dry-rb",
+                "type": "github"
+            },
+            {
+                "title": "Interactor",
+                "href": "https://github.com/collectiveidea/interactor",
+                "github": "collectiveidea/interactor",
+                "type": "github"
+            },
+            {
+                "title": "Light Service",
+                "href": "https://github.com/adomokos/light-service",
+                "github": "adomokos/light-service",
+                "type": "github"
+            },
+            {
+                "title": "Mutations",
+                "href": "https://github.com/cypriss/mutations",
+                "github": "cypriss/mutations",
+                "type": "github"
+            },
+            {
+                "title": "Responders",
+                "href": "https://github.com/plataformatec/responders",
+                "github": "plataformatec/responders",
+                "type": "github"
+            },
+            {
+                "title": "Surrounded",
+                "href": "https://github.com/saturnflyer/surrounded",
+                "github": "saturnflyer/surrounded",
+                "type": "github"
+            },
+            {
+                "title": "Trailblazer",
+                "href": "https://github.com/apotonick/trailblazer",
+                "github": "apotonick/trailblazer",
+                "type": "github"
+            },
+            {
+                "title": "wisper",
+                "href": "https://github.com/krisleech/wisper",
+                "github": "krisleech/wisper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Admin Interface",
+        "childrens": [
+            {
+                "title": "Administrate",
+                "href": "https://github.com/thoughtbot/administrate",
+                "github": "thoughtbot/administrate",
+                "type": "github"
+            },
+            {
+                "title": "RailsAdmin",
+                "href": "https://github.com/sferik/rails_admin",
+                "github": "sferik/rails_admin",
+                "type": "github"
+            },
+            {
+                "title": "Typus",
+                "href": "https://github.com/typus/typus",
+                "github": "typus/typus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Analytics",
+        "childrens": [
+            {
+                "title": "Ahoy",
+                "href": "https://github.com/ankane/ahoy",
+                "github": "ankane/ahoy",
+                "type": "github"
+            },
+            {
+                "title": "Analytical",
+                "href": "https://github.com/jkrall/analytical",
+                "github": "jkrall/analytical",
+                "type": "github"
+            },
+            {
+                "title": "Gabba",
+                "href": "https://github.com/hybridgroup/gabba",
+                "github": "hybridgroup/gabba",
+                "type": "github"
+            },
+            {
+                "title": "Impressionist",
+                "href": "https://github.com/charlotte-ruby/impressionist",
+                "github": "charlotte-ruby/impressionist",
+                "type": "github"
+            },
+            {
+                "title": "Legato",
+                "href": "https://github.com/tpitale/legato",
+                "github": "tpitale/legato",
+                "type": "github"
+            },
+            {
+                "title": "Rack::Tracker",
+                "href": "https://github.com/railslove/rack-tracker",
+                "github": "railslove/rack-tracker",
+                "type": "github"
+            },
+            {
+                "title": "Staccato",
+                "href": "https://github.com/tpitale/staccato",
+                "github": "tpitale/staccato",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API Builder and Discovery",
+        "childrens": [
+            {
+                "title": "ActiveModel::Serializers",
+                "href": "https://github.com/rails-api/active_model_serializers",
+                "github": "rails-api/active_model_serializers",
+                "type": "github"
+            },
+            {
+                "title": "Blanket",
+                "href": "https://github.com/inf0rmer/blanket",
+                "github": "inf0rmer/blanket",
+                "type": "github"
+            },
+            {
+                "title": "Crêpe",
+                "href": "https://github.com/crepe/crepe",
+                "github": "crepe/crepe",
+                "type": "github"
+            },
+            {
+                "title": "Her",
+                "href": "https://github.com/remiprev/her",
+                "github": "remiprev/her",
+                "type": "github"
+            },
+            {
+                "title": "jbuilder",
+                "href": "https://github.com/rails/jbuilder",
+                "github": "rails/jbuilder",
+                "type": "github"
+            },
+            {
+                "title": "JSONAPI::Resources",
+                "href": "https://github.com/cerebris/jsonapi-resources",
+                "github": "cerebris/jsonapi-resources",
+                "type": "github"
+            },
+            {
+                "title": "JSONAPI::Utils",
+                "href": "https://github.com/tiagopog/jsonapi-utils",
+                "github": "tiagopog/jsonapi-utils",
+                "type": "github"
+            },
+            {
+                "title": "Jsonite",
+                "href": "https://github.com/crepe/jsonite",
+                "github": "crepe/jsonite",
+                "type": "github"
+            },
+            {
+                "title": "Pliny",
+                "href": "https://github.com/interagent/pliny",
+                "github": "interagent/pliny",
+                "type": "github"
+            },
+            {
+                "title": "rabl",
+                "href": "https://github.com/nesquena/rabl",
+                "github": "nesquena/rabl",
+                "type": "github"
+            },
+            {
+                "title": "Rails::API",
+                "href": "https://github.com/rails-api/rails-api",
+                "github": "rails-api/rails-api",
+                "type": "github"
+            },
+            {
+                "title": "Roar",
+                "href": "https://github.com/apotonick/roar",
+                "github": "apotonick/roar",
+                "type": "github"
+            },
+            {
+                "title": "Spyke",
+                "href": "https://github.com/balvig/spyke",
+                "github": "balvig/spyke",
+                "type": "github"
+            },
+            {
+                "title": "Version Cake",
+                "href": "https://github.com/bwillis/versioncake",
+                "github": "bwillis/versioncake",
+                "type": "github"
+            },
+            {
+                "title": "versionist",
+                "href": "https://github.com/bploetz/versionist",
+                "github": "bploetz/versionist",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Assets",
+        "childrens": [
+            {
+                "title": "Compass",
+                "href": "https://github.com/Compass/compass",
+                "github": "Compass/compass",
+                "type": "github"
+            },
+            {
+                "title": "Emoji",
+                "href": "https://github.com/wpeterson/emoji",
+                "github": "wpeterson/emoji",
+                "type": "github"
+            },
+            {
+                "title": "Less Rails",
+                "href": "https://github.com/metaskills/less-rails",
+                "github": "metaskills/less-rails",
+                "type": "github"
+            },
+            {
+                "title": "Less",
+                "href": "https://github.com/cowboyd/less.rb",
+                "github": "cowboyd/less.rb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication and OAuth",
+        "childrens": [
+            {
+                "title": "Authlogic",
+                "href": "https://github.com/binarylogic/authlogic",
+                "github": "binarylogic/authlogic",
+                "type": "github"
+            },
+            {
+                "title": "Clearance",
+                "href": "https://github.com/thoughtbot/clearance",
+                "github": "thoughtbot/clearance",
+                "type": "github"
+            },
+            {
+                "title": "Devise",
+                "href": "https://github.com/plataformatec/devise",
+                "github": "plataformatec/devise",
+                "type": "github"
+            },
+            {
+                "title": "JWT",
+                "href": "https://github.com/jwt/ruby-jwt",
+                "github": "jwt/ruby-jwt",
+                "type": "github"
+            },
+            {
+                "title": "Knock",
+                "href": "https://github.com/nsarno/knock",
+                "github": "nsarno/knock",
+                "type": "github"
+            },
+            {
+                "title": "Monban",
+                "href": "https://github.com/halogenandtoast/monban",
+                "github": "halogenandtoast/monban",
+                "type": "github"
+            },
+            {
+                "title": "OmniAuth",
+                "href": "https://github.com/intridea/omniauth",
+                "github": "intridea/omniauth",
+                "type": "github"
+            },
+            {
+                "title": "Rodauth",
+                "href": "https://github.com/jeremyevans/rodauth",
+                "github": "jeremyevans/rodauth",
+                "type": "github"
+            },
+            {
+                "title": "Shield",
+                "href": "https://github.com/cyx/shield",
+                "github": "cyx/shield",
+                "type": "github"
+            },
+            {
+                "title": "Sorcery",
+                "href": "https://github.com/Sorcery/sorcery",
+                "github": "Sorcery/sorcery",
+                "type": "github"
+            },
+            {
+                "title": "warden",
+                "href": "https://github.com/hassox/warden",
+                "github": "hassox/warden",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authorization",
+        "childrens": [
+            {
+                "title": "acl9",
+                "href": "https://github.com/be9/acl9",
+                "github": "be9/acl9",
+                "type": "github"
+            },
+            {
+                "title": "AccessGranted",
+                "href": "https://github.com/chaps-io/access-granted",
+                "github": "chaps-io/access-granted",
+                "type": "github"
+            },
+            {
+                "title": "Authority",
+                "href": "https://github.com/nathanl/authority",
+                "github": "nathanl/authority",
+                "type": "github"
+            },
+            {
+                "title": "CanCanCan",
+                "href": "https://github.com/CanCanCommunity/cancancan",
+                "github": "CanCanCommunity/cancancan",
+                "type": "github"
+            },
+            {
+                "title": "Declarative Authorization",
+                "href": "https://github.com/stffn/declarative_authorization",
+                "github": "stffn/declarative_authorization",
+                "type": "github"
+            },
+            {
+                "title": "Pundit",
+                "href": "https://github.com/elabs/pundit",
+                "github": "elabs/pundit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Automation",
+        "childrens": [
+            {
+                "title": "Huginn",
+                "href": "https://github.com/cantino/huginn",
+                "github": "cantino/huginn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "Action caching for Action Pack",
+                "href": "https://github.com/rails/actionpack-action_caching",
+                "github": "rails/actionpack-action_caching",
+                "type": "github"
+            },
+            {
+                "title": "Dalli",
+                "href": "https://github.com/mperham/dalli",
+                "github": "mperham/dalli",
+                "type": "github"
+            },
+            {
+                "title": "Garner",
+                "href": "https://github.com/artsy/garner",
+                "github": "artsy/garner",
+                "type": "github"
+            },
+            {
+                "title": "IdentityCache",
+                "href": "https://github.com/Shopify/identity_cache",
+                "github": "Shopify/identity_cache",
+                "type": "github"
+            },
+            {
+                "title": "Kashmir",
+                "href": "https://github.com/IFTTT/kashmir",
+                "github": "IFTTT/kashmir",
+                "type": "github"
+            },
+            {
+                "title": "Readthis",
+                "href": "https://github.com/sorentwo/readthis",
+                "github": "sorentwo/readthis",
+                "type": "github"
+            },
+            {
+                "title": "Record Cache",
+                "href": "https://github.com/orslumen/record-cache",
+                "github": "orslumen/record-cache",
+                "type": "github"
+            },
+            {
+                "title": "Second Level Cache",
+                "href": "https://github.com/hooopo/second_level_cache",
+                "github": "hooopo/second_level_cache",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CLI Builder",
+        "childrens": [
+            {
+                "title": "Clamp",
+                "href": "https://github.com/mdub/clamp",
+                "github": "mdub/clamp",
+                "type": "github"
+            },
+            {
+                "title": "Cocaine",
+                "href": "https://github.com/thoughtbot/cocaine",
+                "github": "thoughtbot/cocaine",
+                "type": "github"
+            },
+            {
+                "title": "Commander",
+                "href": "https://github.com/commander-rb/commander",
+                "github": "commander-rb/commander",
+                "type": "github"
+            },
+            {
+                "title": "GLI",
+                "href": "https://github.com/davetron5000/gli",
+                "github": "davetron5000/gli",
+                "type": "github"
+            },
+            {
+                "title": "Main",
+                "href": "https://github.com/ahoward/main",
+                "github": "ahoward/main",
+                "type": "github"
+            },
+            {
+                "title": "Rake",
+                "href": "https://github.com/ruby/rake",
+                "github": "ruby/rake",
+                "type": "github"
+            },
+            {
+                "title": "Slop",
+                "href": "https://github.com/leejarvis/slop",
+                "github": "leejarvis/slop",
+                "type": "github"
+            },
+            {
+                "title": "Trollop",
+                "href": "https://github.com/manageiq/trollop",
+                "github": "manageiq/trollop",
+                "type": "github"
+            },
+            {
+                "title": "TTY",
+                "href": "https://github.com/peter-murach/tty",
+                "github": "peter-murach/tty",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CLI Utilities",
+        "childrens": [
+            {
+                "title": "formatador",
+                "href": "https://github.com/geemus/formatador",
+                "github": "geemus/formatador",
+                "type": "github"
+            },
+            {
+                "title": "Paint",
+                "href": "https://github.com/janlelis/paint",
+                "github": "janlelis/paint",
+                "type": "github"
+            },
+            {
+                "title": "Pastel",
+                "href": "https://github.com/peter-murach/pastel",
+                "github": "peter-murach/pastel",
+                "type": "github"
+            },
+            {
+                "title": "Ru",
+                "href": "https://github.com/tombenner/ru",
+                "github": "tombenner/ru",
+                "type": "github"
+            },
+            {
+                "title": "Ruby/Progressbar",
+                "href": "https://github.com/jfelchner/ruby-progressbar",
+                "github": "jfelchner/ruby-progressbar",
+                "type": "github"
+            },
+            {
+                "title": "Terminal Table",
+                "href": "https://github.com/tj/terminal-table",
+                "github": "tj/terminal-table",
+                "type": "github"
+            },
+            {
+                "title": "Tmuxinator",
+                "href": "https://github.com/tmuxinator/tmuxinator",
+                "github": "tmuxinator/tmuxinator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cloud",
+        "childrens": [
+            {
+                "title": "AWS SDK for Ruby",
+                "href": "https://github.com/aws/aws-sdk-ruby",
+                "github": "aws/aws-sdk-ruby",
+                "type": "github"
+            },
+            {
+                "title": "browse-everything",
+                "href": "https://github.com/projecthydra/browse-everything",
+                "github": "projecthydra/browse-everything",
+                "type": "github"
+            },
+            {
+                "title": "Fog",
+                "href": "https://github.com/fog/fog",
+                "github": "fog/fog",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CMS",
+        "childrens": [
+            {
+                "title": "Comfortable Mexican Sofa",
+                "href": "https://github.com/comfy/comfortable-mexican-sofa",
+                "github": "comfy/comfortable-mexican-sofa",
+                "type": "github"
+            },
+            {
+                "title": "Publify",
+                "href": "https://github.com/publify/publify",
+                "github": "publify/publify",
+                "type": "github"
+            },
+            {
+                "title": "Storytime",
+                "href": "https://github.com/CultivateLabs/storytime",
+                "github": "CultivateLabs/storytime",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Analysis and Metrics",
+        "childrens": [
+            {
+                "title": "Barkeep",
+                "href": "https://github.com/ooyala/barkeep",
+                "github": "ooyala/barkeep",
+                "type": "github"
+            },
+            {
+                "title": "Brakeman",
+                "href": "https://github.com/presidentbeef/brakeman",
+                "github": "presidentbeef/brakeman",
+                "type": "github"
+            },
+            {
+                "title": "Cane",
+                "href": "https://github.com/square/cane",
+                "github": "square/cane",
+                "type": "github"
+            },
+            {
+                "title": "Coverband",
+                "href": "https://github.com/danmayer/coverband",
+                "github": "danmayer/coverband",
+                "type": "github"
+            },
+            {
+                "title": "Fasterer",
+                "href": "https://github.com/DamirSvrtan/fasterer",
+                "github": "DamirSvrtan/fasterer",
+                "type": "github"
+            },
+            {
+                "title": "Flay",
+                "href": "https://github.com/seattlerb/flay",
+                "github": "seattlerb/flay",
+                "type": "github"
+            },
+            {
+                "title": "Flog",
+                "href": "https://github.com/seattlerb/flog",
+                "github": "seattlerb/flog",
+                "type": "github"
+            },
+            {
+                "title": "MetricFu",
+                "href": "https://github.com/metricfu/metric_fu",
+                "github": "metricfu/metric_fu",
+                "type": "github"
+            },
+            {
+                "title": "Pippi",
+                "href": "https://github.com/tcopeland/pippi",
+                "github": "tcopeland/pippi",
+                "type": "github"
+            },
+            {
+                "title": "Pronto",
+                "href": "https://github.com/mmozuras/pronto",
+                "github": "mmozuras/pronto",
+                "type": "github"
+            },
+            {
+                "title": "rails_best_practices",
+                "href": "https://github.com/railsbp/rails_best_practices",
+                "github": "railsbp/rails_best_practices",
+                "type": "github"
+            },
+            {
+                "title": "Reek",
+                "href": "https://github.com/troessner/reek",
+                "github": "troessner/reek",
+                "type": "github"
+            },
+            {
+                "title": "RuboCop",
+                "href": "https://github.com/bbatsov/rubocop",
+                "github": "bbatsov/rubocop",
+                "type": "github"
+            },
+            {
+                "title": "Rubycritic",
+                "href": "https://github.com/whitesmith/rubycritic",
+                "github": "whitesmith/rubycritic",
+                "type": "github"
+            },
+            {
+                "title": "Scientist",
+                "href": "https://github.com/github/scientist",
+                "github": "github/scientist",
+                "type": "github"
+            },
+            {
+                "title": "SimpleCov",
+                "href": "https://github.com/colszowka/simplecov",
+                "github": "colszowka/simplecov",
+                "type": "github"
+            },
+            {
+                "title": "Traceroute",
+                "href": "https://github.com/amatsuda/traceroute",
+                "github": "amatsuda/traceroute",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Highlighting",
+        "childrens": [
+            {
+                "title": "CodeRay",
+                "href": "https://github.com/rubychan/coderay",
+                "github": "rubychan/coderay",
+                "type": "github"
+            },
+            {
+                "title": "pygments.rb",
+                "href": "https://github.com/tmm1/pygments.rb",
+                "github": "tmm1/pygments.rb",
+                "type": "github"
+            },
+            {
+                "title": "Rouge",
+                "href": "https://github.com/jneen/rouge",
+                "github": "jneen/rouge",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Coding Style Guides",
+        "childrens": [
+            {
+                "title": "Best-Ruby",
+                "href": "https://github.com/franzejr/best-ruby",
+                "github": "franzejr/best-ruby",
+                "type": "github"
+            },
+            {
+                "title": "fast-ruby",
+                "href": "https://github.com/JuanitoFatas/fast-ruby",
+                "github": "JuanitoFatas/fast-ruby",
+                "type": "github"
+            },
+            {
+                "title": "Fundamental Ruby",
+                "href": "https://github.com/khusnetdinov/ruby.fundamental",
+                "github": "khusnetdinov/ruby.fundamental",
+                "type": "github"
+            },
+            {
+                "title": "Rails style guide",
+                "href": "https://github.com/bbatsov/rails-style-guide",
+                "github": "bbatsov/rails-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "RSpec style guide",
+                "href": "https://github.com/andreareginato/betterspecs",
+                "github": "andreareginato/betterspecs",
+                "type": "github"
+            },
+            {
+                "title": "Ruby style guide",
+                "href": "https://github.com/bbatsov/ruby-style-guide",
+                "github": "bbatsov/ruby-style-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Concurrency",
+        "childrens": [
+            {
+                "title": "Concurrent Ruby",
+                "href": "https://github.com/ruby-concurrency/concurrent-ruby",
+                "github": "ruby-concurrency/concurrent-ruby",
+                "type": "github"
+            },
+            {
+                "title": "EventMachine",
+                "href": "https://github.com/eventmachine/eventmachine",
+                "github": "eventmachine/eventmachine",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Configuration",
+        "childrens": [
+            {
+                "title": "Configatron",
+                "href": "https://github.com/markbates/configatron",
+                "github": "markbates/configatron",
+                "type": "github"
+            },
+            {
+                "title": "Configus",
+                "href": "https://github.com/kaize/configus",
+                "github": "kaize/configus",
+                "type": "github"
+            },
+            {
+                "title": "dotenv",
+                "href": "https://github.com/bkeepers/dotenv",
+                "github": "bkeepers/dotenv",
+                "type": "github"
+            },
+            {
+                "title": "Econfig",
+                "href": "https://github.com/elabs/econfig",
+                "github": "elabs/econfig",
+                "type": "github"
+            },
+            {
+                "title": "ENVied",
+                "href": "https://github.com/eval/envied",
+                "github": "eval/envied",
+                "type": "github"
+            },
+            {
+                "title": "Figaro",
+                "href": "https://github.com/laserlemon/figaro",
+                "github": "laserlemon/figaro",
+                "type": "github"
+            },
+            {
+                "title": "Global",
+                "href": "https://github.com/railsware/global",
+                "github": "railsware/global",
+                "type": "github"
+            },
+            {
+                "title": "RailsConfig",
+                "href": "https://github.com/railsconfig/config",
+                "github": "railsconfig/config",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Core Extensions",
+        "childrens": [
+            {
+                "title": "ActiveSupport",
+                "href": "https://github.com/rails/rails/tree/master/activesupport",
+                "github": "rails/rails/tree/master/activesupport",
+                "type": "github"
+            },
+            {
+                "title": "Addressable",
+                "href": "https://github.com/sporkmonger/addressable",
+                "github": "sporkmonger/addressable",
+                "type": "github"
+            },
+            {
+                "title": "Finishing Moves",
+                "href": "https://github.com/forgecrafted/finishing_moves",
+                "github": "forgecrafted/finishing_moves",
+                "type": "github"
+            },
+            {
+                "title": "Hamster",
+                "href": "https://github.com/hamstergem/hamster",
+                "github": "hamstergem/hamster",
+                "type": "github"
+            },
+            {
+                "title": "Hanami::Utils",
+                "href": "https://github.com/hanami/utils",
+                "github": "hanami/utils",
+                "type": "github"
+            },
+            {
+                "title": "Ruby Facets",
+                "href": "https://github.com/rubyworks/facets",
+                "github": "rubyworks/facets",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Country Data",
+        "childrens": [
+            {
+                "title": "Carmen",
+                "href": "https://github.com/jim/carmen",
+                "github": "jim/carmen",
+                "type": "github"
+            },
+            {
+                "title": "Countries",
+                "href": "https://github.com/hexorx/countries",
+                "github": "hexorx/countries",
+                "type": "github"
+            },
+            {
+                "title": "GlobalPhone",
+                "href": "https://github.com/sstephenson/global_phone",
+                "github": "sstephenson/global_phone",
+                "type": "github"
+            },
+            {
+                "title": "i18n_data",
+                "href": "https://github.com/grosser/i18n_data",
+                "github": "grosser/i18n_data",
+                "type": "github"
+            },
+            {
+                "title": "normalize_country",
+                "href": "https://github.com/sshaw/normalize_country",
+                "github": "sshaw/normalize_country",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CRM",
+        "childrens": [
+            {
+                "title": "Fat Free CRM",
+                "href": "https://github.com/fatfreecrm/fat_free_crm",
+                "github": "fatfreecrm/fat_free_crm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dashboards",
+        "childrens": [
+            {
+                "title": "Dashing-Rails",
+                "href": "https://github.com/gottfrois/dashing-rails",
+                "github": "gottfrois/dashing-rails",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Visualization",
+        "childrens": [
+            {
+                "title": "GeoPattern",
+                "href": "https://github.com/jasonlong/geo_pattern",
+                "github": "jasonlong/geo_pattern",
+                "type": "github"
+            },
+            {
+                "title": "LazyHighCharts",
+                "href": "https://github.com/michelson/lazy_high_charts",
+                "github": "michelson/lazy_high_charts",
+                "type": "github"
+            },
+            {
+                "title": "RailRoady",
+                "href": "https://github.com/preston/railroady",
+                "github": "preston/railroady",
+                "type": "github"
+            },
+            {
+                "title": "Rails Erd",
+                "href": "https://github.com/voormedia/rails-erd",
+                "github": "voormedia/rails-erd",
+                "type": "github"
+            },
+            {
+                "title": "Ruby/GraphViz",
+                "href": "https://github.com/glejeune/Ruby-Graphviz",
+                "github": "glejeune/Ruby-Graphviz",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database Drivers",
+        "childrens": [
+            {
+                "title": "Cassandra Driver",
+                "href": "https://github.com/datastax/ruby-driver",
+                "github": "datastax/ruby-driver",
+                "type": "github"
+            },
+            {
+                "title": "DataObjects",
+                "href": "https://github.com/datamapper/do",
+                "github": "datamapper/do",
+                "type": "github"
+            },
+            {
+                "title": "mongo-ruby-driver",
+                "href": "https://github.com/mongodb/mongo-ruby-driver",
+                "github": "mongodb/mongo-ruby-driver",
+                "type": "github"
+            },
+            {
+                "title": "mysql2",
+                "href": "https://github.com/brianmario/mysql2",
+                "github": "brianmario/mysql2",
+                "type": "github"
+            },
+            {
+                "title": "Neography",
+                "href": "https://github.com/maxdemarzi/neography",
+                "github": "maxdemarzi/neography",
+                "type": "github"
+            },
+            {
+                "title": "Redic",
+                "href": "https://github.com/amakawa/redic",
+                "github": "amakawa/redic",
+                "type": "github"
+            },
+            {
+                "title": "redis-rb",
+                "href": "https://github.com/redis/redis-rb",
+                "github": "redis/redis-rb",
+                "type": "github"
+            },
+            {
+                "title": "SQLite3",
+                "href": "https://github.com/sparklemotion/sqlite3-ruby",
+                "github": "sparklemotion/sqlite3-ruby",
+                "type": "github"
+            },
+            {
+                "title": "SQL Server",
+                "href": "https://github.com/rails-sqlserver/activerecord-sqlserver-adapter",
+                "github": "rails-sqlserver/activerecord-sqlserver-adapter",
+                "type": "github"
+            },
+            {
+                "title": "TinyTDS",
+                "href": "https://github.com/rails-sqlserver/tiny_tds",
+                "github": "rails-sqlserver/tiny_tds",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database Tools",
+        "childrens": [
+            {
+                "title": "Database Cleaner",
+                "href": "https://github.com/DatabaseCleaner/database_cleaner",
+                "github": "DatabaseCleaner/database_cleaner",
+                "type": "github"
+            },
+            {
+                "title": "Foreigner",
+                "href": "https://github.com/matthuhiggins/foreigner",
+                "github": "matthuhiggins/foreigner",
+                "type": "github"
+            },
+            {
+                "title": "Large Hadron Migrator",
+                "href": "https://github.com/soundcloud/lhm",
+                "github": "soundcloud/lhm",
+                "type": "github"
+            },
+            {
+                "title": "Lol DBA",
+                "href": "https://github.com/plentz/lol_dba",
+                "github": "plentz/lol_dba",
+                "type": "github"
+            },
+            {
+                "title": "Polo",
+                "href": "https://github.com/IFTTT/polo",
+                "github": "IFTTT/polo",
+                "type": "github"
+            },
+            {
+                "title": "PgHero",
+                "href": "https://github.com/ankane/pghero",
+                "github": "ankane/pghero",
+                "type": "github"
+            },
+            {
+                "title": "Rails DB",
+                "href": "https://github.com/igorkasyanchuk/rails_db",
+                "github": "igorkasyanchuk/rails_db",
+                "type": "github"
+            },
+            {
+                "title": "Scenic",
+                "href": "https://github.com/thoughtbot/scenic",
+                "github": "thoughtbot/scenic",
+                "type": "github"
+            },
+            {
+                "title": "SchemaPlus",
+                "href": "https://github.com/SchemaPlus/schema_plus",
+                "github": "SchemaPlus/schema_plus",
+                "type": "github"
+            },
+            {
+                "title": "Seedbank",
+                "href": "https://github.com/james2m/seedbank",
+                "github": "james2m/seedbank",
+                "type": "github"
+            },
+            {
+                "title": "Seed dump",
+                "href": "https://github.com/rroblak/seed_dump",
+                "github": "rroblak/seed_dump",
+                "type": "github"
+            },
+            {
+                "title": "Seed Fu",
+                "href": "https://github.com/mbleigh/seed-fu",
+                "github": "mbleigh/seed-fu",
+                "type": "github"
+            },
+            {
+                "title": "Upsert",
+                "href": "https://github.com/seamusabshere/upsert",
+                "github": "seamusabshere/upsert",
+                "type": "github"
+            },
+            {
+                "title": "SecondBase",
+                "href": "https://github.com/customink/secondbase",
+                "github": "customink/secondbase",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Date and Time Processing",
+        "childrens": [
+            {
+                "title": "biz",
+                "href": "https://github.com/zendesk/biz",
+                "github": "zendesk/biz",
+                "type": "github"
+            },
+            {
+                "title": "business_time",
+                "href": "https://github.com/bokmann/business_time",
+                "github": "bokmann/business_time",
+                "type": "github"
+            },
+            {
+                "title": "ByStar",
+                "href": "https://github.com/radar/by_star",
+                "github": "radar/by_star",
+                "type": "github"
+            },
+            {
+                "title": "Chronic",
+                "href": "https://github.com/mojombo/chronic",
+                "github": "mojombo/chronic",
+                "type": "github"
+            },
+            {
+                "title": "groupdate",
+                "href": "https://github.com/ankane/groupdate",
+                "github": "ankane/groupdate",
+                "type": "github"
+            },
+            {
+                "title": "ice_cube",
+                "href": "https://github.com/seejohnrun/ice_cube",
+                "github": "seejohnrun/ice_cube",
+                "type": "github"
+            },
+            {
+                "title": "local_time",
+                "href": "https://github.com/basecamp/local_time",
+                "github": "basecamp/local_time",
+                "type": "github"
+            },
+            {
+                "title": "montrose",
+                "href": "https://github.com/rossta/montrose",
+                "github": "rossta/montrose",
+                "type": "github"
+            },
+            {
+                "title": "time-lord",
+                "href": "https://github.com/krainboltgreene/time-lord",
+                "github": "krainboltgreene/time-lord",
+                "type": "github"
+            },
+            {
+                "title": "time_diff",
+                "href": "https://github.com/abhidsm/time_diff",
+                "github": "abhidsm/time_diff",
+                "type": "github"
+            },
+            {
+                "title": "TZinfo",
+                "href": "https://github.com/tzinfo/tzinfo",
+                "github": "tzinfo/tzinfo",
+                "type": "github"
+            },
+            {
+                "title": "validates_timeliness",
+                "href": "https://github.com/adzap/validates_timeliness",
+                "github": "adzap/validates_timeliness",
+                "type": "github"
+            },
+            {
+                "title": "yymmdd",
+                "href": "https://github.com/sshaw/yymmdd",
+                "github": "sshaw/yymmdd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging Tools",
+        "childrens": [
+            {
+                "title": "Byebug",
+                "href": "https://github.com/deivid-rodriguez/byebug",
+                "github": "deivid-rodriguez/byebug",
+                "type": "github"
+            },
+            {
+                "title": "did_you_mean",
+                "href": "https://github.com/yuki24/did_you_mean",
+                "github": "yuki24/did_you_mean",
+                "type": "github"
+            },
+            {
+                "title": "Pry Byebug",
+                "href": "https://github.com/deivid-rodriguez/pry-byebug",
+                "github": "deivid-rodriguez/pry-byebug",
+                "type": "github"
+            },
+            {
+                "title": "Rails Footnotes",
+                "href": "https://github.com/josevalim/rails-footnotes",
+                "github": "josevalim/rails-footnotes",
+                "type": "github"
+            },
+            {
+                "title": "Seeing Is Believing",
+                "href": "https://github.com/JoshCheek/seeing_is_believing",
+                "github": "JoshCheek/seeing_is_believing",
+                "type": "github"
+            },
+            {
+                "title": "Xray",
+                "href": "https://github.com/brentd/xray-rails",
+                "github": "brentd/xray-rails",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Decorators",
+        "childrens": [
+            {
+                "title": "Draper",
+                "href": "https://github.com/drapergem/draper",
+                "github": "drapergem/draper",
+                "type": "github"
+            },
+            {
+                "title": "ShowFor",
+                "href": "https://github.com/plataformatec/show_for",
+                "github": "plataformatec/show_for",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DevOps Tools",
+        "childrens": [
+            {
+                "title": "Backup",
+                "href": "https://github.com/backup/backup",
+                "github": "backup/backup",
+                "type": "github"
+            },
+            {
+                "title": "Blender",
+                "href": "https://github.com/PagerDuty/blender",
+                "github": "PagerDuty/blender",
+                "type": "github"
+            },
+            {
+                "title": "BOSH",
+                "href": "https://github.com/cloudfoundry/bosh",
+                "github": "cloudfoundry/bosh",
+                "type": "github"
+            },
+            {
+                "title": "Centurion",
+                "href": "https://github.com/newrelic/centurion",
+                "github": "newrelic/centurion",
+                "type": "github"
+            },
+            {
+                "title": "Chef",
+                "href": "https://github.com/chef/chef",
+                "github": "chef/chef",
+                "type": "github"
+            },
+            {
+                "title": "Deployinator",
+                "href": "https://github.com/etsy/deployinator",
+                "github": "etsy/deployinator",
+                "type": "github"
+            },
+            {
+                "title": "Einhorn",
+                "href": "https://github.com/stripe/einhorn",
+                "github": "stripe/einhorn",
+                "type": "github"
+            },
+            {
+                "title": "Kochiku",
+                "href": "https://github.com/square/kochiku",
+                "github": "square/kochiku",
+                "type": "github"
+            },
+            {
+                "title": "Logstash",
+                "href": "https://github.com/elastic/logstash",
+                "github": "elastic/logstash",
+                "type": "github"
+            },
+            {
+                "title": "Mina",
+                "href": "https://github.com/mina-deploy/mina",
+                "github": "mina-deploy/mina",
+                "type": "github"
+            },
+            {
+                "title": "Puppet",
+                "href": "https://github.com/puppetlabs/puppet",
+                "github": "puppetlabs/puppet",
+                "type": "github"
+            },
+            {
+                "title": "Request-log-analyzer",
+                "href": "https://github.com/wvanbergen/request-log-analyzer",
+                "github": "wvanbergen/request-log-analyzer",
+                "type": "github"
+            },
+            {
+                "title": "Rubber",
+                "href": "https://github.com/rubber/rubber",
+                "github": "rubber/rubber",
+                "type": "github"
+            },
+            {
+                "title": "SSHKey",
+                "href": "https://github.com/bensie/sshkey",
+                "github": "bensie/sshkey",
+                "type": "github"
+            },
+            {
+                "title": "Ruby-LXC",
+                "href": "https://github.com/lxc/ruby-lxc",
+                "github": "lxc/ruby-lxc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "Annotate",
+                "href": "https://github.com/ctran/annotate_models",
+                "github": "ctran/annotate_models",
+                "type": "github"
+            },
+            {
+                "title": "Apipie",
+                "href": "https://github.com/Apipie/apipie-rails",
+                "github": "Apipie/apipie-rails",
+                "type": "github"
+            },
+            {
+                "title": "Doctor",
+                "href": "https://github.com/minio/doctor",
+                "github": "minio/doctor",
+                "type": "github"
+            },
+            {
+                "title": "Documentation",
+                "href": "https://github.com/adamcooke/documentation",
+                "github": "adamcooke/documentation",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Changelog Generator",
+                "href": "https://github.com/skywinder/github-changelog-generator",
+                "github": "skywinder/github-changelog-generator",
+                "type": "github"
+            },
+            {
+                "title": "grape-swagger",
+                "href": "https://github.com/ruby-grape/grape-swagger",
+                "github": "ruby-grape/grape-swagger",
+                "type": "github"
+            },
+            {
+                "title": "Hanna",
+                "href": "https://github.com/rdoc/hanna-nouveau",
+                "github": "rdoc/hanna-nouveau",
+                "type": "github"
+            },
+            {
+                "title": "Hologram",
+                "href": "https://github.com/trulia/hologram",
+                "github": "trulia/hologram",
+                "type": "github"
+            },
+            {
+                "title": "Inch",
+                "href": "https://github.com/rrrene/inch",
+                "github": "rrrene/inch",
+                "type": "github"
+            },
+            {
+                "title": "RDoc",
+                "href": "https://github.com/rdoc/rdoc",
+                "github": "rdoc/rdoc",
+                "type": "github"
+            },
+            {
+                "title": "rspec_api_documentation",
+                "href": "https://github.com/zipmark/rspec_api_documentation",
+                "github": "zipmark/rspec_api_documentation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "E-Commerce and Payments",
+        "childrens": [
+            {
+                "title": "Active Merchant",
+                "href": "https://github.com/activemerchant/active_merchant",
+                "github": "activemerchant/active_merchant",
+                "type": "github"
+            },
+            {
+                "title": "Braintree",
+                "href": "https://github.com/braintree/braintree_ruby",
+                "github": "braintree/braintree_ruby",
+                "type": "github"
+            },
+            {
+                "title": "Conekta",
+                "href": "https://github.com/conekta/conekta-ruby",
+                "github": "conekta/conekta-ruby",
+                "type": "github"
+            },
+            {
+                "title": "credit_card_validations",
+                "href": "https://github.com/Fivell/credit_card_validations",
+                "github": "Fivell/credit_card_validations",
+                "type": "github"
+            },
+            {
+                "title": "Koudoku",
+                "href": "https://github.com/andrewculver/koudoku",
+                "github": "andrewculver/koudoku",
+                "type": "github"
+            },
+            {
+                "title": "Payola",
+                "href": "https://github.com/peterkeen/payola",
+                "github": "peterkeen/payola",
+                "type": "github"
+            },
+            {
+                "title": "Paypal Merchant SDK",
+                "href": "https://github.com/paypal/merchant-sdk-ruby",
+                "github": "paypal/merchant-sdk-ruby",
+                "type": "github"
+            },
+            {
+                "title": "Piggybak",
+                "href": "https://github.com/piggybak/piggybak",
+                "github": "piggybak/piggybak",
+                "type": "github"
+            },
+            {
+                "title": "ROR Ecommerce",
+                "href": "https://github.com/drhenner/ror_ecommerce",
+                "github": "drhenner/ror_ecommerce",
+                "type": "github"
+            },
+            {
+                "title": "Solidus",
+                "href": "https://github.com/solidusio/solidus",
+                "github": "solidusio/solidus",
+                "type": "github"
+            },
+            {
+                "title": "Spree",
+                "href": "https://github.com/spree/spree",
+                "github": "spree/spree",
+                "type": "github"
+            },
+            {
+                "title": "stripe-ruby",
+                "href": "https://github.com/stripe/stripe-ruby",
+                "github": "stripe/stripe-ruby",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ebook",
+        "childrens": [
+            {
+                "title": "Bookshop",
+                "href": "https://github.com/worlduniting/bookshop",
+                "github": "worlduniting/bookshop",
+                "type": "github"
+            },
+            {
+                "title": "Eeepub",
+                "href": "https://github.com/jugyo/eeepub",
+                "github": "jugyo/eeepub",
+                "type": "github"
+            },
+            {
+                "title": "Gepub",
+                "href": "https://github.com/skoji/gepub",
+                "github": "skoji/gepub",
+                "type": "github"
+            },
+            {
+                "title": "Git Scribe",
+                "href": "https://github.com/schacon/git-scribe",
+                "github": "schacon/git-scribe",
+                "type": "github"
+            },
+            {
+                "title": "Mobi",
+                "href": "https://github.com/jkongie/mobi",
+                "github": "jkongie/mobi",
+                "type": "github"
+            },
+            {
+                "title": "Review",
+                "href": "https://github.com/kmuto/review",
+                "github": "kmuto/review",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Email",
+        "childrens": [
+            {
+                "title": "Griddler",
+                "href": "https://github.com/thoughtbot/griddler",
+                "github": "thoughtbot/griddler",
+                "type": "github"
+            },
+            {
+                "title": "Incoming",
+                "href": "https://github.com/honeybadger-io/incoming",
+                "github": "honeybadger-io/incoming",
+                "type": "github"
+            },
+            {
+                "title": "LetterOpener",
+                "href": "https://github.com/ryanb/letter_opener",
+                "github": "ryanb/letter_opener",
+                "type": "github"
+            },
+            {
+                "title": "Mail",
+                "href": "https://github.com/mikel/mail",
+                "github": "mikel/mail",
+                "type": "github"
+            },
+            {
+                "title": "MailForm",
+                "href": "https://github.com/plataformatec/mail_form",
+                "github": "plataformatec/mail_form",
+                "type": "github"
+            },
+            {
+                "title": "Mailman",
+                "href": "https://github.com/mailman/mailman",
+                "github": "mailman/mailman",
+                "type": "github"
+            },
+            {
+                "title": "Markerb",
+                "href": "https://github.com/plataformatec/markerb",
+                "github": "plataformatec/markerb",
+                "type": "github"
+            },
+            {
+                "title": "Pony",
+                "href": "https://github.com/benprew/pony",
+                "github": "benprew/pony",
+                "type": "github"
+            },
+            {
+                "title": "premailer-rails",
+                "href": "https://github.com/fphilipe/premailer-rails",
+                "github": "fphilipe/premailer-rails",
+                "type": "github"
+            },
+            {
+                "title": "Roadie",
+                "href": "https://github.com/Mange/roadie",
+                "github": "Mange/roadie",
+                "type": "github"
+            },
+            {
+                "title": "Sup",
+                "href": "https://github.com/sup-heliotrope/sup",
+                "github": "sup-heliotrope/sup",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Encryption",
+        "childrens": [
+            {
+                "title": "RbNaCl",
+                "href": "https://github.com/cryptosphere/rbnacl",
+                "github": "cryptosphere/rbnacl",
+                "type": "github"
+            },
+            {
+                "title": "Themis",
+                "href": "https://github.com/cossacklabs/themis",
+                "github": "cossacklabs/themis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Environment Management",
+        "childrens": [
+            {
+                "title": "chruby",
+                "href": "https://github.com/postmodern/chruby",
+                "github": "postmodern/chruby",
+                "type": "github"
+            },
+            {
+                "title": "fry",
+                "href": "https://github.com/terlar/fry",
+                "github": "terlar/fry",
+                "type": "github"
+            },
+            {
+                "title": "gem_home",
+                "href": "https://github.com/postmodern/gem_home",
+                "github": "postmodern/gem_home",
+                "type": "github"
+            },
+            {
+                "title": "rbenv",
+                "href": "https://github.com/sstephenson/rbenv",
+                "github": "sstephenson/rbenv",
+                "type": "github"
+            },
+            {
+                "title": "ruby-build",
+                "href": "https://github.com/sstephenson/ruby-build",
+                "github": "sstephenson/ruby-build",
+                "type": "github"
+            },
+            {
+                "title": "ruby-install",
+                "href": "https://github.com/postmodern/ruby-install",
+                "github": "postmodern/ruby-install",
+                "type": "github"
+            },
+            {
+                "title": "Tokaido",
+                "href": "https://github.com/tokaido/tokaidoapp/releases",
+                "github": "tokaido/tokaidoapp/releases",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Error Handling",
+        "childrens": [
+            {
+                "title": "Airbrake",
+                "href": "https://github.com/airbrake/airbrake",
+                "github": "airbrake/airbrake",
+                "type": "github"
+            },
+            {
+                "title": "Better Errors",
+                "href": "https://github.com/charliesome/better_errors",
+                "github": "charliesome/better_errors",
+                "type": "github"
+            },
+            {
+                "title": "Bugsnag",
+                "href": "https://github.com/bugsnag/bugsnag-ruby",
+                "github": "bugsnag/bugsnag-ruby",
+                "type": "github"
+            },
+            {
+                "title": "Exception Handler",
+                "href": "https://github.com/richpeck/exception_handler",
+                "github": "richpeck/exception_handler",
+                "type": "github"
+            },
+            {
+                "title": "Exception Notification",
+                "href": "https://github.com/smartinez87/exception_notification",
+                "github": "smartinez87/exception_notification",
+                "type": "github"
+            },
+            {
+                "title": "Nesty",
+                "href": "https://github.com/skorks/nesty",
+                "github": "skorks/nesty",
+                "type": "github"
+            },
+            {
+                "title": "Raven Ruby",
+                "href": "https://github.com/getsentry/raven-ruby",
+                "github": "getsentry/raven-ruby",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Feature Flippers and A/B Testing",
+        "childrens": [
+            {
+                "title": "Motorhead",
+                "href": "https://github.com/amatsuda/motorhead",
+                "github": "amatsuda/motorhead",
+                "type": "github"
+            },
+            {
+                "title": "flipper",
+                "href": "https://github.com/jnunemaker/flipper",
+                "github": "jnunemaker/flipper",
+                "type": "github"
+            },
+            {
+                "title": "Rollout",
+                "href": "https://github.com/FetLife/rollout",
+                "github": "FetLife/rollout",
+                "type": "github"
+            },
+            {
+                "title": "Split",
+                "href": "https://github.com/splitrb/split",
+                "github": "splitrb/split",
+                "type": "github"
+            },
+            {
+                "title": "Vanity",
+                "href": "https://github.com/assaf/vanity",
+                "github": "assaf/vanity",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "File Upload",
+        "childrens": [
+            {
+                "title": "CarrierWave",
+                "href": "https://github.com/carrierwaveuploader/carrierwave",
+                "github": "carrierwaveuploader/carrierwave",
+                "type": "github"
+            },
+            {
+                "title": "DragonFly",
+                "href": "https://github.com/markevans/dragonfly",
+                "github": "markevans/dragonfly",
+                "type": "github"
+            },
+            {
+                "title": "PaperClip",
+                "href": "https://github.com/thoughtbot/paperclip",
+                "github": "thoughtbot/paperclip",
+                "type": "github"
+            },
+            {
+                "title": "rack-secure-upload",
+                "href": "https://github.com/dtaniwaki/rack-secure-upload",
+                "github": "dtaniwaki/rack-secure-upload",
+                "type": "github"
+            },
+            {
+                "title": "Refile",
+                "href": "https://github.com/refile/refile",
+                "github": "refile/refile",
+                "type": "github"
+            },
+            {
+                "title": "Shrine",
+                "href": "https://github.com/janko-m/shrine",
+                "github": "janko-m/shrine",
+                "type": "github"
+            },
+            {
+                "title": "attache",
+                "href": "https://github.com/choonkeat/attache",
+                "github": "choonkeat/attache",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Form Builder",
+        "childrens": [
+            {
+                "title": "Abracadabra",
+                "href": "https://github.com/TrevorHinesley/abracadabra",
+                "github": "TrevorHinesley/abracadabra",
+                "type": "github"
+            },
+            {
+                "title": "Formtastic",
+                "href": "https://github.com/justinfrench/formtastic",
+                "github": "justinfrench/formtastic",
+                "type": "github"
+            },
+            {
+                "title": "Rails Bootstrap Forms",
+                "href": "https://github.com/bootstrap-ruby/rails-bootstrap-forms",
+                "github": "bootstrap-ruby/rails-bootstrap-forms",
+                "type": "github"
+            },
+            {
+                "title": "Simple Form",
+                "href": "https://github.com/plataformatec/simple_form",
+                "github": "plataformatec/simple_form",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game Development",
+        "childrens": [
+            {
+                "title": "Yeah",
+                "href": "https://github.com/yeahrb/yeah",
+                "github": "yeahrb/yeah",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Geolocation",
+        "childrens": [
+            {
+                "title": "Geocoder",
+                "href": "https://github.com/alexreisner/geocoder",
+                "github": "alexreisner/geocoder",
+                "type": "github"
+            },
+            {
+                "title": "geoip",
+                "href": "https://github.com/cjheath/geoip",
+                "github": "cjheath/geoip",
+                "type": "github"
+            },
+            {
+                "title": "Geokit",
+                "href": "https://github.com/geokit/geokit",
+                "github": "geokit/geokit",
+                "type": "github"
+            },
+            {
+                "title": "Google Maps for Rails",
+                "href": "https://github.com/apneadiving/Google-Maps-for-Rails",
+                "github": "apneadiving/Google-Maps-for-Rails",
+                "type": "github"
+            },
+            {
+                "title": "rgeo",
+                "href": "https://github.com/rgeo/rgeo",
+                "github": "rgeo/rgeo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Git Tools",
+        "childrens": [
+            {
+                "title": "ginatra",
+                "href": "https://github.com/NARKOZ/ginatra",
+                "github": "NARKOZ/ginatra",
+                "type": "github"
+            },
+            {
+                "title": "git-auto-bisect",
+                "href": "https://github.com/grosser/git-autobisect",
+                "github": "grosser/git-autobisect",
+                "type": "github"
+            },
+            {
+                "title": "git_reflow",
+                "href": "https://github.com/reenhanced/gitreflow",
+                "github": "reenhanced/gitreflow",
+                "type": "github"
+            },
+            {
+                "title": "git-spelunk",
+                "href": "https://github.com/osheroff/git-spelunk",
+                "github": "osheroff/git-spelunk",
+                "type": "github"
+            },
+            {
+                "title": "git-up",
+                "href": "https://github.com/aanand/git-up",
+                "github": "aanand/git-up",
+                "type": "github"
+            },
+            {
+                "title": "git-whence",
+                "href": "https://github.com/grosser/git-whence",
+                "github": "grosser/git-whence",
+                "type": "github"
+            },
+            {
+                "title": "Overcommit",
+                "href": "https://github.com/brigade/overcommit",
+                "github": "brigade/overcommit",
+                "type": "github"
+            },
+            {
+                "title": "Rugged",
+                "href": "https://github.com/libgit2/rugged",
+                "github": "libgit2/rugged",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "qtbindings",
+                "href": "https://github.com/ryanmelt/qtbindings",
+                "github": "ryanmelt/qtbindings",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML/XML Parsing",
+        "childrens": [
+            {
+                "title": "HappyMapper",
+                "href": "https://github.com/dam5s/happymapper",
+                "github": "dam5s/happymapper",
+                "type": "github"
+            },
+            {
+                "title": "HTML::Pipeline",
+                "href": "https://github.com/jch/html-pipeline",
+                "github": "jch/html-pipeline",
+                "type": "github"
+            },
+            {
+                "title": "Oga",
+                "href": "https://github.com/YorickPeterse/oga",
+                "github": "YorickPeterse/oga",
+                "type": "github"
+            },
+            {
+                "title": "Ox",
+                "href": "https://github.com/ohler55/ox",
+                "github": "ohler55/ox",
+                "type": "github"
+            },
+            {
+                "title": "ROXML",
+                "href": "https://github.com/Empact/roxml",
+                "github": "Empact/roxml",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP Clients",
+        "childrens": [
+            {
+                "title": "excon",
+                "href": "https://github.com/excon/excon",
+                "github": "excon/excon",
+                "type": "github"
+            },
+            {
+                "title": "Faraday",
+                "href": "https://github.com/lostisland/faraday",
+                "github": "lostisland/faraday",
+                "type": "github"
+            },
+            {
+                "title": "Http Client",
+                "href": "https://github.com/nahi/httpclient",
+                "github": "nahi/httpclient",
+                "type": "github"
+            },
+            {
+                "title": "HTTP",
+                "href": "https://github.com/httprb/http",
+                "github": "httprb/http",
+                "type": "github"
+            },
+            {
+                "title": "httparty",
+                "href": "https://github.com/jnunemaker/httparty",
+                "github": "jnunemaker/httparty",
+                "type": "github"
+            },
+            {
+                "title": "Http-2",
+                "href": "https://github.com/igrigorik/http-2",
+                "github": "igrigorik/http-2",
+                "type": "github"
+            },
+            {
+                "title": "Patron",
+                "href": "https://github.com/toland/patron",
+                "github": "toland/patron",
+                "type": "github"
+            },
+            {
+                "title": "RESTClient",
+                "href": "https://github.com/rest-client/rest-client",
+                "github": "rest-client/rest-client",
+                "type": "github"
+            },
+            {
+                "title": "Savon",
+                "href": "https://github.com/savonrb/savon",
+                "github": "savonrb/savon",
+                "type": "github"
+            },
+            {
+                "title": "Sawyer",
+                "href": "https://github.com/lostisland/sawyer",
+                "github": "lostisland/sawyer",
+                "type": "github"
+            },
+            {
+                "title": "Typhoeus",
+                "href": "https://github.com/typhoeus/typhoeus",
+                "github": "typhoeus/typhoeus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image Processing",
+        "childrens": [
+            {
+                "title": "MiniMagick",
+                "href": "https://github.com/minimagick/minimagick",
+                "github": "minimagick/minimagick",
+                "type": "github"
+            },
+            {
+                "title": "Phasion",
+                "href": "https://github.com/westonplatter/phashion",
+                "github": "westonplatter/phashion",
+                "type": "github"
+            },
+            {
+                "title": "PSD.rb",
+                "href": "https://github.com/layervault/psd.rb",
+                "github": "layervault/psd.rb",
+                "type": "github"
+            },
+            {
+                "title": "RMagick",
+                "href": "https://github.com/rmagick/rmagick",
+                "github": "rmagick/rmagick",
+                "type": "github"
+            },
+            {
+                "title": "Skeptick",
+                "href": "https://github.com/maxim/skeptick",
+                "github": "maxim/skeptick",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Implementations/Compilers",
+        "childrens": [
+            {
+                "title": "JRuby",
+                "href": "https://github.com/jruby/jruby",
+                "github": "jruby/jruby",
+                "type": "github"
+            },
+            {
+                "title": "MRuby",
+                "href": "https://github.com/mruby/mruby",
+                "github": "mruby/mruby",
+                "type": "github"
+            },
+            {
+                "title": "Opal",
+                "href": "https://github.com/opal/opal",
+                "github": "opal/opal",
+                "type": "github"
+            },
+            {
+                "title": "Rubinius",
+                "href": "https://github.com/rubinius/rubinius",
+                "github": "rubinius/rubinius",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Internationalization",
+        "childrens": [
+            {
+                "title": "FastGettext",
+                "href": "https://github.com/grosser/fast_gettext",
+                "github": "grosser/fast_gettext",
+                "type": "github"
+            },
+            {
+                "title": "Globalize",
+                "href": "https://github.com/globalize/globalize",
+                "github": "globalize/globalize",
+                "type": "github"
+            },
+            {
+                "title": "i18n-tasks",
+                "href": "https://github.com/glebm/i18n-tasks",
+                "github": "glebm/i18n-tasks",
+                "type": "github"
+            },
+            {
+                "title": "i18n",
+                "href": "https://github.com/svenfuchs/i18n",
+                "github": "svenfuchs/i18n",
+                "type": "github"
+            },
+            {
+                "title": "r18n",
+                "href": "https://github.com/ai/r18n",
+                "github": "ai/r18n",
+                "type": "github"
+            },
+            {
+                "title": "Termit",
+                "href": "https://github.com/pawurb/termit",
+                "github": "pawurb/termit",
+                "type": "github"
+            },
+            {
+                "title": "twitter-cldr-rb",
+                "href": "https://github.com/twitter/twitter-cldr-rb",
+                "github": "twitter/twitter-cldr-rb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IRB",
+        "childrens": [
+            {
+                "title": "Hirb",
+                "href": "https://github.com/cldwalker/hirb",
+                "github": "cldwalker/hirb",
+                "type": "github"
+            },
+            {
+                "title": "irbtools",
+                "href": "https://github.com/janlelis/irbtools",
+                "github": "janlelis/irbtools",
+                "type": "github"
+            },
+            {
+                "title": "Pry",
+                "href": "https://github.com/pry/pry",
+                "github": "pry/pry",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "Cabin",
+                "href": "https://github.com/jordansissel/ruby-cabin",
+                "github": "jordansissel/ruby-cabin",
+                "type": "github"
+            },
+            {
+                "title": "Fluentd",
+                "href": "https://github.com/fluent/fluentd",
+                "github": "fluent/fluentd",
+                "type": "github"
+            },
+            {
+                "title": "HttpLog",
+                "href": "https://github.com/trusche/httplog",
+                "github": "trusche/httplog",
+                "type": "github"
+            },
+            {
+                "title": "Log4r",
+                "href": "https://github.com/colbygk/log4r",
+                "github": "colbygk/log4r",
+                "type": "github"
+            },
+            {
+                "title": "Logging",
+                "href": "https://github.com/TwP/logging",
+                "github": "TwP/logging",
+                "type": "github"
+            },
+            {
+                "title": "Lograge",
+                "href": "https://github.com/roidrage/lograge",
+                "github": "roidrage/lograge",
+                "type": "github"
+            },
+            {
+                "title": "MongoDB Logger",
+                "href": "https://github.com/le0pard/mongodb_logger",
+                "github": "le0pard/mongodb_logger",
+                "type": "github"
+            },
+            {
+                "title": "Scrolls",
+                "href": "https://github.com/asenchi/scrolls",
+                "github": "asenchi/scrolls",
+                "type": "github"
+            },
+            {
+                "title": "Yell",
+                "href": "https://github.com/rudionrails/yell",
+                "github": "rudionrails/yell",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "PredictionIO Ruby SDK",
+                "href": "https://github.com/PredictionIO/PredictionIO-Ruby-SDK",
+                "github": "PredictionIO/PredictionIO-Ruby-SDK",
+                "type": "github"
+            },
+            {
+                "title": "rb-libsvm",
+                "href": "https://github.com/febeling/rb-libsvm",
+                "github": "febeling/rb-libsvm",
+                "type": "github"
+            },
+            {
+                "title": "Ruby Datumbox Wrapper",
+                "href": "https://github.com/marloncarvalho/ruby-datumbox",
+                "github": "marloncarvalho/ruby-datumbox",
+                "type": "github"
+            },
+            {
+                "title": "weka",
+                "href": "https://github.com/paulgoetze/weka-jruby",
+                "github": "paulgoetze/weka-jruby",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Markdown Processors",
+        "childrens": [
+            {
+                "title": "kramdown",
+                "href": "https://github.com/gettalong/kramdown",
+                "github": "gettalong/kramdown",
+                "type": "github"
+            },
+            {
+                "title": "Maruku",
+                "href": "https://github.com/bhollis/maruku",
+                "github": "bhollis/maruku",
+                "type": "github"
+            },
+            {
+                "title": "Redcarpet",
+                "href": "https://github.com/vmg/redcarpet",
+                "github": "vmg/redcarpet",
+                "type": "github"
+            },
+            {
+                "title": "word-to-markdown",
+                "href": "https://github.com/benbalter/word-to-markdown",
+                "github": "benbalter/word-to-markdown",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "auto_html",
+                "href": "https://github.com/dejan/auto_html",
+                "github": "dejan/auto_html",
+                "type": "github"
+            },
+            {
+                "title": "Betty",
+                "href": "https://github.com/pickhardt/betty",
+                "github": "pickhardt/betty",
+                "type": "github"
+            },
+            {
+                "title": "Bh",
+                "href": "https://github.com/fullscreen/bh",
+                "github": "fullscreen/bh",
+                "type": "github"
+            },
+            {
+                "title": "Clipboard",
+                "href": "https://github.com/janlelis/clipboard",
+                "github": "janlelis/clipboard",
+                "type": "github"
+            },
+            {
+                "title": "Device Detector",
+                "href": "https://github.com/podigee/device_detector",
+                "github": "podigee/device_detector",
+                "type": "github"
+            },
+            {
+                "title": "Diffy",
+                "href": "https://github.com/samg/diffy",
+                "github": "samg/diffy",
+                "type": "github"
+            },
+            {
+                "title": "Foreman",
+                "href": "https://github.com/ddollar/foreman",
+                "github": "ddollar/foreman",
+                "type": "github"
+            },
+            {
+                "title": "Gollum",
+                "href": "https://github.com/gollum/gollum",
+                "github": "gollum/gollum",
+                "type": "github"
+            },
+            {
+                "title": "gon",
+                "href": "https://github.com/gazay/gon",
+                "github": "gazay/gon",
+                "type": "github"
+            },
+            {
+                "title": "Guard",
+                "href": "https://github.com/guard/guard",
+                "github": "guard/guard",
+                "type": "github"
+            },
+            {
+                "title": "JsonCompare",
+                "href": "https://github.com/a2design-inc/json-compare",
+                "github": "a2design-inc/json-compare",
+                "type": "github"
+            },
+            {
+                "title": "play ►",
+                "href": "https://github.com/play/play",
+                "github": "play/play",
+                "type": "github"
+            },
+            {
+                "title": "PluggableJs",
+                "href": "https://github.com/peresleguine/pluggable_js",
+                "github": "peresleguine/pluggable_js",
+                "type": "github"
+            },
+            {
+                "title": "QR-code",
+                "href": "https://github.com/whomwah/rqrcode",
+                "github": "whomwah/rqrcode",
+                "type": "github"
+            },
+            {
+                "title": "RubyDNS",
+                "href": "https://github.com/ioquatix/rubydns",
+                "github": "ioquatix/rubydns",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile Development",
+        "childrens": [
+            {
+                "title": "dryrun",
+                "href": "https://github.com/cesarferreira/dryrun",
+                "github": "cesarferreira/dryrun",
+                "type": "github"
+            },
+            {
+                "title": "fastlane",
+                "href": "https://github.com/fastlane/fastlane",
+                "github": "fastlane/fastlane",
+                "type": "github"
+            },
+            {
+                "title": "Ruby Push Notifications",
+                "href": "https://github.com/calonso/ruby-push-notifications",
+                "github": "calonso/ruby-push-notifications",
+                "type": "github"
+            },
+            {
+                "title": "Rpush",
+                "href": "https://github.com/rpush/rpush",
+                "github": "rpush/rpush",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Money",
+        "childrens": [
+            {
+                "title": "eu_central_bank",
+                "href": "https://github.com/RubyMoney/eu_central_bank",
+                "github": "RubyMoney/eu_central_bank",
+                "type": "github"
+            },
+            {
+                "title": "Monetize",
+                "href": "https://github.com/RubyMoney/monetize",
+                "github": "RubyMoney/monetize",
+                "type": "github"
+            },
+            {
+                "title": "Money",
+                "href": "https://github.com/RubyMoney/money",
+                "github": "RubyMoney/money",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Music and Sound",
+        "childrens": [
+            {
+                "title": "Sonic Pi",
+                "href": "https://github.com/samaaron/sonic-pi",
+                "github": "samaaron/sonic-pi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Awesome NLP with Ruby",
+                "href": "https://github.com/arbox/nlp-with-ruby",
+                "github": "arbox/nlp-with-ruby",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx-ruby",
+                "href": "https://github.com/watsonbox/pocketsphinx-ruby",
+                "github": "watsonbox/pocketsphinx-ruby",
+                "type": "github"
+            },
+            {
+                "title": "Pragmatic Segmenter",
+                "href": "https://github.com/diasks2/pragmatic_segmenter",
+                "github": "diasks2/pragmatic_segmenter",
+                "type": "github"
+            },
+            {
+                "title": "Ruby Natural Language Processing Resources",
+                "href": "https://github.com/diasks2/ruby-nlp",
+                "github": "diasks2/ruby-nlp",
+                "type": "github"
+            },
+            {
+                "title": "Text",
+                "href": "https://github.com/threedaymonk/text",
+                "github": "threedaymonk/text",
+                "type": "github"
+            },
+            {
+                "title": "Treat",
+                "href": "https://github.com/louismullie/treat",
+                "github": "louismullie/treat",
+                "type": "github"
+            },
+            {
+                "title": "Treetop",
+                "href": "https://github.com/cjheath/treetop",
+                "github": "cjheath/treetop",
+                "type": "github"
+            },
+            {
+                "title": "Words Counted",
+                "href": "https://github.com/abitdodgy/words_counted",
+                "github": "abitdodgy/words_counted",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Navigation",
+        "childrens": [
+            {
+                "title": "active_link_to",
+                "href": "https://github.com/comfy/active_link_to",
+                "github": "comfy/active_link_to",
+                "type": "github"
+            },
+            {
+                "title": "Breadcrumbs on Rails",
+                "href": "https://github.com/weppos/breadcrumbs_on_rails",
+                "github": "weppos/breadcrumbs_on_rails",
+                "type": "github"
+            },
+            {
+                "title": "Gretel",
+                "href": "https://github.com/lassebunk/gretel",
+                "github": "lassebunk/gretel",
+                "type": "github"
+            },
+            {
+                "title": "loaf",
+                "href": "https://github.com/peter-murach/loaf",
+                "github": "peter-murach/loaf",
+                "type": "github"
+            },
+            {
+                "title": "Simple Navigation",
+                "href": "https://github.com/codeplant/simple-navigation",
+                "github": "codeplant/simple-navigation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM/ODM",
+        "childrens": [
+            {
+                "title": "ActiveRecord",
+                "href": "https://github.com/rails/rails/tree/master/activerecord",
+                "github": "rails/rails/tree/master/activerecord",
+                "type": "github"
+            },
+            {
+                "title": "DataMapper",
+                "href": "https://github.com/datamapper/dm-core",
+                "github": "datamapper/dm-core",
+                "type": "github"
+            },
+            {
+                "title": "Guacamole",
+                "href": "https://github.com/triAGENS/guacamole",
+                "github": "triAGENS/guacamole",
+                "type": "github"
+            },
+            {
+                "title": "Hanami::Model",
+                "href": "https://github.com/hanami/model",
+                "github": "hanami/model",
+                "type": "github"
+            },
+            {
+                "title": "Mongoid",
+                "href": "https://github.com/mongoid/mongoid",
+                "github": "mongoid/mongoid",
+                "type": "github"
+            },
+            {
+                "title": "MongoMapper",
+                "href": "https://github.com/mongomapper/mongomapper",
+                "github": "mongomapper/mongomapper",
+                "type": "github"
+            },
+            {
+                "title": "MongoModel",
+                "href": "https://github.com/spohlenz/mongomodel",
+                "github": "spohlenz/mongomodel",
+                "type": "github"
+            },
+            {
+                "title": "NoBrainer",
+                "href": "https://github.com/nviennot/nobrainer/",
+                "github": "nviennot/nobrainer/",
+                "type": "github"
+            },
+            {
+                "title": "Ohm",
+                "href": "https://github.com/soveran/ohm",
+                "github": "soveran/ohm",
+                "type": "github"
+            },
+            {
+                "title": "Perpetuity",
+                "href": "https://github.com/jgaskins/perpetuity",
+                "github": "jgaskins/perpetuity",
+                "type": "github"
+            },
+            {
+                "title": "Redis-Objects",
+                "href": "https://github.com/nateware/redis-objects",
+                "github": "nateware/redis-objects",
+                "type": "github"
+            },
+            {
+                "title": "ROM",
+                "href": "https://github.com/rom-rb/rom",
+                "github": "rom-rb/rom",
+                "type": "github"
+            },
+            {
+                "title": "Sequel",
+                "href": "https://github.com/jeremyevans/sequel",
+                "github": "jeremyevans/sequel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Pagination",
+        "childrens": [
+            {
+                "title": "Kaminari",
+                "href": "https://github.com/amatsuda/kaminari",
+                "github": "amatsuda/kaminari",
+                "type": "github"
+            },
+            {
+                "title": "order_query",
+                "href": "https://github.com/glebm/order_query",
+                "github": "glebm/order_query",
+                "type": "github"
+            },
+            {
+                "title": "will_paginate",
+                "href": "https://github.com/mislav/will_paginate",
+                "github": "mislav/will_paginate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PDF",
+        "childrens": [
+            {
+                "title": "CombinePDF",
+                "href": "https://github.com/boazsegev/combine_pdf",
+                "github": "boazsegev/combine_pdf",
+                "type": "github"
+            },
+            {
+                "title": "Gimli",
+                "href": "https://github.com/walle/gimli",
+                "github": "walle/gimli",
+                "type": "github"
+            },
+            {
+                "title": "HexaPDF",
+                "href": "https://github.com/gettalong/hexapdf",
+                "github": "gettalong/hexapdf",
+                "type": "github"
+            },
+            {
+                "title": "Kitabu",
+                "href": "https://github.com/fnando/kitabu",
+                "github": "fnando/kitabu",
+                "type": "github"
+            },
+            {
+                "title": "Pdfkit",
+                "href": "https://github.com/pdfkit/pdfkit",
+                "github": "pdfkit/pdfkit",
+                "type": "github"
+            },
+            {
+                "title": "Prawn",
+                "href": "https://github.com/prawnpdf/prawn",
+                "github": "prawnpdf/prawn",
+                "type": "github"
+            },
+            {
+                "title": "RGhost",
+                "href": "https://github.com/shairontoledo/rghost",
+                "github": "shairontoledo/rghost",
+                "type": "github"
+            },
+            {
+                "title": "Shrimp",
+                "href": "https://github.com/adjust/shrimp",
+                "github": "adjust/shrimp",
+                "type": "github"
+            },
+            {
+                "title": "Squid",
+                "href": "https://github.com/fullscreen/squid",
+                "github": "fullscreen/squid",
+                "type": "github"
+            },
+            {
+                "title": "Wicked Pdf",
+                "href": "https://github.com/mileszs/wicked_pdf",
+                "github": "mileszs/wicked_pdf",
+                "type": "github"
+            },
+            {
+                "title": "Wisepdf",
+                "href": "https://github.com/igor-alexandrov/wisepdf",
+                "github": "igor-alexandrov/wisepdf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Performance Monitoring",
+        "childrens": [
+            {
+                "title": "Instrumental",
+                "href": "https://github.com/expectedbehavior/instrumental_agent",
+                "github": "expectedbehavior/instrumental_agent",
+                "type": "github"
+            },
+            {
+                "title": "New Relic",
+                "href": "https://github.com/newrelic/rpm",
+                "github": "newrelic/rpm",
+                "type": "github"
+            },
+            {
+                "title": "Skylight",
+                "href": "https://github.com/skylightio/skylight-ruby",
+                "github": "skylightio/skylight-ruby",
+                "type": "github"
+            },
+            {
+                "title": "TraceView",
+                "href": "https://github.com/appneta/ruby-traceview",
+                "github": "appneta/ruby-traceview",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Presentation Programs",
+        "childrens": [
+            {
+                "title": "Middleman Presentation",
+                "href": "https://github.com/fedux-org/middleman-presentation",
+                "github": "fedux-org/middleman-presentation",
+                "type": "github"
+            },
+            {
+                "title": "Slide Show (S9)",
+                "href": "https://github.com/slideshow-s9/slideshow",
+                "github": "slideshow-s9/slideshow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Process Monitoring",
+        "childrens": [
+            {
+                "title": "Bluepill",
+                "href": "https://github.com/bluepill-rb/bluepill",
+                "github": "bluepill-rb/bluepill",
+                "type": "github"
+            },
+            {
+                "title": "Eye",
+                "href": "https://github.com/kostya/eye",
+                "github": "kostya/eye",
+                "type": "github"
+            },
+            {
+                "title": "God",
+                "href": "https://github.com/mojombo/god",
+                "github": "mojombo/god",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Processes and Threads",
+        "childrens": [
+            {
+                "title": "childprocess",
+                "href": "https://github.com/jarib/childprocess",
+                "github": "jarib/childprocess",
+                "type": "github"
+            },
+            {
+                "title": "forkoff",
+                "href": "https://github.com/ahoward/forkoff",
+                "github": "ahoward/forkoff",
+                "type": "github"
+            },
+            {
+                "title": "Parallel",
+                "href": "https://github.com/grosser/parallel",
+                "github": "grosser/parallel",
+                "type": "github"
+            },
+            {
+                "title": "posix-spawn",
+                "href": "https://github.com/rtomayko/posix-spawn",
+                "github": "rtomayko/posix-spawn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Profiler",
+        "childrens": [
+            {
+                "title": "benchmark-ips",
+                "href": "https://github.com/evanphx/benchmark-ips",
+                "github": "evanphx/benchmark-ips",
+                "type": "github"
+            },
+            {
+                "title": "bullet",
+                "href": "https://github.com/flyerhzm/bullet",
+                "github": "flyerhzm/bullet",
+                "type": "github"
+            },
+            {
+                "title": "Derailed Benchmarks",
+                "href": "https://github.com/schneems/derailed_benchmarks",
+                "github": "schneems/derailed_benchmarks",
+                "type": "github"
+            },
+            {
+                "title": "Peek",
+                "href": "https://github.com/peek/peek",
+                "github": "peek/peek",
+                "type": "github"
+            },
+            {
+                "title": "perftools.rb",
+                "href": "https://github.com/tmm1/perftools.rb",
+                "github": "tmm1/perftools.rb",
+                "type": "github"
+            },
+            {
+                "title": "rack-mini-profiler",
+                "href": "https://github.com/MiniProfiler/rack-mini-profiler",
+                "github": "MiniProfiler/rack-mini-profiler",
+                "type": "github"
+            },
+            {
+                "title": "Rbkit",
+                "href": "https://github.com/code-mancers/rbkit",
+                "github": "code-mancers/rbkit",
+                "type": "github"
+            },
+            {
+                "title": "ruby-prof",
+                "href": "https://github.com/ruby-prof/ruby-prof",
+                "github": "ruby-prof/ruby-prof",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Queue",
+        "childrens": [
+            {
+                "title": "Backburner",
+                "href": "https://github.com/nesquena/backburner",
+                "github": "nesquena/backburner",
+                "type": "github"
+            },
+            {
+                "title": "Bunny",
+                "href": "https://github.com/ruby-amqp/bunny",
+                "github": "ruby-amqp/bunny",
+                "type": "github"
+            },
+            {
+                "title": "Delayed::Job",
+                "href": "https://github.com/collectiveidea/delayed_job",
+                "github": "collectiveidea/delayed_job",
+                "type": "github"
+            },
+            {
+                "title": "Gush",
+                "href": "https://github.com/chaps-io/gush",
+                "github": "chaps-io/gush",
+                "type": "github"
+            },
+            {
+                "title": "March Hare",
+                "href": "https://github.com/ruby-amqp/march_hare",
+                "github": "ruby-amqp/march_hare",
+                "type": "github"
+            },
+            {
+                "title": "Resque",
+                "href": "https://github.com/resque/resque",
+                "github": "resque/resque",
+                "type": "github"
+            },
+            {
+                "title": "Que",
+                "href": "https://github.com/chanks/que",
+                "github": "chanks/que",
+                "type": "github"
+            },
+            {
+                "title": "Shoryuken",
+                "href": "https://github.com/phstc/shoryuken",
+                "github": "phstc/shoryuken",
+                "type": "github"
+            },
+            {
+                "title": "Sneakers",
+                "href": "https://github.com/jondot/sneakers",
+                "github": "jondot/sneakers",
+                "type": "github"
+            },
+            {
+                "title": "Sucker Punch",
+                "href": "https://github.com/brandonhilkert/sucker_punch",
+                "github": "brandonhilkert/sucker_punch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rails Application Generators",
+        "childrens": [
+            {
+                "title": "Bootstrappers",
+                "href": "https://github.com/xdite/bootstrappers",
+                "github": "xdite/bootstrappers",
+                "type": "github"
+            },
+            {
+                "title": "Hobo",
+                "href": "https://github.com/Hobo/hobo",
+                "github": "Hobo/hobo",
+                "type": "github"
+            },
+            {
+                "title": "orats",
+                "href": "https://github.com/nickjj/orats",
+                "github": "nickjj/orats",
+                "type": "github"
+            },
+            {
+                "title": "Rails Composer",
+                "href": "https://github.com/RailsApps/rails-composer",
+                "github": "RailsApps/rails-composer",
+                "type": "github"
+            },
+            {
+                "title": "Raygun",
+                "href": "https://github.com/carbonfive/raygun",
+                "github": "carbonfive/raygun",
+                "type": "github"
+            },
+            {
+                "title": "Suspenders",
+                "href": "https://github.com/thoughtbot/suspenders",
+                "github": "thoughtbot/suspenders",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "RSS",
+        "childrens": [
+            {
+                "title": "Feed normalizer",
+                "href": "https://github.com/aasmith/feed-normalizer",
+                "github": "aasmith/feed-normalizer",
+                "type": "github"
+            },
+            {
+                "title": "Feedjira",
+                "href": "https://github.com/feedjira/feedjira",
+                "github": "feedjira/feedjira",
+                "type": "github"
+            },
+            {
+                "title": "Ratom",
+                "href": "https://github.com/seangeo/ratom",
+                "github": "seangeo/ratom",
+                "type": "github"
+            },
+            {
+                "title": "Simple rss",
+                "href": "https://github.com/cardmagic/simple-rss",
+                "github": "cardmagic/simple-rss",
+                "type": "github"
+            },
+            {
+                "title": "Stringer",
+                "href": "https://github.com/swanson/stringer",
+                "github": "swanson/stringer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scheduling",
+        "childrens": [
+            {
+                "title": "minicron",
+                "href": "https://github.com/jamesrwhite/minicron",
+                "github": "jamesrwhite/minicron",
+                "type": "github"
+            },
+            {
+                "title": "resque-scheduler",
+                "href": "https://github.com/resque/resque-scheduler",
+                "github": "resque/resque-scheduler",
+                "type": "github"
+            },
+            {
+                "title": "rufus-scheduler",
+                "href": "https://github.com/jmettraux/rufus-scheduler",
+                "github": "jmettraux/rufus-scheduler",
+                "type": "github"
+            },
+            {
+                "title": "Whenever",
+                "href": "https://github.com/javan/whenever",
+                "github": "javan/whenever",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scientific",
+        "childrens": [
+            {
+                "title": "SciRuby",
+                "href": "https://github.com/sciruby/sciruby",
+                "github": "sciruby/sciruby",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search",
+        "childrens": [
+            {
+                "title": "chewy",
+                "href": "https://github.com/toptal/chewy",
+                "github": "toptal/chewy",
+                "type": "github"
+            },
+            {
+                "title": "elasticsearch-ruby",
+                "href": "https://github.com/elastic/elasticsearch-ruby",
+                "github": "elastic/elasticsearch-ruby",
+                "type": "github"
+            },
+            {
+                "title": "elastics",
+                "href": "https://github.com/printercu/elastics-rb",
+                "github": "printercu/elastics-rb",
+                "type": "github"
+            },
+            {
+                "title": "has_scope",
+                "href": "https://github.com/plataformatec/has_scope",
+                "github": "plataformatec/has_scope",
+                "type": "github"
+            },
+            {
+                "title": "Mongoid Search",
+                "href": "https://github.com/mauriciozaffari/mongoid_search",
+                "github": "mauriciozaffari/mongoid_search",
+                "type": "github"
+            },
+            {
+                "title": "pg_search",
+                "href": "https://github.com/Casecommons/pg_search",
+                "github": "Casecommons/pg_search",
+                "type": "github"
+            },
+            {
+                "title": "ransack",
+                "href": "https://github.com/activerecord-hackery/ransack/",
+                "github": "activerecord-hackery/ransack/",
+                "type": "github"
+            },
+            {
+                "title": "Rroonga",
+                "href": "https://github.com/ranguba/rroonga",
+                "github": "ranguba/rroonga",
+                "type": "github"
+            },
+            {
+                "title": "scoped_search",
+                "href": "https://github.com/wvanbergen/scoped_search",
+                "github": "wvanbergen/scoped_search",
+                "type": "github"
+            },
+            {
+                "title": "SearchCop",
+                "href": "https://github.com/mrkamel/search_cop",
+                "github": "mrkamel/search_cop",
+                "type": "github"
+            },
+            {
+                "title": "Searchkick",
+                "href": "https://github.com/ankane/searchkick",
+                "github": "ankane/searchkick",
+                "type": "github"
+            },
+            {
+                "title": "Searchlogic",
+                "href": "https://github.com/binarylogic/searchlogic",
+                "github": "binarylogic/searchlogic",
+                "type": "github"
+            },
+            {
+                "title": "Sunspot",
+                "href": "https://github.com/sunspot/sunspot",
+                "github": "sunspot/sunspot",
+                "type": "github"
+            },
+            {
+                "title": "textacular",
+                "href": "https://github.com/textacular/textacular",
+                "github": "textacular/textacular",
+                "type": "github"
+            },
+            {
+                "title": "Thinking Sphinx",
+                "href": "https://github.com/pat/thinking-sphinx",
+                "github": "pat/thinking-sphinx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "bundler-audit",
+                "href": "https://github.com/rubysec/bundler-audit",
+                "github": "rubysec/bundler-audit",
+                "type": "github"
+            },
+            {
+                "title": "Gitrob",
+                "href": "https://github.com/michenriksen/gitrob",
+                "github": "michenriksen/gitrob",
+                "type": "github"
+            },
+            {
+                "title": "Metasploit",
+                "href": "https://github.com/rapid7/metasploit-framework",
+                "github": "rapid7/metasploit-framework",
+                "type": "github"
+            },
+            {
+                "title": "Rack::Attack",
+                "href": "https://github.com/kickstarter/rack-attack",
+                "github": "kickstarter/rack-attack",
+                "type": "github"
+            },
+            {
+                "title": "Rack::Protection",
+                "href": "https://github.com/sinatra/rack-protection",
+                "github": "sinatra/rack-protection",
+                "type": "github"
+            },
+            {
+                "title": "SecureHeaders",
+                "href": "https://github.com/twitter/secureheaders",
+                "github": "twitter/secureheaders",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SEO",
+        "childrens": [
+            {
+                "title": "FriendlyId",
+                "href": "https://github.com/norman/friendly_id",
+                "github": "norman/friendly_id",
+                "type": "github"
+            },
+            {
+                "title": "MetaTags",
+                "href": "https://github.com/kpumuk/meta-tags",
+                "github": "kpumuk/meta-tags",
+                "type": "github"
+            },
+            {
+                "title": "prerender_rails",
+                "href": "https://github.com/prerender/prerender_rails",
+                "github": "prerender/prerender_rails",
+                "type": "github"
+            },
+            {
+                "title": "SitemapGenerator",
+                "href": "https://github.com/kjvarga/sitemap_generator",
+                "github": "kjvarga/sitemap_generator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Social Networking",
+        "childrens": [
+            {
+                "title": "diaspora*",
+                "href": "https://github.com/diaspora/diaspora",
+                "github": "diaspora/diaspora",
+                "type": "github"
+            },
+            {
+                "title": "Discourse",
+                "href": "https://github.com/discourse/discourse",
+                "github": "discourse/discourse",
+                "type": "github"
+            },
+            {
+                "title": "Mailboxer",
+                "href": "https://github.com/mailboxer/mailboxer",
+                "github": "mailboxer/mailboxer",
+                "type": "github"
+            },
+            {
+                "title": "Mastodon",
+                "href": "https://github.com/Gargron/mastodon",
+                "github": "Gargron/mastodon",
+                "type": "github"
+            },
+            {
+                "title": "Social Shares",
+                "href": "https://github.com/Timrael/social_shares",
+                "github": "Timrael/social_shares",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Spreadsheets and Documents",
+        "childrens": [
+            {
+                "title": "AXLSX",
+                "href": "https://github.com/randym/axlsx",
+                "github": "randym/axlsx",
+                "type": "github"
+            },
+            {
+                "title": "Roo",
+                "href": "https://github.com/roo-rb/roo",
+                "github": "roo-rb/roo",
+                "type": "github"
+            },
+            {
+                "title": "Spreadsheet Architect",
+                "href": "https://github.com/westonganger/spreadsheet_architect",
+                "github": "westonganger/spreadsheet_architect",
+                "type": "github"
+            },
+            {
+                "title": "Yomu",
+                "href": "https://github.com/Erol/yomu",
+                "github": "Erol/yomu",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "State Machines",
+        "childrens": [
+            {
+                "title": "AASM",
+                "href": "https://github.com/aasm/aasm",
+                "github": "aasm/aasm",
+                "type": "github"
+            },
+            {
+                "title": "FiniteMachine",
+                "href": "https://github.com/peter-murach/finite_machine",
+                "github": "peter-murach/finite_machine",
+                "type": "github"
+            },
+            {
+                "title": "simple_states",
+                "href": "https://github.com/svenfuchs/simple_states",
+                "github": "svenfuchs/simple_states",
+                "type": "github"
+            },
+            {
+                "title": "Statesman",
+                "href": "https://github.com/gocardless/statesman",
+                "github": "gocardless/statesman",
+                "type": "github"
+            },
+            {
+                "title": "state_machines",
+                "href": "https://github.com/state-machines/state_machines",
+                "github": "state-machines/state_machines",
+                "type": "github"
+            },
+            {
+                "title": "transitions",
+                "href": "https://github.com/troessner/transitions",
+                "github": "troessner/transitions",
+                "type": "github"
+            },
+            {
+                "title": "Workflow",
+                "href": "https://github.com/geekq/workflow",
+                "github": "geekq/workflow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Static Site Generation",
+        "childrens": [
+            {
+                "title": "High Voltage",
+                "href": "https://github.com/thoughtbot/high_voltage",
+                "github": "thoughtbot/high_voltage",
+                "type": "github"
+            },
+            {
+                "title": "Octopress",
+                "href": "https://github.com/octopress/octopress",
+                "github": "octopress/octopress",
+                "type": "github"
+            },
+            {
+                "title": "Photish",
+                "href": "https://github.com/henrylawson/photish",
+                "github": "henrylawson/photish",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Template Engine",
+        "childrens": [
+            {
+                "title": "Curly",
+                "href": "https://github.com/zendesk/curly",
+                "github": "zendesk/curly",
+                "type": "github"
+            },
+            {
+                "title": "Haml",
+                "href": "https://github.com/haml/haml",
+                "github": "haml/haml",
+                "type": "github"
+            },
+            {
+                "title": "Liquid",
+                "href": "https://github.com/Shopify/liquid",
+                "github": "Shopify/liquid",
+                "type": "github"
+            },
+            {
+                "title": "Mustache",
+                "href": "https://github.com/mustache/mustache",
+                "github": "mustache/mustache",
+                "type": "github"
+            },
+            {
+                "title": "Slim",
+                "href": "https://github.com/slim-template/slim",
+                "github": "slim-template/slim",
+                "type": "github"
+            },
+            {
+                "title": "Tilt",
+                "href": "https://github.com/rtomayko/tilt",
+                "github": "rtomayko/tilt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third-party APIs",
+        "childrens": [
+            {
+                "title": "databasedotcom",
+                "href": "https://github.com/heroku/databasedotcom",
+                "github": "heroku/databasedotcom",
+                "type": "github"
+            },
+            {
+                "title": "Dropbox",
+                "href": "https://github.com/futuresimple/dropbox-api",
+                "github": "futuresimple/dropbox-api",
+                "type": "github"
+            },
+            {
+                "title": "facy",
+                "href": "https://github.com/huydx/facy",
+                "github": "huydx/facy",
+                "type": "github"
+            },
+            {
+                "title": "fb_graph2",
+                "href": "https://github.com/nov/fb_graph2",
+                "github": "nov/fb_graph2",
+                "type": "github"
+            },
+            {
+                "title": "flickr",
+                "href": "https://github.com/RaVbaker/flickr",
+                "github": "RaVbaker/flickr",
+                "type": "github"
+            },
+            {
+                "title": "gitlab",
+                "href": "https://github.com/NARKOZ/gitlab",
+                "github": "NARKOZ/gitlab",
+                "type": "github"
+            },
+            {
+                "title": "google-api-ads-ruby",
+                "href": "https://github.com/googleads/google-api-ads-ruby",
+                "github": "googleads/google-api-ads-ruby",
+                "type": "github"
+            },
+            {
+                "title": "gmail",
+                "href": "https://github.com/gmailgem/gmail",
+                "github": "gmailgem/gmail",
+                "type": "github"
+            },
+            {
+                "title": "hipchat-rb",
+                "href": "https://github.com/hipchat/hipchat-rb",
+                "github": "hipchat/hipchat-rb",
+                "type": "github"
+            },
+            {
+                "title": "instagram-ruby-gem",
+                "href": "https://github.com/Instagram/instagram-ruby-gem",
+                "github": "Instagram/instagram-ruby-gem",
+                "type": "github"
+            },
+            {
+                "title": "itunes_store_transporter",
+                "href": "https://github.com/sshaw/itunes_store_transporter",
+                "github": "sshaw/itunes_store_transporter",
+                "type": "github"
+            },
+            {
+                "title": "linkedin",
+                "href": "https://github.com/hexgnu/linkedin",
+                "github": "hexgnu/linkedin",
+                "type": "github"
+            },
+            {
+                "title": "Pusher",
+                "href": "https://github.com/pusher/pusher-http-ruby",
+                "github": "pusher/pusher-http-ruby",
+                "type": "github"
+            },
+            {
+                "title": "ruby-gmail",
+                "href": "https://github.com/dcparker/ruby-gmail",
+                "github": "dcparker/ruby-gmail",
+                "type": "github"
+            },
+            {
+                "title": "ruby-trello",
+                "href": "https://github.com/jeremytregunna/ruby-trello",
+                "github": "jeremytregunna/ruby-trello",
+                "type": "github"
+            },
+            {
+                "title": "simple-slack-bot",
+                "href": "https://github.com/kciter/simple-slack-bot",
+                "github": "kciter/simple-slack-bot",
+                "type": "github"
+            },
+            {
+                "title": "Slack Notifier",
+                "href": "https://github.com/stevenosloan/slack-notifier",
+                "github": "stevenosloan/slack-notifier",
+                "type": "github"
+            },
+            {
+                "title": "Slack ruby gem",
+                "href": "https://github.com/aki017/slack-ruby-gem",
+                "github": "aki017/slack-ruby-gem",
+                "type": "github"
+            },
+            {
+                "title": "soundcloud-ruby",
+                "href": "https://github.com/soundcloud/soundcloud-ruby",
+                "github": "soundcloud/soundcloud-ruby",
+                "type": "github"
+            },
+            {
+                "title": "t",
+                "href": "https://github.com/sferik/t",
+                "github": "sferik/t",
+                "type": "github"
+            },
+            {
+                "title": "terjira",
+                "href": "https://github.com/keepcosmos/terjira",
+                "github": "keepcosmos/terjira",
+                "type": "github"
+            },
+            {
+                "title": "tweetstream",
+                "href": "https://github.com/tweetstream/tweetstream",
+                "github": "tweetstream/tweetstream",
+                "type": "github"
+            },
+            {
+                "title": "twilio-ruby",
+                "href": "https://github.com/twilio/twilio-ruby",
+                "github": "twilio/twilio-ruby",
+                "type": "github"
+            },
+            {
+                "title": "twitter",
+                "href": "https://github.com/sferik/twitter",
+                "github": "sferik/twitter",
+                "type": "github"
+            },
+            {
+                "title": "wikipedia",
+                "href": "https://github.com/kenpratt/wikipedia-client",
+                "github": "kenpratt/wikipedia-client",
+                "type": "github"
+            },
+            {
+                "title": "Yt",
+                "href": "https://github.com/Fullscreen/yt",
+                "github": "Fullscreen/yt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video",
+        "childrens": [
+            {
+                "title": "Streamio FFMPEG",
+                "href": "https://github.com/streamio/streamio-ffmpeg",
+                "github": "streamio/streamio-ffmpeg",
+                "type": "github"
+            },
+            {
+                "title": "Video Transcoding",
+                "href": "https://github.com/donmelton/video_transcoding",
+                "github": "donmelton/video_transcoding",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Crawling",
+        "childrens": [
+            {
+                "title": "anemone",
+                "href": "https://github.com/chriskite/anemone",
+                "github": "chriskite/anemone",
+                "type": "github"
+            },
+            {
+                "title": "LinkThumbnailer",
+                "href": "https://github.com/gottfrois/link_thumbnailer",
+                "github": "gottfrois/link_thumbnailer",
+                "type": "github"
+            },
+            {
+                "title": "Mechanize",
+                "href": "https://github.com/sparklemotion/mechanize",
+                "github": "sparklemotion/mechanize",
+                "type": "github"
+            },
+            {
+                "title": "MetaInspector",
+                "href": "https://github.com/jaimeiniesta/metainspector",
+                "github": "jaimeiniesta/metainspector",
+                "type": "github"
+            },
+            {
+                "title": "Upton",
+                "href": "https://github.com/propublica/upton",
+                "github": "propublica/upton",
+                "type": "github"
+            },
+            {
+                "title": "Wombat",
+                "href": "https://github.com/felipecsl/wombat",
+                "github": "felipecsl/wombat",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "Camping",
+                "href": "https://github.com/camping/camping",
+                "github": "camping/camping",
+                "type": "github"
+            },
+            {
+                "title": "Hobbit",
+                "href": "https://github.com/patriciomacadden/hobbit",
+                "github": "patriciomacadden/hobbit",
+                "type": "github"
+            },
+            {
+                "title": "Syro",
+                "href": "https://github.com/soveran/syro/",
+                "github": "soveran/syro/",
+                "type": "github"
+            },
+            {
+                "title": "Volt",
+                "href": "https://github.com/voltrb/volt",
+                "github": "voltrb/volt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Servers",
+        "childrens": [
+            {
+                "title": "Goliath",
+                "href": "https://github.com/postrank-labs/goliath",
+                "github": "postrank-labs/goliath",
+                "type": "github"
+            },
+            {
+                "title": "Puma",
+                "href": "https://github.com/puma/puma",
+                "github": "puma/puma",
+                "type": "github"
+            },
+            {
+                "title": "Reel",
+                "href": "https://github.com/celluloid/reel",
+                "github": "celluloid/reel",
+                "type": "github"
+            },
+            {
+                "title": "TorqueBox",
+                "href": "https://github.com/torquebox/torquebox",
+                "github": "torquebox/torquebox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "WebSocket",
+        "childrens": [
+            {
+                "title": "Firehose",
+                "href": "https://github.com/firehoseio/firehose",
+                "github": "firehoseio/firehose",
+                "type": "github"
+            },
+            {
+                "title": "Rails Realtime",
+                "href": "https://github.com/liamks/rails-realtime",
+                "github": "liamks/rails-realtime",
+                "type": "github"
+            },
+            {
+                "title": "Slanger",
+                "href": "https://github.com/stevegraham/slanger",
+                "github": "stevegraham/slanger",
+                "type": "github"
+            },
+            {
+                "title": "Sync",
+                "href": "https://github.com/chrismccord/sync",
+                "github": "chrismccord/sync",
+                "type": "github"
+            },
+            {
+                "title": "Websocket-Rails",
+                "href": "https://github.com/websocket-rails/websocket-rails",
+                "github": "websocket-rails/websocket-rails",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Services and Apps",
+        "childrens": [
+            {
+                "title": "GitHub",
+                "href": "https://github.com",
+                "github": "",
+                "type": "github"
+            },
+            {
+                "title": "Nanobox",
+                "href": "https://github.com/nanobox-io/nanobox",
+                "github": "nanobox-io/nanobox",
+                "type": "github"
+            },
+            {
+                "title": "OctoLinker",
+                "href": "https://github.com/OctoLinker/browser-extension",
+                "github": "OctoLinker/browser-extension",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "GitHub Trending",
+                "href": "https://github.com/trending?l=ruby",
+                "github": "trending?l=ruby",
+                "type": "github"
+            },
+            {
+                "title": "Ruby Bookmarks",
+                "href": "https://github.com/dreikanter/ruby-bookmarks",
+                "github": "dreikanter/ruby-bookmarks",
+                "type": "github"
+            }
+        ]
+    }
+]

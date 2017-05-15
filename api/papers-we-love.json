@@ -1,0 +1,13 @@
+[
+    {
+        "heading": "Other Good Places to Find Papers",
+        "childrens": [
+            {
+                "title": "Services Engineering Reading List",
+                "href": "https://github.com/mmcgrana/services-engineering",
+                "github": "mmcgrana/services-engineering",
+                "type": "github"
+            }
+        ]
+    }
+]

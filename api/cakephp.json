@@ -1,0 +1,1324 @@
+[
+    {
+        "heading": "Awesome CakePHP ",
+        "childrens": [
+            {
+                "title": "Awesome PHP",
+                "href": "https://github.com/ziadoz/awesome-php",
+                "github": "ziadoz/awesome-php",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "APM",
+        "childrens": [
+            {
+                "title": "NewRelic plugin",
+                "href": "https://github.com/jippi/cakephp-newrelic/tree/cake3",
+                "github": "jippi/cakephp-newrelic/tree/cake3",
+                "type": "github"
+            },
+            {
+                "title": "Brunitto/NewRelic plugin",
+                "href": "https://github.com/brunitto/cakephp-new-relic",
+                "github": "brunitto/cakephp-new-relic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Asset Management",
+        "childrens": [
+            {
+                "title": "AssetCompress plugin",
+                "href": "https://github.com/markstory/asset_compress",
+                "github": "markstory/asset_compress",
+                "type": "github"
+            },
+            {
+                "title": "Assets plugin",
+                "href": "https://github.com/mirko-pagliai/assets",
+                "github": "mirko-pagliai/assets",
+                "type": "github"
+            },
+            {
+                "title": "Less plugin",
+                "href": "https://github.com/elboletaire/less-cake-plugin",
+                "github": "elboletaire/less-cake-plugin",
+                "type": "github"
+            },
+            {
+                "title": "MinifyHtml plugin",
+                "href": "https://github.com/WyriHaximus/MinifyHtml",
+                "github": "WyriHaximus/MinifyHtml",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Auditing / Logging",
+        "childrens": [
+            {
+                "title": "AuditStash plugin",
+                "href": "https://github.com/lorenzo/audit-stash",
+                "github": "lorenzo/audit-stash",
+                "type": "github"
+            },
+            {
+                "title": "DatabaseLog plugin",
+                "href": "https://github.com/dereuromark/CakePHP-DatabaseLog",
+                "github": "dereuromark/CakePHP-DatabaseLog",
+                "type": "github"
+            },
+            {
+                "title": "Muffin/Footprint plugin",
+                "href": "https://github.com/UseMuffin/Footprint",
+                "github": "UseMuffin/Footprint",
+                "type": "github"
+            },
+            {
+                "title": "Version plugin",
+                "href": "https://github.com/josegonzalez/cakephp-version",
+                "github": "josegonzalez/cakephp-version",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication and Authorization",
+        "childrens": [
+            {
+                "title": "Acl plugin",
+                "href": "https://github.com/cakephp/acl/",
+                "github": "cakephp/acl/",
+                "type": "github"
+            },
+            {
+                "title": "ADmad/HybridAuth plugin",
+                "href": "https://github.com/ADmad/CakePHP-HybridAuth",
+                "github": "ADmad/CakePHP-HybridAuth",
+                "type": "github"
+            },
+            {
+                "title": "ADmad/JwtAuth plugin",
+                "href": "https://github.com/ADmad/cakephp-jwt-auth",
+                "github": "ADmad/cakephp-jwt-auth",
+                "type": "github"
+            },
+            {
+                "title": "CookieAuth plugin",
+                "href": "https://github.com/Xety/Cake3-CookieAuth",
+                "github": "Xety/Cake3-CookieAuth",
+                "type": "github"
+            },
+            {
+                "title": "HierAuth plugin",
+                "href": "https://github.com/btaens/cakephp-hier-auth",
+                "github": "btaens/cakephp-hier-auth",
+                "type": "github"
+            },
+            {
+                "title": "Muffin/OAuth2 plugin",
+                "href": "https://github.com/usemuffin/oauth2",
+                "github": "usemuffin/oauth2",
+                "type": "github"
+            },
+            {
+                "title": "Muffin/Tokenize plugin",
+                "href": "https://github.com/UseMuffin/Tokenize",
+                "github": "UseMuffin/Tokenize",
+                "type": "github"
+            },
+            {
+                "title": "MultiTenant plugin",
+                "href": "https://github.com/pronique/multitenant",
+                "github": "pronique/multitenant",
+                "type": "github"
+            },
+            {
+                "title": "TinyAuth plugin",
+                "href": "https://github.com/dereuromark/cakephp-tinyauth",
+                "github": "dereuromark/cakephp-tinyauth",
+                "type": "github"
+            },
+            {
+                "title": "Tools:Passwordable",
+                "href": "https://github.com/dereuromark/cakephp-tools",
+                "github": "dereuromark/cakephp-tools",
+                "type": "github"
+            },
+            {
+                "title": "TwoFactorAuth plugin",
+                "href": "https://github.com/andrej-griniuk/cakephp-two-factor-auth",
+                "github": "andrej-griniuk/cakephp-two-factor-auth",
+                "type": "github"
+            },
+            {
+                "title": "UserPermissions plugin",
+                "href": "https://github.com/AlessandroMinoccheri/UserPermissions",
+                "github": "AlessandroMinoccheri/UserPermissions",
+                "type": "github"
+            },
+            {
+                "title": "Users plugin",
+                "href": "https://github.com/CakeDC/users",
+                "github": "CakeDC/users",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "Cache plugin",
+                "href": "https://github.com/dereuromark/cakephp-cache",
+                "github": "dereuromark/cakephp-cache",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Analysis",
+        "childrens": [
+            {
+                "title": "IdeHelper plugin",
+                "href": "https://github.com/dereuromark/cakephp-ide-helper",
+                "github": "dereuromark/cakephp-ide-helper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging",
+        "childrens": [
+            {
+                "title": "Airbrake plugin",
+                "href": "https://github.com/chrisShick/AirbrakeCake",
+                "github": "chrisShick/AirbrakeCake",
+                "type": "github"
+            },
+            {
+                "title": "DebugKit plugin",
+                "href": "https://github.com/cakephp/debug_kit",
+                "github": "cakephp/debug_kit",
+                "type": "github"
+            },
+            {
+                "title": "ErrorEmail plugin",
+                "href": "https://github.com/ebrigham1/cakephp-error-email",
+                "github": "ebrigham1/cakephp-error-email",
+                "type": "github"
+            },
+            {
+                "title": "Gourmet/Whoops plugin",
+                "href": "https://github.com/gourmet/whoops",
+                "github": "gourmet/whoops",
+                "type": "github"
+            },
+            {
+                "title": "Psa/FixtureCheck plugin",
+                "href": "https://github.com/World-Architects/cakephp-fixture-check",
+                "github": "World-Architects/cakephp-fixture-check",
+                "type": "github"
+            },
+            {
+                "title": "Setup plugin",
+                "href": "https://github.com/dereuromark/cakephp-setup",
+                "github": "dereuromark/cakephp-setup",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dependency Injection",
+        "childrens": [
+            {
+                "title": "PimpleDi plugin",
+                "href": "https://github.com/rochamarcelo/cake-pimple-di",
+                "github": "rochamarcelo/cake-pimple-di",
+                "type": "github"
+            },
+            {
+                "title": "PipingBag plugin",
+                "href": "https://github.com/lorenzo/piping-bag",
+                "github": "lorenzo/piping-bag",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "E-commerce",
+        "childrens": [
+            {
+                "title": "PaypalWPP plugin",
+                "href": "https://github.com/cpierce/paypal-wpp",
+                "github": "cpierce/paypal-wpp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Email",
+        "childrens": [
+            {
+                "title": "EmailQueue plugin",
+                "href": "https://github.com/lorenzo/cakephp-email-queue",
+                "github": "lorenzo/cakephp-email-queue",
+                "type": "github"
+            },
+            {
+                "title": "Gourmet/Email plugin",
+                "href": "https://github.com/gourmet/email",
+                "github": "gourmet/email",
+                "type": "github"
+            },
+            {
+                "title": "Mailgun plugin",
+                "href": "https://github.com/narendravaghela/cakephp-mailgun",
+                "github": "narendravaghela/cakephp-mailgun",
+                "type": "github"
+            },
+            {
+                "title": "SparkPost plugin",
+                "href": "https://github.com/syntaxera/cakephp-sparkpost-plugin",
+                "github": "syntaxera/cakephp-sparkpost-plugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Environment",
+        "childrens": [
+            {
+                "title": "Environments plugin",
+                "href": "https://github.com/josegonzalez/cakephp-environments",
+                "github": "josegonzalez/cakephp-environments",
+                "type": "github"
+            },
+            {
+                "title": "Gourmet/Aroma plugin",
+                "href": "https://github.com/gourmet/aroma",
+                "github": "gourmet/aroma",
+                "type": "github"
+            },
+            {
+                "title": "Settings plugin",
+                "href": "https://github.com/cakemanager/cakephp-settings",
+                "github": "cakemanager/cakephp-settings",
+                "type": "github"
+            },
+            {
+                "title": "Setup plugin",
+                "href": "https://github.com/dereuromark/cakephp-setup",
+                "github": "dereuromark/cakephp-setup",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Files",
+        "childrens": [
+            {
+                "title": "FileStorage plugin",
+                "href": "https://github.com/burzum/cakephp-file-storage",
+                "github": "burzum/cakephp-file-storage",
+                "type": "github"
+            },
+            {
+                "title": "FlyPie plugin",
+                "href": "https://github.com/WyriHaximus/FlyPie",
+                "github": "WyriHaximus/FlyPie",
+                "type": "github"
+            },
+            {
+                "title": "Image plugin",
+                "href": "https://github.com/josbeir/image",
+                "github": "josbeir/image",
+                "type": "github"
+            },
+            {
+                "title": "Josegonzalez/Upload plugin",
+                "href": "https://github.com/josegonzalez/cakephp-upload",
+                "github": "josegonzalez/cakephp-upload",
+                "type": "github"
+            },
+            {
+                "title": "Proffer plugin",
+                "href": "https://github.com/davidyell/CakePHP3-Proffer",
+                "github": "davidyell/CakePHP3-Proffer",
+                "type": "github"
+            },
+            {
+                "title": "Upload plugin",
+                "href": "https://github.com/Xety/Cake3-Upload",
+                "github": "Xety/Cake3-Upload",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Filtering and Validation",
+        "childrens": [
+            {
+                "title": "Gourmet/Filters plugin",
+                "href": "https://github.com/gourmet/filters",
+                "github": "gourmet/filters",
+                "type": "github"
+            },
+            {
+                "title": "Gourmet/Validation plugin",
+                "href": "https://github.com/gourmet/validation",
+                "github": "gourmet/validation",
+                "type": "github"
+            },
+            {
+                "title": "HtmlPurifier plugin",
+                "href": "https://github.com/burzum/cakephp-html-purifier",
+                "github": "burzum/cakephp-html-purifier",
+                "type": "github"
+            },
+            {
+                "title": "HtmlPurifier plugin",
+                "href": "https://github.com/chrisShick/CakePHP3-HtmlPurifier",
+                "github": "chrisShick/CakePHP3-HtmlPurifier",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Geolocation",
+        "childrens": [
+            {
+                "title": "Geo plugin",
+                "href": "https://github.com/dereuromark/cakephp-geo",
+                "github": "dereuromark/cakephp-geo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "I18n",
+        "childrens": [
+            {
+                "title": "ADmad/I18n plugin",
+                "href": "https://github.com/ADmad/cakephp-i18n",
+                "github": "ADmad/cakephp-i18n",
+                "type": "github"
+            },
+            {
+                "title": "Localized plugin",
+                "href": "https://github.com/cakephp/localized",
+                "github": "cakephp/localized",
+                "type": "github"
+            },
+            {
+                "title": "ShadowTranslate plugin",
+                "href": "https://github.com/AD7six/cakephp-shadow-translate",
+                "github": "AD7six/cakephp-shadow-translate",
+                "type": "github"
+            },
+            {
+                "title": "Transifex plugin",
+                "href": "https://github.com/dereuromark/cakephp-transifex",
+                "github": "dereuromark/cakephp-transifex",
+                "type": "github"
+            },
+            {
+                "title": "Translate plugin",
+                "href": "https://github.com/dereuromark/cakephp-translate",
+                "github": "dereuromark/cakephp-translate",
+                "type": "github"
+            },
+            {
+                "title": "Translation plugin",
+                "href": "https://github.com/ava007/wnk_translation",
+                "github": "ava007/wnk_translation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Imagery",
+        "childrens": [
+            {
+                "title": "ADmad/Glide plugin",
+                "href": "https://github.com/ADmad/cakephp-glide",
+                "github": "ADmad/cakephp-glide",
+                "type": "github"
+            },
+            {
+                "title": "Imagine plugin",
+                "href": "https://github.com/burzum/cakephp-imagine-plugin",
+                "github": "burzum/cakephp-imagine-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Thumber plugin",
+                "href": "https://github.com/mirko-pagliai/cakephp-thumber",
+                "github": "mirko-pagliai/cakephp-thumber",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libs",
+        "childrens": [
+            {
+                "title": "Aura.Intl",
+                "href": "https://github.com/auraphp/Aura.Intl",
+                "github": "auraphp/Aura.Intl",
+                "type": "github"
+            },
+            {
+                "title": "Capcake",
+                "href": "https://github.com/jadb/capcake",
+                "github": "jadb/capcake",
+                "type": "github"
+            },
+            {
+                "title": "Chronos",
+                "href": "https://github.com/cakephp/chronos",
+                "github": "cakephp/chronos",
+                "type": "github"
+            },
+            {
+                "title": "Composer Installers",
+                "href": "https://github.com/composer/installers",
+                "github": "composer/installers",
+                "type": "github"
+            },
+            {
+                "title": "Graphviz",
+                "href": "https://github.com/alexandresalome/graphviz",
+                "github": "alexandresalome/graphviz",
+                "type": "github"
+            },
+            {
+                "title": "Rocketeer",
+                "href": "https://github.com/rocketeers/rocketeer",
+                "github": "rocketeers/rocketeer",
+                "type": "github"
+            },
+            {
+                "title": "YamlRoute",
+                "href": "https://github.com/makallio85/yaml-route",
+                "github": "makallio85/yaml-route",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Markup",
+        "childrens": [
+            {
+                "title": "Gourmet/CommonMark plugin",
+                "href": "https://github.com/gourmet/common-mark",
+                "github": "gourmet/common-mark",
+                "type": "github"
+            },
+            {
+                "title": "Markup plugin",
+                "href": "https://github.com/dereuromark/cakephp-markup",
+                "github": "dereuromark/cakephp-markup",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Migration",
+        "childrens": [
+            {
+                "title": "Execution order",
+                "href": "https://github.com/dereuromark/executionorder",
+                "github": "dereuromark/executionorder",
+                "type": "github"
+            },
+            {
+                "title": "Migrations plugin",
+                "href": "https://github.com/cakephp/migrations",
+                "github": "cakephp/migrations",
+                "type": "github"
+            },
+            {
+                "title": "Upgrade app",
+                "href": "https://github.com/cakephp/upgrade",
+                "github": "cakephp/upgrade",
+                "type": "github"
+            },
+            {
+                "title": "Upgrade app (extended)",
+                "href": "https://github.com/dereuromark/upgrade",
+                "github": "dereuromark/upgrade",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Ajax plugin",
+                "href": "https://github.com/dereuromark/cakephp-ajax",
+                "github": "dereuromark/cakephp-ajax",
+                "type": "github"
+            },
+            {
+                "title": "CakeAdmin plugin",
+                "href": "https://github.com/cakemanager/cakephp-cakeadmin",
+                "github": "cakemanager/cakephp-cakeadmin",
+                "type": "github"
+            },
+            {
+                "title": "CakeMiddlewares",
+                "href": "https://github.com/chrisShick/CakeMiddlewares",
+                "github": "chrisShick/CakeMiddlewares",
+                "type": "github"
+            },
+            {
+                "title": "Comments plugin",
+                "href": "https://github.com/Kareylo/CakePHP-Comments",
+                "github": "Kareylo/CakePHP-Comments",
+                "type": "github"
+            },
+            {
+                "title": "CurrencyConverter plugin",
+                "href": "https://github.com/AlessandroMinoccheri/cakephp-currency-converter",
+                "github": "AlessandroMinoccheri/cakephp-currency-converter",
+                "type": "github"
+            },
+            {
+                "title": "Dashboard plugin",
+                "href": "https://github.com/gourmet/dashboard",
+                "github": "gourmet/dashboard",
+                "type": "github"
+            },
+            {
+                "title": "Flash plugin",
+                "href": "https://github.com/dereuromark/cakephp-flash",
+                "github": "dereuromark/cakephp-flash",
+                "type": "github"
+            },
+            {
+                "title": "Hashid plugin",
+                "href": "https://github.com/dereuromark/cakephp-hashid",
+                "github": "dereuromark/cakephp-hashid",
+                "type": "github"
+            },
+            {
+                "title": "Interval plugin",
+                "href": "https://github.com/LubosRemplik/CakePHP-Interval",
+                "github": "LubosRemplik/CakePHP-Interval",
+                "type": "github"
+            },
+            {
+                "title": "MysqlBackup plugin",
+                "href": "https://github.com/mirko-pagliai/cakephp-mysql-backup",
+                "github": "mirko-pagliai/cakephp-mysql-backup",
+                "type": "github"
+            },
+            {
+                "title": "Setup:Maintenance",
+                "href": "https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md",
+                "github": "dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md",
+                "type": "github"
+            },
+            {
+                "title": "Shim plugin",
+                "href": "https://github.com/dereuromark/cakephp-shim",
+                "github": "dereuromark/cakephp-shim",
+                "type": "github"
+            },
+            {
+                "title": "Tools plugin",
+                "href": "https://github.com/dereuromark/cakephp-tools",
+                "github": "dereuromark/cakephp-tools",
+                "type": "github"
+            },
+            {
+                "title": "Travis",
+                "href": "https://github.com/FriendsOfCake/travis",
+                "github": "FriendsOfCake/travis",
+                "type": "github"
+            },
+            {
+                "title": "UserTools plugin",
+                "href": "https://github.com/burzum/cakephp-user-tools",
+                "github": "burzum/cakephp-user-tools",
+                "type": "github"
+            },
+            {
+                "title": "Utils plugin",
+                "href": "https://github.com/cakemanager/cakephp-utils",
+                "github": "cakemanager/cakephp-utils",
+                "type": "github"
+            },
+            {
+                "title": "Wrench plugin",
+                "href": "https://github.com/HavokInspiration/wrench",
+                "github": "HavokInspiration/wrench",
+                "type": "github"
+            },
+            {
+                "title": "Yaml plugin",
+                "href": "https://github.com/guemidiborhane/Cake-Yaml",
+                "github": "guemidiborhane/Cake-Yaml",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Navigation",
+        "childrens": [
+            {
+                "title": "Icings/Menu plugin",
+                "href": "https://github.com/icings/menu",
+                "github": "icings/menu",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "NoSQL",
+        "childrens": [
+            {
+                "title": "Monga plugin",
+                "href": "https://github.com/lewestopher/cakephp-monga",
+                "github": "lewestopher/cakephp-monga",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Notifications",
+        "childrens": [
+            {
+                "title": "Notifier plugin",
+                "href": "https://github.com/cakemanager/cakephp-notifier",
+                "github": "cakemanager/cakephp-notifier",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM and Datamapping",
+        "childrens": [
+            {
+                "title": "ADmad/Sequence plugin",
+                "href": "https://github.com/ADmad/cakephp-sequence",
+                "github": "ADmad/cakephp-sequence",
+                "type": "github"
+            },
+            {
+                "title": "Duplicatable plugin",
+                "href": "https://github.com/riesenia/cakephp-duplicatable",
+                "github": "riesenia/cakephp-duplicatable",
+                "type": "github"
+            },
+            {
+                "title": "JeremyHarris/LazyLoad plugin",
+                "href": "https://github.com/jeremyharris/cakephp-lazyload",
+                "github": "jeremyharris/cakephp-lazyload",
+                "type": "github"
+            },
+            {
+                "title": "Money plugin",
+                "href": "https://github.com/gourmet/money",
+                "github": "gourmet/money",
+                "type": "github"
+            },
+            {
+                "title": "Muffin/Orderly plugin",
+                "href": "https://github.com/usemuffin/orderly",
+                "github": "usemuffin/orderly",
+                "type": "github"
+            },
+            {
+                "title": "Muffin/Trash plugin",
+                "href": "https://github.com/usemuffin/trash",
+                "github": "usemuffin/trash",
+                "type": "github"
+            },
+            {
+                "title": "PersistRelatedData plugin",
+                "href": "https://github.com/riesenia/persist-related-data",
+                "github": "riesenia/persist-related-data",
+                "type": "github"
+            },
+            {
+                "title": "Robotusers/Excel plugin",
+                "href": "https://github.com/robotusers/cakephp-excel",
+                "github": "robotusers/cakephp-excel",
+                "type": "github"
+            },
+            {
+                "title": "Robotusers/TableInheritance plugin",
+                "href": "https://github.com/robotusers/cakephp-table-inheritance",
+                "github": "robotusers/cakephp-table-inheritance",
+                "type": "github"
+            },
+            {
+                "title": "RowLocker plugin",
+                "href": "https://github.com/lorenzo/row-locker",
+                "github": "lorenzo/row-locker",
+                "type": "github"
+            },
+            {
+                "title": "Serializeable Data Types plugin",
+                "href": "https://github.com/burzum/cakephp-serialize-data-types",
+                "github": "burzum/cakephp-serialize-data-types",
+                "type": "github"
+            },
+            {
+                "title": "Webservices ORM plugin",
+                "href": "https://github.com/usemuffin/webservice",
+                "github": "usemuffin/webservice",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PDF",
+        "childrens": [
+            {
+                "title": "CakePdf plugin",
+                "href": "https://github.com/FriendsOfCake/CakePdf",
+                "github": "FriendsOfCake/CakePdf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Queue",
+        "childrens": [
+            {
+                "title": "CakeResque plugin",
+                "href": "https://github.com/wa0x6e/Cake-Resque",
+                "github": "wa0x6e/Cake-Resque",
+                "type": "github"
+            },
+            {
+                "title": "CakeQueuesadilla plugin",
+                "href": "https://github.com/josegonzalez/cakephp-queuesadilla",
+                "github": "josegonzalez/cakephp-queuesadilla",
+                "type": "github"
+            },
+            {
+                "title": "Gearman plugin",
+                "href": "https://github.com/cvo-technologies/cakephp-gearman",
+                "github": "cvo-technologies/cakephp-gearman",
+                "type": "github"
+            },
+            {
+                "title": "Queue plugin",
+                "href": "https://github.com/dereuromark/cakephp-queue",
+                "github": "dereuromark/cakephp-queue",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "REST and API",
+        "childrens": [
+            {
+                "title": "Alt3/Swagger plugin",
+                "href": "https://github.com/alt3/cakephp-swagger",
+                "github": "alt3/cakephp-swagger",
+                "type": "github"
+            },
+            {
+                "title": "Alt3/ValidationExposer plugin",
+                "href": "https://github.com/alt3/cakephp-validation-exposer",
+                "github": "alt3/cakephp-validation-exposer",
+                "type": "github"
+            },
+            {
+                "title": "ApiPagination plugin",
+                "href": "https://github.com/bcrowe/cakephp-api-pagination",
+                "github": "bcrowe/cakephp-api-pagination",
+                "type": "github"
+            },
+            {
+                "title": "Cors plugin",
+                "href": "https://github.com/ozee31/cakephp-cors",
+                "github": "ozee31/cakephp-cors",
+                "type": "github"
+            },
+            {
+                "title": "Cors plugin",
+                "href": "https://github.com/snelg/cakephp-cors",
+                "github": "snelg/cakephp-cors",
+                "type": "github"
+            },
+            {
+                "title": "CrudJsonApi plugin",
+                "href": "https://github.com/FriendsOfCake/crud-json-api",
+                "github": "FriendsOfCake/crud-json-api",
+                "type": "github"
+            },
+            {
+                "title": "FractalTransformerView plugin",
+                "href": "https://github.com/andrej-griniuk/cakephp-fractal-transformer-view",
+                "github": "andrej-griniuk/cakephp-fractal-transformer-view",
+                "type": "github"
+            },
+            {
+                "title": "JsonApi plugin",
+                "href": "https://github.com/josbeir/cakephp-json-api",
+                "github": "josbeir/cakephp-json-api",
+                "type": "github"
+            },
+            {
+                "title": "RestApi plugin",
+                "href": "https://github.com/multidots/cakephp-rest-api",
+                "github": "multidots/cakephp-rest-api",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search",
+        "childrens": [
+            {
+                "title": "ElasticSearch plugin",
+                "href": "https://github.com/cakephp/elastic-search",
+                "github": "cakephp/elastic-search",
+                "type": "github"
+            },
+            {
+                "title": "Muffin/Tags plugin",
+                "href": "https://github.com/usemuffin/tags",
+                "github": "usemuffin/tags",
+                "type": "github"
+            },
+            {
+                "title": "PlumSearch plugin",
+                "href": "https://github.com/skie/plum_search",
+                "github": "skie/plum_search",
+                "type": "github"
+            },
+            {
+                "title": "FriendsOfCake/Search plugin",
+                "href": "https://github.com/FriendsOfCake/search",
+                "github": "FriendsOfCake/search",
+                "type": "github"
+            },
+            {
+                "title": "Search plugin",
+                "href": "https://github.com/CakeDC/search",
+                "github": "CakeDC/search",
+                "type": "github"
+            },
+            {
+                "title": "SphinxSearch plugin",
+                "href": "https://github.com/voycey/cakephp-sphinxsearch",
+                "github": "voycey/cakephp-sphinxsearch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "Captcha plugin",
+                "href": "https://github.com/dereuromark/cakephp-captcha",
+                "github": "dereuromark/cakephp-captcha",
+                "type": "github"
+            },
+            {
+                "title": "CipherBehavior plugin",
+                "href": "https://github.com/adayth/cakephp-cipher-behavior",
+                "github": "adayth/cakephp-cipher-behavior",
+                "type": "github"
+            },
+            {
+                "title": "Muffin/Obfuscate plugin",
+                "href": "https://github.com/usemuffin/obfuscate",
+                "github": "usemuffin/obfuscate",
+                "type": "github"
+            },
+            {
+                "title": "Muffin/Throttle plugin",
+                "href": "https://github.com/usemuffin/throttle",
+                "github": "usemuffin/throttle",
+                "type": "github"
+            },
+            {
+                "title": "Recaptcha plugin",
+                "href": "https://github.com/crabstudio/Recaptcha",
+                "github": "crabstudio/Recaptcha",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SEO",
+        "childrens": [
+            {
+                "title": "Muffin/Slug plugin",
+                "href": "https://github.com/UseMuffin/Slug",
+                "github": "UseMuffin/Slug",
+                "type": "github"
+            },
+            {
+                "title": "Seo plugin",
+                "href": "https://github.com/orgasmicnightmare/cakephp-seo",
+                "github": "orgasmicnightmare/cakephp-seo",
+                "type": "github"
+            },
+            {
+                "title": "Sluggable plugin",
+                "href": "https://github.com/Xety/Cake3-Sluggable",
+                "github": "Xety/Cake3-Sluggable",
+                "type": "github"
+            },
+            {
+                "title": "Tools:Slugged",
+                "href": "https://github.com/dereuromark/cakephp-tools",
+                "github": "dereuromark/cakephp-tools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Skeleton",
+        "childrens": [
+            {
+                "title": "App template",
+                "href": "https://github.com/cakephp/app",
+                "github": "cakephp/app",
+                "type": "github"
+            },
+            {
+                "title": "App template with material ui",
+                "href": "https://github.com/coolops/web-app",
+                "github": "coolops/web-app",
+                "type": "github"
+            },
+            {
+                "title": "Crud plugin",
+                "href": "https://github.com/FriendsOfCake/crud",
+                "github": "FriendsOfCake/crud",
+                "type": "github"
+            },
+            {
+                "title": "Plugin Skeleton",
+                "href": "https://github.com/Xety/Cake3-PluginSkeleton",
+                "github": "Xety/Cake3-PluginSkeleton",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Social",
+        "childrens": [
+            {
+                "title": "Ratings plugin",
+                "href": "https://github.com/dereuromark/cakephp-ratings",
+                "github": "dereuromark/cakephp-ratings",
+                "type": "github"
+            },
+            {
+                "title": "SocialShare plugin",
+                "href": "https://github.com/drmonkeyninja/cakephp-social-share",
+                "github": "drmonkeyninja/cakephp-social-share",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Templating",
+        "childrens": [
+            {
+                "title": "Address plugin",
+                "href": "https://github.com/drmonkeyninja/cakephp-address",
+                "github": "drmonkeyninja/cakephp-address",
+                "type": "github"
+            },
+            {
+                "title": "Bake plugin",
+                "href": "https://github.com/cakephp/bake",
+                "github": "cakephp/bake",
+                "type": "github"
+            },
+            {
+                "title": "Bootstrap plugin",
+                "href": "https://github.com/elboletaire/twbs-cake-plugin",
+                "github": "elboletaire/twbs-cake-plugin",
+                "type": "github"
+            },
+            {
+                "title": "BootstrapUI plugin",
+                "href": "https://github.com/friendsofcake/bootstrap-ui",
+                "github": "friendsofcake/bootstrap-ui",
+                "type": "github"
+            },
+            {
+                "title": "CakeExcel plugin",
+                "href": "https://github.com/dakota/CakeExcel",
+                "github": "dakota/CakeExcel",
+                "type": "github"
+            },
+            {
+                "title": "Chocolate plugin",
+                "href": "https://github.com/commercial-hippie/chocolate",
+                "github": "commercial-hippie/chocolate",
+                "type": "github"
+            },
+            {
+                "title": "CommonMark plugin",
+                "href": "https://github.com/gourmet/common-mark",
+                "github": "gourmet/common-mark",
+                "type": "github"
+            },
+            {
+                "title": "CsvView plugin",
+                "href": "https://github.com/FriendsOfCake/cakephp-csvview",
+                "github": "FriendsOfCake/cakephp-csvview",
+                "type": "github"
+            },
+            {
+                "title": "Feed plugin",
+                "href": "https://github.com/dereuromark/cakephp-feed",
+                "github": "dereuromark/cakephp-feed",
+                "type": "github"
+            },
+            {
+                "title": "InlineCss plugin",
+                "href": "https://github.com/drmonkeyninja/cakephp-inline-css",
+                "github": "drmonkeyninja/cakephp-inline-css",
+                "type": "github"
+            },
+            {
+                "title": "JadeView plugin",
+                "href": "https://github.com/clthck/cakephp-jade",
+                "github": "clthck/cakephp-jade",
+                "type": "github"
+            },
+            {
+                "title": "Liquid plugin",
+                "href": "https://github.com/gourmet/liquid",
+                "github": "gourmet/liquid",
+                "type": "github"
+            },
+            {
+                "title": "Meta plugin",
+                "href": "https://github.com/dereuromark/cakephp-meta",
+                "github": "dereuromark/cakephp-meta",
+                "type": "github"
+            },
+            {
+                "title": "SocialMeta plugin",
+                "href": "https://github.com/gourmet/social-meta",
+                "github": "gourmet/social-meta",
+                "type": "github"
+            },
+            {
+                "title": "TwigView plugin",
+                "href": "https://github.com/WyriHaximus/TwigView",
+                "github": "WyriHaximus/TwigView",
+                "type": "github"
+            },
+            {
+                "title": "VideoEmbed plugin",
+                "href": "https://github.com/drmonkeyninja/cakephp-video-helper",
+                "github": "drmonkeyninja/cakephp-video-helper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "CakePHP Codeception module",
+                "href": "https://github.com/cakephp/codeception",
+                "github": "cakephp/codeception",
+                "type": "github"
+            },
+            {
+                "title": "CakePHP CodeSniffer rules",
+                "href": "https://github.com/cakephp/cakephp-codesniffer",
+                "github": "cakephp/cakephp-codesniffer",
+                "type": "github"
+            },
+            {
+                "title": "CodeSniffer plugin",
+                "href": "https://github.com/dereuromark/cakephp-codesniffer",
+                "github": "dereuromark/cakephp-codesniffer",
+                "type": "github"
+            },
+            {
+                "title": "CodeSniffer plugin sniffs",
+                "href": "https://github.com/dereuromark/codesniffer-standards",
+                "github": "dereuromark/codesniffer-standards",
+                "type": "github"
+            },
+            {
+                "title": "Faker plugin",
+                "href": "https://github.com/gourmet/faker",
+                "github": "gourmet/faker",
+                "type": "github"
+            },
+            {
+                "title": "Fixtures plugin",
+                "href": "https://github.com/LubosRemplik/CakePHP-Fixtures",
+                "github": "LubosRemplik/CakePHP-Fixtures",
+                "type": "github"
+            },
+            {
+                "title": "FriendsOfCake/fixturize",
+                "href": "https://github.com/FriendsOfCake/fixturize",
+                "github": "FriendsOfCake/fixturize",
+                "type": "github"
+            },
+            {
+                "title": "Gourmet/Muffin plugin",
+                "href": "https://github.com/gourmet/muffin",
+                "github": "gourmet/muffin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third Party APIs",
+        "childrens": [
+            {
+                "title": "CakeTmdb plugin",
+                "href": "https://github.com/drmonkeyninja/cakephp-tmdb",
+                "github": "drmonkeyninja/cakephp-tmdb",
+                "type": "github"
+            },
+            {
+                "title": "GitHub plugin",
+                "href": "https://github.com/cvo-technologies/cakephp-github",
+                "github": "cvo-technologies/cakephp-github",
+                "type": "github"
+            },
+            {
+                "title": "Ratchet plugin",
+                "href": "https://github.com/WyriHaximus/Ratchet",
+                "github": "WyriHaximus/Ratchet",
+                "type": "github"
+            },
+            {
+                "title": "Salesforce plugin",
+                "href": "https://github.com/voycey/cakephp-salesforce",
+                "github": "voycey/cakephp-salesforce",
+                "type": "github"
+            },
+            {
+                "title": "Twitter plugin",
+                "href": "https://github.com/cvo-technologies/cakephp-twitter",
+                "github": "cvo-technologies/cakephp-twitter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development Environment",
+        "childrens": [
+            {
+                "title": "Cakebox",
+                "href": "https://github.com/alt3/cakebox",
+                "github": "alt3/cakebox",
+                "type": "github"
+            },
+            {
+                "title": "CakePHP.gitignore",
+                "href": "https://github.com/github/gitignore/blob/master/CakePHP.gitignore",
+                "github": "github/gitignore/blob/master/CakePHP.gitignore",
+                "type": "github"
+            },
+            {
+                "title": "CakePHP Vagrant Setup",
+                "href": "https://github.com/cpierce/cakephp-vagrant-setup",
+                "github": "cpierce/cakephp-vagrant-setup",
+                "type": "github"
+            },
+            {
+                "title": "Docker",
+                "href": "https://github.com/stefanvangastel/docker-cakephp",
+                "github": "stefanvangastel/docker-cakephp",
+                "type": "github"
+            },
+            {
+                "title": "NetBeans plugin",
+                "href": "https://github.com/junichi11/cakephp3-netbeans",
+                "github": "junichi11/cakephp3-netbeans",
+                "type": "github"
+            },
+            {
+                "title": "PhpStorm plugin",
+                "href": "https://github.com/skie/PhpStorm",
+                "github": "skie/PhpStorm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CMS and applications built on CakePHP",
+        "childrens": [
+            {
+                "title": "CakeBlog",
+                "href": "https://github.com/gwhitcher/CakeBlog",
+                "github": "gwhitcher/CakeBlog",
+                "type": "github"
+            },
+            {
+                "title": "QuickApps-CMS",
+                "href": "https://github.com/quickapps/cms",
+                "github": "quickapps/cms",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Demo",
+        "childrens": [
+            {
+                "title": "Bookmarkr",
+                "href": "https://github.com/lorenzo/cakephp3-bookmarkr",
+                "github": "lorenzo/cakephp3-bookmarkr",
+                "type": "github"
+            },
+            {
+                "title": "RealWorld",
+                "href": "https://github.com/gothinkster/cakephp-realworld-example-app",
+                "github": "gothinkster/cakephp-realworld-example-app",
+                "type": "github"
+            },
+            {
+                "title": "Query Examples",
+                "href": "https://github.com/lorenzo/cakephp3-examples",
+                "github": "lorenzo/cakephp3-examples",
+                "type": "github"
+            },
+            {
+                "title": "Xeta",
+                "href": "https://github.com/XetaIO/Xeta",
+                "github": "XetaIO/Xeta",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CakePHP Internals Reading",
+        "childrens": [
+            {
+                "title": "Top 10 (and more) core contributors",
+                "href": "https://github.com/cakephp/cakephp/graphs/contributors",
+                "github": "cakephp/cakephp/graphs/contributors",
+                "type": "github"
+            }
+        ]
+    }
+]

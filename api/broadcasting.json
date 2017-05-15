@@ -1,0 +1,356 @@
+[
+    {
+        "heading": "Companion Screens",
+        "childrens": [
+            {
+                "title": "dvbcss-synctiming",
+                "href": "https://github.com/BBC/dvbcss-synctiming",
+                "github": "BBC/dvbcss-synctiming",
+                "type": "github"
+            },
+            {
+                "title": "pydvbcss",
+                "href": "https://github.com/BBC/pydvbcss",
+                "github": "BBC/pydvbcss",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Connected TVs",
+        "childrens": [
+            {
+                "title": "HbbPlayer",
+                "href": "https://github.com/Samsung/HbbPlayer",
+                "github": "Samsung/HbbPlayer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distributed Media Processing",
+        "childrens": [
+            {
+                "title": "StormCV",
+                "href": "https://github.com/sensorstorm/StormCV",
+                "github": "sensorstorm/StormCV",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DVB & WiFi",
+        "childrens": [
+            {
+                "title": "DTT 2 IP",
+                "href": "https://github.com/ebu/dtt2ip",
+                "github": "ebu/dtt2ip",
+                "type": "github"
+            },
+            {
+                "title": "dvbshout",
+                "href": "https://github.com/njh/dvbshout",
+                "github": "njh/dvbshout",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Animation, Graphics & Video Playout",
+        "childrens": [
+            {
+                "title": "Aurena",
+                "href": "https://github.com/thaytan/aurena",
+                "github": "thaytan/aurena",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hybrid Radio",
+        "childrens": [
+            {
+                "title": "RadioDNS for Node.js",
+                "href": "https://github.com/bbc/node-radiodns",
+                "github": "bbc/node-radiodns",
+                "type": "github"
+            },
+            {
+                "title": "RadioDNS Manager",
+                "href": "https://github.com/ebu/radiodns-plugit",
+                "github": "ebu/radiodns-plugit",
+                "type": "github"
+            },
+            {
+                "title": "RadioTag.js",
+                "href": "https://github.com/ebu/radiotag.js",
+                "github": "ebu/radiotag.js",
+                "type": "github"
+            },
+            {
+                "title": "RadioVIS Html Player",
+                "href": "https://github.com/ebu/radiovis-html5player",
+                "github": "ebu/radiovis-html5player",
+                "type": "github"
+            },
+            {
+                "title": "RadioVIS Demo",
+                "href": "https://github.com/bbc/RadioVisDemo",
+                "github": "bbc/RadioVisDemo",
+                "type": "github"
+            },
+            {
+                "title": "RadioVIS Stomp Server",
+                "href": "https://github.com/bbc/node-radiovis-stomp-server",
+                "github": "bbc/node-radiovis-stomp-server",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Media Players",
+        "childrens": [
+            {
+                "title": "Dash.js",
+                "href": "https://github.com/ebu/dash.js",
+                "github": "ebu/dash.js",
+                "type": "github"
+            },
+            {
+                "title": "Kodi",
+                "href": "https://github.com/xbmc/xbmc",
+                "github": "xbmc/xbmc",
+                "type": "github"
+            },
+            {
+                "title": "Media4DPlayer",
+                "href": "https://github.com/ebu/media4Dplayer",
+                "github": "ebu/media4Dplayer",
+                "type": "github"
+            },
+            {
+                "title": "rx-player",
+                "href": "https://github.com/canalplus/rx-player",
+                "github": "canalplus/rx-player",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Metadata",
+        "childrens": [
+            {
+                "title": "EBUCore",
+                "href": "https://github.com/ebu/ebucore",
+                "github": "ebu/ebucore",
+                "type": "github"
+            },
+            {
+                "title": "jebu-core",
+                "href": "https://github.com/mikrosimage/jebu-core",
+                "github": "mikrosimage/jebu-core",
+                "type": "github"
+            },
+            {
+                "title": "Ledger",
+                "href": "https://github.com/Streampunk/ledger",
+                "github": "Streampunk/ledger",
+                "type": "github"
+            },
+            {
+                "title": "MAJ API",
+                "href": "https://github.com/AMWA-TV/maj",
+                "github": "AMWA-TV/maj",
+                "type": "github"
+            },
+            {
+                "title": "TV-Anytime",
+                "href": "https://github.com/ebu/tvanytime",
+                "github": "ebu/tvanytime",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Multimedia content processing",
+        "childrens": [
+            {
+                "title": "AvTranscoder",
+                "href": "https://github.com/avTranscoder/avTranscoder",
+                "github": "avTranscoder/avTranscoder",
+                "type": "github"
+            },
+            {
+                "title": "Bento4",
+                "href": "https://github.com/axiomatic-systems/Bento4",
+                "github": "axiomatic-systems/Bento4",
+                "type": "github"
+            },
+            {
+                "title": "Codem-isoboxer",
+                "href": "https://github.com/madebyhiro/codem-isoboxer",
+                "github": "madebyhiro/codem-isoboxer",
+                "type": "github"
+            },
+            {
+                "title": "Dynamorse",
+                "href": "https://github.com/Streampunk/dynamorse",
+                "github": "Streampunk/dynamorse",
+                "type": "github"
+            },
+            {
+                "title": "Flowblade",
+                "href": "https://github.com/jliljebl/flowblade",
+                "github": "jliljebl/flowblade",
+                "type": "github"
+            },
+            {
+                "title": "L-SMASH",
+                "href": "https://github.com/l-smash/l-smash/",
+                "github": "l-smash/l-smash/",
+                "type": "github"
+            },
+            {
+                "title": "Libebur128",
+                "href": "http://github.com/jiixyj/libebur128",
+                "github": "iixyj/libebur128",
+                "type": "github"
+            },
+            {
+                "title": "Loudness Validator",
+                "href": "https://github.com/mikrosimage/loudness_validator",
+                "github": "mikrosimage/loudness_validator",
+                "type": "github"
+            },
+            {
+                "title": "MP4Box.js",
+                "href": "https://github.com/gpac/mp4box.js",
+                "github": "gpac/mp4box.js",
+                "type": "github"
+            },
+            {
+                "title": "OBS-Studio",
+                "href": "https://github.com/jp9000/obs-studio",
+                "github": "jp9000/obs-studio",
+                "type": "github"
+            },
+            {
+                "title": "Open Broadcast Encoder",
+                "href": "https://github.com/ob-encoder",
+                "github": "ob-encoder",
+                "type": "github"
+            },
+            {
+                "title": "Photon",
+                "href": "https://github.com/Netflix/photon",
+                "github": "Netflix/photon",
+                "type": "github"
+            },
+            {
+                "title": "UPipe",
+                "href": "https://github.com/cmassiot/upipe/",
+                "github": "cmassiot/upipe/",
+                "type": "github"
+            },
+            {
+                "title": "SMPTE 2210-20 Analyzer",
+                "href": "https://github.com/ebu/smpte2110-analyzer",
+                "github": "ebu/smpte2110-analyzer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Quality Control",
+        "childrens": [
+            {
+                "title": "BeaqleJS",
+                "href": "https://github.com/HSU-ANT/beaqlejs",
+                "github": "HSU-ANT/beaqlejs",
+                "type": "github"
+            },
+            {
+                "title": "QCTools",
+                "href": "https://github.com/bavc/qctools",
+                "github": "bavc/qctools",
+                "type": "github"
+            },
+            {
+                "title": "VMAF",
+                "href": "https://github.com/Netflix/vmaf",
+                "github": "Netflix/vmaf",
+                "type": "github"
+            },
+            {
+                "title": "Wisual",
+                "href": "https://github.com/MarcAntoine-Arnaud/wisual",
+                "github": "MarcAntoine-Arnaud/wisual",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Radio Production",
+        "childrens": [
+            {
+                "title": "Liquidsoap",
+                "href": "https://github.com/savonet/liquidsoap",
+                "github": "savonet/liquidsoap",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Subtitling",
+        "childrens": [
+            {
+                "title": "GStreamer TTML subtitling package",
+                "href": "https://github.com/bbc/gst-ttml-subtitles",
+                "github": "bbc/gst-ttml-subtitles",
+                "type": "github"
+            },
+            {
+                "title": "EBU-TT-D Subtitling within dash.js",
+                "href": "https://github.com/ebu/dash.js/tree/ebu-subtitling-dev",
+                "github": "ebu/dash.js/tree/ebu-subtitling-dev",
+                "type": "github"
+            },
+            {
+                "title": "EBU-TT-D W3C XML Schema",
+                "href": "https://github.com/ebu/ebu-tt-d-xsd/",
+                "github": "ebu/ebu-tt-d-xsd/",
+                "type": "github"
+            },
+            {
+                "title": "EBU-TT Live Interoperability Toolkit",
+                "href": "https://github.com/ebu/ebu-tt-live-toolkit",
+                "github": "ebu/ebu-tt-live-toolkit",
+                "type": "github"
+            },
+            {
+                "title": "imscJS",
+                "href": "https://github.com/sandflow/imscJS",
+                "github": "sandflow/imscJS",
+                "type": "github"
+            },
+            {
+                "title": "IRT EBU-TT-D Application Samples",
+                "href": "https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples",
+                "github": "IRT-Open-Source/irt-ebu-tt-d-application-samples",
+                "type": "github"
+            },
+            {
+                "title": "Subtitling Conversion Framework (SCF)",
+                "href": "https://github.com/Irt-Open-Source/scf",
+                "github": "Irt-Open-Source/scf",
+                "type": "github"
+            },
+            {
+                "title": "Timed Text Toolkit (ttt)",
+                "href": "https://github.com/skynav/ttt",
+                "github": "skynav/ttt",
+                "type": "github"
+            }
+        ]
+    }
+]

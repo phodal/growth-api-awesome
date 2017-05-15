@@ -1,0 +1,413 @@
+[
+    {
+        "heading": "Examples",
+        "childrens": [
+            {
+                "title": "Elm Joust",
+                "href": "https://github.com/stefankreitmayer/elm-joust",
+                "github": "stefankreitmayer/elm-joust",
+                "type": "github"
+            },
+            {
+                "title": "Vessel",
+                "href": "https://github.com/slawrence/vessel",
+                "github": "slawrence/vessel",
+                "type": "github"
+            },
+            {
+                "title": "Sliding Puzzle",
+                "href": "https://github.com/moroshko/sliding-puzzle",
+                "github": "moroshko/sliding-puzzle",
+                "type": "github"
+            },
+            {
+                "title": "TodoMVC",
+                "href": "https://github.com/evancz/elm-todomvc",
+                "github": "evancz/elm-todomvc",
+                "type": "github"
+            },
+            {
+                "title": "TodoMVC with JSON API",
+                "href": "https://github.com/andrewsuzuki/elm-todo-rest-api",
+                "github": "andrewsuzuki/elm-todo-rest-api",
+                "type": "github"
+            },
+            {
+                "title": "TodoMVC/Firebase",
+                "href": "https://github.com/ThomasWeiser/todomvc-elmfire",
+                "github": "ThomasWeiser/todomvc-elmfire",
+                "type": "github"
+            },
+            {
+                "title": "\\<elm-ement",
+                "href": "https://github.com/ohanhi/elm-ement",
+                "github": "ohanhi/elm-ement",
+                "type": "github"
+            },
+            {
+                "title": "TodoMVC in Electron",
+                "href": "https://github.com/nirgn975/Elmctron",
+                "github": "nirgn975/Elmctron",
+                "type": "github"
+            },
+            {
+                "title": "Gipher",
+                "href": "https://github.com/matthieu-beteille/gipher",
+                "github": "matthieu-beteille/gipher",
+                "type": "github"
+            },
+            {
+                "title": "Elm Architecture in Android",
+                "href": "https://github.com/glung/elm-architecture-android",
+                "github": "glung/elm-architecture-android",
+                "type": "github"
+            },
+            {
+                "title": "Collection of examples",
+                "href": "https://github.com/halfzebra/elm-examples",
+                "github": "halfzebra/elm-examples",
+                "type": "github"
+            },
+            {
+                "title": "Elm Flatris",
+                "href": "https://github.com/w0rm/elm-flatris",
+                "github": "w0rm/elm-flatris",
+                "type": "github"
+            },
+            {
+                "title": "Elm + Phoenix + Webpack",
+                "href": "https://github.com/ronanyeah/elm-phoenix-example",
+                "github": "ronanyeah/elm-phoenix-example",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Learn",
+        "childrens": [
+            {
+                "title": "Architecture Tutorial",
+                "href": "https://github.com/evancz/elm-architecture-tutorial",
+                "github": "evancz/elm-architecture-tutorial",
+                "type": "github"
+            },
+            {
+                "title": "Start app",
+                "href": "https://github.com/evancz/start-app",
+                "github": "evancz/start-app",
+                "type": "github"
+            },
+            {
+                "title": "Writing native",
+                "href": "https://github.com/NoRedInk/take-home/wiki/Writing-Native",
+                "github": "NoRedInk/take-home/wiki/Writing-Native",
+                "type": "github"
+            },
+            {
+                "title": "Elm cheat sheet",
+                "href": "https://github.com/izdi/elm-cheat-sheet",
+                "github": "izdi/elm-cheat-sheet",
+                "type": "github"
+            },
+            {
+                "title": "Elm Koans",
+                "href": "https://github.com/robertjlooby/elm-koans",
+                "github": "robertjlooby/elm-koans",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Articles",
+        "childrens": [
+            {
+                "title": "FP with games in Elm",
+                "href": "https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md",
+                "github": "Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md",
+                "type": "github"
+            },
+            {
+                "title": "Learning FP the hard way",
+                "href": "https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db",
+                "github": ".com/ohanhi/0d3d83cf3f0d7bbea9db",
+                "type": "github"
+            },
+            {
+                "title": "Introduction to Rx",
+                "href": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+                "github": ".com/staltz/868e7e9bc2a7b8c1f754",
+                "type": "github"
+            },
+            {
+                "title": "Elm for Web Developers",
+                "href": "https://github.com/eeue56/elm-for-web-developers",
+                "github": "eeue56/elm-for-web-developers",
+                "type": "github"
+            },
+            {
+                "title": "Composing Features and Behaviours in the Elm Architecture",
+                "href": "https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture",
+                "github": "foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "core",
+                "href": "https://github.com/elm-lang/core",
+                "github": "elm-lang/core",
+                "type": "github"
+            },
+            {
+                "title": "html",
+                "href": "https://github.com/elm-lang/html",
+                "github": "elm-lang/html",
+                "type": "github"
+            },
+            {
+                "title": "elm-test",
+                "href": "https://github.com/elm-community/elm-test",
+                "github": "elm-community/elm-test",
+                "type": "github"
+            },
+            {
+                "title": "elm-router",
+                "href": "https://github.com/TheSeamau5/elm-router",
+                "github": "TheSeamau5/elm-router",
+                "type": "github"
+            },
+            {
+                "title": "http",
+                "href": "https://github.com/elm-lang/http",
+                "github": "elm-lang/http",
+                "type": "github"
+            },
+            {
+                "title": "elm-http-builder",
+                "href": "https://github.com/lukewestby/elm-http-builder",
+                "github": "lukewestby/elm-http-builder",
+                "type": "github"
+            },
+            {
+                "title": "elm-console",
+                "href": "https://github.com/laszlopandy/elm-console",
+                "github": "laszlopandy/elm-console",
+                "type": "github"
+            },
+            {
+                "title": "lazy",
+                "href": "https://github.com/elm-lang/lazy",
+                "github": "elm-lang/lazy",
+                "type": "github"
+            },
+            {
+                "title": "elm-ui",
+                "href": "https://github.com/gdotdesign/elm-ui",
+                "github": "gdotdesign/elm-ui",
+                "type": "github"
+            },
+            {
+                "title": "elm-mdl",
+                "href": "https://github.com/debois/elm-mdl",
+                "github": "debois/elm-mdl",
+                "type": "github"
+            },
+            {
+                "title": "elmfire",
+                "href": "https://github.com/ThomasWeiser/elmfire",
+                "github": "ThomasWeiser/elmfire",
+                "type": "github"
+            },
+            {
+                "title": "elm-bootstrap",
+                "href": "https://github.com/rundis/elm-bootstrap",
+                "github": "rundis/elm-bootstrap",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "elm-compiler",
+                "href": "https://github.com/elm-lang/elm-compiler",
+                "github": "elm-lang/elm-compiler",
+                "type": "github"
+            },
+            {
+                "title": "elm-make",
+                "href": "https://github.com/elm-lang/elm-make",
+                "github": "elm-lang/elm-make",
+                "type": "github"
+            },
+            {
+                "title": "elm-reactor",
+                "href": "https://github.com/elm-lang/elm-reactor",
+                "github": "elm-lang/elm-reactor",
+                "type": "github"
+            },
+            {
+                "title": "elm-live",
+                "href": "https://github.com/tomekwi/elm-live",
+                "github": "tomekwi/elm-live",
+                "type": "github"
+            },
+            {
+                "title": "elm-repl",
+                "href": "https://github.com/elm-lang/elm-repl",
+                "github": "elm-lang/elm-repl",
+                "type": "github"
+            },
+            {
+                "title": "elm-package",
+                "href": "https://github.com/elm-lang/elm-package",
+                "github": "elm-lang/elm-package",
+                "type": "github"
+            },
+            {
+                "title": "elm-init",
+                "href": "https://github.com/JustusAdam/elm-init",
+                "github": "JustusAdam/elm-init",
+                "type": "github"
+            },
+            {
+                "title": "elm-new",
+                "href": "https://github.com/simonewebdesign/elm-new",
+                "github": "simonewebdesign/elm-new",
+                "type": "github"
+            },
+            {
+                "title": "elm-format",
+                "href": "https://github.com/avh4/elm-format",
+                "github": "avh4/elm-format",
+                "type": "github"
+            },
+            {
+                "title": "grunt-elm",
+                "href": "https://github.com/rtfeldman/grunt-elm",
+                "github": "rtfeldman/grunt-elm",
+                "type": "github"
+            },
+            {
+                "title": "elm-webpack-loader",
+                "href": "https://github.com/rtfeldman/elm-webpack-loader",
+                "github": "rtfeldman/elm-webpack-loader",
+                "type": "github"
+            },
+            {
+                "title": "servelm",
+                "href": "https://github.com/eeue56/servelm",
+                "github": "eeue56/servelm",
+                "type": "github"
+            },
+            {
+                "title": "elm-oracle",
+                "href": "https://github.com/ElmCast/elm-oracle",
+                "github": "ElmCast/elm-oracle",
+                "type": "github"
+            },
+            {
+                "title": "create-elm-app",
+                "href": "https://github.com/halfzebra/create-elm-app",
+                "github": "halfzebra/create-elm-app",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editor plugins",
+        "childrens": [
+            {
+                "title": "atom-elm-snippets",
+                "href": "https://github.com/chiefGui/atom-elm-snippets",
+                "github": "chiefGui/atom-elm-snippets",
+                "type": "github"
+            },
+            {
+                "title": "emacs-elm-mode",
+                "href": "https://github.com/jcollard/elm-mode",
+                "github": "jcollard/elm-mode",
+                "type": "github"
+            },
+            {
+                "title": "elm-light-table",
+                "href": "https://github.com/rundis/elm-light",
+                "github": "rundis/elm-light",
+                "type": "github"
+            },
+            {
+                "title": "Elm-vim",
+                "href": "https://github.com/ElmCast/elm-vim",
+                "github": "ElmCast/elm-vim",
+                "type": "github"
+            },
+            {
+                "title": "vim-elm-help",
+                "href": "https://github.com/hoelzro/vim-elm-help",
+                "github": "hoelzro/vim-elm-help",
+                "type": "github"
+            },
+            {
+                "title": "emmet-vim",
+                "href": "https://github.com/mattn/emmet-vim",
+                "github": "mattn/emmet-vim",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package managers",
+        "childrens": [
+            {
+                "title": "elm-package",
+                "href": "https://github.com/elm-lang/elm-package",
+                "github": "elm-lang/elm-package",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boilerplates",
+        "childrens": [
+            {
+                "title": "elm-webpack-starter",
+                "href": "https://github.com/moarwick/elm-webpack-starter",
+                "github": "moarwick/elm-webpack-starter",
+                "type": "github"
+            },
+            {
+                "title": "elm-app-boilerplate",
+                "href": "https://github.com/gkubisa/elm-app-boilerplate",
+                "github": "gkubisa/elm-app-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "elmkit",
+                "href": "https://github.com/khusnetdinov/elmkit",
+                "github": "khusnetdinov/elmkit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "404 Elm Street",
+                "href": "https://github.com/zalando/elm-street-404",
+                "github": "zalando/elm-street-404",
+                "type": "github"
+            },
+            {
+                "title": "Haskell to Elm",
+                "href": "https://github.com/eeue56/haskell-to-elm",
+                "github": "eeue56/haskell-to-elm",
+                "type": "github"
+            }
+        ]
+    }
+]

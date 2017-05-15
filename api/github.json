@@ -1,0 +1,214 @@
+[
+    {
+        "heading": "Infomation for people who are new to GitHub",
+        "childrens": [
+            {
+                "title": "Git-it",
+                "href": "https://github.com/jlord/git-it",
+                "github": "jlord/git-it",
+                "type": "github"
+            },
+            {
+                "title": "On-Demand GitHub Training",
+                "href": "https://services.github.com/on-demand/",
+                "github": "thub.com/on-demand/",
+                "type": "github"
+            },
+            {
+                "title": "Bingo Board",
+                "href": "https://github.com/muan/bingo-board",
+                "github": "muan/bingo-board",
+                "type": "github"
+            },
+            {
+                "title": "Writing on GitHub",
+                "href": "https://help.github.com/articles/writing-on-github/",
+                "github": ".com/articles/writing-on-github/",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Pages",
+                "href": "https://pages.github.com/",
+                "github": "b.com/",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Government Community",
+                "href": "https://github.com/government/welcome",
+                "github": "government/welcome",
+                "type": "github"
+            },
+            {
+                "title": "Classroom for GitHub",
+                "href": "https://classroom.github.com",
+                "github": "ithub.com",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Resources for those already familiar with GitHub",
+        "childrens": [
+            {
+                "title": "GitHub Cheat Sheet",
+                "href": "https://github.com/tiimgreen/github-cheat-sheet",
+                "github": "tiimgreen/github-cheat-sheet",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Desktop",
+                "href": "https://desktop.github.com/",
+                "github": "hub.com/",
+                "type": "github"
+            },
+            {
+                "title": "Atom",
+                "href": "https://github.com/blog/2031-announcing-atom-1-0",
+                "github": "blog/2031-announcing-atom-1-0",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Template Guidelines",
+                "href": "https://github.com/cezaraugusto/github-template-guidelines",
+                "github": "cezaraugusto/github-template-guidelines",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tips, tricks, tools, and add-ons for GitHub power users",
+        "childrens": [
+            {
+                "title": "GitHub Integrations Directory",
+                "href": "https://github.com/integrations",
+                "github": "integrations",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Cheat Sheet",
+                "href": "https://github.com/tiimgreen/github-cheat-sheet",
+                "github": "tiimgreen/github-cheat-sheet",
+                "type": "github"
+            },
+            {
+                "title": "A collection of awesome browser extensions for GitHub.",
+                "href": "https://github.com/stefanbuck/awesome-browser-extensions-for-github",
+                "github": "stefanbuck/awesome-browser-extensions-for-github",
+                "type": "github"
+            },
+            {
+                "title": "Redliner",
+                "href": "https://github.com/benbalter/redliner",
+                "github": "benbalter/redliner",
+                "type": "github"
+            },
+            {
+                "title": "Gatekeeper",
+                "href": "https://github.com/prose/gatekeeper",
+                "github": "prose/gatekeeper",
+                "type": "github"
+            },
+            {
+                "title": "github-secret-keeper",
+                "href": "https://github.com/HenrikJoreteg/github-secret-keeper",
+                "github": "HenrikJoreteg/github-secret-keeper",
+                "type": "github"
+            },
+            {
+                "title": "Hub",
+                "href": "https://github.com/github/hub",
+                "github": "github/hub",
+                "type": "github"
+            },
+            {
+                "title": "Ghizmo",
+                "href": "https://github.com/jlevy/ghizmo",
+                "github": "jlevy/ghizmo",
+                "type": "github"
+            },
+            {
+                "title": "cli-github",
+                "href": "https://github.com/harshasrinivas/cli-github",
+                "github": "harshasrinivas/cli-github",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Dark",
+                "href": "https://github.com/StylishThemes/Github-Dark",
+                "github": "StylishThemes/Github-Dark",
+                "type": "github"
+            },
+            {
+                "title": "github-issues-import",
+                "href": "https://github.com/IQAndreas/github-issues-import",
+                "github": "IQAndreas/github-issues-import",
+                "type": "github"
+            },
+            {
+                "title": "Github-Auto-Issue-Creator",
+                "href": "https://github.com/Ricky54326/Github-Auto-Issue-Creator",
+                "github": "Ricky54326/Github-Auto-Issue-Creator",
+                "type": "github"
+            },
+            {
+                "title": "Problem Child",
+                "href": "https://github.com/benbalter/problem_child",
+                "github": "benbalter/problem_child",
+                "type": "github"
+            },
+            {
+                "title": "HubPress",
+                "href": "https://github.com/HubPress/hubpress.io",
+                "github": "HubPress/hubpress.io",
+                "type": "github"
+            },
+            {
+                "title": "Noteit",
+                "href": "https://github.com/Krukov/noteit",
+                "github": "Krukov/noteit",
+                "type": "github"
+            },
+            {
+                "title": "Zappr",
+                "href": "https://github.com/zalando/zappr",
+                "github": "zalando/zappr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Novel uses of GitHub",
+        "childrens": [
+            {
+                "title": "Mozilla Festival",
+                "href": "https://github.com/mozilla/mozfest-program",
+                "github": "mozilla/mozfest-program",
+                "type": "github"
+            },
+            {
+                "title": "Open Source Society University",
+                "href": "https://github.com/open-source-society/computer-science",
+                "github": "open-source-society/computer-science",
+                "type": "github"
+            },
+            {
+                "title": "Clef's Handbook",
+                "href": "https://github.com/clef/handbook",
+                "github": "clef/handbook",
+                "type": "github"
+            },
+            {
+                "title": "The United States Code",
+                "href": "https://github.com/divegeek/uscode",
+                "github": "divegeek/uscode",
+                "type": "github"
+            },
+            {
+                "title": "Le code civil français sous git",
+                "href": "https://github.com/steeve/france.code-civil",
+                "github": "steeve/france.code-civil",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "heading": "Other awesome lists",
+        "childrens": [
+            {
+                "title": "awesome-awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            }
+        ]
+    }
+]

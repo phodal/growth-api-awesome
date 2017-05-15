@@ -1,0 +1,69 @@
+[
+    {
+        "heading": "Algorithms",
+        "childrens": [
+            {
+                "title": "CS 2150",
+                "href": "https://github.com/aaronbloomfield/pdr",
+                "github": "aaronbloomfield/pdr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "DEEPNLP",
+                "href": "https://github.com/oxford-cs-deepnlp-2017/",
+                "github": "oxford-cs-deepnlp-2017/",
+                "type": "github"
+            },
+            {
+                "title": "Practical_RL",
+                "href": "https://github.com/yandexdataschool/Practical_RL",
+                "github": "yandexdataschool/Practical_RL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "CSCI 4968",
+                "href": "https://github.com/RPISEC/MBE",
+                "github": "RPISEC/MBE",
+                "type": "github"
+            },
+            {
+                "title": "CSCI 4976",
+                "href": "https://github.com/RPISEC/Malware",
+                "github": "RPISEC/Malware",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Computer Graphics",
+        "childrens": [
+            {
+                "title": "CS 378",
+                "href": "https://github.com/ut-cs378-vision-2014fall/course-info",
+                "github": "ut-cs378-vision-2014fall/course-info",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "CS 100",
+                "href": "https://github.com/mikeizbicki/ucr-cs100",
+                "github": "mikeizbicki/ucr-cs100",
+                "type": "github"
+            }
+        ]
+    }
+]

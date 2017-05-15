@@ -1,0 +1,249 @@
+[
+    {
+        "heading": "Spritesheet Tools",
+        "childrens": [
+            {
+                "title": "Cheetah-Texture-Packer",
+                "href": "https://github.com/scriptum/Cheetah-Texture-Packer",
+                "github": "scriptum/Cheetah-Texture-Packer",
+                "type": "github"
+            },
+            {
+                "title": "Libgdx Texture Packer",
+                "href": "https://github.com/libgdx/libgdx/wiki/Texture-packer",
+                "github": "libgdx/libgdx/wiki/Texture-packer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Vector/Image Editor",
+        "childrens": [
+            {
+                "title": "Pixen",
+                "href": "https://github.com/Pixen/Pixen",
+                "github": "Pixen/Pixen",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Voxel Editors",
+        "childrens": [
+            {
+                "title": "goxel",
+                "href": "https://github.com/guillaumechereau/goxel",
+                "github": "guillaumechereau/goxel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "2D",
+        "childrens": [
+            {
+                "title": "Bladecoder",
+                "href": "https://github.com/bladecoder/bladecoder-adventure-engine",
+                "github": "bladecoder/bladecoder-adventure-engine",
+                "type": "github"
+            },
+            {
+                "title": "Chipmunk C#",
+                "href": "https://github.com/netonjm/ChipmunkSharp",
+                "github": "netonjm/ChipmunkSharp",
+                "type": "github"
+            },
+            {
+                "title": "Cocos2D",
+                "href": "https://github.com/los-cocos/cocos",
+                "github": "los-cocos/cocos",
+                "type": "github"
+            },
+            {
+                "title": "ENGi",
+                "href": "https://github.com/ajhager/engi",
+                "github": "ajhager/engi",
+                "type": "github"
+            },
+            {
+                "title": "Juno",
+                "href": "https://github.com/rxi/juno",
+                "github": "rxi/juno",
+                "type": "github"
+            },
+            {
+                "title": "Lums",
+                "href": "https://github.com/lums-proj/Lums",
+                "github": "lums-proj/Lums",
+                "type": "github"
+            },
+            {
+                "title": "MINX",
+                "href": "https://github.com/GearChicken/MINX",
+                "github": "GearChicken/MINX",
+                "type": "github"
+            },
+            {
+                "title": "iio.js",
+                "href": "https://github.com/iioinc/iio.js",
+                "github": "iioinc/iio.js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "3D",
+        "childrens": [
+            {
+                "title": "CRYENGINE",
+                "href": "https://github.com/CRYTEK-CRYENGINE/CRYENGINE",
+                "github": "CRYTEK-CRYENGINE/CRYENGINE",
+                "type": "github"
+            },
+            {
+                "title": "Dash",
+                "href": "https://github.com/Circular-Studios/Dash",
+                "github": "Circular-Studios/Dash",
+                "type": "github"
+            },
+            {
+                "title": "LumixEngine",
+                "href": "https://github.com/nem0/LumixEngine",
+                "github": "nem0/LumixEngine",
+                "type": "github"
+            },
+            {
+                "title": "Rajawali",
+                "href": "https://github.com/Rajawali/Rajawali",
+                "github": "Rajawali/Rajawali",
+                "type": "github"
+            },
+            {
+                "title": "WhiteStorm.js",
+                "href": "https://github.com/WhitestormJS/whitestorm.js",
+                "github": "WhitestormJS/whitestorm.js",
+                "type": "github"
+            },
+            {
+                "title": "bgfx",
+                "href": "https://github.com/bkaradzic/bgfx",
+                "github": "bkaradzic/bgfx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "AI",
+        "childrens": [
+            {
+                "title": "Fluent Behaviour Tree",
+                "href": "https://github.com/codecapers/Fluent-Behaviour-Tree",
+                "github": "codecapers/Fluent-Behaviour-Tree",
+                "type": "github"
+            },
+            {
+                "title": "SimpleAI",
+                "href": "https://github.com/mgerhardy/simpleai/",
+                "github": "mgerhardy/simpleai/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Music and Audio Editors",
+        "childrens": [
+            {
+                "title": "MilkyTracker",
+                "href": "https://github.com/milkytracker/MilkyTracker",
+                "github": "milkytracker/MilkyTracker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Videos/Podcasts",
+        "childrens": [
+            {
+                "title": "awesome-gametalks",
+                "href": "https://github.com/hzoo/awesome-gametalks",
+                "github": "hzoo/awesome-gametalks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game Jams",
+        "childrens": [
+            {
+                "title": "Game Off",
+                "href": "https://gameoff.github.com",
+                "github": "hub.com",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Complete Game Sources",
+        "childrens": [
+            {
+                "title": "Doom 3",
+                "href": "https://github.com/id-Software/DOOM-3",
+                "github": "id-Software/DOOM-3",
+                "type": "github"
+            },
+            {
+                "title": "Doom",
+                "href": "https://github.com/id-Software/DOOM",
+                "github": "id-Software/DOOM",
+                "type": "github"
+            },
+            {
+                "title": "Prince of Persia",
+                "href": "https://github.com/jmechner/Prince-of-Persia-Apple-II",
+                "github": "jmechner/Prince-of-Persia-Apple-II",
+                "type": "github"
+            },
+            {
+                "title": "Quake 2",
+                "href": "https://github.com/id-Software/Quake-2",
+                "github": "id-Software/Quake-2",
+                "type": "github"
+            },
+            {
+                "title": "Quake III Arena",
+                "href": "https://github.com/id-Software/Quake-III-Arena",
+                "github": "id-Software/Quake-III-Arena",
+                "type": "github"
+            },
+            {
+                "title": "Quake",
+                "href": "https://github.com/id-Software/Quake",
+                "github": "id-Software/Quake",
+                "type": "github"
+            },
+            {
+                "title": "SimCity",
+                "href": "https://github.com/simhacker/micropolis",
+                "github": "simhacker/micropolis",
+                "type": "github"
+            },
+            {
+                "title": "Wolfenstein 3D",
+                "href": "https://github.com/id-Software/wolf3d",
+                "github": "id-Software/wolf3d",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General Game Development",
+        "childrens": [
+            {
+                "title": "miloyip/game-programmer",
+                "href": "https://github.com/miloyip/game-programmer",
+                "github": "miloyip/game-programmer",
+                "type": "github"
+            }
+        ]
+    }
+]

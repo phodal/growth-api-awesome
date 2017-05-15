@@ -1,0 +1,149 @@
+[
+    {
+        "heading": "Managing plugins",
+        "childrens": [
+            {
+                "title": "dein",
+                "href": "https://github.com/Shougo/dein.vim",
+                "github": "Shougo/dein.vim",
+                "type": "github"
+            },
+            {
+                "title": "plug",
+                "href": "https://github.com/junegunn/vim-plug",
+                "github": "junegunn/vim-plug",
+                "type": "github"
+            },
+            {
+                "title": "vim-addon-manager",
+                "href": "https://github.com/MarcWeber/vim-addon-manager",
+                "github": "MarcWeber/vim-addon-manager",
+                "type": "github"
+            },
+            {
+                "title": "vundle",
+                "href": "https://github.com/VundleVim/Vundle.vim",
+                "github": "VundleVim/Vundle.vim",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Vim distributions",
+        "childrens": [
+            {
+                "title": "janus",
+                "href": "https://github.com/carlhuda/janus.git",
+                "github": "carlhuda/janus.git",
+                "type": "github"
+            },
+            {
+                "title": "spacevim",
+                "href": "https://github.com/SpaceVim/SpaceVim",
+                "github": "SpaceVim/SpaceVim",
+                "type": "github"
+            },
+            {
+                "title": "spf13",
+                "href": "https://github.com/spf13/spf13-vim",
+                "github": "spf13/spf13-vim",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "List of colorschemes",
+        "childrens": [
+            {
+                "title": "acme-colors",
+                "href": "https://github.com/plan9-for-vimspace/acme-colors",
+                "github": "plan9-for-vimspace/acme-colors",
+                "type": "github"
+            },
+            {
+                "title": "base16",
+                "href": "https://github.com/chriskempson/base16-vim",
+                "github": "chriskempson/base16-vim",
+                "type": "github"
+            },
+            {
+                "title": "gotham",
+                "href": "https://github.com/whatyouhide/vim-gotham",
+                "github": "whatyouhide/vim-gotham",
+                "type": "github"
+            },
+            {
+                "title": "gruvbox",
+                "href": "https://github.com/morhetz/gruvbox",
+                "github": "morhetz/gruvbox",
+                "type": "github"
+            },
+            {
+                "title": "janah",
+                "href": "https://github.com/mhinz/vim-janah",
+                "github": "mhinz/vim-janah",
+                "type": "github"
+            },
+            {
+                "title": "jellybeans",
+                "href": "https://github.com/nanotech/jellybeans.vim",
+                "github": "nanotech/jellybeans.vim",
+                "type": "github"
+            },
+            {
+                "title": "lucius",
+                "href": "https://github.com/jonathanfilip/vim-lucius",
+                "github": "jonathanfilip/vim-lucius",
+                "type": "github"
+            },
+            {
+                "title": "molokai",
+                "href": "https://github.com/tomasr/molokai",
+                "github": "tomasr/molokai",
+                "type": "github"
+            },
+            {
+                "title": "railscasts",
+                "href": "https://github.com/jpo/vim-railscasts-theme",
+                "github": "jpo/vim-railscasts-theme",
+                "type": "github"
+            },
+            {
+                "title": "seoul256",
+                "href": "https://github.com/junegunn/seoul256.vim",
+                "github": "junegunn/seoul256.vim",
+                "type": "github"
+            },
+            {
+                "title": "solarized",
+                "href": "https://github.com/altercation/vim-colors-solarized",
+                "github": "altercation/vim-colors-solarized",
+                "type": "github"
+            },
+            {
+                "title": "tomorrow",
+                "href": "https://github.com/chriskempson/vim-tomorrow-theme",
+                "github": "chriskempson/vim-tomorrow-theme",
+                "type": "github"
+            },
+            {
+                "title": "vividchalk",
+                "href": "https://github.com/tpope/vim-vividchalk",
+                "github": "tpope/vim-vividchalk",
+                "type": "github"
+            },
+            {
+                "title": "yowish",
+                "href": "https://github.com/kabbamine/yowish.vim",
+                "github": "kabbamine/yowish.vim",
+                "type": "github"
+            },
+            {
+                "title": "zenburn",
+                "href": "https://github.com/jnurmine/Zenburn",
+                "github": "jnurmine/Zenburn",
+                "type": "github"
+            }
+        ]
+    }
+]

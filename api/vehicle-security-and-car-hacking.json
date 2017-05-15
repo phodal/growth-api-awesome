@@ -1,0 +1,115 @@
+[
+    {
+        "heading": "Courses",
+        "childrens": [
+            {
+                "title": "Udacity's Self Driving Car Engineer Course",
+                "href": "https://github.com/udacity/self-driving-car",
+                "github": "udacity/self-driving-car",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Projects",
+        "childrens": [
+            {
+                "title": "Open Vehicle Monitoring System",
+                "href": "https://github.com/openvehicles/Open-Vehicle-Monitoring-System",
+                "github": "openvehicles/Open-Vehicle-Monitoring-System",
+                "type": "github"
+            },
+            {
+                "title": "Open Source Car Control Project",
+                "href": "https://github.com/PolySync/OSCC",
+                "github": "PolySync/OSCC",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Applications",
+        "childrens": [
+            {
+                "title": "UDSim",
+                "href": "https://github.com/zombieCraig/UDSim/",
+                "github": "zombieCraig/UDSim/",
+                "type": "github"
+            },
+            {
+                "title": "CANToolz",
+                "href": "https://github.com/eik00d/CANToolz",
+                "github": "eik00d/CANToolz",
+                "type": "github"
+            },
+            {
+                "title": "openalpr",
+                "href": "https://github.com/openalpr/openalpr",
+                "github": "openalpr/openalpr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C",
+        "childrens": [
+            {
+                "title": "SocketCAN Utils",
+                "href": "https://github.com/linux-can/can-utils",
+                "github": "linux-can/can-utils",
+                "type": "github"
+            },
+            {
+                "title": "vircar",
+                "href": "https://github.com/dn5/vircar",
+                "github": "dn5/vircar",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "Caring Caribou",
+                "href": "https://github.com/CaringCaribou/caringcaribou/",
+                "github": "CaringCaribou/caringcaribou/",
+                "type": "github"
+            },
+            {
+                "title": "c0f",
+                "href": "https://github.com/zombieCraig/c0f/",
+                "github": "zombieCraig/c0f/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "CANNiBUS",
+                "href": "https://github.com/Hive13/CANiBUS/",
+                "github": "Hive13/CANiBUS/",
+                "type": "github"
+            },
+            {
+                "title": "CAN Simulator",
+                "href": "https://github.com/carloop/simulator-program",
+                "github": "carloop/simulator-program",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "NodeJS extension to SocketCAN",
+                "href": "https://github.com/sebi2k1/node-can",
+                "github": "sebi2k1/node-can",
+                "type": "github"
+            }
+        ]
+    }
+]

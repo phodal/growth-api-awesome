@@ -1,0 +1,66 @@
+[
+    {
+        "heading": "Open-source host-it-yourself:",
+        "childrens": [
+            {
+                "title": "Contact Congress (Open Source)",
+                "href": "https://github.com/EFForg/contact-congress",
+                "github": "EFForg/contact-congress",
+                "type": "github"
+            },
+            {
+                "title": "Call Congress",
+                "href": "https://github.com/fightforthefuture/call-congress",
+                "github": "fightforthefuture/call-congress",
+                "type": "github"
+            },
+            {
+                "title": "Twilio.org's Rapid Response Kit",
+                "href": "https://github.com/Twilio-org/rapid-response-kit",
+                "github": "Twilio-org/rapid-response-kit",
+                "type": "github"
+            },
+            {
+                "title": "Crowdring",
+                "href": "https://github.com/therules/CrowdRing",
+                "github": "therules/CrowdRing",
+                "type": "github"
+            },
+            {
+                "title": "Self Starter",
+                "href": "https://github.com/lockitron/selfstarter",
+                "github": "lockitron/selfstarter",
+                "type": "github"
+            },
+            {
+                "title": "TakeCharge.io",
+                "href": "https://github.com/controlshift/prague-server",
+                "github": "controlshift/prague-server",
+                "type": "github"
+            },
+            {
+                "title": "Countdown",
+                "href": "https://github.com/drewrwilson/countdown",
+                "github": "drewrwilson/countdown",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Projects to keep an eye on (ie projects in development)",
+        "childrens": [
+            {
+                "title": "Where@",
+                "href": "https://github.com/the-learning-collective/whereat-macroid",
+                "github": "the-learning-collective/whereat-macroid",
+                "type": "github"
+            },
+            {
+                "title": "Day of Action",
+                "href": "https://github.com/handsupwalkout/handsupwalkout.github.io",
+                "github": "handsupwalkout/handsupwalkout.github.io",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "heading": "CSS",
+        "childrens": [
+            {
+                "title": "Principles of writing consistent, idiomatic CSS",
+                "href": "https://github.com/necolas/idiomatic-css#readme",
+                "github": "necolas/idiomatic-css#readme",
+                "type": "github"
+            },
+            {
+                "title": "HTML and CSS code guide",
+                "href": "https://github.com/mdo/code-guide#readme",
+                "github": "mdo/code-guide#readme",
+                "type": "github"
+            },
+            {
+                "title": "General CSS notes, advice and guidelines",
+                "href": "https://github.com/csswizardry/CSS-Guidelines#readme",
+                "github": "csswizardry/CSS-Guidelines#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sass",
+        "childrens": [
+            {
+                "title": "Principles of writing idiomatic Sass",
+                "href": "https://github.com/anthonyshort/idiomatic-sass#readme",
+                "github": "anthonyshort/idiomatic-sass#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML",
+        "childrens": [
+            {
+                "title": "HTML and CSS code guide",
+                "href": "https://github.com/mdo/code-guide#readme",
+                "github": "mdo/code-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++",
+        "childrens": [
+            {
+                "title": "C++ Core Guidelines",
+                "href": "https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme",
+                "github": "isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CoffeeScript",
+        "childrens": [
+            {
+                "title": "CoffeeScript Style Guide",
+                "href": "https://github.com/polarmobile/coffeescript-style-guide#readme",
+                "github": "polarmobile/coffeescript-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elixir",
+        "childrens": [
+            {
+                "title": "Elixir Style Guide",
+                "href": "https://github.com/christopheradams/elixir_style_guide#readme",
+                "github": "christopheradams/elixir_style_guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "Go Code Review Comments",
+                "href": "https://github.com/golang/go/wiki/CodeReviewComments",
+                "github": "golang/go/wiki/CodeReviewComments",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "Principles of Writing Consistent, Idiomatic JavaScript",
+                "href": "https://github.com/rwaldron/idiomatic.js#readme",
+                "github": "rwaldron/idiomatic.js#readme",
+                "type": "github"
+            },
+            {
+                "title": "Airbnb JavaScript Style Guide",
+                "href": "https://github.com/airbnb/javascript#readme",
+                "github": "airbnb/javascript#readme",
+                "type": "github"
+            },
+            {
+                "title": "ES6 Coding Style",
+                "href": "https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme",
+                "github": "elierotenberg/coding-styles/blob/master/es6.md#readme",
+                "type": "github"
+            },
+            {
+                "title": "JavaScript SDK Design Guide",
+                "href": "https://github.com/hueitan/javascript-sdk-design#readme",
+                "github": "hueitan/javascript-sdk-design#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Objective-C",
+        "childrens": [
+            {
+                "title": "NYTimes Objective-C Style Guide",
+                "href": "https://github.com/NYTimes/objective-c-style-guide#readme",
+                "github": "NYTimes/objective-c-style-guide#readme",
+                "type": "github"
+            },
+            {
+                "title": "The official raywenderlich.com Objective-C style guide",
+                "href": "https://github.com/raywenderlich/objective-c-style-guide#readme",
+                "github": "raywenderlich/objective-c-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "PHP Coding Standards",
+                "href": "https://github.com/maxdmyers/php-style-guide#readme",
+                "github": "maxdmyers/php-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "The Ruby Style Guide",
+                "href": "https://github.com/bbatsov/ruby-style-guide#readme",
+                "github": "bbatsov/ruby-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Swift",
+        "childrens": [
+            {
+                "title": "The Official raywenderlich.com Swift Style Guide",
+                "href": "https://github.com/raywenderlich/swift-style-guide#readme",
+                "github": "raywenderlich/swift-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "AngularJS",
+        "childrens": [
+            {
+                "title": "AngularJS Style Guide",
+                "href": "https://github.com/johnpapa/angular-styleguide#readme",
+                "github": "johnpapa/angular-styleguide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Node.js",
+        "childrens": [
+            {
+                "title": "Node.js Style Guide",
+                "href": "https://github.com/felixge/node-style-guide#readme",
+                "github": "felixge/node-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rails",
+        "childrens": [
+            {
+                "title": "The Rails Style Guide",
+                "href": "https://github.com/bbatsov/rails-style-guide#readme",
+                "github": "bbatsov/rails-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API",
+        "childrens": [
+            {
+                "title": "HTTP API Design Guide",
+                "href": "https://github.com/interagent/http-api-design#readme",
+                "github": "interagent/http-api-design#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Favicon",
+        "childrens": [
+            {
+                "title": "favicon-cheat-sheet",
+                "href": "https://github.com/audreyr/favicon-cheat-sheet#readme",
+                "github": "audreyr/favicon-cheat-sheet#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI",
+        "childrens": [
+            {
+                "title": "Pagination 101",
+                "href": "https://gist.github.com/mislav/622561",
+                "github": ".com/mislav/622561",
+                "type": "github"
+            }
+        ]
+    }
+]

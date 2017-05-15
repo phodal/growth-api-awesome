@@ -1,0 +1,2855 @@
+[
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "naive-apl",
+                "href": "https://github.com/mattcunningham/naive-apl",
+                "github": "mattcunningham/naive-apl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Darknet",
+                "href": "https://github.com/pjreddie/darknet",
+                "github": "pjreddie/darknet",
+                "type": "github"
+            },
+            {
+                "title": "Recommender",
+                "href": "https://github.com/GHamrouni/Recommender",
+                "github": "GHamrouni/Recommender",
+                "type": "github"
+            },
+            {
+                "title": "Hybrid Recommender System",
+                "href": "https://github.com/SeniorSA/hybrid-rs-trainner",
+                "github": "SeniorSA/hybrid-rs-trainner",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Computer Vision",
+        "childrens": [
+            {
+                "title": "CCV",
+                "href": "https://github.com/liuliu/ccv",
+                "github": "liuliu/ccv",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Computer Vision",
+        "childrens": [
+            {
+                "title": "VIGRA",
+                "href": "https://github.com/ukoethe/vigra",
+                "github": "ukoethe/vigra",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "BanditLib",
+                "href": "https://github.com/jkomiyama/banditlib",
+                "github": "jkomiyama/banditlib",
+                "type": "github"
+            },
+            {
+                "title": "CNTK",
+                "href": "https://github.com/Microsoft/CNTK",
+                "github": "Microsoft/CNTK",
+                "type": "github"
+            },
+            {
+                "title": "CXXNET",
+                "href": "https://github.com/antinucleon/cxxnet",
+                "github": "antinucleon/cxxnet",
+                "type": "github"
+            },
+            {
+                "title": "DeepDetect",
+                "href": "https://github.com/beniz/deepdetect",
+                "github": "beniz/deepdetect",
+                "type": "github"
+            },
+            {
+                "title": "DSSTNE",
+                "href": "https://github.com/amznlabs/amazon-dsstne",
+                "github": "amznlabs/amazon-dsstne",
+                "type": "github"
+            },
+            {
+                "title": "DyNet",
+                "href": "https://github.com/clab/dynet",
+                "github": "clab/dynet",
+                "type": "github"
+            },
+            {
+                "title": "Fido",
+                "href": "https://github.com/FidoProject/Fido",
+                "github": "FidoProject/Fido",
+                "type": "github"
+            },
+            {
+                "title": "Intel(R) DAAL",
+                "href": "https://github.com/01org/daal",
+                "github": "01org/daal",
+                "type": "github"
+            },
+            {
+                "title": "LightGBM",
+                "href": "https://github.com/Microsoft/LightGBM",
+                "github": "Microsoft/LightGBM",
+                "type": "github"
+            },
+            {
+                "title": "Shogun",
+                "href": "https://github.com/shogun-toolbox/shogun",
+                "github": "shogun-toolbox/shogun",
+                "type": "github"
+            },
+            {
+                "title": "Vowpal Wabbit (VW)",
+                "href": "https://github.com/JohnLangford/vowpal_wabbit/wiki",
+                "github": "JohnLangford/vowpal_wabbit/wiki",
+                "type": "github"
+            },
+            {
+                "title": "Warp-CTC",
+                "href": "https://github.com/baidu-research/warp-ctc",
+                "github": "baidu-research/warp-ctc",
+                "type": "github"
+            },
+            {
+                "title": "XGBoost",
+                "href": "https://github.com/dmlc/xgboost",
+                "github": "dmlc/xgboost",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "BLLIP Parser",
+                "href": "https://github.com/BLLIP/bllip-parser",
+                "github": "BLLIP/bllip-parser",
+                "type": "github"
+            },
+            {
+                "title": "colibri-core",
+                "href": "https://github.com/proycon/colibri-core",
+                "github": "proycon/colibri-core",
+                "type": "github"
+            },
+            {
+                "title": "frog",
+                "href": "https://github.com/LanguageMachines/frog",
+                "github": "LanguageMachines/frog",
+                "type": "github"
+            },
+            {
+                "title": "libfolia",
+                "href": "https://github.com/LanguageMachines/libfolia",
+                "github": "LanguageMachines/libfolia",
+                "type": "github"
+            },
+            {
+                "title": "MeTA",
+                "href": "https://github.com/meta-toolkit/meta",
+                "github": "meta-toolkit/meta",
+                "type": "github"
+            },
+            {
+                "title": "MIT Information Extraction Toolkit",
+                "href": "https://github.com/mit-nlp/MITIE",
+                "github": "mit-nlp/MITIE",
+                "type": "github"
+            },
+            {
+                "title": "ucto",
+                "href": "https://github.com/LanguageMachines/ucto",
+                "github": "LanguageMachines/ucto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Speech Recognition",
+        "childrens": [
+            {
+                "title": "Kaldi",
+                "href": "https://github.com/kaldi-asr/kaldi",
+                "github": "kaldi-asr/kaldi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sequence Analysis",
+        "childrens": [
+            {
+                "title": "ToPS",
+                "href": "https://github.com/ayoshiaki/tops",
+                "github": "ayoshiaki/tops",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Gesture Detection",
+        "childrens": [
+            {
+                "title": "grt",
+                "href": "https://github.com/nickgillian/grt",
+                "github": "nickgillian/grt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "mgl",
+                "href": "https://github.com/melisgl/mgl/",
+                "github": "melisgl/mgl/",
+                "type": "github"
+            },
+            {
+                "title": "mgl-gpr",
+                "href": "https://github.com/melisgl/mgl-gpr/",
+                "github": "melisgl/mgl-gpr/",
+                "type": "github"
+            },
+            {
+                "title": "cl-libsvm",
+                "href": "https://github.com/melisgl/cl-libsvm/",
+                "github": "melisgl/cl-libsvm/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Clojure-openNLP",
+                "href": "https://github.com/dakrone/clojure-opennlp",
+                "github": "dakrone/clojure-opennlp",
+                "type": "github"
+            },
+            {
+                "title": "Infections-clj",
+                "href": "https://github.com/r0man/inflections-clj",
+                "github": "r0man/inflections-clj",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Touchstone",
+                "href": "https://github.com/ptaoussanis/touchstone",
+                "github": "ptaoussanis/touchstone",
+                "type": "github"
+            },
+            {
+                "title": "Clojush",
+                "href": "https://github.com/lspector/Clojush",
+                "github": "lspector/Clojush",
+                "type": "github"
+            },
+            {
+                "title": "Infer",
+                "href": "https://github.com/aria42/infer",
+                "github": "aria42/infer",
+                "type": "github"
+            },
+            {
+                "title": "Clj-ML",
+                "href": "https://github.com/antoniogarrote/clj-ml",
+                "github": "antoniogarrote/clj-ml",
+                "type": "github"
+            },
+            {
+                "title": "DL4CLJ",
+                "href": "https://github.com/engagor/dl4clj/",
+                "github": "engagor/dl4clj/",
+                "type": "github"
+            },
+            {
+                "title": "Encog",
+                "href": "https://github.com/jimpil/enclog",
+                "github": "jimpil/enclog",
+                "type": "github"
+            },
+            {
+                "title": "Fungp",
+                "href": "https://github.com/vollmerm/fungp",
+                "github": "vollmerm/fungp",
+                "type": "github"
+            },
+            {
+                "title": "Statistiker",
+                "href": "https://github.com/clojurewerkz/statistiker",
+                "github": "clojurewerkz/statistiker",
+                "type": "github"
+            },
+            {
+                "title": "clortex",
+                "href": "https://github.com/htm-community/clortex",
+                "github": "htm-community/clortex",
+                "type": "github"
+            },
+            {
+                "title": "comportex",
+                "href": "https://github.com/htm-community/comportex",
+                "github": "htm-community/comportex",
+                "type": "github"
+            },
+            {
+                "title": "cortex",
+                "href": "https://github.com/thinktopic/cortex",
+                "github": "thinktopic/cortex",
+                "type": "github"
+            },
+            {
+                "title": "lambda-ml",
+                "href": "https://github.com/cloudkj/lambda-ml",
+                "github": "cloudkj/lambda-ml",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis / Data Visualization",
+        "childrens": [
+            {
+                "title": "PigPen",
+                "href": "https://github.com/Netflix/PigPen",
+                "github": "Netflix/PigPen",
+                "type": "github"
+            },
+            {
+                "title": "Envision",
+                "href": "https://github.com/clojurewerkz/envision",
+                "github": "clojurewerkz/envision",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Simple Bayes",
+                "href": "https://github.com/fredwu/simple_bayes",
+                "github": "fredwu/simple_bayes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Stemmer",
+                "href": "https://github.com/fredwu/stemmer",
+                "github": "fredwu/stemmer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Disco",
+                "href": "https://github.com/discoproject/disco/",
+                "github": "discoproject/disco/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "go-porterstemmer",
+                "href": "https://github.com/reiver/go-porterstemmer",
+                "github": "reiver/go-porterstemmer",
+                "type": "github"
+            },
+            {
+                "title": "paicehusk",
+                "href": "https://github.com/Rookii/paicehusk",
+                "github": "Rookii/paicehusk",
+                "type": "github"
+            },
+            {
+                "title": "snowball",
+                "href": "https://github.com/tebeka/snowball",
+                "github": "tebeka/snowball",
+                "type": "github"
+            },
+            {
+                "title": "go-ngram",
+                "href": "https://github.com/Lazin/go-ngram",
+                "github": "Lazin/go-ngram",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "gago",
+                "href": "https://github.com/MaxHalford/gago",
+                "github": "MaxHalford/gago",
+                "type": "github"
+            },
+            {
+                "title": "Go Learn",
+                "href": "https://github.com/sjwhitworth/golearn",
+                "github": "sjwhitworth/golearn",
+                "type": "github"
+            },
+            {
+                "title": "go-pr",
+                "href": "https://github.com/daviddengcn/go-pr",
+                "github": "daviddengcn/go-pr",
+                "type": "github"
+            },
+            {
+                "title": "go-ml",
+                "href": "https://github.com/alonsovidales/go_ml",
+                "github": "alonsovidales/go_ml",
+                "type": "github"
+            },
+            {
+                "title": "bayesian",
+                "href": "https://github.com/jbrukh/bayesian",
+                "github": "jbrukh/bayesian",
+                "type": "github"
+            },
+            {
+                "title": "go-galib",
+                "href": "https://github.com/thoj/go-galib",
+                "github": "thoj/go-galib",
+                "type": "github"
+            },
+            {
+                "title": "Cloudforest",
+                "href": "https://github.com/ryanbressler/CloudForest",
+                "github": "ryanbressler/CloudForest",
+                "type": "github"
+            },
+            {
+                "title": "gobrain",
+                "href": "https://github.com/goml/gobrain",
+                "github": "goml/gobrain",
+                "type": "github"
+            },
+            {
+                "title": "GoNN",
+                "href": "https://github.com/fxsjy/gonn",
+                "github": "fxsjy/gonn",
+                "type": "github"
+            },
+            {
+                "title": "MXNet",
+                "href": "https://github.com/dmlc/mxnet",
+                "github": "dmlc/mxnet",
+                "type": "github"
+            },
+            {
+                "title": "go-mxnet-predictor",
+                "href": "https://github.com/songtianyi/go-mxnet-predictor",
+                "github": "songtianyi/go-mxnet-predictor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis / Data Visualization",
+        "childrens": [
+            {
+                "title": "go-graph",
+                "href": "https://github.com/StepLg/go-graph",
+                "github": "StepLg/go-graph",
+                "type": "github"
+            },
+            {
+                "title": "RF",
+                "href": "https://github.com/fxsjy/RF.go",
+                "github": "fxsjy/RF.go",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "haskell-ml",
+                "href": "https://github.com/ajtulloch/haskell-ml",
+                "github": "ajtulloch/haskell-ml",
+                "type": "github"
+            },
+            {
+                "title": "HLearn",
+                "href": "https://github.com/mikeizbicki/HLearn",
+                "github": "mikeizbicki/HLearn",
+                "type": "github"
+            },
+            {
+                "title": "hopfield-networks",
+                "href": "https://github.com/ajtulloch/hopfield-networks",
+                "github": "ajtulloch/hopfield-networks",
+                "type": "github"
+            },
+            {
+                "title": "caffegraph",
+                "href": "https://github.com/ajtulloch/dnngraph",
+                "github": "ajtulloch/dnngraph",
+                "type": "github"
+            },
+            {
+                "title": "LambdaNet",
+                "href": "https://github.com/jbarrow/LambdaNet",
+                "github": "jbarrow/LambdaNet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Twitter Text Java",
+                "href": "https://github.com/twitter/twitter-text-java",
+                "github": "twitter/twitter-text-java",
+                "type": "github"
+            },
+            {
+                "title": "ClearNLP",
+                "href": "https://github.com/clir/clearnlp",
+                "github": "clir/clearnlp",
+                "type": "github"
+            },
+            {
+                "title": "CogcompNLP",
+                "href": "https://github.com/IllinoisCogComp/illinois-cogcomp-nlp",
+                "github": "IllinoisCogComp/illinois-cogcomp-nlp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "aerosolve",
+                "href": "https://github.com/airbnb/aerosolve",
+                "github": "airbnb/aerosolve",
+                "type": "github"
+            },
+            {
+                "title": "Datumbox",
+                "href": "https://github.com/datumbox/datumbox-framework",
+                "github": "datumbox/datumbox-framework",
+                "type": "github"
+            },
+            {
+                "title": "Encog",
+                "href": "https://github.com/encog/encog-java-core",
+                "github": "encog/encog-java-core",
+                "type": "github"
+            },
+            {
+                "title": "H2O",
+                "href": "https://github.com/h2oai/h2o-3",
+                "github": "h2oai/h2o-3",
+                "type": "github"
+            },
+            {
+                "title": "htm.java",
+                "href": "https://github.com/numenta/htm.java",
+                "github": "numenta/htm.java",
+                "type": "github"
+            },
+            {
+                "title": "java-deeplearning",
+                "href": "https://github.com/deeplearning4j/deeplearning4j",
+                "github": "deeplearning4j/deeplearning4j",
+                "type": "github"
+            },
+            {
+                "title": "Mahout",
+                "href": "https://github.com/apache/mahout",
+                "github": "apache/mahout",
+                "type": "github"
+            },
+            {
+                "title": "Hydrosphere Mist",
+                "href": "https://github.com/Hydrospheredata/mist",
+                "github": "Hydrospheredata/mist",
+                "type": "github"
+            },
+            {
+                "title": "ORYX",
+                "href": "https://github.com/oryxproject/oryx",
+                "github": "oryxproject/oryx",
+                "type": "github"
+            },
+            {
+                "title": "rapaio",
+                "href": "https://github.com/padreati/rapaio",
+                "github": "padreati/rapaio",
+                "type": "github"
+            },
+            {
+                "title": "SmileMiner",
+                "href": "https://github.com/haifengl/smile",
+                "github": "haifengl/smile",
+                "type": "github"
+            },
+            {
+                "title": "SystemML",
+                "href": "https://github.com/apache/incubator-systemml",
+                "github": "apache/incubator-systemml",
+                "type": "github"
+            },
+            {
+                "title": "WalnutiQ",
+                "href": "https://github.com/WalnutiQ/wAlnut",
+                "github": "WalnutiQ/wAlnut",
+                "type": "github"
+            },
+            {
+                "title": "LBJava",
+                "href": "https://github.com/IllinoisCogComp/lbjava/",
+                "github": "IllinoisCogComp/lbjava/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis / Data Visualization",
+        "childrens": [
+            {
+                "title": "Hadoop",
+                "href": "https://github.com/apache/hadoop-mapreduce",
+                "github": "apache/hadoop-mapreduce",
+                "type": "github"
+            },
+            {
+                "title": "Spark",
+                "href": "https://github.com/apache/spark",
+                "github": "apache/spark",
+                "type": "github"
+            },
+            {
+                "title": "Impala",
+                "href": "https://github.com/cloudera/impala",
+                "github": "cloudera/impala",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deep Learning",
+        "childrens": [
+            {
+                "title": "Deeplearning4j",
+                "href": "https://github.com/deeplearning4j/deeplearning4j",
+                "github": "deeplearning4j/deeplearning4j",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Twitter-text",
+                "href": "https://github.com/twitter/twitter-text",
+                "github": "twitter/twitter-text",
+                "type": "github"
+            },
+            {
+                "title": "NLP.js",
+                "href": "https://github.com/nicktesla/nlpjs",
+                "github": "nicktesla/nlpjs",
+                "type": "github"
+            },
+            {
+                "title": "natural",
+                "href": "https://github.com/NaturalNode/natural",
+                "github": "NaturalNode/natural",
+                "type": "github"
+            },
+            {
+                "title": "Knwl.js",
+                "href": "https://github.com/loadfive/Knwl.js",
+                "github": "loadfive/Knwl.js",
+                "type": "github"
+            },
+            {
+                "title": "Retext",
+                "href": "https://github.com/wooorm/retext",
+                "github": "wooorm/retext",
+                "type": "github"
+            },
+            {
+                "title": "NLP Compromise",
+                "href": "https://github.com/nlp-compromise/compromise",
+                "github": "nlp-compromise/compromise",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis / Data Visualization",
+        "childrens": [
+            {
+                "title": "D3xter",
+                "href": "https://github.com/NathanEpstein/D3xter",
+                "github": "NathanEpstein/D3xter",
+                "type": "github"
+            },
+            {
+                "title": "statkit",
+                "href": "https://github.com/rigtorp/statkit",
+                "github": "rigtorp/statkit",
+                "type": "github"
+            },
+            {
+                "title": "datakit",
+                "href": "https://github.com/nathanepstein/datakit",
+                "github": "nathanepstein/datakit",
+                "type": "github"
+            },
+            {
+                "title": "science.js",
+                "href": "https://github.com/jasondavies/science.js/",
+                "github": "jasondavies/science.js/",
+                "type": "github"
+            },
+            {
+                "title": "Z3d",
+                "href": "https://github.com/NathanEpstein/Z3d",
+                "github": "NathanEpstein/Z3d",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Clustering.js",
+                "href": "https://github.com/emilbayes/clustering.js",
+                "github": "emilbayes/clustering.js",
+                "type": "github"
+            },
+            {
+                "title": "Decision Trees",
+                "href": "https://github.com/serendipious/nodejs-decision-tree-id3",
+                "github": "serendipious/nodejs-decision-tree-id3",
+                "type": "github"
+            },
+            {
+                "title": "DN2A",
+                "href": "https://github.com/dn2a/dn2a-javascript",
+                "github": "dn2a/dn2a-javascript",
+                "type": "github"
+            },
+            {
+                "title": "Node-fann",
+                "href": "https://github.com/rlidwka/node-fann",
+                "github": "rlidwka/node-fann",
+                "type": "github"
+            },
+            {
+                "title": "Kmeans.js",
+                "href": "https://github.com/emilbayes/kMeans.js",
+                "github": "emilbayes/kMeans.js",
+                "type": "github"
+            },
+            {
+                "title": "LDA.js",
+                "href": "https://github.com/primaryobjects/lda",
+                "github": "primaryobjects/lda",
+                "type": "github"
+            },
+            {
+                "title": "Learning.js",
+                "href": "https://github.com/yandongliu/learningjs",
+                "github": "yandongliu/learningjs",
+                "type": "github"
+            },
+            {
+                "title": "machineJS",
+                "href": "https://github.com/ClimbsRocks/machineJS",
+                "github": "ClimbsRocks/machineJS",
+                "type": "github"
+            },
+            {
+                "title": "mil-tokyo",
+                "href": "https://github.com/mil-tokyo",
+                "github": "mil-tokyo",
+                "type": "github"
+            },
+            {
+                "title": "Node-SVM",
+                "href": "https://github.com/nicolaspanel/node-svm",
+                "github": "nicolaspanel/node-svm",
+                "type": "github"
+            },
+            {
+                "title": "Brain",
+                "href": "https://github.com/harthur/brain",
+                "github": "harthur/brain",
+                "type": "github"
+            },
+            {
+                "title": "Bayesian-Bandit",
+                "href": "https://github.com/omphalos/bayesian-bandit.js",
+                "github": "omphalos/bayesian-bandit.js",
+                "type": "github"
+            },
+            {
+                "title": "Synaptic",
+                "href": "https://github.com/cazala/synaptic",
+                "github": "cazala/synaptic",
+                "type": "github"
+            },
+            {
+                "title": "kNear",
+                "href": "https://github.com/NathanEpstein/kNear",
+                "github": "NathanEpstein/kNear",
+                "type": "github"
+            },
+            {
+                "title": "NeuralN",
+                "href": "https://github.com/totemstech/neuraln",
+                "github": "totemstech/neuraln",
+                "type": "github"
+            },
+            {
+                "title": "kalman",
+                "href": "https://github.com/itamarwe/kalman",
+                "github": "itamarwe/kalman",
+                "type": "github"
+            },
+            {
+                "title": "shaman",
+                "href": "https://github.com/luccastera/shaman",
+                "github": "luccastera/shaman",
+                "type": "github"
+            },
+            {
+                "title": "ml.js",
+                "href": "https://github.com/mljs/ml",
+                "github": "mljs/ml",
+                "type": "github"
+            },
+            {
+                "title": "Pavlov.js",
+                "href": "https://github.com/NathanEpstein/Pavlov.js",
+                "github": "NathanEpstein/Pavlov.js",
+                "type": "github"
+            },
+            {
+                "title": "MXNet",
+                "href": "https://github.com/dmlc/mxnet",
+                "github": "dmlc/mxnet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "sylvester",
+                "href": "https://github.com/jcoglan/sylvester",
+                "github": "jcoglan/sylvester",
+                "type": "github"
+            },
+            {
+                "title": "simple-statistics",
+                "href": "https://github.com/simple-statistics/simple-statistics",
+                "github": "simple-statistics/simple-statistics",
+                "type": "github"
+            },
+            {
+                "title": "regression-js",
+                "href": "https://github.com/Tom-Alexander/regression-js",
+                "github": "Tom-Alexander/regression-js",
+                "type": "github"
+            },
+            {
+                "title": "Lyric",
+                "href": "https://github.com/flurry/Lyric",
+                "github": "flurry/Lyric",
+                "type": "github"
+            },
+            {
+                "title": "GreatCircle",
+                "href": "https://github.com/mwgg/GreatCircle",
+                "github": "mwgg/GreatCircle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "MachineLearning",
+                "href": "https://github.com/benhamner/MachineLearning.jl",
+                "github": "benhamner/MachineLearning.jl",
+                "type": "github"
+            },
+            {
+                "title": "MLBase",
+                "href": "https://github.com/JuliaStats/MLBase.jl",
+                "github": "JuliaStats/MLBase.jl",
+                "type": "github"
+            },
+            {
+                "title": "PGM",
+                "href": "https://github.com/JuliaStats/PGM.jl",
+                "github": "JuliaStats/PGM.jl",
+                "type": "github"
+            },
+            {
+                "title": "DA",
+                "href": "https://github.com/trthatcher/DiscriminantAnalysis.jl",
+                "github": "trthatcher/DiscriminantAnalysis.jl",
+                "type": "github"
+            },
+            {
+                "title": "Regression",
+                "href": "https://github.com/lindahua/Regression.jl",
+                "github": "lindahua/Regression.jl",
+                "type": "github"
+            },
+            {
+                "title": "Local Regression",
+                "href": "https://github.com/JuliaStats/Loess.jl",
+                "github": "JuliaStats/Loess.jl",
+                "type": "github"
+            },
+            {
+                "title": "Naive Bayes",
+                "href": "https://github.com/nutsiepully/NaiveBayes.jl",
+                "github": "nutsiepully/NaiveBayes.jl",
+                "type": "github"
+            },
+            {
+                "title": "Mixed Models",
+                "href": "https://github.com/dmbates/MixedModels.jl",
+                "github": "dmbates/MixedModels.jl",
+                "type": "github"
+            },
+            {
+                "title": "Simple MCMC",
+                "href": "https://github.com/fredo-dedup/SimpleMCMC.jl",
+                "github": "fredo-dedup/SimpleMCMC.jl",
+                "type": "github"
+            },
+            {
+                "title": "Distance",
+                "href": "https://github.com/JuliaStats/Distance.jl",
+                "github": "JuliaStats/Distance.jl",
+                "type": "github"
+            },
+            {
+                "title": "Decision Tree",
+                "href": "https://github.com/bensadeghi/DecisionTree.jl",
+                "github": "bensadeghi/DecisionTree.jl",
+                "type": "github"
+            },
+            {
+                "title": "Neural",
+                "href": "https://github.com/compressed/BackpropNeuralNet.jl",
+                "github": "compressed/BackpropNeuralNet.jl",
+                "type": "github"
+            },
+            {
+                "title": "MCMC",
+                "href": "https://github.com/doobwa/MCMC.jl",
+                "github": "doobwa/MCMC.jl",
+                "type": "github"
+            },
+            {
+                "title": "Mamba",
+                "href": "https://github.com/brian-j-smith/Mamba.jl",
+                "github": "brian-j-smith/Mamba.jl",
+                "type": "github"
+            },
+            {
+                "title": "GLM",
+                "href": "https://github.com/JuliaStats/GLM.jl",
+                "github": "JuliaStats/GLM.jl",
+                "type": "github"
+            },
+            {
+                "title": "Online Learning",
+                "href": "https://github.com/lendle/OnlineLearning.jl",
+                "github": "lendle/OnlineLearning.jl",
+                "type": "github"
+            },
+            {
+                "title": "GLMNet",
+                "href": "https://github.com/simonster/GLMNet.jl",
+                "github": "simonster/GLMNet.jl",
+                "type": "github"
+            },
+            {
+                "title": "Clustering",
+                "href": "https://github.com/JuliaStats/Clustering.jl",
+                "github": "JuliaStats/Clustering.jl",
+                "type": "github"
+            },
+            {
+                "title": "SVM",
+                "href": "https://github.com/JuliaStats/SVM.jl",
+                "github": "JuliaStats/SVM.jl",
+                "type": "github"
+            },
+            {
+                "title": "Kernal Density",
+                "href": "https://github.com/JuliaStats/KernelDensity.jl",
+                "github": "JuliaStats/KernelDensity.jl",
+                "type": "github"
+            },
+            {
+                "title": "Dimensionality Reduction",
+                "href": "https://github.com/JuliaStats/DimensionalityReduction.jl",
+                "github": "JuliaStats/DimensionalityReduction.jl",
+                "type": "github"
+            },
+            {
+                "title": "NMF",
+                "href": "https://github.com/JuliaStats/NMF.jl",
+                "github": "JuliaStats/NMF.jl",
+                "type": "github"
+            },
+            {
+                "title": "ANN",
+                "href": "https://github.com/EricChiang/ANN.jl",
+                "github": "EricChiang/ANN.jl",
+                "type": "github"
+            },
+            {
+                "title": "Mocha",
+                "href": "https://github.com/pluskid/Mocha.jl",
+                "github": "pluskid/Mocha.jl",
+                "type": "github"
+            },
+            {
+                "title": "XGBoost",
+                "href": "https://github.com/dmlc/XGBoost.jl",
+                "github": "dmlc/XGBoost.jl",
+                "type": "github"
+            },
+            {
+                "title": "ManifoldLearning",
+                "href": "https://github.com/wildart/ManifoldLearning.jl",
+                "github": "wildart/ManifoldLearning.jl",
+                "type": "github"
+            },
+            {
+                "title": "MXNet",
+                "href": "https://github.com/dmlc/mxnet",
+                "github": "dmlc/mxnet",
+                "type": "github"
+            },
+            {
+                "title": "Merlin",
+                "href": "https://github.com/hshindo/Merlin.jl",
+                "github": "hshindo/Merlin.jl",
+                "type": "github"
+            },
+            {
+                "title": "ROCAnalysis",
+                "href": "https://github.com/davidavdav/ROCAnalysis.jl",
+                "github": "davidavdav/ROCAnalysis.jl",
+                "type": "github"
+            },
+            {
+                "title": "GaussianMixtures",
+                "href": "https://github.com/davidavdav/GaussianMixtures.jl",
+                "github": "davidavdav/GaussianMixtures.jl",
+                "type": "github"
+            },
+            {
+                "title": "ScikitLearn",
+                "href": "https://github.com/cstjean/ScikitLearn.jl",
+                "github": "cstjean/ScikitLearn.jl",
+                "type": "github"
+            },
+            {
+                "title": "Knet",
+                "href": "https://github.com/denizyuret/Knet.jl",
+                "github": "denizyuret/Knet.jl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Topic Models",
+                "href": "https://github.com/slycoder/TopicModels.jl",
+                "github": "slycoder/TopicModels.jl",
+                "type": "github"
+            },
+            {
+                "title": "Text Analysis",
+                "href": "https://github.com/johnmyleswhite/TextAnalysis.jl",
+                "github": "johnmyleswhite/TextAnalysis.jl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis / Data Visualization",
+        "childrens": [
+            {
+                "title": "Graph Layout",
+                "href": "https://github.com/IainNZ/GraphLayout.jl",
+                "github": "IainNZ/GraphLayout.jl",
+                "type": "github"
+            },
+            {
+                "title": "Data Frames Meta",
+                "href": "https://github.com/JuliaStats/DataFramesMeta.jl",
+                "github": "JuliaStats/DataFramesMeta.jl",
+                "type": "github"
+            },
+            {
+                "title": "Julia Data",
+                "href": "https://github.com/nfoti/JuliaData",
+                "github": "nfoti/JuliaData",
+                "type": "github"
+            },
+            {
+                "title": "Data Read",
+                "href": "https://github.com/WizardMac/ReadStat.jl",
+                "github": "WizardMac/ReadStat.jl",
+                "type": "github"
+            },
+            {
+                "title": "Hypothesis Tests",
+                "href": "https://github.com/JuliaStats/HypothesisTests.jl",
+                "github": "JuliaStats/HypothesisTests.jl",
+                "type": "github"
+            },
+            {
+                "title": "Gadfly",
+                "href": "https://github.com/GiovineItalia/Gadfly.jl",
+                "github": "GiovineItalia/Gadfly.jl",
+                "type": "github"
+            },
+            {
+                "title": "Stats",
+                "href": "https://github.com/JuliaStats/Stats.jl",
+                "github": "JuliaStats/Stats.jl",
+                "type": "github"
+            },
+            {
+                "title": "RDataSets",
+                "href": "https://github.com/johnmyleswhite/RDatasets.jl",
+                "github": "johnmyleswhite/RDatasets.jl",
+                "type": "github"
+            },
+            {
+                "title": "DataFrames",
+                "href": "https://github.com/JuliaStats/DataFrames.jl",
+                "github": "JuliaStats/DataFrames.jl",
+                "type": "github"
+            },
+            {
+                "title": "Distributions",
+                "href": "https://github.com/JuliaStats/Distributions.jl",
+                "github": "JuliaStats/Distributions.jl",
+                "type": "github"
+            },
+            {
+                "title": "Data Arrays",
+                "href": "https://github.com/JuliaStats/DataArrays.jl",
+                "github": "JuliaStats/DataArrays.jl",
+                "type": "github"
+            },
+            {
+                "title": "Time Series",
+                "href": "https://github.com/JuliaStats/TimeSeries.jl",
+                "github": "JuliaStats/TimeSeries.jl",
+                "type": "github"
+            },
+            {
+                "title": "Sampling",
+                "href": "https://github.com/lindahua/Sampling.jl",
+                "github": "lindahua/Sampling.jl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc Stuff / Presentations",
+        "childrens": [
+            {
+                "title": "DSP",
+                "href": "https://github.com/JuliaDSP/DSP.jl",
+                "github": "JuliaDSP/DSP.jl",
+                "type": "github"
+            },
+            {
+                "title": "JuliaCon Presentations",
+                "href": "https://github.com/JuliaCon/presentations",
+                "github": "JuliaCon/presentations",
+                "type": "github"
+            },
+            {
+                "title": "SignalProcessing",
+                "href": "https://github.com/davidavdav/SignalProcessing.jl",
+                "github": "davidavdav/SignalProcessing.jl",
+                "type": "github"
+            },
+            {
+                "title": "Images",
+                "href": "https://github.com/JuliaImages/Images.jl",
+                "github": "JuliaImages/Images.jl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Lunum",
+                "href": "https://github.com/jzrake/lunum",
+                "github": "jzrake/lunum",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Demos and Scripts",
+        "childrens": [
+            {
+                "title": "Core torch7 demos repository",
+                "href": "https://github.com/e-lab/torch7-demos",
+                "github": "e-lab/torch7-demos",
+                "type": "github"
+            },
+            {
+                "title": "Training a Convnet for the Galaxy-Zoo Kaggle challenge(CUDA demo)",
+                "href": "https://github.com/soumith/galaxyzoo",
+                "github": "soumith/galaxyzoo",
+                "type": "github"
+            },
+            {
+                "title": "Music Tagging",
+                "href": "https://github.com/mbhenaff/MusicTagging",
+                "github": "mbhenaff/MusicTagging",
+                "type": "github"
+            },
+            {
+                "title": "torch-datasets",
+                "href": "https://github.com/rosejn/torch-datasets",
+                "github": "rosejn/torch-datasets",
+                "type": "github"
+            },
+            {
+                "title": "Atari2600",
+                "href": "https://github.com/fidlej/aledataset",
+                "github": "fidlej/aledataset",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Machine Learning Module",
+                "href": "https://github.com/josephmisiti/machine-learning-module",
+                "github": "josephmisiti/machine-learning-module",
+                "type": "github"
+            },
+            {
+                "title": "Pattern Recognition Toolbox",
+                "href": "https://github.com/covartech/PRT",
+                "github": "covartech/PRT",
+                "type": "github"
+            },
+            {
+                "title": "Pattern Recognition and Machine Learning",
+                "href": "https://github.com/PRML/PRMLT",
+                "github": "PRML/PRMLT",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Stanford.NLP for .NET",
+                "href": "https://github.com/sergey-tihon/Stanford.NLP.NET/",
+                "github": "sergey-tihon/Stanford.NLP.NET/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Vulpes",
+                "href": "https://github.com/fsprojects/Vulpes",
+                "github": "fsprojects/Vulpes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Computer Vision",
+        "childrens": [
+            {
+                "title": "Scikit-Image",
+                "href": "https://github.com/scikit-image/scikit-image",
+                "github": "scikit-image/scikit-image",
+                "type": "github"
+            },
+            {
+                "title": "Vigranumpy",
+                "href": "https://github.com/ukoethe/vigra",
+                "github": "ukoethe/vigra",
+                "type": "github"
+            },
+            {
+                "title": "PCV",
+                "href": "https://github.com/jesolem/PCV",
+                "github": "jesolem/PCV",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Quepy",
+                "href": "https://github.com/machinalis/quepy",
+                "github": "machinalis/quepy",
+                "type": "github"
+            },
+            {
+                "title": "YAlign",
+                "href": "https://github.com/machinalis/yalign",
+                "github": "machinalis/yalign",
+                "type": "github"
+            },
+            {
+                "title": "jieba",
+                "href": "https://github.com/fxsjy/jieba#jieba-1",
+                "github": "fxsjy/jieba#jieba-1",
+                "type": "github"
+            },
+            {
+                "title": "SnowNLP",
+                "href": "https://github.com/isnowfy/snownlp",
+                "github": "isnowfy/snownlp",
+                "type": "github"
+            },
+            {
+                "title": "spammy",
+                "href": "https://github.com/prodicus/spammy",
+                "github": "prodicus/spammy",
+                "type": "github"
+            },
+            {
+                "title": "loso",
+                "href": "https://github.com/victorlin/loso",
+                "github": "victorlin/loso",
+                "type": "github"
+            },
+            {
+                "title": "genius",
+                "href": "https://github.com/duanhongyi/genius",
+                "github": "duanhongyi/genius",
+                "type": "github"
+            },
+            {
+                "title": "nut",
+                "href": "https://github.com/pprett/nut",
+                "github": "pprett/nut",
+                "type": "github"
+            },
+            {
+                "title": "Rosetta",
+                "href": "https://github.com/columbia-applied-data-science/rosetta",
+                "github": "columbia-applied-data-science/rosetta",
+                "type": "github"
+            },
+            {
+                "title": "PyNLPl",
+                "href": "https://github.com/proycon/pynlpl",
+                "github": "proycon/pynlpl",
+                "type": "github"
+            },
+            {
+                "title": "python-ucto",
+                "href": "https://github.com/proycon/python-ucto",
+                "github": "proycon/python-ucto",
+                "type": "github"
+            },
+            {
+                "title": "python-frog",
+                "href": "https://github.com/proycon/python-frog",
+                "github": "proycon/python-frog",
+                "type": "github"
+            },
+            {
+                "title": "python-zpar",
+                "href": "https://github.com/EducationalTestingService/python-zpar",
+                "github": "EducationalTestingService/python-zpar",
+                "type": "github"
+            },
+            {
+                "title": "colibri-core",
+                "href": "https://github.com/proycon/colibri-core",
+                "github": "proycon/colibri-core",
+                "type": "github"
+            },
+            {
+                "title": "spaCy",
+                "href": "https://github.com/honnibal/spaCy/",
+                "github": "honnibal/spaCy/",
+                "type": "github"
+            },
+            {
+                "title": "PyStanfordDependencies",
+                "href": "https://github.com/dmcc/PyStanfordDependencies",
+                "github": "dmcc/PyStanfordDependencies",
+                "type": "github"
+            },
+            {
+                "title": "Distance",
+                "href": "https://github.com/doukremt/distance",
+                "github": "doukremt/distance",
+                "type": "github"
+            },
+            {
+                "title": "Fuzzy Wuzzy",
+                "href": "https://github.com/seatgeek/fuzzywuzzy",
+                "github": "seatgeek/fuzzywuzzy",
+                "type": "github"
+            },
+            {
+                "title": "jellyfish",
+                "href": "https://github.com/jamesturk/jellyfish",
+                "github": "jamesturk/jellyfish",
+                "type": "github"
+            },
+            {
+                "title": "textacy",
+                "href": "https://github.com/chartbeat-labs/textacy",
+                "github": "chartbeat-labs/textacy",
+                "type": "github"
+            },
+            {
+                "title": "stanford-corenlp-python",
+                "href": "https://github.com/dasmith/stanford-corenlp-python",
+                "github": "dasmith/stanford-corenlp-python",
+                "type": "github"
+            },
+            {
+                "title": "CLTK",
+                "href": "https://github.com/cltk/cltk",
+                "github": "cltk/cltk",
+                "type": "github"
+            },
+            {
+                "title": "rasa_nlu",
+                "href": "https://github.com/golastmile/rasa_nlu",
+                "github": "golastmile/rasa_nlu",
+                "type": "github"
+            },
+            {
+                "title": "yase",
+                "href": "https://github.com/PPACI/yase",
+                "github": "PPACI/yase",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "auto_ml",
+                "href": "https://github.com/ClimbsRocks/auto_ml",
+                "github": "ClimbsRocks/auto_ml",
+                "type": "github"
+            },
+            {
+                "title": "machine learning",
+                "href": "https://github.com/jeff1evesque/machine-learning",
+                "github": "jeff1evesque/machine-learning",
+                "type": "github"
+            },
+            {
+                "title": "XGBoost",
+                "href": "https://github.com/dmlc/xgboost",
+                "github": "dmlc/xgboost",
+                "type": "github"
+            },
+            {
+                "title": "Bayesian Methods for Hackers",
+                "href": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+                "github": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+                "type": "github"
+            },
+            {
+                "title": "Featureforge",
+                "href": "https://github.com/machinalis/featureforge",
+                "github": "machinalis/featureforge",
+                "type": "github"
+            },
+            {
+                "title": "Hydrosphere Mist",
+                "href": "https://github.com/Hydrospheredata/mist",
+                "github": "Hydrospheredata/mist",
+                "type": "github"
+            },
+            {
+                "title": "metric-learn",
+                "href": "https://github.com/all-umass/metric-learn",
+                "github": "all-umass/metric-learn",
+                "type": "github"
+            },
+            {
+                "title": "SimpleAI",
+                "href": "https://github.com/simpleai-team/simpleai",
+                "github": "simpleai-team/simpleai",
+                "type": "github"
+            },
+            {
+                "title": "pattern",
+                "href": "https://github.com/clips/pattern",
+                "github": "clips/pattern",
+                "type": "github"
+            },
+            {
+                "title": "NuPIC",
+                "href": "https://github.com/numenta/nupic",
+                "github": "numenta/nupic",
+                "type": "github"
+            },
+            {
+                "title": "Pylearn2",
+                "href": "https://github.com/lisa-lab/pylearn2",
+                "github": "lisa-lab/pylearn2",
+                "type": "github"
+            },
+            {
+                "title": "keras",
+                "href": "https://github.com/fchollet/keras",
+                "github": "fchollet/keras",
+                "type": "github"
+            },
+            {
+                "title": "Lasagne",
+                "href": "https://github.com/Lasagne/Lasagne",
+                "github": "Lasagne/Lasagne",
+                "type": "github"
+            },
+            {
+                "title": "hebel",
+                "href": "https://github.com/hannes-brt/hebel",
+                "github": "hannes-brt/hebel",
+                "type": "github"
+            },
+            {
+                "title": "Chainer",
+                "href": "https://github.com/pfnet/chainer",
+                "github": "pfnet/chainer",
+                "type": "github"
+            },
+            {
+                "title": "gensim",
+                "href": "https://github.com/RaRe-Technologies/gensim",
+                "github": "RaRe-Technologies/gensim",
+                "type": "github"
+            },
+            {
+                "title": "topik",
+                "href": "https://github.com/ContinuumIO/topik",
+                "github": "ContinuumIO/topik",
+                "type": "github"
+            },
+            {
+                "title": "PyBrain",
+                "href": "https://github.com/pybrain/pybrain",
+                "github": "pybrain/pybrain",
+                "type": "github"
+            },
+            {
+                "title": "Brainstorm",
+                "href": "https://github.com/IDSIA/brainstorm",
+                "github": "IDSIA/brainstorm",
+                "type": "github"
+            },
+            {
+                "title": "Crab",
+                "href": "https://github.com/muricoca/crab",
+                "github": "muricoca/crab",
+                "type": "github"
+            },
+            {
+                "title": "python-recsys",
+                "href": "https://github.com/ocelma/python-recsys",
+                "github": "ocelma/python-recsys",
+                "type": "github"
+            },
+            {
+                "title": "thinking bayes",
+                "href": "https://github.com/AllenDowney/ThinkBayes",
+                "github": "AllenDowney/ThinkBayes",
+                "type": "github"
+            },
+            {
+                "title": "Image-to-Image Translation with Conditional Adversarial Networks",
+                "href": "https://github.com/williamFalcon/pix2pix-keras",
+                "github": "williamFalcon/pix2pix-keras",
+                "type": "github"
+            },
+            {
+                "title": "Restricted Boltzmann Machines",
+                "href": "https://github.com/echen/restricted-boltzmann-machines",
+                "github": "echen/restricted-boltzmann-machines",
+                "type": "github"
+            },
+            {
+                "title": "Bolt",
+                "href": "https://github.com/pprett/bolt",
+                "github": "pprett/bolt",
+                "type": "github"
+            },
+            {
+                "title": "CoverTree",
+                "href": "https://github.com/patvarilly/CoverTree",
+                "github": "patvarilly/CoverTree",
+                "type": "github"
+            },
+            {
+                "title": "nilearn",
+                "href": "https://github.com/nilearn/nilearn",
+                "github": "nilearn/nilearn",
+                "type": "github"
+            },
+            {
+                "title": "Shogun",
+                "href": "https://github.com/shogun-toolbox/shogun",
+                "github": "shogun-toolbox/shogun",
+                "type": "github"
+            },
+            {
+                "title": "Pyevolve",
+                "href": "https://github.com/perone/Pyevolve",
+                "github": "perone/Pyevolve",
+                "type": "github"
+            },
+            {
+                "title": "breze",
+                "href": "https://github.com/breze-no-salt/breze",
+                "github": "breze-no-salt/breze",
+                "type": "github"
+            },
+            {
+                "title": "pyhsmm",
+                "href": "https://github.com/mattjj/pyhsmm",
+                "github": "mattjj/pyhsmm",
+                "type": "github"
+            },
+            {
+                "title": "SKLL",
+                "href": "https://github.com/EducationalTestingService/skll",
+                "github": "EducationalTestingService/skll",
+                "type": "github"
+            },
+            {
+                "title": "neurolab",
+                "href": "https://github.com/zueve/neurolab",
+                "github": "zueve/neurolab",
+                "type": "github"
+            },
+            {
+                "title": "Spearmint",
+                "href": "https://github.com/JasperSnoek/spearmint",
+                "github": "JasperSnoek/spearmint",
+                "type": "github"
+            },
+            {
+                "title": "Pebl",
+                "href": "https://github.com/abhik/pebl/",
+                "github": "abhik/pebl/",
+                "type": "github"
+            },
+            {
+                "title": "Theano",
+                "href": "https://github.com/Theano/Theano/",
+                "github": "Theano/Theano/",
+                "type": "github"
+            },
+            {
+                "title": "TensorFlow",
+                "href": "https://github.com/tensorflow/tensorflow/",
+                "github": "tensorflow/tensorflow/",
+                "type": "github"
+            },
+            {
+                "title": "yahmm",
+                "href": "https://github.com/jmschrei/yahmm/",
+                "github": "jmschrei/yahmm/",
+                "type": "github"
+            },
+            {
+                "title": "python-timbl",
+                "href": "https://github.com/proycon/python-timbl",
+                "github": "proycon/python-timbl",
+                "type": "github"
+            },
+            {
+                "title": "deap",
+                "href": "https://github.com/deap/deap",
+                "github": "deap/deap",
+                "type": "github"
+            },
+            {
+                "title": "pydeep",
+                "href": "https://github.com/andersbll/deeppy",
+                "github": "andersbll/deeppy",
+                "type": "github"
+            },
+            {
+                "title": "mlxtend",
+                "href": "https://github.com/rasbt/mlxtend",
+                "github": "rasbt/mlxtend",
+                "type": "github"
+            },
+            {
+                "title": "neon",
+                "href": "https://github.com/NervanaSystems/neon",
+                "github": "NervanaSystems/neon",
+                "type": "github"
+            },
+            {
+                "title": "Neural Networks and Deep Learning",
+                "href": "https://github.com/mnielsen/neural-networks-and-deep-learning",
+                "github": "mnielsen/neural-networks-and-deep-learning",
+                "type": "github"
+            },
+            {
+                "title": "Annoy",
+                "href": "https://github.com/spotify/annoy",
+                "github": "spotify/annoy",
+                "type": "github"
+            },
+            {
+                "title": "skflow",
+                "href": "https://github.com/tensorflow/skflow",
+                "github": "tensorflow/skflow",
+                "type": "github"
+            },
+            {
+                "title": "TPOT",
+                "href": "https://github.com/rhiever/tpot",
+                "github": "rhiever/tpot",
+                "type": "github"
+            },
+            {
+                "title": "pgmpy",
+                "href": "https://github.com/pgmpy/pgmpy",
+                "github": "pgmpy/pgmpy",
+                "type": "github"
+            },
+            {
+                "title": "DIGITS",
+                "href": "https://github.com/NVIDIA/DIGITS",
+                "github": "NVIDIA/DIGITS",
+                "type": "github"
+            },
+            {
+                "title": "MXNet",
+                "href": "https://github.com/dmlc/mxnet",
+                "github": "dmlc/mxnet",
+                "type": "github"
+            },
+            {
+                "title": "milk",
+                "href": "https://github.com/luispedro/milk",
+                "github": "luispedro/milk",
+                "type": "github"
+            },
+            {
+                "title": "TFLearn",
+                "href": "https://github.com/tflearn/tflearn",
+                "github": "tflearn/tflearn",
+                "type": "github"
+            },
+            {
+                "title": "REP",
+                "href": "https://github.com/yandex/rep",
+                "github": "yandex/rep",
+                "type": "github"
+            },
+            {
+                "title": "rgf_python",
+                "href": "https://github.com/fukatani/rgf_python",
+                "github": "fukatani/rgf_python",
+                "type": "github"
+            },
+            {
+                "title": "skbayes",
+                "href": "https://github.com/AmazaspShumik/sklearn-bayes",
+                "github": "AmazaspShumik/sklearn-bayes",
+                "type": "github"
+            },
+            {
+                "title": "fuku-ml",
+                "href": "https://github.com/fukuball/fuku-ml",
+                "github": "fukuball/fuku-ml",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis / Data Visualization",
+        "childrens": [
+            {
+                "title": "Open Mining",
+                "href": "https://github.com/mining/mining",
+                "github": "mining/mining",
+                "type": "github"
+            },
+            {
+                "title": "PyMC",
+                "href": "https://github.com/pymc-devs/pymc",
+                "github": "pymc-devs/pymc",
+                "type": "github"
+            },
+            {
+                "title": "zipline",
+                "href": "https://github.com/quantopian/zipline",
+                "github": "quantopian/zipline",
+                "type": "github"
+            },
+            {
+                "title": "SymPy",
+                "href": "https://github.com/sympy/sympy",
+                "github": "sympy/sympy",
+                "type": "github"
+            },
+            {
+                "title": "statsmodels",
+                "href": "https://github.com/statsmodels/statsmodels",
+                "github": "statsmodels/statsmodels",
+                "type": "github"
+            },
+            {
+                "title": "bokeh",
+                "href": "https://github.com/bokeh/bokeh",
+                "github": "bokeh/bokeh",
+                "type": "github"
+            },
+            {
+                "title": "vincent",
+                "href": "https://github.com/wrobstory/vincent",
+                "github": "wrobstory/vincent",
+                "type": "github"
+            },
+            {
+                "title": "d3py",
+                "href": "https://github.com/mikedewar/d3py",
+                "github": "mikedewar/d3py",
+                "type": "github"
+            },
+            {
+                "title": "PyDexter",
+                "href": "https://github.com/D3xterjs/pydexter",
+                "github": "D3xterjs/pydexter",
+                "type": "github"
+            },
+            {
+                "title": "ggplot",
+                "href": "https://github.com/yhat/ggpy",
+                "github": "yhat/ggpy",
+                "type": "github"
+            },
+            {
+                "title": "ggfortify",
+                "href": "https://github.com/sinhrks/ggfortify",
+                "github": "sinhrks/ggfortify",
+                "type": "github"
+            },
+            {
+                "title": "Kartograph.py",
+                "href": "https://github.com/kartograph/kartograph.py",
+                "github": "kartograph/kartograph.py",
+                "type": "github"
+            },
+            {
+                "title": "PyQtGraph",
+                "href": "https://github.com/pyqtgraph/pyqtgraph",
+                "github": "pyqtgraph/pyqtgraph",
+                "type": "github"
+            },
+            {
+                "title": "pycascading",
+                "href": "https://github.com/twitter/pycascading",
+                "github": "twitter/pycascading",
+                "type": "github"
+            },
+            {
+                "title": "Petrel",
+                "href": "https://github.com/AirSage/Petrel",
+                "github": "AirSage/Petrel",
+                "type": "github"
+            },
+            {
+                "title": "Blaze",
+                "href": "https://github.com/blaze/blaze",
+                "github": "blaze/blaze",
+                "type": "github"
+            },
+            {
+                "title": "emcee",
+                "href": "https://github.com/dfm/emcee",
+                "github": "dfm/emcee",
+                "type": "github"
+            },
+            {
+                "title": "vispy",
+                "href": "https://github.com/vispy/vispy",
+                "github": "vispy/vispy",
+                "type": "github"
+            },
+            {
+                "title": "cerebro2",
+                "href": "https://github.com/numenta/nupic.cerebro2",
+                "github": "numenta/nupic.cerebro2",
+                "type": "github"
+            },
+            {
+                "title": "NuPIC Studio",
+                "href": "https://github.com/htm-community/nupic.studio",
+                "github": "htm-community/nupic.studio",
+                "type": "github"
+            },
+            {
+                "title": "SparklingPandas",
+                "href": "https://github.com/sparklingpandas/sparklingpandas",
+                "github": "sparklingpandas/sparklingpandas",
+                "type": "github"
+            },
+            {
+                "title": "bqplot",
+                "href": "https://github.com/bloomberg/bqplot",
+                "github": "bloomberg/bqplot",
+                "type": "github"
+            },
+            {
+                "title": "pastalog",
+                "href": "https://github.com/rewonc/pastalog",
+                "github": "rewonc/pastalog",
+                "type": "github"
+            },
+            {
+                "title": "caravel",
+                "href": "https://github.com/airbnb/superset",
+                "github": "airbnb/superset",
+                "type": "github"
+            },
+            {
+                "title": "Dora",
+                "href": "https://github.com/nathanepstein/dora",
+                "github": "nathanepstein/dora",
+                "type": "github"
+            },
+            {
+                "title": "SOMPY",
+                "href": "https://github.com/sevamoo/SOMPY",
+                "github": "sevamoo/SOMPY",
+                "type": "github"
+            },
+            {
+                "title": "somoclu",
+                "href": "https://github.com/peterwittek/somoclu",
+                "github": "peterwittek/somoclu",
+                "type": "github"
+            },
+            {
+                "title": "HDBScan",
+                "href": "https://github.com/lmcinnes/hdbscan",
+                "github": "lmcinnes/hdbscan",
+                "type": "github"
+            },
+            {
+                "title": "visualize_ML",
+                "href": "https://github.com/ayush1997/visualize_ML",
+                "github": "ayush1997/visualize_ML",
+                "type": "github"
+            },
+            {
+                "title": "scikit-plot",
+                "href": "https://github.com/reiinakano/scikit-plot",
+                "github": "reiinakano/scikit-plot",
+                "type": "github"
+            },
+            {
+                "title": "Bowtie",
+                "href": "https://github.com/jwkvam/bowtie",
+                "github": "jwkvam/bowtie",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc Scripts / iPython Notebooks / Codebases",
+        "childrens": [
+            {
+                "title": "BioPy",
+                "href": "https://github.com/jaredthecoder/BioPy",
+                "github": "jaredthecoder/BioPy",
+                "type": "github"
+            },
+            {
+                "title": "pattern_classification",
+                "href": "https://github.com/rasbt/pattern_classification",
+                "github": "rasbt/pattern_classification",
+                "type": "github"
+            },
+            {
+                "title": "thinking stats 2",
+                "href": "https://github.com/Wavelets/ThinkStats2",
+                "github": "Wavelets/ThinkStats2",
+                "type": "github"
+            },
+            {
+                "title": "hyperopt",
+                "href": "https://github.com/hyperopt/hyperopt-sklearn",
+                "github": "hyperopt/hyperopt-sklearn",
+                "type": "github"
+            },
+            {
+                "title": "numpic",
+                "href": "https://github.com/numenta/nupic",
+                "github": "numenta/nupic",
+                "type": "github"
+            },
+            {
+                "title": "2012-paper-diginorm",
+                "href": "https://github.com/dib-lab/2012-paper-diginorm",
+                "github": "dib-lab/2012-paper-diginorm",
+                "type": "github"
+            },
+            {
+                "title": "A gallery of interesting IPython notebooks",
+                "href": "https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks",
+                "github": "ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks",
+                "type": "github"
+            },
+            {
+                "title": "ipython-notebooks",
+                "href": "https://github.com/ogrisel/notebooks",
+                "github": "ogrisel/notebooks",
+                "type": "github"
+            },
+            {
+                "title": "data-science-ipython-notebooks",
+                "href": "https://github.com/donnemartin/data-science-ipython-notebooks",
+                "github": "donnemartin/data-science-ipython-notebooks",
+                "type": "github"
+            },
+            {
+                "title": "decision-weights",
+                "href": "https://github.com/CamDavidsonPilon/decision-weights",
+                "github": "CamDavidsonPilon/decision-weights",
+                "type": "github"
+            },
+            {
+                "title": "Sarah Palin LDA",
+                "href": "https://github.com/Wavelets/sarah-palin-lda",
+                "github": "Wavelets/sarah-palin-lda",
+                "type": "github"
+            },
+            {
+                "title": "Diffusion Segmentation",
+                "href": "https://github.com/Wavelets/diffusion-segmentation",
+                "github": "Wavelets/diffusion-segmentation",
+                "type": "github"
+            },
+            {
+                "title": "Scipy Tutorials",
+                "href": "https://github.com/Wavelets/scipy-tutorials",
+                "github": "Wavelets/scipy-tutorials",
+                "type": "github"
+            },
+            {
+                "title": "Crab",
+                "href": "https://github.com/marcelcaraciolo/crab",
+                "github": "marcelcaraciolo/crab",
+                "type": "github"
+            },
+            {
+                "title": "BayesPy",
+                "href": "https://github.com/maxsklar/BayesPy",
+                "github": "maxsklar/BayesPy",
+                "type": "github"
+            },
+            {
+                "title": "scikit-learn tutorials",
+                "href": "https://github.com/GaelVaroquaux/scikit-learn-tutorial",
+                "github": "GaelVaroquaux/scikit-learn-tutorial",
+                "type": "github"
+            },
+            {
+                "title": "sentiment-analyzer",
+                "href": "https://github.com/madhusudancs/sentiment-analyzer",
+                "github": "madhusudancs/sentiment-analyzer",
+                "type": "github"
+            },
+            {
+                "title": "sentiment_classifier",
+                "href": "https://github.com/kevincobain2000/sentiment_classifier",
+                "github": "kevincobain2000/sentiment_classifier",
+                "type": "github"
+            },
+            {
+                "title": "group-lasso",
+                "href": "https://github.com/fabianp/group_lasso",
+                "github": "fabianp/group_lasso",
+                "type": "github"
+            },
+            {
+                "title": "jProcessing",
+                "href": "https://github.com/kevincobain2000/jProcessing",
+                "github": "kevincobain2000/jProcessing",
+                "type": "github"
+            },
+            {
+                "title": "mne-python-notebooks",
+                "href": "https://github.com/mne-tools/mne-python-notebooks",
+                "github": "mne-tools/mne-python-notebooks",
+                "type": "github"
+            },
+            {
+                "title": "Neon Course",
+                "href": "https://github.com/NervanaSystems/neon_course",
+                "github": "NervanaSystems/neon_course",
+                "type": "github"
+            },
+            {
+                "title": "pandas cookbook",
+                "href": "https://github.com/jvns/pandas-cookbook",
+                "github": "jvns/pandas-cookbook",
+                "type": "github"
+            },
+            {
+                "title": "climin",
+                "href": "https://github.com/BRML/climin",
+                "github": "BRML/climin",
+                "type": "github"
+            },
+            {
+                "title": "Allen Downey’s Data Science Course",
+                "href": "https://github.com/AllenDowney/DataScience",
+                "github": "AllenDowney/DataScience",
+                "type": "github"
+            },
+            {
+                "title": "Allen Downey’s Think Bayes Code",
+                "href": "https://github.com/AllenDowney/ThinkBayes",
+                "github": "AllenDowney/ThinkBayes",
+                "type": "github"
+            },
+            {
+                "title": "Allen Downey’s Think Complexity Code",
+                "href": "https://github.com/AllenDowney/ThinkComplexity",
+                "github": "AllenDowney/ThinkComplexity",
+                "type": "github"
+            },
+            {
+                "title": "Allen Downey’s Think OS Code",
+                "href": "https://github.com/AllenDowney/ThinkOS",
+                "github": "AllenDowney/ThinkOS",
+                "type": "github"
+            },
+            {
+                "title": "GreatCircle",
+                "href": "https://github.com/mwgg/GreatCircle",
+                "github": "mwgg/GreatCircle",
+                "type": "github"
+            },
+            {
+                "title": "Dive into Machine Learning  with Python Jupyter notebook and scikit-learn",
+                "href": "https://github.com/hangtwenty/dive-into-machine-learning",
+                "github": "hangtwenty/dive-into-machine-learning",
+                "type": "github"
+            },
+            {
+                "title": "TDB",
+                "href": "https://github.com/ericjang/tdb",
+                "github": "ericjang/tdb",
+                "type": "github"
+            },
+            {
+                "title": "Suiron",
+                "href": "https://github.com/kendricktan/suiron/",
+                "github": "kendricktan/suiron/",
+                "type": "github"
+            },
+            {
+                "title": "Introduction to machine learning with scikit-learn",
+                "href": "https://github.com/justmarkham/scikit-learn-videos",
+                "github": "justmarkham/scikit-learn-videos",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Neural Networks",
+        "childrens": [
+            {
+                "title": "NeuralTalk",
+                "href": "https://github.com/karpathy/neuraltalk",
+                "github": "karpathy/neuraltalk",
+                "type": "github"
+            },
+            {
+                "title": "Neuron",
+                "href": "https://github.com/molcik/python-neuron",
+                "github": "molcik/python-neuron",
+                "type": "github"
+            },
+            {
+                "title": "Data Driven Code",
+                "href": "https://github.com/atmb4u/data-driven-code",
+                "github": "atmb4u/data-driven-code",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Kaggle Competition Source Code",
+        "childrens": [
+            {
+                "title": "wiki challenge",
+                "href": "https://github.com/hammer/wikichallenge",
+                "github": "hammer/wikichallenge",
+                "type": "github"
+            },
+            {
+                "title": "kaggle insults",
+                "href": "https://github.com/amueller/kaggle_insults",
+                "github": "amueller/kaggle_insults",
+                "type": "github"
+            },
+            {
+                "title": "kaggle_acquire-valued-shoppers-challenge",
+                "href": "https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge",
+                "github": "MLWave/kaggle_acquire-valued-shoppers-challenge",
+                "type": "github"
+            },
+            {
+                "title": "kaggle-cifar",
+                "href": "https://github.com/zygmuntz/kaggle-cifar",
+                "github": "zygmuntz/kaggle-cifar",
+                "type": "github"
+            },
+            {
+                "title": "kaggle-blackbox",
+                "href": "https://github.com/zygmuntz/kaggle-blackbox",
+                "github": "zygmuntz/kaggle-blackbox",
+                "type": "github"
+            },
+            {
+                "title": "kaggle-accelerometer",
+                "href": "https://github.com/zygmuntz/kaggle-accelerometer",
+                "github": "zygmuntz/kaggle-accelerometer",
+                "type": "github"
+            },
+            {
+                "title": "kaggle-advertised-salaries",
+                "href": "https://github.com/zygmuntz/kaggle-advertised-salaries",
+                "github": "zygmuntz/kaggle-advertised-salaries",
+                "type": "github"
+            },
+            {
+                "title": "kaggle amazon",
+                "href": "https://github.com/zygmuntz/kaggle-amazon",
+                "github": "zygmuntz/kaggle-amazon",
+                "type": "github"
+            },
+            {
+                "title": "kaggle-bestbuy_big",
+                "href": "https://github.com/zygmuntz/kaggle-bestbuy_big",
+                "github": "zygmuntz/kaggle-bestbuy_big",
+                "type": "github"
+            },
+            {
+                "title": "kaggle-bestbuy_small",
+                "href": "https://github.com/zygmuntz/kaggle-bestbuy_small",
+                "github": "zygmuntz/kaggle-bestbuy_small",
+                "type": "github"
+            },
+            {
+                "title": "Kaggle Dogs vs. Cats",
+                "href": "https://github.com/kastnerkyle/kaggle-dogs-vs-cats",
+                "github": "kastnerkyle/kaggle-dogs-vs-cats",
+                "type": "github"
+            },
+            {
+                "title": "Kaggle Galaxy Challenge",
+                "href": "https://github.com/benanne/kaggle-galaxies",
+                "github": "benanne/kaggle-galaxies",
+                "type": "github"
+            },
+            {
+                "title": "Kaggle Gender",
+                "href": "https://github.com/zygmuntz/kaggle-gender",
+                "github": "zygmuntz/kaggle-gender",
+                "type": "github"
+            },
+            {
+                "title": "Kaggle Merck",
+                "href": "https://github.com/zygmuntz/kaggle-merck",
+                "github": "zygmuntz/kaggle-merck",
+                "type": "github"
+            },
+            {
+                "title": "Kaggle Stackoverflow",
+                "href": "https://github.com/zygmuntz/kaggle-stackoverflow",
+                "github": "zygmuntz/kaggle-stackoverflow",
+                "type": "github"
+            },
+            {
+                "title": "kaggle_acquire-valued-shoppers-challenge",
+                "href": "https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge",
+                "github": "MLWave/kaggle_acquire-valued-shoppers-challenge",
+                "type": "github"
+            },
+            {
+                "title": "wine-quality",
+                "href": "https://github.com/zygmuntz/wine-quality",
+                "github": "zygmuntz/wine-quality",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reinforcement Learning",
+        "childrens": [
+            {
+                "title": "DeepMind Lab",
+                "href": "https://github.com/deepmind/lab",
+                "github": "deepmind/lab",
+                "type": "github"
+            },
+            {
+                "title": "Gym",
+                "href": "https://github.com/openai/gym",
+                "github": "openai/gym",
+                "type": "github"
+            },
+            {
+                "title": "Universe",
+                "href": "https://github.com/openai/universe",
+                "github": "openai/universe",
+                "type": "github"
+            },
+            {
+                "title": "ViZDoom",
+                "href": "https://github.com/mwydmuch/ViZDoom",
+                "github": "mwydmuch/ViZDoom",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Treat",
+                "href": "https://github.com/louismullie/treat",
+                "github": "louismullie/treat",
+                "type": "github"
+            },
+            {
+                "title": "Stemmer",
+                "href": "https://github.com/aurelian/ruby-stemmer",
+                "github": "aurelian/ruby-stemmer",
+                "type": "github"
+            },
+            {
+                "title": "UEA Stemmer",
+                "href": "https://github.com/ealdent/uea-stemmer",
+                "github": "ealdent/uea-stemmer",
+                "type": "github"
+            },
+            {
+                "title": "Twitter-text-rb",
+                "href": "https://github.com/twitter/twitter-text-rb",
+                "github": "twitter/twitter-text-rb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Awesome Machine Learning with Ruby",
+                "href": "https://github.com/arbox/machine-learning-with-ruby",
+                "github": "arbox/machine-learning-with-ruby",
+                "type": "github"
+            },
+            {
+                "title": "Ruby Machine Learning",
+                "href": "https://github.com/tsycho/ruby-machine-learning",
+                "github": "tsycho/ruby-machine-learning",
+                "type": "github"
+            },
+            {
+                "title": "Machine Learning Ruby",
+                "href": "https://github.com/mizoR/machine-learning-ruby",
+                "github": "mizoR/machine-learning-ruby",
+                "type": "github"
+            },
+            {
+                "title": "jRuby Mahout",
+                "href": "https://github.com/vasinov/jruby_mahout",
+                "github": "vasinov/jruby_mahout",
+                "type": "github"
+            },
+            {
+                "title": "CardMagic-Classifier",
+                "href": "https://github.com/cardmagic/classifier",
+                "github": "cardmagic/classifier",
+                "type": "github"
+            },
+            {
+                "title": "rb-libsvm",
+                "href": "https://github.com/febeling/rb-libsvm",
+                "github": "febeling/rb-libsvm",
+                "type": "github"
+            },
+            {
+                "title": "Random Forester",
+                "href": "https://github.com/asafschers/random_forester",
+                "github": "asafschers/random_forester",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis / Data Visualization",
+        "childrens": [
+            {
+                "title": "rsruby",
+                "href": "https://github.com/alexgutteridge/rsruby",
+                "github": "alexgutteridge/rsruby",
+                "type": "github"
+            },
+            {
+                "title": "data-visualization-ruby",
+                "href": "https://github.com/chrislo/data_visualisation_ruby",
+                "github": "chrislo/data_visualisation_ruby",
+                "type": "github"
+            },
+            {
+                "title": "plot-rb",
+                "href": "https://github.com/zuhao/plotrb",
+                "github": "zuhao/plotrb",
+                "type": "github"
+            },
+            {
+                "title": "Glean",
+                "href": "https://github.com/glean/glean",
+                "github": "glean/glean",
+                "type": "github"
+            },
+            {
+                "title": "Bioruby",
+                "href": "https://github.com/bioruby/bioruby",
+                "github": "bioruby/bioruby",
+                "type": "github"
+            },
+            {
+                "title": "Arel",
+                "href": "https://github.com/nkallen/arel",
+                "github": "nkallen/arel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "Big Data For Chimps",
+                "href": "https://github.com/infochimps-labs/big_data_for_chimps",
+                "github": "infochimps-labs/big_data_for_chimps",
+                "type": "github"
+            },
+            {
+                "title": "Listof",
+                "href": "https://github.com/kevincobain2000/listof",
+                "github": "kevincobain2000/listof",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "deeplearn-rs",
+                "href": "https://github.com/tedsta/deeplearn-rs",
+                "github": "tedsta/deeplearn-rs",
+                "type": "github"
+            },
+            {
+                "title": "rustlearn",
+                "href": "https://github.com/maciejkula/rustlearn",
+                "github": "maciejkula/rustlearn",
+                "type": "github"
+            },
+            {
+                "title": "rusty-machine",
+                "href": "https://github.com/AtheMathmo/rusty-machine",
+                "github": "AtheMathmo/rusty-machine",
+                "type": "github"
+            },
+            {
+                "title": "leaf",
+                "href": "https://github.com/autumnai/leaf",
+                "github": "autumnai/leaf",
+                "type": "github"
+            },
+            {
+                "title": "RustNN",
+                "href": "https://github.com/jackm321/RustNN",
+                "github": "jackm321/RustNN",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Clever Algorithms For Machine Learning",
+                "href": "https://github.com/jbrownlee/CleverAlgorithmsMachineLearning",
+                "github": "jbrownlee/CleverAlgorithmsMachineLearning",
+                "type": "github"
+            },
+            {
+                "title": "Machine Learning For Hackers",
+                "href": "https://github.com/johnmyleswhite/ML_for_Hackers",
+                "github": "johnmyleswhite/ML_for_Hackers",
+                "type": "github"
+            },
+            {
+                "title": "SuperLearner",
+                "href": "https://github.com/ecpolley/SuperLearner",
+                "github": "ecpolley/SuperLearner",
+                "type": "github"
+            },
+            {
+                "title": "XGBoost.R",
+                "href": "https://github.com/tqchen/xgboost/tree/master/R-package",
+                "github": "tqchen/xgboost/tree/master/R-package",
+                "type": "github"
+            },
+            {
+                "title": "MXNet",
+                "href": "https://github.com/dmlc/mxnet",
+                "github": "dmlc/mxnet",
+                "type": "github"
+            },
+            {
+                "title": "TDSP-Utilities",
+                "href": "https://github.com/Azure/Azure-TDSP-Utilities",
+                "github": "Azure/Azure-TDSP-Utilities",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Demos and Scripts",
+        "childrens": [
+            {
+                "title": "ML_Tables",
+                "href": "https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables",
+                "github": "sassoftware/enlighten-apply/tree/master/ML_tables",
+                "type": "github"
+            },
+            {
+                "title": "enlighten-apply",
+                "href": "https://github.com/sassoftware/enlighten-apply",
+                "github": "sassoftware/enlighten-apply",
+                "type": "github"
+            },
+            {
+                "title": "enlighten-integration",
+                "href": "https://github.com/sassoftware/enlighten-integration",
+                "github": "sassoftware/enlighten-integration",
+                "type": "github"
+            },
+            {
+                "title": "enlighten-deep",
+                "href": "https://github.com/sassoftware/enlighten-deep",
+                "github": "sassoftware/enlighten-deep",
+                "type": "github"
+            },
+            {
+                "title": "dm-flow",
+                "href": "https://github.com/sassoftware/dm-flow",
+                "github": "sassoftware/dm-flow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "Breeze",
+                "href": "https://github.com/scalanlp/breeze",
+                "github": "scalanlp/breeze",
+                "type": "github"
+            },
+            {
+                "title": "Chalk",
+                "href": "https://github.com/scalanlp/chalk",
+                "github": "scalanlp/chalk",
+                "type": "github"
+            },
+            {
+                "title": "FACTORIE",
+                "href": "https://github.com/factorie/factorie",
+                "github": "factorie/factorie",
+                "type": "github"
+            },
+            {
+                "title": "Montague",
+                "href": "https://github.com/Workday/upshot-montague",
+                "github": "Workday/upshot-montague",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Analysis / Data Visualization",
+        "childrens": [
+            {
+                "title": "Hydrosphere Mist",
+                "href": "https://github.com/Hydrospheredata/mist",
+                "github": "Hydrospheredata/mist",
+                "type": "github"
+            },
+            {
+                "title": "Scalding",
+                "href": "https://github.com/twitter/scalding",
+                "github": "twitter/scalding",
+                "type": "github"
+            },
+            {
+                "title": "Summing Bird",
+                "href": "https://github.com/twitter/summingbird",
+                "github": "twitter/summingbird",
+                "type": "github"
+            },
+            {
+                "title": "Algebird",
+                "href": "https://github.com/twitter/algebird",
+                "github": "twitter/algebird",
+                "type": "github"
+            },
+            {
+                "title": "xerial",
+                "href": "https://github.com/xerial/xerial",
+                "github": "xerial/xerial",
+                "type": "github"
+            },
+            {
+                "title": "simmer",
+                "href": "https://github.com/avibryant/simmer",
+                "github": "avibryant/simmer",
+                "type": "github"
+            },
+            {
+                "title": "PredictionIO",
+                "href": "https://github.com/apache/incubator-predictionio",
+                "github": "apache/incubator-predictionio",
+                "type": "github"
+            },
+            {
+                "title": "BIDMat",
+                "href": "https://github.com/BIDData/BIDMat",
+                "github": "BIDData/BIDMat",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Conjecture",
+                "href": "https://github.com/etsy/Conjecture",
+                "github": "etsy/Conjecture",
+                "type": "github"
+            },
+            {
+                "title": "brushfire",
+                "href": "https://github.com/stripe/brushfire",
+                "github": "stripe/brushfire",
+                "type": "github"
+            },
+            {
+                "title": "ganitha",
+                "href": "https://github.com/tresata/ganitha",
+                "github": "tresata/ganitha",
+                "type": "github"
+            },
+            {
+                "title": "adam",
+                "href": "https://github.com/bigdatagenomics/adam",
+                "github": "bigdatagenomics/adam",
+                "type": "github"
+            },
+            {
+                "title": "bioscala",
+                "href": "https://github.com/bioscala/bioscala",
+                "github": "bioscala/bioscala",
+                "type": "github"
+            },
+            {
+                "title": "BIDMach",
+                "href": "https://github.com/BIDData/BIDMach",
+                "github": "BIDData/BIDMach",
+                "type": "github"
+            },
+            {
+                "title": "Figaro",
+                "href": "https://github.com/p2t2/figaro",
+                "github": "p2t2/figaro",
+                "type": "github"
+            },
+            {
+                "title": "H2O Sparkling Water",
+                "href": "https://github.com/h2oai/sparkling-water",
+                "github": "h2oai/sparkling-water",
+                "type": "github"
+            },
+            {
+                "title": "DynaML",
+                "href": "https://github.com/transcendent-ai-labs/DynaML",
+                "github": "transcendent-ai-labs/DynaML",
+                "type": "github"
+            },
+            {
+                "title": "Saul",
+                "href": "https://github.com/IllinoisCogComp/saul/",
+                "github": "IllinoisCogComp/saul/",
+                "type": "github"
+            },
+            {
+                "title": "SwiftLearner",
+                "href": "https://github.com/valdanylchuk/swiftlearner/",
+                "github": "valdanylchuk/swiftlearner/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Swift AI",
+                "href": "https://github.com/collinhundley/Swift-AI",
+                "github": "collinhundley/Swift-AI",
+                "type": "github"
+            },
+            {
+                "title": "BrainCore",
+                "href": "https://github.com/aleph7/BrainCore",
+                "github": "aleph7/BrainCore",
+                "type": "github"
+            },
+            {
+                "title": "swix",
+                "href": "https://github.com/stsievert/swix",
+                "github": "stsievert/swix",
+                "type": "github"
+            },
+            {
+                "title": "AIToolbox",
+                "href": "https://github.com/KevinCoble/AIToolbox",
+                "github": "KevinCoble/AIToolbox",
+                "type": "github"
+            },
+            {
+                "title": "MLKit",
+                "href": "https://github.com/Somnibyte/MLKit",
+                "github": "Somnibyte/MLKit",
+                "type": "github"
+            },
+            {
+                "title": "Swift Brain",
+                "href": "https://github.com/vlall/Swift-Brain",
+                "github": "vlall/Swift-Brain",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General-Purpose Machine Learning",
+        "childrens": [
+            {
+                "title": "Awesome TensorFlow",
+                "href": "https://github.com/jtoy/awesome-tensorflow",
+                "github": "jtoy/awesome-tensorflow",
+                "type": "github"
+            }
+        ]
+    }
+]

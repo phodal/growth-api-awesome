@@ -1,0 +1,63 @@
+[
+    {
+        "heading": "Learning Resources",
+        "childrens": [
+            {
+                "title": "Awesome Service Workers",
+                "href": "https://github.com/TalAter/awesome-service-workers",
+                "github": "TalAter/awesome-service-workers",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Service Workers",
+        "childrens": [
+            {
+                "title": "Awesome Service Workers",
+                "href": "https://github.com/TalAter/awesome-service-workers/",
+                "github": "TalAter/awesome-service-workers/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Background Sync",
+        "childrens": [
+            {
+                "title": "Background Sync Explained",
+                "href": "https://github.com/WICG/BackgroundSync/blob/master/explainer.md",
+                "github": "WICG/BackgroundSync/blob/master/explainer.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Push Notifications",
+        "childrens": [
+            {
+                "title": "web-push-libs",
+                "href": "https://github.com/web-push-libs",
+                "github": "web-push-libs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Share APIs",
+        "childrens": [
+            {
+                "title": "Web Share API explainer",
+                "href": "https://github.com/WICG/web-share/blob/master/docs/explainer.md",
+                "github": "WICG/web-share/blob/master/docs/explainer.md",
+                "type": "github"
+            },
+            {
+                "title": "Web Share Target API",
+                "href": "https://github.com/WICG/web-share-target",
+                "github": "WICG/web-share-target",
+                "type": "github"
+            }
+        ]
+    }
+]

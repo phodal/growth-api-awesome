@@ -1,0 +1,230 @@
+[
+    {
+        "heading": "XSS",
+        "childrens": [
+            {
+                "title": "H5SC",
+                "href": "https://github.com/cure53/H5SC",
+                "github": "cure53/H5SC",
+                "type": "github"
+            },
+            {
+                "title": "XSS.png",
+                "href": "https://github.com/jackmasa/XSS.png",
+                "github": "jackmasa/XSS.png",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Webmail",
+        "childrens": [
+            {
+                "title": "Webmail-Hacking",
+                "href": "https://github.com/mottoin/SecPaper/blob/master/Webmail-Hacking.pdf",
+                "github": "mottoin/SecPaper/blob/master/Webmail-Hacking.pdf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "js-vuln-db",
+                "href": "https://github.com/tunz/js-vuln-db",
+                "github": "tunz/js-vuln-db",
+                "type": "github"
+            },
+            {
+                "title": "awesome-cve-poc",
+                "href": "https://github.com/qazbnm456/awesome-cve-poc",
+                "github": "qazbnm456/awesome-cve-poc",
+                "type": "github"
+            },
+            {
+                "title": "Some-PoC-oR-ExP",
+                "href": "https://github.com/coffeehb/Some-PoC-oR-ExP",
+                "github": "coffeehb/Some-PoC-oR-ExP",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Generating",
+        "childrens": [
+            {
+                "title": "VWGen",
+                "href": "https://github.com/qazbnm456/lulumi-browser",
+                "github": "qazbnm456/lulumi-browser",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Disassembler",
+        "childrens": [
+            {
+                "title": "plasma",
+                "href": "https://github.com/plasma-disassembler/plasma",
+                "github": "plasma-disassembler/plasma",
+                "type": "github"
+            },
+            {
+                "title": "radare2",
+                "href": "https://github.com/radare/radare2",
+                "github": "radare/radare2",
+                "type": "github"
+            },
+            {
+                "title": "Iaitō",
+                "href": "https://github.com/hteso/iaito",
+                "github": "hteso/iaito",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fuzzing",
+        "childrens": [
+            {
+                "title": "wfuzz",
+                "href": "https://github.com/xmendez/wfuzz",
+                "github": "xmendez/wfuzz",
+                "type": "github"
+            },
+            {
+                "title": "charsetinspect",
+                "href": "https://github.com/hack-all-the-things/charsetinspect",
+                "github": "hack-all-the-things/charsetinspect",
+                "type": "github"
+            },
+            {
+                "title": "IPObfuscator",
+                "href": "https://github.com/OsandaMalith/IPObfuscator",
+                "github": "OsandaMalith/IPObfuscator",
+                "type": "github"
+            },
+            {
+                "title": "wpscan",
+                "href": "https://github.com/wpscanteam/wpscan",
+                "github": "wpscanteam/wpscan",
+                "type": "github"
+            },
+            {
+                "title": "JoomlaScan",
+                "href": "https://github.com/drego85/JoomlaScan",
+                "github": "drego85/JoomlaScan",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Penetrating",
+        "childrens": [
+            {
+                "title": "mitmproxy",
+                "href": "https://github.com/mitmproxy/mitmproxy",
+                "github": "mitmproxy/mitmproxy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Leaking",
+        "childrens": [
+            {
+                "title": "HTTPLeaks",
+                "href": "https://github.com/cure53/HTTPLeaks",
+                "github": "cure53/HTTPLeaks",
+                "type": "github"
+            },
+            {
+                "title": "dvcs-ripper",
+                "href": "https://github.com/kost/dvcs-ripper",
+                "github": "kost/dvcs-ripper",
+                "type": "github"
+            },
+            {
+                "title": "DVCS-Pillage",
+                "href": "https://github.com/evilpacket/DVCS-Pillage",
+                "github": "evilpacket/DVCS-Pillage",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Detecting",
+        "childrens": [
+            {
+                "title": "sqlchop",
+                "href": "https://github.com/chaitin/sqlchop",
+                "github": "chaitin/sqlchop",
+                "type": "github"
+            },
+            {
+                "title": "retire.js",
+                "href": "https://github.com/RetireJS/retire.js",
+                "github": "RetireJS/retire.js",
+                "type": "github"
+            },
+            {
+                "title": "malware-jail",
+                "href": "https://github.com/HynekPetrak/malware-jail",
+                "github": "HynekPetrak/malware-jail",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Preventing",
+        "childrens": [
+            {
+                "title": "js-xss",
+                "href": "https://github.com/leizongmin/js-xss",
+                "github": "leizongmin/js-xss",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Webshell",
+        "childrens": [
+            {
+                "title": "webshell",
+                "href": "https://github.com/tennc/webshell",
+                "github": "tennc/webshell",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "awesome-bug-bounty",
+                "href": "https://github.com/djadmin/awesome-bug-bounty",
+                "github": "djadmin/awesome-bug-bounty",
+                "type": "github"
+            },
+            {
+                "title": "bug-bounty-reference",
+                "href": "https://github.com/ngalongc/bug-bounty-reference",
+                "github": "ngalongc/bug-bounty-reference",
+                "type": "github"
+            },
+            {
+                "title": "1000php",
+                "href": "https://github.com/Xyntax/1000php",
+                "github": "Xyntax/1000php",
+                "type": "github"
+            },
+            {
+                "title": "EQGRP",
+                "href": "https://github.com/x0rz/EQGRP",
+                "github": "x0rz/EQGRP",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "childrens": [
+            {
+                "title": "Alphabet Cipher",
+                "href": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher",
+                "github": "gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher",
+                "type": "github"
+            },
+            {
+                "title": "Card game War",
+                "href": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war",
+                "github": "gigasquid/wonderland-clojure-katas/tree/master/card-game-war",
+                "type": "github"
+            },
+            {
+                "title": "Doublets",
+                "href": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets",
+                "github": "gigasquid/wonderland-clojure-katas/tree/master/doublets",
+                "type": "github"
+            },
+            {
+                "title": "Fox Goose Bag of Corn",
+                "href": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn",
+                "github": "gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn",
+                "type": "github"
+            },
+            {
+                "title": "Magic Square",
+                "href": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square",
+                "github": "gigasquid/wonderland-clojure-katas/tree/master/magic-square",
+                "type": "github"
+            },
+            {
+                "title": "Tiny Maze",
+                "href": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze",
+                "github": "gigasquid/wonderland-clojure-katas/tree/master/tiny-maze",
+                "type": "github"
+            },
+            {
+                "title": "Wonderland Number",
+                "href": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number",
+                "github": "gigasquid/wonderland-clojure-katas/tree/master/wonderland-number",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Kata 1: (Form) DataTransformer",
+                "href": "https://github.com/devdrops/Katas/tree/kata-data-transformers",
+                "github": "devdrops/Katas/tree/kata-data-transformers",
+                "type": "github"
+            },
+            {
+                "title": "Kata 2: (EventDispatcher) Event Listener / Event Dispatcher",
+                "href": "https://github.com/devdrops/Katas/tree/kata-event-listener",
+                "github": "devdrops/Katas/tree/kata-event-listener",
+                "type": "github"
+            },
+            {
+                "title": "Kata 3: (Form) Inherit data / Virtual Form",
+                "href": "https://github.com/devdrops/Katas/tree/kata-inherit-data",
+                "github": "devdrops/Katas/tree/kata-inherit-data",
+                "type": "github"
+            },
+            {
+                "title": "Kata 4: (Form) File Upload",
+                "href": "https://github.com/devdrops/Katas/tree/kata-upload-file",
+                "github": "devdrops/Katas/tree/kata-upload-file",
+                "type": "github"
+            },
+            {
+                "title": "Kata 5: (Translation) Manage translations",
+                "href": "https://github.com/devdrops/Katas/tree/kata-translation",
+                "github": "devdrops/Katas/tree/kata-translation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "String Sum Kata",
+                "href": "https://github.com/garora/TDD-Katas#string-sum-kata",
+                "github": "garora/TDD-Katas#string-sum-kata",
+                "type": "github"
+            },
+            {
+                "title": "String Calculator Kata",
+                "href": "https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove",
+                "github": "garora/TDD-Katas#string-calculator-kata-via-roy-osherove",
+                "type": "github"
+            },
+            {
+                "title": "The Bowling Game Kata",
+                "href": "https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob",
+                "github": "garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob",
+                "type": "github"
+            },
+            {
+                "title": "The FizzBuzz Kata",
+                "href": "https://github.com/garora/TDD-Katas#the-fizzbuzz-kata",
+                "github": "garora/TDD-Katas#the-fizzbuzz-kata",
+                "type": "github"
+            },
+            {
+                "title": "The OddEven Kata",
+                "href": "https://github.com/garora/TDD-Katas#the-oddeven-kata",
+                "github": "garora/TDD-Katas#the-oddeven-kata",
+                "type": "github"
+            },
+            {
+                "title": "The PrimeFactor Kata",
+                "href": "https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob",
+                "github": "garora/TDD-Katas#the-primefactor-kata-via-uncle-bob",
+                "type": "github"
+            },
+            {
+                "title": "Game of Life",
+                "href": "https://github.com/garora/TDD-Katas#game-of-life-",
+                "github": "garora/TDD-Katas#game-of-life-",
+                "type": "github"
+            },
+            {
+                "title": "Harry Potter",
+                "href": "https://github.com/garora/TDD-Katas#harry-potter-",
+                "github": "garora/TDD-Katas#harry-potter-",
+                "type": "github"
+            },
+            {
+                "title": "LCD Digits",
+                "href": "https://github.com/garora/TDD-Katas#lcd-digits-",
+                "github": "garora/TDD-Katas#lcd-digits-",
+                "type": "github"
+            },
+            {
+                "title": "Leap Year",
+                "href": "https://github.com/garora/TDD-Katas#leap-year-",
+                "github": "garora/TDD-Katas#leap-year-",
+                "type": "github"
+            },
+            {
+                "title": "Mine Fields",
+                "href": "https://github.com/garora/TDD-Katas#mine-fields-",
+                "github": "garora/TDD-Katas#mine-fields-",
+                "type": "github"
+            },
+            {
+                "title": "Poker Hands",
+                "href": "https://github.com/garora/TDD-Katas#poker-hands",
+                "github": "garora/TDD-Katas#poker-hands",
+                "type": "github"
+            },
+            {
+                "title": "Recently Used List",
+                "href": "https://github.com/garora/TDD-Katas#recently-used-list-",
+                "github": "garora/TDD-Katas#recently-used-list-",
+                "type": "github"
+            },
+            {
+                "title": "Reversi",
+                "href": "https://github.com/garora/TDD-Katas#reversi-",
+                "github": "garora/TDD-Katas#reversi-",
+                "type": "github"
+            },
+            {
+                "title": "Yehtzee",
+                "href": "https://github.com/garora/TDD-Katas#yehtzee-",
+                "github": "garora/TDD-Katas#yehtzee-",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Others",
+        "childrens": [
+            {
+                "title": ".Net Code Katas",
+                "href": "https://github.com/AlanBarber/CodeKatas",
+                "github": "AlanBarber/CodeKatas",
+                "type": "github"
+            },
+            {
+                "title": "Racing Car Katas",
+                "href": "https://github.com/emilybache/Racing-Car-Katas",
+                "github": "emilybache/Racing-Car-Katas",
+                "type": "github"
+            }
+        ]
+    }
+]

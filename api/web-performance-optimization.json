@@ -1,0 +1,813 @@
+[
+    {
+        "heading": "Analyzers",
+        "childrens": [
+            {
+                "title": "Confess",
+                "href": "https://github.com/jamesgpearce/confess",
+                "github": "jamesgpearce/confess",
+                "type": "github"
+            },
+            {
+                "title": "Lighthouse",
+                "href": "https://github.com/GoogleChrome/lighthouse",
+                "github": "GoogleChrome/lighthouse",
+                "type": "github"
+            },
+            {
+                "title": "YSlow",
+                "href": "https://github.com/marcelduran/yslow",
+                "github": "marcelduran/yslow",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-WebPageTest",
+                "href": "https://github.com/sideroad/grunt-wpt",
+                "github": "sideroad/grunt-wpt",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-yslow",
+                "href": "https://github.com/andyshora/grunt-yslow",
+                "github": "andyshora/grunt-yslow",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-perfbudget",
+                "href": "https://github.com/tkadlec/grunt-perfbudget",
+                "github": "tkadlec/grunt-perfbudget",
+                "type": "github"
+            },
+            {
+                "title": "Web Tracing Framework",
+                "href": "https://github.com/google/tracing-framework",
+                "github": "google/tracing-framework",
+                "type": "github"
+            },
+            {
+                "title": "Yandex.Tank",
+                "href": "https://github.com/yandex/yandex-tank",
+                "github": "yandex/yandex-tank",
+                "type": "github"
+            },
+            {
+                "title": "Speed Racer",
+                "href": "https://github.com/ngryman/speedracer",
+                "github": "ngryman/speedracer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Analyzers - API",
+        "childrens": [
+            {
+                "title": "Node-yslowjs",
+                "href": "https://github.com/jmervine/node-yslowjs",
+                "github": "jmervine/node-yslowjs",
+                "type": "github"
+            },
+            {
+                "title": "PSI",
+                "href": "https://github.com/addyosmani/psi",
+                "github": "addyosmani/psi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Benchmark - CSS",
+        "childrens": [
+            {
+                "title": "CSS-perf",
+                "href": "https://github.com/mdo/css-perf",
+                "github": "mdo/css-perf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Benchmark - Javascript",
+        "childrens": [
+            {
+                "title": "JSlitmus",
+                "href": "https://github.com/broofa/jslitmus",
+                "github": "broofa/jslitmus",
+                "type": "github"
+            },
+            {
+                "title": "Matcha",
+                "href": "https://github.com/logicalparadox/matcha",
+                "github": "logicalparadox/matcha",
+                "type": "github"
+            },
+            {
+                "title": "Timing.js",
+                "href": "https://github.com/addyosmani/timing.js",
+                "github": "addyosmani/timing.js",
+                "type": "github"
+            },
+            {
+                "title": "Stats.js",
+                "href": "https://github.com/mrdoob/stats.js",
+                "github": "mrdoob/stats.js",
+                "type": "github"
+            },
+            {
+                "title": "PerfTests",
+                "href": "https://github.com/kogarashisan/PerfTests",
+                "github": "kogarashisan/PerfTests",
+                "type": "github"
+            },
+            {
+                "title": "Memory-stats.js",
+                "href": "https://github.com/paulirish/memory-stats.js",
+                "github": "paulirish/memory-stats.js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Benchmark - PHP",
+        "childrens": [
+            {
+                "title": "PHPench",
+                "href": "https://github.com/mre/PHPench",
+                "github": "mre/PHPench",
+                "type": "github"
+            },
+            {
+                "title": "php-bench",
+                "href": "https://github.com/jacobbednarz/php-bench",
+                "github": "jacobbednarz/php-bench",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bookmarklets",
+        "childrens": [
+            {
+                "title": "PerfMap",
+                "href": "https://github.com/zeman/perfmap",
+                "github": "zeman/perfmap",
+                "type": "github"
+            },
+            {
+                "title": "DOM Monster",
+                "href": "https://github.com/madrobby/dom-monster",
+                "github": "madrobby/dom-monster",
+                "type": "github"
+            },
+            {
+                "title": "Performance-Bookmarklet",
+                "href": "https://github.com/micmro/performance-bookmarklet",
+                "github": "micmro/performance-bookmarklet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CDN",
+        "childrens": [
+            {
+                "title": "jsDelivr",
+                "href": "https://github.com/jsdelivr/jsdelivr",
+                "github": "jsdelivr/jsdelivr",
+                "type": "github"
+            },
+            {
+                "title": "OSSCDN",
+                "href": "https://github.com/MaxCDN/osscdn",
+                "github": "MaxCDN/osscdn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CDN - Utilities",
+        "childrens": [
+            {
+                "title": "Cdnex",
+                "href": "https://github.com/jsonmaur/cdnex",
+                "github": "jsonmaur/cdnex",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-google-cdn",
+                "href": "https://github.com/sindresorhus/gulp-google-cdn",
+                "github": "sindresorhus/gulp-google-cdn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Extensions",
+        "childrens": [
+            {
+                "title": "Browser Calories",
+                "href": "https://github.com/zenorocha/browser-calories-chrome",
+                "github": "zenorocha/browser-calories-chrome",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image Optimizers",
+        "childrens": [
+            {
+                "title": "Grunt-smushit",
+                "href": "https://github.com/heldr/grunt-smushit",
+                "github": "heldr/grunt-smushit",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-smushit",
+                "href": "https://github.com/heldr/gulp-smushit",
+                "github": "heldr/gulp-smushit",
+                "type": "github"
+            },
+            {
+                "title": "Imagemin",
+                "href": "https://github.com/imagemin/imagemin",
+                "github": "imagemin/imagemin",
+                "type": "github"
+            },
+            {
+                "title": "Sharp",
+                "href": "https://github.com/lovell/sharp",
+                "github": "lovell/sharp",
+                "type": "github"
+            },
+            {
+                "title": "Gm",
+                "href": "https://github.com/aheckmann/gm",
+                "github": "aheckmann/gm",
+                "type": "github"
+            },
+            {
+                "title": "Exexif",
+                "href": "https://github.com/h4cc/awesome-elixir",
+                "github": "h4cc/awesome-elixir",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-contrib-imagemin",
+                "href": "https://github.com/gruntjs/grunt-contrib-imagemin",
+                "github": "gruntjs/grunt-contrib-imagemin",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-imagemin",
+                "href": "https://github.com/sindresorhus/gulp-imagemin",
+                "github": "sindresorhus/gulp-imagemin",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-WebP",
+                "href": "https://github.com/somerandomdude/grunt-webp",
+                "github": "somerandomdude/grunt-webp",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-WebP",
+                "href": "https://github.com/sindresorhus/gulp-webp",
+                "github": "sindresorhus/gulp-webp",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-imageoptim",
+                "href": "https://github.com/JamieMason/grunt-imageoptim",
+                "github": "JamieMason/grunt-imageoptim",
+                "type": "github"
+            },
+            {
+                "title": "ImageOptim-CLI",
+                "href": "https://github.com/JamieMason/ImageOptim-CLI",
+                "github": "JamieMason/ImageOptim-CLI",
+                "type": "github"
+            },
+            {
+                "title": "mozjpeg",
+                "href": "https://github.com/mozilla/mozjpeg",
+                "github": "mozilla/mozjpeg",
+                "type": "github"
+            },
+            {
+                "title": "Jpegoptim",
+                "href": "https://github.com/tjko/jpegoptim",
+                "github": "tjko/jpegoptim",
+                "type": "github"
+            },
+            {
+                "title": "ZopfliPNG",
+                "href": "https://github.com/google/zopfli",
+                "github": "google/zopfli",
+                "type": "github"
+            },
+            {
+                "title": "Leanify",
+                "href": "https://github.com/JayXon/Leanify",
+                "github": "JayXon/Leanify",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lazyloaders",
+        "childrens": [
+            {
+                "title": "lazyload",
+                "href": "https://github.com/vvo/lazyload",
+                "github": "vvo/lazyload",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Loaders",
+        "childrens": [
+            {
+                "title": "HeadJS",
+                "href": "https://github.com/headjs/headjs",
+                "github": "headjs/headjs",
+                "type": "github"
+            },
+            {
+                "title": "Defer.js",
+                "href": "https://github.com/wessman/defer.js",
+                "github": "wessman/defer.js",
+                "type": "github"
+            },
+            {
+                "title": "InstantClick",
+                "href": "https://github.com/dieulot/instantclick",
+                "github": "dieulot/instantclick",
+                "type": "github"
+            },
+            {
+                "title": "JIT",
+                "href": "https://github.com/shootaroo/jit-grunt",
+                "github": "shootaroo/jit-grunt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Metrics Monitor",
+        "childrens": [
+            {
+                "title": "Phantomas",
+                "href": "https://github.com/macbre/phantomas",
+                "github": "macbre/phantomas",
+                "type": "github"
+            },
+            {
+                "title": "Bench",
+                "href": "https://github.com/jmervine/bench",
+                "github": "jmervine/bench",
+                "type": "github"
+            },
+            {
+                "title": "Keepfast",
+                "href": "https://github.com/keepfast/keepfast",
+                "github": "keepfast/keepfast",
+                "type": "github"
+            },
+            {
+                "title": "Libra",
+                "href": "https://github.com/pitomba/libra",
+                "github": "pitomba/libra",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-phantomas",
+                "href": "https://github.com/stefanjudis/grunt-phantomas",
+                "github": "stefanjudis/grunt-phantomas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Metrics Monitor - API",
+        "childrens": [
+            {
+                "title": "WebPageTest API Wrapper for NodeJS",
+                "href": "https://github.com/marcelduran/webpagetest-api",
+                "github": "marcelduran/webpagetest-api",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Minifiers - HTML",
+        "childrens": [
+            {
+                "title": "Django-htmlmin",
+                "href": "https://github.com/cobrateam/django-htmlmin",
+                "github": "cobrateam/django-htmlmin",
+                "type": "github"
+            },
+            {
+                "title": "HTMLMinifier",
+                "href": "https://github.com/kangax/html-minifier",
+                "github": "kangax/html-minifier",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-contrib-htmlmin",
+                "href": "https://github.com/gruntjs/grunt-contrib-htmlmin",
+                "github": "gruntjs/grunt-contrib-htmlmin",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-htmlmin",
+                "href": "https://github.com/jonschlinkert/gulp-htmlmin",
+                "github": "jonschlinkert/gulp-htmlmin",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-htmlcompressor",
+                "href": "https://github.com/jney/grunt-htmlcompressor",
+                "github": "jney/grunt-htmlcompressor",
+                "type": "github"
+            },
+            {
+                "title": "HTML_minifier",
+                "href": "https://github.com/stereobooster/html_minifier",
+                "github": "stereobooster/html_minifier",
+                "type": "github"
+            },
+            {
+                "title": "HTML_press",
+                "href": "https://github.com/stereobooster/html_press",
+                "github": "stereobooster/html_press",
+                "type": "github"
+            },
+            {
+                "title": "Koa HTML Minifier",
+                "href": "https://github.com/koajs/html-minifier",
+                "github": "koajs/html-minifier",
+                "type": "github"
+            },
+            {
+                "title": "Minimize",
+                "href": "https://github.com/Swaagie/minimize",
+                "github": "Swaagie/minimize",
+                "type": "github"
+            },
+            {
+                "title": "Html-minifier",
+                "href": "https://github.com/deanhume/html-minifier",
+                "github": "deanhume/html-minifier",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Minifiers - JS & CSS",
+        "childrens": [
+            {
+                "title": "YUI Compressor",
+                "href": "https://github.com/yui/yuicompressor",
+                "github": "yui/yuicompressor",
+                "type": "github"
+            },
+            {
+                "title": "UglifyJS2",
+                "href": "https://github.com/mishoo/UglifyJS2",
+                "github": "mishoo/UglifyJS2",
+                "type": "github"
+            },
+            {
+                "title": "CSSO",
+                "href": "https://github.com/css/csso",
+                "github": "css/csso",
+                "type": "github"
+            },
+            {
+                "title": "CSSmin.js",
+                "href": "https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js",
+                "github": "stoyan/yuicompressor/blob/master/ports/js/cssmin.js",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-contrib-concat",
+                "href": "https://github.com/gruntjs/grunt-contrib-concat",
+                "github": "gruntjs/grunt-contrib-concat",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-contrib-uglify",
+                "href": "https://github.com/gruntjs/grunt-contrib-uglify",
+                "github": "gruntjs/grunt-contrib-uglify",
+                "type": "github"
+            },
+            {
+                "title": "Clean-css",
+                "href": "https://github.com/jakubpawlowicz/clean-css",
+                "github": "jakubpawlowicz/clean-css",
+                "type": "github"
+            },
+            {
+                "title": "Django-compressor",
+                "href": "https://github.com/django-compressor/django-compressor",
+                "github": "django-compressor/django-compressor",
+                "type": "github"
+            },
+            {
+                "title": "Django-pipeline",
+                "href": "https://github.com/cyberdelia/django-pipeline",
+                "github": "cyberdelia/django-pipeline",
+                "type": "github"
+            },
+            {
+                "title": "JShrink",
+                "href": "https://github.com/tedious/JShrink",
+                "github": "tedious/JShrink",
+                "type": "github"
+            },
+            {
+                "title": "CSSshrink",
+                "href": "https://github.com/stoyan/cssshrink",
+                "github": "stoyan/cssshrink",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-cssshrink",
+                "href": "https://github.com/JohnCashmore/grunt-cssshrink",
+                "github": "JohnCashmore/grunt-cssshrink",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-cssshrink",
+                "href": "https://github.com/torrottum/gulp-cssshrink",
+                "github": "torrottum/gulp-cssshrink",
+                "type": "github"
+            },
+            {
+                "title": "Prettyugly",
+                "href": "https://github.com/stoyan/prettyugly",
+                "github": "stoyan/prettyugly",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-contrib-cssmin",
+                "href": "https://github.com/gruntjs/grunt-contrib-cssmin",
+                "github": "gruntjs/grunt-contrib-cssmin",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-cssmin",
+                "href": "https://github.com/chilijung/gulp-cssmin",
+                "github": "chilijung/gulp-cssmin",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-uncss",
+                "href": "https://github.com/addyosmani/grunt-uncss",
+                "github": "addyosmani/grunt-uncss",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-uncss",
+                "href": "https://github.com/ben-eb/gulp-uncss",
+                "github": "ben-eb/gulp-uncss",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "uCSS",
+                "href": "https://github.com/oyvindeh/ucss",
+                "github": "oyvindeh/ucss",
+                "type": "github"
+            },
+            {
+                "title": "HTTPinvoke",
+                "href": "https://github.com/jakutis/httpinvoke",
+                "github": "jakutis/httpinvoke",
+                "type": "github"
+            },
+            {
+                "title": "Critical",
+                "href": "https://github.com/addyosmani/critical",
+                "github": "addyosmani/critical",
+                "type": "github"
+            },
+            {
+                "title": "Csscolormin",
+                "href": "https://github.com/stoyan/csscolormin",
+                "github": "stoyan/csscolormin",
+                "type": "github"
+            },
+            {
+                "title": "Lazysizes",
+                "href": "https://github.com/aFarkas/lazysizes",
+                "github": "aFarkas/lazysizes",
+                "type": "github"
+            },
+            {
+                "title": "TMI",
+                "href": "https://github.com/addyosmani/tmi",
+                "github": "addyosmani/tmi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Generators",
+        "childrens": [
+            {
+                "title": "Glue",
+                "href": "https://github.com/jorgebastida/glue",
+                "github": "jorgebastida/glue",
+                "type": "github"
+            },
+            {
+                "title": "Pitomba-spriter",
+                "href": "https://github.com/pitomba/spriter",
+                "github": "pitomba/spriter",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-spritesmith",
+                "href": "https://github.com/Ensighten/grunt-spritesmith",
+                "github": "Ensighten/grunt-spritesmith",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-sprite",
+                "href": "https://github.com/aslansky/gulp-sprite",
+                "github": "aslansky/gulp-sprite",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-svg-sprites",
+                "href": "https://github.com/shakyShane/gulp-svg-sprites",
+                "github": "shakyShane/gulp-svg-sprites",
+                "type": "github"
+            },
+            {
+                "title": "SvgToCSS",
+                "href": "https://github.com/kajyr/SvgToCSS",
+                "github": "kajyr/SvgToCSS",
+                "type": "github"
+            },
+            {
+                "title": "Assetgraph-sprite",
+                "href": "https://github.com/assetgraph/assetgraph-sprite",
+                "github": "assetgraph/assetgraph-sprite",
+                "type": "github"
+            },
+            {
+                "title": "Sprity",
+                "href": "https://github.com/sprity/sprity",
+                "github": "sprity/sprity",
+                "type": "github"
+            },
+            {
+                "title": "Sprite Factory",
+                "href": "https://github.com/jakesgordon/sprite-factory",
+                "github": "jakesgordon/sprite-factory",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SVG",
+        "childrens": [
+            {
+                "title": "SVGO",
+                "href": "https://github.com/svg/svgo",
+                "github": "svg/svgo",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-svgmin",
+                "href": "https://github.com/sindresorhus/grunt-svgmin",
+                "github": "sindresorhus/grunt-svgmin",
+                "type": "github"
+            },
+            {
+                "title": "SVG Cleaner",
+                "href": "https://github.com/RazrFalcon/SVGCleaner",
+                "github": "RazrFalcon/SVGCleaner",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Components",
+        "childrens": [
+            {
+                "title": "Vulcanize",
+                "href": "https://github.com/Polymer/vulcanize",
+                "github": "Polymer/vulcanize",
+                "type": "github"
+            },
+            {
+                "title": "Grunt-vulcanize",
+                "href": "https://github.com/Polymer/grunt-vulcanize",
+                "github": "Polymer/grunt-vulcanize",
+                "type": "github"
+            },
+            {
+                "title": "Gulp-vulcanize",
+                "href": "https://github.com/sindresorhus/gulp-vulcanize",
+                "github": "sindresorhus/gulp-vulcanize",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web server Benchmarks",
+        "childrens": [
+            {
+                "title": "HTTPerf",
+                "href": "https://github.com/httperf/httperf",
+                "github": "httperf/httperf",
+                "type": "github"
+            },
+            {
+                "title": "Autoperf",
+                "href": "https://github.com/igrigorik/autoperf",
+                "github": "igrigorik/autoperf",
+                "type": "github"
+            },
+            {
+                "title": "HTTPerf.rb",
+                "href": "https://github.com/jmervine/httperfrb",
+                "github": "jmervine/httperfrb",
+                "type": "github"
+            },
+            {
+                "title": "PHP-httperf",
+                "href": "https://github.com/jmervine/php-httperf",
+                "github": "jmervine/php-httperf",
+                "type": "github"
+            },
+            {
+                "title": "HTTPerf.js",
+                "href": "https://github.com/jmervine/httperfjs",
+                "github": "jmervine/httperfjs",
+                "type": "github"
+            },
+            {
+                "title": "HTTPerf.py",
+                "href": "https://github.com/jmervine/httperfpy",
+                "github": "jmervine/httperfpy",
+                "type": "github"
+            },
+            {
+                "title": "Gohttperf",
+                "href": "https://github.com/jmervine/gohttperf",
+                "github": "jmervine/gohttperf",
+                "type": "github"
+            },
+            {
+                "title": "wrk",
+                "href": "https://github.com/wg/wrk",
+                "github": "wg/wrk",
+                "type": "github"
+            },
+            {
+                "title": "beeswithmachineguns",
+                "href": "https://github.com/newsapps/beeswithmachineguns",
+                "github": "newsapps/beeswithmachineguns",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web server Modules",
+        "childrens": [
+            {
+                "title": "WebP-detect",
+                "href": "https://github.com/igrigorik/webp-detect",
+                "github": "igrigorik/webp-detect",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Lists",
+        "childrens": [
+            {
+                "title": "bayandin/awesome-awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            },
+            {
+                "title": "sindresorhus/awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            }
+        ]
+    }
+]

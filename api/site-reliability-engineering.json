@@ -1,0 +1,24 @@
+[
+    {
+        "heading": "On-Call",
+        "childrens": [
+            {
+                "title": "The On-Call Handbook",
+                "href": "https://github.com/alicegoldfuss/oncall-handbook",
+                "github": "alicegoldfuss/oncall-handbook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Post-Mortem",
+        "childrens": [
+            {
+                "title": "A collection of post-mortems",
+                "href": "https://github.com/danluu/post-mortems",
+                "github": "danluu/post-mortems",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,568 @@
+[
+    {
+        "heading": ".NET",
+        "childrens": [
+            {
+                "title": "Shouldly",
+                "href": "https://github.com/shouldly/shouldly/labels/Jump-In",
+                "github": "shouldly/shouldly/labels/Jump-In",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C",
+        "childrens": [
+            {
+                "title": "Neovim",
+                "href": "https://github.com/neovim/neovim/labels/entry-level",
+                "github": "neovim/neovim/labels/entry-level",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++",
+        "childrens": [
+            {
+                "title": "xoreos",
+                "href": "https://github.com/xoreos/xoreos/labels/first-timers-only",
+                "github": "xoreos/xoreos/labels/first-timers-only",
+                "type": "github"
+            },
+            {
+                "title": "electron",
+                "href": "https://github.com/electron/electron/labels/help%2Fbeginner",
+                "github": "electron/electron/labels/help%2Fbeginner",
+                "type": "github"
+            },
+            {
+                "title": "tensorflow",
+                "href": "https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome",
+                "github": "tensorflow/tensorflow/labels/stat%3Acontributions%20welcome",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Clojure",
+        "childrens": [
+            {
+                "title": "Alda",
+                "href": "https://github.com/alda-lang/alda/labels/low-hanging%20fruit",
+                "github": "alda-lang/alda/labels/low-hanging%20fruit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ClojureScript",
+        "childrens": [
+            {
+                "title": "LightTable",
+                "href": "https://github.com/LightTable/LightTable/labels/beginner",
+                "github": "LightTable/LightTable/labels/beginner",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elixir",
+        "childrens": [
+            {
+                "title": "Elixir",
+                "href": "https://github.com/elixir-lang/elixir/labels/Level%3AStarter",
+                "github": "elixir-lang/elixir/labels/Level%3AStarter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "Docker",
+                "href": "https://github.com/docker/docker/labels/exp%2Fbeginner",
+                "github": "docker/docker/labels/exp%2Fbeginner",
+                "type": "github"
+            },
+            {
+                "title": "Apex",
+                "href": "https://github.com/apex/apex/labels/contrib%20(easy)",
+                "github": "apex/apex/labels/contrib%20(easy)",
+                "type": "github"
+            },
+            {
+                "title": "Hugo",
+                "href": "https://github.com/spf13/hugo/labels/exp%2Fbeginner",
+                "github": "spf13/hugo/labels/exp%2Fbeginner",
+                "type": "github"
+            },
+            {
+                "title": "CockroachDB",
+                "href": "https://github.com/cockroachdb/cockroach/labels/easy",
+                "github": "cockroachdb/cockroach/labels/easy",
+                "type": "github"
+            },
+            {
+                "title": "Helm",
+                "href": "https://github.com/kubernetes/helm/labels/starter",
+                "github": "kubernetes/helm/labels/starter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "TEAMMATES",
+                "href": "https://github.com/TEAMMATES/teammates/labels/d.FirstTimers",
+                "github": "TEAMMATES/teammates/labels/d.FirstTimers",
+                "type": "github"
+            },
+            {
+                "title": "elasticsearch",
+                "href": "https://github.com/elastic/elasticsearch/labels/low%20hanging%20fruit",
+                "github": "elastic/elasticsearch/labels/low%20hanging%20fruit",
+                "type": "github"
+            },
+            {
+                "title": "JabRef",
+                "href": "https://github.com/JabRef/jabref/labels/beginner",
+                "github": "JabRef/jabref/labels/beginner",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "annyang",
+                "href": "https://github.com/TalAter/annyang/labels/first-timers-only",
+                "github": "TalAter/annyang/labels/first-timers-only",
+                "type": "github"
+            },
+            {
+                "title": "Clementine.js Boilerplate",
+                "href": "https://github.com/johnstonbl01/clementinejs/labels/beginner",
+                "github": "johnstonbl01/clementinejs/labels/beginner",
+                "type": "github"
+            },
+            {
+                "title": "PouchDB",
+                "href": "https://github.com/pouchdb/pouchdb/labels/first%20timers%20only",
+                "github": "pouchdb/pouchdb/labels/first%20timers%20only",
+                "type": "github"
+            },
+            {
+                "title": "Leaflet",
+                "href": "https://github.com/Leaflet/Leaflet/labels/easy%20fix",
+                "github": "Leaflet/Leaflet/labels/easy%20fix",
+                "type": "github"
+            },
+            {
+                "title": "angular-formly",
+                "href": "https://github.com/formly-js/angular-formly/labels/first-timers-only",
+                "github": "formly-js/angular-formly/labels/first-timers-only",
+                "type": "github"
+            },
+            {
+                "title": "Dragula",
+                "href": "https://github.com/bevacqua/dragula/labels/first-timers-only",
+                "github": "bevacqua/dragula/labels/first-timers-only",
+                "type": "github"
+            },
+            {
+                "title": "UI.Layout directive (Angular UI)",
+                "href": "https://github.com/angular-ui/ui-layout/labels/first-timers-only",
+                "github": "angular-ui/ui-layout/labels/first-timers-only",
+                "type": "github"
+            },
+            {
+                "title": "history",
+                "href": "https://github.com/rackt/history/labels/good-for-beginner",
+                "github": "rackt/history/labels/good-for-beginner",
+                "type": "github"
+            },
+            {
+                "title": "TodoMVC",
+                "href": "https://github.com/tastejs/todomvc/labels/first%20time%20contributor",
+                "github": "tastejs/todomvc/labels/first%20time%20contributor",
+                "type": "github"
+            },
+            {
+                "title": "Adobe Brackets",
+                "href": "https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22",
+                "github": "adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22",
+                "type": "github"
+            },
+            {
+                "title": "Chai",
+                "href": "https://github.com/chaijs/chai/labels/easy-fix",
+                "github": "chaijs/chai/labels/easy-fix",
+                "type": "github"
+            },
+            {
+                "title": "AVA",
+                "href": "https://github.com/sindresorhus/ava/labels/good%20for%20beginner",
+                "github": "sindresorhus/ava/labels/good%20for%20beginner",
+                "type": "github"
+            },
+            {
+                "title": "Kinto.js",
+                "href": "https://github.com/Kinto/kinto.js/labels/easy-pick",
+                "github": "Kinto/kinto.js/labels/easy-pick",
+                "type": "github"
+            },
+            {
+                "title": "ESLint",
+                "href": "https://github.com/eslint/eslint/labels/beginner",
+                "github": "eslint/eslint/labels/beginner",
+                "type": "github"
+            },
+            {
+                "title": "Webpack",
+                "href": "https://github.com/webpack/webpack/labels/easy",
+                "github": "webpack/webpack/labels/easy",
+                "type": "github"
+            },
+            {
+                "title": "Tessel 2 CLI",
+                "href": "https://github.com/tessel/t2-cli/labels/contribution-starter",
+                "github": "tessel/t2-cli/labels/contribution-starter",
+                "type": "github"
+            },
+            {
+                "title": "Ember.js",
+                "href": "https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors",
+                "github": "emberjs/ember.js/labels/Good%20for%20New%20Contributors",
+                "type": "github"
+            },
+            {
+                "title": "Ember.js Data",
+                "href": "https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors",
+                "github": "emberjs/data/labels/Good%20for%20New%20Contributors",
+                "type": "github"
+            },
+            {
+                "title": "FreeCodeCamp",
+                "href": "https://github.com/FreeCodeCamp/FreeCodeCamp/labels/first-timers-only",
+                "github": "FreeCodeCamp/FreeCodeCamp/labels/first-timers-only",
+                "type": "github"
+            },
+            {
+                "title": "Ghost",
+                "href": "https://github.com/TryGhost/Ghost/labels/beginner",
+                "github": "TryGhost/Ghost/labels/beginner",
+                "type": "github"
+            },
+            {
+                "title": "eslint-plugin-unicorn",
+                "href": "https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner",
+                "github": "sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner",
+                "type": "github"
+            },
+            {
+                "title": "Hyper",
+                "href": "https://github.com/zeit/hyper/labels/Good%20for%20beginners",
+                "github": "zeit/hyper/labels/Good%20for%20beginners",
+                "type": "github"
+            },
+            {
+                "title": "pdf.js",
+                "href": "https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug",
+                "github": "mozilla/pdf.js/labels/5-good-beginner-bug",
+                "type": "github"
+            },
+            {
+                "title": "Moment.js",
+                "href": "https://github.com/moment/moment/labels/Up-For-Grabs",
+                "github": "moment/moment/labels/Up-For-Grabs",
+                "type": "github"
+            },
+            {
+                "title": "serverless",
+                "href": "https://github.com/serverless/serverless/labels/help-wanted-easy",
+                "github": "serverless/serverless/labels/help-wanted-easy",
+                "type": "github"
+            },
+            {
+                "title": "Hoodie Camp",
+                "href": "https://github.com/hoodiehq/camp/labels/first-timers-only",
+                "github": "hoodiehq/camp/labels/first-timers-only",
+                "type": "github"
+            },
+            {
+                "title": "React server",
+                "href": "https://github.com/redfin/react-server/labels/good%20first%20contribution",
+                "github": "redfin/react-server/labels/good%20first%20contribution",
+                "type": "github"
+            },
+            {
+                "title": "Yarn",
+                "href": "https://github.com/yarnpkg/yarn/labels/good%20first%20bug",
+                "github": "yarnpkg/yarn/labels/good%20first%20bug",
+                "type": "github"
+            },
+            {
+                "title": "pixi.js",
+                "href": "https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy",
+                "github": "pixijs/pixi.js/labels/Difficulty%3A%20Easy",
+                "type": "github"
+            },
+            {
+                "title": "Next.js",
+                "href": "https://github.com/zeit/next.js/labels/Good%20for%20beginners",
+                "github": "zeit/next.js/labels/Good%20for%20beginners",
+                "type": "github"
+            },
+            {
+                "title": "keystonejs",
+                "href": "https://github.com/keystonejs/keystone/labels/good%20first%20task",
+                "github": "keystonejs/keystone/labels/good%20first%20task",
+                "type": "github"
+            },
+            {
+                "title": "Semantic-UI-React",
+                "href": "https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20contribution",
+                "github": "Semantic-Org/Semantic-UI-React/labels/good%20first%20contribution",
+                "type": "github"
+            },
+            {
+                "title": "Botpress",
+                "href": "https://github.com/botpress/botpress/labels/for-new-contributors",
+                "github": "botpress/botpress/labels/for-new-contributors",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Julia",
+        "childrens": [
+            {
+                "title": "Julia Language: Intro Issues",
+                "href": "https://github.com/JuliaLang/julia/labels/intro%20issue",
+                "github": "JuliaLang/julia/labels/intro%20issue",
+                "type": "github"
+            },
+            {
+                "title": "Julia Language: Up for Grabs",
+                "href": "https://github.com/JuliaLang/julia/labels/up%20for%20grabs",
+                "github": "JuliaLang/julia/labels/up%20for%20grabs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "phpMyAdmin",
+                "href": "https://github.com/phpmyadmin/phpmyadmin/labels/newbie",
+                "github": "phpmyadmin/phpmyadmin/labels/newbie",
+                "type": "github"
+            },
+            {
+                "title": "Deployer",
+                "href": "https://github.com/deployphp/deployer/labels/good%20for%20beginner",
+                "github": "deployphp/deployer/labels/good%20for%20beginner",
+                "type": "github"
+            },
+            {
+                "title": "Piwik",
+                "href": "https://github.com/piwik/piwik/labels/Easy%20pick",
+                "github": "piwik/piwik/labels/Easy%20pick",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "catapult",
+                "href": "https://github.com/catapult-project/catapult/labels/Good%20First%20Bug",
+                "github": "catapult-project/catapult/labels/Good%20First%20Bug",
+                "type": "github"
+            },
+            {
+                "title": "Python Babel",
+                "href": "https://github.com/python-babel/babel/labels/difficulty%2Flow",
+                "github": "python-babel/babel/labels/difficulty%2Flow",
+                "type": "github"
+            },
+            {
+                "title": "Kinto",
+                "href": "https://github.com/Kinto/kinto/labels/easy-pick",
+                "github": "Kinto/kinto/labels/easy-pick",
+                "type": "github"
+            },
+            {
+                "title": "Pinax",
+                "href": "https://github.com/pinax/pinax/labels/first-timers-only",
+                "github": "pinax/pinax/labels/first-timers-only",
+                "type": "github"
+            },
+            {
+                "title": "BorgBackup",
+                "href": "https://github.com/borgbackup/borg/labels/easy",
+                "github": "borgbackup/borg/labels/easy",
+                "type": "github"
+            },
+            {
+                "title": "pylearn2",
+                "href": "https://github.com/lisa-lab/pylearn2/labels/For%20beginners",
+                "github": "lisa-lab/pylearn2/labels/For%20beginners",
+                "type": "github"
+            },
+            {
+                "title": "scrapy",
+                "href": "https://github.com/scrapy/scrapy/labels/easy",
+                "github": "scrapy/scrapy/labels/easy",
+                "type": "github"
+            },
+            {
+                "title": "mitmproxy",
+                "href": "https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution",
+                "github": "mitmproxy/mitmproxy/labels/good-first-contribution",
+                "type": "github"
+            },
+            {
+                "title": "Mailpile",
+                "href": "https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit",
+                "github": "mailpile/Mailpile/labels/Low%20Hanging%20Fruit",
+                "type": "github"
+            },
+            {
+                "title": "coala",
+                "href": "https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee",
+                "github": "issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee",
+                "type": "github"
+            },
+            {
+                "title": "jarvis",
+                "href": "https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer",
+                "github": "sukeesh/Jarvis/labels/difficulty%2Fnewcomer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "JRuby",
+                "href": "https://github.com/jruby/jruby/labels/beginner",
+                "github": "jruby/jruby/labels/beginner",
+                "type": "github"
+            },
+            {
+                "title": "puppet-mcollective",
+                "href": "https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly",
+                "github": "puppet-community/puppet-mcollective/labels/beginner%20friendly",
+                "type": "github"
+            },
+            {
+                "title": "Sinatra",
+                "href": "https://github.com/sinatra/sinatra/labels/your-first-pr",
+                "github": "sinatra/sinatra/labels/your-first-pr",
+                "type": "github"
+            },
+            {
+                "title": "Goby",
+                "href": "https://github.com/nskins/goby",
+                "github": "nskins/goby",
+                "type": "github"
+            },
+            {
+                "title": "Hanami",
+                "href": "https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults",
+                "github": "search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults",
+                "type": "github"
+            },
+            {
+                "title": "operationcode",
+                "href": "https://github.com/OperationCode/operationcode/labels/beginner%20friendly",
+                "github": "OperationCode/operationcode/labels/beginner%20friendly",
+                "type": "github"
+            },
+            {
+                "title": "chef",
+                "href": "https://github.com/chef/chef/labels/Type%3A%20Jump%20In",
+                "github": "chef/chef/labels/Type%3A%20Jump%20In",
+                "type": "github"
+            },
+            {
+                "title": "ohai",
+                "href": "https://github.com/chef/ohai/labels/Type%3A%20Jump%20In",
+                "github": "chef/ohai/labels/Type%3A%20Jump%20In",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rust",
+        "childrens": [
+            {
+                "title": "Servo",
+                "href": "https://github.com/servo/servo/labels/E-easy",
+                "github": "servo/servo/labels/E-easy",
+                "type": "github"
+            },
+            {
+                "title": "Rust-Clippy",
+                "href": "https://github.com/Manishearth/rust-clippy/labels/E-easy",
+                "github": "Manishearth/rust-clippy/labels/E-easy",
+                "type": "github"
+            },
+            {
+                "title": "Rustfmt",
+                "href": "https://github.com/rust-lang-nursery/rustfmt/labels/easy",
+                "github": "rust-lang-nursery/rustfmt/labels/easy",
+                "type": "github"
+            },
+            {
+                "title": "Iron",
+                "href": "https://github.com/iron/iron/labels/easy",
+                "github": "iron/iron/labels/easy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala",
+        "childrens": [
+            {
+                "title": "Twitter Util",
+                "href": "https://github.com/twitter/util/labels/Starter",
+                "github": "twitter/util/labels/Starter",
+                "type": "github"
+            },
+            {
+                "title": "playframework",
+                "href": "https://github.com/playframework/playframework/labels/newbie",
+                "github": "playframework/playframework/labels/newbie",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TypeScript",
+        "childrens": [
+            {
+                "title": "TypeScript",
+                "href": "https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy",
+                "github": "Microsoft/TypeScript/labels/Effort%3A%20Easy",
+                "type": "github"
+            },
+            {
+                "title": "Visual Studio Code",
+                "href": "https://github.com/Microsoft/vscode/labels/beginner",
+                "github": "Microsoft/vscode/labels/beginner",
+                "type": "github"
+            }
+        ]
+    }
+]

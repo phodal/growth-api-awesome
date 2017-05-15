@@ -1,0 +1,260 @@
+[
+    {
+        "childrens": [
+            {
+                "title": "Carmel",
+                "href": "https://github.com/graehl/carmel",
+                "github": "graehl/carmel",
+                "type": "github"
+            },
+            {
+                "title": "Fare",
+                "href": "https://github.com/moodmosaic/Fare",
+                "github": "moodmosaic/Fare",
+                "type": "github"
+            },
+            {
+                "title": "fstrain",
+                "href": "https://github.com/markusdr/fstrain",
+                "github": "markusdr/fstrain",
+                "type": "github"
+            },
+            {
+                "title": "jopenfst",
+                "href": "https://github.com/steveash/jopenfst",
+                "github": "steveash/jopenfst",
+                "type": "github"
+            },
+            {
+                "title": "Kleene programming language",
+                "href": "https://github.com/krbeesley/kleene-lang",
+                "github": "krbeesley/kleene-lang",
+                "type": "github"
+            },
+            {
+                "title": "MoMs-for-StochasticLanguages",
+                "href": "https://github.com/ICML14MoMCompare/MoMs-for-StochasticLanguages",
+                "github": "ICML14MoMCompare/MoMs-for-StochasticLanguages",
+                "type": "github"
+            },
+            {
+                "title": "n Shortest Path for PDT",
+                "href": "https://github.com/kho/openfst",
+                "github": "kho/openfst",
+                "type": "github"
+            },
+            {
+                "title": "Noam",
+                "href": "https://github.com/izuzak/noam",
+                "github": "izuzak/noam",
+                "type": "github"
+            },
+            {
+                "title": "openfst-utils",
+                "href": "https://github.com/benob/openfst-utils",
+                "github": "benob/openfst-utils",
+                "type": "github"
+            },
+            {
+                "title": "openlat",
+                "href": "https://github.com/benob/openlat",
+                "github": "benob/openlat",
+                "type": "github"
+            },
+            {
+                "title": "PyFst",
+                "href": "https://github.com/vchahun/pyfst",
+                "github": "vchahun/pyfst",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Bigfatlm",
+                "href": "https://github.com/jhclark/bigfatlm",
+                "github": "jhclark/bigfatlm",
+                "type": "github"
+            },
+            {
+                "title": "DALM",
+                "href": "https://github.com/jnory/DALM",
+                "github": "jnory/DALM",
+                "type": "github"
+            },
+            {
+                "title": "cpyp",
+                "href": "https://github.com/redpony/cpyp",
+                "github": "redpony/cpyp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "AaltoASR",
+                "href": "https://github.com/aalto-speech",
+                "github": "aalto-speech",
+                "type": "github"
+            },
+            {
+                "title": "Barista",
+                "href": "https://github.com/usc-sail/barista",
+                "github": "usc-sail/barista",
+                "type": "github"
+            },
+            {
+                "title": "kaldi-nnet-dur-model",
+                "href": "https://github.com/alumae/kaldi-nnet-dur-model",
+                "github": "alumae/kaldi-nnet-dur-model",
+                "type": "github"
+            },
+            {
+                "title": "Juicer",
+                "href": "https://github.com/idiap/juicer",
+                "github": "idiap/juicer",
+                "type": "github"
+            },
+            {
+                "title": "Sail Align",
+                "href": "https://github.com/nassosoassos/sail_align",
+                "github": "nassosoassos/sail_align",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Bob",
+                "href": "https://github.com/idiap/bob",
+                "github": "idiap/bob",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "RusPhonetizer",
+                "href": "https://github.com/wilpert/RusPhonetizer",
+                "github": "wilpert/RusPhonetizer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "cmudict",
+                "href": "https://github.com/cmusphinx/cmudict",
+                "github": "cmusphinx/cmudict",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "cdec",
+                "href": "https://github.com/redpony/cdec",
+                "github": "redpony/cdec",
+                "type": "github"
+            },
+            {
+                "title": "alignment-with-openfst",
+                "href": "https://github.com/ldmt-muri/alignment-with-openfst",
+                "github": "ldmt-muri/alignment-with-openfst",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "BIDData",
+                "href": "https://github.com/BIDData",
+                "github": "BIDData",
+                "type": "github"
+            },
+            {
+                "title": "Spearmint",
+                "href": "https://github.com/JasperSnoek/spearmint",
+                "github": "JasperSnoek/spearmint",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Benchmarks",
+                "href": "https://github.com/soumith/convnet-benchmarks",
+                "github": "soumith/convnet-benchmarks",
+                "type": "github"
+            },
+            {
+                "title": "GroundHog",
+                "href": "https://github.com/lisa-groundhog/GroundHog",
+                "github": "lisa-groundhog/GroundHog",
+                "type": "github"
+            },
+            {
+                "title": "KALDI LSTM",
+                "href": "https://github.com/dophist/kaldi-lstm",
+                "github": "dophist/kaldi-lstm",
+                "type": "github"
+            },
+            {
+                "title": "OxLM: Oxford Neural Language Modelling Toolkit",
+                "href": "https://github.com/pauldb89/OxLM",
+                "github": "pauldb89/OxLM",
+                "type": "github"
+            },
+            {
+                "title": "RNNLM2WFST",
+                "href": "https://github.com/glecorve/rnnlm2wfst",
+                "github": "glecorve/rnnlm2wfst",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "BLLIP reranking parser",
+                "href": "https://github.com/BLLIP/bllip-parser",
+                "github": "BLLIP/bllip-parser",
+                "type": "github"
+            },
+            {
+                "title": "SEAL",
+                "href": "https://github.com/TeamCohen/SEAL",
+                "github": "TeamCohen/SEAL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Cloud ASR using PyKaldi",
+                "href": "https://github.com/UFAL-DSG/cloud-asr",
+                "github": "UFAL-DSG/cloud-asr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "GraphViz.sty",
+                "href": "https://github.com/mprentice/GraphViz-sty",
+                "github": "mprentice/GraphViz-sty",
+                "type": "github"
+            }
+        ]
+    }
+]

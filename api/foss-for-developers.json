@@ -1,0 +1,161 @@
+[
+    {
+        "heading": "Source Code Repos",
+        "childrens": [
+            {
+                "title": "Gogs",
+                "href": "https://github.com/gogits/gogs",
+                "github": "gogits/gogs",
+                "type": "github"
+            },
+            {
+                "title": "GitLab",
+                "href": "https://github.com/gitlabhq/gitlabhq",
+                "github": "gitlabhq/gitlabhq",
+                "type": "github"
+            },
+            {
+                "title": "Package Drone",
+                "href": "https://github.com/eclipse/packagedrone",
+                "github": "eclipse/packagedrone",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDE",
+        "childrens": [
+            {
+                "title": "Coding WebIDE",
+                "href": "https://github.com/Coding/WebIDE",
+                "github": "Coding/WebIDE",
+                "type": "github"
+            },
+            {
+                "title": "CodeBox",
+                "href": "https://github.com/CodeboxIDE/codebox",
+                "github": "CodeboxIDE/codebox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Collaboration Tools",
+        "childrens": [
+            {
+                "title": "SparkleShare",
+                "href": "https://github.com/hbons/SparkleShare",
+                "github": "hbons/SparkleShare",
+                "type": "github"
+            },
+            {
+                "title": "ssh chat",
+                "href": "https://github.com/shazow/ssh-chat",
+                "github": "shazow/ssh-chat",
+                "type": "github"
+            },
+            {
+                "title": "lets chat",
+                "href": "https://github.com/sdelements/lets-chat",
+                "github": "sdelements/lets-chat",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Quality",
+        "childrens": [
+            {
+                "title": "sonarqube",
+                "href": "https://github.com/SonarSource/sonarqube",
+                "github": "SonarSource/sonarqube",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CI / CD",
+        "childrens": [
+            {
+                "title": "Jenkins",
+                "href": "https://github.com/jenkinsci/jenkins",
+                "github": "jenkinsci/jenkins",
+                "type": "github"
+            },
+            {
+                "title": "Travis CI",
+                "href": "https://github.com/travis-ci/travis-ci",
+                "github": "travis-ci/travis-ci",
+                "type": "github"
+            },
+            {
+                "title": "cucumber",
+                "href": "https://github.com/cucumber/cucumber",
+                "github": "cucumber/cucumber",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security and PKI",
+        "childrens": [
+            {
+                "title": "OpenXPKI",
+                "href": "https://github.com/openxpki/openxpki",
+                "github": "openxpki/openxpki",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bug trackers",
+        "childrens": [
+            {
+                "title": "Bugzilla",
+                "href": "https://github.com/bugzilla/bugzilla",
+                "github": "bugzilla/bugzilla",
+                "type": "github"
+            },
+            {
+                "title": "Mantis",
+                "href": "https://github.com/mantisbt/mantisbt",
+                "github": "mantisbt/mantisbt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Project management",
+        "childrens": [
+            {
+                "title": "Redmine",
+                "href": "https://github.com/redmine/redmine",
+                "github": "redmine/redmine",
+                "type": "github"
+            },
+            {
+                "title": "Phabricator",
+                "href": "https://github.com/phacility/phabricator",
+                "github": "phacility/phabricator",
+                "type": "github"
+            },
+            {
+                "title": "Taiga.io",
+                "href": "https://github.com/taigaio",
+                "github": "taigaio",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PaaS",
+        "childrens": [
+            {
+                "title": "OpenShift",
+                "href": "https://github.com/openshift/origin",
+                "github": "openshift/origin",
+                "type": "github"
+            }
+        ]
+    }
+]

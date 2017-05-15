@@ -1,0 +1,222 @@
+[
+    {
+        "heading": "Web Programming • Libraries",
+        "childrens": [
+            {
+                "title": "three.js",
+                "href": "https://github.com/mrdoob/three.js/",
+                "github": "mrdoob/three.js/",
+                "type": "github"
+            },
+            {
+                "title": "regl",
+                "href": "https://github.com/regl-project/regl",
+                "github": "regl-project/regl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Projection Mapping • VJing",
+        "childrens": [
+            {
+                "title": "VirtualMapper",
+                "href": "https://github.com/baku89/VirtualMapper",
+                "github": "baku89/VirtualMapper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Shaders • OpenGL • WebGL",
+        "childrens": [
+            {
+                "title": "lwjgl: Shaders",
+                "href": "https://github.com/mattdesl/lwjgl-basics/wiki/Shaders",
+                "github": "mattdesl/lwjgl-basics/wiki/Shaders",
+                "type": "github"
+            },
+            {
+                "title": "WebGL Lessons — Fragment Shaders",
+                "href": "https://github.com/Jam3/jam3-lesson-webgl-shader-intro",
+                "github": "Jam3/jam3-lesson-webgl-shader-intro",
+                "type": "github"
+            },
+            {
+                "title": "WebGL Lessons — ThreeJS Shaders",
+                "href": "https://github.com/Jam3/jam3-lesson-webgl-shader-threejs",
+                "github": "Jam3/jam3-lesson-webgl-shader-threejs",
+                "type": "github"
+            },
+            {
+                "title": "ThreeJS post-proces example",
+                "href": "https://github.com/Jam3/threejs-post-process-example",
+                "github": "Jam3/threejs-post-process-example",
+                "type": "github"
+            },
+            {
+                "title": "GLSL lighting walkthrough",
+                "href": "https://github.com/stackgl/glsl-lighting-walkthrough",
+                "github": "stackgl/glsl-lighting-walkthrough",
+                "type": "github"
+            },
+            {
+                "title": "Three glslify example",
+                "href": "https://github.com/mattdesl/three-glslify-example",
+                "github": "mattdesl/three-glslify-example",
+                "type": "github"
+            },
+            {
+                "title": "WebGL Beyond Dom",
+                "href": "https://github.com/gregtatum/talk-webgl-beyond-dom",
+                "github": "gregtatum/talk-webgl-beyond-dom",
+                "type": "github"
+            },
+            {
+                "title": "Modern OpenGL Series",
+                "href": "https://github.com/tomdalling/opengl-series",
+                "github": "tomdalling/opengl-series",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Interactive",
+        "childrens": [
+            {
+                "title": "Shader-school",
+                "href": "https://github.com/stackgl/shader-school",
+                "github": "stackgl/shader-school",
+                "type": "github"
+            },
+            {
+                "title": "Webgl-workshop",
+                "href": "https://github.com/stackgl/webgl-workshop",
+                "github": "stackgl/webgl-workshop",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Math",
+        "childrens": [
+            {
+                "title": "Math as code",
+                "href": "https://github.com/Jam3/math-as-code",
+                "github": "Jam3/math-as-code",
+                "type": "github"
+            },
+            {
+                "title": "Math snippets",
+                "href": "https://github.com/terkelg/math",
+                "github": "terkelg/math",
+                "type": "github"
+            },
+            {
+                "title": "Learning Maths again",
+                "href": "https://github.com/silviopaganini/maths",
+                "github": "silviopaganini/maths",
+                "type": "github"
+            },
+            {
+                "title": "Eases",
+                "href": "https://github.com/mattdesl/eases",
+                "github": "mattdesl/eases",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine learning • Computer Vision • Ai",
+        "childrens": [
+            {
+                "title": "Machine Learning",
+                "href": "https://github.com/CodingTrain/Machine-Learning",
+                "github": "CodingTrain/Machine-Learning",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Inspiration",
+        "childrens": [
+            {
+                "title": "People You Should Follow on CodePen",
+                "href": "https://github.com/nucliweb/People-You-Should-Follow-on-CodePen",
+                "github": "nucliweb/People-You-Should-Follow-on-CodePen",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related",
+        "childrens": [
+            {
+                "title": "Awesome opengl",
+                "href": "https://github.com/eug/awesome-opengl",
+                "github": "eug/awesome-opengl",
+                "type": "github"
+            },
+            {
+                "title": "Awesome webgl",
+                "href": "https://github.com/sjfricke/awesome-webgl",
+                "github": "sjfricke/awesome-webgl",
+                "type": "github"
+            },
+            {
+                "title": "Awesome canvas",
+                "href": "https://github.com/raphamorim/awesome-canvas",
+                "github": "raphamorim/awesome-canvas",
+                "type": "github"
+            },
+            {
+                "title": "Awesome audio visualization",
+                "href": "https://github.com/willianjusten/awesome-audio-visualization",
+                "github": "willianjusten/awesome-audio-visualization",
+                "type": "github"
+            },
+            {
+                "title": "Awesome computer vision",
+                "href": "https://github.com/jbhuang0604/awesome-computer-vision",
+                "github": "jbhuang0604/awesome-computer-vision",
+                "type": "github"
+            },
+            {
+                "title": "Awesome visualization research",
+                "href": "https://github.com/mathisonian/awesome-visualization-research",
+                "github": "mathisonian/awesome-visualization-research",
+                "type": "github"
+            },
+            {
+                "title": "Awesome livecoding",
+                "href": "https://github.com/lvm/awesome-livecoding/",
+                "github": "lvm/awesome-livecoding/",
+                "type": "github"
+            },
+            {
+                "title": "Awesome graphics",
+                "href": "https://github.com/ericjang/awesome-graphics",
+                "github": "ericjang/awesome-graphics",
+                "type": "github"
+            },
+            {
+                "title": "Graphics resources",
+                "href": "https://github.com/mattdesl/graphics-resources",
+                "github": "mattdesl/graphics-resources",
+                "type": "github"
+            },
+            {
+                "title": "Magic tools",
+                "href": "https://github.com/ellisonleao/magictools",
+                "github": "ellisonleao/magictools",
+                "type": "github"
+            },
+            {
+                "title": "Awesome public datasets",
+                "href": "https://github.com/caesar0301/awesome-public-datasets",
+                "github": "caesar0301/awesome-public-datasets",
+                "type": "github"
+            }
+        ]
+    }
+]

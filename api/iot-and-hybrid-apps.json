@@ -1,0 +1,47 @@
+[
+    {
+        "heading": "Frameworks-Tools",
+        "childrens": [
+            {
+                "title": "Lelylan",
+                "href": "https://github.com/lelylan/lelylan",
+                "github": "lelylan/lelylan",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hybrid Desktop",
+        "childrens": [
+            {
+                "title": "nw.js",
+                "href": "https://github.com/nwjs/nw.js",
+                "github": "nwjs/nw.js",
+                "type": "github"
+            },
+            {
+                "title": "Electron",
+                "href": "https://github.com/atom/electron",
+                "github": "atom/electron",
+                "type": "github"
+            },
+            {
+                "title": "MAcGap",
+                "href": "https://github.com/MacGapProject",
+                "github": "MacGapProject",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools-Plugins",
+        "childrens": [
+            {
+                "title": "Cordova / Phonegap iBeacon plugin",
+                "href": "https://github.com/petermetz/cordova-plugin-ibeacon",
+                "github": "petermetz/cordova-plugin-ibeacon",
+                "type": "github"
+            }
+        ]
+    }
+]

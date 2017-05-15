@@ -1,0 +1,1799 @@
+[
+    {
+        "heading": "Admin interface",
+        "childrens": [
+            {
+                "title": "djamin",
+                "href": "https://github.com/hersonls/djamin/",
+                "github": "hersonls/djamin/",
+                "type": "github"
+            },
+            {
+                "title": "django-admin-bootstrap",
+                "href": "https://github.com/django-admin-bootstrap/django-admin-bootstrap",
+                "github": "django-admin-bootstrap/django-admin-bootstrap",
+                "type": "github"
+            },
+            {
+                "title": "django-admin-bootstrapped",
+                "href": "https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/",
+                "github": "django-admin-bootstrapped/django-admin-bootstrapped/",
+                "type": "github"
+            },
+            {
+                "title": "django-admin-easy",
+                "href": "https://github.com/ebertti/django-admin-easy",
+                "github": "ebertti/django-admin-easy",
+                "type": "github"
+            },
+            {
+                "title": "django-admin-interface",
+                "href": "https://github.com/fabiocaccamo/django-admin-interface",
+                "github": "fabiocaccamo/django-admin-interface",
+                "type": "github"
+            },
+            {
+                "title": "django-admin-tools",
+                "href": "https://github.com/django-admin-tools/django-admin-tools",
+                "github": "django-admin-tools/django-admin-tools",
+                "type": "github"
+            },
+            {
+                "title": "django-admin2",
+                "href": "https://github.com/jazzband/django-admin2/",
+                "github": "jazzband/django-admin2/",
+                "type": "github"
+            },
+            {
+                "title": "django-flat-theme",
+                "href": "https://github.com/elky/django-flat-theme",
+                "github": "elky/django-flat-theme",
+                "type": "github"
+            },
+            {
+                "title": "django-flat-responsive",
+                "href": "https://github.com/elky/django-flat-responsive",
+                "github": "elky/django-flat-responsive",
+                "type": "github"
+            },
+            {
+                "title": "django-fluent-dashboard",
+                "href": "https://github.com/django-fluent/django-fluent-dashboard",
+                "github": "django-fluent/django-fluent-dashboard",
+                "type": "github"
+            },
+            {
+                "title": "django-grappelli",
+                "href": "https://github.com/sehmaschine/django-grappelli/",
+                "github": "sehmaschine/django-grappelli/",
+                "type": "github"
+            },
+            {
+                "title": "django-hijack",
+                "href": "https://github.com/arteria/django-hijack/",
+                "github": "arteria/django-hijack/",
+                "type": "github"
+            },
+            {
+                "title": "django-jet",
+                "href": "https://github.com/geex-arts/django-jet",
+                "github": "geex-arts/django-jet",
+                "type": "github"
+            },
+            {
+                "title": "django-material",
+                "href": "https://github.com/viewflow/django-material",
+                "github": "viewflow/django-material",
+                "type": "github"
+            },
+            {
+                "title": "django-object-actions",
+                "href": "https://github.com/crccheck/django-object-actions",
+                "github": "crccheck/django-object-actions",
+                "type": "github"
+            },
+            {
+                "title": "django-suit",
+                "href": "https://github.com/darklow/django-suit/",
+                "github": "darklow/django-suit/",
+                "type": "github"
+            },
+            {
+                "title": "django-wpadmin",
+                "href": "https://github.com/barszczmm/django-wpadmin/",
+                "github": "barszczmm/django-wpadmin/",
+                "type": "github"
+            },
+            {
+                "title": "django-xadmin",
+                "href": "https://github.com/sshwsfc/xadmin/",
+                "github": "sshwsfc/xadmin/",
+                "type": "github"
+            },
+            {
+                "title": "yawd-admin",
+                "href": "https://github.com/yawd/yawd-admin/",
+                "github": "yawd/yawd-admin/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Analytics",
+        "childrens": [
+            {
+                "title": "django-analytical",
+                "href": "https://github.com/jcassee/django-analytical",
+                "github": "jcassee/django-analytical",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Asset Management",
+        "childrens": [
+            {
+                "title": "django-compressor",
+                "href": "https://github.com/django-compressor/django-compressor/",
+                "github": "django-compressor/django-compressor/",
+                "type": "github"
+            },
+            {
+                "title": "django-gears",
+                "href": "https://github.com/gears/django-gears/",
+                "github": "gears/django-gears/",
+                "type": "github"
+            },
+            {
+                "title": "django-htmlmin",
+                "href": "https://github.com/cobrateam/django-htmlmin/",
+                "github": "cobrateam/django-htmlmin/",
+                "type": "github"
+            },
+            {
+                "title": "django-pipeline",
+                "href": "https://github.com/jazzband/django-pipeline",
+                "github": "jazzband/django-pipeline",
+                "type": "github"
+            },
+            {
+                "title": "django-systemjs",
+                "href": "https://github.com/sergei-maertens/django-systemjs",
+                "github": "sergei-maertens/django-systemjs",
+                "type": "github"
+            },
+            {
+                "title": "django-webpack-loader",
+                "href": "https://github.com/owais/django-webpack-loader/",
+                "github": "owais/django-webpack-loader/",
+                "type": "github"
+            },
+            {
+                "title": "python-webpack",
+                "href": "https://github.com/markfinger/python-webpack",
+                "github": "markfinger/python-webpack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication",
+        "childrens": [
+            {
+                "title": "django-allauth",
+                "href": "https://github.com/pennersr/django-allauth/",
+                "github": "pennersr/django-allauth/",
+                "type": "github"
+            },
+            {
+                "title": "django-organizations",
+                "href": "https://github.com/bennylope/django-organizations",
+                "github": "bennylope/django-organizations",
+                "type": "github"
+            },
+            {
+                "title": "django-registration",
+                "href": "https://github.com/macropin/django-registration/",
+                "github": "macropin/django-registration/",
+                "type": "github"
+            },
+            {
+                "title": "django-rest-auth",
+                "href": "https://github.com/Tivix/django-rest-auth",
+                "github": "Tivix/django-rest-auth",
+                "type": "github"
+            },
+            {
+                "title": "django-two-factor-auth",
+                "href": "https://github.com/Bouke/django-two-factor-auth/",
+                "github": "Bouke/django-two-factor-auth/",
+                "type": "github"
+            },
+            {
+                "title": "django-userena",
+                "href": "https://github.com/bread-and-pepper/django-userena/",
+                "github": "bread-and-pepper/django-userena/",
+                "type": "github"
+            },
+            {
+                "title": "python-social-auth",
+                "href": "https://github.com/omab/python-social-auth/",
+                "github": "omab/python-social-auth/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authorization",
+        "childrens": [
+            {
+                "title": "django-guardian",
+                "href": "https://github.com/django-guardian/django-guardian",
+                "github": "django-guardian/django-guardian",
+                "type": "github"
+            },
+            {
+                "title": "django-oauth-toolkit",
+                "href": "https://github.com/evonove/django-oauth-toolkit",
+                "github": "evonove/django-oauth-toolkit",
+                "type": "github"
+            },
+            {
+                "title": "django-oauth2-provider",
+                "href": "https://github.com/caffeinehit/django-oauth2-provider",
+                "github": "caffeinehit/django-oauth2-provider",
+                "type": "github"
+            },
+            {
+                "title": "django-oml",
+                "href": "https://github.com/angvp/django-oml/",
+                "github": "angvp/django-oml/",
+                "type": "github"
+            },
+            {
+                "title": "django-permission",
+                "href": "https://github.com/lambdalisue/django-permission/",
+                "github": "lambdalisue/django-permission/",
+                "type": "github"
+            },
+            {
+                "title": "django-rules",
+                "href": "https://github.com/dfunckt/django-rules",
+                "github": "dfunckt/django-rules",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blog Management",
+        "childrens": [
+            {
+                "title": "django-blog-zinnia",
+                "href": "https://github.com/Fantomas42/django-blog-zinnia",
+                "github": "Fantomas42/django-blog-zinnia",
+                "type": "github"
+            },
+            {
+                "title": "puput",
+                "href": "https://github.com/APSL/puput",
+                "github": "APSL/puput",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boilerplate",
+        "childrens": [
+            {
+                "title": "cookiecutter",
+                "href": "https://github.com/audreyr/cookiecutter/",
+                "github": "audreyr/cookiecutter/",
+                "type": "github"
+            },
+            {
+                "title": "django-hackathon-starter",
+                "href": "https://github.com/DrkSephy/django-hackathon-starter",
+                "github": "DrkSephy/django-hackathon-starter",
+                "type": "github"
+            },
+            {
+                "title": "edge",
+                "href": "https://github.com/arocks/edge",
+                "github": "arocks/edge",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "django-cachalot",
+                "href": "https://github.com/BertrandBordage/django-cachalot",
+                "github": "BertrandBordage/django-cachalot",
+                "type": "github"
+            },
+            {
+                "title": "django-cache-machine",
+                "href": "https://github.com/django-cache-machine/django-cache-machine",
+                "github": "django-cache-machine/django-cache-machine",
+                "type": "github"
+            },
+            {
+                "title": "django-cacheops",
+                "href": "https://github.com/Suor/django-cacheops",
+                "github": "Suor/django-cacheops",
+                "type": "github"
+            },
+            {
+                "title": "django-memoize",
+                "href": "https://github.com/tvavrys/django-memoize",
+                "github": "tvavrys/django-memoize",
+                "type": "github"
+            },
+            {
+                "title": "django-ormcache",
+                "href": "https://github.com/educreations/django-ormcache/",
+                "github": "educreations/django-ormcache/",
+                "type": "github"
+            },
+            {
+                "title": "django-redis-cache",
+                "href": "https://github.com/sebleier/django-redis-cache/",
+                "github": "sebleier/django-redis-cache/",
+                "type": "github"
+            },
+            {
+                "title": "johnny-cache",
+                "href": "https://github.com/jmoiron/johnny-cache/",
+                "github": "jmoiron/johnny-cache/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compatibility",
+        "childrens": [
+            {
+                "title": "django-compat",
+                "href": "https://github.com/arteria/django-compat",
+                "github": "arteria/django-compat",
+                "type": "github"
+            },
+            {
+                "title": "django-compat-lint",
+                "href": "https://github.com/ubernostrum/django-compat-lint",
+                "github": "ubernostrum/django-compat-lint",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dashboards",
+        "childrens": [
+            {
+                "title": "django-dashing",
+                "href": "https://github.com/talpor/django-dashing/",
+                "github": "talpor/django-dashing/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data sciences",
+        "childrens": [
+            {
+                "title": "rest-pandas",
+                "href": "https://github.com/wq/django-rest-pandas/",
+                "github": "wq/django-rest-pandas/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "dj-database-url",
+                "href": "https://github.com/kennethreitz/dj-database-url/",
+                "github": "kennethreitz/dj-database-url/",
+                "type": "github"
+            },
+            {
+                "title": "django-mysql",
+                "href": "https://github.com/adamchainz/django-mysql/",
+                "github": "adamchainz/django-mysql/",
+                "type": "github"
+            },
+            {
+                "title": "django-postgres-fuzzycount",
+                "href": "https://github.com/stephenmcd/django-postgres-fuzzycount",
+                "github": "stephenmcd/django-postgres-fuzzycount",
+                "type": "github"
+            },
+            {
+                "title": "django-postgrespool",
+                "href": "https://github.com/kennethreitz/django-postgrespool/",
+                "github": "kennethreitz/django-postgrespool/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging",
+        "childrens": [
+            {
+                "title": "django-debug-toolbar",
+                "href": "https://github.com/jazzband/django-debug-toolbar/",
+                "github": "jazzband/django-debug-toolbar/",
+                "type": "github"
+            },
+            {
+                "title": "django-devserver",
+                "href": "https://github.com/dcramer/django-devserver/",
+                "github": "dcramer/django-devserver/",
+                "type": "github"
+            },
+            {
+                "title": "django-querycount",
+                "href": "https://github.com/bradmontgomery/django-querycount/",
+                "github": "bradmontgomery/django-querycount/",
+                "type": "github"
+            },
+            {
+                "title": "django-silk",
+                "href": "https://github.com/django-silk/silk",
+                "github": "django-silk/silk",
+                "type": "github"
+            },
+            {
+                "title": "nplusone",
+                "href": "https://github.com/jmcarp/nplusone/",
+                "github": "jmcarp/nplusone/",
+                "type": "github"
+            },
+            {
+                "title": "sentry",
+                "href": "https://github.com/getsentry/sentry",
+                "github": "getsentry/sentry",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Email",
+        "childrens": [
+            {
+                "title": "django-celery-email",
+                "href": "https://github.com/pmclanahan/django-celery-email/",
+                "github": "pmclanahan/django-celery-email/",
+                "type": "github"
+            },
+            {
+                "title": "django-db-mailer",
+                "href": "https://github.com/LPgenerator/django-db-mailer/",
+                "github": "LPgenerator/django-db-mailer/",
+                "type": "github"
+            },
+            {
+                "title": "django-drip",
+                "href": "https://github.com/zapier/django-drip",
+                "github": "zapier/django-drip",
+                "type": "github"
+            },
+            {
+                "title": "django-email-extras",
+                "href": "https://github.com/stephenmcd/django-email-extras",
+                "github": "stephenmcd/django-email-extras",
+                "type": "github"
+            },
+            {
+                "title": "django-mailgun",
+                "href": "https://github.com/BradWhittington/django-mailgun/",
+                "github": "BradWhittington/django-mailgun/",
+                "type": "github"
+            },
+            {
+                "title": "django-post_office",
+                "href": "https://github.com/ui/django-post_office/",
+                "github": "ui/django-post_office/",
+                "type": "github"
+            },
+            {
+                "title": "django-ses",
+                "href": "https://github.com/django-ses/django-ses",
+                "github": "django-ses/django-ses",
+                "type": "github"
+            },
+            {
+                "title": "django-spoolgore",
+                "href": "https://github.com/20tab/django-spoolgore",
+                "github": "20tab/django-spoolgore",
+                "type": "github"
+            },
+            {
+                "title": "django-templated-email",
+                "href": "https://github.com/vintasoftware/django-templated-email",
+                "github": "vintasoftware/django-templated-email",
+                "type": "github"
+            },
+            {
+                "title": "django-yubin",
+                "href": "https://github.com/APSL/django-yubin",
+                "github": "APSL/django-yubin",
+                "type": "github"
+            },
+            {
+                "title": "djmail",
+                "href": "https://github.com/bameda/djmail",
+                "github": "bameda/djmail",
+                "type": "github"
+            },
+            {
+                "title": "djrill",
+                "href": "https://github.com/brack3t/Djrill/",
+                "github": "brack3t/Djrill/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fields",
+        "childrens": [
+            {
+                "title": "django-audiofield",
+                "href": "https://github.com/areski/django-audiofield",
+                "github": "areski/django-audiofield",
+                "type": "github"
+            },
+            {
+                "title": "django-bitfield",
+                "href": "https://github.com/disqus/django-bitfield/",
+                "github": "disqus/django-bitfield/",
+                "type": "github"
+            },
+            {
+                "title": "django-countries",
+                "href": "https://github.com/SmileyChris/django-countries/",
+                "github": "SmileyChris/django-countries/",
+                "type": "github"
+            },
+            {
+                "title": "django-enumfield",
+                "href": "https://github.com/5monkeys/django-enumfield/",
+                "github": "5monkeys/django-enumfield/",
+                "type": "github"
+            },
+            {
+                "title": "django-image-tools",
+                "href": "https://github.com/bonsaistudio/django-image-tools/",
+                "github": "bonsaistudio/django-image-tools/",
+                "type": "github"
+            },
+            {
+                "title": "django-imagekit",
+                "href": "https://github.com/matthewwithanm/django-imagekit/",
+                "github": "matthewwithanm/django-imagekit/",
+                "type": "github"
+            },
+            {
+                "title": "django-location-field",
+                "href": "https://github.com/caioariede/django-location-field/",
+                "github": "caioariede/django-location-field/",
+                "type": "github"
+            },
+            {
+                "title": "django-macaddress",
+                "href": "https://github.com/django-macaddress/django-macaddress",
+                "github": "django-macaddress/django-macaddress",
+                "type": "github"
+            },
+            {
+                "title": "django-money",
+                "href": "https://github.com/django-money/django-money",
+                "github": "django-money/django-money",
+                "type": "github"
+            },
+            {
+                "title": "django-phonenumber-field",
+                "href": "https://github.com/stefanfoulis/django-phonenumber-field/",
+                "github": "stefanfoulis/django-phonenumber-field/",
+                "type": "github"
+            },
+            {
+                "title": "django-picklefield",
+                "href": "https://github.com/gintas/django-picklefield/",
+                "github": "gintas/django-picklefield/",
+                "type": "github"
+            },
+            {
+                "title": "django-searchable-select",
+                "href": "https://github.com/and3rson/django-searchable-select",
+                "github": "and3rson/django-searchable-select",
+                "type": "github"
+            },
+            {
+                "title": "django-uuidfield",
+                "href": "https://github.com/dcramer/django-uuidfield/",
+                "github": "dcramer/django-uuidfield/",
+                "type": "github"
+            },
+            {
+                "title": "django-versatileimagefield",
+                "href": "https://github.com/respondcreate/django-versatileimagefield/",
+                "github": "respondcreate/django-versatileimagefield/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "File Transfers",
+        "childrens": [
+            {
+                "title": "django-downloadview",
+                "href": "https://github.com/benoitbryon/django-downloadview/",
+                "github": "benoitbryon/django-downloadview/",
+                "type": "github"
+            },
+            {
+                "title": "django-sendfile",
+                "href": "https://github.com/johnsensible/django-sendfile/",
+                "github": "johnsensible/django-sendfile/",
+                "type": "github"
+            },
+            {
+                "title": "django-filer",
+                "href": "https://github.com/divio/django-filer/",
+                "github": "divio/django-filer/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forms",
+        "childrens": [
+            {
+                "title": "django-autocomplete-light",
+                "href": "https://github.com/yourlabs/django-autocomplete-light/",
+                "github": "yourlabs/django-autocomplete-light/",
+                "type": "github"
+            },
+            {
+                "title": "django-bootstrap-form",
+                "href": "https://github.com/tzangms/django-bootstrap-form/",
+                "github": "tzangms/django-bootstrap-form/",
+                "type": "github"
+            },
+            {
+                "title": "django-bootstrap3",
+                "href": "https://github.com/dyve/django-bootstrap3/",
+                "github": "dyve/django-bootstrap3/",
+                "type": "github"
+            },
+            {
+                "title": "django-crispy-forms",
+                "href": "https://github.com/django-crispy-forms/django-crispy-forms/",
+                "github": "django-crispy-forms/django-crispy-forms/",
+                "type": "github"
+            },
+            {
+                "title": "django-floppyforms",
+                "href": "https://github.com/gregmuellegger/django-floppyforms/",
+                "github": "gregmuellegger/django-floppyforms/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GIS",
+        "childrens": [
+            {
+                "title": "django-geoposition",
+                "href": "https://github.com/philippbosch/django-geoposition/",
+                "github": "philippbosch/django-geoposition/",
+                "type": "github"
+            },
+            {
+                "title": "django-location-field",
+                "href": "https://github.com/caioariede/django-location-field/",
+                "github": "caioariede/django-location-field/",
+                "type": "github"
+            },
+            {
+                "title": "django-spillway",
+                "href": "https://github.com/bkg/django-spillway/",
+                "github": "bkg/django-spillway/",
+                "type": "github"
+            },
+            {
+                "title": "djangorestframework-gis",
+                "href": "https://github.com/djangonauts/django-rest-framework-gis/",
+                "github": "djangonauts/django-rest-framework-gis/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image handling",
+        "childrens": [
+            {
+                "title": "django-image-cropping",
+                "href": "https://github.com/jonasundderwolf/django-image-cropping",
+                "github": "jonasundderwolf/django-image-cropping",
+                "type": "github"
+            },
+            {
+                "title": "django-versatileimagefield",
+                "href": "https://github.com/respondcreate/django-versatileimagefield/",
+                "github": "respondcreate/django-versatileimagefield/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Import/Export",
+        "childrens": [
+            {
+                "title": "django-import-export",
+                "href": "https://github.com/django-import-export/django-import-export",
+                "github": "django-import-export/django-import-export",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile Support",
+        "childrens": [
+            {
+                "title": "django-push-notifications",
+                "href": "https://github.com/jleclanche/django-push-notifications",
+                "github": "jleclanche/django-push-notifications",
+                "type": "github"
+            },
+            {
+                "title": "django-pushy",
+                "href": "https://github.com/rakanalh/django-pushy",
+                "github": "rakanalh/django-pushy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Model Extensions",
+        "childrens": [
+            {
+                "title": "django-aggregate-if",
+                "href": "https://github.com/henriquebastos/django-aggregate-if/",
+                "github": "henriquebastos/django-aggregate-if/",
+                "type": "github"
+            },
+            {
+                "title": "django-localflavor",
+                "href": "https://github.com/django/django-localflavor/",
+                "github": "django/django-localflavor/",
+                "type": "github"
+            },
+            {
+                "title": "django-model-utils",
+                "href": "https://github.com/carljm/django-model-utils/",
+                "github": "carljm/django-model-utils/",
+                "type": "github"
+            },
+            {
+                "title": "django-mptt",
+                "href": "https://github.com/django-mptt/django-mptt/",
+                "github": "django-mptt/django-mptt/",
+                "type": "github"
+            },
+            {
+                "title": "django-treebeard",
+                "href": "https://github.com/tabo/django-treebeard",
+                "github": "tabo/django-treebeard",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Multitenancy",
+        "childrens": [
+            {
+                "title": "django-tenant-schemas",
+                "href": "https://github.com/bernardopires/django-tenant-schemas/",
+                "github": "bernardopires/django-tenant-schemas/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Payment Processing",
+        "childrens": [
+            {
+                "title": "dj-stripe",
+                "href": "https://github.com/kavdev/dj-stripe/",
+                "github": "kavdev/dj-stripe/",
+                "type": "github"
+            },
+            {
+                "title": "django-merchant",
+                "href": "https://github.com/agiliq/merchant/",
+                "github": "agiliq/merchant/",
+                "type": "github"
+            },
+            {
+                "title": "django-oscar-adyen",
+                "href": "https://github.com/oscaro/django-oscar-adyen/",
+                "github": "oscaro/django-oscar-adyen/",
+                "type": "github"
+            },
+            {
+                "title": "django-oscar-paymentexpress",
+                "href": "https://github.com/django-oscar/django-oscar-paymentexpress/",
+                "github": "django-oscar/django-oscar-paymentexpress/",
+                "type": "github"
+            },
+            {
+                "title": "django-oscar-paypal",
+                "href": "https://github.com/django-oscar/django-oscar-paypal/",
+                "github": "django-oscar/django-oscar-paypal/",
+                "type": "github"
+            },
+            {
+                "title": "django-paypal",
+                "href": "https://github.com/spookylukey/django-paypal",
+                "github": "spookylukey/django-paypal",
+                "type": "github"
+            },
+            {
+                "title": "django-pinpayments",
+                "href": "https://github.com/rossp/django-pinpayments/",
+                "github": "rossp/django-pinpayments/",
+                "type": "github"
+            },
+            {
+                "title": "django-zebra",
+                "href": "https://github.com/GoodCloud/django-zebra/",
+                "github": "GoodCloud/django-zebra/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Project Management",
+        "childrens": [
+            {
+                "title": "django-timepiece",
+                "href": "https://github.com/caktus/django-timepiece/",
+                "github": "caktus/django-timepiece/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reporting",
+        "childrens": [
+            {
+                "title": "django-model-report",
+                "href": "https://github.com/juanpex/django-model-report/",
+                "github": "juanpex/django-model-report/",
+                "type": "github"
+            },
+            {
+                "title": "django-report-builder",
+                "href": "https://github.com/burke-software/django-report-builder/",
+                "github": "burke-software/django-report-builder/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "RESTful API",
+        "childrens": [
+            {
+                "title": "django-nap",
+                "href": "https://github.com/funkybob/django-nap/",
+                "github": "funkybob/django-nap/",
+                "type": "github"
+            },
+            {
+                "title": "django-rest-auth",
+                "href": "https://github.com/Tivix/django-rest-auth/",
+                "github": "Tivix/django-rest-auth/",
+                "type": "github"
+            },
+            {
+                "title": "django-rest-localflavor",
+                "href": "https://github.com/gilsondev/django-rest-localflavor/",
+                "github": "gilsondev/django-rest-localflavor/",
+                "type": "github"
+            },
+            {
+                "title": "django-rest-swagger",
+                "href": "https://github.com/marcgibbons/django-rest-swagger/",
+                "github": "marcgibbons/django-rest-swagger/",
+                "type": "github"
+            },
+            {
+                "title": "drfdocs",
+                "href": "https://github.com/manosim/django-rest-framework-docs",
+                "github": "manosim/django-rest-framework-docs",
+                "type": "github"
+            },
+            {
+                "title": "restless",
+                "href": "https://github.com/toastdriven/restless/",
+                "github": "toastdriven/restless/",
+                "type": "github"
+            },
+            {
+                "title": "djangorestframework-recursive",
+                "href": "https://github.com/heywbj/django-rest-framework-recursive/",
+                "github": "heywbj/django-rest-framework-recursive/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search",
+        "childrens": [
+            {
+                "title": "django-haystack",
+                "href": "https://github.com/django-haystack/django-haystack",
+                "github": "django-haystack/django-haystack",
+                "type": "github"
+            },
+            {
+                "title": "django-watson",
+                "href": "https://github.com/etianen/django-watson/",
+                "github": "etianen/django-watson/",
+                "type": "github"
+            },
+            {
+                "title": "djorm-ext-pgfulltext",
+                "href": "https://github.com/linuxlewis/djorm-ext-pgfulltext",
+                "github": "linuxlewis/djorm-ext-pgfulltext",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "django-admin-honeypot",
+                "href": "https://github.com/dmpayton/django-admin-honeypot/",
+                "github": "dmpayton/django-admin-honeypot/",
+                "type": "github"
+            },
+            {
+                "title": "django-axes",
+                "href": "https://github.com/jazzband/django-axes/",
+                "github": "jazzband/django-axes/",
+                "type": "github"
+            },
+            {
+                "title": "django-debreach",
+                "href": "https://github.com/lpomfrey/django-debreach/",
+                "github": "lpomfrey/django-debreach/",
+                "type": "github"
+            },
+            {
+                "title": "django-password-session",
+                "href": "https://github.com/atugushev/django-password-session/",
+                "github": "atugushev/django-password-session/",
+                "type": "github"
+            },
+            {
+                "title": "django-secure-auth",
+                "href": "https://github.com/gotlium/django-secure-auth",
+                "github": "gotlium/django-secure-auth",
+                "type": "github"
+            },
+            {
+                "title": "django-security",
+                "href": "https://github.com/sdelements/django-security/",
+                "github": "sdelements/django-security/",
+                "type": "github"
+            },
+            {
+                "title": "django-sslify",
+                "href": "https://github.com/rdegges/django-sslify/",
+                "github": "rdegges/django-sslify/",
+                "type": "github"
+            },
+            {
+                "title": "django-stronghold",
+                "href": "https://github.com/mgrouchy/django-stronghold/",
+                "github": "mgrouchy/django-stronghold/",
+                "type": "github"
+            },
+            {
+                "title": "django-sudo",
+                "href": "https://github.com/mattrobenolt/django-sudo",
+                "github": "mattrobenolt/django-sudo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SEO",
+        "childrens": [
+            {
+                "title": "django-meta",
+                "href": "https://github.com/nephila/django-meta/",
+                "github": "nephila/django-meta/",
+                "type": "github"
+            },
+            {
+                "title": "django-robots",
+                "href": "https://github.com/jazzband/django-robots",
+                "github": "jazzband/django-robots",
+                "type": "github"
+            },
+            {
+                "title": "django-seo2",
+                "href": "https://github.com/romansalin/django-seo2/",
+                "github": "romansalin/django-seo2/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Settings",
+        "childrens": [
+            {
+                "title": "django-configurations",
+                "href": "https://github.com/jazzband/django-configurations",
+                "github": "jazzband/django-configurations",
+                "type": "github"
+            },
+            {
+                "title": "django-constance",
+                "href": "https://github.com/jazzband/django-constance",
+                "github": "jazzband/django-constance",
+                "type": "github"
+            },
+            {
+                "title": "python-decouple",
+                "href": "https://github.com/henriquebastos/python-decouple/",
+                "github": "henriquebastos/python-decouple/",
+                "type": "github"
+            },
+            {
+                "title": "django-environ",
+                "href": "https://github.com/joke2k/django-environ",
+                "github": "joke2k/django-environ",
+                "type": "github"
+            },
+            {
+                "title": "django-split-settings",
+                "href": "https://github.com/sobolevn/django-split-settings",
+                "github": "sobolevn/django-split-settings",
+                "type": "github"
+            },
+            {
+                "title": "django-dynamic-preferences",
+                "href": "https://github.com/EliotBerriot/django-dynamic-preferences",
+                "github": "EliotBerriot/django-dynamic-preferences",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Storage",
+        "childrens": [
+            {
+                "title": "django-selectel-storage",
+                "href": "https://github.com/marazmiki/django-selectel-storage",
+                "github": "marazmiki/django-selectel-storage",
+                "type": "github"
+            },
+            {
+                "title": "django-queued-storage",
+                "href": "https://github.com/jazzband/django-queued-storage",
+                "github": "jazzband/django-queued-storage",
+                "type": "github"
+            },
+            {
+                "title": "django-webdav-storage",
+                "href": "https://github.com/marazmiki/django-webdav-storage",
+                "github": "marazmiki/django-webdav-storage",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tagging",
+        "childrens": [
+            {
+                "title": "django-taggit",
+                "href": "https://github.com/alex/django-taggit/",
+                "github": "alex/django-taggit/",
+                "type": "github"
+            },
+            {
+                "title": "django-taggit-helpers",
+                "href": "https://github.com/mfcovington/django-taggit-helpers",
+                "github": "mfcovington/django-taggit-helpers",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Task Queue",
+        "childrens": [
+            {
+                "title": "django-q",
+                "href": "https://github.com/Koed00/django-q",
+                "github": "Koed00/django-q",
+                "type": "github"
+            },
+            {
+                "title": "django-rq",
+                "href": "https://github.com/ui/django-rq",
+                "github": "ui/django-rq",
+                "type": "github"
+            },
+            {
+                "title": "huey",
+                "href": "https://github.com/coleifer/huey/",
+                "github": "coleifer/huey/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "behave-django",
+                "href": "https://github.com/behave/behave-django",
+                "github": "behave/behave-django",
+                "type": "github"
+            },
+            {
+                "title": "django-behave",
+                "href": "https://github.com/django-behave/django-behave/",
+                "github": "django-behave/django-behave/",
+                "type": "github"
+            },
+            {
+                "title": "django-dynamic-fixture",
+                "href": "https://github.com/paulocheque/django-dynamic-fixture",
+                "github": "paulocheque/django-dynamic-fixture",
+                "type": "github"
+            },
+            {
+                "title": "django-faker",
+                "href": "https://github.com/joke2k/django-faker/",
+                "github": "joke2k/django-faker/",
+                "type": "github"
+            },
+            {
+                "title": "django-jenkins",
+                "href": "https://github.com/kmmbvnr/django-jenkins",
+                "github": "kmmbvnr/django-jenkins",
+                "type": "github"
+            },
+            {
+                "title": "django-nose",
+                "href": "https://github.com/django-nose/django-nose/",
+                "github": "django-nose/django-nose/",
+                "type": "github"
+            },
+            {
+                "title": "django-selenium",
+                "href": "https://github.com/dragoon/django-selenium/",
+                "github": "dragoon/django-selenium/",
+                "type": "github"
+            },
+            {
+                "title": "django-shotgun",
+                "href": "https://github.com/stephenmcd/django-shotgun",
+                "github": "stephenmcd/django-shotgun",
+                "type": "github"
+            },
+            {
+                "title": "django-slowtests",
+                "href": "https://github.com/realpython/django-slow-tests",
+                "github": "realpython/django-slow-tests",
+                "type": "github"
+            },
+            {
+                "title": "django-test-plus",
+                "href": "https://github.com/revsys/django-test-plus",
+                "github": "revsys/django-test-plus",
+                "type": "github"
+            },
+            {
+                "title": "factory_boy",
+                "href": "https://github.com/FactoryBoy/factory_boy/",
+                "github": "FactoryBoy/factory_boy/",
+                "type": "github"
+            },
+            {
+                "title": "lettuce-django-terrain",
+                "href": "https://github.com/stringfellow/lettuce-django-terrain/",
+                "github": "stringfellow/lettuce-django-terrain/",
+                "type": "github"
+            },
+            {
+                "title": "model-mommy",
+                "href": "https://github.com/vandersonmota/model_mommy/",
+                "github": "vandersonmota/model_mommy/",
+                "type": "github"
+            },
+            {
+                "title": "splinter",
+                "href": "https://github.com/cobrateam/splinter/",
+                "github": "cobrateam/splinter/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Thumbnail",
+        "childrens": [
+            {
+                "title": "django-stdimage",
+                "href": "https://github.com/codingjoe/django-stdimage/",
+                "github": "codingjoe/django-stdimage/",
+                "type": "github"
+            },
+            {
+                "title": "django-versatileimagefield",
+                "href": "https://github.com/respondcreate/django-versatileimagefield/",
+                "github": "respondcreate/django-versatileimagefield/",
+                "type": "github"
+            },
+            {
+                "title": "easy-thumbnails",
+                "href": "https://github.com/SmileyChris/easy-thumbnails",
+                "github": "SmileyChris/easy-thumbnails",
+                "type": "github"
+            },
+            {
+                "title": "sorl-thumbnail",
+                "href": "https://github.com/mariocesar/sorl-thumbnail/",
+                "github": "mariocesar/sorl-thumbnail/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Translations",
+        "childrens": [
+            {
+                "title": "django-hvad",
+                "href": "https://github.com/KristianOellegaard/django-hvad",
+                "github": "KristianOellegaard/django-hvad",
+                "type": "github"
+            },
+            {
+                "title": "django-klingon",
+                "href": "https://github.com/angvp/django-klingon/",
+                "github": "angvp/django-klingon/",
+                "type": "github"
+            },
+            {
+                "title": "django-modeltranslation",
+                "href": "https://github.com/deschler/django-modeltranslation/",
+                "github": "deschler/django-modeltranslation/",
+                "type": "github"
+            },
+            {
+                "title": "django-parler",
+                "href": "https://github.com/django-parler/django-parler",
+                "github": "django-parler/django-parler",
+                "type": "github"
+            },
+            {
+                "title": "django-rosetta",
+                "href": "https://github.com/mbi/django-rosetta/",
+                "github": "mbi/django-rosetta/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Views",
+        "childrens": [
+            {
+                "title": "django-extra-views",
+                "href": "https://github.com/AndrewIngram/django-extra-views/",
+                "github": "AndrewIngram/django-extra-views/",
+                "type": "github"
+            },
+            {
+                "title": "django-vanilla-views",
+                "href": "https://github.com/tomchristie/django-vanilla-views/",
+                "github": "tomchristie/django-vanilla-views/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web frontend integration",
+        "childrens": [
+            {
+                "title": "django-angular",
+                "href": "https://github.com/jrief/django-angular/",
+                "github": "jrief/django-angular/",
+                "type": "github"
+            },
+            {
+                "title": "django-bower",
+                "href": "https://github.com/nvbn/django-bower",
+                "github": "nvbn/django-bower",
+                "type": "github"
+            },
+            {
+                "title": "django-js-reverse",
+                "href": "https://github.com/ierror/django-js-reverse",
+                "github": "ierror/django-js-reverse",
+                "type": "github"
+            },
+            {
+                "title": "djangular",
+                "href": "https://github.com/appliedsec/djangular/",
+                "github": "appliedsec/djangular/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "WYSIWYG Editors",
+        "childrens": [
+            {
+                "title": "django-ckeditor",
+                "href": "https://github.com/django-ckeditor/django-ckeditor/",
+                "github": "django-ckeditor/django-ckeditor/",
+                "type": "github"
+            },
+            {
+                "title": "django-summernote",
+                "href": "https://github.com/summernote/django-summernote/",
+                "github": "summernote/django-summernote/",
+                "type": "github"
+            },
+            {
+                "title": "django-tinymce",
+                "href": "https://github.com/aljosa/django-tinymce/",
+                "github": "aljosa/django-tinymce/",
+                "type": "github"
+            },
+            {
+                "title": "django-wysiwyg",
+                "href": "https://github.com/pydanny-archive/django-wysiwyg/",
+                "github": "pydanny-archive/django-wysiwyg/",
+                "type": "github"
+            },
+            {
+                "title": "django-wysiwyg-redactor",
+                "href": "https://github.com/douglasmiranda/django-wysiwyg-redactor/",
+                "github": "douglasmiranda/django-wysiwyg-redactor/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Wikis",
+        "childrens": [
+            {
+                "title": "django-wiki",
+                "href": "https://github.com/django-wiki/django-wiki",
+                "github": "django-wiki/django-wiki",
+                "type": "github"
+            },
+            {
+                "title": "waliki",
+                "href": "https://github.com/mgaitan/waliki",
+                "github": "mgaitan/waliki",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Workflows",
+        "childrens": [
+            {
+                "title": "django-flows",
+                "href": "https://github.com/carlio/django-flows/",
+                "github": "carlio/django-flows/",
+                "type": "github"
+            },
+            {
+                "title": "django-fsm",
+                "href": "https://github.com/kmmbvnr/django-fsm/",
+                "github": "kmmbvnr/django-fsm/",
+                "type": "github"
+            },
+            {
+                "title": "django-river",
+                "href": "https://github.com/javrasya/django-river/",
+                "github": "javrasya/django-river/",
+                "type": "github"
+            },
+            {
+                "title": "django-states",
+                "href": "https://github.com/vikingco/django-states2/",
+                "github": "vikingco/django-states2/",
+                "type": "github"
+            },
+            {
+                "title": "django-viewflow",
+                "href": "https://github.com/viewflow/viewflow",
+                "github": "viewflow/viewflow",
+                "type": "github"
+            },
+            {
+                "title": "django-xworkflows",
+                "href": "https://github.com/rbarrois/django_xworkflows/",
+                "github": "rbarrois/django_xworkflows/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "django-activeurl",
+                "href": "https://github.com/hellysmile/django-activeurl",
+                "github": "hellysmile/django-activeurl",
+                "type": "github"
+            },
+            {
+                "title": "django-activity-stream",
+                "href": "https://github.com/justquick/django-activity-stream/",
+                "github": "justquick/django-activity-stream/",
+                "type": "github"
+            },
+            {
+                "title": "django-adminactions",
+                "href": "https://github.com/saxix/django-adminactions/",
+                "github": "saxix/django-adminactions/",
+                "type": "github"
+            },
+            {
+                "title": "django-autoadmin",
+                "href": "https://github.com/rosarior/django-autoadmin/",
+                "github": "rosarior/django-autoadmin/",
+                "type": "github"
+            },
+            {
+                "title": "django-braces",
+                "href": "https://github.com/brack3t/django-braces/",
+                "github": "brack3t/django-braces/",
+                "type": "github"
+            },
+            {
+                "title": "django-calendarium",
+                "href": "https://github.com/bitmazk/django-calendarium/",
+                "github": "bitmazk/django-calendarium/",
+                "type": "github"
+            },
+            {
+                "title": "django-changuito",
+                "href": "https://github.com/angvp/django-changuito/",
+                "github": "angvp/django-changuito/",
+                "type": "github"
+            },
+            {
+                "title": "django-cors-headers",
+                "href": "https://github.com/ottoyiu/django-cors-headers",
+                "github": "ottoyiu/django-cors-headers",
+                "type": "github"
+            },
+            {
+                "title": "django-dfp",
+                "href": "https://github.com/praekelt/django-dfp",
+                "github": "praekelt/django-dfp",
+                "type": "github"
+            },
+            {
+                "title": "django-dynamic-scraper",
+                "href": "https://github.com/holgerd77/django-dynamic-scraper/",
+                "github": "holgerd77/django-dynamic-scraper/",
+                "type": "github"
+            },
+            {
+                "title": "django-extensions",
+                "href": "https://github.com/django-extensions/django-extensions/",
+                "github": "django-extensions/django-extensions/",
+                "type": "github"
+            },
+            {
+                "title": "django-filter",
+                "href": "https://github.com/carltongibson/django-filter/",
+                "github": "carltongibson/django-filter/",
+                "type": "github"
+            },
+            {
+                "title": "django-friendship",
+                "href": "https://github.com/revsys/django-friendship/",
+                "github": "revsys/django-friendship/",
+                "type": "github"
+            },
+            {
+                "title": "django-gravatar2",
+                "href": "https://github.com/twaddington/django-gravatar/",
+                "github": "twaddington/django-gravatar/",
+                "type": "github"
+            },
+            {
+                "title": "django-hackathon-starter",
+                "href": "https://github.com/DrkSephy/django-hackathon-starter",
+                "github": "DrkSephy/django-hackathon-starter",
+                "type": "github"
+            },
+            {
+                "title": "django-ipware",
+                "href": "https://github.com/un33k/django-ipware",
+                "github": "un33k/django-ipware",
+                "type": "github"
+            },
+            {
+                "title": "django-magic-embed",
+                "href": "https://github.com/kronoscode/django-magicembed",
+                "github": "kronoscode/django-magicembed",
+                "type": "github"
+            },
+            {
+                "title": "django-markitup",
+                "href": "https://github.com/zsiciarz/django-markitup",
+                "github": "zsiciarz/django-markitup",
+                "type": "github"
+            },
+            {
+                "title": "django-mmc",
+                "href": "https://github.com/LPgenerator/django-mmc",
+                "github": "LPgenerator/django-mmc",
+                "type": "github"
+            },
+            {
+                "title": "django-overextends",
+                "href": "https://github.com/stephenmcd/django-overextends",
+                "github": "stephenmcd/django-overextends",
+                "type": "github"
+            },
+            {
+                "title": "django-pagination",
+                "href": "https://github.com/ericflo/django-pagination",
+                "github": "ericflo/django-pagination",
+                "type": "github"
+            },
+            {
+                "title": "django-el-pagination",
+                "href": "https://github.com/shtalinberg/django-el-pagination",
+                "github": "shtalinberg/django-el-pagination",
+                "type": "github"
+            },
+            {
+                "title": "django-quiz-app",
+                "href": "https://github.com/tomwalker/django_quiz/",
+                "github": "tomwalker/django_quiz/",
+                "type": "github"
+            },
+            {
+                "title": "django-recaptcha",
+                "href": "https://github.com/praekelt/django-recaptcha/",
+                "github": "praekelt/django-recaptcha/",
+                "type": "github"
+            },
+            {
+                "title": "django-smuggler",
+                "href": "https://github.com/semente/django-smuggler/",
+                "github": "semente/django-smuggler/",
+                "type": "github"
+            },
+            {
+                "title": "django-solo",
+                "href": "https://github.com/lazybird/django-solo/",
+                "github": "lazybird/django-solo/",
+                "type": "github"
+            },
+            {
+                "title": "django-sql-explorer",
+                "href": "https://github.com/groveco/django-sql-explorer/",
+                "github": "groveco/django-sql-explorer/",
+                "type": "github"
+            },
+            {
+                "title": "django-stored-messages",
+                "href": "https://github.com/evonove/django-stored-messages/",
+                "github": "evonove/django-stored-messages/",
+                "type": "github"
+            },
+            {
+                "title": "django-ratelimit",
+                "href": "https://github.com/jsocol/django-ratelimit/",
+                "github": "jsocol/django-ratelimit/",
+                "type": "github"
+            },
+            {
+                "title": "django-uuslug",
+                "href": "https://github.com/un33k/django-uuslug/",
+                "github": "un33k/django-uuslug/",
+                "type": "github"
+            },
+            {
+                "title": "django-watchman",
+                "href": "https://github.com/mwarkentin/django-watchman/",
+                "github": "mwarkentin/django-watchman/",
+                "type": "github"
+            },
+            {
+                "title": "django-websocket-redis",
+                "href": "https://github.com/jrief/django-websocket-redis",
+                "github": "jrief/django-websocket-redis",
+                "type": "github"
+            },
+            {
+                "title": "micawber",
+                "href": "https://github.com/coleifer/micawber/",
+                "github": "coleifer/micawber/",
+                "type": "github"
+            },
+            {
+                "title": "towel",
+                "href": "https://github.com/matthiask/towel/",
+                "github": "matthiask/towel/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CMS",
+        "childrens": [
+            {
+                "title": "django-cms",
+                "href": "https://github.com/divio/django-cms/",
+                "github": "divio/django-cms/",
+                "type": "github"
+            },
+            {
+                "title": "django-fiber",
+                "href": "https://github.com/ridethepony/django-fiber",
+                "github": "ridethepony/django-fiber",
+                "type": "github"
+            },
+            {
+                "title": "feincms",
+                "href": "https://github.com/feincms/feincms/",
+                "github": "feincms/feincms/",
+                "type": "github"
+            },
+            {
+                "title": "Mezzanine",
+                "href": "https://github.com/stephenmcd/mezzanine/",
+                "github": "stephenmcd/mezzanine/",
+                "type": "github"
+            },
+            {
+                "title": "wagtail",
+                "href": "https://github.com/torchbox/wagtail/",
+                "github": "torchbox/wagtail/",
+                "type": "github"
+            },
+            {
+                "title": "leonardo",
+                "href": "https://github.com/django-leonardo/django-leonardo/",
+                "github": "django-leonardo/django-leonardo/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "e-Commerce",
+        "childrens": [
+            {
+                "title": "Cartridge",
+                "href": "https://github.com/stephenmcd/cartridge",
+                "github": "stephenmcd/cartridge",
+                "type": "github"
+            },
+            {
+                "title": "django-oscar",
+                "href": "https://github.com/django-oscar/django-oscar",
+                "github": "django-oscar/django-oscar",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "Django packages",
+                "href": "https://github.com/pydanny/djangopackages/",
+                "github": "pydanny/djangopackages/",
+                "type": "github"
+            },
+            {
+                "title": "django-salted",
+                "href": "https://github.com/wunki/django-salted/",
+                "github": "wunki/django-salted/",
+                "type": "github"
+            },
+            {
+                "title": "Drum",
+                "href": "https://github.com/stephenmcd/drum",
+                "github": "stephenmcd/drum",
+                "type": "github"
+            },
+            {
+                "title": "koalixcrm",
+                "href": "https://github.com/tfroehlich82/koalixcrm",
+                "github": "tfroehlich82/koalixcrm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Project Management",
+        "childrens": [
+            {
+                "title": "ITSY",
+                "href": "https://github.com/orges/itsy/",
+                "github": "orges/itsy/",
+                "type": "github"
+            },
+            {
+                "title": "taiga",
+                "href": "https://github.com/taigaio/taiga-back",
+                "github": "taigaio/taiga-back",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Books",
+        "childrens": [
+            {
+                "title": "Django by Example",
+                "href": "https://github.com/kevinlondon/django-by-example",
+                "github": "kevinlondon/django-by-example",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Non Python packages",
+        "childrens": [
+            {
+                "title": "cookiecutter-django",
+                "href": "https://github.com/pydanny/cookiecutter-django",
+                "github": "pydanny/cookiecutter-django",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Videos",
+        "childrens": [
+            {
+                "title": "Must Watch Django Videos",
+                "href": "https://github.com/rosarior/django-must-watch/",
+                "github": "rosarior/django-must-watch/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "Django-manage.py-anywhere",
+                "href": "https://github.com/timonweb/Django-manage.py-anywhere/",
+                "github": "timonweb/Django-manage.py-anywhere/",
+                "type": "github"
+            },
+            {
+                "title": "Logan",
+                "href": "https://github.com/dcramer/logan",
+                "github": "dcramer/logan",
+                "type": "github"
+            }
+        ]
+    }
+]

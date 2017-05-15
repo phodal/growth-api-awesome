@@ -1,0 +1,322 @@
+[
+    {
+        "heading": "Build tools and Setup",
+        "childrens": [
+            {
+                "title": "Lazybones",
+                "href": "https://github.com/pledbrook/lazybones",
+                "github": "pledbrook/lazybones",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDE and Editor Support",
+        "childrens": [
+            {
+                "title": "LightTable Plugin",
+                "href": "https://github.com/rundis/LightTable-Groovy",
+                "github": "rundis/LightTable-Groovy",
+                "type": "github"
+            },
+            {
+                "title": "Sublime Text 2",
+                "href": "https://gist.github.com/kdabir/2203530",
+                "github": ".com/kdabir/2203530",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "Grails",
+                "href": "https://github.com/grails/grails",
+                "github": "grails/grails",
+                "type": "github"
+            },
+            {
+                "title": "Gaelyk",
+                "href": "https://github.com/gaelyk/gaelyk",
+                "github": "gaelyk/gaelyk",
+                "type": "github"
+            },
+            {
+                "title": "Glide",
+                "href": "https://github.com/kdabir/glide",
+                "github": "kdabir/glide",
+                "type": "github"
+            },
+            {
+                "title": "Ratpack",
+                "href": "https://github.com/ratpack/ratpack",
+                "github": "ratpack/ratpack",
+                "type": "github"
+            },
+            {
+                "title": "gServ",
+                "href": "https://github.com/javaConductor/gserv",
+                "github": "javaConductor/gserv",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "Gmongo",
+                "href": "https://github.com/poiati/gmongo",
+                "github": "poiati/gmongo",
+                "type": "github"
+            },
+            {
+                "title": "Gstorm",
+                "href": "https://github.com/kdabir/gstorm",
+                "github": "kdabir/gstorm",
+                "type": "github"
+            },
+            {
+                "title": "Tayra",
+                "href": "https://github.com/EqualExperts/Tayra",
+                "github": "EqualExperts/Tayra",
+                "type": "github"
+            },
+            {
+                "title": "Groovy-liquibase",
+                "href": "https://github.com/tlberglund/groovy-liquibase",
+                "github": "tlberglund/groovy-liquibase",
+                "type": "github"
+            },
+            {
+                "title": "Effigy",
+                "href": "https://github.com/cjstehno/effigy",
+                "github": "cjstehno/effigy",
+                "type": "github"
+            },
+            {
+                "title": "elasticsearch-groovy",
+                "href": "https://github.com/elastic/elasticsearch-groovy",
+                "github": "elastic/elasticsearch-groovy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP",
+        "childrens": [
+            {
+                "title": "Http-Builder",
+                "href": "https://github.com/jgritman/httpbuilder",
+                "github": "jgritman/httpbuilder",
+                "type": "github"
+            },
+            {
+                "title": "AsyncRestClient",
+                "href": "https://github.com/eginez/AsyncRestClient",
+                "github": "eginez/AsyncRestClient",
+                "type": "github"
+            },
+            {
+                "title": "Groovy-wslite",
+                "href": "https://github.com/jwagenleitner/groovy-wslite",
+                "github": "jwagenleitner/groovy-wslite",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Spock",
+                "href": "https://github.com/spockframework/spock",
+                "github": "spockframework/spock",
+                "type": "github"
+            },
+            {
+                "title": "Geb",
+                "href": "https://github.com/geb/geb",
+                "github": "geb/geb",
+                "type": "github"
+            },
+            {
+                "title": "HTTP Mock Server",
+                "href": "https://github.com/TouK/http-mock-server",
+                "github": "TouK/http-mock-server",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Concurrency",
+        "childrens": [
+            {
+                "title": "GPars",
+                "href": "https://github.com/GPars/GPars",
+                "github": "GPars/GPars",
+                "type": "github"
+            },
+            {
+                "title": "RxGroovy",
+                "href": "https://github.com/ReactiveX/RxGroovy",
+                "github": "ReactiveX/RxGroovy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Analysis",
+        "childrens": [
+            {
+                "title": "Sonar-Groovy",
+                "href": "https://github.com/SonarQubeCommunity/sonar-groovy",
+                "github": "SonarQubeCommunity/sonar-groovy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Transpilers",
+        "childrens": [
+            {
+                "title": "Grooscript",
+                "href": "https://github.com/chiquitinxx/grooscript",
+                "github": "chiquitinxx/grooscript",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Static Web",
+        "childrens": [
+            {
+                "title": "Grain",
+                "href": "https://github.com/sysgears/grain",
+                "github": "sysgears/grain",
+                "type": "github"
+            },
+            {
+                "title": "Gaiden",
+                "href": "https://github.com/kobo/gaiden",
+                "github": "kobo/gaiden",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Language Utilities",
+        "childrens": [
+            {
+                "title": "Functionalgroovy",
+                "href": "https://github.com/mperry/functionalgroovy",
+                "github": "mperry/functionalgroovy",
+                "type": "github"
+            },
+            {
+                "title": "Groovy-stream",
+                "href": "https://github.com/timyates/groovy-stream",
+                "github": "timyates/groovy-stream",
+                "type": "github"
+            },
+            {
+                "title": "Flipside",
+                "href": "https://github.com/johnnywey/flipside",
+                "github": "johnnywey/flipside",
+                "type": "github"
+            },
+            {
+                "title": "groovy-common-extensions",
+                "href": "https://github.com/timyates/groovy-common-extensions",
+                "github": "timyates/groovy-common-extensions",
+                "type": "github"
+            },
+            {
+                "title": "groovy-extra-list-behaviour",
+                "href": "https://github.com/dnahodil/groovy-extra-list-behaviour",
+                "github": "dnahodil/groovy-extra-list-behaviour",
+                "type": "github"
+            },
+            {
+                "title": "GPerfUtils",
+                "href": "https://github.com/gperfutils",
+                "github": "gperfutils",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "File System Utilities",
+        "childrens": [
+            {
+                "title": "Groovy-Vfs",
+                "href": "https://github.com/ysb33r/groovy-vfs",
+                "github": "ysb33r/groovy-vfs",
+                "type": "github"
+            },
+            {
+                "title": "Directree",
+                "href": "https://github.com/kdabir/directree",
+                "github": "kdabir/directree",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "File Format DSL",
+        "childrens": [
+            {
+                "title": "document-builder",
+                "href": "https://github.com/craigburke/document-builder",
+                "github": "craigburke/document-builder",
+                "type": "github"
+            },
+            {
+                "title": "spreadsheet-builder",
+                "href": "https://github.com/MetadataRegistry/spreadsheet-builder",
+                "github": "MetadataRegistry/spreadsheet-builder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scripting Tools",
+        "childrens": [
+            {
+                "title": "sshoogr",
+                "href": "https://github.com/aestasit/sshoogr",
+                "github": "aestasit/sshoogr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rule Engines",
+        "childrens": [
+            {
+                "title": "grules",
+                "href": "https://github.com/zhaber/grules",
+                "github": "zhaber/grules",
+                "type": "github"
+            },
+            {
+                "title": "n-cube",
+                "href": "https://github.com/jdereg/n-cube",
+                "github": "jdereg/n-cube",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Official Resources",
+        "childrens": [
+            {
+                "title": "Groovy's source",
+                "href": "https://github.com/apache/incubator-groovy",
+                "github": "apache/incubator-groovy",
+                "type": "github"
+            }
+        ]
+    }
+]

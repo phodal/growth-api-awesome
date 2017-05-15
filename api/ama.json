@@ -1,0 +1,810 @@
+[
+    {
+        "heading": "Ask these people anything!",
+        "childrens": [
+            {
+                "title": "Sindre Sorhus",
+                "href": "https://github.com/sindresorhus/ama",
+                "github": "sindresorhus/ama",
+                "type": "github"
+            },
+            {
+                "title": "Pascal Hartig",
+                "href": "https://github.com/passy/ama",
+                "github": "passy/ama",
+                "type": "github"
+            },
+            {
+                "title": "Stephen Sawchuk",
+                "href": "https://github.com/stephenplusplus/ama",
+                "github": "stephenplusplus/ama",
+                "type": "github"
+            },
+            {
+                "title": "Arthur Verschaeve",
+                "href": "https://github.com/arthurvr/ama",
+                "github": "arthurvr/ama",
+                "type": "github"
+            },
+            {
+                "title": "Mark Otto",
+                "href": "https://github.com/mdo/ama",
+                "github": "mdo/ama",
+                "type": "github"
+            },
+            {
+                "title": "Zach Holman",
+                "href": "https://github.com/holman/feedback",
+                "github": "holman/feedback",
+                "type": "github"
+            },
+            {
+                "title": "Kent C. Dodds",
+                "href": "https://github.com/kentcdodds/ama",
+                "github": "kentcdodds/ama",
+                "type": "github"
+            },
+            {
+                "title": "Simon Boudrias",
+                "href": "https://github.com/SBoudrias/ama",
+                "github": "SBoudrias/ama",
+                "type": "github"
+            },
+            {
+                "title": "Reza Akhavan",
+                "href": "https://github.com/jedireza/ama",
+                "github": "jedireza/ama",
+                "type": "github"
+            },
+            {
+                "title": "Wes Bos",
+                "href": "https://github.com/wesbos/ama",
+                "github": "wesbos/ama",
+                "type": "github"
+            },
+            {
+                "title": "Anselm Hannemann",
+                "href": "https://github.com/anselmh/AMA",
+                "github": "anselmh/AMA",
+                "type": "github"
+            },
+            {
+                "title": "Blain Smith",
+                "href": "https://github.com/blainsmith/ama",
+                "github": "blainsmith/ama",
+                "type": "github"
+            },
+            {
+                "title": "Lewis Cowper",
+                "href": "https://github.com/lewiscowper/ama",
+                "github": "lewiscowper/ama",
+                "type": "github"
+            },
+            {
+                "title": "Blake Winton",
+                "href": "https://github.com/bwinton/ama",
+                "github": "bwinton/ama",
+                "type": "github"
+            },
+            {
+                "title": "Darrin Henein",
+                "href": "https://github.com/darrinhenein/ama",
+                "github": "darrinhenein/ama",
+                "type": "github"
+            },
+            {
+                "title": "Cassie McDaniel",
+                "href": "https://github.com/cassiemc/ama",
+                "github": "cassiemc/ama",
+                "type": "github"
+            },
+            {
+                "title": "Wenjie Fan",
+                "href": "https://github.com/DIYgod/ama",
+                "github": "DIYgod/ama",
+                "type": "github"
+            },
+            {
+                "title": "Maxime Euzière",
+                "href": "https://github.com/xem/ama",
+                "github": "xem/ama",
+                "type": "github"
+            },
+            {
+                "title": "Robert Haritonov",
+                "href": "https://github.com/operatino/ama",
+                "github": "operatino/ama",
+                "type": "github"
+            },
+            {
+                "title": "Lim Chee Aun",
+                "href": "https://github.com/cheeaun/ama",
+                "github": "cheeaun/ama",
+                "type": "github"
+            },
+            {
+                "title": "Darcy Clarke",
+                "href": "https://github.com/darcyclarke/ama",
+                "github": "darcyclarke/ama",
+                "type": "github"
+            },
+            {
+                "title": "Vishnu Ks",
+                "href": "https://github.com/hackerkid/ama",
+                "github": "hackerkid/ama",
+                "type": "github"
+            },
+            {
+                "title": "Nick Desaulniers",
+                "href": "https://github.com/nickdesaulniers/ama",
+                "github": "nickdesaulniers/ama",
+                "type": "github"
+            },
+            {
+                "title": "Henry Snopek",
+                "href": "https://github.com/hhsnopek/ama",
+                "github": "hhsnopek/ama",
+                "type": "github"
+            },
+            {
+                "title": "Jesse cogollo",
+                "href": "https://github.com/jessecogollo/ama",
+                "github": "jessecogollo/ama",
+                "type": "github"
+            },
+            {
+                "title": "Mikola Lysenko",
+                "href": "https://github.com/mikolalysenko/ama",
+                "github": "mikolalysenko/ama",
+                "type": "github"
+            },
+            {
+                "title": "Drew Minns",
+                "href": "https://github.com/drewminns/ama",
+                "github": "drewminns/ama",
+                "type": "github"
+            },
+            {
+                "title": "Heather Payne",
+                "href": "https://github.com/heatherpayne/ama",
+                "github": "heatherpayne/ama",
+                "type": "github"
+            },
+            {
+                "title": "Ryan Christiani",
+                "href": "https://github.com/Rchristiani/ama",
+                "github": "Rchristiani/ama",
+                "type": "github"
+            },
+            {
+                "title": "Ahmad Nassri",
+                "href": "https://github.com/ahmadnassri/ama",
+                "github": "ahmadnassri/ama",
+                "type": "github"
+            },
+            {
+                "title": "Patty Delgado",
+                "href": "https://github.com/partydelgado/ama",
+                "github": "partydelgado/ama",
+                "type": "github"
+            },
+            {
+                "title": "Nicholas C. Zakas",
+                "href": "https://github.com/nzakas/ama",
+                "github": "nzakas/ama",
+                "type": "github"
+            },
+            {
+                "title": "Lance He",
+                "href": "https://github.com/indigofeather/ama",
+                "github": "indigofeather/ama",
+                "type": "github"
+            },
+            {
+                "title": "Derick Bailey",
+                "href": "https://github.com/derickbailey/ama",
+                "github": "derickbailey/ama",
+                "type": "github"
+            },
+            {
+                "title": "Andy Jiang",
+                "href": "https://github.com/lambtron/ama/",
+                "github": "lambtron/ama/",
+                "type": "github"
+            },
+            {
+                "title": "Benny Thomas",
+                "href": "https://github.com/virtueme/ama/",
+                "github": "virtueme/ama/",
+                "type": "github"
+            },
+            {
+                "title": "Sebastian McKenzie",
+                "href": "https://github.com/sebmck/ama",
+                "github": "sebmck/ama",
+                "type": "github"
+            },
+            {
+                "title": "Rishabh Pugalia",
+                "href": "https://github.com/rishabhp/ama",
+                "github": "rishabhp/ama",
+                "type": "github"
+            },
+            {
+                "title": "Matthew Mueller",
+                "href": "https://github.com/matthewmueller/ama",
+                "github": "matthewmueller/ama",
+                "type": "github"
+            },
+            {
+                "title": "DeokHong Kim",
+                "href": "https://github.com/insanehong/ama",
+                "github": "insanehong/ama",
+                "type": "github"
+            },
+            {
+                "title": "Hugo Giraudel",
+                "href": "https://github.com/hugogiraudel/ama",
+                "github": "hugogiraudel/ama",
+                "type": "github"
+            },
+            {
+                "title": "Will Binns-Smith",
+                "href": "https://github.com/wbinnssmith/ama",
+                "github": "wbinnssmith/ama",
+                "type": "github"
+            },
+            {
+                "title": "Lauri Tervonen",
+                "href": "https://github.com/mollikka/ama",
+                "github": "mollikka/ama",
+                "type": "github"
+            },
+            {
+                "title": "Matija Marohnić",
+                "href": "https://github.com/silvenon/ama",
+                "github": "silvenon/ama",
+                "type": "github"
+            },
+            {
+                "title": "Kyle Robinson Young",
+                "href": "https://github.com/shama/ama",
+                "github": "shama/ama",
+                "type": "github"
+            },
+            {
+                "title": "Trent Oswald",
+                "href": "https://github.com/therebelrobot/ama",
+                "github": "therebelrobot/ama",
+                "type": "github"
+            },
+            {
+                "title": "Una Kravets",
+                "href": "https://github.com/una/ama",
+                "github": "una/ama",
+                "type": "github"
+            },
+            {
+                "title": "Chris Missal",
+                "href": "https://github.com/chrismissal/ama",
+                "github": "chrismissal/ama",
+                "type": "github"
+            },
+            {
+                "title": "Acho Arnold",
+                "href": "https://github.com/najela/ama",
+                "github": "najela/ama",
+                "type": "github"
+            },
+            {
+                "title": "Rob Furlong",
+                "href": "https://github.com/robbbz/ama",
+                "github": "robbbz/ama",
+                "type": "github"
+            },
+            {
+                "title": "Honza Bittner",
+                "href": "https://github.com/HoBi/ama",
+                "github": "HoBi/ama",
+                "type": "github"
+            },
+            {
+                "title": "Jan Sanchez",
+                "href": "https://github.com/jansanchez/ama",
+                "github": "jansanchez/ama",
+                "type": "github"
+            },
+            {
+                "title": "Adrián Arroyo Calle",
+                "href": "https://github.com/AdrianArroyoCalle/ama",
+                "github": "AdrianArroyoCalle/ama",
+                "type": "github"
+            },
+            {
+                "title": "Richard Littauer",
+                "href": "https://github.com/RichardLitt/ama",
+                "github": "RichardLitt/ama",
+                "type": "github"
+            },
+            {
+                "title": "Nick Johnstone",
+                "href": "https://github.com/Widdershin/ama",
+                "github": "Widdershin/ama",
+                "type": "github"
+            },
+            {
+                "title": "JD Ballard",
+                "href": "https://github.com/Qix-/ama",
+                "github": "Qix-/ama",
+                "type": "github"
+            },
+            {
+                "title": "Charlike Mike Reagent",
+                "href": "https://github.com/tunnckoCore/ama",
+                "github": "tunnckoCore/ama",
+                "type": "github"
+            },
+            {
+                "title": "Mohamad Jahani",
+                "href": "https://github.com/mamal72/ama",
+                "github": "mamal72/ama",
+                "type": "github"
+            },
+            {
+                "title": "Justin Miller",
+                "href": "https://github.com/incanus/ama",
+                "github": "incanus/ama",
+                "type": "github"
+            },
+            {
+                "title": "Yitzchok Willroth",
+                "href": "https://github.com/coderabbi/ama",
+                "github": "coderabbi/ama",
+                "type": "github"
+            },
+            {
+                "title": "Graham Daniels",
+                "href": "https://github.com/greydnls/ama",
+                "github": "greydnls/ama",
+                "type": "github"
+            },
+            {
+                "title": "Jeff Carouth",
+                "href": "https://github.com/jcarouth/ama",
+                "github": "jcarouth/ama",
+                "type": "github"
+            },
+            {
+                "title": "Matthew Turland",
+                "href": "https://github.com/elazar/amas",
+                "github": "elazar/amas",
+                "type": "github"
+            },
+            {
+                "title": "Christopher Pitt",
+                "href": "https://github.com/assertchris/amas",
+                "github": "assertchris/amas",
+                "type": "github"
+            },
+            {
+                "title": "Joe Ferguson",
+                "href": "https://github.com/svpernova09/ama",
+                "github": "svpernova09/ama",
+                "type": "github"
+            },
+            {
+                "title": "Hamish Friedlander",
+                "href": "https://github.com/hafriedlander/ama",
+                "github": "hafriedlander/ama",
+                "type": "github"
+            },
+            {
+                "title": "Chris Tankersley",
+                "href": "https://github.com/dragonmantank/ama",
+                "github": "dragonmantank/ama",
+                "type": "github"
+            },
+            {
+                "title": "Deepak Verma",
+                "href": "https://github.com/deepaknverma/ama",
+                "github": "deepaknverma/ama",
+                "type": "github"
+            },
+            {
+                "title": "Dan Abramov",
+                "href": "https://github.com/gaearon/ama",
+                "github": "gaearon/ama",
+                "type": "github"
+            },
+            {
+                "title": "Daichi Furiya",
+                "href": "https://github.com/wasabeef/ama",
+                "github": "wasabeef/ama",
+                "type": "github"
+            },
+            {
+                "title": "Maxime Thirouin",
+                "href": "https://github.com/MoOx/ama",
+                "github": "MoOx/ama",
+                "type": "github"
+            },
+            {
+                "title": "Chris Biscardi",
+                "href": "https://github.com/ChristopherBiscardi/ama",
+                "github": "ChristopherBiscardi/ama",
+                "type": "github"
+            },
+            {
+                "title": "Vladimir Agafonkin",
+                "href": "https://github.com/mourner/ama",
+                "github": "mourner/ama",
+                "type": "github"
+            },
+            {
+                "title": "Claudio Procida",
+                "href": "https://github.com/claudiopro/ama",
+                "github": "claudiopro/ama",
+                "type": "github"
+            },
+            {
+                "title": "Zeno Rocha",
+                "href": "https://github.com/zenorocha/ama",
+                "github": "zenorocha/ama",
+                "type": "github"
+            },
+            {
+                "title": "Kahlil Lechelt",
+                "href": "https://github.com/kahlil/ama",
+                "github": "kahlil/ama",
+                "type": "github"
+            },
+            {
+                "title": "Vadim Demedes",
+                "href": "https://github.com/vdemedes/ama",
+                "github": "vdemedes/ama",
+                "type": "github"
+            },
+            {
+                "title": "Jan-Hendrik Heuing",
+                "href": "https://github.com/jan-hendrik/ama",
+                "github": "jan-hendrik/ama",
+                "type": "github"
+            },
+            {
+                "title": "Raymond Clanan",
+                "href": "https://github.com/rclanan/ama",
+                "github": "rclanan/ama",
+                "type": "github"
+            },
+            {
+                "title": "MK Yuan",
+                "href": "https://github.com/fengmk2/ama",
+                "github": "fengmk2/ama",
+                "type": "github"
+            },
+            {
+                "title": "Hong Liu",
+                "href": "https://github.com/honglio/ama",
+                "github": "honglio/ama",
+                "type": "github"
+            },
+            {
+                "title": "Arnaud Benard",
+                "href": "https://github.com/arnaudbenard/ama",
+                "github": "arnaudbenard/ama",
+                "type": "github"
+            },
+            {
+                "title": "Anthony Ramella",
+                "href": "https://github.com/tonyynot/ama",
+                "github": "tonyynot/ama",
+                "type": "github"
+            },
+            {
+                "title": "Diki Andriansyah",
+                "href": "https://github.com/dikiaap/ama",
+                "github": "dikiaap/ama",
+                "type": "github"
+            },
+            {
+                "title": "Steel Brain",
+                "href": "https://github.com/steelbrain/ama",
+                "github": "steelbrain/ama",
+                "type": "github"
+            },
+            {
+                "title": "CJ Patoilo",
+                "href": "https://github.com/cjpatoilo/ama",
+                "github": "cjpatoilo/ama",
+                "type": "github"
+            },
+            {
+                "title": "Armagan Amcalar",
+                "href": "https://github.com/dashersw/ama",
+                "github": "dashersw/ama",
+                "type": "github"
+            },
+            {
+                "title": "Breno Polanski",
+                "href": "https://github.com/brenopolanski/ama",
+                "github": "brenopolanski/ama",
+                "type": "github"
+            },
+            {
+                "title": "Camilo Nova",
+                "href": "https://github.com/camilonova/ama",
+                "github": "camilonova/ama",
+                "type": "github"
+            },
+            {
+                "title": "Jon Moss",
+                "href": "https://github.com/maclover7/ama",
+                "github": "maclover7/ama",
+                "type": "github"
+            },
+            {
+                "title": "Seth Mcleod",
+                "href": "https://github.com/sethmcleod/ama",
+                "github": "sethmcleod/ama",
+                "type": "github"
+            },
+            {
+                "title": "Seth Alexander",
+                "href": "https://github.com/itzsaga/ama",
+                "github": "itzsaga/ama",
+                "type": "github"
+            },
+            {
+                "title": "Ariya Hidayat",
+                "href": "https://github.com/ariya/ama",
+                "github": "ariya/ama",
+                "type": "github"
+            },
+            {
+                "title": "Rob Thomas",
+                "href": "https://github.com/xrobau/ama",
+                "github": "xrobau/ama",
+                "type": "github"
+            },
+            {
+                "title": "Amit Merchant",
+                "href": "https://github.com/amitmerchant1990/ama",
+                "github": "amitmerchant1990/ama",
+                "type": "github"
+            },
+            {
+                "title": "William Oliveira",
+                "href": "https://github.com/woliveiras/ama",
+                "github": "woliveiras/ama",
+                "type": "github"
+            },
+            {
+                "title": "Unbug Lee",
+                "href": "https://github.com/unbug/ama",
+                "github": "unbug/ama",
+                "type": "github"
+            },
+            {
+                "title": "Tibor Simon",
+                "href": "https://github.com/tiborsimon/ama",
+                "github": "tiborsimon/ama",
+                "type": "github"
+            },
+            {
+                "title": "Danilo Vaz",
+                "href": "https://github.com/danilovaz/ama",
+                "github": "danilovaz/ama",
+                "type": "github"
+            },
+            {
+                "title": "Adrian Mejia",
+                "href": "https://github.com/amejiarosario/ama",
+                "github": "amejiarosario/ama",
+                "type": "github"
+            },
+            {
+                "title": "Jon Kuperman",
+                "href": "https://github.com/jkup/ama",
+                "github": "jkup/ama",
+                "type": "github"
+            },
+            {
+                "title": "Max Stoiber",
+                "href": "https://github.com/mxstbr/ama",
+                "github": "mxstbr/ama",
+                "type": "github"
+            },
+            {
+                "title": "Joe Lencioni",
+                "href": "https://github.com/lencioni/ama",
+                "github": "lencioni/ama",
+                "type": "github"
+            },
+            {
+                "title": "Lindsey Bieda",
+                "href": "https://github.com/lindseyb/ama",
+                "github": "lindseyb/ama",
+                "type": "github"
+            },
+            {
+                "title": "Jeroen Engels",
+                "href": "https://github.com/jfmengels/ama",
+                "github": "jfmengels/ama",
+                "type": "github"
+            },
+            {
+                "title": "Tim Smith",
+                "href": "https://github.com/smithtimmytim/ama",
+                "github": "smithtimmytim/ama",
+                "type": "github"
+            },
+            {
+                "title": "Sam Verschueren",
+                "href": "https://github.com/SamVerschueren/ama",
+                "github": "SamVerschueren/ama",
+                "type": "github"
+            },
+            {
+                "title": "Haroen Viaene",
+                "href": "https://github.com/Haroenv/ama",
+                "github": "Haroenv/ama",
+                "type": "github"
+            },
+            {
+                "title": "Arjun Mayilvaganan",
+                "href": "https://github.com/arjunmayilvaganan/ama",
+                "github": "arjunmayilvaganan/ama",
+                "type": "github"
+            },
+            {
+                "title": "Kundan Singh",
+                "href": "https://github.com/kundansingh1/ama",
+                "github": "kundansingh1/ama",
+                "type": "github"
+            },
+            {
+                "title": "Michael Novotny",
+                "href": "https://github.com/manovotny/ama",
+                "github": "manovotny/ama",
+                "type": "github"
+            },
+            {
+                "title": "Artem Sapegin",
+                "href": "https://github.com/sapegin/ama",
+                "github": "sapegin/ama",
+                "type": "github"
+            },
+            {
+                "title": "Miguel Durán",
+                "href": "https://github.com/miduga/ama",
+                "github": "miduga/ama",
+                "type": "github"
+            },
+            {
+                "title": "Jesse Palmer",
+                "href": "https://github.com/jesselpalmer/ama",
+                "github": "jesselpalmer/ama",
+                "type": "github"
+            },
+            {
+                "title": "Chris 'Freddy' Getsfred",
+                "href": "https://github.com/elderfo/ama",
+                "github": "elderfo/ama",
+                "type": "github"
+            },
+            {
+                "title": "Seth Holladay",
+                "href": "https://github.com/sholladay/ama",
+                "github": "sholladay/ama",
+                "type": "github"
+            },
+            {
+                "title": "Nikita Voloboev",
+                "href": "https://github.com/nikitavoloboev/ama",
+                "github": "nikitavoloboev/ama",
+                "type": "github"
+            },
+            {
+                "title": "Sitesh Shrivastava",
+                "href": "https://github.com/SITZ/ama",
+                "github": "SITZ/ama",
+                "type": "github"
+            },
+            {
+                "title": "Zach Leatherman",
+                "href": "https://github.com/zachleat/ama",
+                "github": "zachleat/ama",
+                "type": "github"
+            },
+            {
+                "title": "Francis Sunday",
+                "href": "https://github.com/codehakase/ama",
+                "github": "codehakase/ama",
+                "type": "github"
+            },
+            {
+                "title": "Travis Northcutt",
+                "href": "https://github.com/tnorthcutt/ama",
+                "github": "tnorthcutt/ama",
+                "type": "github"
+            },
+            {
+                "title": "Olavi Haapala",
+                "href": "https://github.com/olpeh/ama",
+                "github": "olpeh/ama",
+                "type": "github"
+            },
+            {
+                "title": "Manu Sunny",
+                "href": "https://github.com/manupsunny/ama",
+                "github": "manupsunny/ama",
+                "type": "github"
+            },
+            {
+                "title": "Ken Wheeler",
+                "href": "https://github.com/kenwheeler/ama",
+                "github": "kenwheeler/ama",
+                "type": "github"
+            },
+            {
+                "title": "Helen V. Holmes",
+                "href": "https://github.com/helenvholmes/ama",
+                "github": "helenvholmes/ama",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ask these organizations anything!",
+        "childrens": [
+            {
+                "title": "Edenspiekermann",
+                "href": "https://github.com/edenspiekermann/ama",
+                "github": "edenspiekermann/ama",
+                "type": "github"
+            },
+            {
+                "title": "Code Monkey Health",
+                "href": "https://github.com/codemonkeyhealth/ama",
+                "github": "codemonkeyhealth/ama",
+                "type": "github"
+            },
+            {
+                "title": "Ruby Taiwan",
+                "href": "https://github.com/rubytaiwan/AMA",
+                "github": "rubytaiwan/AMA",
+                "type": "github"
+            },
+            {
+                "title": "DevOps Taiwan",
+                "href": "https://github.com/DevOpsTW/AMA",
+                "github": "DevOpsTW/AMA",
+                "type": "github"
+            },
+            {
+                "title": "Vim Taiwan",
+                "href": "https://github.com/vim-tw/ama",
+                "github": "vim-tw/ama",
+                "type": "github"
+            },
+            {
+                "title": "From the Front",
+                "href": "https://github.com/fromthefront/ama",
+                "github": "fromthefront/ama",
+                "type": "github"
+            },
+            {
+                "title": "HackCU",
+                "href": "https://github.com/HackCU/ama",
+                "github": "HackCU/ama",
+                "type": "github"
+            },
+            {
+                "title": "Ansible Taiwan",
+                "href": "https://github.com/ansible-tw/ama",
+                "github": "ansible-tw/ama",
+                "type": "github"
+            }
+        ]
+    }
+]

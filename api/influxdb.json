@@ -1,0 +1,707 @@
+[
+    {
+        "heading": "Official",
+        "childrens": [
+            {
+                "title": "C#",
+                "href": "https://github.com/influxdata/influxdb-csharp",
+                "github": "influxdata/influxdb-csharp",
+                "type": "github"
+            },
+            {
+                "title": "Go",
+                "href": "https://github.com/influxdata/influxdb/tree/master/client",
+                "github": "influxdata/influxdb/tree/master/client",
+                "type": "github"
+            },
+            {
+                "title": "Java",
+                "href": "https://github.com/influxdata/influxdb-java",
+                "github": "influxdata/influxdb-java",
+                "type": "github"
+            },
+            {
+                "title": "PHP",
+                "href": "https://github.com/influxdata/influxdb-php",
+                "github": "influxdata/influxdb-php",
+                "type": "github"
+            },
+            {
+                "title": "Python",
+                "href": "https://github.com/influxdata/influxdb-python",
+                "github": "influxdata/influxdb-python",
+                "type": "github"
+            },
+            {
+                "title": "Rails",
+                "href": "https://github.com/influxdata/influxdb-rails",
+                "github": "influxdata/influxdb-rails",
+                "type": "github"
+            },
+            {
+                "title": "Ruby",
+                "href": "https://github.com/influxdata/influxdb-ruby",
+                "github": "influxdata/influxdb-ruby",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Unofficial",
+        "childrens": [
+            {
+                "title": "capacitor",
+                "href": "https://github.com/olauzon/capacitor",
+                "github": "olauzon/capacitor",
+                "type": "github"
+            },
+            {
+                "title": "cl-influxdb",
+                "href": "https://github.com/mmaul/cl-influxdb",
+                "github": "mmaul/cl-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "erflux",
+                "href": "https://github.com/gossiperl/erflux",
+                "github": "gossiperl/erflux",
+                "type": "github"
+            },
+            {
+                "title": "fluxter",
+                "href": "https://github.com/lexmag/fluxter",
+                "github": "lexmag/fluxter",
+                "type": "github"
+            },
+            {
+                "title": "influent",
+                "href": "https://github.com/gobwas/influent",
+                "github": "gobwas/influent",
+                "type": "github"
+            },
+            {
+                "title": "influent.rs",
+                "href": "https://github.com/gobwas/influent.rs",
+                "github": "gobwas/influent.rs",
+                "type": "github"
+            },
+            {
+                "title": "InfluxDB-Client-LabVIEW",
+                "href": "https://github.com/johanvandenbroek/InfluxDB-Client-LabVIEW",
+                "github": "johanvandenbroek/InfluxDB-Client-LabVIEW",
+                "type": "github"
+            },
+            {
+                "title": "influxdb-haskell",
+                "href": "https://github.com/maoe/influxdb-haskell",
+                "github": "maoe/influxdb-haskell",
+                "type": "github"
+            },
+            {
+                "title": "InfluxDB.NET",
+                "href": "https://github.com/ziyasal/InfluxDB.Net",
+                "github": "ziyasal/InfluxDB.Net",
+                "type": "github"
+            },
+            {
+                "title": "InfluxDB PHP SDK",
+                "href": "https://github.com/corley/influxdb-php-sdk",
+                "github": "corley/influxdb-php-sdk",
+                "type": "github"
+            },
+            {
+                "title": "influxdbr",
+                "href": "https://github.com/dleutnant/influxdbr",
+                "github": "dleutnant/influxdbr",
+                "type": "github"
+            },
+            {
+                "title": "instream",
+                "href": "https://github.com/mneudert/instream",
+                "github": "mneudert/instream",
+                "type": "github"
+            },
+            {
+                "title": "node-influx",
+                "href": "https://github.com/node-influx/node-influx",
+                "github": "node-influx/node-influx",
+                "type": "github"
+            },
+            {
+                "title": "node-influx-udp",
+                "href": "https://github.com/mediocre/node-influx-udp",
+                "github": "mediocre/node-influx-udp",
+                "type": "github"
+            },
+            {
+                "title": "scala-influxdb-client",
+                "href": "https://github.com/paulgoldbaum/scala-influxdb-client",
+                "github": "paulgoldbaum/scala-influxdb-client",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dedicated",
+        "childrens": [
+            {
+                "title": "agento",
+                "href": "https://github.com/abrander/agento",
+                "github": "abrander/agento",
+                "type": "github"
+            },
+            {
+                "title": "aggregateD",
+                "href": "https://github.com/ccpgames/aggregateD",
+                "github": "ccpgames/aggregateD",
+                "type": "github"
+            },
+            {
+                "title": "Charmander",
+                "href": "https://github.com/att-innovate/charmander",
+                "github": "att-innovate/charmander",
+                "type": "github"
+            },
+            {
+                "title": "gopherwx",
+                "href": "https://github.com/chrissnell/gopherwx",
+                "github": "chrissnell/gopherwx",
+                "type": "github"
+            },
+            {
+                "title": "Influx-Capacitor",
+                "href": "https://github.com/poxet/Influx-Capacitor",
+                "github": "poxet/Influx-Capacitor",
+                "type": "github"
+            },
+            {
+                "title": "Influxdb-Powershell",
+                "href": "https://github.com/vsavornin/Influxdb-Powershell",
+                "github": "vsavornin/Influxdb-Powershell",
+                "type": "github"
+            },
+            {
+                "title": "influxdb-logger",
+                "href": "https://github.com/codersaur/SmartThings/tree/master/smartapps/influxdb-logger",
+                "github": "codersaur/SmartThings/tree/master/smartapps/influxdb-logger",
+                "type": "github"
+            },
+            {
+                "title": "influxdb-sqlserver",
+                "href": "https://github.com/zensqlmonitor/influxdb-sqlserver",
+                "github": "zensqlmonitor/influxdb-sqlserver",
+                "type": "github"
+            },
+            {
+                "title": "k6",
+                "href": "https://github.com/loadimpact/k6",
+                "github": "loadimpact/k6",
+                "type": "github"
+            },
+            {
+                "title": "marathon-event-metrics",
+                "href": "https://github.com/Wikia/marathon-event-metrics",
+                "github": "Wikia/marathon-event-metrics",
+                "type": "github"
+            },
+            {
+                "title": "mesos-influxdb-collector",
+                "href": "https://github.com/kpacha/mesos-influxdb-collector",
+                "github": "kpacha/mesos-influxdb-collector",
+                "type": "github"
+            },
+            {
+                "title": "mqforward",
+                "href": "https://github.com/shirou/mqforward",
+                "github": "shirou/mqforward",
+                "type": "github"
+            },
+            {
+                "title": "ntp_checker",
+                "href": "https://github.com/fss1/ntp_checker",
+                "github": "fss1/ntp_checker",
+                "type": "github"
+            },
+            {
+                "title": "sysinfo_influxdb",
+                "href": "https://github.com/novaquark/sysinfo_influxdb",
+                "github": "novaquark/sysinfo_influxdb",
+                "type": "github"
+            },
+            {
+                "title": "Telegraf",
+                "href": "https://github.com/influxdata/telegraf",
+                "github": "influxdata/telegraf",
+                "type": "github"
+            },
+            {
+                "title": "tesla-streamer",
+                "href": "https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb",
+                "github": "timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb",
+                "type": "github"
+            },
+            {
+                "title": "vsphere-influxdb-go",
+                "href": "https://github.com/Oxalide/vsphere-influxdb-go",
+                "github": "Oxalide/vsphere-influxdb-go",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Non-dedicated",
+        "childrens": [
+            {
+                "title": "cAdvisor",
+                "href": "https://github.com/google/cadvisor",
+                "github": "google/cadvisor",
+                "type": "github"
+            },
+            {
+                "title": "cernan",
+                "href": "https://github.com/postmates/cernan",
+                "github": "postmates/cernan",
+                "type": "github"
+            },
+            {
+                "title": "cloudwatch-sender",
+                "href": "https://github.com/BBC-News/cloudwatch-sender",
+                "github": "BBC-News/cloudwatch-sender",
+                "type": "github"
+            },
+            {
+                "title": "crankshaftd",
+                "href": "https://github.com/fullcontact/crankshaftd",
+                "github": "fullcontact/crankshaftd",
+                "type": "github"
+            },
+            {
+                "title": "gatling",
+                "href": "https://github.com/gatling/gatling",
+                "github": "gatling/gatling",
+                "type": "github"
+            },
+            {
+                "title": "Glances",
+                "href": "https://github.com/nicolargo/glances",
+                "github": "nicolargo/glances",
+                "type": "github"
+            },
+            {
+                "title": "Graphios",
+                "href": "https://github.com/shawn-sterling/graphios",
+                "github": "shawn-sterling/graphios",
+                "type": "github"
+            },
+            {
+                "title": "heapster",
+                "href": "https://github.com/kubernetes/heapster",
+                "github": "kubernetes/heapster",
+                "type": "github"
+            },
+            {
+                "title": "heka",
+                "href": "https://github.com/mozilla-services/heka",
+                "github": "mozilla-services/heka",
+                "type": "github"
+            },
+            {
+                "title": "internet_data_usage",
+                "href": "https://github.com/precurse/internet_data_usage",
+                "github": "precurse/internet_data_usage",
+                "type": "github"
+            },
+            {
+                "title": "jmxtrans",
+                "href": "https://github.com/jmxtrans/jmxtrans",
+                "github": "jmxtrans/jmxtrans",
+                "type": "github"
+            },
+            {
+                "title": "logary",
+                "href": "https://github.com/logary/logary",
+                "github": "logary/logary",
+                "type": "github"
+            },
+            {
+                "title": "metrics.sh",
+                "href": "https://github.com/pstadler/metrics.sh",
+                "github": "pstadler/metrics.sh",
+                "type": "github"
+            },
+            {
+                "title": "Riemann",
+                "href": "https://github.com/riemann/riemann",
+                "github": "riemann/riemann",
+                "type": "github"
+            },
+            {
+                "title": "statsd-jvm-profiler",
+                "href": "https://github.com/etsy/statsd-jvm-profiler",
+                "github": "etsy/statsd-jvm-profiler",
+                "type": "github"
+            },
+            {
+                "title": "statsite",
+                "href": "https://github.com/statsite/statsite",
+                "github": "statsite/statsite",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "crow-metrics",
+                "href": "https://github.com/robey/crow-metrics",
+                "github": "robey/crow-metrics",
+                "type": "github"
+            },
+            {
+                "title": "django-influxdb-metrics",
+                "href": "https://github.com/bitlabstudio/django-influxdb-metrics",
+                "github": "bitlabstudio/django-influxdb-metrics",
+                "type": "github"
+            },
+            {
+                "title": "go-runtime-metrics",
+                "href": "https://github.com/tevjef/go-runtime-metrics",
+                "github": "tevjef/go-runtime-metrics",
+                "type": "github"
+            },
+            {
+                "title": "lua-resty-influx",
+                "href": "https://github.com/p0pr0ck5/lua-resty-influx",
+                "github": "p0pr0ck5/lua-resty-influx",
+                "type": "github"
+            },
+            {
+                "title": "metrics",
+                "href": "https://github.com/beberlei/metrics",
+                "github": "beberlei/metrics",
+                "type": "github"
+            },
+            {
+                "title": "pyVsphereInflux",
+                "href": "https://github.com/fennm/pyVsphereInflux",
+                "github": "fennm/pyVsphereInflux",
+                "type": "github"
+            },
+            {
+                "title": "telemetry",
+                "href": "https://github.com/arussellsaw/telemetry",
+                "github": "arussellsaw/telemetry",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hooks",
+        "childrens": [
+            {
+                "title": "go-metrics-influxdb",
+                "href": "https://github.com/vrischmann/go-metrics-influxdb",
+                "github": "vrischmann/go-metrics-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "logrus_influxdb",
+                "href": "https://github.com/Abramovic/logrus_influxdb",
+                "github": "Abramovic/logrus_influxdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Plugins",
+        "childrens": [
+            {
+                "title": "embulk-output-influxdb",
+                "href": "https://github.com/joker1007/embulk-output-influxdb",
+                "github": "joker1007/embulk-output-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "exometer_influxdb",
+                "href": "https://github.com/travelping/exometer_influxdb",
+                "github": "travelping/exometer_influxdb",
+                "type": "github"
+            },
+            {
+                "title": "fluent-plugin-influxdb",
+                "href": "https://github.com/fangli/fluent-plugin-influxdb",
+                "github": "fangli/fluent-plugin-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "influx-nagios-plugin",
+                "href": "https://github.com/shaharke/influx-nagios-plugin",
+                "github": "shaharke/influx-nagios-plugin",
+                "type": "github"
+            },
+            {
+                "title": "jenkinsci/influxdb-plugin",
+                "href": "https://github.com/jenkinsci/influxdb-plugin",
+                "github": "jenkinsci/influxdb-plugin",
+                "type": "github"
+            },
+            {
+                "title": "kafka-influxdb",
+                "href": "https://github.com/mre/kafka-influxdb",
+                "github": "mre/kafka-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "logstash-output-influxdb",
+                "href": "https://github.com/logstash-plugins/logstash-output-influxdb",
+                "github": "logstash-plugins/logstash-output-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "metrics-influxdb",
+                "href": "https://github.com/davidB/metrics-influxdb",
+                "github": "davidB/metrics-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "mod-influxdb",
+                "href": "https://github.com/savoirfairelinux/mod-influxdb",
+                "github": "savoirfairelinux/mod-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "sensu-plugins-influxdb",
+                "href": "https://github.com/sensu-plugins/sensu-plugins-influxdb",
+                "github": "sensu-plugins/sensu-plugins-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "snap-plugin-publisher-influxdb",
+                "href": "https://github.com/intelsdi-x/snap-plugin-publisher-influxdb",
+                "github": "intelsdi-x/snap-plugin-publisher-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "statsd-influxdb-backend",
+                "href": "https://github.com/bernd/statsd-influxdb-backend",
+                "github": "bernd/statsd-influxdb-backend",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Import tools",
+        "childrens": [
+            {
+                "title": "nmon2influxdb",
+                "href": "https://github.com/adejoux/nmon2influxdb",
+                "github": "adejoux/nmon2influxdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dashboards and visualization",
+        "childrens": [
+            {
+                "title": "Chronograf",
+                "href": "https://github.com/influxdata/chronograf",
+                "github": "influxdata/chronograf",
+                "type": "github"
+            },
+            {
+                "title": "facette",
+                "href": "https://github.com/facette/facette",
+                "github": "facette/facette",
+                "type": "github"
+            },
+            {
+                "title": "FluxDash",
+                "href": "https://github.com/vrecan/FluxDash",
+                "github": "vrecan/FluxDash",
+                "type": "github"
+            },
+            {
+                "title": "grafana",
+                "href": "https://github.com/grafana/grafana",
+                "github": "grafana/grafana",
+                "type": "github"
+            },
+            {
+                "title": "InfluxGraph",
+                "href": "https://github.com/InfluxGraph/influxgraph",
+                "github": "InfluxGraph/influxgraph",
+                "type": "github"
+            },
+            {
+                "title": "ostent",
+                "href": "https://github.com/ostrost/ostent",
+                "github": "ostrost/ostent",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other tools",
+        "childrens": [
+            {
+                "title": "hubot-influxdb-alerts",
+                "href": "https://github.com/amwelch/hubot-influxdb-alerts",
+                "github": "amwelch/hubot-influxdb-alerts",
+                "type": "github"
+            },
+            {
+                "title": "influx-alert",
+                "href": "https://github.com/joshrendek/influx-alert",
+                "github": "joshrendek/influx-alert",
+                "type": "github"
+            },
+            {
+                "title": "influxdb_google_sheets",
+                "href": "https://github.com/HormyAJP/influxdb_google_sheets",
+                "github": "HormyAJP/influxdb_google_sheets",
+                "type": "github"
+            },
+            {
+                "title": "Morgoth",
+                "href": "https://github.com/nathanielc/morgoth",
+                "github": "nathanielc/morgoth",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Provisioning InfluxDB",
+        "childrens": [
+            {
+                "title": "chef-influxdb",
+                "href": "https://github.com/bdangit/chef-influxdb",
+                "github": "bdangit/chef-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "golja-influxdb",
+                "href": "https://github.com/dgolja/golja-influxdb",
+                "github": "dgolja/golja-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "influxdb-formula",
+                "href": "https://github.com/saltstack-formulas/influxdb-formula",
+                "github": "saltstack-formulas/influxdb-formula",
+                "type": "github"
+            },
+            {
+                "title": "influxdb-release",
+                "href": "https://github.com/pivotal-cf-experimental/influxdb-release",
+                "github": "pivotal-cf-experimental/influxdb-release",
+                "type": "github"
+            },
+            {
+                "title": "rossmcdonald/influxdb",
+                "href": "https://github.com/rossmcdonald/influxdb",
+                "github": "rossmcdonald/influxdb",
+                "type": "github"
+            },
+            {
+                "title": "tutum-docker-influxdb",
+                "href": "https://github.com/tutumcloud/influxdb",
+                "github": "tutumcloud/influxdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Queries",
+        "childrens": [
+            {
+                "title": "dbal-influxdb",
+                "href": "https://github.com/corley/dbal-influxdb",
+                "github": "corley/dbal-influxdb",
+                "type": "github"
+            },
+            {
+                "title": "Influxdb::Arel",
+                "href": "https://github.com/undr/influxdb-arel",
+                "github": "undr/influxdb-arel",
+                "type": "github"
+            },
+            {
+                "title": "influxer",
+                "href": "https://github.com/palkan/influxer",
+                "github": "palkan/influxer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "influx-protector",
+                "href": "https://github.com/ve-interactive/influx-protector",
+                "github": "ve-interactive/influx-protector",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Awesome lists that include links to InfluxDB",
+        "childrens": [
+            {
+                "title": "awesome-bigdata",
+                "href": "https://github.com/onurakpolat/awesome-bigdata",
+                "github": "onurakpolat/awesome-bigdata",
+                "type": "github"
+            },
+            {
+                "title": "awesome-dashboard",
+                "href": "https://github.com/obazoud/awesome-dashboard",
+                "github": "obazoud/awesome-dashboard",
+                "type": "github"
+            },
+            {
+                "title": "awesome-data-engineering",
+                "href": "https://github.com/igorbarinov/awesome-data-engineering",
+                "github": "igorbarinov/awesome-data-engineering",
+                "type": "github"
+            },
+            {
+                "title": "awesome-db",
+                "href": "https://github.com/numetriclabz/awesome-db",
+                "github": "numetriclabz/awesome-db",
+                "type": "github"
+            },
+            {
+                "title": "awesome-go",
+                "href": "https://github.com/avelino/awesome-go",
+                "github": "avelino/awesome-go",
+                "type": "github"
+            },
+            {
+                "title": "awesome-sysadmin",
+                "href": "https://github.com/kahun/awesome-sysadmin",
+                "github": "kahun/awesome-sysadmin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lists of awesome lists that include awesome-influxdb",
+        "childrens": [
+            {
+                "title": "awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "lists",
+                "href": "https://github.com/jnv/lists",
+                "github": "jnv/lists",
+                "type": "github"
+            }
+        ]
+    }
+]

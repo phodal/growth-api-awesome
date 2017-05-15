@@ -1,0 +1,59 @@
+[
+    {
+        "heading": "Books",
+        "childrens": [
+            {
+                "title": "Elementary Algorithms",
+                "href": "https://github.com/liuxinyu95/AlgoXY",
+                "github": "liuxinyu95/AlgoXY",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Github Libraries",
+        "childrens": [
+            {
+                "title": "C",
+                "href": "https://github.com/fragglet/c-algorithms",
+                "github": "fragglet/c-algorithms",
+                "type": "github"
+            },
+            {
+                "title": "CoffeeScript",
+                "href": "https://github.com/BrunoRB/algorithms.coffee",
+                "github": "BrunoRB/algorithms.coffee",
+                "type": "github"
+            },
+            {
+                "title": "Erlang",
+                "href": "https://github.com/aggelgian/erlang-algorithms",
+                "github": "aggelgian/erlang-algorithms",
+                "type": "github"
+            },
+            {
+                "title": "Go",
+                "href": "https://github.com/arnauddri/algorithms",
+                "github": "arnauddri/algorithms",
+                "type": "github"
+            },
+            {
+                "title": "Scala",
+                "href": "https://github.com/vkostyukov/scalacaster",
+                "github": "vkostyukov/scalacaster",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "interactive-coding-challenges",
+                "href": "https://github.com/donnemartin/interactive-coding-challenges",
+                "github": "donnemartin/interactive-coding-challenges",
+                "type": "github"
+            }
+        ]
+    }
+]

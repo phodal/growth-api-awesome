@@ -1,0 +1,1279 @@
+[
+    {
+        "heading": "Featured",
+        "childrens": [
+            {
+                "title": "Hyper",
+                "href": "https://github.com/zeit/hyper",
+                "github": "zeit/hyper",
+                "type": "github"
+            },
+            {
+                "title": "WebTorrent",
+                "href": "https://github.com/feross/webtorrent-app",
+                "github": "feross/webtorrent-app",
+                "type": "github"
+            },
+            {
+                "title": "Kap",
+                "href": "https://github.com/wulkano/kap",
+                "github": "wulkano/kap",
+                "type": "github"
+            },
+            {
+                "title": "Min",
+                "href": "https://github.com/minbrowser/min",
+                "github": "minbrowser/min",
+                "type": "github"
+            },
+            {
+                "title": "Mancy",
+                "href": "https://github.com/princejwesley/Mancy",
+                "github": "princejwesley/Mancy",
+                "type": "github"
+            },
+            {
+                "title": "SpaceRadar",
+                "href": "https://github.com/zz85/space-radar",
+                "github": "zz85/space-radar",
+                "type": "github"
+            },
+            {
+                "title": "Nocturn",
+                "href": "https://github.com/k0kubun/Nocturn",
+                "github": "k0kubun/Nocturn",
+                "type": "github"
+            },
+            {
+                "title": "Mojibar",
+                "href": "https://github.com/muan/mojibar",
+                "github": "muan/mojibar",
+                "type": "github"
+            },
+            {
+                "title": "Playback",
+                "href": "https://github.com/mafintosh/playback",
+                "github": "mafintosh/playback",
+                "type": "github"
+            },
+            {
+                "title": "Black Screen",
+                "href": "https://github.com/shockone/black-screen",
+                "github": "shockone/black-screen",
+                "type": "github"
+            },
+            {
+                "title": "Atom",
+                "href": "https://github.com/atom/atom",
+                "github": "atom/atom",
+                "type": "github"
+            },
+            {
+                "title": "Visual Studio Code",
+                "href": "https://github.com/Microsoft/vscode",
+                "github": "Microsoft/vscode",
+                "type": "github"
+            },
+            {
+                "title": "Nylas N1",
+                "href": "https://github.com/nylas/N1",
+                "github": "nylas/N1",
+                "type": "github"
+            },
+            {
+                "title": "Brave",
+                "href": "https://github.com/brave/browser-laptop",
+                "github": "brave/browser-laptop",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "Git-it",
+                "href": "https://github.com/jlord/git-it-electron",
+                "github": "jlord/git-it-electron",
+                "type": "github"
+            },
+            {
+                "title": "Caprine",
+                "href": "https://github.com/sindresorhus/caprine",
+                "github": "sindresorhus/caprine",
+                "type": "github"
+            },
+            {
+                "title": "Simplenote",
+                "href": "https://github.com/Automattic/simplenote-electron",
+                "github": "Automattic/simplenote-electron",
+                "type": "github"
+            },
+            {
+                "title": "nuTorrent",
+                "href": "https://github.com/LeeChSien/nuTorrent",
+                "github": "LeeChSien/nuTorrent",
+                "type": "github"
+            },
+            {
+                "title": "Abricotine",
+                "href": "https://github.com/brrd/Abricotine",
+                "github": "brrd/Abricotine",
+                "type": "github"
+            },
+            {
+                "title": "Medis",
+                "href": "https://github.com/luin/medis",
+                "github": "luin/medis",
+                "type": "github"
+            },
+            {
+                "title": "Kakapo",
+                "href": "https://github.com/bluedaniel/kakapo-app",
+                "github": "bluedaniel/kakapo-app",
+                "type": "github"
+            },
+            {
+                "title": "SmartMirror",
+                "href": "https://github.com/evancohen/smart-mirror",
+                "github": "evancohen/smart-mirror",
+                "type": "github"
+            },
+            {
+                "title": "Koko",
+                "href": "https://github.com/hachibasu/koko",
+                "github": "hachibasu/koko",
+                "type": "github"
+            },
+            {
+                "title": "KeeWeb",
+                "href": "https://github.com/keeweb/keeweb",
+                "github": "keeweb/keeweb",
+                "type": "github"
+            },
+            {
+                "title": "Soundcast",
+                "href": "https://github.com/andresgottlieb/soundcast",
+                "github": "andresgottlieb/soundcast",
+                "type": "github"
+            },
+            {
+                "title": "Gitify",
+                "href": "https://github.com/ekonstantinidis/gitify",
+                "github": "ekonstantinidis/gitify",
+                "type": "github"
+            },
+            {
+                "title": "Friends",
+                "href": "https://github.com/moose-team/friends",
+                "github": "moose-team/friends",
+                "type": "github"
+            },
+            {
+                "title": "Cumulus",
+                "href": "https://github.com/gillesdemey/Cumulus",
+                "github": "gillesdemey/Cumulus",
+                "type": "github"
+            },
+            {
+                "title": "FatFileFinder",
+                "href": "https://github.com/pwambach/fat-file-finder",
+                "github": "pwambach/fat-file-finder",
+                "type": "github"
+            },
+            {
+                "title": "ScreenCat",
+                "href": "https://github.com/maxogden/screencat",
+                "github": "maxogden/screencat",
+                "type": "github"
+            },
+            {
+                "title": "Gulp",
+                "href": "https://github.com/sindresorhus/gulp-app",
+                "github": "sindresorhus/gulp-app",
+                "type": "github"
+            },
+            {
+                "title": "Mapbox Studio",
+                "href": "https://github.com/mapbox/mapbox-studio",
+                "github": "mapbox/mapbox-studio",
+                "type": "github"
+            },
+            {
+                "title": "LevelUI",
+                "href": "https://github.com/hij1nx/levelui",
+                "github": "hij1nx/levelui",
+                "type": "github"
+            },
+            {
+                "title": "Kart",
+                "href": "https://github.com/maddox/kart",
+                "github": "maddox/kart",
+                "type": "github"
+            },
+            {
+                "title": "Vmd",
+                "href": "https://github.com/yoshuawuyts/vmd",
+                "github": "yoshuawuyts/vmd",
+                "type": "github"
+            },
+            {
+                "title": "Kyoku",
+                "href": "https://github.com/cheeaun/kyoku",
+                "github": "cheeaun/kyoku",
+                "type": "github"
+            },
+            {
+                "title": "GReader",
+                "href": "https://github.com/Nekle/greader",
+                "github": "Nekle/greader",
+                "type": "github"
+            },
+            {
+                "title": "Leanote",
+                "href": "https://github.com/leanote/desktop-app",
+                "github": "leanote/desktop-app",
+                "type": "github"
+            },
+            {
+                "title": "Snapper",
+                "href": "https://github.com/prt2121/Snapper",
+                "github": "prt2121/Snapper",
+                "type": "github"
+            },
+            {
+                "title": "Imagemin",
+                "href": "https://github.com/imagemin/imagemin-app",
+                "github": "imagemin/imagemin-app",
+                "type": "github"
+            },
+            {
+                "title": "We Build SG",
+                "href": "https://github.com/webuildsg/osx",
+                "github": "webuildsg/osx",
+                "type": "github"
+            },
+            {
+                "title": "Piglet",
+                "href": "https://github.com/jenslind/piglet",
+                "github": "jenslind/piglet",
+                "type": "github"
+            },
+            {
+                "title": "Yoda",
+                "href": "https://github.com/whoisandie/yoda",
+                "github": "whoisandie/yoda",
+                "type": "github"
+            },
+            {
+                "title": "Loop Drop",
+                "href": "https://github.com/mmckegg/loop-drop-app",
+                "github": "mmckegg/loop-drop-app",
+                "type": "github"
+            },
+            {
+                "title": "Toby",
+                "href": "https://github.com/frankhale/toby",
+                "github": "frankhale/toby",
+                "type": "github"
+            },
+            {
+                "title": "Kaku",
+                "href": "https://github.com/EragonJ/Kaku",
+                "github": "EragonJ/Kaku",
+                "type": "github"
+            },
+            {
+                "title": "Yeoman",
+                "href": "https://github.com/yeoman/yeoman-app",
+                "github": "yeoman/yeoman-app",
+                "type": "github"
+            },
+            {
+                "title": "Markn",
+                "href": "https://github.com/minodisk/markn",
+                "github": "minodisk/markn",
+                "type": "github"
+            },
+            {
+                "title": "Shiba",
+                "href": "https://github.com/rhysd/Shiba",
+                "github": "rhysd/Shiba",
+                "type": "github"
+            },
+            {
+                "title": "Yays",
+                "href": "https://github.com/Bahlaouane-Hamza/Yays",
+                "github": "Bahlaouane-Hamza/Yays",
+                "type": "github"
+            },
+            {
+                "title": "TimoFM",
+                "href": "https://github.com/sapjax/TimoFM",
+                "github": "sapjax/TimoFM",
+                "type": "github"
+            },
+            {
+                "title": "Monu",
+                "href": "https://github.com/maxogden/monu",
+                "github": "maxogden/monu",
+                "type": "github"
+            },
+            {
+                "title": "DevDocs",
+                "href": "https://github.com/egoist/devdocs-app",
+                "github": "egoist/devdocs-app",
+                "type": "github"
+            },
+            {
+                "title": "google-music-electron",
+                "href": "https://github.com/twolfson/google-music-electron",
+                "github": "twolfson/google-music-electron",
+                "type": "github"
+            },
+            {
+                "title": "MarkRight",
+                "href": "https://github.com/dvcrn/markright",
+                "github": "dvcrn/markright",
+                "type": "github"
+            },
+            {
+                "title": "Mongotron",
+                "href": "https://github.com/officert/mongotron",
+                "github": "officert/mongotron",
+                "type": "github"
+            },
+            {
+                "title": "Colonizers",
+                "href": "https://github.com/colonizers/colonizers-desktop",
+                "github": "colonizers/colonizers-desktop",
+                "type": "github"
+            },
+            {
+                "title": "Eintopf",
+                "href": "https://github.com/mazehall/eintopf",
+                "github": "mazehall/eintopf",
+                "type": "github"
+            },
+            {
+                "title": "WhatsDesktop",
+                "href": "https://github.com/mawie81/whatsdesktop",
+                "github": "mawie81/whatsdesktop",
+                "type": "github"
+            },
+            {
+                "title": "Sqlectron",
+                "href": "https://github.com/sqlectron/sqlectron-gui",
+                "github": "sqlectron/sqlectron-gui",
+                "type": "github"
+            },
+            {
+                "title": "docker-indicator",
+                "href": "https://github.com/khornberg/docker-indicator",
+                "github": "khornberg/docker-indicator",
+                "type": "github"
+            },
+            {
+                "title": "Light Table",
+                "href": "https://github.com/LightTable/LightTable",
+                "github": "LightTable/LightTable",
+                "type": "github"
+            },
+            {
+                "title": "Tubehead",
+                "href": "https://github.com/makotot/Tubehead",
+                "github": "makotot/Tubehead",
+                "type": "github"
+            },
+            {
+                "title": "Google Play Music Desktop Player",
+                "href": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
+                "github": "MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
+                "type": "github"
+            },
+            {
+                "title": "Chrome DevTools",
+                "href": "https://github.com/auchenberg/chrome-devtools-app",
+                "github": "auchenberg/chrome-devtools-app",
+                "type": "github"
+            },
+            {
+                "title": "Yeobara",
+                "href": "https://github.com/yeobara/yeobara-desktop",
+                "github": "yeobara/yeobara-desktop",
+                "type": "github"
+            },
+            {
+                "title": "Proton",
+                "href": "https://github.com/steventhanna/proton",
+                "github": "steventhanna/proton",
+                "type": "github"
+            },
+            {
+                "title": "James",
+                "href": "https://github.com/uxebu/james",
+                "github": "uxebu/james",
+                "type": "github"
+            },
+            {
+                "title": "DTCP",
+                "href": "https://github.com/alchen/DTCP",
+                "github": "alchen/DTCP",
+                "type": "github"
+            },
+            {
+                "title": "Inbox",
+                "href": "https://github.com/fgnass/inbox-app",
+                "github": "fgnass/inbox-app",
+                "type": "github"
+            },
+            {
+                "title": "tweet-rec",
+                "href": "https://github.com/midnightSuyama/tweet-rec",
+                "github": "midnightSuyama/tweet-rec",
+                "type": "github"
+            },
+            {
+                "title": "Snippet Bar",
+                "href": "https://github.com/teesloane/snippet-bar",
+                "github": "teesloane/snippet-bar",
+                "type": "github"
+            },
+            {
+                "title": "Electronic WeChat",
+                "href": "https://github.com/geeeeeeeeek/electronic-wechat",
+                "github": "geeeeeeeeek/electronic-wechat",
+                "type": "github"
+            },
+            {
+                "title": "dida",
+                "href": "https://github.com/xwartz/dida",
+                "github": "xwartz/dida",
+                "type": "github"
+            },
+            {
+                "title": "FromScratch",
+                "href": "https://github.com/kilian/fromscratch",
+                "github": "kilian/fromscratch",
+                "type": "github"
+            },
+            {
+                "title": "Hawkpass",
+                "href": "https://github.com/kalpetros/hawkpass-desktop",
+                "github": "kalpetros/hawkpass-desktop",
+                "type": "github"
+            },
+            {
+                "title": "Gokotta",
+                "href": "https://github.com/Zhangdroid/Gokotta",
+                "github": "Zhangdroid/Gokotta",
+                "type": "github"
+            },
+            {
+                "title": "Shake",
+                "href": "https://github.com/lumios/shake",
+                "github": "lumios/shake",
+                "type": "github"
+            },
+            {
+                "title": "Fog",
+                "href": "https://github.com/vitorgalvao/fog",
+                "github": "vitorgalvao/fog",
+                "type": "github"
+            },
+            {
+                "title": "Wmail",
+                "href": "https://github.com/Thomas101/wmail",
+                "github": "Thomas101/wmail",
+                "type": "github"
+            },
+            {
+                "title": "Boostnote",
+                "href": "https://github.com/BoostIO/Boostnote",
+                "github": "BoostIO/Boostnote",
+                "type": "github"
+            },
+            {
+                "title": "Before Dawn",
+                "href": "https://github.com/muffinista/before-dawn",
+                "github": "muffinista/before-dawn",
+                "type": "github"
+            },
+            {
+                "title": "Active Collab",
+                "href": "https://github.com/nurtext/active-collab-desktop",
+                "github": "nurtext/active-collab-desktop",
+                "type": "github"
+            },
+            {
+                "title": "Hain",
+                "href": "https://github.com/appetizermonster/hain",
+                "github": "appetizermonster/hain",
+                "type": "github"
+            },
+            {
+                "title": "Catify",
+                "href": "https://github.com/MeoBeoI/Catify",
+                "github": "MeoBeoI/Catify",
+                "type": "github"
+            },
+            {
+                "title": "Minira",
+                "href": "https://github.com/jenslind/minira",
+                "github": "jenslind/minira",
+                "type": "github"
+            },
+            {
+                "title": "Ansel",
+                "href": "https://github.com/m0g/ansel",
+                "github": "m0g/ansel",
+                "type": "github"
+            },
+            {
+                "title": "Cuttle",
+                "href": "https://github.com/oakmac/cuttle",
+                "github": "oakmac/cuttle",
+                "type": "github"
+            },
+            {
+                "title": "Build Checker App",
+                "href": "https://github.com/willmendesneto/build-checker-app",
+                "github": "willmendesneto/build-checker-app",
+                "type": "github"
+            },
+            {
+                "title": "Backer Timetracker",
+                "href": "https://github.com/MayGo/backer-timetracker",
+                "github": "MayGo/backer-timetracker",
+                "type": "github"
+            },
+            {
+                "title": "Ghost",
+                "href": "https://github.com/tryghost/ghost-desktop",
+                "github": "tryghost/ghost-desktop",
+                "type": "github"
+            },
+            {
+                "title": "Anatine",
+                "href": "https://github.com/sindresorhus/anatine",
+                "github": "sindresorhus/anatine",
+                "type": "github"
+            },
+            {
+                "title": "Mattermost",
+                "href": "https://github.com/mattermost/desktop",
+                "github": "mattermost/desktop",
+                "type": "github"
+            },
+            {
+                "title": "PupaFM",
+                "href": "https://github.com/xwartz/PupaFM",
+                "github": "xwartz/PupaFM",
+                "type": "github"
+            },
+            {
+                "title": "MediumDesk",
+                "href": "https://github.com/sivragav/mediumdesk",
+                "github": "sivragav/mediumdesk",
+                "type": "github"
+            },
+            {
+                "title": "Lightgallery",
+                "href": "https://github.com/sachinchoolur/lightgallery-desktop",
+                "github": "sachinchoolur/lightgallery-desktop",
+                "type": "github"
+            },
+            {
+                "title": "Crypter",
+                "href": "https://github.com/HR/Crypter",
+                "github": "HR/Crypter",
+                "type": "github"
+            },
+            {
+                "title": "YakYak",
+                "href": "https://github.com/yakyak/yakyak",
+                "github": "yakyak/yakyak",
+                "type": "github"
+            },
+            {
+                "title": "Museeks",
+                "href": "https://github.com/KeitIG/museeks",
+                "github": "KeitIG/museeks",
+                "type": "github"
+            },
+            {
+                "title": "VOX",
+                "href": "https://github.com/fresk-nc/VOX",
+                "github": "fresk-nc/VOX",
+                "type": "github"
+            },
+            {
+                "title": "Marky",
+                "href": "https://github.com/vesparny/marky",
+                "github": "vesparny/marky",
+                "type": "github"
+            },
+            {
+                "title": "Deco",
+                "href": "https://github.com/decosoftware/deco-ide",
+                "github": "decosoftware/deco-ide",
+                "type": "github"
+            },
+            {
+                "title": "Toshocat",
+                "href": "https://github.com/tofuness/Toshocat",
+                "github": "tofuness/Toshocat",
+                "type": "github"
+            },
+            {
+                "title": "iStats",
+                "href": "https://github.com/ningt/iStats",
+                "github": "ningt/iStats",
+                "type": "github"
+            },
+            {
+                "title": "Wire",
+                "href": "https://github.com/wireapp/wire-desktop",
+                "github": "wireapp/wire-desktop",
+                "type": "github"
+            },
+            {
+                "title": "Ramme",
+                "href": "https://github.com/terkelg/ramme",
+                "github": "terkelg/ramme",
+                "type": "github"
+            },
+            {
+                "title": "Moonview",
+                "href": "https://github.com/teesloane/moonview",
+                "github": "teesloane/moonview",
+                "type": "github"
+            },
+            {
+                "title": "DBGlass",
+                "href": "https://github.com/web-pal/DBGlass",
+                "github": "web-pal/DBGlass",
+                "type": "github"
+            },
+            {
+                "title": "Slide Beacon",
+                "href": "https://github.com/dermike/slide-beacon-app",
+                "github": "dermike/slide-beacon-app",
+                "type": "github"
+            },
+            {
+                "title": "Rambox",
+                "href": "https://github.com/saenzramiro/rambox",
+                "github": "saenzramiro/rambox",
+                "type": "github"
+            },
+            {
+                "title": "Extraterm",
+                "href": "https://github.com/sedwards2009/extraterm",
+                "github": "sedwards2009/extraterm",
+                "type": "github"
+            },
+            {
+                "title": "Materialette",
+                "href": "https://github.com/mike-schultz/materialette",
+                "github": "mike-schultz/materialette",
+                "type": "github"
+            },
+            {
+                "title": "Dext",
+                "href": "https://github.com/vutran/dext",
+                "github": "vutran/dext",
+                "type": "github"
+            },
+            {
+                "title": "PB for Desktop",
+                "href": "https://github.com/sidneys/pb-for-desktop",
+                "github": "sidneys/pb-for-desktop",
+                "type": "github"
+            },
+            {
+                "title": "GroupMe",
+                "href": "https://github.com/dcrousso/GroupMe",
+                "github": "dcrousso/GroupMe",
+                "type": "github"
+            },
+            {
+                "title": "ndm",
+                "href": "https://github.com/720kb/ndm",
+                "github": "720kb/ndm",
+                "type": "github"
+            },
+            {
+                "title": "GIFBar",
+                "href": "https://github.com/dcrousso/GIFBar",
+                "github": "dcrousso/GIFBar",
+                "type": "github"
+            },
+            {
+                "title": "Stacer",
+                "href": "https://github.com/oguzhaninan/Stacer",
+                "github": "oguzhaninan/Stacer",
+                "type": "github"
+            },
+            {
+                "title": "Zazu",
+                "href": "https://github.com/tinytacoteam/zazu",
+                "github": "tinytacoteam/zazu",
+                "type": "github"
+            },
+            {
+                "title": "Inpad",
+                "href": "https://github.com/sarah-seo/Inpad",
+                "github": "sarah-seo/Inpad",
+                "type": "github"
+            },
+            {
+                "title": "Cerebro",
+                "href": "https://github.com/KELiON/cerebro",
+                "github": "KELiON/cerebro",
+                "type": "github"
+            },
+            {
+                "title": "Desktop Dimmer",
+                "href": "https://github.com/sidneys/desktop-dimmer",
+                "github": "sidneys/desktop-dimmer",
+                "type": "github"
+            },
+            {
+                "title": "LosslessCut",
+                "href": "https://github.com/mifi/lossless-cut",
+                "github": "mifi/lossless-cut",
+                "type": "github"
+            },
+            {
+                "title": "Wexond",
+                "href": "https://github.com/sential/wexond",
+                "github": "sential/wexond",
+                "type": "github"
+            },
+            {
+                "title": "Buka",
+                "href": "https://github.com/oguzhaninan/Buka",
+                "github": "oguzhaninan/Buka",
+                "type": "github"
+            },
+            {
+                "title": "Insomnia",
+                "href": "https://github.com/getinsomnia/lnsomnia",
+                "github": "getinsomnia/lnsomnia",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Samples",
+        "childrens": [
+            {
+                "title": "Electron API usage",
+                "href": "https://github.com/hokein/electron-sample-apps",
+                "github": "hokein/electron-sample-apps",
+                "type": "github"
+            },
+            {
+                "title": "Screen Recorder",
+                "href": "https://github.com/hokein/electron-screen-recorder",
+                "github": "hokein/electron-screen-recorder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boilerplates",
+        "childrens": [
+            {
+                "title": "electron-boilerplate",
+                "href": "https://github.com/sindresorhus/electron-boilerplate",
+                "github": "sindresorhus/electron-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "generator-electron",
+                "href": "https://github.com/sindresorhus/generator-electron",
+                "github": "sindresorhus/generator-electron",
+                "type": "github"
+            },
+            {
+                "title": "electron-boilerplate",
+                "href": "https://github.com/szwacz/electron-boilerplate",
+                "github": "szwacz/electron-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "electron-react-boilerplate",
+                "href": "https://github.com/chentsulin/electron-react-boilerplate",
+                "github": "chentsulin/electron-react-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "descjop",
+                "href": "https://github.com/karad/lein_template_descjop",
+                "github": "karad/lein_template_descjop",
+                "type": "github"
+            },
+            {
+                "title": "electron-quick-start",
+                "href": "https://github.com/electron/electron-quick-start",
+                "github": "electron/electron-quick-start",
+                "type": "github"
+            },
+            {
+                "title": "bozon",
+                "href": "https://github.com/railsware/bozon",
+                "github": "railsware/bozon",
+                "type": "github"
+            },
+            {
+                "title": "electron-vue",
+                "href": "https://github.com/SimulatedGREG/electron-vue",
+                "github": "SimulatedGREG/electron-vue",
+                "type": "github"
+            },
+            {
+                "title": "SkelEktron",
+                "href": "https://github.com/BZCoding/SkelEktron",
+                "github": "BZCoding/SkelEktron",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "For Electron",
+        "childrens": [
+            {
+                "title": "electron-builder",
+                "href": "https://github.com/electron-userland/electron-builder",
+                "github": "electron-userland/electron-builder",
+                "type": "github"
+            },
+            {
+                "title": "electron-prebuilt",
+                "href": "https://github.com/electron-userland/electron-prebuilt",
+                "github": "electron-userland/electron-prebuilt",
+                "type": "github"
+            },
+            {
+                "title": "devtron",
+                "href": "https://github.com/electron/devtron",
+                "github": "electron/devtron",
+                "type": "github"
+            },
+            {
+                "title": "electron-packager",
+                "href": "https://github.com/electron-userland/electron-packager",
+                "github": "electron-userland/electron-packager",
+                "type": "github"
+            },
+            {
+                "title": "electron-debug",
+                "href": "https://github.com/sindresorhus/electron-debug",
+                "github": "sindresorhus/electron-debug",
+                "type": "github"
+            },
+            {
+                "title": "electron-is-dev",
+                "href": "https://github.com/sindresorhus/electron-is-dev",
+                "github": "sindresorhus/electron-is-dev",
+                "type": "github"
+            },
+            {
+                "title": "electron-localshortcut",
+                "href": "https://github.com/parro-it/electron-localshortcut",
+                "github": "parro-it/electron-localshortcut",
+                "type": "github"
+            },
+            {
+                "title": "electron-gh-release",
+                "href": "https://github.com/jenslind/electron-gh-releases",
+                "github": "jenslind/electron-gh-releases",
+                "type": "github"
+            },
+            {
+                "title": "electron-release",
+                "href": "https://github.com/jenslind/electron-release",
+                "github": "jenslind/electron-release",
+                "type": "github"
+            },
+            {
+                "title": "electron-updater",
+                "href": "https://github.com/evolvelabs/electron-updater",
+                "github": "evolvelabs/electron-updater",
+                "type": "github"
+            },
+            {
+                "title": "fix-path",
+                "href": "https://github.com/sindresorhus/fix-path",
+                "github": "sindresorhus/fix-path",
+                "type": "github"
+            },
+            {
+                "title": "auto-launch",
+                "href": "https://github.com/Teamwork/node-auto-launch",
+                "github": "Teamwork/node-auto-launch",
+                "type": "github"
+            },
+            {
+                "title": "nuts",
+                "href": "https://github.com/GitbookIO/nuts",
+                "github": "GitbookIO/nuts",
+                "type": "github"
+            },
+            {
+                "title": "electron-dl",
+                "href": "https://github.com/sindresorhus/electron-dl",
+                "github": "sindresorhus/electron-dl",
+                "type": "github"
+            },
+            {
+                "title": "electron-release-server",
+                "href": "https://github.com/ArekSredzki/electron-release-server",
+                "github": "ArekSredzki/electron-release-server",
+                "type": "github"
+            },
+            {
+                "title": "electron-rebuild",
+                "href": "https://github.com/electron/electron-rebuild",
+                "github": "electron/electron-rebuild",
+                "type": "github"
+            },
+            {
+                "title": "electron-compile",
+                "href": "https://github.com/electron/electron-compile",
+                "github": "electron/electron-compile",
+                "type": "github"
+            },
+            {
+                "title": "electron-positioner",
+                "href": "https://github.com/jenslind/electron-positioner",
+                "github": "jenslind/electron-positioner",
+                "type": "github"
+            },
+            {
+                "title": "electron-window-state",
+                "href": "https://github.com/mawie81/electron-window-state",
+                "github": "mawie81/electron-window-state",
+                "type": "github"
+            },
+            {
+                "title": "electron-drag",
+                "href": "https://github.com/kapetan/electron-drag",
+                "github": "kapetan/electron-drag",
+                "type": "github"
+            },
+            {
+                "title": "debug-menu",
+                "href": "https://github.com/parro-it/debug-menu",
+                "github": "parro-it/debug-menu",
+                "type": "github"
+            },
+            {
+                "title": "electron-installer-debian",
+                "href": "https://github.com/unindented/electron-installer-debian",
+                "github": "unindented/electron-installer-debian",
+                "type": "github"
+            },
+            {
+                "title": "electron-installer-redhat",
+                "href": "https://github.com/unindented/electron-installer-redhat",
+                "github": "unindented/electron-installer-redhat",
+                "type": "github"
+            },
+            {
+                "title": "electron-installer-windows",
+                "href": "https://github.com/unindented/electron-installer-windows",
+                "github": "unindented/electron-installer-windows",
+                "type": "github"
+            },
+            {
+                "title": "electron-sudo",
+                "href": "https://github.com/automation-stack/electron-sudo",
+                "github": "automation-stack/electron-sudo",
+                "type": "github"
+            },
+            {
+                "title": "electron-json-storage",
+                "href": "https://github.com/jviotti/electron-json-storage",
+                "github": "jviotti/electron-json-storage",
+                "type": "github"
+            },
+            {
+                "title": "electron-download",
+                "href": "https://github.com/electron-userland/electron-download",
+                "github": "electron-userland/electron-download",
+                "type": "github"
+            },
+            {
+                "title": "ipc-stream",
+                "href": "https://github.com/jprichardson/electron-ipc-stream",
+                "github": "jprichardson/electron-ipc-stream",
+                "type": "github"
+            },
+            {
+                "title": "is-electron-renderer",
+                "href": "https://github.com/jprichardson/is-electron-renderer",
+                "github": "jprichardson/is-electron-renderer",
+                "type": "github"
+            },
+            {
+                "title": "electron-osx-sign",
+                "href": "https://github.com/electron-userland/electron-osx-sign",
+                "github": "electron-userland/electron-osx-sign",
+                "type": "github"
+            },
+            {
+                "title": "electron-detach",
+                "href": "https://github.com/parro-it/electron-detach",
+                "github": "parro-it/electron-detach",
+                "type": "github"
+            },
+            {
+                "title": "ember-electron",
+                "href": "https://github.com/felixrieseberg/ember-electron",
+                "github": "felixrieseberg/ember-electron",
+                "type": "github"
+            },
+            {
+                "title": "electrify",
+                "href": "https://github.com/arboleya/electrify",
+                "github": "arboleya/electrify",
+                "type": "github"
+            },
+            {
+                "title": "spectron",
+                "href": "https://github.com/electron/spectron",
+                "github": "electron/spectron",
+                "type": "github"
+            },
+            {
+                "title": "babel-preset-electron",
+                "href": "https://github.com/emorikawa/babel-preset-electron",
+                "github": "emorikawa/babel-preset-electron",
+                "type": "github"
+            },
+            {
+                "title": "electron-is",
+                "href": "https://github.com/delvedor/electron-is",
+                "github": "delvedor/electron-is",
+                "type": "github"
+            },
+            {
+                "title": "electron-osx-appearance",
+                "href": "https://github.com/danhp/electron-osx-appearance",
+                "github": "danhp/electron-osx-appearance",
+                "type": "github"
+            },
+            {
+                "title": "electron-config",
+                "href": "https://github.com/sindresorhus/electron-config",
+                "github": "sindresorhus/electron-config",
+                "type": "github"
+            },
+            {
+                "title": "electron-context-menu",
+                "href": "https://github.com/sindresorhus/electron-context-menu",
+                "github": "sindresorhus/electron-context-menu",
+                "type": "github"
+            },
+            {
+                "title": "electron-require",
+                "href": "https://github.com/brrd/electron-require",
+                "github": "brrd/electron-require",
+                "type": "github"
+            },
+            {
+                "title": "NeDB",
+                "href": "https://github.com/louischatriot/nedb",
+                "github": "louischatriot/nedb",
+                "type": "github"
+            },
+            {
+                "title": "electron-devtools-installer",
+                "href": "https://github.com/GPMDP/electron-devtools-installer",
+                "github": "GPMDP/electron-devtools-installer",
+                "type": "github"
+            },
+            {
+                "title": "electron-log",
+                "href": "https://github.com/megahertz/electron-log",
+                "github": "megahertz/electron-log",
+                "type": "github"
+            },
+            {
+                "title": "electron-redux",
+                "href": "https://github.com/hardchor/electron-redux",
+                "github": "hardchor/electron-redux",
+                "type": "github"
+            },
+            {
+                "title": "electron-vibrancy",
+                "href": "https://github.com/arkenthera/electron-vibrancy",
+                "github": "arkenthera/electron-vibrancy",
+                "type": "github"
+            },
+            {
+                "title": "electron-about-window",
+                "href": "https://github.com/rhysd/electron-about-window",
+                "github": "rhysd/electron-about-window",
+                "type": "github"
+            },
+            {
+                "title": "elemon",
+                "href": "https://github.com/manidlou/elemon",
+                "github": "manidlou/elemon",
+                "type": "github"
+            },
+            {
+                "title": "electron-is-accelerator",
+                "href": "https://github.com/brrd/electron-is-accelerator",
+                "github": "brrd/electron-is-accelerator",
+                "type": "github"
+            },
+            {
+                "title": "electron-pdf-window",
+                "href": "https://github.com/gerhardberger/electron-pdf-window",
+                "github": "gerhardberger/electron-pdf-window",
+                "type": "github"
+            },
+            {
+                "title": "electron-router",
+                "href": "https://github.com/m0n0l0c0/electron-router",
+                "github": "m0n0l0c0/electron-router",
+                "type": "github"
+            },
+            {
+                "title": "electron-lets-move",
+                "href": "https://github.com/tommoor/electron-lets-move",
+                "github": "tommoor/electron-lets-move",
+                "type": "github"
+            },
+            {
+                "title": "electron-settings",
+                "href": "https://github.com/nathanbuchar/electron-settings",
+                "github": "nathanbuchar/electron-settings",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Using Electron",
+        "childrens": [
+            {
+                "title": "devtool",
+                "href": "https://github.com/Jam3/devtool",
+                "github": "Jam3/devtool",
+                "type": "github"
+            },
+            {
+                "title": "nativefier",
+                "href": "https://github.com/jiahaog/nativefier",
+                "github": "jiahaog/nativefier",
+                "type": "github"
+            },
+            {
+                "title": "electron-stream",
+                "href": "https://github.com/juliangruber/electron-stream",
+                "github": "juliangruber/electron-stream",
+                "type": "github"
+            },
+            {
+                "title": "electron-pdf",
+                "href": "https://github.com/fraserxu/electron-pdf",
+                "github": "fraserxu/electron-pdf",
+                "type": "github"
+            },
+            {
+                "title": "Geojsonapp",
+                "href": "https://github.com/mick/geojsonapp",
+                "github": "mick/geojsonapp",
+                "type": "github"
+            },
+            {
+                "title": "electron-mocha",
+                "href": "https://github.com/jprichardson/electron-mocha",
+                "github": "jprichardson/electron-mocha",
+                "type": "github"
+            },
+            {
+                "title": "electron-har",
+                "href": "https://github.com/shyiko/electron-har",
+                "github": "shyiko/electron-har",
+                "type": "github"
+            },
+            {
+                "title": "electron-windows-store",
+                "href": "https://github.com/catalystcode/electron-windows-store",
+                "github": "catalystcode/electron-windows-store",
+                "type": "github"
+            },
+            {
+                "title": "Reactotron",
+                "href": "https://github.com/reactotron/reactotron",
+                "github": "reactotron/reactotron",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Components",
+        "childrens": [
+            {
+                "title": "React PhotonKit",
+                "href": "https://github.com/react-photonkit/react-photonkit",
+                "github": "react-photonkit/react-photonkit",
+                "type": "github"
+            },
+            {
+                "title": "menubar",
+                "href": "https://github.com/maxogden/menubar",
+                "github": "maxogden/menubar",
+                "type": "github"
+            },
+            {
+                "title": "cookies",
+                "href": "https://github.com/hstove/electron-cookies",
+                "github": "hstove/electron-cookies",
+                "type": "github"
+            },
+            {
+                "title": "window",
+                "href": "https://github.com/jprichardson/electron-window",
+                "github": "jprichardson/electron-window",
+                "type": "github"
+            },
+            {
+                "title": "React Desktop",
+                "href": "https://github.com/gabrielbull/react-desktop",
+                "github": "gabrielbull/react-desktop",
+                "type": "github"
+            },
+            {
+                "title": "electron-input-menu",
+                "href": "https://github.com/parro-it/electron-input-menu",
+                "github": "parro-it/electron-input-menu",
+                "type": "github"
+            },
+            {
+                "title": "chrome-tabs",
+                "href": "https://github.com/adamschwartz/chrome-tabs",
+                "github": "adamschwartz/chrome-tabs",
+                "type": "github"
+            },
+            {
+                "title": "titlebar",
+                "href": "https://github.com/kapetan/titlebar",
+                "github": "kapetan/titlebar",
+                "type": "github"
+            },
+            {
+                "title": "Brightwheel",
+                "href": "https://github.com/loranallensmith/brightwheel",
+                "github": "loranallensmith/brightwheel",
+                "type": "github"
+            }
+        ]
+    }
+]

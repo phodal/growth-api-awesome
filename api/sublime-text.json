@@ -1,0 +1,442 @@
+[
+    {
+        "heading": "General Purpose",
+        "childrens": [
+            {
+                "title": "Sidebar Enhancements",
+                "href": "https://github.com/titoBouzout/SideBarEnhancements",
+                "github": "titoBouzout/SideBarEnhancements",
+                "type": "github"
+            },
+            {
+                "title": "Trailing Spaces",
+                "href": "https://github.com/SublimeText/TrailingSpaces",
+                "github": "SublimeText/TrailingSpaces",
+                "type": "github"
+            },
+            {
+                "title": "GitGutter",
+                "href": "https://github.com/jisaacks/GitGutter",
+                "github": "jisaacks/GitGutter",
+                "type": "github"
+            },
+            {
+                "title": "EditorConfig",
+                "href": "https://github.com/sindresorhus/editorconfig-sublime",
+                "github": "sindresorhus/editorconfig-sublime",
+                "type": "github"
+            },
+            {
+                "title": "SublimeLinter",
+                "href": "https://github.com/SublimeLinter/SublimeLinter3",
+                "github": "SublimeLinter/SublimeLinter3",
+                "type": "github"
+            },
+            {
+                "title": "Sublime Worksheet",
+                "href": "https://github.com/jcartledge/sublime-worksheet",
+                "github": "jcartledge/sublime-worksheet",
+                "type": "github"
+            },
+            {
+                "title": "Sublime Alignment",
+                "href": "https://github.com/wbond/sublime_alignment",
+                "github": "wbond/sublime_alignment",
+                "type": "github"
+            },
+            {
+                "title": "ApplySyntax",
+                "href": "https://github.com/facelessuser/ApplySyntax",
+                "github": "facelessuser/ApplySyntax",
+                "type": "github"
+            },
+            {
+                "title": "All Autocomplete",
+                "href": "https://github.com/alienhard/SublimeAllAutocomplete",
+                "github": "alienhard/SublimeAllAutocomplete",
+                "type": "github"
+            },
+            {
+                "title": "SublimeREPL",
+                "href": "https://github.com/wuub/SublimeREPL",
+                "github": "wuub/SublimeREPL",
+                "type": "github"
+            },
+            {
+                "title": "FindKeyConflicts",
+                "href": "https://github.com/skuroda/FindKeyConflicts",
+                "github": "skuroda/FindKeyConflicts",
+                "type": "github"
+            },
+            {
+                "title": "Glue",
+                "href": "https://github.com/chrissimpkins/glue",
+                "github": "chrissimpkins/glue",
+                "type": "github"
+            },
+            {
+                "title": "File Navigator",
+                "href": "https://github.com/csch0/SublimeText-File-Navigator",
+                "github": "csch0/SublimeText-File-Navigator",
+                "type": "github"
+            },
+            {
+                "title": "Synesthesia",
+                "href": "https://github.com/dariusf/synesthesia",
+                "github": "dariusf/synesthesia",
+                "type": "github"
+            },
+            {
+                "title": "StyleToken",
+                "href": "https://github.com/vcharnahrebel/style-token",
+                "github": "vcharnahrebel/style-token",
+                "type": "github"
+            },
+            {
+                "title": "Origami",
+                "href": "https://github.com/SublimeText/Origami",
+                "github": "SublimeText/Origami",
+                "type": "github"
+            },
+            {
+                "title": "Sync Settings",
+                "href": "https://github.com/mfuentesg/SyncSettings",
+                "github": "mfuentesg/SyncSettings",
+                "type": "github"
+            },
+            {
+                "title": "SublimeFileBrowser",
+                "href": "https://github.com/aziz/SublimeFileBrowser",
+                "github": "aziz/SublimeFileBrowser",
+                "type": "github"
+            },
+            {
+                "title": "PackageResourceViewer",
+                "href": "https://github.com/skuroda/PackageResourceViewer",
+                "github": "skuroda/PackageResourceViewer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby Profile",
+        "childrens": [
+            {
+                "title": "Sublime Text setup",
+                "href": "https://github.com/mhartl/rails_tutorial_sublime_text",
+                "github": "mhartl/rails_tutorial_sublime_text",
+                "type": "github"
+            },
+            {
+                "title": "ChangeQuotes",
+                "href": "https://github.com/colinta/SublimeChangeQuotes",
+                "github": "colinta/SublimeChangeQuotes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby Profile",
+        "childrens": [
+            {
+                "title": "RSpec plugin",
+                "href": "https://github.com/SublimeText/RSpec",
+                "github": "SublimeText/RSpec",
+                "type": "github"
+            },
+            {
+                "title": "BeautifyRuby",
+                "href": "https://github.com/CraigWilliams/BeautifyRuby",
+                "github": "CraigWilliams/BeautifyRuby",
+                "type": "github"
+            },
+            {
+                "title": "Sublime Ruby Debugger",
+                "href": "https://github.com/shuky19/sublime_debugger",
+                "github": "shuky19/sublime_debugger",
+                "type": "github"
+            },
+            {
+                "title": "ProductiveSnippetsRuby",
+                "href": "https://github.com/janlelis/productive-sublime-snippets-ruby/",
+                "github": "janlelis/productive-sublime-snippets-ruby/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python Profile",
+        "childrens": [
+            {
+                "title": "MagicPython",
+                "href": "https://github.com/MagicStack/MagicPython",
+                "github": "MagicStack/MagicPython",
+                "type": "github"
+            },
+            {
+                "title": "Rope",
+                "href": "https://github.com/python-rope/rope",
+                "github": "python-rope/rope",
+                "type": "github"
+            },
+            {
+                "title": "SublimeLinter PEP 257",
+                "href": "https://github.com/SublimeLinter/SublimeLinter-pep257",
+                "github": "SublimeLinter/SublimeLinter-pep257",
+                "type": "github"
+            },
+            {
+                "title": "Djaneiro",
+                "href": "https://github.com/squ1b3r/Djaneiro",
+                "github": "squ1b3r/Djaneiro",
+                "type": "github"
+            },
+            {
+                "title": "SublimePythonTidy",
+                "href": "https://github.com/witsch/SublimePythonTidy",
+                "github": "witsch/SublimePythonTidy",
+                "type": "github"
+            },
+            {
+                "title": "Anaconda",
+                "href": "https://github.com/DamnWidget/anaconda",
+                "github": "DamnWidget/anaconda",
+                "type": "github"
+            },
+            {
+                "title": "SublimeJEDI",
+                "href": "https://github.com/srusskih/SublimeJEDI",
+                "github": "srusskih/SublimeJEDI",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript Profile",
+        "childrens": [
+            {
+                "title": "JsFormat",
+                "href": "https://github.com/jdc0589/JsFormat",
+                "github": "jdc0589/JsFormat",
+                "type": "github"
+            },
+            {
+                "title": "CoffeeScript",
+                "href": "https://github.com/Xavura/CoffeeScript-Sublime-Plugin",
+                "github": "Xavura/CoffeeScript-Sublime-Plugin",
+                "type": "github"
+            },
+            {
+                "title": "TernJS",
+                "href": "https://github.com/ternjs/tern_for_sublime",
+                "github": "ternjs/tern_for_sublime",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Client Side Profile",
+        "childrens": [
+            {
+                "title": "HTMLPrettify",
+                "href": "https://github.com/victorporof/Sublime-HTMLPrettify",
+                "github": "victorporof/Sublime-HTMLPrettify",
+                "type": "github"
+            },
+            {
+                "title": "GutterColor",
+                "href": "https://github.com/ggordan/GutterColor",
+                "github": "ggordan/GutterColor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "LaTeX Profile",
+        "childrens": [
+            {
+                "title": "LaTeXTools",
+                "href": "https://github.com/SublimeText/LaTeXTools",
+                "github": "SublimeText/LaTeXTools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Markdown Editing Profile",
+        "childrens": [
+            {
+                "title": "MarkdownEditing",
+                "href": "https://github.com/SublimeText-Markdown/MarkdownEditing",
+                "github": "SublimeText-Markdown/MarkdownEditing",
+                "type": "github"
+            },
+            {
+                "title": "Markdown Preview",
+                "href": "https://github.com/revolunet/sublimetext-markdown-preview",
+                "github": "revolunet/sublimetext-markdown-preview",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation and Help Systems",
+        "childrens": [
+            {
+                "title": "GotoDocumentation",
+                "href": "https://github.com/kemayo/sublime-text-2-goto-documentation",
+                "github": "kemayo/sublime-text-2-goto-documentation",
+                "type": "github"
+            },
+            {
+                "title": "DashDoc",
+                "href": "https://github.com/farcaller/DashDoc",
+                "github": "farcaller/DashDoc",
+                "type": "github"
+            },
+            {
+                "title": "HowDoI",
+                "href": "https://github.com/azac/sublime-howdoi-direct-paste",
+                "github": "azac/sublime-howdoi-direct-paste",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Integration",
+        "childrens": [
+            {
+                "title": "Associating text editors with Git",
+                "href": "https://help.github.com/articles/associating-text-editors-with-git/",
+                "github": ".com/articles/associating-text-editors-with-git/",
+                "type": "github"
+            },
+            {
+                "title": "Alfred Workflow",
+                "href": "https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text",
+                "github": "franzheidl/alfred-workflows/tree/master/open-with-sublime-text",
+                "type": "github"
+            },
+            {
+                "title": "LiveReload",
+                "href": "https://github.com/alepez/LiveReload-sublimetext3",
+                "github": "alepez/LiveReload-sublimetext3",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Themes",
+        "childrens": [
+            {
+                "title": "Cobalt2",
+                "href": "https://github.com/wesbos/cobalt2",
+                "github": "wesbos/cobalt2",
+                "type": "github"
+            },
+            {
+                "title": "Flatland",
+                "href": "https://github.com/thinkpixellab/flatland",
+                "github": "thinkpixellab/flatland",
+                "type": "github"
+            },
+            {
+                "title": "Material theme",
+                "href": "https://github.com/equinusocio/material-theme",
+                "github": "equinusocio/material-theme",
+                "type": "github"
+            },
+            {
+                "title": "Comfort",
+                "href": "https://github.com/devanshdalal/Comfort",
+                "github": "devanshdalal/Comfort",
+                "type": "github"
+            },
+            {
+                "title": "Predawn",
+                "href": "https://github.com/jamiewilson/predawn",
+                "github": "jamiewilson/predawn",
+                "type": "github"
+            },
+            {
+                "title": "Ayu",
+                "href": "https://github.com/dempfi/ayu",
+                "github": "dempfi/ayu",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Themes",
+        "childrens": [
+            {
+                "title": "Sublime Theme Switcher",
+                "href": "https://github.com/chmln/sublime-text-theme-switcher-menu",
+                "github": "chmln/sublime-text-theme-switcher-menu",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Color Schemes",
+        "childrens": [
+            {
+                "title": "Schemr",
+                "href": "https://github.com/benweier/Schemr",
+                "github": "benweier/Schemr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Color Schemes",
+        "childrens": [
+            {
+                "title": "Base 16",
+                "href": "https://github.com/chriskempson/base16",
+                "github": "chriskempson/base16",
+                "type": "github"
+            },
+            {
+                "title": "Dracula",
+                "href": "https://github.com/dracula/sublime",
+                "github": "dracula/sublime",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Alternative Icons",
+        "childrens": [
+            {
+                "title": "By Daniel Matarazzo",
+                "href": "https://github.com/dbmzzo/Sublime-Text-2-Icon",
+                "github": "dbmzzo/Sublime-Text-2-Icon",
+                "type": "github"
+            },
+            {
+                "title": "By Shi Yan Hui",
+                "href": "https://github.com/shiyanhui/Sublime-Text-Icon",
+                "github": "shiyanhui/Sublime-Text-Icon",
+                "type": "github"
+            },
+            {
+                "title": "By Tomas Sykora",
+                "href": "https://github.com/syky27/Sublime-Text-Icon",
+                "github": "syky27/Sublime-Text-Icon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Monospace Fonts",
+        "childrens": [
+            {
+                "title": "Adobe Source Code Pro",
+                "href": "https://github.com/adobe-fonts/source-code-pro",
+                "github": "adobe-fonts/source-code-pro",
+                "type": "github"
+            }
+        ]
+    }
+]

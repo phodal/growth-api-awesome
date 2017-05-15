@@ -1,0 +1,231 @@
+[
+    {
+        "heading": "DevTools as an IDE",
+        "childrens": [
+            {
+                "title": "Chrome DevTools App",
+                "href": "https://github.com/auchenberg/chrome-devtools-app",
+                "github": "auchenberg/chrome-devtools-app",
+                "type": "github"
+            },
+            {
+                "title": "DevTools Remote",
+                "href": "https://github.com/auchenberg/devtools-remote",
+                "github": "auchenberg/devtools-remote",
+                "type": "github"
+            },
+            {
+                "title": "DevTools Snippets",
+                "href": "https://github.com/bahmutov/code-snippets",
+                "github": "bahmutov/code-snippets",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Node.js + DevTools",
+        "childrens": [
+            {
+                "title": "chrome-remote-interface",
+                "href": "https://github.com/cyrus-and/chrome-remote-interface",
+                "github": "cyrus-and/chrome-remote-interface",
+                "type": "github"
+            },
+            {
+                "title": "crmux",
+                "href": "https://github.com/sidorares/crmux",
+                "github": "sidorares/crmux",
+                "type": "github"
+            },
+            {
+                "title": "crconsole",
+                "href": "https://github.com/sidorares/crconsole",
+                "github": "sidorares/crconsole",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chrome Debugging Protocol",
+        "childrens": [
+            {
+                "title": "Remote Debug Gateway",
+                "href": "https://github.com/RemoteDebug/remotedebug-gateway",
+                "github": "RemoteDebug/remotedebug-gateway",
+                "type": "github"
+            },
+            {
+                "title": "Remote Debug Firefox adapter",
+                "href": "https://github.com/RemoteDebug/remotedebug-firefox-adapter",
+                "github": "RemoteDebug/remotedebug-firefox-adapter",
+                "type": "github"
+            },
+            {
+                "title": "ios-webkit-debug-proxy",
+                "href": "https://github.com/google/ios-webkit-debug-proxy",
+                "github": "google/ios-webkit-debug-proxy",
+                "type": "github"
+            },
+            {
+                "title": "Remote Debug iOS WebKit adapter",
+                "href": "https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter",
+                "github": "RemoteDebug/remotedebug-ios-webkit-adapter",
+                "type": "github"
+            },
+            {
+                "title": "IE Diagnostics Adapter",
+                "href": "https://github.com/Microsoft/IEDiagnosticsAdapter",
+                "github": "Microsoft/IEDiagnosticsAdapter",
+                "type": "github"
+            },
+            {
+                "title": "Edge Diagnostics Adaptor",
+                "href": "https://github.com/Microsoft/edge-diagnostics-adaptor",
+                "github": "Microsoft/edge-diagnostics-adaptor",
+                "type": "github"
+            },
+            {
+                "title": "devtools-compat-proxy",
+                "href": "https://github.com/artygus/devtools-compat-proxy",
+                "github": "artygus/devtools-compat-proxy",
+                "type": "github"
+            },
+            {
+                "title": "crmux",
+                "href": "https://github.com/sidorares/crmux",
+                "github": "sidorares/crmux",
+                "type": "github"
+            },
+            {
+                "title": "RemoteDebug",
+                "href": "https://github.com/RemoteDebug",
+                "github": "RemoteDebug",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging Android & iOS w/ DevTools",
+        "childrens": [
+            {
+                "title": "PonyDebugger",
+                "href": "https://github.com/square/PonyDebugger",
+                "github": "square/PonyDebugger",
+                "type": "github"
+            },
+            {
+                "title": "Facebook Stetho",
+                "href": "https://github.com/facebook/stetho",
+                "github": "facebook/stetho",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging Node.js w/ DevTools",
+        "childrens": [
+            {
+                "title": "devtool",
+                "href": "https://github.com/Jam3/devtool",
+                "github": "Jam3/devtool",
+                "type": "github"
+            },
+            {
+                "title": "buggerJS",
+                "href": "https://github.com/buggerjs/bugger",
+                "github": "buggerjs/bugger",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Object formatting",
+        "childrens": [
+            {
+                "title": "immutable-devtools",
+                "href": "https://github.com/andrewdavey/immutable-devtools",
+                "github": "andrewdavey/immutable-devtools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Network Inspection",
+        "childrens": [
+            {
+                "title": "betwixt",
+                "href": "https://github.com/kdzwinel/betwixt",
+                "github": "kdzwinel/betwixt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CPU profile",
+        "childrens": [
+            {
+                "title": "JSCLegacyProfiler/json2trace",
+                "href": "https://github.com/facebook/react-native/blob/master/JSCLegacyProfiler/json2trace",
+                "github": "facebook/react-native/blob/master/JSCLegacyProfiler/json2trace",
+                "type": "github"
+            },
+            {
+                "title": "call-trace",
+                "href": "https://github.com/brendankenny/call-trace",
+                "github": "brendankenny/call-trace",
+                "type": "github"
+            },
+            {
+                "title": "cpuprofilify",
+                "href": "https://github.com/thlorenz/cpuprofilify",
+                "github": "thlorenz/cpuprofilify",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Multimedia",
+        "childrens": [
+            {
+                "title": "snapline",
+                "href": "https://github.com/pmdartus/snapline",
+                "github": "pmdartus/snapline",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chrome Debugger integration with Editors",
+        "childrens": [
+            {
+                "title": "VS Code - Debugger for Chrome",
+                "href": "https://github.com/Microsoft/vscode-chrome-debug/",
+                "github": "Microsoft/vscode-chrome-debug/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Workflow",
+        "childrens": [
+            {
+                "title": "VueJS Developer Tools",
+                "href": "https://github.com/vuejs/vue-devtools",
+                "github": "vuejs/vue-devtools",
+                "type": "github"
+            },
+            {
+                "title": "Insight",
+                "href": "https://github.com/3Dparallax/insight/",
+                "github": "3Dparallax/insight/",
+                "type": "github"
+            },
+            {
+                "title": "BEM devtools",
+                "href": "https://github.com/escaton/bem-chrome-devtools",
+                "github": "escaton/bem-chrome-devtools",
+                "type": "github"
+            }
+        ]
+    }
+]

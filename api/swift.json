@@ -1,0 +1,5357 @@
+[
+    {
+        "heading": "Style Guides",
+        "childrens": [
+            {
+                "title": "GitHub",
+                "href": "https://github.com/github/swift-style-guide",
+                "github": "github/swift-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "LinkedIn",
+                "href": "https://github.com/linkedin/swift-style-guide",
+                "github": "linkedin/swift-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "Raywenderlich",
+                "href": "https://github.com/raywenderlich/swift-style-guide",
+                "github": "raywenderlich/swift-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "Swift-Best-Practices",
+                "href": "https://github.com/schwa/Swift-Community-Best-Practices/",
+                "github": "schwa/Swift-Community-Best-Practices/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third party Guides",
+        "childrens": [
+            {
+                "title": "30 Days of Swift",
+                "href": "https://github.com/allenwong/30DaysofSwift",
+                "github": "allenwong/30DaysofSwift",
+                "type": "github"
+            },
+            {
+                "title": "About Swift",
+                "href": "https://github.com/NicolaLancellotti-About/About-Swift",
+                "github": "NicolaLancellotti-About/About-Swift",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Swift Education",
+                "href": "https://github.com/hsavit1/Awesome-Swift-Education",
+                "github": "hsavit1/Awesome-Swift-Education",
+                "type": "github"
+            },
+            {
+                "title": "Learn Swift",
+                "href": "https://github.com/nettlep/learn-swift",
+                "github": "nettlep/learn-swift",
+                "type": "github"
+            },
+            {
+                "title": "Practice Swift",
+                "href": "https://github.com/domenicosolazzo/practice-swift",
+                "github": "domenicosolazzo/practice-swift",
+                "type": "github"
+            },
+            {
+                "title": "Swift Education",
+                "href": "https://github.com/swifteducation",
+                "github": "swifteducation",
+                "type": "github"
+            },
+            {
+                "title": "Swift Examples",
+                "href": "https://github.com/cbutron/Swift",
+                "github": "cbutron/Swift",
+                "type": "github"
+            },
+            {
+                "title": "SwiftGuide CN",
+                "href": "https://github.com/ipader/SwiftGuide",
+                "github": "ipader/SwiftGuide",
+                "type": "github"
+            },
+            {
+                "title": "SwiftIntro",
+                "href": "https://github.com/Sajjon/SwiftIntro",
+                "github": "Sajjon/SwiftIntro",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boilerplates",
+        "childrens": [
+            {
+                "title": "Swift 3 Module Template",
+                "href": "https://github.com/fulldecent/swift3-module-template",
+                "github": "fulldecent/swift3-module-template",
+                "type": "github"
+            },
+            {
+                "title": "Swift 3 VIPER Module Template",
+                "href": "https://github.com/Juanpe/Swift-VIPER-Module",
+                "github": "Juanpe/Swift-VIPER-Module",
+                "type": "github"
+            },
+            {
+                "title": "Webview Boilerplate",
+                "href": "https://github.com/nabilfreeman/ios-universal-webview-boilerplate",
+                "github": "nabilfreeman/ios-universal-webview-boilerplate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Emacs",
+        "childrens": [
+            {
+                "title": "swift-mode",
+                "href": "https://github.com/swift-emacs/swift-mode",
+                "github": "swift-emacs/swift-mode",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Vim",
+        "childrens": [
+            {
+                "title": "swift-vim",
+                "href": "https://github.com/keith/swift.vim",
+                "github": "keith/swift.vim",
+                "type": "github"
+            },
+            {
+                "title": "vim-polyglot",
+                "href": "https://github.com/sheerun/vim-polyglot",
+                "github": "sheerun/vim-polyglot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Benchmark",
+        "childrens": [
+            {
+                "title": "Benchmark",
+                "href": "https://github.com/WorldDownTown/Benchmark",
+                "github": "WorldDownTown/Benchmark",
+                "type": "github"
+            },
+            {
+                "title": "xcprofiler",
+                "href": "https://github.com/giginet/xcprofiler",
+                "github": "giginet/xcprofiler",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Demo Apps",
+        "childrens": [
+            {
+                "title": "awesome-macOS",
+                "href": "https://github.com/iCHAIT/awesome-macOS",
+                "github": "iCHAIT/awesome-macOS",
+                "type": "github"
+            },
+            {
+                "title": "open-source-ios-apps",
+                "href": "https://github.com/dkhamsing/open-source-ios-apps",
+                "github": "dkhamsing/open-source-ios-apps",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dependency Managers",
+        "childrens": [
+            {
+                "title": "Carthage",
+                "href": "https://github.com/Carthage/Carthage",
+                "github": "Carthage/Carthage",
+                "type": "github"
+            },
+            {
+                "title": "CocoaPods",
+                "href": "https://github.com/CocoaPods/CocoaPods",
+                "github": "CocoaPods/CocoaPods",
+                "type": "github"
+            },
+            {
+                "title": "swift-package-manager",
+                "href": "https://github.com/apple/swift-package-manager",
+                "github": "apple/swift-package-manager",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Patterns",
+        "childrens": [
+            {
+                "title": "Design-Patterns-In-Swift",
+                "href": "https://github.com/ochococo/Design-Patterns-In-Swift",
+                "github": "ochococo/Design-Patterns-In-Swift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "generator-swift-framework",
+                "href": "https://github.com/cybertk/generator-swift-framework",
+                "github": "cybertk/generator-swift-framework",
+                "type": "github"
+            },
+            {
+                "title": "InteractivePlayground",
+                "href": "https://github.com/dasdom/InteractivePlayground",
+                "github": "dasdom/InteractivePlayground",
+                "type": "github"
+            },
+            {
+                "title": "MAIKit",
+                "href": "https://github.com/MichaelBuckley/MAIKit",
+                "github": "MichaelBuckley/MAIKit",
+                "type": "github"
+            },
+            {
+                "title": "sbconstants",
+                "href": "https://github.com/paulsamuels/SBConstants",
+                "github": "paulsamuels/SBConstants",
+                "type": "github"
+            },
+            {
+                "title": "SwagGen",
+                "href": "https://github.com/yonaskolb/SwagGen",
+                "github": "yonaskolb/SwagGen",
+                "type": "github"
+            },
+            {
+                "title": "swift-compiler-crashes",
+                "href": "https://github.com/practicalswift/swift-compiler-crashes",
+                "github": "practicalswift/swift-compiler-crashes",
+                "type": "github"
+            },
+            {
+                "title": "SwiftGen",
+                "href": "https://github.com/SwiftGen/SwiftGen",
+                "github": "SwiftGen/SwiftGen",
+                "type": "github"
+            },
+            {
+                "title": "SwiftPlate",
+                "href": "https://github.com/JohnSundell/SwiftPlate",
+                "github": "JohnSundell/SwiftPlate",
+                "type": "github"
+            },
+            {
+                "title": "Toybox",
+                "href": "https://github.com/giginet/Toybox",
+                "github": "giginet/Toybox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "AI",
+        "childrens": [
+            {
+                "title": "BrainCore",
+                "href": "https://github.com/aleph7/BrainCore",
+                "github": "aleph7/BrainCore",
+                "type": "github"
+            },
+            {
+                "title": "MLKit",
+                "href": "https://github.com/Somnibyte/MLKit",
+                "github": "Somnibyte/MLKit",
+                "type": "github"
+            },
+            {
+                "title": "Swift-AI",
+                "href": "https://github.com/Swift-AI/Swift-AI",
+                "github": "Swift-AI/Swift-AI",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Algorithm",
+        "childrens": [
+            {
+                "title": "Algorithm",
+                "href": "https://github.com/CosmicMind/Algorithm",
+                "github": "CosmicMind/Algorithm",
+                "type": "github"
+            },
+            {
+                "title": "swift-algorithm-club",
+                "href": "https://github.com/raywenderlich/swift-algorithm-club",
+                "github": "raywenderlich/swift-algorithm-club",
+                "type": "github"
+            },
+            {
+                "title": "SwiftLCS",
+                "href": "https://github.com/Frugghi/SwiftLCS",
+                "github": "Frugghi/SwiftLCS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Animation",
+        "childrens": [
+            {
+                "title": "Advance",
+                "href": "https://github.com/storehouse/Advance",
+                "github": "storehouse/Advance",
+                "type": "github"
+            },
+            {
+                "title": "AnimatedCollectionViewLayout",
+                "href": "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
+                "github": "KelvinJin/AnimatedCollectionViewLayout",
+                "type": "github"
+            },
+            {
+                "title": "Animo",
+                "href": "https://github.com/eure/Animo",
+                "github": "eure/Animo",
+                "type": "github"
+            },
+            {
+                "title": "Cheetah",
+                "href": "https://github.com/suguru/Cheetah",
+                "github": "suguru/Cheetah",
+                "type": "github"
+            },
+            {
+                "title": "Dance",
+                "href": "https://github.com/saoudrizwan/Dance",
+                "github": "saoudrizwan/Dance",
+                "type": "github"
+            },
+            {
+                "title": "DKChainableAnimationKit",
+                "href": "https://github.com/Draveness/DKChainableAnimationKit",
+                "github": "Draveness/DKChainableAnimationKit",
+                "type": "github"
+            },
+            {
+                "title": "DSGradientProgressView",
+                "href": "https://github.com/DholStudio/DSGradientProgressView",
+                "github": "DholStudio/DSGradientProgressView",
+                "type": "github"
+            },
+            {
+                "title": "EasyAnimation",
+                "href": "https://github.com/icanzilb/EasyAnimation",
+                "github": "icanzilb/EasyAnimation",
+                "type": "github"
+            },
+            {
+                "title": "FlightAnimator",
+                "href": "https://github.com/AntonTheDev/FlightAnimator",
+                "github": "AntonTheDev/FlightAnimator",
+                "type": "github"
+            },
+            {
+                "title": "IBAnimatable",
+                "href": "https://github.com/IBAnimatable/IBAnimatable",
+                "github": "IBAnimatable/IBAnimatable",
+                "type": "github"
+            },
+            {
+                "title": "Interpolate",
+                "href": "https://github.com/marmelroy/Interpolate",
+                "github": "marmelroy/Interpolate",
+                "type": "github"
+            },
+            {
+                "title": "JDAnimationKit",
+                "href": "https://github.com/JellyDevelopment/JDAnimationKit",
+                "github": "JellyDevelopment/JDAnimationKit",
+                "type": "github"
+            },
+            {
+                "title": "Morgan",
+                "href": "https://github.com/RamonGilabert/Morgan",
+                "github": "RamonGilabert/Morgan",
+                "type": "github"
+            },
+            {
+                "title": "Pastel",
+                "href": "https://github.com/cruisediary/Pastel",
+                "github": "cruisediary/Pastel",
+                "type": "github"
+            },
+            {
+                "title": "Presentation",
+                "href": "https://github.com/hyperoslo/Presentation",
+                "github": "hyperoslo/Presentation",
+                "type": "github"
+            },
+            {
+                "title": "Pulsator",
+                "href": "https://github.com/shu223/pulsator",
+                "github": "shu223/pulsator",
+                "type": "github"
+            },
+            {
+                "title": "Spring",
+                "href": "https://github.com/MengTo/Spring",
+                "github": "MengTo/Spring",
+                "type": "github"
+            },
+            {
+                "title": "spruce-ios",
+                "href": "https://github.com/willowtreeapps/spruce-ios",
+                "github": "willowtreeapps/spruce-ios",
+                "type": "github"
+            },
+            {
+                "title": "Stellar",
+                "href": "https://github.com/AugustRush/Stellar",
+                "github": "AugustRush/Stellar",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyAnimate",
+                "href": "https://github.com/rchatham/SwiftyAnimate",
+                "github": "rchatham/SwiftyAnimate",
+                "type": "github"
+            },
+            {
+                "title": "Walker",
+                "href": "https://github.com/RamonGilabert/Walker",
+                "github": "RamonGilabert/Walker",
+                "type": "github"
+            },
+            {
+                "title": "ZoomTransitioning",
+                "href": "https://github.com/WorldDownTown/ZoomTransitioning",
+                "github": "WorldDownTown/ZoomTransitioning",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API",
+        "childrens": [
+            {
+                "title": "Federal Data SDK",
+                "href": "https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK",
+                "github": "USDepartmentofLabor/Swift-Federal-Data-SDK",
+                "type": "github"
+            },
+            {
+                "title": "GithubPilot",
+                "href": "https://github.com/jindulys/GithubPilot",
+                "github": "jindulys/GithubPilot",
+                "type": "github"
+            },
+            {
+                "title": "GooglePlacesAutocomplete",
+                "href": "https://github.com/watsonbox/ios_google_places_autocomplete",
+                "github": "watsonbox/ios_google_places_autocomplete",
+                "type": "github"
+            },
+            {
+                "title": "PXGoogleDirections",
+                "href": "https://github.com/poulpix/PXGoogleDirections",
+                "github": "poulpix/PXGoogleDirections",
+                "type": "github"
+            },
+            {
+                "title": "RandomUserSwift",
+                "href": "https://github.com/dingwilson/RandomUserSwift",
+                "github": "dingwilson/RandomUserSwift",
+                "type": "github"
+            },
+            {
+                "title": "reddift",
+                "href": "https://github.com/sonsongithub/reddift",
+                "github": "sonsongithub/reddift",
+                "type": "github"
+            },
+            {
+                "title": "Swifter Twitter",
+                "href": "https://github.com/mattdonnelly/Swifter",
+                "github": "mattdonnelly/Swifter",
+                "type": "github"
+            },
+            {
+                "title": "SwiftlySalesforce",
+                "href": "https://github.com/mike4aday/SwiftlySalesforce",
+                "github": "mike4aday/SwiftlySalesforce",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "App Routing",
+        "childrens": [
+            {
+                "title": "Appz",
+                "href": "https://github.com/SwiftKitz/Appz",
+                "github": "SwiftKitz/Appz",
+                "type": "github"
+            },
+            {
+                "title": "Compass",
+                "href": "https://github.com/hyperoslo/Compass",
+                "github": "hyperoslo/Compass",
+                "type": "github"
+            },
+            {
+                "title": "SwiftRouter",
+                "href": "https://github.com/skyline75489/SwiftRouter",
+                "github": "skyline75489/SwiftRouter",
+                "type": "github"
+            },
+            {
+                "title": "URLNavigator",
+                "href": "https://github.com/devxoul/URLNavigator",
+                "github": "devxoul/URLNavigator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "App Store",
+        "childrens": [
+            {
+                "title": "InAppFw",
+                "href": "https://github.com/sandorgyulai/InAppFramework",
+                "github": "sandorgyulai/InAppFramework",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyStoreKit",
+                "href": "https://github.com/bizz84/SwiftyStoreKit",
+                "github": "bizz84/SwiftyStoreKit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio",
+        "childrens": [
+            {
+                "title": "AudioKit",
+                "href": "https://github.com/audiokit/AudioKit",
+                "github": "audiokit/AudioKit",
+                "type": "github"
+            },
+            {
+                "title": "AudioPlayer",
+                "href": "https://github.com/delannoyk/AudioPlayer",
+                "github": "delannoyk/AudioPlayer",
+                "type": "github"
+            },
+            {
+                "title": "AudioPlayerSwift",
+                "href": "https://github.com/tbaranes/AudioPlayerSwift",
+                "github": "tbaranes/AudioPlayerSwift",
+                "type": "github"
+            },
+            {
+                "title": "Beethoven",
+                "href": "https://github.com/vadymmarkov/Beethoven",
+                "github": "vadymmarkov/Beethoven",
+                "type": "github"
+            },
+            {
+                "title": "MusicKit",
+                "href": "https://github.com/benzguo/MusicKit",
+                "github": "benzguo/MusicKit",
+                "type": "github"
+            },
+            {
+                "title": "SwiftySound",
+                "href": "https://github.com/adamcichy/SwiftySound",
+                "github": "adamcichy/SwiftySound",
+                "type": "github"
+            },
+            {
+                "title": "TuningFork",
+                "href": "https://github.com/comyar/TuningFork",
+                "github": "comyar/TuningFork",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication",
+        "childrens": [
+            {
+                "title": "Cely",
+                "href": "https://github.com/chaione/Cely",
+                "github": "chaione/Cely",
+                "type": "github"
+            },
+            {
+                "title": "Simplicity",
+                "href": "https://github.com/SimplicityMobile/Simplicity",
+                "github": "SimplicityMobile/Simplicity",
+                "type": "github"
+            },
+            {
+                "title": "Voucher",
+                "href": "https://github.com/rsattar/Voucher",
+                "github": "rsattar/Voucher",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bots",
+        "childrens": [
+            {
+                "title": "Telegram Bot SDK",
+                "href": "https://github.com/zmeyc/telegram-bot-swift",
+                "github": "zmeyc/telegram-bot-swift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cache",
+        "childrens": [
+            {
+                "title": "AwesomeCache",
+                "href": "https://github.com/aschuch/AwesomeCache",
+                "github": "aschuch/AwesomeCache",
+                "type": "github"
+            },
+            {
+                "title": "Cache",
+                "href": "https://github.com/hyperoslo/Cache",
+                "github": "hyperoslo/Cache",
+                "type": "github"
+            },
+            {
+                "title": "Carlos",
+                "href": "https://github.com/WeltN24/Carlos",
+                "github": "WeltN24/Carlos",
+                "type": "github"
+            },
+            {
+                "title": "EVURLCache",
+                "href": "https://github.com/evermeer/EVURLCache",
+                "github": "evermeer/EVURLCache",
+                "type": "github"
+            },
+            {
+                "title": "SwiftMemCache",
+                "href": "https://github.com/ctews/SwiftMemCache",
+                "github": "ctews/SwiftMemCache",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chart",
+        "childrens": [
+            {
+                "title": "Charts",
+                "href": "https://github.com/danielgindi/Charts",
+                "github": "danielgindi/Charts",
+                "type": "github"
+            },
+            {
+                "title": "PNChart-Swift",
+                "href": "https://github.com/kevinzhow/PNChart-Swift",
+                "github": "kevinzhow/PNChart-Swift",
+                "type": "github"
+            },
+            {
+                "title": "Scrollable-GraphView",
+                "href": "https://github.com/philackm/Scrollable-GraphView",
+                "github": "philackm/Scrollable-GraphView",
+                "type": "github"
+            },
+            {
+                "title": "SwiftChart",
+                "href": "https://github.com/gpbl/SwiftChart",
+                "github": "gpbl/SwiftChart",
+                "type": "github"
+            },
+            {
+                "title": "TKRadarChart",
+                "href": "https://github.com/TBXark/TKRadarChart",
+                "github": "TBXark/TKRadarChart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chat",
+        "childrens": [
+            {
+                "title": "Chatto",
+                "href": "https://github.com/badoo/Chatto",
+                "github": "badoo/Chatto",
+                "type": "github"
+            },
+            {
+                "title": "MessageKit",
+                "href": "https://github.com/MessageKit/MessageKit-iOS",
+                "github": "MessageKit/MessageKit-iOS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Colors",
+        "childrens": [
+            {
+                "title": "Chameleon",
+                "href": "https://github.com/ViccAlexander/Chameleon",
+                "github": "ViccAlexander/Chameleon",
+                "type": "github"
+            },
+            {
+                "title": "Colors",
+                "href": "https://github.com/icodeforlove/Colors",
+                "github": "icodeforlove/Colors",
+                "type": "github"
+            },
+            {
+                "title": "CSS3ColorsSwift",
+                "href": "https://github.com/WorldDownTown/CSS3ColorsSwift",
+                "github": "WorldDownTown/CSS3ColorsSwift",
+                "type": "github"
+            },
+            {
+                "title": "DynamicColor",
+                "href": "https://github.com/yannickl/DynamicColor",
+                "github": "yannickl/DynamicColor",
+                "type": "github"
+            },
+            {
+                "title": "FlatUIColors",
+                "href": "https://github.com/brynbellomy/FlatUIColors",
+                "github": "brynbellomy/FlatUIColors",
+                "type": "github"
+            },
+            {
+                "title": "Google Material Color",
+                "href": "https://github.com/katopz/google-material-color-swift",
+                "github": "katopz/google-material-color-swift",
+                "type": "github"
+            },
+            {
+                "title": "HexColor",
+                "href": "https://github.com/artman/HexColor",
+                "github": "artman/HexColor",
+                "type": "github"
+            },
+            {
+                "title": "Hue",
+                "href": "https://github.com/hyperoslo/Hue",
+                "github": "hyperoslo/Hue",
+                "type": "github"
+            },
+            {
+                "title": "PrettyColors",
+                "href": "https://github.com/jdhealy/PrettyColors",
+                "github": "jdhealy/PrettyColors",
+                "type": "github"
+            },
+            {
+                "title": "RandomColorSwift",
+                "href": "https://github.com/onevcat/RandomColorSwift",
+                "github": "onevcat/RandomColorSwift",
+                "type": "github"
+            },
+            {
+                "title": "SwiftGen-Colors",
+                "href": "https://github.com/SwiftGen/SwiftGen#uicolor",
+                "github": "SwiftGen/SwiftGen#uicolor",
+                "type": "github"
+            },
+            {
+                "title": "SwiftHEXColors",
+                "href": "https://github.com/thii/SwiftHEXColors",
+                "github": "thii/SwiftHEXColors",
+                "type": "github"
+            },
+            {
+                "title": "UIColor-Hex-Swift",
+                "href": "https://github.com/yeahdongcn/UIColor-Hex-Swift",
+                "github": "yeahdongcn/UIColor-Hex-Swift",
+                "type": "github"
+            },
+            {
+                "title": "UIColor-WikiColors",
+                "href": "https://github.com/nahive/UIColor-WikiColors",
+                "github": "nahive/UIColor-WikiColors",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Command Line",
+        "childrens": [
+            {
+                "title": "Commander",
+                "href": "https://github.com/kylef/Commander",
+                "github": "kylef/Commander",
+                "type": "github"
+            },
+            {
+                "title": "CommandLine",
+                "href": "https://github.com/jatoben/CommandLine",
+                "github": "jatoben/CommandLine",
+                "type": "github"
+            },
+            {
+                "title": "Progress.swift",
+                "href": "https://github.com/jkandzi/Progress.swift",
+                "github": "jkandzi/Progress.swift",
+                "type": "github"
+            },
+            {
+                "title": "SwiftCLI",
+                "href": "https://github.com/jakeheis/SwiftCLI",
+                "github": "jakeheis/SwiftCLI",
+                "type": "github"
+            },
+            {
+                "title": "Swiftline",
+                "href": "https://github.com/oarrabi/Swiftline",
+                "github": "oarrabi/Swiftline",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyTextTable",
+                "href": "https://github.com/scottrhoyt/SwiftyTextTable",
+                "github": "scottrhoyt/SwiftyTextTable",
+                "type": "github"
+            },
+            {
+                "title": "TextTable",
+                "href": "https://github.com/cfilipov/TextTable",
+                "github": "cfilipov/TextTable",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Concurrency",
+        "childrens": [
+            {
+                "title": "AsyncNinja",
+                "href": "https://github.com/AsyncNinja/AsyncNinja",
+                "github": "AsyncNinja/AsyncNinja",
+                "type": "github"
+            },
+            {
+                "title": "Hydra",
+                "href": "https://github.com/malcommac/Hydra",
+                "github": "malcommac/Hydra",
+                "type": "github"
+            },
+            {
+                "title": "Overdrive",
+                "href": "https://github.com/arikis/Overdrive",
+                "github": "arikis/Overdrive",
+                "type": "github"
+            },
+            {
+                "title": "Safe",
+                "href": "https://github.com/tidwall/Safe",
+                "github": "tidwall/Safe",
+                "type": "github"
+            },
+            {
+                "title": "Venice",
+                "href": "https://github.com/Zewo/Venice",
+                "github": "Zewo/Venice",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Currency",
+        "childrens": [
+            {
+                "title": "Money",
+                "href": "https://github.com/danthorpe/Money",
+                "github": "danthorpe/Money",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Core Data",
+        "childrens": [
+            {
+                "title": "AERecord",
+                "href": "https://github.com/tadija/AERecord",
+                "github": "tadija/AERecord",
+                "type": "github"
+            },
+            {
+                "title": "AlecrimCoreData",
+                "href": "https://github.com/Alecrim/AlecrimCoreData",
+                "github": "Alecrim/AlecrimCoreData",
+                "type": "github"
+            },
+            {
+                "title": "Cadmium",
+                "href": "https://github.com/jmfieldman/cadmium",
+                "github": "jmfieldman/cadmium",
+                "type": "github"
+            },
+            {
+                "title": "CoreStore",
+                "href": "https://github.com/JohnEstropia/CoreStore",
+                "github": "JohnEstropia/CoreStore",
+                "type": "github"
+            },
+            {
+                "title": "CoreValue",
+                "href": "https://github.com/terhechte/CoreValue",
+                "github": "terhechte/CoreValue",
+                "type": "github"
+            },
+            {
+                "title": "DataKernel",
+                "href": "https://github.com/mrdekk/DataKernel",
+                "github": "mrdekk/DataKernel",
+                "type": "github"
+            },
+            {
+                "title": "Graph",
+                "href": "https://github.com/CosmicMind/Graph",
+                "github": "CosmicMind/Graph",
+                "type": "github"
+            },
+            {
+                "title": "JSQCoreDataKit",
+                "href": "https://github.com/jessesquires/JSQCoreDataKit",
+                "github": "jessesquires/JSQCoreDataKit",
+                "type": "github"
+            },
+            {
+                "title": "JustPersist",
+                "href": "https://github.com/justeat/JustPersist",
+                "github": "justeat/JustPersist",
+                "type": "github"
+            },
+            {
+                "title": "QueryKit",
+                "href": "https://github.com/QueryKit/QueryKit",
+                "github": "QueryKit/QueryKit",
+                "type": "github"
+            },
+            {
+                "title": "Skopelos",
+                "href": "https://github.com/albertodebortoli/Skopelos",
+                "github": "albertodebortoli/Skopelos",
+                "type": "github"
+            },
+            {
+                "title": "SugarRecord",
+                "href": "https://github.com/carambalabs/SugarRecord",
+                "github": "carambalabs/SugarRecord",
+                "type": "github"
+            },
+            {
+                "title": "SuperRecord",
+                "href": "https://github.com/michaelarmstrong/SuperRecord",
+                "github": "michaelarmstrong/SuperRecord",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JSON",
+        "childrens": [
+            {
+                "title": "AlamofireJsonToObjects",
+                "href": "https://github.com/evermeer/AlamofireJsonToObjects",
+                "github": "evermeer/AlamofireJsonToObjects",
+                "type": "github"
+            },
+            {
+                "title": "AlamofireObjectMapper",
+                "href": "https://github.com/tristanhimmelman/AlamofireObjectMapper",
+                "github": "tristanhimmelman/AlamofireObjectMapper",
+                "type": "github"
+            },
+            {
+                "title": "Alembic",
+                "href": "https://github.com/ra1028/Alembic",
+                "github": "ra1028/Alembic",
+                "type": "github"
+            },
+            {
+                "title": "Alexander",
+                "href": "https://github.com/hodinkee/alexander",
+                "github": "hodinkee/alexander",
+                "type": "github"
+            },
+            {
+                "title": "Argo",
+                "href": "https://github.com/thoughtbot/Argo",
+                "github": "thoughtbot/Argo",
+                "type": "github"
+            },
+            {
+                "title": "Arrow",
+                "href": "https://github.com/freshOS/Arrow",
+                "github": "freshOS/Arrow",
+                "type": "github"
+            },
+            {
+                "title": "Brick",
+                "href": "https://github.com/hyperoslo/Brick",
+                "github": "hyperoslo/Brick",
+                "type": "github"
+            },
+            {
+                "title": "Decodable",
+                "href": "https://github.com/Anviking/Decodable",
+                "github": "Anviking/Decodable",
+                "type": "github"
+            },
+            {
+                "title": "Elevate",
+                "href": "https://github.com/Nike-Inc/Elevate",
+                "github": "Nike-Inc/Elevate",
+                "type": "github"
+            },
+            {
+                "title": "EVReflection",
+                "href": "https://github.com/evermeer/EVReflection",
+                "github": "evermeer/EVReflection",
+                "type": "github"
+            },
+            {
+                "title": "Freddy",
+                "href": "https://github.com/bignerdranch/Freddy",
+                "github": "bignerdranch/Freddy",
+                "type": "github"
+            },
+            {
+                "title": "Genome",
+                "href": "https://github.com/LoganWright/Genome",
+                "github": "LoganWright/Genome",
+                "type": "github"
+            },
+            {
+                "title": "Gloss",
+                "href": "https://github.com/hkellaway/Gloss",
+                "github": "hkellaway/Gloss",
+                "type": "github"
+            },
+            {
+                "title": "HandyJSON",
+                "href": "https://github.com/alibaba/handyjson",
+                "github": "alibaba/handyjson",
+                "type": "github"
+            },
+            {
+                "title": "Himotoki",
+                "href": "https://github.com/ikesyo/Himotoki",
+                "github": "ikesyo/Himotoki",
+                "type": "github"
+            },
+            {
+                "title": "JASON",
+                "href": "https://github.com/delba/JASON",
+                "github": "delba/JASON",
+                "type": "github"
+            },
+            {
+                "title": "json-swift",
+                "href": "https://github.com/owensd/json-swift",
+                "github": "owensd/json-swift",
+                "type": "github"
+            },
+            {
+                "title": "JSONCodable",
+                "href": "https://github.com/matthewcheok/JSONCodable",
+                "github": "matthewcheok/JSONCodable",
+                "type": "github"
+            },
+            {
+                "title": "JSONHelper",
+                "href": "https://github.com/isair/JSONHelper",
+                "github": "isair/JSONHelper",
+                "type": "github"
+            },
+            {
+                "title": "JSONNeverDie",
+                "href": "https://github.com/johnlui/JSONNeverDie",
+                "github": "johnlui/JSONNeverDie",
+                "type": "github"
+            },
+            {
+                "title": "ModelRocket",
+                "href": "https://github.com/ovenbits/ModelRocket",
+                "github": "ovenbits/ModelRocket",
+                "type": "github"
+            },
+            {
+                "title": "ObjectMapper",
+                "href": "https://github.com/Hearst-DD/ObjectMapper",
+                "github": "Hearst-DD/ObjectMapper",
+                "type": "github"
+            },
+            {
+                "title": "Pistachio",
+                "href": "https://github.com/felixjendrusch/Pistachio",
+                "github": "felixjendrusch/Pistachio",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyJSON",
+                "href": "https://github.com/SwiftyJSON/SwiftyJSON",
+                "github": "SwiftyJSON/SwiftyJSON",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyJSONAccelerator",
+                "href": "https://github.com/insanoid/SwiftyJSONAccelerator",
+                "github": "insanoid/SwiftyJSONAccelerator",
+                "type": "github"
+            },
+            {
+                "title": "Tailor",
+                "href": "https://github.com/zenangst/Tailor",
+                "github": "zenangst/Tailor",
+                "type": "github"
+            },
+            {
+                "title": "Unbox",
+                "href": "https://github.com/JohnSundell/Unbox",
+                "github": "JohnSundell/Unbox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Key Value Store",
+        "childrens": [
+            {
+                "title": "Palau",
+                "href": "https://github.com/symentis/Palau",
+                "github": "symentis/Palau",
+                "type": "github"
+            },
+            {
+                "title": "Prephirences",
+                "href": "https://github.com/phimage/Prephirences",
+                "github": "phimage/Prephirences",
+                "type": "github"
+            },
+            {
+                "title": "Storez",
+                "href": "https://github.com/SwiftKitz/Storez",
+                "github": "SwiftKitz/Storez",
+                "type": "github"
+            },
+            {
+                "title": "SwiftStore",
+                "href": "https://github.com/hemantasapkota/SwiftStore",
+                "github": "hemantasapkota/SwiftStore",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyUserDefaults",
+                "href": "https://github.com/radex/SwiftyUserDefaults",
+                "github": "radex/SwiftyUserDefaults",
+                "type": "github"
+            },
+            {
+                "title": "Zephyr",
+                "href": "https://github.com/ArtSabintsev/Zephyr",
+                "github": "ArtSabintsev/Zephyr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MongoDB",
+        "childrens": [
+            {
+                "title": "MongoKitten",
+                "href": "https://github.com/OpenKitten/MongoKitten",
+                "github": "OpenKitten/MongoKitten",
+                "type": "github"
+            },
+            {
+                "title": "Perfect-MongoDB",
+                "href": "https://github.com/PerfectlySoft/Perfect-MongoDB",
+                "github": "PerfectlySoft/Perfect-MongoDB",
+                "type": "github"
+            },
+            {
+                "title": "SwiftMongoDB",
+                "href": "https://github.com/Danappelxx/SwiftMongoDB",
+                "github": "Danappelxx/SwiftMongoDB",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM",
+        "childrens": [
+            {
+                "title": "fluent",
+                "href": "https://github.com/vapor/fluent",
+                "github": "vapor/fluent",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Data",
+        "childrens": [
+            {
+                "title": "CSVParser",
+                "href": "https://github.com/Nero5023/CSVParser",
+                "github": "Nero5023/CSVParser",
+                "type": "github"
+            },
+            {
+                "title": "EVCloudKitDao",
+                "href": "https://github.com/evermeer/EVCloudKitDao",
+                "github": "evermeer/EVCloudKitDao",
+                "type": "github"
+            },
+            {
+                "title": "LeetCode_Swift",
+                "href": "https://github.com/soapyigu/LeetCode_Swift",
+                "github": "soapyigu/LeetCode_Swift",
+                "type": "github"
+            },
+            {
+                "title": "Pencil",
+                "href": "https://github.com/naru-jpn/pencil",
+                "github": "naru-jpn/pencil",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Realm",
+        "childrens": [
+            {
+                "title": "Realm",
+                "href": "https://github.com/realm/realm-cocoa",
+                "github": "realm/realm-cocoa",
+                "type": "github"
+            },
+            {
+                "title": "Realm+JSON",
+                "href": "https://github.com/matthewcheok/Realm-JSON",
+                "github": "matthewcheok/Realm-JSON",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SQL drivers",
+        "childrens": [
+            {
+                "title": "MySQL",
+                "href": "https://github.com/Zewo/MySQL",
+                "github": "Zewo/MySQL",
+                "type": "github"
+            },
+            {
+                "title": "MySQL Swift",
+                "href": "https://github.com/novi/mysql-swift",
+                "github": "novi/mysql-swift",
+                "type": "github"
+            },
+            {
+                "title": "Perfect-MySQL",
+                "href": "https://github.com/PerfectlySoft/Perfect-MySQL",
+                "github": "PerfectlySoft/Perfect-MySQL",
+                "type": "github"
+            },
+            {
+                "title": "Perfect-PostgreSQL",
+                "href": "https://github.com/PerfectlySoft/Perfect-PostgreSQL",
+                "github": "PerfectlySoft/Perfect-PostgreSQL",
+                "type": "github"
+            },
+            {
+                "title": "PostgreSQL",
+                "href": "https://github.com/Zewo/PostgreSQL",
+                "github": "Zewo/PostgreSQL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SQLite",
+        "childrens": [
+            {
+                "title": "GRDB.swift",
+                "href": "https://github.com/groue/GRDB.swift",
+                "github": "groue/GRDB.swift",
+                "type": "github"
+            },
+            {
+                "title": "SQLite.swift",
+                "href": "https://github.com/stephencelis/SQLite.swift",
+                "github": "stephencelis/SQLite.swift",
+                "type": "github"
+            },
+            {
+                "title": "SQLiteDB",
+                "href": "https://github.com/FahimF/SQLiteDB",
+                "github": "FahimF/SQLiteDB",
+                "type": "github"
+            },
+            {
+                "title": "SwiftData",
+                "href": "https://github.com/ryanfowler/SwiftData",
+                "github": "ryanfowler/SwiftData",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "XML",
+        "childrens": [
+            {
+                "title": "AEXML",
+                "href": "https://github.com/tadija/AEXML",
+                "github": "tadija/AEXML",
+                "type": "github"
+            },
+            {
+                "title": "AlamofireXmlToObjects",
+                "href": "https://github.com/evermeer/AlamofireXmlToObjects",
+                "github": "evermeer/AlamofireXmlToObjects",
+                "type": "github"
+            },
+            {
+                "title": "SWXMLHash",
+                "href": "https://github.com/drmohundro/SWXMLHash",
+                "github": "drmohundro/SWXMLHash",
+                "type": "github"
+            },
+            {
+                "title": "XMLParser",
+                "href": "https://github.com/Mozharovsky/XMLParser",
+                "github": "Mozharovsky/XMLParser",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "YAML",
+        "childrens": [
+            {
+                "title": "YamlSwift",
+                "href": "https://github.com/behrang/YamlSwift",
+                "github": "behrang/YamlSwift",
+                "type": "github"
+            },
+            {
+                "title": "Yams",
+                "href": "https://github.com/jpsim/Yams",
+                "github": "jpsim/Yams",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ZIP",
+        "childrens": [
+            {
+                "title": "Zip",
+                "href": "https://github.com/marmelroy/Zip",
+                "github": "marmelroy/Zip",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Date",
+        "childrens": [
+            {
+                "title": "DateHelper",
+                "href": "https://github.com/melvitax/DateHelper",
+                "github": "melvitax/DateHelper",
+                "type": "github"
+            },
+            {
+                "title": "Datez",
+                "href": "https://github.com/SwiftKitz/Datez",
+                "github": "SwiftKitz/Datez",
+                "type": "github"
+            },
+            {
+                "title": "NSDate-Extensions",
+                "href": "https://github.com/erica/NSDate-Extensions",
+                "github": "erica/NSDate-Extensions",
+                "type": "github"
+            },
+            {
+                "title": "Punctual.swift",
+                "href": "https://github.com/harlanhaskins/Punctual.swift",
+                "github": "harlanhaskins/Punctual.swift",
+                "type": "github"
+            },
+            {
+                "title": "SwiftDate",
+                "href": "https://github.com/malcommac/SwiftDate",
+                "github": "malcommac/SwiftDate",
+                "type": "github"
+            },
+            {
+                "title": "SwiftMoment",
+                "href": "https://github.com/akosma/SwiftMoment",
+                "github": "akosma/SwiftMoment",
+                "type": "github"
+            },
+            {
+                "title": "Timepiece",
+                "href": "https://github.com/naoty/Timepiece",
+                "github": "naoty/Timepiece",
+                "type": "github"
+            },
+            {
+                "title": "TrueTime.swift",
+                "href": "https://github.com/instacart/TrueTime.swift",
+                "github": "instacart/TrueTime.swift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dependency Injection",
+        "childrens": [
+            {
+                "title": "Cleanse",
+                "href": "https://github.com/square/Cleanse",
+                "github": "square/Cleanse",
+                "type": "github"
+            },
+            {
+                "title": "Dip",
+                "href": "https://github.com/AliSoftware/Dip",
+                "github": "AliSoftware/Dip",
+                "type": "github"
+            },
+            {
+                "title": "Swinject",
+                "href": "https://github.com/Swinject/Swinject",
+                "github": "Swinject/Swinject",
+                "type": "github"
+            },
+            {
+                "title": "Typhoon",
+                "href": "https://github.com/appsquickly/Typhoon",
+                "github": "appsquickly/Typhoon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Device",
+        "childrens": [
+            {
+                "title": "Device",
+                "href": "https://github.com/Ekhoo/Device",
+                "github": "Ekhoo/Device",
+                "type": "github"
+            },
+            {
+                "title": "Device.swift",
+                "href": "https://github.com/schickling/Device.swift",
+                "github": "schickling/Device.swift",
+                "type": "github"
+            },
+            {
+                "title": "DeviceKit",
+                "href": "https://github.com/dennisweissmann/DeviceKit",
+                "github": "dennisweissmann/DeviceKit",
+                "type": "github"
+            },
+            {
+                "title": "Luminous",
+                "href": "https://github.com/andrealufino/Luminous",
+                "github": "andrealufino/Luminous",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "jazzy",
+                "href": "https://github.com/realm/jazzy/",
+                "github": "realm/jazzy/",
+                "type": "github"
+            },
+            {
+                "title": "swiftdoc-parser",
+                "href": "https://github.com/SwiftDocOrg/swiftdoc-parser",
+                "github": "SwiftDocOrg/swiftdoc-parser",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Email",
+        "childrens": [
+            {
+                "title": "Hedwig",
+                "href": "https://github.com/onevcat/Hedwig",
+                "github": "onevcat/Hedwig",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Embedded Systems",
+        "childrens": [
+            {
+                "title": "SMBus-swift",
+                "href": "https://github.com/Sephiroth87/SMBus-swift",
+                "github": "Sephiroth87/SMBus-swift",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyGPIO",
+                "href": "https://github.com/uraimo/SwiftyGPIO",
+                "github": "uraimo/SwiftyGPIO",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Peripherals",
+        "childrens": [
+            {
+                "title": "5110LCD_PCD8544.swift",
+                "href": "https://github.com/uraimo/5110LCD_PCD8544.swift",
+                "github": "uraimo/5110LCD_PCD8544.swift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Events",
+        "childrens": [
+            {
+                "title": "Aftermath",
+                "href": "https://github.com/hyperoslo/Aftermath",
+                "github": "hyperoslo/Aftermath",
+                "type": "github"
+            },
+            {
+                "title": "Bond",
+                "href": "https://github.com/ReactiveKit/Bond",
+                "github": "ReactiveKit/Bond",
+                "type": "github"
+            },
+            {
+                "title": "BrightFutures",
+                "href": "https://github.com/Thomvis/BrightFutures",
+                "github": "Thomvis/BrightFutures",
+                "type": "github"
+            },
+            {
+                "title": "Caravel",
+                "href": "https://github.com/coshx/caravel",
+                "github": "coshx/caravel",
+                "type": "github"
+            },
+            {
+                "title": "EmitterKit",
+                "href": "https://github.com/aleclarson/emitter-kit",
+                "github": "aleclarson/emitter-kit",
+                "type": "github"
+            },
+            {
+                "title": "Forbind",
+                "href": "https://github.com/ulrikdamm/Forbind",
+                "github": "ulrikdamm/Forbind",
+                "type": "github"
+            },
+            {
+                "title": "Future",
+                "href": "https://github.com/nghialv/Future",
+                "github": "nghialv/Future",
+                "type": "github"
+            },
+            {
+                "title": "FutureKit",
+                "href": "https://github.com/FutureKit/FutureKit",
+                "github": "FutureKit/FutureKit",
+                "type": "github"
+            },
+            {
+                "title": "Katana",
+                "href": "https://github.com/BendingSpoons/katana-swift",
+                "github": "BendingSpoons/katana-swift",
+                "type": "github"
+            },
+            {
+                "title": "NoticeObserveKit",
+                "href": "https://github.com/marty-suzuki/NoticeObserveKit",
+                "github": "marty-suzuki/NoticeObserveKit",
+                "type": "github"
+            },
+            {
+                "title": "Notificationz",
+                "href": "https://github.com/SwiftKitz/Notificationz",
+                "github": "SwiftKitz/Notificationz",
+                "type": "github"
+            },
+            {
+                "title": "PromiseKit",
+                "href": "https://github.com/mxcl/PromiseKit",
+                "github": "mxcl/PromiseKit",
+                "type": "github"
+            },
+            {
+                "title": "ReactiveCocoa",
+                "href": "https://github.com/ReactiveCocoa/ReactiveCocoa",
+                "github": "ReactiveCocoa/ReactiveCocoa",
+                "type": "github"
+            },
+            {
+                "title": "Reactor",
+                "href": "https://github.com/MailOnline/Reactor",
+                "github": "MailOnline/Reactor",
+                "type": "github"
+            },
+            {
+                "title": "ReduxSwift",
+                "href": "https://github.com/lsunsi/ReduxSwift",
+                "github": "lsunsi/ReduxSwift",
+                "type": "github"
+            },
+            {
+                "title": "ReSwift",
+                "href": "https://github.com/ReSwift/ReSwift",
+                "github": "ReSwift/ReSwift",
+                "type": "github"
+            },
+            {
+                "title": "RxSwift",
+                "href": "https://github.com/ReactiveX/RxSwift",
+                "github": "ReactiveX/RxSwift",
+                "type": "github"
+            },
+            {
+                "title": "SignalKit",
+                "href": "https://github.com/yankodimitrov/SignalKit",
+                "github": "yankodimitrov/SignalKit",
+                "type": "github"
+            },
+            {
+                "title": "Signals",
+                "href": "https://github.com/artman/Signals",
+                "github": "artman/Signals",
+                "type": "github"
+            },
+            {
+                "title": "Snail",
+                "href": "https://github.com/UrbanCompass/Snail",
+                "github": "UrbanCompass/Snail",
+                "type": "github"
+            },
+            {
+                "title": "SwiftEventBus",
+                "href": "https://github.com/cesarferreira/SwiftEventBus",
+                "github": "cesarferreira/SwiftEventBus",
+                "type": "github"
+            },
+            {
+                "title": "When",
+                "href": "https://github.com/vadymmarkov/When",
+                "github": "vadymmarkov/When",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Files",
+        "childrens": [
+            {
+                "title": "FileBrowser",
+                "href": "https://github.com/marmelroy/FileBrowser",
+                "github": "marmelroy/FileBrowser",
+                "type": "github"
+            },
+            {
+                "title": "FileKit",
+                "href": "https://github.com/nvzqz/FileKit",
+                "github": "nvzqz/FileKit",
+                "type": "github"
+            },
+            {
+                "title": "FileProvider",
+                "href": "https://github.com/amosavian/FileProvider",
+                "github": "amosavian/FileProvider",
+                "type": "github"
+            },
+            {
+                "title": "KZFileWatchers",
+                "href": "https://github.com/krzysztofzablocki/KZFileWatchers",
+                "github": "krzysztofzablocki/KZFileWatchers",
+                "type": "github"
+            },
+            {
+                "title": "PathKit",
+                "href": "https://github.com/kylef/PathKit",
+                "github": "kylef/PathKit",
+                "type": "github"
+            },
+            {
+                "title": "SKQueue",
+                "href": "https://github.com/daniel-pedersen/SKQueue",
+                "github": "daniel-pedersen/SKQueue",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fonts",
+        "childrens": [
+            {
+                "title": "FontAwesome.swift",
+                "href": "https://github.com/thii/FontAwesome.swift",
+                "github": "thii/FontAwesome.swift",
+                "type": "github"
+            },
+            {
+                "title": "FontBlaster",
+                "href": "https://github.com/ArtSabintsev/FontBlaster",
+                "github": "ArtSabintsev/FontBlaster",
+                "type": "github"
+            },
+            {
+                "title": "GoogleMaterialDesignIcons",
+                "href": "https://github.com/dekatotoro/GoogleMaterialDesignIcons",
+                "github": "dekatotoro/GoogleMaterialDesignIcons",
+                "type": "github"
+            },
+            {
+                "title": "GoogleMaterialIconFont",
+                "href": "https://github.com/kitasuke/GoogleMaterialIconFont",
+                "github": "kitasuke/GoogleMaterialIconFont",
+                "type": "github"
+            },
+            {
+                "title": "IoniconsKit",
+                "href": "https://github.com/keitaoouchi/IoniconsKit",
+                "github": "keitaoouchi/IoniconsKit",
+                "type": "github"
+            },
+            {
+                "title": "OcticonsKit",
+                "href": "https://github.com/keitaoouchi/OcticonsKit",
+                "github": "keitaoouchi/OcticonsKit",
+                "type": "github"
+            },
+            {
+                "title": "OpenSansSwift",
+                "href": "https://github.com/hemantasapkota/OpenSansSwift",
+                "github": "hemantasapkota/OpenSansSwift",
+                "type": "github"
+            },
+            {
+                "title": "Swicon",
+                "href": "https://github.com/UglyTroLL/Swicon",
+                "github": "UglyTroLL/Swicon",
+                "type": "github"
+            },
+            {
+                "title": "SwiftFontName",
+                "href": "https://github.com/morizotter/SwiftFontName",
+                "github": "morizotter/SwiftFontName",
+                "type": "github"
+            },
+            {
+                "title": "SwiftIconFont",
+                "href": "https://github.com/0x73/SwiftIconFont",
+                "github": "0x73/SwiftIconFont",
+                "type": "github"
+            },
+            {
+                "title": "SwiftIcons",
+                "href": "https://github.com/ranesr/SwiftIcons",
+                "github": "ranesr/SwiftIcons",
+                "type": "github"
+            },
+            {
+                "title": "UIFontComplete",
+                "href": "https://github.com/Nirma/UIFontComplete",
+                "github": "Nirma/UIFontComplete",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Games",
+        "childrens": [
+            {
+                "title": "Sage",
+                "href": "https://github.com/nvzqz/Sage",
+                "github": "nvzqz/Sage",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Gesture",
+        "childrens": [
+            {
+                "title": "DBPathRecognizer",
+                "href": "https://github.com/didierbrun/DBPathRecognizer",
+                "github": "didierbrun/DBPathRecognizer",
+                "type": "github"
+            },
+            {
+                "title": "NiceGesture",
+                "href": "https://github.com/lacklock/NiceGesture",
+                "github": "lacklock/NiceGesture",
+                "type": "github"
+            },
+            {
+                "title": "PeekPop",
+                "href": "https://github.com/marmelroy/PeekPop",
+                "github": "marmelroy/PeekPop",
+                "type": "github"
+            },
+            {
+                "title": "SBShortcutMenuSimulator",
+                "href": "https://github.com/DeskConnect/SBShortcutMenuSimulator",
+                "github": "DeskConnect/SBShortcutMenuSimulator",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyGestureRecognition",
+                "href": "https://github.com/b3ll/SwiftyGestureRecognition",
+                "github": "b3ll/SwiftyGestureRecognition",
+                "type": "github"
+            },
+            {
+                "title": "SwipyCell",
+                "href": "https://github.com/moritzsternemann/SwipyCell",
+                "github": "moritzsternemann/SwipyCell",
+                "type": "github"
+            },
+            {
+                "title": "Tactile",
+                "href": "https://github.com/delba/Tactile",
+                "github": "delba/Tactile",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "3D Touch",
+        "childrens": [
+            {
+                "title": "QuickActions",
+                "href": "https://github.com/ricardopereira/QuickActions",
+                "github": "ricardopereira/QuickActions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bluetooth",
+        "childrens": [
+            {
+                "title": "Bleu",
+                "href": "https://github.com/1amageek/Bleu",
+                "github": "1amageek/Bleu",
+                "type": "github"
+            },
+            {
+                "title": "BlueCap",
+                "href": "https://github.com/troystribling/BlueCap",
+                "github": "troystribling/BlueCap",
+                "type": "github"
+            },
+            {
+                "title": "Bluetonium",
+                "href": "https://github.com/e-sites/Bluetonium",
+                "github": "e-sites/Bluetonium",
+                "type": "github"
+            },
+            {
+                "title": "BluetoothKit",
+                "href": "https://github.com/rhummelmose/BluetoothKit",
+                "github": "rhummelmose/BluetoothKit",
+                "type": "github"
+            },
+            {
+                "title": "RxBluetoothKit",
+                "href": "https://github.com/polidea/RxBluetoothKit",
+                "github": "polidea/RxBluetoothKit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Camera",
+        "childrens": [
+            {
+                "title": "ALCameraViewController",
+                "href": "https://github.com/AlexLittlejohn/ALCameraViewController",
+                "github": "AlexLittlejohn/ALCameraViewController",
+                "type": "github"
+            },
+            {
+                "title": "Fusuma",
+                "href": "https://github.com/ytakzk/Fusuma",
+                "github": "ytakzk/Fusuma",
+                "type": "github"
+            },
+            {
+                "title": "NextLevel",
+                "href": "https://github.com/NextLevel/NextLevel",
+                "github": "NextLevel/NextLevel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Barcode",
+        "childrens": [
+            {
+                "title": "BarcodeScanner",
+                "href": "https://github.com/hyperoslo/BarcodeScanner",
+                "github": "hyperoslo/BarcodeScanner",
+                "type": "github"
+            },
+            {
+                "title": "EFQRCode",
+                "href": "https://github.com/EyreFree/EFQRCode",
+                "github": "EyreFree/EFQRCode",
+                "type": "github"
+            },
+            {
+                "title": "QRCodeReader.swift",
+                "href": "https://github.com/yannickl/QRCodeReader.swift",
+                "github": "yannickl/QRCodeReader.swift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haptic Feedback",
+        "childrens": [
+            {
+                "title": "Haptica",
+                "href": "https://github.com/efremidze/Haptica",
+                "github": "efremidze/Haptica",
+                "type": "github"
+            },
+            {
+                "title": "TapticEngine",
+                "href": "https://github.com/WorldDownTown/TapticEngine",
+                "github": "WorldDownTown/TapticEngine",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "iBeacon",
+        "childrens": [
+            {
+                "title": "iBeacon",
+                "href": "https://github.com/gemtot/iBeacon",
+                "github": "gemtot/iBeacon",
+                "type": "github"
+            },
+            {
+                "title": "JMCBeaconManager",
+                "href": "https://github.com/izotx/JMCBeaconManager",
+                "github": "izotx/JMCBeaconManager",
+                "type": "github"
+            },
+            {
+                "title": "SwiftLocation",
+                "href": "https://github.com/malcommac/SwiftLocation",
+                "github": "malcommac/SwiftLocation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sensors",
+        "childrens": [
+            {
+                "title": "MotionKit",
+                "href": "https://github.com/MHaroonBaig/MotionKit",
+                "github": "MHaroonBaig/MotionKit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Images",
+        "childrens": [
+            {
+                "title": "Agrume",
+                "href": "https://github.com/JanGorman/Agrume",
+                "github": "JanGorman/Agrume",
+                "type": "github"
+            },
+            {
+                "title": "AlamofireImage",
+                "href": "https://github.com/Alamofire/AlamofireImage",
+                "github": "Alamofire/AlamofireImage",
+                "type": "github"
+            },
+            {
+                "title": "APNGKit",
+                "href": "https://github.com/onevcat/APNGKit",
+                "github": "onevcat/APNGKit",
+                "type": "github"
+            },
+            {
+                "title": "CTPanoramaView",
+                "href": "https://github.com/scihant/CTPanoramaView",
+                "github": "scihant/CTPanoramaView",
+                "type": "github"
+            },
+            {
+                "title": "FacebookImagePicker",
+                "href": "https://github.com/terflogag/FacebookImagePicker",
+                "github": "terflogag/FacebookImagePicker",
+                "type": "github"
+            },
+            {
+                "title": "Filterpedia",
+                "href": "https://github.com/FlexMonkey/Filterpedia",
+                "github": "FlexMonkey/Filterpedia",
+                "type": "github"
+            },
+            {
+                "title": "gifu",
+                "href": "https://github.com/kaishin/gifu",
+                "github": "kaishin/gifu",
+                "type": "github"
+            },
+            {
+                "title": "GPUImage 2",
+                "href": "https://github.com/BradLarson/GPUImage2",
+                "github": "BradLarson/GPUImage2",
+                "type": "github"
+            },
+            {
+                "title": "HanekeSwift",
+                "href": "https://github.com/Haneke/HanekeSwift",
+                "github": "Haneke/HanekeSwift",
+                "type": "github"
+            },
+            {
+                "title": "ImageLoader",
+                "href": "https://github.com/hirohisa/ImageLoaderSwift",
+                "github": "hirohisa/ImageLoaderSwift",
+                "type": "github"
+            },
+            {
+                "title": "ImageScout",
+                "href": "https://github.com/kaishin/ImageScout",
+                "github": "kaishin/ImageScout",
+                "type": "github"
+            },
+            {
+                "title": "JLStickerTextView",
+                "href": "https://github.com/luiyezheng/JLStickerTextView",
+                "github": "luiyezheng/JLStickerTextView",
+                "type": "github"
+            },
+            {
+                "title": "KFSwiftImageLoader",
+                "href": "https://github.com/kiavashfaisali/KFSwiftImageLoader",
+                "github": "kiavashfaisali/KFSwiftImageLoader",
+                "type": "github"
+            },
+            {
+                "title": "Kingfisher",
+                "href": "https://github.com/onevcat/Kingfisher",
+                "github": "onevcat/Kingfisher",
+                "type": "github"
+            },
+            {
+                "title": "Lightbox",
+                "href": "https://github.com/hyperoslo/Lightbox",
+                "github": "hyperoslo/Lightbox",
+                "type": "github"
+            },
+            {
+                "title": "MapleBacon",
+                "href": "https://github.com/zalando-incubator/MapleBacon",
+                "github": "zalando-incubator/MapleBacon",
+                "type": "github"
+            },
+            {
+                "title": "Misen",
+                "href": "https://github.com/tasanobu/Misen",
+                "github": "tasanobu/Misen",
+                "type": "github"
+            },
+            {
+                "title": "Moa",
+                "href": "https://github.com/evgenyneu/moa",
+                "github": "evgenyneu/moa",
+                "type": "github"
+            },
+            {
+                "title": "Nuke",
+                "href": "https://github.com/kean/Nuke",
+                "github": "kean/Nuke",
+                "type": "github"
+            },
+            {
+                "title": "PASImageView",
+                "href": "https://github.com/abiaad/PASImageView",
+                "github": "abiaad/PASImageView",
+                "type": "github"
+            },
+            {
+                "title": "PassportScanner",
+                "href": "https://github.com/evermeer/PassportScanner",
+                "github": "evermeer/PassportScanner",
+                "type": "github"
+            },
+            {
+                "title": "Sharaku",
+                "href": "https://github.com/makomori/Sharaku",
+                "github": "makomori/Sharaku",
+                "type": "github"
+            },
+            {
+                "title": "Snowflake",
+                "href": "https://github.com/onmyway133/Snowflake",
+                "github": "onmyway133/Snowflake",
+                "type": "github"
+            },
+            {
+                "title": "SwiftGen-Assets",
+                "href": "https://github.com/SwiftGen/SwiftGen#assets-catalogs",
+                "github": "SwiftGen/SwiftGen#assets-catalogs",
+                "type": "github"
+            },
+            {
+                "title": "SwiftGif",
+                "href": "https://github.com/bahlo/SwiftGif",
+                "github": "bahlo/SwiftGif",
+                "type": "github"
+            },
+            {
+                "title": "SwiftSVG",
+                "href": "https://github.com/mchoe/SwiftSVG",
+                "github": "mchoe/SwiftSVG",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyGif",
+                "href": "https://github.com/kirualex/SwiftyGif",
+                "github": "kirualex/SwiftyGif",
+                "type": "github"
+            },
+            {
+                "title": "TextDrawer",
+                "href": "https://github.com/remirobert/TextDrawer",
+                "github": "remirobert/TextDrawer",
+                "type": "github"
+            },
+            {
+                "title": "TinyCrayon",
+                "href": "https://github.com/TinyCrayon/TinyCrayon-iOS-SDK",
+                "github": "TinyCrayon/TinyCrayon-iOS-SDK",
+                "type": "github"
+            },
+            {
+                "title": "Toucan",
+                "href": "https://github.com/gavinbunney/Toucan",
+                "github": "gavinbunney/Toucan",
+                "type": "github"
+            },
+            {
+                "title": "UIImageColors",
+                "href": "https://github.com/jathu/UIImageColors",
+                "github": "jathu/UIImageColors",
+                "type": "github"
+            },
+            {
+                "title": "Vulcan",
+                "href": "https://github.com/jinSasaki/Vulcan",
+                "github": "jinSasaki/Vulcan",
+                "type": "github"
+            },
+            {
+                "title": "WDImagePicker",
+                "href": "https://github.com/justwudi/WDImagePicker",
+                "github": "justwudi/WDImagePicker",
+                "type": "github"
+            },
+            {
+                "title": "XAnimatedImage",
+                "href": "https://github.com/khaledmtaha/XAnimatedImage",
+                "github": "khaledmtaha/XAnimatedImage",
+                "type": "github"
+            },
+            {
+                "title": "FlexibleImage",
+                "href": "https://github.com/kawoou/FlexibleImage",
+                "github": "kawoou/FlexibleImage",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Keyboard",
+        "childrens": [
+            {
+                "title": "IHKeyboardAvoiding",
+                "href": "https://github.com/IdleHandsApps/IHKeyboardAvoiding",
+                "github": "IdleHandsApps/IHKeyboardAvoiding",
+                "type": "github"
+            },
+            {
+                "title": "KeyboardHideManager",
+                "href": "https://github.com/bonyadmitr/KeyboardHideManager",
+                "github": "bonyadmitr/KeyboardHideManager",
+                "type": "github"
+            },
+            {
+                "title": "Typist",
+                "href": "https://github.com/totocaster/Typist",
+                "github": "totocaster/Typist",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Kit",
+        "childrens": [
+            {
+                "title": "BFKit-Swift",
+                "href": "https://github.com/FabrizioBrancati/BFKit-Swift",
+                "github": "FabrizioBrancati/BFKit-Swift",
+                "type": "github"
+            },
+            {
+                "title": "C4iOS",
+                "href": "https://github.com/C4Labs/C4iOS",
+                "github": "C4Labs/C4iOS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Layout",
+        "childrens": [
+            {
+                "title": "BrickKit",
+                "href": "https://github.com/wayfair/brickkit-ios",
+                "github": "wayfair/brickkit-ios",
+                "type": "github"
+            },
+            {
+                "title": "JustUiKit",
+                "href": "https://github.com/lfkdsk/JustUiKit",
+                "github": "lfkdsk/JustUiKit",
+                "type": "github"
+            },
+            {
+                "title": "ManualLayout",
+                "href": "https://github.com/isair/ManualLayout",
+                "github": "isair/ManualLayout",
+                "type": "github"
+            },
+            {
+                "title": "Neon",
+                "href": "https://github.com/mamaral/Neon",
+                "github": "mamaral/Neon",
+                "type": "github"
+            },
+            {
+                "title": "Static",
+                "href": "https://github.com/venmo/Static",
+                "github": "venmo/Static",
+                "type": "github"
+            },
+            {
+                "title": "Stevia",
+                "href": "https://github.com/freshOS/Stevia",
+                "github": "freshOS/Stevia",
+                "type": "github"
+            },
+            {
+                "title": "SwiftBox",
+                "href": "https://github.com/joshaber/SwiftBox",
+                "github": "joshaber/SwiftBox",
+                "type": "github"
+            },
+            {
+                "title": "ViewMonitor",
+                "href": "https://github.com/daisuke0131/ViewMonitor",
+                "github": "daisuke0131/ViewMonitor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Auto Layout",
+        "childrens": [
+            {
+                "title": "AutoLayoutPlus",
+                "href": "https://github.com/ruipfcosta/AutoLayoutPlus",
+                "github": "ruipfcosta/AutoLayoutPlus",
+                "type": "github"
+            },
+            {
+                "title": "Cartography",
+                "href": "https://github.com/robb/Cartography",
+                "github": "robb/Cartography",
+                "type": "github"
+            },
+            {
+                "title": "EasyPeasy",
+                "href": "https://github.com/nakiostudio/EasyPeasy",
+                "github": "nakiostudio/EasyPeasy",
+                "type": "github"
+            },
+            {
+                "title": "FormationLayout",
+                "href": "https://github.com/evan-liu/FormationLayout",
+                "github": "evan-liu/FormationLayout",
+                "type": "github"
+            },
+            {
+                "title": "MisterFusion",
+                "href": "https://github.com/marty-suzuki/MisterFusion",
+                "github": "marty-suzuki/MisterFusion",
+                "type": "github"
+            },
+            {
+                "title": "Mortar",
+                "href": "https://github.com/jmfieldman/Mortar",
+                "github": "jmfieldman/Mortar",
+                "type": "github"
+            },
+            {
+                "title": "PureLayout",
+                "href": "https://github.com/PureLayout/PureLayout",
+                "github": "PureLayout/PureLayout",
+                "type": "github"
+            },
+            {
+                "title": "Restraint",
+                "href": "https://github.com/puffinsupply/Restraint",
+                "github": "puffinsupply/Restraint",
+                "type": "github"
+            },
+            {
+                "title": "SnapKit",
+                "href": "https://github.com/SnapKit/SnapKit",
+                "github": "SnapKit/SnapKit",
+                "type": "github"
+            },
+            {
+                "title": "SwiftAutoLayout",
+                "href": "https://github.com/indragiek/SwiftAutoLayout",
+                "github": "indragiek/SwiftAutoLayout",
+                "type": "github"
+            },
+            {
+                "title": "Swiftstraints",
+                "href": "https://github.com/Skyvive/Swiftstraints",
+                "github": "Skyvive/Swiftstraints",
+                "type": "github"
+            },
+            {
+                "title": "TinyConstraints",
+                "href": "https://github.com/roberthein/TinyConstraints",
+                "github": "roberthein/TinyConstraints",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Localization",
+        "childrens": [
+            {
+                "title": "BartyCrouch",
+                "href": "https://github.com/Flinesoft/BartyCrouch",
+                "github": "Flinesoft/BartyCrouch",
+                "type": "github"
+            },
+            {
+                "title": "IBLocalizable",
+                "href": "https://github.com/PiXeL16/IBLocalizable",
+                "github": "PiXeL16/IBLocalizable",
+                "type": "github"
+            },
+            {
+                "title": "LocalizationKit",
+                "href": "https://github.com/willpowell8/LocalizationKit_iOS",
+                "github": "willpowell8/LocalizationKit_iOS",
+                "type": "github"
+            },
+            {
+                "title": "Localize-Swift",
+                "href": "https://github.com/marmelroy/Localize-Swift",
+                "github": "marmelroy/Localize-Swift",
+                "type": "github"
+            },
+            {
+                "title": "NoOptionalInterpolation",
+                "href": "https://github.com/T-Pham/NoOptionalInterpolation",
+                "github": "T-Pham/NoOptionalInterpolation",
+                "type": "github"
+            },
+            {
+                "title": "Swifternalization",
+                "href": "https://github.com/tomkowz/Swifternalization",
+                "github": "tomkowz/Swifternalization",
+                "type": "github"
+            },
+            {
+                "title": "SwiftGen-L10n",
+                "href": "https://github.com/SwiftGen/SwiftGen#localizablestrings",
+                "github": "SwiftGen/SwiftGen#localizablestrings",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Location",
+        "childrens": [
+            {
+                "title": "STLocationRequest",
+                "href": "https://github.com/SvenTiigi/STLocationRequest",
+                "github": "SvenTiigi/STLocationRequest",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "AEConsole",
+                "href": "https://github.com/tadija/AEConsole",
+                "github": "tadija/AEConsole",
+                "type": "github"
+            },
+            {
+                "title": "CleanroomASL",
+                "href": "https://github.com/gilt/CleanroomASL",
+                "github": "gilt/CleanroomASL",
+                "type": "github"
+            },
+            {
+                "title": "CleanroomLogger",
+                "href": "https://github.com/emaloney/CleanroomLogger",
+                "github": "emaloney/CleanroomLogger",
+                "type": "github"
+            },
+            {
+                "title": "Dotzu",
+                "href": "https://github.com/remirobert/Dotzu",
+                "github": "remirobert/Dotzu",
+                "type": "github"
+            },
+            {
+                "title": "Duration",
+                "href": "https://github.com/SwiftStudies/Duration",
+                "github": "SwiftStudies/Duration",
+                "type": "github"
+            },
+            {
+                "title": "Evergreen",
+                "href": "https://github.com/knly/Evergreen",
+                "github": "knly/Evergreen",
+                "type": "github"
+            },
+            {
+                "title": "HeliumLogger",
+                "href": "https://github.com/IBM-Swift/HeliumLogger",
+                "github": "IBM-Swift/HeliumLogger",
+                "type": "github"
+            },
+            {
+                "title": "Log",
+                "href": "https://github.com/delba/Log",
+                "github": "delba/Log",
+                "type": "github"
+            },
+            {
+                "title": "Puree",
+                "href": "https://github.com/cookpad/puree-ios",
+                "github": "cookpad/puree-ios",
+                "type": "github"
+            },
+            {
+                "title": "QorumLogs",
+                "href": "https://github.com/goktugyil/QorumLogs",
+                "github": "goktugyil/QorumLogs",
+                "type": "github"
+            },
+            {
+                "title": "Rainbow",
+                "href": "https://github.com/onevcat/Rainbow",
+                "github": "onevcat/Rainbow",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyBeaver",
+                "href": "https://github.com/SwiftyBeaver/SwiftyBeaver",
+                "github": "SwiftyBeaver/SwiftyBeaver",
+                "type": "github"
+            },
+            {
+                "title": "TinyConsole",
+                "href": "https://github.com/Cosmo/TinyConsole",
+                "github": "Cosmo/TinyConsole",
+                "type": "github"
+            },
+            {
+                "title": "Watchdog",
+                "href": "https://github.com/wojteklu/Watchdog",
+                "github": "wojteklu/Watchdog",
+                "type": "github"
+            },
+            {
+                "title": "WatchdogInspector",
+                "href": "https://github.com/tapwork/WatchdogInspector",
+                "github": "tapwork/WatchdogInspector",
+                "type": "github"
+            },
+            {
+                "title": "Willow",
+                "href": "https://github.com/Nike-Inc/Willow",
+                "github": "Nike-Inc/Willow",
+                "type": "github"
+            },
+            {
+                "title": "XCGLogger",
+                "href": "https://github.com/DaveWoodCom/XCGLogger",
+                "github": "DaveWoodCom/XCGLogger",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Maps",
+        "childrens": [
+            {
+                "title": "Cluster",
+                "href": "https://github.com/efremidze/Cluster",
+                "github": "efremidze/Cluster",
+                "type": "github"
+            },
+            {
+                "title": "GEOSwift",
+                "href": "https://github.com/andreacremaschi/GEOSwift",
+                "github": "andreacremaschi/GEOSwift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Math",
+        "childrens": [
+            {
+                "title": "Arithmosophi",
+                "href": "https://github.com/phimage/Arithmosophi",
+                "github": "phimage/Arithmosophi",
+                "type": "github"
+            },
+            {
+                "title": "DDMathParser",
+                "href": "https://github.com/davedelong/DDMathParser",
+                "github": "davedelong/DDMathParser",
+                "type": "github"
+            },
+            {
+                "title": "PlotKit",
+                "href": "https://github.com/aleph7/PlotKit",
+                "github": "aleph7/PlotKit",
+                "type": "github"
+            },
+            {
+                "title": "SigmaSwiftStatistics",
+                "href": "https://github.com/evgenyneu/SigmaSwiftStatistics",
+                "github": "evgenyneu/SigmaSwiftStatistics",
+                "type": "github"
+            },
+            {
+                "title": "swix",
+                "href": "https://github.com/stsievert/swix",
+                "github": "stsievert/swix",
+                "type": "github"
+            },
+            {
+                "title": "Upsurge",
+                "href": "https://github.com/aleph7/Upsurge",
+                "github": "aleph7/Upsurge",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "CoreLinguistics",
+                "href": "https://github.com/rxwei/CoreLinguistics",
+                "github": "rxwei/CoreLinguistics",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Network",
+        "childrens": [
+            {
+                "title": "agent",
+                "href": "https://github.com/hallas/agent",
+                "github": "hallas/agent",
+                "type": "github"
+            },
+            {
+                "title": "Alamofire",
+                "href": "https://github.com/Alamofire/Alamofire",
+                "github": "Alamofire/Alamofire",
+                "type": "github"
+            },
+            {
+                "title": "APIKit",
+                "href": "https://github.com/ishkawa/APIKit",
+                "github": "ishkawa/APIKit",
+                "type": "github"
+            },
+            {
+                "title": "BigBrother",
+                "href": "https://github.com/marcelofabri/BigBrother",
+                "github": "marcelofabri/BigBrother",
+                "type": "github"
+            },
+            {
+                "title": "Endpoint",
+                "href": "https://github.com/devxoul/Endpoint",
+                "github": "devxoul/Endpoint",
+                "type": "github"
+            },
+            {
+                "title": "Heimdallr.swift",
+                "href": "https://github.com/trivago/Heimdallr.swift",
+                "github": "trivago/Heimdallr.swift",
+                "type": "github"
+            },
+            {
+                "title": "Just",
+                "href": "https://github.com/JustHTTP/Just",
+                "github": "JustHTTP/Just",
+                "type": "github"
+            },
+            {
+                "title": "Malibu",
+                "href": "https://github.com/hyperoslo/Malibu",
+                "github": "hyperoslo/Malibu",
+                "type": "github"
+            },
+            {
+                "title": "Moya",
+                "href": "https://github.com/Moya/Moya",
+                "github": "Moya/Moya",
+                "type": "github"
+            },
+            {
+                "title": "NEKit",
+                "href": "https://github.com/zhuhaow/NEKit",
+                "github": "zhuhaow/NEKit",
+                "type": "github"
+            },
+            {
+                "title": "Netfox",
+                "href": "https://github.com/kasketis/netfox",
+                "github": "kasketis/netfox",
+                "type": "github"
+            },
+            {
+                "title": "OAuth2",
+                "href": "https://github.com/p2/OAuth2",
+                "github": "p2/OAuth2",
+                "type": "github"
+            },
+            {
+                "title": "OAuthSwift",
+                "href": "https://github.com/OAuthSwift/OAuthSwift",
+                "github": "OAuthSwift/OAuthSwift",
+                "type": "github"
+            },
+            {
+                "title": "PeerKit",
+                "href": "https://github.com/jpsim/PeerKit",
+                "github": "jpsim/PeerKit",
+                "type": "github"
+            },
+            {
+                "title": "Pitaya",
+                "href": "https://github.com/johnlui/Pitaya",
+                "github": "johnlui/Pitaya",
+                "type": "github"
+            },
+            {
+                "title": "Postal",
+                "href": "https://github.com/snipsco/Postal",
+                "github": "snipsco/Postal",
+                "type": "github"
+            },
+            {
+                "title": "Reach",
+                "href": "https://github.com/Isuru-Nanayakkara/Reach",
+                "github": "Isuru-Nanayakkara/Reach",
+                "type": "github"
+            },
+            {
+                "title": "Reachability.swift",
+                "href": "https://github.com/ashleymills/Reachability.swift",
+                "github": "ashleymills/Reachability.swift",
+                "type": "github"
+            },
+            {
+                "title": "ResponseDetective",
+                "href": "https://github.com/netguru/ResponseDetective",
+                "github": "netguru/ResponseDetective",
+                "type": "github"
+            },
+            {
+                "title": "SwiftHTTP",
+                "href": "https://github.com/daltoniam/SwiftHTTP",
+                "github": "daltoniam/SwiftHTTP",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyOAuth",
+                "href": "https://github.com/delba/SwiftyOAuth",
+                "github": "delba/SwiftyOAuth",
+                "type": "github"
+            },
+            {
+                "title": "Transporter",
+                "href": "https://github.com/nghialv/Transporter",
+                "github": "nghialv/Transporter",
+                "type": "github"
+            },
+            {
+                "title": "TRON",
+                "href": "https://github.com/MLSDev/TRON",
+                "github": "MLSDev/TRON",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML",
+        "childrens": [
+            {
+                "title": "Fuzi",
+                "href": "https://github.com/cezheng/Fuzi",
+                "github": "cezheng/Fuzi",
+                "type": "github"
+            },
+            {
+                "title": "Ji",
+                "href": "https://github.com/honghaoz/Ji",
+                "github": "honghaoz/Ji",
+                "type": "github"
+            },
+            {
+                "title": "Kanna",
+                "href": "https://github.com/tid-kijyun/Kanna",
+                "github": "tid-kijyun/Kanna",
+                "type": "github"
+            },
+            {
+                "title": "WKZombie",
+                "href": "https://github.com/mkoehnke/WKZombie",
+                "github": "mkoehnke/WKZombie",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Messaging Protocol",
+        "childrens": [
+            {
+                "title": "CocoaMQTT",
+                "href": "https://github.com/emqtt/CocoaMQTT",
+                "github": "emqtt/CocoaMQTT",
+                "type": "github"
+            },
+            {
+                "title": "Perfect-Notifications",
+                "href": "https://github.com/PerfectlySoft/Perfect-Notifications",
+                "github": "PerfectlySoft/Perfect-Notifications",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Socket",
+        "childrens": [
+            {
+                "title": "BlueSocket",
+                "href": "https://github.com/IBM-Swift/BlueSocket",
+                "github": "IBM-Swift/BlueSocket",
+                "type": "github"
+            },
+            {
+                "title": "Socket.IO",
+                "href": "https://github.com/socketio/socket.io-client-swift",
+                "github": "socketio/socket.io-client-swift",
+                "type": "github"
+            },
+            {
+                "title": "SocketIO-Kit",
+                "href": "https://github.com/ricardopereira/SocketIO-Kit",
+                "github": "ricardopereira/SocketIO-Kit",
+                "type": "github"
+            },
+            {
+                "title": "sockets",
+                "href": "https://github.com/vapor/sockets",
+                "github": "vapor/sockets",
+                "type": "github"
+            },
+            {
+                "title": "Starscream",
+                "href": "https://github.com/daltoniam/Starscream",
+                "github": "daltoniam/Starscream",
+                "type": "github"
+            },
+            {
+                "title": "SwiftSocket",
+                "href": "https://github.com/swiftsocket/SwiftSocket",
+                "github": "swiftsocket/SwiftSocket",
+                "type": "github"
+            },
+            {
+                "title": "SwiftWebSocket",
+                "href": "https://github.com/tidwall/SwiftWebSocket",
+                "github": "tidwall/SwiftWebSocket",
+                "type": "github"
+            },
+            {
+                "title": "WebSocket",
+                "href": "https://github.com/Zewo/WebSocket",
+                "github": "Zewo/WebSocket",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Webserver",
+        "childrens": [
+            {
+                "title": "Ambassador",
+                "href": "https://github.com/envoy/Ambassador",
+                "github": "envoy/Ambassador",
+                "type": "github"
+            },
+            {
+                "title": "Blackfire",
+                "href": "https://github.com/elliottminns/blackfire",
+                "github": "elliottminns/blackfire",
+                "type": "github"
+            },
+            {
+                "title": "Curassow",
+                "href": "https://github.com/kylef/Curassow",
+                "github": "kylef/Curassow",
+                "type": "github"
+            },
+            {
+                "title": "Dynamo",
+                "href": "https://github.com/johnno1962/Dynamo",
+                "github": "johnno1962/Dynamo",
+                "type": "github"
+            },
+            {
+                "title": "Edge",
+                "href": "https://github.com/SwiftOnEdge/Edge",
+                "github": "SwiftOnEdge/Edge",
+                "type": "github"
+            },
+            {
+                "title": "Embassy",
+                "href": "https://github.com/envoy/Embassy",
+                "github": "envoy/Embassy",
+                "type": "github"
+            },
+            {
+                "title": "Express",
+                "href": "https://github.com/crossroadlabs/Express",
+                "github": "crossroadlabs/Express",
+                "type": "github"
+            },
+            {
+                "title": "Frank",
+                "href": "https://github.com/kylef/Frank",
+                "github": "kylef/Frank",
+                "type": "github"
+            },
+            {
+                "title": "http4swift",
+                "href": "https://github.com/takebayashi/http4swift",
+                "github": "takebayashi/http4swift",
+                "type": "github"
+            },
+            {
+                "title": "Kitura",
+                "href": "https://github.com/IBM-Swift/Kitura",
+                "github": "IBM-Swift/Kitura",
+                "type": "github"
+            },
+            {
+                "title": "Kunugi",
+                "href": "https://github.com/novi/Kunugi",
+                "github": "novi/Kunugi",
+                "type": "github"
+            },
+            {
+                "title": "Noze.io",
+                "href": "https://github.com/NozeIO/Noze.io",
+                "github": "NozeIO/Noze.io",
+                "type": "github"
+            },
+            {
+                "title": "Perfect",
+                "href": "https://github.com/PerfectlySoft/Perfect",
+                "github": "PerfectlySoft/Perfect",
+                "type": "github"
+            },
+            {
+                "title": "swifter",
+                "href": "https://github.com/httpswift/swifter",
+                "github": "httpswift/swifter",
+                "type": "github"
+            },
+            {
+                "title": "Swifton",
+                "href": "https://github.com/necolt/Swifton",
+                "github": "necolt/Swifton",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyHTTP",
+                "href": "https://github.com/AlwaysRightInstitute/SwiftyHTTP",
+                "github": "AlwaysRightInstitute/SwiftyHTTP",
+                "type": "github"
+            },
+            {
+                "title": "Taylor",
+                "href": "https://github.com/izqui/Taylor",
+                "github": "izqui/Taylor",
+                "type": "github"
+            },
+            {
+                "title": "Trevi",
+                "href": "https://github.com/Yoseob/Trevi",
+                "github": "Yoseob/Trevi",
+                "type": "github"
+            },
+            {
+                "title": "Vapor",
+                "href": "https://github.com/vapor/vapor",
+                "github": "vapor/vapor",
+                "type": "github"
+            },
+            {
+                "title": "XcodeServerSDK",
+                "href": "https://github.com/buildasaurs/XcodeServerSDK",
+                "github": "buildasaurs/XcodeServerSDK",
+                "type": "github"
+            },
+            {
+                "title": "Zewo",
+                "href": "https://github.com/Zewo/Zewo",
+                "github": "Zewo/Zewo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "OCR",
+        "childrens": [
+            {
+                "title": "SwiftOCR",
+                "href": "https://github.com/garnele007/SwiftOCR",
+                "github": "garnele007/SwiftOCR",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PDF",
+        "childrens": [
+            {
+                "title": "PDFGenerator",
+                "href": "https://github.com/sgr-ksmt/PDFGenerator",
+                "github": "sgr-ksmt/PDFGenerator",
+                "type": "github"
+            },
+            {
+                "title": "SimplePDF",
+                "href": "https://github.com/nRewik/SimplePDF",
+                "github": "nRewik/SimplePDF",
+                "type": "github"
+            },
+            {
+                "title": "UXMPDFKit",
+                "href": "https://github.com/uxmstudio/UXMPDFKit",
+                "github": "uxmstudio/UXMPDFKit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Quality",
+        "childrens": [
+            {
+                "title": "SwiftLint",
+                "href": "https://github.com/realm/SwiftLint",
+                "github": "realm/SwiftLint",
+                "type": "github"
+            },
+            {
+                "title": "Swimat",
+                "href": "https://github.com/Jintin/Swimat",
+                "github": "Jintin/Swimat",
+                "type": "github"
+            },
+            {
+                "title": "Tailor",
+                "href": "https://github.com/sleekbyte/tailor",
+                "github": "sleekbyte/tailor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scripting",
+        "childrens": [
+            {
+                "title": "Marathon",
+                "href": "https://github.com/JohnSundell/Marathon",
+                "github": "JohnSundell/Marathon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cryptography",
+        "childrens": [
+            {
+                "title": "CryptoSwift",
+                "href": "https://github.com/krzyzanowskim/CryptoSwift",
+                "github": "krzyzanowskim/CryptoSwift",
+                "type": "github"
+            },
+            {
+                "title": "IDZSwiftCommonCrypto",
+                "href": "https://github.com/iosdevzone/IDZSwiftCommonCrypto",
+                "github": "iosdevzone/IDZSwiftCommonCrypto",
+                "type": "github"
+            },
+            {
+                "title": "OpenSSL",
+                "href": "https://github.com/Zewo/OpenSSL",
+                "github": "Zewo/OpenSSL",
+                "type": "github"
+            },
+            {
+                "title": "Siphash",
+                "href": "https://github.com/lorentey/SipHash",
+                "github": "lorentey/SipHash",
+                "type": "github"
+            },
+            {
+                "title": "SweetHMAC",
+                "href": "https://github.com/jancassio/SweetHMAC",
+                "github": "jancassio/SweetHMAC",
+                "type": "github"
+            },
+            {
+                "title": "Swift-Sodium",
+                "href": "https://github.com/jedisct1/swift-sodium",
+                "github": "jedisct1/swift-sodium",
+                "type": "github"
+            },
+            {
+                "title": "SwiftSSL",
+                "href": "https://github.com/SwiftP2P/SwiftSSL",
+                "github": "SwiftP2P/SwiftSSL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Keychain",
+        "childrens": [
+            {
+                "title": "keychain-swift",
+                "href": "https://github.com/marketplacer/keychain-swift",
+                "github": "marketplacer/keychain-swift",
+                "type": "github"
+            },
+            {
+                "title": "KeychainAccess",
+                "href": "https://github.com/kishikawakatsumi/KeychainAccess",
+                "github": "kishikawakatsumi/KeychainAccess",
+                "type": "github"
+            },
+            {
+                "title": "KeyClip",
+                "href": "https://github.com/s-aska/KeyClip",
+                "github": "s-aska/KeyClip",
+                "type": "github"
+            },
+            {
+                "title": "Latch",
+                "href": "https://github.com/DanToml/Latch",
+                "github": "DanToml/Latch",
+                "type": "github"
+            },
+            {
+                "title": "Locksmith",
+                "href": "https://github.com/matthewpalmer/Locksmith",
+                "github": "matthewpalmer/Locksmith",
+                "type": "github"
+            },
+            {
+                "title": "SwiftKeychainWrapper",
+                "href": "https://github.com/jrendel/SwiftKeychainWrapper",
+                "github": "jrendel/SwiftKeychainWrapper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Streaming",
+        "childrens": [
+            {
+                "title": "Live",
+                "href": "https://github.com/ltebean/Live",
+                "github": "ltebean/Live",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "System",
+        "childrens": [
+            {
+                "title": "SMCKit",
+                "href": "https://github.com/beltex/SMCKit",
+                "github": "beltex/SMCKit",
+                "type": "github"
+            },
+            {
+                "title": "SystemKit",
+                "href": "https://github.com/beltex/SystemKit/",
+                "github": "beltex/SystemKit/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Buildasaur",
+                "href": "https://github.com/buildasaurs/Buildasaur",
+                "github": "buildasaurs/Buildasaur",
+                "type": "github"
+            },
+            {
+                "title": "CatchingFire",
+                "href": "https://github.com/mrackwitz/CatchingFire",
+                "github": "mrackwitz/CatchingFire",
+                "type": "github"
+            },
+            {
+                "title": "DVR",
+                "href": "https://github.com/venmo/DVR",
+                "github": "venmo/DVR",
+                "type": "github"
+            },
+            {
+                "title": "Erik",
+                "href": "https://github.com/phimage/Erik",
+                "github": "phimage/Erik",
+                "type": "github"
+            },
+            {
+                "title": "Fakery",
+                "href": "https://github.com/vadymmarkov/Fakery",
+                "github": "vadymmarkov/Fakery",
+                "type": "github"
+            },
+            {
+                "title": "OHHTTPStubs",
+                "href": "https://github.com/AliSoftware/OHHTTPStubs",
+                "github": "AliSoftware/OHHTTPStubs",
+                "type": "github"
+            },
+            {
+                "title": "PinpointKit",
+                "href": "https://github.com/Lickability/PinpointKit",
+                "github": "Lickability/PinpointKit",
+                "type": "github"
+            },
+            {
+                "title": "Quick",
+                "href": "https://github.com/Quick/Quick",
+                "github": "Quick/Quick",
+                "type": "github"
+            },
+            {
+                "title": "Sleipnir",
+                "href": "https://github.com/railsware/Sleipnir",
+                "github": "railsware/Sleipnir",
+                "type": "github"
+            },
+            {
+                "title": "Spectre",
+                "href": "https://github.com/kylef/Spectre",
+                "github": "kylef/Spectre",
+                "type": "github"
+            },
+            {
+                "title": "SwiftCheck",
+                "href": "https://github.com/typelift/SwiftCheck",
+                "github": "typelift/SwiftCheck",
+                "type": "github"
+            },
+            {
+                "title": "UI Testing Cheat Sheet",
+                "href": "https://github.com/joemasilotti/UI-Testing-Cheat-Sheet",
+                "github": "joemasilotti/UI-Testing-Cheat-Sheet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mock",
+        "childrens": [
+            {
+                "title": "Cuckoo",
+                "href": "https://github.com/Brightify/Cuckoo",
+                "github": "Brightify/Cuckoo",
+                "type": "github"
+            },
+            {
+                "title": "Kakapo",
+                "href": "https://github.com/devlucky/Kakapo",
+                "github": "devlucky/Kakapo",
+                "type": "github"
+            },
+            {
+                "title": "Mockingjay",
+                "href": "https://github.com/kylef/Mockingjay",
+                "github": "kylef/Mockingjay",
+                "type": "github"
+            },
+            {
+                "title": "Mockit",
+                "href": "https://github.com/sabirvirtuoso/Mockit",
+                "github": "sabirvirtuoso/Mockit",
+                "type": "github"
+            },
+            {
+                "title": "SwiftMock",
+                "href": "https://github.com/mflint/SwiftMock",
+                "github": "mflint/SwiftMock",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Text",
+        "childrens": [
+            {
+                "title": "Apodimark",
+                "href": "https://github.com/loiclec/Apodimark",
+                "github": "loiclec/Apodimark",
+                "type": "github"
+            },
+            {
+                "title": "Atributika",
+                "href": "https://github.com/psharanda/Atributika",
+                "github": "psharanda/Atributika",
+                "type": "github"
+            },
+            {
+                "title": "Attributed",
+                "href": "https://github.com/Nirma/Attributed",
+                "github": "Nirma/Attributed",
+                "type": "github"
+            },
+            {
+                "title": "AttributedTextView",
+                "href": "https://github.com/evermeer/AttributedTextView",
+                "github": "evermeer/AttributedTextView",
+                "type": "github"
+            },
+            {
+                "title": "BonMot",
+                "href": "https://github.com/Raizlabs/BonMot",
+                "github": "Raizlabs/BonMot",
+                "type": "github"
+            },
+            {
+                "title": "edhita",
+                "href": "https://github.com/tnantoka/edhita",
+                "github": "tnantoka/edhita",
+                "type": "github"
+            },
+            {
+                "title": "Format",
+                "href": "https://github.com/marmelroy/Format",
+                "github": "marmelroy/Format",
+                "type": "github"
+            },
+            {
+                "title": "Markdown",
+                "href": "https://github.com/crossroadlabs/Markdown",
+                "github": "crossroadlabs/Markdown",
+                "type": "github"
+            },
+            {
+                "title": "MarkdownKit",
+                "href": "https://github.com/ivanbruel/MarkdownKit",
+                "github": "ivanbruel/MarkdownKit",
+                "type": "github"
+            },
+            {
+                "title": "Mustard",
+                "href": "https://github.com/mathewsanders/Mustard",
+                "github": "mathewsanders/Mustard",
+                "type": "github"
+            },
+            {
+                "title": "Notepad",
+                "href": "https://github.com/ruddfawcett/Notepad",
+                "github": "ruddfawcett/Notepad",
+                "type": "github"
+            },
+            {
+                "title": "Parsey",
+                "href": "https://github.com/rxwei/Parsey",
+                "github": "rxwei/Parsey",
+                "type": "github"
+            },
+            {
+                "title": "Pluralize.swift",
+                "href": "https://github.com/joshualat/Pluralize.swift",
+                "github": "joshualat/Pluralize.swift",
+                "type": "github"
+            },
+            {
+                "title": "PrediKit",
+                "href": "https://github.com/KrakenDev/PrediKit",
+                "github": "KrakenDev/PrediKit",
+                "type": "github"
+            },
+            {
+                "title": "PySwiftyRegex",
+                "href": "https://github.com/cezheng/PySwiftyRegex",
+                "github": "cezheng/PySwiftyRegex",
+                "type": "github"
+            },
+            {
+                "title": "Reductio",
+                "href": "https://github.com/fdzsergio/Reductio",
+                "github": "fdzsergio/Reductio",
+                "type": "github"
+            },
+            {
+                "title": "Regex by brynbellomy",
+                "href": "https://github.com/brynbellomy/Regex",
+                "github": "brynbellomy/Regex",
+                "type": "github"
+            },
+            {
+                "title": "Regex by crossroadlabs",
+                "href": "https://github.com/crossroadlabs/Regex",
+                "github": "crossroadlabs/Regex",
+                "type": "github"
+            },
+            {
+                "title": "RichEditorView",
+                "href": "https://github.com/cjwirth/RichEditorView",
+                "github": "cjwirth/RichEditorView",
+                "type": "github"
+            },
+            {
+                "title": "Roman",
+                "href": "https://github.com/nvzqz/Roman",
+                "github": "nvzqz/Roman",
+                "type": "github"
+            },
+            {
+                "title": "SmarkDown",
+                "href": "https://github.com/SwiftStudies/SmarkDown",
+                "github": "SwiftStudies/SmarkDown",
+                "type": "github"
+            },
+            {
+                "title": "SwiftRichString",
+                "href": "https://github.com/malcommac/SwiftRichString",
+                "github": "malcommac/SwiftRichString",
+                "type": "github"
+            },
+            {
+                "title": "SwiftString",
+                "href": "https://github.com/amayne/SwiftString",
+                "github": "amayne/SwiftString",
+                "type": "github"
+            },
+            {
+                "title": "SwiftVerbalExpressions",
+                "href": "https://github.com/VerbalExpressions/SwiftVerbalExpressions",
+                "github": "VerbalExpressions/SwiftVerbalExpressions",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyAttributes",
+                "href": "https://github.com/eddiekaiger/SwiftyAttributes",
+                "github": "eddiekaiger/SwiftyAttributes",
+                "type": "github"
+            },
+            {
+                "title": "SyntaxKit",
+                "href": "https://github.com/soffes/SyntaxKit",
+                "github": "soffes/SyntaxKit",
+                "type": "github"
+            },
+            {
+                "title": "TextAttributes",
+                "href": "https://github.com/delba/TextAttributes",
+                "github": "delba/TextAttributes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Thread",
+        "childrens": [
+            {
+                "title": "Async",
+                "href": "https://github.com/duemunk/Async",
+                "github": "duemunk/Async",
+                "type": "github"
+            },
+            {
+                "title": "AwaitKit",
+                "href": "https://github.com/yannickl/AwaitKit",
+                "github": "yannickl/AwaitKit",
+                "type": "github"
+            },
+            {
+                "title": "Chronos",
+                "href": "https://github.com/comyar/Chronos-Swift",
+                "github": "comyar/Chronos-Swift",
+                "type": "github"
+            },
+            {
+                "title": "Dispatcher",
+                "href": "https://github.com/aleclarson/dispatcher",
+                "github": "aleclarson/dispatcher",
+                "type": "github"
+            },
+            {
+                "title": "Each",
+                "href": "https://github.com/dalu93/Each",
+                "github": "dalu93/Each",
+                "type": "github"
+            },
+            {
+                "title": "EKI",
+                "href": "https://github.com/kodlian/Eki",
+                "github": "kodlian/Eki",
+                "type": "github"
+            },
+            {
+                "title": "GCDKit",
+                "href": "https://github.com/JohnEstropia/GCDKit",
+                "github": "JohnEstropia/GCDKit",
+                "type": "github"
+            },
+            {
+                "title": "GCDTimer",
+                "href": "https://github.com/hemantasapkota/GCDTimer",
+                "github": "hemantasapkota/GCDTimer",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyTimer",
+                "href": "https://github.com/radex/SwiftyTimer",
+                "github": "radex/SwiftyTimer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI",
+        "childrens": [
+            {
+                "title": "AECoreDataUI",
+                "href": "https://github.com/tadija/AERecord",
+                "github": "tadija/AERecord",
+                "type": "github"
+            },
+            {
+                "title": "AmazingBubbles",
+                "href": "https://github.com/GlebRadchenko/AmazingBubbles",
+                "github": "GlebRadchenko/AmazingBubbles",
+                "type": "github"
+            },
+            {
+                "title": "AMScrollingNavbar",
+                "href": "https://github.com/andreamazz/AMScrollingNavbar",
+                "github": "andreamazz/AMScrollingNavbar",
+                "type": "github"
+            },
+            {
+                "title": "AZTransitions",
+                "href": "https://github.com/azimin/AZTransitions",
+                "github": "azimin/AZTransitions",
+                "type": "github"
+            },
+            {
+                "title": "BreakOutToRefresh",
+                "href": "https://github.com/dasdom/BreakOutToRefresh",
+                "github": "dasdom/BreakOutToRefresh",
+                "type": "github"
+            },
+            {
+                "title": "BusyNavigationBar",
+                "href": "https://github.com/gmertk/BusyNavigationBar",
+                "github": "gmertk/BusyNavigationBar",
+                "type": "github"
+            },
+            {
+                "title": "CostumeKit",
+                "href": "https://github.com/jakemarsh/CostumeKit",
+                "github": "jakemarsh/CostumeKit",
+                "type": "github"
+            },
+            {
+                "title": "CustomSegue",
+                "href": "https://github.com/phimage/CustomSegue",
+                "github": "phimage/CustomSegue",
+                "type": "github"
+            },
+            {
+                "title": "Dodo",
+                "href": "https://github.com/marketplacer/Dodo",
+                "github": "marketplacer/Dodo",
+                "type": "github"
+            },
+            {
+                "title": "DropDown",
+                "href": "https://github.com/AssistoLab/DropDown",
+                "github": "AssistoLab/DropDown",
+                "type": "github"
+            },
+            {
+                "title": "Element",
+                "href": "https://github.com/eonist/Element",
+                "github": "eonist/Element",
+                "type": "github"
+            },
+            {
+                "title": "Elissa",
+                "href": "https://github.com/KitchenStories/Elissa",
+                "github": "KitchenStories/Elissa",
+                "type": "github"
+            },
+            {
+                "title": "EPShapes",
+                "href": "https://github.com/ipraba/EPShapes",
+                "github": "ipraba/EPShapes",
+                "type": "github"
+            },
+            {
+                "title": "EstMusicIndicator",
+                "href": "https://github.com/Aufree/ESTMusicIndicator",
+                "github": "Aufree/ESTMusicIndicator",
+                "type": "github"
+            },
+            {
+                "title": "EZSwipeController",
+                "href": "https://github.com/goktugyil/EZSwipeController",
+                "github": "goktugyil/EZSwipeController",
+                "type": "github"
+            },
+            {
+                "title": "FAQView",
+                "href": "https://github.com/mukeshthawani/faqview",
+                "github": "mukeshthawani/faqview",
+                "type": "github"
+            },
+            {
+                "title": "Fashion",
+                "href": "https://github.com/vadymmarkov/Fashion",
+                "github": "vadymmarkov/Fashion",
+                "type": "github"
+            },
+            {
+                "title": "FillableLoaders",
+                "href": "https://github.com/poolqf/FillableLoaders",
+                "github": "poolqf/FillableLoaders",
+                "type": "github"
+            },
+            {
+                "title": "FlagKit",
+                "href": "https://github.com/madebybowtie/FlagKit",
+                "github": "madebybowtie/FlagKit",
+                "type": "github"
+            },
+            {
+                "title": "FloatRatingView",
+                "href": "https://github.com/glenyi/FloatRatingView",
+                "github": "glenyi/FloatRatingView",
+                "type": "github"
+            },
+            {
+                "title": "GaugeKit",
+                "href": "https://github.com/skywinder/GaugeKit",
+                "github": "skywinder/GaugeKit",
+                "type": "github"
+            },
+            {
+                "title": "Geometry",
+                "href": "https://github.com/artman/Geometry",
+                "github": "artman/Geometry",
+                "type": "github"
+            },
+            {
+                "title": "GIFRefreshControl",
+                "href": "https://github.com/delannoyk/GIFRefreshControl",
+                "github": "delannoyk/GIFRefreshControl",
+                "type": "github"
+            },
+            {
+                "title": "GMStepper",
+                "href": "https://github.com/gmertk/GMStepper",
+                "github": "gmertk/GMStepper",
+                "type": "github"
+            },
+            {
+                "title": "GRMustache",
+                "href": "https://github.com/groue/GRMustache.swift",
+                "github": "groue/GRMustache.swift",
+                "type": "github"
+            },
+            {
+                "title": "GrowingTextView",
+                "href": "https://github.com/KennethTsang/GrowingTextView",
+                "github": "KennethTsang/GrowingTextView",
+                "type": "github"
+            },
+            {
+                "title": "Hexacon",
+                "href": "https://github.com/gautier-gdx/Hexacon",
+                "github": "gautier-gdx/Hexacon",
+                "type": "github"
+            },
+            {
+                "title": "HGCircularSlider",
+                "href": "https://github.com/HamzaGhazouani/HGCircularSlider",
+                "github": "HamzaGhazouani/HGCircularSlider",
+                "type": "github"
+            },
+            {
+                "title": "HoneycombView",
+                "href": "https://github.com/suzuki-0000/HoneycombView",
+                "github": "suzuki-0000/HoneycombView",
+                "type": "github"
+            },
+            {
+                "title": "HorizontalDial",
+                "href": "https://github.com/kciter/HorizontalDial",
+                "github": "kciter/HorizontalDial",
+                "type": "github"
+            },
+            {
+                "title": "IGColorPicker",
+                "href": "https://github.com/iGenius-Srl/IGColorPicker",
+                "github": "iGenius-Srl/IGColorPicker",
+                "type": "github"
+            },
+            {
+                "title": "ImagePicker",
+                "href": "https://github.com/hyperoslo/ImagePicker",
+                "github": "hyperoslo/ImagePicker",
+                "type": "github"
+            },
+            {
+                "title": "ImagePickerSheetController",
+                "href": "https://github.com/lbrndnr/ImagePickerSheetController",
+                "github": "lbrndnr/ImagePickerSheetController",
+                "type": "github"
+            },
+            {
+                "title": "InfoView",
+                "href": "https://github.com/anatoliyv/InfoView",
+                "github": "anatoliyv/InfoView",
+                "type": "github"
+            },
+            {
+                "title": "KDInteractiveNavigationController",
+                "href": "https://github.com/kingiol/KDInteractiveNavigationController",
+                "github": "kingiol/KDInteractiveNavigationController",
+                "type": "github"
+            },
+            {
+                "title": "KMNavigationBarTransition",
+                "href": "https://github.com/MoZhouqi/KMNavigationBarTransition",
+                "github": "MoZhouqi/KMNavigationBarTransition",
+                "type": "github"
+            },
+            {
+                "title": "KMPlaceholderTextView",
+                "href": "https://github.com/MoZhouqi/KMPlaceholderTextView",
+                "github": "MoZhouqi/KMPlaceholderTextView",
+                "type": "github"
+            },
+            {
+                "title": "LeeGo",
+                "href": "https://github.com/wangshengjia/LeeGo",
+                "github": "wangshengjia/LeeGo",
+                "type": "github"
+            },
+            {
+                "title": "LiquidLoader",
+                "href": "https://github.com/yoavlt/LiquidLoader",
+                "github": "yoavlt/LiquidLoader",
+                "type": "github"
+            },
+            {
+                "title": "LoginKit",
+                "href": "https://github.com/IcaliaLabs/LoginKit",
+                "github": "IcaliaLabs/LoginKit",
+                "type": "github"
+            },
+            {
+                "title": "Macaw",
+                "href": "https://github.com/exyte/macaw",
+                "github": "exyte/macaw",
+                "type": "github"
+            },
+            {
+                "title": "Magnetic",
+                "href": "https://github.com/efremidze/Magnetic",
+                "github": "efremidze/Magnetic",
+                "type": "github"
+            },
+            {
+                "title": "MantleModal",
+                "href": "https://github.com/canalesb93/MantleModal",
+                "github": "canalesb93/MantleModal",
+                "type": "github"
+            },
+            {
+                "title": "Material",
+                "href": "https://github.com/CosmicMind/Material",
+                "github": "CosmicMind/Material",
+                "type": "github"
+            },
+            {
+                "title": "MaterialKit",
+                "href": "https://github.com/nghialv/MaterialKit",
+                "github": "nghialv/MaterialKit",
+                "type": "github"
+            },
+            {
+                "title": "MediumScrollFullScreen",
+                "href": "https://github.com/pixyzehn/MediumScrollFullScreen",
+                "github": "pixyzehn/MediumScrollFullScreen",
+                "type": "github"
+            },
+            {
+                "title": "MICountryPicker",
+                "href": "https://github.com/mustafaibrahim989/MICountryPicker",
+                "github": "mustafaibrahim989/MICountryPicker",
+                "type": "github"
+            },
+            {
+                "title": "MPParallaxView",
+                "href": "https://github.com/DroidsOnRoids/MPParallaxView",
+                "github": "DroidsOnRoids/MPParallaxView",
+                "type": "github"
+            },
+            {
+                "title": "MXParallaxHeader",
+                "href": "https://github.com/maxep/MXParallaxHeader",
+                "github": "maxep/MXParallaxHeader",
+                "type": "github"
+            },
+            {
+                "title": "MZFormSheetPresentationController",
+                "href": "https://github.com/m1entus/MZFormSheetPresentationController",
+                "github": "m1entus/MZFormSheetPresentationController",
+                "type": "github"
+            },
+            {
+                "title": "NextGrowingTextView",
+                "href": "https://github.com/muukii/NextGrowingTextView",
+                "github": "muukii/NextGrowingTextView",
+                "type": "github"
+            },
+            {
+                "title": "NVActivityIndicatorView",
+                "href": "https://github.com/ninjaprox/NVActivityIndicatorView",
+                "github": "ninjaprox/NVActivityIndicatorView",
+                "type": "github"
+            },
+            {
+                "title": "Otafuku",
+                "href": "https://github.com/tasanobu/Otafuku",
+                "github": "tasanobu/Otafuku",
+                "type": "github"
+            },
+            {
+                "title": "Panoramic",
+                "href": "https://github.com/iSame7/Panoramic",
+                "github": "iSame7/Panoramic",
+                "type": "github"
+            },
+            {
+                "title": "ParallaxView",
+                "href": "https://github.com/PGSSoft/ParallaxView",
+                "github": "PGSSoft/ParallaxView",
+                "type": "github"
+            },
+            {
+                "title": "PPAssetsActionController",
+                "href": "https://github.com/pantuspavel/PPAssetsActionController",
+                "github": "pantuspavel/PPAssetsActionController",
+                "type": "github"
+            },
+            {
+                "title": "PPSwiftGifs",
+                "href": "https://github.com/peterprokop/PPSwiftGifs",
+                "github": "peterprokop/PPSwiftGifs",
+                "type": "github"
+            },
+            {
+                "title": "PullToDismiss",
+                "href": "https://github.com/sgr-ksmt/PullToDismiss",
+                "github": "sgr-ksmt/PullToDismiss",
+                "type": "github"
+            },
+            {
+                "title": "RangeSeekSlider",
+                "href": "https://github.com/WorldDownTown/RangeSeekSlider",
+                "github": "WorldDownTown/RangeSeekSlider",
+                "type": "github"
+            },
+            {
+                "title": "Reel search",
+                "href": "https://github.com/Ramotion/reel-search",
+                "github": "Ramotion/reel-search",
+                "type": "github"
+            },
+            {
+                "title": "SAConfettiView",
+                "href": "https://github.com/sudeepag/SAConfettiView",
+                "github": "sudeepag/SAConfettiView",
+                "type": "github"
+            },
+            {
+                "title": "SAHistoryNavigationViewController",
+                "href": "https://github.com/marty-suzuki/SAHistoryNavigationViewController",
+                "github": "marty-suzuki/SAHistoryNavigationViewController",
+                "type": "github"
+            },
+            {
+                "title": "SelectionDialog",
+                "href": "https://github.com/kciter/SelectionDialog",
+                "github": "kciter/SelectionDialog",
+                "type": "github"
+            },
+            {
+                "title": "SKPhotoBrowser",
+                "href": "https://github.com/suzuki-0000/SKPhotoBrowser",
+                "github": "suzuki-0000/SKPhotoBrowser",
+                "type": "github"
+            },
+            {
+                "title": "SMSwipeableTabView",
+                "href": "https://github.com/smahajan28/SMSwipeableTabView",
+                "github": "smahajan28/SMSwipeableTabView",
+                "type": "github"
+            },
+            {
+                "title": "Sonar",
+                "href": "https://github.com/thefuntasty/Sonar",
+                "github": "thefuntasty/Sonar",
+                "type": "github"
+            },
+            {
+                "title": "Spots",
+                "href": "https://github.com/hyperoslo",
+                "github": "hyperoslo",
+                "type": "github"
+            },
+            {
+                "title": "StarryStars",
+                "href": "https://github.com/peterprokop/StarryStars",
+                "github": "peterprokop/StarryStars",
+                "type": "github"
+            },
+            {
+                "title": "StatefulViewController",
+                "href": "https://github.com/aschuch/StatefulViewController",
+                "github": "aschuch/StatefulViewController",
+                "type": "github"
+            },
+            {
+                "title": "SurfingRefreshControl",
+                "href": "https://github.com/peiweichen/SurfingRefreshControl",
+                "github": "peiweichen/SurfingRefreshControl",
+                "type": "github"
+            },
+            {
+                "title": "SwiftTheme",
+                "href": "https://github.com/jiecao-fm/SwiftTheme",
+                "github": "jiecao-fm/SwiftTheme",
+                "type": "github"
+            },
+            {
+                "title": "SYBlinkAnimationKit",
+                "href": "https://github.com/shoheiyokoyama/SYBlinkAnimationKit",
+                "github": "shoheiyokoyama/SYBlinkAnimationKit",
+                "type": "github"
+            },
+            {
+                "title": "TagListView",
+                "href": "https://github.com/ElaWorkshop/TagListView",
+                "github": "ElaWorkshop/TagListView",
+                "type": "github"
+            },
+            {
+                "title": "TemplateKit",
+                "href": "https://github.com/mcudich/TemplateKit",
+                "github": "mcudich/TemplateKit",
+                "type": "github"
+            },
+            {
+                "title": "Toaster",
+                "href": "https://github.com/devxoul/Toaster",
+                "github": "devxoul/Toaster",
+                "type": "github"
+            },
+            {
+                "title": "TouchVisualizer",
+                "href": "https://github.com/morizotter/TouchVisualizer",
+                "github": "morizotter/TouchVisualizer",
+                "type": "github"
+            },
+            {
+                "title": "Twinkle",
+                "href": "https://github.com/piemonte/Twinkle",
+                "github": "piemonte/Twinkle",
+                "type": "github"
+            },
+            {
+                "title": "UIDropDown",
+                "href": "https://github.com/igongora/UIDropDown",
+                "github": "igongora/UIDropDown",
+                "type": "github"
+            },
+            {
+                "title": "URLEmbeddedView",
+                "href": "https://github.com/marty-suzuki/URLEmbeddedView",
+                "github": "marty-suzuki/URLEmbeddedView",
+                "type": "github"
+            },
+            {
+                "title": "Wallet",
+                "href": "https://github.com/rshevchuk/Wallet",
+                "github": "rshevchuk/Wallet",
+                "type": "github"
+            },
+            {
+                "title": "WSTagsField",
+                "href": "https://github.com/whitesmith/WSTagsField",
+                "github": "whitesmith/WSTagsField",
+                "type": "github"
+            },
+            {
+                "title": "YNSearch",
+                "href": "https://github.com/younatics/YNSearch",
+                "github": "younatics/YNSearch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Alert",
+        "childrens": [
+            {
+                "title": "Alertift",
+                "href": "https://github.com/sgr-ksmt/Alertift",
+                "github": "sgr-ksmt/Alertift",
+                "type": "github"
+            },
+            {
+                "title": "AlertKit",
+                "href": "https://github.com/thii/AlertKit",
+                "github": "thii/AlertKit",
+                "type": "github"
+            },
+            {
+                "title": "CDAlertView",
+                "href": "https://github.com/candostdagdeviren/CDAlertView",
+                "github": "candostdagdeviren/CDAlertView",
+                "type": "github"
+            },
+            {
+                "title": "EZAlertController",
+                "href": "https://github.com/thellimist/EZAlertController",
+                "github": "thellimist/EZAlertController",
+                "type": "github"
+            },
+            {
+                "title": "GoogleWearAlert",
+                "href": "https://github.com/AshRobinson/GoogleWearAlert",
+                "github": "AshRobinson/GoogleWearAlert",
+                "type": "github"
+            },
+            {
+                "title": "GSMessage",
+                "href": "https://github.com/wxxsw/GSMessages",
+                "github": "wxxsw/GSMessages",
+                "type": "github"
+            },
+            {
+                "title": "Hokusai",
+                "href": "https://github.com/ytakzk/Hokusai",
+                "github": "ytakzk/Hokusai",
+                "type": "github"
+            },
+            {
+                "title": "HYAlertController",
+                "href": "https://github.com/castial/HYAlertController",
+                "github": "castial/HYAlertController",
+                "type": "github"
+            },
+            {
+                "title": "Jelly",
+                "href": "https://github.com/SebastianBoldt/Jelly",
+                "github": "SebastianBoldt/Jelly",
+                "type": "github"
+            },
+            {
+                "title": "Kamagari",
+                "href": "https://github.com/tasanobu/Kamagari",
+                "github": "tasanobu/Kamagari",
+                "type": "github"
+            },
+            {
+                "title": "KRAlertController",
+                "href": "https://github.com/krimpedance/KRAlertController",
+                "github": "krimpedance/KRAlertController",
+                "type": "github"
+            },
+            {
+                "title": "MaterialActionSheetController",
+                "href": "https://github.com/ntnhon/MaterialActionSheetController",
+                "github": "ntnhon/MaterialActionSheetController",
+                "type": "github"
+            },
+            {
+                "title": "Notie",
+                "href": "https://github.com/thii/Notie",
+                "github": "thii/Notie",
+                "type": "github"
+            },
+            {
+                "title": "NotificationBanner",
+                "href": "https://github.com/Daltron/NotificationBanner",
+                "github": "Daltron/NotificationBanner",
+                "type": "github"
+            },
+            {
+                "title": "PMAlertController",
+                "href": "https://github.com/Codeido/PMAlertController",
+                "github": "Codeido/PMAlertController",
+                "type": "github"
+            },
+            {
+                "title": "SCLAlertView",
+                "href": "https://github.com/vikmeup/SCLAlertView-Swift",
+                "github": "vikmeup/SCLAlertView-Swift",
+                "type": "github"
+            },
+            {
+                "title": "SweetAlert",
+                "href": "https://github.com/codestergit/SweetAlert-iOS",
+                "github": "codestergit/SweetAlert-iOS",
+                "type": "github"
+            },
+            {
+                "title": "SwiftMessages",
+                "href": "https://github.com/SwiftKickMobile/SwiftMessages",
+                "github": "SwiftKickMobile/SwiftMessages",
+                "type": "github"
+            },
+            {
+                "title": "SwiftOverlays",
+                "href": "https://github.com/peterprokop/SwiftOverlays",
+                "github": "peterprokop/SwiftOverlays",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyDrop",
+                "href": "https://github.com/morizotter/SwiftyDrop",
+                "github": "morizotter/SwiftyDrop",
+                "type": "github"
+            },
+            {
+                "title": "Whisper",
+                "href": "https://github.com/hyperoslo/Whisper",
+                "github": "hyperoslo/Whisper",
+                "type": "github"
+            },
+            {
+                "title": "XLActionController",
+                "href": "https://github.com/xmartlabs/XLActionController",
+                "github": "xmartlabs/XLActionController",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ApplicationDelegate",
+        "childrens": [
+            {
+                "title": "SuperDelegate",
+                "href": "https://github.com/Square/SuperDelegate",
+                "github": "Square/SuperDelegate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blur",
+        "childrens": [
+            {
+                "title": "Blurable",
+                "href": "https://github.com/FlexMonkey/Blurable",
+                "github": "FlexMonkey/Blurable",
+                "type": "github"
+            },
+            {
+                "title": "PCLBlurEffectAlert",
+                "href": "https://github.com/hryk224/PCLBlurEffectAlert",
+                "github": "hryk224/PCLBlurEffectAlert",
+                "type": "github"
+            },
+            {
+                "title": "VisualEffectView",
+                "href": "https://github.com/efremidze/VisualEffectView",
+                "github": "efremidze/VisualEffectView",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Button",
+        "childrens": [
+            {
+                "title": "AnimatablePlayButton",
+                "href": "https://github.com/suzuki-0000/AnimatablePlayButton",
+                "github": "suzuki-0000/AnimatablePlayButton",
+                "type": "github"
+            },
+            {
+                "title": "CRNetworkButton",
+                "href": "https://github.com/Cleveroad/CRNetworkButton",
+                "github": "Cleveroad/CRNetworkButton",
+                "type": "github"
+            },
+            {
+                "title": "DOFavoriteButton",
+                "href": "https://github.com/okmr-d/DOFavoriteButton",
+                "github": "okmr-d/DOFavoriteButton",
+                "type": "github"
+            },
+            {
+                "title": "Floaty",
+                "href": "https://github.com/kciter/Floaty",
+                "github": "kciter/Floaty",
+                "type": "github"
+            },
+            {
+                "title": "Hamburger button transition",
+                "href": "https://github.com/robb/hamburger-button",
+                "github": "robb/hamburger-button",
+                "type": "github"
+            },
+            {
+                "title": "HamburgerButton",
+                "href": "https://github.com/fastred/HamburgerButton",
+                "github": "fastred/HamburgerButton",
+                "type": "github"
+            },
+            {
+                "title": "LTHRadioButton",
+                "href": "https://github.com/rolandleth/LTHRadioButton",
+                "github": "rolandleth/LTHRadioButton",
+                "type": "github"
+            },
+            {
+                "title": "MIBadgeButton",
+                "href": "https://github.com/mustafaibrahim989/MIBadgeButton-Swift",
+                "github": "mustafaibrahim989/MIBadgeButton-Swift",
+                "type": "github"
+            },
+            {
+                "title": "SwiftShareBubbles",
+                "href": "https://github.com/takecian/SwiftShareBubbles",
+                "github": "takecian/SwiftShareBubbles",
+                "type": "github"
+            },
+            {
+                "title": "TVButton",
+                "href": "https://github.com/marmelroy/TVButton",
+                "github": "marmelroy/TVButton",
+                "type": "github"
+            },
+            {
+                "title": "ZFRippleButton",
+                "href": "https://github.com/zoonooz/ZFRippleButton",
+                "github": "zoonooz/ZFRippleButton",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Calendar",
+        "childrens": [
+            {
+                "title": "CalendarKit",
+                "href": "https://github.com/richardtop/CalendarKit",
+                "github": "richardtop/CalendarKit",
+                "type": "github"
+            },
+            {
+                "title": "DateTimePicker",
+                "href": "https://github.com/itsmeichigo/DateTimePicker",
+                "github": "itsmeichigo/DateTimePicker",
+                "type": "github"
+            },
+            {
+                "title": "JTAppleCalendar",
+                "href": "https://github.com/patchthecode/JTAppleCalendar",
+                "github": "patchthecode/JTAppleCalendar",
+                "type": "github"
+            },
+            {
+                "title": "Koyomi",
+                "href": "https://github.com/shoheiyokoyama/Koyomi",
+                "github": "shoheiyokoyama/Koyomi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Form",
+        "childrens": [
+            {
+                "title": "Eureka",
+                "href": "https://github.com/xmartlabs/Eureka",
+                "github": "xmartlabs/Eureka",
+                "type": "github"
+            },
+            {
+                "title": "Former",
+                "href": "https://github.com/ra1028/Former",
+                "github": "ra1028/Former",
+                "type": "github"
+            },
+            {
+                "title": "SwiftForms",
+                "href": "https://github.com/ortuman/SwiftForms",
+                "github": "ortuman/SwiftForms",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyFORM",
+                "href": "https://github.com/neoneye/SwiftyFORM",
+                "github": "neoneye/SwiftyFORM",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HUD",
+        "childrens": [
+            {
+                "title": "EZLoadingActivity",
+                "href": "https://github.com/goktugyil/EZLoadingActivity",
+                "github": "goktugyil/EZLoadingActivity",
+                "type": "github"
+            },
+            {
+                "title": "HUDKit",
+                "href": "https://github.com/cockscomb/HUDKit",
+                "github": "cockscomb/HUDKit",
+                "type": "github"
+            },
+            {
+                "title": "KRProgressHUD",
+                "href": "https://github.com/krimpedance/KRProgressHUD",
+                "github": "krimpedance/KRProgressHUD",
+                "type": "github"
+            },
+            {
+                "title": "PKHUD",
+                "href": "https://github.com/pkluz/PKHUD",
+                "github": "pkluz/PKHUD",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Label",
+        "childrens": [
+            {
+                "title": "ActiveLabel",
+                "href": "https://github.com/optonaut/ActiveLabel.swift",
+                "github": "optonaut/ActiveLabel.swift",
+                "type": "github"
+            },
+            {
+                "title": "CharacterText",
+                "href": "https://github.com/hulsizer/CharacterText",
+                "github": "hulsizer/CharacterText",
+                "type": "github"
+            },
+            {
+                "title": "CountdownLabel",
+                "href": "https://github.com/suzuki-0000/CountdownLabel",
+                "github": "suzuki-0000/CountdownLabel",
+                "type": "github"
+            },
+            {
+                "title": "FloatLabelFields",
+                "href": "https://github.com/FahimF/FloatLabelFields",
+                "github": "FahimF/FloatLabelFields",
+                "type": "github"
+            },
+            {
+                "title": "GlitchLabel",
+                "href": "https://github.com/kciter/GlitchLabel",
+                "github": "kciter/GlitchLabel",
+                "type": "github"
+            },
+            {
+                "title": "IncrementableLabel",
+                "href": "https://github.com/tbaranes/IncrementableLabel",
+                "github": "tbaranes/IncrementableLabel",
+                "type": "github"
+            },
+            {
+                "title": "KDEDateLabel",
+                "href": "https://github.com/delannoyk/KDEDateLabel",
+                "github": "delannoyk/KDEDateLabel",
+                "type": "github"
+            },
+            {
+                "title": "LTMorphingLabel",
+                "href": "https://github.com/lexrus/LTMorphingLabel",
+                "github": "lexrus/LTMorphingLabel",
+                "type": "github"
+            },
+            {
+                "title": "NumberMorphView",
+                "href": "https://github.com/me-abhinav/NumberMorphView",
+                "github": "me-abhinav/NumberMorphView",
+                "type": "github"
+            },
+            {
+                "title": "SlidingText",
+                "href": "https://github.com/dnKaratzas/SlidingText",
+                "github": "dnKaratzas/SlidingText",
+                "type": "github"
+            },
+            {
+                "title": "SMIconLabel",
+                "href": "https://github.com/anatoliyv/SMIconLabel",
+                "github": "anatoliyv/SMIconLabel",
+                "type": "github"
+            },
+            {
+                "title": "Translucid",
+                "href": "https://github.com/Ekhoo/Translucid",
+                "github": "Ekhoo/Translucid",
+                "type": "github"
+            },
+            {
+                "title": "TriLabelView",
+                "href": "https://github.com/mukeshthawani/TriLabelView",
+                "github": "mukeshthawani/TriLabelView",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Menu",
+        "childrens": [
+            {
+                "title": "AKSwiftSlideMenu",
+                "href": "https://github.com/ashishkakkad8/AKSwiftSlideMenu",
+                "github": "ashishkakkad8/AKSwiftSlideMenu",
+                "type": "github"
+            },
+            {
+                "title": "ENSwiftSideMenu",
+                "href": "https://github.com/evnaz/ENSwiftSideMenu",
+                "github": "evnaz/ENSwiftSideMenu",
+                "type": "github"
+            },
+            {
+                "title": "FrostedSidebar",
+                "href": "https://github.com/edekhayser/FrostedSidebar",
+                "github": "edekhayser/FrostedSidebar",
+                "type": "github"
+            },
+            {
+                "title": "GuillotineMenu",
+                "href": "https://github.com/Yalantis/GuillotineMenu",
+                "github": "Yalantis/GuillotineMenu",
+                "type": "github"
+            },
+            {
+                "title": "InteractiveSideMenu",
+                "href": "https://github.com/handsomecode/InteractiveSideMenu",
+                "github": "handsomecode/InteractiveSideMenu",
+                "type": "github"
+            },
+            {
+                "title": "MediumMenu",
+                "href": "https://github.com/pixyzehn/MediumMenu",
+                "github": "pixyzehn/MediumMenu",
+                "type": "github"
+            },
+            {
+                "title": "MenuItemKit",
+                "href": "https://github.com/cxa/MenuItemKit",
+                "github": "cxa/MenuItemKit",
+                "type": "github"
+            },
+            {
+                "title": "Pagemenu",
+                "href": "https://github.com/PageMenu/PageMenu",
+                "github": "PageMenu/PageMenu",
+                "type": "github"
+            },
+            {
+                "title": "PagingMenuController",
+                "href": "https://github.com/kitasuke/PagingMenuController",
+                "github": "kitasuke/PagingMenuController",
+                "type": "github"
+            },
+            {
+                "title": "SideMenu",
+                "href": "https://github.com/jonkykong/SideMenu",
+                "github": "jonkykong/SideMenu",
+                "type": "github"
+            },
+            {
+                "title": "SlideMenuControllerSwift",
+                "href": "https://github.com/dekatotoro/SlideMenuControllerSwift",
+                "github": "dekatotoro/SlideMenuControllerSwift",
+                "type": "github"
+            },
+            {
+                "title": "Swift-CircleMenu",
+                "href": "https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu",
+                "github": "Sufi-Al-Hussaini/Swift-CircleMenu",
+                "type": "github"
+            },
+            {
+                "title": "XLPagerTabStrip",
+                "href": "https://github.com/xmartlabs/XLPagerTabStrip",
+                "github": "xmartlabs/XLPagerTabStrip",
+                "type": "github"
+            },
+            {
+                "title": "YNDropDownMenu",
+                "href": "https://github.com/younatics/YNDropDownMenu",
+                "github": "younatics/YNDropDownMenu",
+                "type": "github"
+            },
+            {
+                "title": "KWDrawerController",
+                "href": "https://github.com/Kawoou/KWDrawerController",
+                "github": "Kawoou/KWDrawerController",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Pagination",
+        "childrens": [
+            {
+                "title": "CHIPageControl",
+                "href": "https://github.com/ChiliLabs/CHIPageControl",
+                "github": "ChiliLabs/CHIPageControl",
+                "type": "github"
+            },
+            {
+                "title": "Pageboy",
+                "href": "https://github.com/uias/Pageboy",
+                "github": "uias/Pageboy",
+                "type": "github"
+            },
+            {
+                "title": "PageController",
+                "href": "https://github.com/hirohisa/PageController",
+                "github": "hirohisa/PageController",
+                "type": "github"
+            },
+            {
+                "title": "PageControls",
+                "href": "https://github.com/popwarsweet/PageControls",
+                "github": "popwarsweet/PageControls",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Payment",
+        "childrens": [
+            {
+                "title": "Caishen",
+                "href": "https://github.com/prolificinteractive/Caishen",
+                "github": "prolificinteractive/Caishen",
+                "type": "github"
+            },
+            {
+                "title": "MFCard",
+                "href": "https://github.com/MobileFirstInc/MFCard",
+                "github": "MobileFirstInc/MFCard",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Permissions",
+        "childrens": [
+            {
+                "title": "AREK",
+                "href": "https://github.com/ennioma/arek",
+                "github": "ennioma/arek",
+                "type": "github"
+            },
+            {
+                "title": "Permission",
+                "href": "https://github.com/delba/Permission",
+                "github": "delba/Permission",
+                "type": "github"
+            },
+            {
+                "title": "PermissionScope",
+                "href": "https://github.com/nickoneill/PermissionScope",
+                "github": "nickoneill/PermissionScope",
+                "type": "github"
+            },
+            {
+                "title": "Swift-Prompts",
+                "href": "https://github.com/GabrielAlva/Swift-Prompts",
+                "github": "GabrielAlva/Swift-Prompts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "StackView",
+        "childrens": [
+            {
+                "title": "StackViewController",
+                "href": "https://github.com/seedco/StackViewController",
+                "github": "seedco/StackViewController",
+                "type": "github"
+            },
+            {
+                "title": "TZStackView",
+                "href": "https://github.com/tomvanzummeren/TZStackView",
+                "github": "tomvanzummeren/TZStackView",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Switch",
+        "childrens": [
+            {
+                "title": "AIFlatSwitch",
+                "href": "https://github.com/cocoatoucher/AIFlatSwitch",
+                "github": "cocoatoucher/AIFlatSwitch",
+                "type": "github"
+            },
+            {
+                "title": "LTJelloSwitch",
+                "href": "https://github.com/lexrus/LTJelloSwitch",
+                "github": "lexrus/LTJelloSwitch",
+                "type": "github"
+            },
+            {
+                "title": "Switch",
+                "href": "https://github.com/T-Pham/Switch",
+                "github": "T-Pham/Switch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tab",
+        "childrens": [
+            {
+                "title": "Adaptive Tab Bar",
+                "href": "https://github.com/Ramotion/adaptive-tab-bar",
+                "github": "Ramotion/adaptive-tab-bar",
+                "type": "github"
+            },
+            {
+                "title": "Animated Tab Bar",
+                "href": "https://github.com/Ramotion/animated-tab-bar",
+                "github": "Ramotion/animated-tab-bar",
+                "type": "github"
+            },
+            {
+                "title": "ColorMatchTabs",
+                "href": "https://github.com/Yalantis/ColorMatchTabs",
+                "github": "Yalantis/ColorMatchTabs",
+                "type": "github"
+            },
+            {
+                "title": "TabPageViewController",
+                "href": "https://github.com/EndouMari/TabPageViewController",
+                "github": "EndouMari/TabPageViewController",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TextField",
+        "childrens": [
+            {
+                "title": "DTTextField",
+                "href": "https://github.com/iDhaval/DTTextField",
+                "github": "iDhaval/DTTextField",
+                "type": "github"
+            },
+            {
+                "title": "HTYTextField",
+                "href": "https://github.com/hanton/HTYTextField",
+                "github": "hanton/HTYTextField",
+                "type": "github"
+            },
+            {
+                "title": "PasswordTextField",
+                "href": "https://github.com/PiXeL16/PasswordTextField",
+                "github": "PiXeL16/PasswordTextField",
+                "type": "github"
+            },
+            {
+                "title": "SkyFloatingLabelTextField",
+                "href": "https://github.com/Skyscanner/SkyFloatingLabelTextField",
+                "github": "Skyscanner/SkyFloatingLabelTextField",
+                "type": "github"
+            },
+            {
+                "title": "TextFieldCounter",
+                "href": "https://github.com/serralvo/TextFieldCounter",
+                "github": "serralvo/TextFieldCounter",
+                "type": "github"
+            },
+            {
+                "title": "TextFieldEffects",
+                "href": "https://github.com/raulriera/TextFieldEffects",
+                "github": "raulriera/TextFieldEffects",
+                "type": "github"
+            },
+            {
+                "title": "UITextField-Navigation",
+                "href": "https://github.com/T-Pham/UITextField-Navigation",
+                "github": "T-Pham/UITextField-Navigation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Transition",
+        "childrens": [
+            {
+                "title": "AudioIndicatorBars",
+                "href": "https://github.com/LeonardoCardoso/AudioIndicatorBars",
+                "github": "LeonardoCardoso/AudioIndicatorBars",
+                "type": "github"
+            },
+            {
+                "title": "BubbleTransition",
+                "href": "https://github.com/andreamazz/BubbleTransition",
+                "github": "andreamazz/BubbleTransition",
+                "type": "github"
+            },
+            {
+                "title": "ElasticTransition",
+                "href": "https://github.com/lkzhao/ElasticTransition",
+                "github": "lkzhao/ElasticTransition",
+                "type": "github"
+            },
+            {
+                "title": "Hero",
+                "href": "https://github.com/lkzhao/Hero",
+                "github": "lkzhao/Hero",
+                "type": "github"
+            },
+            {
+                "title": "ImageOpenTransition",
+                "href": "https://github.com/mcmatan/ImageOpenTransition",
+                "github": "mcmatan/ImageOpenTransition",
+                "type": "github"
+            },
+            {
+                "title": "MusicPlayerTransition",
+                "href": "https://github.com/xxxAIRINxxx/MusicPlayerTransition",
+                "github": "xxxAIRINxxx/MusicPlayerTransition",
+                "type": "github"
+            },
+            {
+                "title": "PinterestSwift",
+                "href": "https://github.com/demonnico/PinterestSwift",
+                "github": "demonnico/PinterestSwift",
+                "type": "github"
+            },
+            {
+                "title": "RevealingSplashView",
+                "href": "https://github.com/PiXeL16/RevealingSplashView",
+                "github": "PiXeL16/RevealingSplashView",
+                "type": "github"
+            },
+            {
+                "title": "StarWars.iOS",
+                "href": "https://github.com/Yalantis/StarWars.iOS",
+                "github": "Yalantis/StarWars.iOS",
+                "type": "github"
+            },
+            {
+                "title": "Transition",
+                "href": "https://github.com/Touchwonders/Transition",
+                "github": "Touchwonders/Transition",
+                "type": "github"
+            },
+            {
+                "title": "TransitionManager",
+                "href": "https://github.com/cemolcay/TransitionManager",
+                "github": "cemolcay/TransitionManager",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UICollectionView",
+        "childrens": [
+            {
+                "title": "BouncyLayout",
+                "href": "https://github.com/roberthein/BouncyLayout",
+                "github": "roberthein/BouncyLayout",
+                "type": "github"
+            },
+            {
+                "title": "CenteredCollectionView",
+                "href": "https://github.com/BenEmdon/CenteredCollectionView",
+                "github": "BenEmdon/CenteredCollectionView",
+                "type": "github"
+            },
+            {
+                "title": "CollectionViewShelfLayout",
+                "href": "https://github.com/pitiphong-p/CollectionViewShelfLayout",
+                "github": "pitiphong-p/CollectionViewShelfLayout",
+                "type": "github"
+            },
+            {
+                "title": "Drag and Drop UICollectionView",
+                "href": "https://github.com/mmick66/KDDragAndDropCollectionView",
+                "github": "mmick66/KDDragAndDropCollectionView",
+                "type": "github"
+            },
+            {
+                "title": "ReplaceAnimation",
+                "href": "https://github.com/fruitcoder/ReplaceAnimation",
+                "github": "fruitcoder/ReplaceAnimation",
+                "type": "github"
+            },
+            {
+                "title": "Sapporo",
+                "href": "https://github.com/nghialv/Sapporo",
+                "github": "nghialv/Sapporo",
+                "type": "github"
+            },
+            {
+                "title": "SwiftSpreadsheet",
+                "href": "https://github.com/stuffrabbit/SwiftSpreadsheet",
+                "github": "stuffrabbit/SwiftSpreadsheet",
+                "type": "github"
+            },
+            {
+                "title": "TagCellLayout",
+                "href": "https://github.com/riteshhgupta/TagCellLayout",
+                "github": "riteshhgupta/TagCellLayout",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UITableView",
+        "childrens": [
+            {
+                "title": "DTTableViewManager",
+                "href": "https://github.com/DenHeadless/DTTableViewManager",
+                "github": "DenHeadless/DTTableViewManager",
+                "type": "github"
+            },
+            {
+                "title": "folding-cell",
+                "href": "https://github.com/Ramotion/folding-cell",
+                "github": "Ramotion/folding-cell",
+                "type": "github"
+            },
+            {
+                "title": "Hakuba",
+                "href": "https://github.com/nghialv/Hakuba",
+                "github": "nghialv/Hakuba",
+                "type": "github"
+            },
+            {
+                "title": "Persei",
+                "href": "https://github.com/Yalantis/Persei",
+                "github": "Yalantis/Persei",
+                "type": "github"
+            },
+            {
+                "title": "PullToRefreshSwift",
+                "href": "https://github.com/dekatotoro/PullToRefreshSwift",
+                "github": "dekatotoro/PullToRefreshSwift",
+                "type": "github"
+            },
+            {
+                "title": "ReverseExtension",
+                "href": "https://github.com/marty-suzuki/ReverseExtension",
+                "github": "marty-suzuki/ReverseExtension",
+                "type": "github"
+            },
+            {
+                "title": "Shoyu",
+                "href": "https://github.com/yukiasai/Shoyu",
+                "github": "yukiasai/Shoyu",
+                "type": "github"
+            },
+            {
+                "title": "YNExpandableCell",
+                "href": "https://github.com/younatics/YNExpandableCell",
+                "github": "younatics/YNExpandableCell",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Walkthrough",
+        "childrens": [
+            {
+                "title": "BWWalkthrough",
+                "href": "https://github.com/ariok/BWWalkthrough",
+                "github": "ariok/BWWalkthrough",
+                "type": "github"
+            },
+            {
+                "title": "Gecco",
+                "href": "https://github.com/yukiasai/Gecco",
+                "github": "yukiasai/Gecco",
+                "type": "github"
+            },
+            {
+                "title": "Instructions",
+                "href": "https://github.com/ephread/Instructions",
+                "github": "ephread/Instructions",
+                "type": "github"
+            },
+            {
+                "title": "RazzleDazzle",
+                "href": "https://github.com/IFTTT/RazzleDazzle",
+                "github": "IFTTT/RazzleDazzle",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyOnboard",
+                "href": "https://github.com/juanpablofernandez/SwiftyOnboard",
+                "github": "juanpablofernandez/SwiftyOnboard",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyWalkthrough",
+                "href": "https://github.com/ruipfcosta/SwiftyWalkthrough",
+                "github": "ruipfcosta/SwiftyWalkthrough",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utility",
+        "childrens": [
+            {
+                "title": "Alexandria",
+                "href": "https://github.com/ovenbits/Alexandria",
+                "github": "ovenbits/Alexandria",
+                "type": "github"
+            },
+            {
+                "title": "AlexaSkillsKit",
+                "href": "https://github.com/choefele/AlexaSkillsKit",
+                "github": "choefele/AlexaSkillsKit",
+                "type": "github"
+            },
+            {
+                "title": "ArrayDiff",
+                "href": "https://github.com/Adlai-Holler/ArrayDiff",
+                "github": "Adlai-Holler/ArrayDiff",
+                "type": "github"
+            },
+            {
+                "title": "Basis",
+                "href": "https://github.com/typelift/Basis",
+                "github": "typelift/Basis",
+                "type": "github"
+            },
+            {
+                "title": "Butterfly",
+                "href": "https://github.com/wongzigii/Butterfly",
+                "github": "wongzigii/Butterfly",
+                "type": "github"
+            },
+            {
+                "title": "CallbackURLKit",
+                "href": "https://github.com/phimage/CallbackURLKit",
+                "github": "phimage/CallbackURLKit",
+                "type": "github"
+            },
+            {
+                "title": "Cormorant",
+                "href": "https://github.com/austinzheng/Cormorant",
+                "github": "austinzheng/Cormorant",
+                "type": "github"
+            },
+            {
+                "title": "Curry",
+                "href": "https://github.com/thoughtbot/Curry",
+                "github": "thoughtbot/Curry",
+                "type": "github"
+            },
+            {
+                "title": "Dollar",
+                "href": "https://github.com/ankurp/Dollar",
+                "github": "ankurp/Dollar",
+                "type": "github"
+            },
+            {
+                "title": "ExSwift",
+                "href": "https://github.com/pNre/ExSwift",
+                "github": "pNre/ExSwift",
+                "type": "github"
+            },
+            {
+                "title": "EZSwiftExtensions",
+                "href": "https://github.com/goktugyil/EZSwiftExtensions",
+                "github": "goktugyil/EZSwiftExtensions",
+                "type": "github"
+            },
+            {
+                "title": "Focus",
+                "href": "https://github.com/typelift/Focus",
+                "github": "typelift/Focus",
+                "type": "github"
+            },
+            {
+                "title": "Hookah",
+                "href": "https://github.com/HookahSwift/Hookah",
+                "github": "HookahSwift/Hookah",
+                "type": "github"
+            },
+            {
+                "title": "ObjectiveKit",
+                "href": "https://github.com/marmelroy/ObjectiveKit",
+                "github": "marmelroy/ObjectiveKit",
+                "type": "github"
+            },
+            {
+                "title": "OpenSourceController",
+                "href": "https://github.com/terflogag/OpenSourceController",
+                "github": "terflogag/OpenSourceController",
+                "type": "github"
+            },
+            {
+                "title": "Popsicle",
+                "href": "https://github.com/DavdRoman/Popsicle",
+                "github": "DavdRoman/Popsicle",
+                "type": "github"
+            },
+            {
+                "title": "Prelude",
+                "href": "https://github.com/robrix/Prelude",
+                "github": "robrix/Prelude",
+                "type": "github"
+            },
+            {
+                "title": "protobuf-swift",
+                "href": "https://github.com/alexeyxo/protobuf-swift",
+                "github": "alexeyxo/protobuf-swift",
+                "type": "github"
+            },
+            {
+                "title": "Pythonic.swift",
+                "href": "https://github.com/practicalswift/Pythonic.swift",
+                "github": "practicalswift/Pythonic.swift",
+                "type": "github"
+            },
+            {
+                "title": "R.swift",
+                "href": "https://github.com/mac-cain13/R.swift",
+                "github": "mac-cain13/R.swift",
+                "type": "github"
+            },
+            {
+                "title": "RandomKit",
+                "href": "https://github.com/nvzqz/RandomKit/",
+                "github": "nvzqz/RandomKit/",
+                "type": "github"
+            },
+            {
+                "title": "ReactiveArray",
+                "href": "https://github.com/Wolox/ReactiveArray",
+                "github": "Wolox/ReactiveArray",
+                "type": "github"
+            },
+            {
+                "title": "ReadabilityKit",
+                "href": "https://github.com/exyte/ReadabilityKit",
+                "github": "exyte/ReadabilityKit",
+                "type": "github"
+            },
+            {
+                "title": "ResourceKit",
+                "href": "https://github.com/bannzai/ResourceKit",
+                "github": "bannzai/ResourceKit",
+                "type": "github"
+            },
+            {
+                "title": "Result",
+                "href": "https://github.com/antitypical/Result",
+                "github": "antitypical/Result",
+                "type": "github"
+            },
+            {
+                "title": "Runes",
+                "href": "https://github.com/thoughtbot/Runes",
+                "github": "thoughtbot/Runes",
+                "type": "github"
+            },
+            {
+                "title": "seguecode",
+                "href": "https://github.com/Adorkable/seguecode",
+                "github": "Adorkable/seguecode",
+                "type": "github"
+            },
+            {
+                "title": "Solar",
+                "href": "https://github.com/ceeK/Solar",
+                "github": "ceeK/Solar",
+                "type": "github"
+            },
+            {
+                "title": "SpriteKit+Spring",
+                "href": "https://github.com/ataugeron/SpriteKit-Spring",
+                "github": "ataugeron/SpriteKit-Spring",
+                "type": "github"
+            },
+            {
+                "title": "Sugar",
+                "href": "https://github.com/hyperoslo/Sugar",
+                "github": "hyperoslo/Sugar",
+                "type": "github"
+            },
+            {
+                "title": "Swift Sugar",
+                "href": "https://github.com/RuiAAPeres/Swift-Sugar",
+                "github": "RuiAAPeres/Swift-Sugar",
+                "type": "github"
+            },
+            {
+                "title": "SwiftBitmask",
+                "href": "https://github.com/brynbellomy/SwiftBitmask",
+                "github": "brynbellomy/SwiftBitmask",
+                "type": "github"
+            },
+            {
+                "title": "SwifterSwift",
+                "href": "https://github.com/SwifterSwift/SwifterSwift",
+                "github": "SwifterSwift/SwifterSwift",
+                "type": "github"
+            },
+            {
+                "title": "SwiftGen-Storyboard",
+                "href": "https://github.com/SwiftGen/SwiftGen#uistoryboard",
+                "github": "SwiftGen/SwiftGen#uistoryboard",
+                "type": "github"
+            },
+            {
+                "title": "SwiftLinkPreview",
+                "href": "https://github.com/LeonardoCardoso/SwiftLinkPreview",
+                "github": "LeonardoCardoso/SwiftLinkPreview",
+                "type": "github"
+            },
+            {
+                "title": "SwiftRandom",
+                "href": "https://github.com/thellimist/SwiftRandom",
+                "github": "thellimist/SwiftRandom",
+                "type": "github"
+            },
+            {
+                "title": "SwiftSequence",
+                "href": "https://github.com/oisdk/SwiftSequence",
+                "github": "oisdk/SwiftSequence",
+                "type": "github"
+            },
+            {
+                "title": "SwiftSortUtils",
+                "href": "https://github.com/dsmatter/SwiftSortUtils",
+                "github": "dsmatter/SwiftSortUtils",
+                "type": "github"
+            },
+            {
+                "title": "SwiftTweaks",
+                "href": "https://github.com/khan/swifttweaks",
+                "github": "khan/swifttweaks",
+                "type": "github"
+            },
+            {
+                "title": "Swiftx",
+                "href": "https://github.com/typelift/Swiftx",
+                "github": "typelift/Swiftx",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyStateMachine",
+                "href": "https://github.com/macoscope/SwiftyStateMachine",
+                "github": "macoscope/SwiftyStateMachine",
+                "type": "github"
+            },
+            {
+                "title": "SwiftyUtils",
+                "href": "https://github.com/tbaranes/SwiftyUtils",
+                "github": "tbaranes/SwiftyUtils",
+                "type": "github"
+            },
+            {
+                "title": "Swiftz",
+                "href": "https://github.com/typelift/Swiftz",
+                "github": "typelift/Swiftz",
+                "type": "github"
+            },
+            {
+                "title": "Then",
+                "href": "https://github.com/devxoul/Then",
+                "github": "devxoul/Then",
+                "type": "github"
+            },
+            {
+                "title": "undefined",
+                "href": "https://github.com/weissi/swift-undefined",
+                "github": "weissi/swift-undefined",
+                "type": "github"
+            },
+            {
+                "title": "UTIKit",
+                "href": "https://github.com/cockscomb/UTIKit",
+                "github": "cockscomb/UTIKit",
+                "type": "github"
+            },
+            {
+                "title": "XestiMonitors",
+                "href": "https://github.com/eBardX/XestiMonitors",
+                "github": "eBardX/XestiMonitors",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Validation",
+        "childrens": [
+            {
+                "title": "FormValidatorSwift",
+                "href": "https://github.com/ustwo/formvalidator-swift",
+                "github": "ustwo/formvalidator-swift",
+                "type": "github"
+            },
+            {
+                "title": "Honour",
+                "href": "https://github.com/jeanpimentel/Honour",
+                "github": "jeanpimentel/Honour",
+                "type": "github"
+            },
+            {
+                "title": "Input Mask",
+                "href": "https://github.com/RedMadRobot/input-mask-ios",
+                "github": "RedMadRobot/input-mask-ios",
+                "type": "github"
+            },
+            {
+                "title": "SwiftValidator",
+                "href": "https://github.com/jpotts18/SwiftValidator",
+                "github": "jpotts18/SwiftValidator",
+                "type": "github"
+            },
+            {
+                "title": "SwiftValidators",
+                "href": "https://github.com/gkaimakas/SwiftValidators",
+                "github": "gkaimakas/SwiftValidators",
+                "type": "github"
+            },
+            {
+                "title": "Validator",
+                "href": "https://github.com/adamwaite/Validator",
+                "github": "adamwaite/Validator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Phone Numbers",
+        "childrens": [
+            {
+                "title": "PhoneNumberKit",
+                "href": "https://github.com/marmelroy/PhoneNumberKit",
+                "github": "marmelroy/PhoneNumberKit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Version Manager",
+        "childrens": [
+            {
+                "title": "AppVersionMonitor",
+                "href": "https://github.com/eure/AppVersionMonitor",
+                "github": "eure/AppVersionMonitor",
+                "type": "github"
+            },
+            {
+                "title": "Siren",
+                "href": "https://github.com/ArtSabintsev/Siren",
+                "github": "ArtSabintsev/Siren",
+                "type": "github"
+            },
+            {
+                "title": "Version",
+                "href": "https://github.com/mrackwitz/Version",
+                "github": "mrackwitz/Version",
+                "type": "github"
+            },
+            {
+                "title": "Version Tracker Swift",
+                "href": "https://github.com/tbaranes/VersionTrackerSwift",
+                "github": "tbaranes/VersionTrackerSwift",
+                "type": "github"
+            },
+            {
+                "title": "Version Update",
+                "href": "https://github.com/tenric/VersionUpdate",
+                "github": "tenric/VersionUpdate",
+                "type": "github"
+            },
+            {
+                "title": "Versions",
+                "href": "https://github.com/zenangst/Versions",
+                "github": "zenangst/Versions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video",
+        "childrens": [
+            {
+                "title": "BMPlayer",
+                "href": "https://github.com/BrikerMan/BMPlayer",
+                "github": "BrikerMan/BMPlayer",
+                "type": "github"
+            },
+            {
+                "title": "MobilePlayer",
+                "href": "https://github.com/mobileplayer/mobileplayer-ios",
+                "github": "mobileplayer/mobileplayer-ios",
+                "type": "github"
+            },
+            {
+                "title": "Player",
+                "href": "https://github.com/piemonte/Player",
+                "github": "piemonte/Player",
+                "type": "github"
+            },
+            {
+                "title": "PlayerView",
+                "href": "https://github.com/davidlondono/PlayerView",
+                "github": "davidlondono/PlayerView",
+                "type": "github"
+            },
+            {
+                "title": "SwiftVideoBackground",
+                "href": "https://github.com/dingwilson/SwiftVideoBackground",
+                "github": "dingwilson/SwiftVideoBackground",
+                "type": "github"
+            }
+        ]
+    }
+]

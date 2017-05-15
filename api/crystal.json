@@ -1,0 +1,2339 @@
+[
+    {
+        "heading": "Algorithms and Data structures",
+        "childrens": [
+            {
+                "title": "aho_corasick",
+                "href": "https://github.com/chenkovsky/aho_corasick",
+                "github": "chenkovsky/aho_corasick",
+                "type": "github"
+            },
+            {
+                "title": "crystal-linked-list",
+                "href": "https://github.com/abvdasker/crystal-linked-list",
+                "github": "abvdasker/crystal-linked-list",
+                "type": "github"
+            },
+            {
+                "title": "crystaledge",
+                "href": "https://github.com/unn4m3d/crystaledge",
+                "github": "unn4m3d/crystaledge",
+                "type": "github"
+            },
+            {
+                "title": "crystalg",
+                "href": "https://github.com/TobiasGSmollett/crystalg",
+                "github": "TobiasGSmollett/crystalg",
+                "type": "github"
+            },
+            {
+                "title": "crystalline",
+                "href": "https://github.com/jtomschroeder/crystalline",
+                "github": "jtomschroeder/crystalline",
+                "type": "github"
+            },
+            {
+                "title": "delimiter_tree",
+                "href": "https://github.com/drujensen/delimiter_tree",
+                "github": "drujensen/delimiter_tree",
+                "type": "github"
+            },
+            {
+                "title": "edits.cr",
+                "href": "https://github.com/tcrouch/edits.cr",
+                "github": "tcrouch/edits.cr",
+                "type": "github"
+            },
+            {
+                "title": "heap.cr",
+                "href": "https://github.com/chenkovsky/heap.cr",
+                "github": "chenkovsky/heap.cr",
+                "type": "github"
+            },
+            {
+                "title": "miller_rabin",
+                "href": "https://github.com/kuende/miller_rabin",
+                "github": "kuende/miller_rabin",
+                "type": "github"
+            },
+            {
+                "title": "multiset.cr",
+                "href": "https://github.com/tcrouch/multiset.cr",
+                "github": "tcrouch/multiset.cr",
+                "type": "github"
+            },
+            {
+                "title": "murmur3",
+                "href": "https://github.com/kuende/murmur3",
+                "github": "kuende/murmur3",
+                "type": "github"
+            },
+            {
+                "title": "primes",
+                "href": "https://github.com/dkhofer/primes",
+                "github": "dkhofer/primes",
+                "type": "github"
+            },
+            {
+                "title": "radix",
+                "href": "https://github.com/luislavena/radix",
+                "github": "luislavena/radix",
+                "type": "github"
+            },
+            {
+                "title": "ranger",
+                "href": "https://github.com/akwiatkowski/ranger",
+                "github": "akwiatkowski/ranger",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Api Builders",
+        "childrens": [
+            {
+                "title": "crystal_api",
+                "href": "https://github.com/akwiatkowski/crystal_api",
+                "github": "akwiatkowski/crystal_api",
+                "type": "github"
+            },
+            {
+                "title": "kemal-rest-api",
+                "href": "https://github.com/blocknotes/kemal-rest-api",
+                "github": "blocknotes/kemal-rest-api",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C bindings",
+        "childrens": [
+            {
+                "title": "crt.cr",
+                "href": "https://github.com/maiha/crt.cr",
+                "github": "maiha/crt.cr",
+                "type": "github"
+            },
+            {
+                "title": "crystal-dbus",
+                "href": "https://github.com/BlaXpirit/crystal-dbus",
+                "github": "BlaXpirit/crystal-dbus",
+                "type": "github"
+            },
+            {
+                "title": "crystal-gsl",
+                "href": "https://github.com/ruivieira/crystal-gsl",
+                "github": "ruivieira/crystal-gsl",
+                "type": "github"
+            },
+            {
+                "title": "crystal-liblmdb",
+                "href": "https://github.com/timuckun/crystal-liblmdb",
+                "github": "timuckun/crystal-liblmdb",
+                "type": "github"
+            },
+            {
+                "title": "crystal-libpcap",
+                "href": "https://github.com/puppetpies/crystal-libpcap",
+                "github": "puppetpies/crystal-libpcap",
+                "type": "github"
+            },
+            {
+                "title": "crystal-libtar",
+                "href": "https://github.com/puppetpies/crystal-libtar",
+                "github": "puppetpies/crystal-libtar",
+                "type": "github"
+            },
+            {
+                "title": "crystal_av",
+                "href": "https://github.com/kofno/crystal_av",
+                "github": "kofno/crystal_av",
+                "type": "github"
+            },
+            {
+                "title": "curl-crystal",
+                "href": "https://github.com/blocknotes/curl-crystal",
+                "github": "blocknotes/curl-crystal",
+                "type": "github"
+            },
+            {
+                "title": "curses",
+                "href": "https://github.com/ruivieira/curses",
+                "github": "ruivieira/curses",
+                "type": "github"
+            },
+            {
+                "title": "duktape.cr",
+                "href": "https://github.com/jessedoyle/duktape.cr",
+                "github": "jessedoyle/duktape.cr",
+                "type": "github"
+            },
+            {
+                "title": "glfw",
+                "href": "https://github.com/lirith-engine/glfw",
+                "github": "lirith-engine/glfw",
+                "type": "github"
+            },
+            {
+                "title": "gphoto2.cr",
+                "href": "https://github.com/Sija/gphoto2.cr",
+                "github": "Sija/gphoto2.cr",
+                "type": "github"
+            },
+            {
+                "title": "icu.cr",
+                "href": "https://github.com/olbat/icu.cr",
+                "github": "olbat/icu.cr",
+                "type": "github"
+            },
+            {
+                "title": "java.cr",
+                "href": "https://github.com/ysbaddaden/java.cr",
+                "github": "ysbaddaden/java.cr",
+                "type": "github"
+            },
+            {
+                "title": "kt",
+                "href": "https://github.com/kuende/kt",
+                "github": "kuende/kt",
+                "type": "github"
+            },
+            {
+                "title": "libmagic-crystal",
+                "href": "https://github.com/pablotron/libmagic-crystal",
+                "github": "pablotron/libmagic-crystal",
+                "type": "github"
+            },
+            {
+                "title": "libnotify.cr",
+                "href": "https://github.com/splattael/libnotify.cr",
+                "github": "splattael/libnotify.cr",
+                "type": "github"
+            },
+            {
+                "title": "libui.cr",
+                "href": "https://github.com/Fusion/libui.cr",
+                "github": "Fusion/libui.cr",
+                "type": "github"
+            },
+            {
+                "title": "nanomsg.cr",
+                "href": "https://github.com/chenkovsky/nanomsg.cr",
+                "github": "chenkovsky/nanomsg.cr",
+                "type": "github"
+            },
+            {
+                "title": "openssl.cr",
+                "href": "https://github.com/datanoise/openssl.cr",
+                "github": "datanoise/openssl.cr",
+                "type": "github"
+            },
+            {
+                "title": "pcap.cr",
+                "href": "https://github.com/maiha/pcap.cr",
+                "github": "maiha/pcap.cr",
+                "type": "github"
+            },
+            {
+                "title": "posix",
+                "href": "https://github.com/ysbaddaden/posix",
+                "github": "ysbaddaden/posix",
+                "type": "github"
+            },
+            {
+                "title": "serialport.cr",
+                "href": "https://github.com/Sija/serialport.cr",
+                "github": "Sija/serialport.cr",
+                "type": "github"
+            },
+            {
+                "title": "snappy-crystal",
+                "href": "https://github.com/benoist/snappy-crystal",
+                "github": "benoist/snappy-crystal",
+                "type": "github"
+            },
+            {
+                "title": "soundfile",
+                "href": "https://github.com/mjago/soundfile",
+                "github": "mjago/soundfile",
+                "type": "github"
+            },
+            {
+                "title": "ssh2.cr",
+                "href": "https://github.com/datanoise/ssh2.cr",
+                "github": "datanoise/ssh2.cr",
+                "type": "github"
+            },
+            {
+                "title": "termbox-crystal",
+                "href": "https://github.com/andrewsuzuki/termbox-crystal",
+                "github": "andrewsuzuki/termbox-crystal",
+                "type": "github"
+            },
+            {
+                "title": "zeromq-crystal",
+                "href": "https://github.com/benoist/zeromq-crystal",
+                "github": "benoist/zeromq-crystal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "Bloom Filter",
+                "href": "https://github.com/greyblake/crystal-bloom_filter",
+                "github": "greyblake/crystal-bloom_filter",
+                "type": "github"
+            },
+            {
+                "title": "bojack",
+                "href": "https://github.com/marceloboeira/bojack",
+                "github": "marceloboeira/bojack",
+                "type": "github"
+            },
+            {
+                "title": "crystal-kiwi",
+                "href": "https://github.com/greyblake/crystal-kiwi",
+                "github": "greyblake/crystal-kiwi",
+                "type": "github"
+            },
+            {
+                "title": "crystal-memcached",
+                "href": "https://github.com/comandeo/crystal-memcached",
+                "github": "comandeo/crystal-memcached",
+                "type": "github"
+            },
+            {
+                "title": "Nuummite",
+                "href": "https://github.com/CodeSteak/Nuummite",
+                "github": "CodeSteak/Nuummite",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cli Builders",
+        "childrens": [
+            {
+                "title": "admiral",
+                "href": "https://github.com/jwaldrip/admiral.cr",
+                "github": "jwaldrip/admiral.cr",
+                "type": "github"
+            },
+            {
+                "title": "cli",
+                "href": "https://github.com/mosop/cli",
+                "github": "mosop/cli",
+                "type": "github"
+            },
+            {
+                "title": "clim",
+                "href": "https://github.com/at-grandpa/clim",
+                "github": "at-grandpa/clim",
+                "type": "github"
+            },
+            {
+                "title": "commander",
+                "href": "https://github.com/mrrooijen/commander",
+                "github": "mrrooijen/commander",
+                "type": "github"
+            },
+            {
+                "title": "completion",
+                "href": "https://github.com/f/completion",
+                "github": "f/completion",
+                "type": "github"
+            },
+            {
+                "title": "docopt",
+                "href": "https://github.com/chenkovsky/docopt.cr",
+                "github": "chenkovsky/docopt.cr",
+                "type": "github"
+            },
+            {
+                "title": "optarg",
+                "href": "https://github.com/mosop/optarg",
+                "github": "mosop/optarg",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cli Utils",
+        "childrens": [
+            {
+                "title": "progress",
+                "href": "https://github.com/askn/progress",
+                "github": "askn/progress",
+                "type": "github"
+            },
+            {
+                "title": "spinner",
+                "href": "https://github.com/askn/spinner",
+                "github": "askn/spinner",
+                "type": "github"
+            },
+            {
+                "title": "terminal_table.cr",
+                "href": "https://github.com/benoist/terminal_table.cr",
+                "github": "benoist/terminal_table.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Configuration",
+        "childrens": [
+            {
+                "title": "ambience",
+                "href": "https://github.com/vjdhama/ambience",
+                "github": "vjdhama/ambience",
+                "type": "github"
+            },
+            {
+                "title": "cr-dotenv",
+                "href": "https://github.com/gdotdesign/cr-dotenv",
+                "github": "gdotdesign/cr-dotenv",
+                "type": "github"
+            },
+            {
+                "title": "crystal-toml",
+                "href": "https://github.com/manastech/crystal-toml",
+                "github": "manastech/crystal-toml",
+                "type": "github"
+            },
+            {
+                "title": "dockerfile.cr",
+                "href": "https://github.com/keplersj/dockerfile.cr",
+                "github": "keplersj/dockerfile.cr",
+                "type": "github"
+            },
+            {
+                "title": "zq",
+                "href": "https://github.com/colstrom/zq",
+                "github": "colstrom/zq",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Converters",
+        "childrens": [
+            {
+                "title": "moola",
+                "href": "https://github.com/dorkrawk/moola",
+                "github": "dorkrawk/moola",
+                "type": "github"
+            },
+            {
+                "title": "ms",
+                "href": "https://github.com/SuperPaintman/ms",
+                "github": "SuperPaintman/ms",
+                "type": "github"
+            },
+            {
+                "title": "turkish-number",
+                "href": "https://github.com/izniburak/turkish-number",
+                "github": "izniburak/turkish-number",
+                "type": "github"
+            },
+            {
+                "title": "wkhtmltopdf-crystal",
+                "href": "https://github.com/blocknotes/wkhtmltopdf-crystal",
+                "github": "blocknotes/wkhtmltopdf-crystal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Generators",
+        "childrens": [
+            {
+                "title": "faker",
+                "href": "https://github.com/askn/faker",
+                "github": "askn/faker",
+                "type": "github"
+            },
+            {
+                "title": "hashids.cr",
+                "href": "https://github.com/splattael/hashids.cr",
+                "github": "splattael/hashids.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database Drivers",
+        "childrens": [
+            {
+                "title": "crystal-db",
+                "href": "https://github.com/crystal-lang/crystal-db",
+                "github": "crystal-lang/crystal-db",
+                "type": "github"
+            },
+            {
+                "title": "crystal-leveldb",
+                "href": "https://github.com/greyblake/crystal-leveldb",
+                "github": "greyblake/crystal-leveldb",
+                "type": "github"
+            },
+            {
+                "title": "crystal-monetdb-libmapi",
+                "href": "https://github.com/puppetpies/crystal-monetdb-libmapi",
+                "github": "puppetpies/crystal-monetdb-libmapi",
+                "type": "github"
+            },
+            {
+                "title": "crystal-mysql",
+                "href": "https://github.com/waterlink/crystal-mysql",
+                "github": "waterlink/crystal-mysql",
+                "type": "github"
+            },
+            {
+                "title": "crystal-mysql",
+                "href": "https://github.com/crystal-lang/crystal-mysql",
+                "github": "crystal-lang/crystal-mysql",
+                "type": "github"
+            },
+            {
+                "title": "crystal-pg",
+                "href": "https://github.com/will/crystal-pg",
+                "github": "will/crystal-pg",
+                "type": "github"
+            },
+            {
+                "title": "crystal-redis",
+                "href": "https://github.com/stefanwille/crystal-redis",
+                "github": "stefanwille/crystal-redis",
+                "type": "github"
+            },
+            {
+                "title": "crystal-sqlite3",
+                "href": "https://github.com/crystal-lang/crystal-sqlite3",
+                "github": "crystal-lang/crystal-sqlite3",
+                "type": "github"
+            },
+            {
+                "title": "eventql-crystal",
+                "href": "https://github.com/measurechina/eventql-crystal",
+                "github": "measurechina/eventql-crystal",
+                "type": "github"
+            },
+            {
+                "title": "influxdb.cr",
+                "href": "https://github.com/jeromegn/influxdb.cr",
+                "github": "jeromegn/influxdb.cr",
+                "type": "github"
+            },
+            {
+                "title": "mongo.cr",
+                "href": "https://github.com/datanoise/mongo.cr",
+                "github": "datanoise/mongo.cr",
+                "type": "github"
+            },
+            {
+                "title": "rethinkdb-crystal",
+                "href": "https://github.com/lbguilherme/rethinkdb-crystal",
+                "github": "lbguilherme/rethinkdb-crystal",
+                "type": "github"
+            },
+            {
+                "title": "rocksdb.cr",
+                "href": "https://github.com/maiha/rocksdb.cr",
+                "github": "maiha/rocksdb.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database Tools",
+        "childrens": [
+            {
+                "title": "micrate",
+                "href": "https://github.com/juanedi/micrate",
+                "github": "juanedi/micrate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development Tools",
+        "childrens": [
+            {
+                "title": "guardian",
+                "href": "https://github.com/f/guardian",
+                "github": "f/guardian",
+                "type": "github"
+            },
+            {
+                "title": "kemal-watcher",
+                "href": "https://github.com/faustinoaq/kemal-watcher",
+                "github": "faustinoaq/kemal-watcher",
+                "type": "github"
+            },
+            {
+                "title": "sentry",
+                "href": "https://github.com/samueleaton/sentry",
+                "github": "samueleaton/sentry",
+                "type": "github"
+            },
+            {
+                "title": "sentry-run",
+                "href": "https://github.com/faustinoaq/sentry-run",
+                "github": "faustinoaq/sentry-run",
+                "type": "github"
+            },
+            {
+                "title": "watchbird",
+                "href": "https://github.com/agatan/watchbird",
+                "github": "agatan/watchbird",
+                "type": "github"
+            },
+            {
+                "title": "watcher",
+                "href": "https://github.com/faustinoaq/watcher",
+                "github": "faustinoaq/watcher",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Email",
+        "childrens": [
+            {
+                "title": "CrystalEmail",
+                "href": "https://github.com/Nephos/CrystalEmail",
+                "github": "Nephos/CrystalEmail",
+                "type": "github"
+            },
+            {
+                "title": "devmail",
+                "href": "https://github.com/tijn/devmail",
+                "github": "tijn/devmail",
+                "type": "github"
+            },
+            {
+                "title": "sendgrid.cr",
+                "href": "https://github.com/dlanileonardo/sendgrid.cr",
+                "github": "dlanileonardo/sendgrid.cr",
+                "type": "github"
+            },
+            {
+                "title": "smtp.cr",
+                "href": "https://github.com/raydf/smtp.cr",
+                "github": "raydf/smtp.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Environment Management",
+        "childrens": [
+            {
+                "title": "asdf-crystal",
+                "href": "https://github.com/marciogm/asdf-crystal",
+                "github": "marciogm/asdf-crystal",
+                "type": "github"
+            },
+            {
+                "title": "crenv",
+                "href": "https://github.com/pine/crenv",
+                "github": "pine/crenv",
+                "type": "github"
+            },
+            {
+                "title": "rcm.cr",
+                "href": "https://github.com/maiha/rcm.cr",
+                "github": "maiha/rcm.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Examples and funny stuff",
+        "childrens": [
+            {
+                "title": "crsfml-examples",
+                "href": "https://github.com/BlaXpirit/crsfml-examples",
+                "github": "BlaXpirit/crsfml-examples",
+                "type": "github"
+            },
+            {
+                "title": "crystal-benchmarks-game",
+                "href": "https://github.com/kostya/crystal-benchmarks-game",
+                "github": "kostya/crystal-benchmarks-game",
+                "type": "github"
+            },
+            {
+                "title": "crystal-by-example",
+                "href": "https://github.com/askn/crystal-by-example",
+                "github": "askn/crystal-by-example",
+                "type": "github"
+            },
+            {
+                "title": "crystal-patterns",
+                "href": "https://github.com/veelenga/crystal-patterns",
+                "github": "veelenga/crystal-patterns",
+                "type": "github"
+            },
+            {
+                "title": "crystal_samples",
+                "href": "https://github.com/tbpgr/crystal_samples",
+                "github": "tbpgr/crystal_samples",
+                "type": "github"
+            },
+            {
+                "title": "crystalized_ruby",
+                "href": "https://github.com/phoffer/crystalized_ruby",
+                "github": "phoffer/crystalized_ruby",
+                "type": "github"
+            },
+            {
+                "title": "docker-kemal",
+                "href": "https://github.com/ianblenke/docker-kemal",
+                "github": "ianblenke/docker-kemal",
+                "type": "github"
+            },
+            {
+                "title": "fast_sleep",
+                "href": "https://github.com/asterite/fast_sleep",
+                "github": "asterite/fast_sleep",
+                "type": "github"
+            },
+            {
+                "title": "kemal-chat",
+                "href": "https://github.com/sdogruyol/kemal-chat",
+                "github": "sdogruyol/kemal-chat",
+                "type": "github"
+            },
+            {
+                "title": "kemal-heroku-example",
+                "href": "https://github.com/cagataycali/kemal-heroku-example",
+                "github": "cagataycali/kemal-heroku-example",
+                "type": "github"
+            },
+            {
+                "title": "kemal-monetdb-test",
+                "href": "https://github.com/puppetpies/kemal-monetdb-test",
+                "github": "puppetpies/kemal-monetdb-test",
+                "type": "github"
+            },
+            {
+                "title": "kemal-pg-sample",
+                "href": "https://github.com/sdogruyol/kemal-pg-sample",
+                "github": "sdogruyol/kemal-pg-sample",
+                "type": "github"
+            },
+            {
+                "title": "kemal-react-chat",
+                "href": "https://github.com/f/kemal-react-chat",
+                "github": "f/kemal-react-chat",
+                "type": "github"
+            },
+            {
+                "title": "kemal-react-pg-chat",
+                "href": "https://github.com/Angarsk8/kemal-react-pg-chat",
+                "github": "Angarsk8/kemal-react-pg-chat",
+                "type": "github"
+            },
+            {
+                "title": "kemal-ws-pg-todo-app",
+                "href": "https://github.com/Angarsk8/kemal-ws-pg-todo-app",
+                "github": "Angarsk8/kemal-ws-pg-todo-app",
+                "type": "github"
+            },
+            {
+                "title": "kemal-ws-react-pg-todo-app",
+                "href": "https://github.com/Angarsk8/kemal-ws-react-pg-todo-app",
+                "github": "Angarsk8/kemal-ws-react-pg-todo-app",
+                "type": "github"
+            },
+            {
+                "title": "kemal-ws-todo-app",
+                "href": "https://github.com/Angarsk8/kemal-ws-todo-app",
+                "github": "Angarsk8/kemal-ws-todo-app",
+                "type": "github"
+            },
+            {
+                "title": "kemal_elm_chat",
+                "href": "https://github.com/kofno/kemal_elm_chat",
+                "github": "kofno/kemal_elm_chat",
+                "type": "github"
+            },
+            {
+                "title": "lattice-core-card-game",
+                "href": "https://github.com/jasonl99/card_game",
+                "github": "jasonl99/card_game",
+                "type": "github"
+            },
+            {
+                "title": "medley",
+                "href": "https://github.com/jwoertink/medley",
+                "github": "jwoertink/medley",
+                "type": "github"
+            },
+            {
+                "title": "os-crystal",
+                "href": "https://github.com/lbguilherme/os-crystal",
+                "github": "lbguilherme/os-crystal",
+                "type": "github"
+            },
+            {
+                "title": "rocky",
+                "href": "https://github.com/codingphasedotcom/rocky",
+                "github": "codingphasedotcom/rocky",
+                "type": "github"
+            },
+            {
+                "title": "try.cr",
+                "href": "https://github.com/maiha/try.cr",
+                "github": "maiha/try.cr",
+                "type": "github"
+            },
+            {
+                "title": "xcrystal",
+                "href": "https://github.com/exercism/xcrystal",
+                "github": "exercism/xcrystal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Framework Components",
+        "childrens": [
+            {
+                "title": "artanis",
+                "href": "https://github.com/ysbaddaden/artanis",
+                "github": "ysbaddaden/artanis",
+                "type": "github"
+            },
+            {
+                "title": "cr-melon",
+                "href": "https://github.com/gdotdesign/cr-melon",
+                "github": "gdotdesign/cr-melon",
+                "type": "github"
+            },
+            {
+                "title": "crystal-mime",
+                "href": "https://github.com/spalger/crystal-mime",
+                "github": "spalger/crystal-mime",
+                "type": "github"
+            },
+            {
+                "title": "kave",
+                "href": "https://github.com/jwoertink/kave",
+                "github": "jwoertink/kave",
+                "type": "github"
+            },
+            {
+                "title": "kemal-auth-token",
+                "href": "https://github.com/akwiatkowski/kemal-auth-token",
+                "github": "akwiatkowski/kemal-auth-token",
+                "type": "github"
+            },
+            {
+                "title": "kemal-comments",
+                "href": "https://github.com/TyanNN/kemal-comments",
+                "github": "TyanNN/kemal-comments",
+                "type": "github"
+            },
+            {
+                "title": "kemal-flash",
+                "href": "https://github.com/neovintage/kemal-flash",
+                "github": "neovintage/kemal-flash",
+                "type": "github"
+            },
+            {
+                "title": "kemal-monetdb",
+                "href": "https://github.com/puppetpies/kemal-monetdb",
+                "github": "puppetpies/kemal-monetdb",
+                "type": "github"
+            },
+            {
+                "title": "kemal-mysql",
+                "href": "https://github.com/sdogruyol/kemal-mysql",
+                "github": "sdogruyol/kemal-mysql",
+                "type": "github"
+            },
+            {
+                "title": "kemal-redis",
+                "href": "https://github.com/sdogruyol/kemal-redis",
+                "github": "sdogruyol/kemal-redis",
+                "type": "github"
+            },
+            {
+                "title": "kemal-session",
+                "href": "https://github.com/kemalcr/kemal-session",
+                "github": "kemalcr/kemal-session",
+                "type": "github"
+            },
+            {
+                "title": "kemalyst-i18n",
+                "href": "https://github.com/TechMagister/kemalyst-i18n",
+                "github": "TechMagister/kemalyst-i18n",
+                "type": "github"
+            },
+            {
+                "title": "mime-types.cr",
+                "href": "https://github.com/jwaldrip/mime-types.cr",
+                "github": "jwaldrip/mime-types.cr",
+                "type": "github"
+            },
+            {
+                "title": "request_id",
+                "href": "https://github.com/SuperPaintman/request-id",
+                "github": "SuperPaintman/request-id",
+                "type": "github"
+            },
+            {
+                "title": "response_time",
+                "href": "https://github.com/SuperPaintman/response-time",
+                "github": "SuperPaintman/response-time",
+                "type": "github"
+            },
+            {
+                "title": "spec-kemal",
+                "href": "https://github.com/sdogruyol/spec-kemal",
+                "github": "sdogruyol/spec-kemal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game Development",
+        "childrens": [
+            {
+                "title": "CrSFML",
+                "href": "https://github.com/oprypin/crsfml",
+                "github": "oprypin/crsfml",
+                "type": "github"
+            },
+            {
+                "title": "crystal-chipmunk",
+                "href": "https://github.com/BlaXpirit/crystal-chipmunk",
+                "github": "BlaXpirit/crystal-chipmunk",
+                "type": "github"
+            },
+            {
+                "title": "flight-crusader",
+                "href": "https://github.com/umurgdk/flight-crusader",
+                "github": "umurgdk/flight-crusader",
+                "type": "github"
+            },
+            {
+                "title": "glove",
+                "href": "https://github.com/ddfreyne/glove",
+                "github": "ddfreyne/glove",
+                "type": "github"
+            },
+            {
+                "title": "inari",
+                "href": "https://github.com/ddfreyne/inari",
+                "github": "ddfreyne/inari",
+                "type": "github"
+            },
+            {
+                "title": "medico",
+                "href": "https://github.com/konovod/medico",
+                "github": "konovod/medico",
+                "type": "github"
+            },
+            {
+                "title": "mos_game",
+                "href": "https://github.com/bararchy/mos_game",
+                "github": "bararchy/mos_game",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML/XML Parsing",
+        "childrens": [
+            {
+                "title": "crystagiri",
+                "href": "https://github.com/madeindjs/Crystagiri",
+                "github": "madeindjs/Crystagiri",
+                "type": "github"
+            },
+            {
+                "title": "gumbo-crystal",
+                "href": "https://github.com/blocknotes/gumbo-crystal",
+                "github": "blocknotes/gumbo-crystal",
+                "type": "github"
+            },
+            {
+                "title": "hq.cr",
+                "href": "https://github.com/maiha/hq.cr",
+                "github": "maiha/hq.cr",
+                "type": "github"
+            },
+            {
+                "title": "modest",
+                "href": "https://github.com/kostya/modest",
+                "github": "kostya/modest",
+                "type": "github"
+            },
+            {
+                "title": "myhtml",
+                "href": "https://github.com/kostya/myhtml",
+                "github": "kostya/myhtml",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP",
+        "childrens": [
+            {
+                "title": "crul",
+                "href": "https://github.com/porras/crul",
+                "github": "porras/crul",
+                "type": "github"
+            },
+            {
+                "title": "cryload",
+                "href": "https://github.com/sdogruyol/cryload",
+                "github": "sdogruyol/cryload",
+                "type": "github"
+            },
+            {
+                "title": "crystal-cossack",
+                "href": "https://github.com/greyblake/crystal-cossack",
+                "github": "greyblake/crystal-cossack",
+                "type": "github"
+            },
+            {
+                "title": "etag",
+                "href": "https://github.com/SuperPaintman/etag",
+                "github": "SuperPaintman/etag",
+                "type": "github"
+            },
+            {
+                "title": "helmet",
+                "href": "https://github.com/EvanHahn/crystal-helmet",
+                "github": "EvanHahn/crystal-helmet",
+                "type": "github"
+            },
+            {
+                "title": "http-protection",
+                "href": "https://github.com/rogeriozambon/http-protection",
+                "github": "rogeriozambon/http-protection",
+                "type": "github"
+            },
+            {
+                "title": "http2",
+                "href": "https://github.com/ysbaddaden/http2",
+                "github": "ysbaddaden/http2",
+                "type": "github"
+            },
+            {
+                "title": "http_distributor",
+                "href": "https://github.com/Nephos/http_distributor",
+                "github": "Nephos/http_distributor",
+                "type": "github"
+            },
+            {
+                "title": "http_parser.cr",
+                "href": "https://github.com/kostya/http_parser.cr",
+                "github": "kostya/http_parser.cr",
+                "type": "github"
+            },
+            {
+                "title": "keyer_cr",
+                "href": "https://github.com/danielpclark/keyer_cr",
+                "github": "danielpclark/keyer_cr",
+                "type": "github"
+            },
+            {
+                "title": "multipart.cr",
+                "href": "https://github.com/RX14/multipart.cr",
+                "github": "RX14/multipart.cr",
+                "type": "github"
+            },
+            {
+                "title": "resp-crystal",
+                "href": "https://github.com/soveran/resp-crystal",
+                "github": "soveran/resp-crystal",
+                "type": "github"
+            },
+            {
+                "title": "session",
+                "href": "https://github.com/porras/session.git",
+                "github": "porras/session.git",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image processing",
+        "childrens": [
+            {
+                "title": "magickwand-crystal",
+                "href": "https://github.com/blocknotes/magickwand-crystal",
+                "github": "blocknotes/magickwand-crystal",
+                "type": "github"
+            },
+            {
+                "title": "stumpy_gif",
+                "href": "https://github.com/l3kn/stumpy_gif",
+                "github": "l3kn/stumpy_gif",
+                "type": "github"
+            },
+            {
+                "title": "stumpy_png",
+                "href": "https://github.com/l3kn/stumpy_png",
+                "github": "l3kn/stumpy_png",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Implementations/Compilers",
+        "childrens": [
+            {
+                "title": "charly",
+                "href": "https://github.com/charly-lang",
+                "github": "charly-lang",
+                "type": "github"
+            },
+            {
+                "title": "cltk",
+                "href": "https://github.com/ziprandom/cltk",
+                "github": "ziprandom/cltk",
+                "type": "github"
+            },
+            {
+                "title": "cppize",
+                "href": "https://github.com/unn4m3d/cppize",
+                "github": "unn4m3d/cppize",
+                "type": "github"
+            },
+            {
+                "title": "crisp",
+                "href": "https://github.com/rhysd/Crisp",
+                "github": "rhysd/Crisp",
+                "type": "github"
+            },
+            {
+                "title": "crow",
+                "href": "https://github.com/geppetto-apps/crow",
+                "github": "geppetto-apps/crow",
+                "type": "github"
+            },
+            {
+                "title": "crystal",
+                "href": "https://github.com/crystal-lang/crystal",
+                "github": "crystal-lang/crystal",
+                "type": "github"
+            },
+            {
+                "title": "csmli",
+                "href": "https://github.com/david50407/csmli",
+                "github": "david50407/csmli",
+                "type": "github"
+            },
+            {
+                "title": "NuummiteOS",
+                "href": "https://github.com/TheKernelCorp/NuummiteOS",
+                "github": "TheKernelCorp/NuummiteOS",
+                "type": "github"
+            },
+            {
+                "title": "onix",
+                "href": "https://github.com/ozra/onyx-lang",
+                "github": "ozra/onyx-lang",
+                "type": "github"
+            },
+            {
+                "title": "zir",
+                "href": "https://github.com/tbrand/zir",
+                "github": "tbrand/zir",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging and monitoring",
+        "childrens": [
+            {
+                "title": "crystal-logreader",
+                "href": "https://github.com/arcage/crystal-logreader",
+                "github": "arcage/crystal-logreader",
+                "type": "github"
+            },
+            {
+                "title": "gelf-crystal",
+                "href": "https://github.com/benoist/gelf-crystal",
+                "github": "benoist/gelf-crystal",
+                "type": "github"
+            },
+            {
+                "title": "katip",
+                "href": "https://github.com/guvencenanguvenal/katip",
+                "github": "guvencenanguvenal/katip",
+                "type": "github"
+            },
+            {
+                "title": "statsd.cr",
+                "href": "https://github.com/miketheman/statsd.cr",
+                "github": "miketheman/statsd.cr",
+                "type": "github"
+            },
+            {
+                "title": "syslog.cr",
+                "href": "https://github.com/comandeo/syslog.cr",
+                "github": "comandeo/syslog.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Markdown/Text Processors",
+        "childrens": [
+            {
+                "title": "html-pipeline",
+                "href": "https://github.com/huacnlee/html-pipeline",
+                "github": "huacnlee/html-pipeline",
+                "type": "github"
+            },
+            {
+                "title": "remarkdown",
+                "href": "https://github.com/huacnlee/remarkdown",
+                "github": "huacnlee/remarkdown",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "aasm.cr",
+                "href": "https://github.com/veelenga/aasm.cr",
+                "github": "veelenga/aasm.cr",
+                "type": "github"
+            },
+            {
+                "title": "accord",
+                "href": "https://github.com/neovintage/accord",
+                "github": "neovintage/accord",
+                "type": "github"
+            },
+            {
+                "title": "acorn",
+                "href": "https://github.com/rmosolgo/acorn",
+                "github": "rmosolgo/acorn",
+                "type": "github"
+            },
+            {
+                "title": "any_hash.cr",
+                "href": "https://github.com/Sija/any_hash.cr",
+                "github": "Sija/any_hash.cr",
+                "type": "github"
+            },
+            {
+                "title": "chalk-box",
+                "href": "https://github.com/azukiapp/crystal-chalk-box",
+                "github": "azukiapp/crystal-chalk-box",
+                "type": "github"
+            },
+            {
+                "title": "circuit_breaker",
+                "href": "https://github.com/TPei/circuit_breaker",
+                "github": "TPei/circuit_breaker",
+                "type": "github"
+            },
+            {
+                "title": "clamd.cr",
+                "href": "https://github.com/RX14/clamd.cr",
+                "github": "RX14/clamd.cr",
+                "type": "github"
+            },
+            {
+                "title": "crdoc",
+                "href": "https://github.com/rhysd/crdoc",
+                "github": "rhysd/crdoc",
+                "type": "github"
+            },
+            {
+                "title": "crystal-binary_parser",
+                "href": "https://github.com/DanSnow/crystal-binary_parser",
+                "github": "DanSnow/crystal-binary_parser",
+                "type": "github"
+            },
+            {
+                "title": "crystal-diff",
+                "href": "https://github.com/MakeNowJust/crystal-diff",
+                "github": "MakeNowJust/crystal-diff",
+                "type": "github"
+            },
+            {
+                "title": "crystal-futures",
+                "href": "https://github.com/dhruvrajvanshi/crystal-futures",
+                "github": "dhruvrajvanshi/crystal-futures",
+                "type": "github"
+            },
+            {
+                "title": "crystal-i18n",
+                "href": "https://github.com/whity/crystal-i18n",
+                "github": "whity/crystal-i18n",
+                "type": "github"
+            },
+            {
+                "title": "crz",
+                "href": "https://github.com/dhruvrajvanshi/crz",
+                "github": "dhruvrajvanshi/crz",
+                "type": "github"
+            },
+            {
+                "title": "denetmen",
+                "href": "https://github.com/izniburak/denetmen",
+                "github": "izniburak/denetmen",
+                "type": "github"
+            },
+            {
+                "title": "emoji.cr",
+                "href": "https://github.com/veelenga/emoji.cr",
+                "github": "veelenga/emoji.cr",
+                "type": "github"
+            },
+            {
+                "title": "evented",
+                "href": "https://github.com/krisleech/evented",
+                "github": "krisleech/evented",
+                "type": "github"
+            },
+            {
+                "title": "executable_path",
+                "href": "https://github.com/kostya/executable_path",
+                "github": "kostya/executable_path",
+                "type": "github"
+            },
+            {
+                "title": "hoop",
+                "href": "https://github.com/hoopcr/hoop",
+                "github": "hoopcr/hoop",
+                "type": "github"
+            },
+            {
+                "title": "html_builder",
+                "href": "https://github.com/crystal-lang/html_builder",
+                "github": "crystal-lang/html_builder",
+                "type": "github"
+            },
+            {
+                "title": "immutable",
+                "href": "https://github.com/lucaong/immutable",
+                "github": "lucaong/immutable",
+                "type": "github"
+            },
+            {
+                "title": "inflector.cr",
+                "href": "https://github.com/phoffer/inflector.cr",
+                "github": "phoffer/inflector.cr",
+                "type": "github"
+            },
+            {
+                "title": "kreal",
+                "href": "https://github.com/f/kreal",
+                "github": "f/kreal",
+                "type": "github"
+            },
+            {
+                "title": "lambda.cr",
+                "href": "https://github.com/f/lambda.cr",
+                "github": "f/lambda.cr",
+                "type": "github"
+            },
+            {
+                "title": "lirith",
+                "href": "https://github.com/lirith-engine/lirith",
+                "github": "lirith-engine/lirith",
+                "type": "github"
+            },
+            {
+                "title": "manual-generator",
+                "href": "https://github.com/blocknotes/manual-generator",
+                "github": "blocknotes/manual-generator",
+                "type": "github"
+            },
+            {
+                "title": "metaclass",
+                "href": "https://github.com/mosop/metaclass",
+                "github": "mosop/metaclass",
+                "type": "github"
+            },
+            {
+                "title": "observable",
+                "href": "https://github.com/TPei/observable",
+                "github": "TPei/observable",
+                "type": "github"
+            },
+            {
+                "title": "ramlrenderer",
+                "href": "https://github.com/beno/ramlrenderer",
+                "github": "beno/ramlrenderer",
+                "type": "github"
+            },
+            {
+                "title": "raytracer-crystal",
+                "href": "https://github.com/l3kn/raytracer-crystal",
+                "github": "l3kn/raytracer-crystal",
+                "type": "github"
+            },
+            {
+                "title": "shell.cr",
+                "href": "https://github.com/dmytro/shell.cr",
+                "github": "dmytro/shell.cr",
+                "type": "github"
+            },
+            {
+                "title": "syscall.cr",
+                "href": "https://github.com/kubo39/syscall.cr",
+                "github": "kubo39/syscall.cr",
+                "type": "github"
+            },
+            {
+                "title": "tren",
+                "href": "https://github.com/sdogruyol/tren",
+                "github": "sdogruyol/tren",
+                "type": "github"
+            },
+            {
+                "title": "ulid",
+                "href": "https://github.com/SuperPaintman/ulid",
+                "github": "SuperPaintman/ulid",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "amqp.cr",
+                "href": "https://github.com/datanoise/amqp.cr",
+                "github": "datanoise/amqp.cr",
+                "type": "github"
+            },
+            {
+                "title": "bson.cr",
+                "href": "https://github.com/jeromegn/bson.cr",
+                "github": "jeromegn/bson.cr",
+                "type": "github"
+            },
+            {
+                "title": "CrystalIrc",
+                "href": "https://github.com/Meoowww/CrystalIrc",
+                "github": "Meoowww/CrystalIrc",
+                "type": "github"
+            },
+            {
+                "title": "fast_irc.cr",
+                "href": "https://github.com/RX14/fast_irc.cr",
+                "github": "RX14/fast_irc.cr",
+                "type": "github"
+            },
+            {
+                "title": "ipaddress.cr",
+                "href": "https://github.com/Sija/ipaddress.cr",
+                "github": "Sija/ipaddress.cr",
+                "type": "github"
+            },
+            {
+                "title": "jwt",
+                "href": "https://github.com/greyblake/crystal-jwt",
+                "github": "greyblake/crystal-jwt",
+                "type": "github"
+            },
+            {
+                "title": "msgpack-crystal",
+                "href": "https://github.com/benoist/msgpack-crystal",
+                "github": "benoist/msgpack-crystal",
+                "type": "github"
+            },
+            {
+                "title": "wire",
+                "href": "https://github.com/puppetpies/WIre",
+                "github": "puppetpies/WIre",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM/ODM Extensions",
+        "childrens": [
+            {
+                "title": "active_record.cr",
+                "href": "https://github.com/waterlink/active_record.cr",
+                "github": "waterlink/active_record.cr",
+                "type": "github"
+            },
+            {
+                "title": "crecto",
+                "href": "https://github.com/fridgerator/crecto",
+                "github": "fridgerator/crecto",
+                "type": "github"
+            },
+            {
+                "title": "jennifer",
+                "href": "https://github.com/imdrasil/jennifer.cr",
+                "github": "imdrasil/jennifer.cr",
+                "type": "github"
+            },
+            {
+                "title": "kemalyst-model",
+                "href": "https://github.com/drujensen/kemalyst-model",
+                "github": "drujensen/kemalyst-model",
+                "type": "github"
+            },
+            {
+                "title": "ohm-crystal",
+                "href": "https://github.com/soveran/ohm-crystal",
+                "github": "soveran/ohm-crystal",
+                "type": "github"
+            },
+            {
+                "title": "redis-tsv.cr",
+                "href": "https://github.com/maiha/redis-tsv.cr",
+                "github": "maiha/redis-tsv.cr",
+                "type": "github"
+            },
+            {
+                "title": "selenite-db",
+                "href": "https://github.com/xdougx/selenite-db",
+                "github": "xdougx/selenite-db",
+                "type": "github"
+            },
+            {
+                "title": "stal-crystal",
+                "href": "https://github.com/soveran/stal-crystal",
+                "github": "soveran/stal-crystal",
+                "type": "github"
+            },
+            {
+                "title": "topaz",
+                "href": "https://github.com/tbrand/topaz",
+                "github": "tbrand/topaz",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package Management",
+        "childrens": [
+            {
+                "title": "shards",
+                "href": "https://github.com/ysbaddaden/shards",
+                "github": "ysbaddaden/shards",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Processes and Threads",
+        "childrens": [
+            {
+                "title": "daemonize.cr",
+                "href": "https://github.com/DougEverly/daemonize.cr",
+                "github": "DougEverly/daemonize.cr",
+                "type": "github"
+            },
+            {
+                "title": "neph",
+                "href": "https://github.com/tbrand/neph",
+                "github": "tbrand/neph",
+                "type": "github"
+            },
+            {
+                "title": "promise",
+                "href": "https://github.com/jwaldrip/promise-cr",
+                "github": "jwaldrip/promise-cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Project Generators",
+        "childrens": [
+            {
+                "title": "bindgencr",
+                "href": "https://github.com/TechMagister/bindgencr",
+                "github": "TechMagister/bindgencr",
+                "type": "github"
+            },
+            {
+                "title": "crystal_lib",
+                "href": "https://github.com/crystal-lang/crystal_lib",
+                "github": "crystal-lang/crystal_lib",
+                "type": "github"
+            },
+            {
+                "title": "fez",
+                "href": "https://github.com/jwoertink/fez",
+                "github": "jwoertink/fez",
+                "type": "github"
+            },
+            {
+                "title": "generate",
+                "href": "https://github.com/generate-cr/generate",
+                "github": "generate-cr/generate",
+                "type": "github"
+            },
+            {
+                "title": "kgen",
+                "href": "https://github.com/TechMagister/kemalyst-generator",
+                "github": "TechMagister/kemalyst-generator",
+                "type": "github"
+            },
+            {
+                "title": "libgen",
+                "href": "https://github.com/olbat/libgen",
+                "github": "olbat/libgen",
+                "type": "github"
+            },
+            {
+                "title": "skaf",
+                "href": "https://github.com/elorest/skaf",
+                "github": "elorest/skaf",
+                "type": "github"
+            },
+            {
+                "title": "wasp",
+                "href": "https://github.com/icyleaf/wasp",
+                "github": "icyleaf/wasp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Queue",
+        "childrens": [
+            {
+                "title": "crystal-resque-client",
+                "href": "https://github.com/pine/crystal-resque-client",
+                "github": "pine/crystal-resque-client",
+                "type": "github"
+            },
+            {
+                "title": "dispatch",
+                "href": "https://github.com/bmulvihill/dispatch",
+                "github": "bmulvihill/dispatch",
+                "type": "github"
+            },
+            {
+                "title": "disque-cr",
+                "href": "https://github.com/foca/disque-cr",
+                "github": "foca/disque-cr",
+                "type": "github"
+            },
+            {
+                "title": "sidekiq.cr",
+                "href": "https://github.com/mperham/sidekiq.cr",
+                "github": "mperham/sidekiq.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Routing",
+        "childrens": [
+            {
+                "title": "beryl",
+                "href": "https://github.com/luislavena/beryl",
+                "github": "luislavena/beryl",
+                "type": "github"
+            },
+            {
+                "title": "crouter",
+                "href": "https://github.com/jreinert/crouter",
+                "github": "jreinert/crouter",
+                "type": "github"
+            },
+            {
+                "title": "crystal-routing",
+                "href": "https://github.com/bcardiff/crystal-routing",
+                "github": "bcardiff/crystal-routing",
+                "type": "github"
+            },
+            {
+                "title": "router-simple.cr",
+                "href": "https://github.com/karupanerura/router-simple.cr",
+                "github": "karupanerura/router-simple.cr",
+                "type": "github"
+            },
+            {
+                "title": "router.cr",
+                "href": "https://github.com/tbrand/router.cr",
+                "github": "tbrand/router.cr",
+                "type": "github"
+            },
+            {
+                "title": "toro",
+                "href": "https://github.com/soveran/toro",
+                "github": "soveran/toro",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scheduling",
+        "childrens": [
+            {
+                "title": "cron_scheduler",
+                "href": "https://github.com/kostya/cron_scheduler",
+                "github": "kostya/cron_scheduler",
+                "type": "github"
+            },
+            {
+                "title": "quartz",
+                "href": "https://github.com/andrewhamon/quartz",
+                "github": "andrewhamon/quartz",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Science and Data analysis",
+        "childrens": [
+            {
+                "title": "chizge",
+                "href": "https://github.com/aladagemre/chizge",
+                "github": "aladagemre/chizge",
+                "type": "github"
+            },
+            {
+                "title": "crystal-learn",
+                "href": "https://github.com/pbrusco/crystal-learn",
+                "github": "pbrusco/crystal-learn",
+                "type": "github"
+            },
+            {
+                "title": "machine",
+                "href": "https://github.com/mathieulaporte/machine",
+                "github": "mathieulaporte/machine",
+                "type": "github"
+            },
+            {
+                "title": "predict.cr",
+                "href": "https://github.com/RX14/predict.cr",
+                "github": "RX14/predict.cr",
+                "type": "github"
+            },
+            {
+                "title": "scorystal",
+                "href": "https://github.com/asafschers/scorystal",
+                "github": "asafschers/scorystal",
+                "type": "github"
+            },
+            {
+                "title": "stats",
+                "href": "https://github.com/Nephos/stats",
+                "github": "Nephos/stats",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search",
+        "childrens": [
+            {
+                "title": "hermes",
+                "href": "https://github.com/imdrasil/hermes.cr",
+                "github": "imdrasil/hermes.cr",
+                "type": "github"
+            },
+            {
+                "title": "query-builder",
+                "href": "https://github.com/izniburak/query-builder",
+                "github": "izniburak/query-builder",
+                "type": "github"
+            },
+            {
+                "title": "query.cr",
+                "href": "https://github.com/waterlink/query.cr",
+                "github": "waterlink/query.cr",
+                "type": "github"
+            },
+            {
+                "title": "soegen",
+                "href": "https://github.com/Ragmaanir/soegen",
+                "github": "Ragmaanir/soegen",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Task management",
+        "childrens": [
+            {
+                "title": "cake",
+                "href": "https://github.com/axvm/cake",
+                "github": "axvm/cake",
+                "type": "github"
+            },
+            {
+                "title": "crake",
+                "href": "https://github.com/MakeNowJust/crake",
+                "github": "MakeNowJust/crake",
+                "type": "github"
+            },
+            {
+                "title": "lake",
+                "href": "https://github.com/adlerhsieh/lake",
+                "github": "adlerhsieh/lake",
+                "type": "github"
+            },
+            {
+                "title": "sam",
+                "href": "https://github.com/imdrasil/sam.cr",
+                "github": "imdrasil/sam.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Template Engine",
+        "childrens": [
+            {
+                "title": "Bunny",
+                "href": "https://github.com/samsheff/Bunny",
+                "github": "samsheff/Bunny",
+                "type": "github"
+            },
+            {
+                "title": "crikey",
+                "href": "https://github.com/domgetter/crikey",
+                "github": "domgetter/crikey",
+                "type": "github"
+            },
+            {
+                "title": "crustache",
+                "href": "https://github.com/MakeNowJust/crustache",
+                "github": "MakeNowJust/crustache",
+                "type": "github"
+            },
+            {
+                "title": "Kilt",
+                "href": "https://github.com/jeromegn/kilt",
+                "github": "jeromegn/kilt",
+                "type": "github"
+            },
+            {
+                "title": "Slang",
+                "href": "https://github.com/jeromegn/slang",
+                "github": "jeromegn/slang",
+                "type": "github"
+            },
+            {
+                "title": "teeplate",
+                "href": "https://github.com/mosop/teeplate",
+                "github": "mosop/teeplate",
+                "type": "github"
+            },
+            {
+                "title": "temel",
+                "href": "https://github.com/f/temel",
+                "github": "f/temel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "crotest",
+                "href": "https://github.com/emancu/crotest",
+                "github": "emancu/crotest",
+                "type": "github"
+            },
+            {
+                "title": "matchi",
+                "href": "https://github.com/fixcr/matchi",
+                "github": "fixcr/matchi",
+                "type": "github"
+            },
+            {
+                "title": "minitest.cr",
+                "href": "https://github.com/ysbaddaden/minitest.cr",
+                "github": "ysbaddaden/minitest.cr",
+                "type": "github"
+            },
+            {
+                "title": "mock",
+                "href": "https://github.com/porras/mock",
+                "github": "porras/mock",
+                "type": "github"
+            },
+            {
+                "title": "mocks.cr",
+                "href": "https://github.com/waterlink/mocks.cr",
+                "github": "waterlink/mocks.cr",
+                "type": "github"
+            },
+            {
+                "title": "power_assert.cr",
+                "href": "https://github.com/rosylilly/power_assert.cr",
+                "github": "rosylilly/power_assert.cr",
+                "type": "github"
+            },
+            {
+                "title": "spec2-mocks",
+                "href": "https://github.com/waterlink/spec2-mocks.cr",
+                "github": "waterlink/spec2-mocks.cr",
+                "type": "github"
+            },
+            {
+                "title": "spec2.cr",
+                "href": "https://github.com/waterlink/spec2.cr",
+                "github": "waterlink/spec2.cr",
+                "type": "github"
+            },
+            {
+                "title": "timecop.cr",
+                "href": "https://github.com/waterlink/timecop.cr",
+                "github": "waterlink/timecop.cr",
+                "type": "github"
+            },
+            {
+                "title": "webmock.cr",
+                "href": "https://github.com/manastech/webmock.cr",
+                "github": "manastech/webmock.cr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third-party APIs",
+        "childrens": [
+            {
+                "title": "airbrake-crystal",
+                "href": "https://github.com/kyrylo/airbrake-crystal",
+                "github": "kyrylo/airbrake-crystal",
+                "type": "github"
+            },
+            {
+                "title": "AnyBar_cr",
+                "href": "https://github.com/davydovanton/AnyBar_cr",
+                "github": "davydovanton/AnyBar_cr",
+                "type": "github"
+            },
+            {
+                "title": "aws-signer.cr",
+                "href": "https://github.com/beanieboi/aws-signer.cr",
+                "github": "beanieboi/aws-signer.cr",
+                "type": "github"
+            },
+            {
+                "title": "awscr-signer",
+                "href": "https://github.com/taylorfinnell/awscr-signer",
+                "github": "taylorfinnell/awscr-signer",
+                "type": "github"
+            },
+            {
+                "title": "bugsnag.cr",
+                "href": "https://github.com/gewo/bugsnag.cr",
+                "github": "gewo/bugsnag.cr",
+                "type": "github"
+            },
+            {
+                "title": "crystal-connpass",
+                "href": "https://github.com/pine/crystal-connpass",
+                "github": "pine/crystal-connpass",
+                "type": "github"
+            },
+            {
+                "title": "crystal-darksky",
+                "href": "https://github.com/sb89/crystal-darksky",
+                "github": "sb89/crystal-darksky",
+                "type": "github"
+            },
+            {
+                "title": "crystal-github",
+                "href": "https://github.com/felipeelias/crystal-github",
+                "github": "felipeelias/crystal-github",
+                "type": "github"
+            },
+            {
+                "title": "crystal-mondo",
+                "href": "https://github.com/barisbalic/crystal-mondo",
+                "github": "barisbalic/crystal-mondo",
+                "type": "github"
+            },
+            {
+                "title": "crystal-newrelic",
+                "href": "https://github.com/waj/crystal-newrelic",
+                "github": "waj/crystal-newrelic",
+                "type": "github"
+            },
+            {
+                "title": "crystal-qiita",
+                "href": "https://github.com/pine/crystal-qiita",
+                "github": "pine/crystal-qiita",
+                "type": "github"
+            },
+            {
+                "title": "crystal-swapi",
+                "href": "https://github.com/sb89/crystal-swapi",
+                "github": "sb89/crystal-swapi",
+                "type": "github"
+            },
+            {
+                "title": "crystal_brium",
+                "href": "https://github.com/manastech/crystal_brium",
+                "github": "manastech/crystal_brium",
+                "type": "github"
+            },
+            {
+                "title": "crystal_slack",
+                "href": "https://github.com/manastech/crystal_slack",
+                "github": "manastech/crystal_slack",
+                "type": "github"
+            },
+            {
+                "title": "crystalforce",
+                "href": "https://github.com/ucmsky/crystalforce",
+                "github": "ucmsky/crystalforce",
+                "type": "github"
+            },
+            {
+                "title": "docker.cr",
+                "href": "https://github.com/jeromegn/docker.cr",
+                "github": "jeromegn/docker.cr",
+                "type": "github"
+            },
+            {
+                "title": "dotacr",
+                "href": "https://github.com/azah/dotacr",
+                "github": "azah/dotacr",
+                "type": "github"
+            },
+            {
+                "title": "fantasy_football_nerd_api",
+                "href": "https://github.com/fridgerator/fantasy_football_nerd_api",
+                "github": "fridgerator/fantasy_football_nerd_api",
+                "type": "github"
+            },
+            {
+                "title": "gitlab.cr",
+                "href": "https://github.com/icyleaf/gitlab.cr",
+                "github": "icyleaf/gitlab.cr",
+                "type": "github"
+            },
+            {
+                "title": "glosbe",
+                "href": "https://github.com/greyblake/crystal-glosbe",
+                "github": "greyblake/crystal-glosbe",
+                "type": "github"
+            },
+            {
+                "title": "google_maps_api",
+                "href": "https://github.com/fridgerator/google_maps_api",
+                "github": "fridgerator/google_maps_api",
+                "type": "github"
+            },
+            {
+                "title": "google_translate",
+                "href": "https://github.com/greyblake/crystal-google_translate",
+                "github": "greyblake/crystal-google_translate",
+                "type": "github"
+            },
+            {
+                "title": "gravatar.cr",
+                "href": "https://github.com/fg/gravatar.cr.git",
+                "github": "fg/gravatar.cr.git",
+                "type": "github"
+            },
+            {
+                "title": "hncr",
+                "href": "https://github.com/Gangwolf/hncr",
+                "github": "Gangwolf/hncr",
+                "type": "github"
+            },
+            {
+                "title": "nexmo-crystal",
+                "href": "https://github.com/timcraft/nexmo-crystal",
+                "github": "timcraft/nexmo-crystal",
+                "type": "github"
+            },
+            {
+                "title": "ocean_kit",
+                "href": "https://github.com/osfx/ocean_kit",
+                "github": "osfx/ocean_kit",
+                "type": "github"
+            },
+            {
+                "title": "open_exchange_rates",
+                "href": "https://github.com/osfx/open_exchange_rates",
+                "github": "osfx/open_exchange_rates",
+                "type": "github"
+            },
+            {
+                "title": "openweather.cr",
+                "href": "https://github.com/lucasocon/openweather.cr",
+                "github": "lucasocon/openweather.cr",
+                "type": "github"
+            },
+            {
+                "title": "pullword",
+                "href": "https://github.com/googya/pullword",
+                "github": "googya/pullword",
+                "type": "github"
+            },
+            {
+                "title": "raven.cr",
+                "href": "https://github.com/sija/raven.cr",
+                "github": "sija/raven.cr",
+                "type": "github"
+            },
+            {
+                "title": "shorturl.cr",
+                "href": "https://github.com/veelenga/shorturl.cr",
+                "github": "veelenga/shorturl.cr",
+                "type": "github"
+            },
+            {
+                "title": "slack.cr",
+                "href": "https://github.com/DougEverly/slack.cr",
+                "github": "DougEverly/slack.cr",
+                "type": "github"
+            },
+            {
+                "title": "soundcloud-crystal",
+                "href": "https://github.com/sferik/soundcloud-crystal",
+                "github": "sferik/soundcloud-crystal",
+                "type": "github"
+            },
+            {
+                "title": "spotify.cr",
+                "href": "https://github.com/marceloboeira/spotify.cr",
+                "github": "marceloboeira/spotify.cr",
+                "type": "github"
+            },
+            {
+                "title": "TelegramBot",
+                "href": "https://github.com/hangyas/TelegramBot",
+                "github": "hangyas/TelegramBot",
+                "type": "github"
+            },
+            {
+                "title": "twitter-crystal",
+                "href": "https://github.com/sferik/twitter-crystal",
+                "github": "sferik/twitter-crystal",
+                "type": "github"
+            },
+            {
+                "title": "wit-crystal",
+                "href": "https://github.com/spalladino/wit-crystal",
+                "github": "spalladino/wit-crystal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Virtualization",
+        "childrens": [
+            {
+                "title": "backed_file_system",
+                "href": "https://github.com/schovi/baked_file_system",
+                "github": "schovi/baked_file_system",
+                "type": "github"
+            },
+            {
+                "title": "rcpu",
+                "href": "https://github.com/ddfreyne/rcpu",
+                "github": "ddfreyne/rcpu",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "amatista",
+                "href": "https://github.com/werner/amatista",
+                "github": "werner/amatista",
+                "type": "github"
+            },
+            {
+                "title": "amber",
+                "href": "https://github.com/Amber-Crystal/amber",
+                "github": "Amber-Crystal/amber",
+                "type": "github"
+            },
+            {
+                "title": "amethyst",
+                "href": "https://github.com/Codcore/Amethyst",
+                "github": "Codcore/Amethyst",
+                "type": "github"
+            },
+            {
+                "title": "carbon-crystal",
+                "href": "https://github.com/benoist/carbon-crystal",
+                "github": "benoist/carbon-crystal",
+                "type": "github"
+            },
+            {
+                "title": "chocolate",
+                "href": "https://github.com/Grabli66/chocolate",
+                "github": "Grabli66/chocolate",
+                "type": "github"
+            },
+            {
+                "title": "frost",
+                "href": "https://github.com/ysbaddaden/frost",
+                "github": "ysbaddaden/frost",
+                "type": "github"
+            },
+            {
+                "title": "iceberg",
+                "href": "https://github.com/adlerhsieh/iceberg",
+                "github": "adlerhsieh/iceberg",
+                "type": "github"
+            },
+            {
+                "title": "kemal",
+                "href": "https://github.com/sdogruyol/kemal",
+                "github": "sdogruyol/kemal",
+                "type": "github"
+            },
+            {
+                "title": "kemalyst",
+                "href": "https://github.com/drujensen/kemalyst",
+                "github": "drujensen/kemalyst",
+                "type": "github"
+            },
+            {
+                "title": "lattice-core",
+                "href": "https://github.com/jasonl99/lattice-core",
+                "github": "jasonl99/lattice-core",
+                "type": "github"
+            },
+            {
+                "title": "mustafa",
+                "href": "https://github.com/guvencenanguvenal/mustafa",
+                "github": "guvencenanguvenal/mustafa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Servers",
+        "childrens": [
+            {
+                "title": "fast-http-server",
+                "href": "https://github.com/sdogruyol/fast-http-server",
+                "github": "sdogruyol/fast-http-server",
+                "type": "github"
+            },
+            {
+                "title": "kamber",
+                "href": "https://github.com/f/kamber",
+                "github": "f/kamber",
+                "type": "github"
+            },
+            {
+                "title": "prax.cr",
+                "href": "https://github.com/ysbaddaden/prax.cr",
+                "github": "ysbaddaden/prax.cr",
+                "type": "github"
+            },
+            {
+                "title": "serve",
+                "href": "https://github.com/SuperPaintman/serve",
+                "github": "SuperPaintman/serve",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Services and Apps",
+        "childrens": [
+            {
+                "title": "Crank",
+                "href": "https://github.com/arktisklada/crank",
+                "github": "arktisklada/crank",
+                "type": "github"
+            },
+            {
+                "title": "DeBot",
+                "href": "https://github.com/jhass/DeBot",
+                "github": "jhass/DeBot",
+                "type": "github"
+            },
+            {
+                "title": "fikri",
+                "href": "https://github.com/askn/fikri",
+                "github": "askn/fikri",
+                "type": "github"
+            },
+            {
+                "title": "icr",
+                "href": "https://github.com/greyblake/crystal-icr",
+                "github": "greyblake/crystal-icr",
+                "type": "github"
+            },
+            {
+                "title": "nes",
+                "href": "https://github.com/romeroadrian/nes.cr",
+                "github": "romeroadrian/nes.cr",
+                "type": "github"
+            },
+            {
+                "title": "torrent",
+                "href": "https://github.com/Papierkorb/torrent",
+                "github": "Papierkorb/torrent",
+                "type": "github"
+            },
+            {
+                "title": "vicr",
+                "href": "https://github.com/veelenga/vicr.git",
+                "github": "veelenga/vicr.git",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "crystal-ctags",
+                "href": "https://github.com/SuperPaintman/crystal-ctags",
+                "github": "SuperPaintman/crystal-ctags",
+                "type": "github"
+            },
+            {
+                "title": "crystal-dash-docset",
+                "href": "https://github.com/Sija/crystal-dash-docset",
+                "github": "Sija/crystal-dash-docset",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DevOps",
+        "childrens": [
+            {
+                "title": "crystal-cookbook",
+                "href": "https://github.com/vjdhama/crystal-cookbook",
+                "github": "vjdhama/crystal-cookbook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Shell plugins",
+        "childrens": [
+            {
+                "title": "crystal-zsh",
+                "href": "https://github.com/veelenga/crystal-zsh",
+                "github": "veelenga/crystal-zsh",
+                "type": "github"
+            }
+        ]
+    }
+]

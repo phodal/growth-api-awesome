@@ -1,0 +1,795 @@
+[
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "AutoMapper ★4,111",
+                "href": "https://github.com/AutoMapper/AutoMapper",
+                "github": "AutoMapper/AutoMapper",
+                "type": "github"
+            },
+            {
+                "title": "Humanizer ★2,407",
+                "href": "https://github.com/Humanizr/Humanizer",
+                "github": "Humanizr/Humanizer",
+                "type": "github"
+            },
+            {
+                "title": "Fluent Validation ★1,893",
+                "href": "https://github.com/JeremySkinner/FluentValidation",
+                "github": "JeremySkinner/FluentValidation",
+                "type": "github"
+            },
+            {
+                "title": "Polly ★1,913",
+                "href": "https://github.com/App-vNext/Polly",
+                "github": "App-vNext/Polly",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Architecture",
+        "childrens": [
+            {
+                "title": "Behaviors Toolkit ★26",
+                "href": "https://github.com/ThomasLebrun/XamarinBehaviorsToolkit",
+                "github": "ThomasLebrun/XamarinBehaviorsToolkit",
+                "type": "github"
+            },
+            {
+                "title": "Conditions ★44",
+                "href": "https://github.com/ghuntley/conditions",
+                "github": "ghuntley/conditions",
+                "type": "github"
+            },
+            {
+                "title": "Stateless ★1,409",
+                "href": "https://github.com/dotnet-state-machine/stateless",
+                "github": "dotnet-state-machine/stateless",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Async",
+        "childrens": [
+            {
+                "title": "AsyncEx ★638",
+                "href": "https://github.com/StephenCleary/AsyncEx",
+                "github": "StephenCleary/AsyncEx",
+                "type": "github"
+            },
+            {
+                "title": "LinqToAwait ★86",
+                "href": "https://github.com/paulcbetts/LinqToAwait",
+                "github": "paulcbetts/LinqToAwait",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cloud",
+        "childrens": [
+            {
+                "title": "FireSharp ★319",
+                "href": "https://github.com/ziyasal/FireSharp",
+                "github": "ziyasal/FireSharp",
+                "type": "github"
+            },
+            {
+                "title": "Bugfender",
+                "href": "https://github.com/bugfender/bugfender-xamarin",
+                "github": "bugfender/bugfender-xamarin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "Akavache ★1,323",
+                "href": "https://github.com/akavache/Akavache",
+                "github": "akavache/Akavache",
+                "type": "github"
+            },
+            {
+                "title": "Breeze ★50",
+                "href": "https://github.com/Breeze/breeze.sharp",
+                "github": "Breeze/breeze.sharp",
+                "type": "github"
+            },
+            {
+                "title": "Couchbase.Lite ★229",
+                "href": "https://github.com/couchbase/couchbase-lite-net",
+                "github": "couchbase/couchbase-lite-net",
+                "type": "github"
+            },
+            {
+                "title": "Lager ★2",
+                "href": "https://github.com/ghuntley/Lager",
+                "github": "ghuntley/Lager",
+                "type": "github"
+            },
+            {
+                "title": "Massive ★1,595",
+                "href": "https://github.com/FransBouma/Massive",
+                "github": "FransBouma/Massive",
+                "type": "github"
+            },
+            {
+                "title": "Realm ★441",
+                "href": "https://github.com/realm/realm-dotnet",
+                "github": "realm/realm-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "Settings ★28",
+                "href": "https://github.com/aritchie/settings",
+                "github": "aritchie/settings",
+                "type": "github"
+            },
+            {
+                "title": "SQLite.Net-PCL ★298",
+                "href": "https://github.com/oysteinkrog/SQLite.Net-PCL",
+                "github": "oysteinkrog/SQLite.Net-PCL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fody",
+        "childrens": [
+            {
+                "title": "Fody ★1,325",
+                "href": "https://github.com/Fody/Fody",
+                "github": "Fody/Fody",
+                "type": "github"
+            },
+            {
+                "title": "PropertyChanged.Fody",
+                "href": "https://github.com/Fody/PropertyChanged/",
+                "github": "Fody/PropertyChanged/",
+                "type": "github"
+            },
+            {
+                "title": "ReactiveUI.Fody ★60",
+                "href": "https://github.com/kswoll/ReactiveUI.Fody",
+                "github": "kswoll/ReactiveUI.Fody",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Framework",
+        "childrens": [
+            {
+                "title": "Appercode.UIFramework ★7",
+                "href": "https://github.com/Appercode/Appercode.UIFramework",
+                "github": "Appercode/Appercode.UIFramework",
+                "type": "github"
+            },
+            {
+                "title": "Fusion ★3",
+                "href": "https://github.com/Appercode/Appercode.UIFramework",
+                "github": "Appercode/Appercode.UIFramework",
+                "type": "github"
+            },
+            {
+                "title": "SimplyMobile ★88",
+                "href": "https://github.com/sami1971/SimplyMobile",
+                "github": "sami1971/SimplyMobile",
+                "type": "github"
+            },
+            {
+                "title": "Xamu-Infrastructure ★28",
+                "href": "https://github.com/xamarinhq/xamu-infrastructure",
+                "github": "xamarinhq/xamu-infrastructure",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game Engine",
+        "childrens": [
+            {
+                "title": "CocosSharp ★402",
+                "href": "https://github.com/mono/CocosSharp",
+                "github": "mono/CocosSharp",
+                "type": "github"
+            },
+            {
+                "title": "MonoGame ★4,023",
+                "href": "https://github.com/MonoGame/MonoGame",
+                "github": "MonoGame/MonoGame",
+                "type": "github"
+            },
+            {
+                "title": "Paradox ★1,252",
+                "href": "https://github.com/SiliconStudio/xenko",
+                "github": "SiliconStudio/xenko",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IO/Storage",
+        "childrens": [
+            {
+                "title": "io ★2",
+                "href": "https://github.com/aritchie/io",
+                "github": "aritchie/io",
+                "type": "github"
+            },
+            {
+                "title": "PCL Storage ★174",
+                "href": "https://github.com/dsplaisted/PCLStorage",
+                "github": "dsplaisted/PCLStorage",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IOC/DI",
+        "childrens": [
+            {
+                "title": "Autofac ★1,309",
+                "href": "https://github.com/autofac/Autofac",
+                "github": "autofac/Autofac",
+                "type": "github"
+            },
+            {
+                "title": "Funq ★1",
+                "href": "https://github.com/thiagoromam/FunqPortable",
+                "github": "thiagoromam/FunqPortable",
+                "type": "github"
+            },
+            {
+                "title": "LightInject ★203",
+                "href": "https://github.com/seesharper/LightInject",
+                "github": "seesharper/LightInject",
+                "type": "github"
+            },
+            {
+                "title": "Ninject ★1,634",
+                "href": "https://github.com/ninject/Ninject",
+                "github": "ninject/Ninject",
+                "type": "github"
+            },
+            {
+                "title": "Stiletto ★26",
+                "href": "https://github.com/benjamin-bader/stiletto",
+                "github": "benjamin-bader/stiletto",
+                "type": "github"
+            },
+            {
+                "title": "TinyIoC ★466",
+                "href": "https://github.com/grumpydev/TinyIoC",
+                "github": "grumpydev/TinyIoC",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Internationalization",
+        "childrens": [
+            {
+                "title": "Resxible ★6",
+                "href": "https://github.com/apcurium/resxible",
+                "github": "apcurium/resxible",
+                "type": "github"
+            },
+            {
+                "title": "Vernacular ★161",
+                "href": "https://github.com/rdio/vernacular",
+                "github": "rdio/vernacular",
+                "type": "github"
+            },
+            {
+                "title": "I18NPortable ★14",
+                "href": "https://github.com/xleon/I18N-Portable",
+                "github": "xleon/I18N-Portable",
+                "type": "github"
+            },
+            {
+                "title": "EZ-Compress ★6",
+                "href": "https://github.com/VictorGrunn/EZ-Compress-for-Xamarin",
+                "github": "VictorGrunn/EZ-Compress-for-Xamarin",
+                "type": "github"
+            },
+            {
+                "title": "Fast & Furious Image Loading ★338",
+                "href": "https://github.com/luberda-molinet/FFImageLoading",
+                "github": "luberda-molinet/FFImageLoading",
+                "type": "github"
+            },
+            {
+                "title": "Lottie ★143",
+                "href": "https://github.com/martijn00/LottieXamarin",
+                "github": "martijn00/LottieXamarin",
+                "type": "github"
+            },
+            {
+                "title": "MediaManager ★46",
+                "href": "https://github.com/martijn00/XamarinMediaManager",
+                "github": "martijn00/XamarinMediaManager",
+                "type": "github"
+            },
+            {
+                "title": "NGraphics ★334",
+                "href": "https://github.com/praeclarum/NGraphics",
+                "github": "praeclarum/NGraphics",
+                "type": "github"
+            },
+            {
+                "title": "PDFReader ★44",
+                "href": "https://github.com/AlexanderMac/mTouch-PDFReader",
+                "github": "AlexanderMac/mTouch-PDFReader",
+                "type": "github"
+            },
+            {
+                "title": "Splat ★487",
+                "href": "https://github.com/paulcbetts/splat",
+                "github": "paulcbetts/splat",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MVVM",
+        "childrens": [
+            {
+                "title": "Bind ★125",
+                "href": "https://github.com/praeclarum/Bind",
+                "github": "praeclarum/Bind",
+                "type": "github"
+            },
+            {
+                "title": "Wires",
+                "href": "https://github.com/aloisdeniel/Wires",
+                "github": "aloisdeniel/Wires",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Network",
+        "childrens": [
+            {
+                "title": "Flurl ★470",
+                "href": "https://github.com/tmenier/Flurl",
+                "github": "tmenier/Flurl",
+                "type": "github"
+            },
+            {
+                "title": "Fusillade ★160",
+                "href": "https://github.com/paulcbetts/Fusillade",
+                "github": "paulcbetts/Fusillade",
+                "type": "github"
+            },
+            {
+                "title": "Messaging",
+                "href": "https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging",
+                "github": "cjlotz/Xamarin.Plugins/tree/master/Messaging",
+                "type": "github"
+            },
+            {
+                "title": "ModernHttpClient ★489",
+                "href": "https://github.com/paulcbetts/ModernHttpClient",
+                "github": "paulcbetts/ModernHttpClient",
+                "type": "github"
+            },
+            {
+                "title": "Push Notification",
+                "href": "https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification",
+                "github": "rdelrosario/xamarin-plugins/tree/master/PushNotification",
+                "type": "github"
+            },
+            {
+                "title": "Reachability ★12",
+                "href": "https://github.com/has-taiar/Reachability.Net",
+                "github": "has-taiar/Reachability.Net",
+                "type": "github"
+            },
+            {
+                "title": "Refit ★1,092",
+                "href": "https://github.com/paulcbetts/refit",
+                "github": "paulcbetts/refit",
+                "type": "github"
+            },
+            {
+                "title": "RestEase ★81",
+                "href": "https://github.com/canton7/RestEase",
+                "github": "canton7/RestEase",
+                "type": "github"
+            },
+            {
+                "title": "Sockets ★113",
+                "href": "https://github.com/rdavisau/sockets-for-pcl",
+                "github": "rdavisau/sockets-for-pcl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reactive",
+        "childrens": [
+            {
+                "title": "Akavache ★1,323",
+                "href": "https://github.com/akavache/Akavache",
+                "github": "akavache/Akavache",
+                "type": "github"
+            },
+            {
+                "title": "ReactiveUI ★2,780",
+                "href": "https://github.com/reactiveui/ReactiveUI",
+                "github": "reactiveui/ReactiveUI",
+                "type": "github"
+            },
+            {
+                "title": "Sensors",
+                "href": "https://github.com/aritchie/sensors",
+                "github": "aritchie/sensors",
+                "type": "github"
+            },
+            {
+                "title": "Refit ★1,092",
+                "href": "https://github.com/paulcbetts/refit",
+                "github": "paulcbetts/refit",
+                "type": "github"
+            },
+            {
+                "title": "RxFlow ★16",
+                "href": "https://github.com/ugaya40/RxFlow",
+                "github": "ugaya40/RxFlow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "BoucyCastle.PCL ★74",
+                "href": "https://github.com/onovotny/BouncyCastle-PCL",
+                "github": "onovotny/BouncyCastle-PCL",
+                "type": "github"
+            },
+            {
+                "title": "Fingerprint Plugin ★49",
+                "href": "https://github.com/smstuebe/xamarin-fingerprint",
+                "github": "smstuebe/xamarin-fingerprint",
+                "type": "github"
+            },
+            {
+                "title": "PCLCrypto ★127",
+                "href": "https://github.com/AArnott/PCLCrypto",
+                "github": "AArnott/PCLCrypto",
+                "type": "github"
+            },
+            {
+                "title": "Permissions",
+                "href": "https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions",
+                "github": "jamesmontemagno/Xamarin.Plugins/tree/master/Permissions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Serialization",
+        "childrens": [
+            {
+                "title": "Newtonsoft.Json ★3,775",
+                "href": "https://github.com/JamesNK/Newtonsoft.Json",
+                "github": "JamesNK/Newtonsoft.Json",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TDD/BDD",
+        "childrens": [
+            {
+                "title": "NBehave ★39",
+                "href": "https://github.com/nbehave/NBehave",
+                "github": "nbehave/NBehave",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "GradleBindings ★56",
+                "href": "https://github.com/EgorBo/Xamarin.GradleBindings",
+                "github": "EgorBo/Xamarin.GradleBindings",
+                "type": "github"
+            },
+            {
+                "title": "PushSharp ★3,507",
+                "href": "https://github.com/Redth/PushSharp",
+                "github": "Redth/PushSharp",
+                "type": "github"
+            },
+            {
+                "title": "Twin Tools Add-In ★15",
+                "href": "https://github.com/twintechs/TwinToolsForXamarin",
+                "github": "twintechs/TwinToolsForXamarin",
+                "type": "github"
+            },
+            {
+                "title": "Xamaridea ★34",
+                "href": "https://github.com/EgorBo/Xamaridea",
+                "github": "EgorBo/Xamaridea",
+                "type": "github"
+            },
+            {
+                "title": "Cheeseknife ★33",
+                "href": "https://github.com/MarcelBraghetto/Cheeseknife",
+                "github": "MarcelBraghetto/Cheeseknife",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI",
+        "childrens": [
+            {
+                "title": "NControl",
+                "href": "https://github.com/chrfalch/NControl/",
+                "github": "chrfalch/NControl/",
+                "type": "github"
+            },
+            {
+                "title": "Passcode ★10",
+                "href": "https://github.com/kevinskrei/XamarinPasscode",
+                "github": "kevinskrei/XamarinPasscode",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Wearable",
+        "childrens": [
+            {
+                "title": "WormHoleSharp ★22",
+                "href": "https://github.com/Clancey/WormHoleSharp",
+                "github": "Clancey/WormHoleSharp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Xamarin.Forms",
+        "childrens": [
+            {
+                "title": "Acr-xamarin-forms ★217",
+                "href": "https://github.com/aritchie/acr-xamarin-forms",
+                "github": "aritchie/acr-xamarin-forms",
+                "type": "github"
+            },
+            {
+                "title": "AdvancedTimer ★18",
+                "href": "https://github.com/ufuf/AdvancedTimer",
+                "github": "ufuf/AdvancedTimer",
+                "type": "github"
+            },
+            {
+                "title": "Android AppCompat ★29",
+                "href": "https://github.com/nativecode-dev/oss-xamarin",
+                "github": "nativecode-dev/oss-xamarin",
+                "type": "github"
+            },
+            {
+                "title": "Circle Image Control",
+                "href": "https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle",
+                "github": "jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle",
+                "type": "github"
+            },
+            {
+                "title": "Compass",
+                "href": "https://github.com/JarleySoft/Xamarin.Plugins/tree/master/Compass",
+                "github": "JarleySoft/Xamarin.Plugins/tree/master/Compass",
+                "type": "github"
+            },
+            {
+                "title": "Device Orientation",
+                "href": "https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation",
+                "github": "aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation",
+                "type": "github"
+            },
+            {
+                "title": "NControl ★143",
+                "href": "https://github.com/chrfalch/NControl",
+                "github": "chrfalch/NControl",
+                "type": "github"
+            },
+            {
+                "title": "MvxForms ★6",
+                "href": "https://github.com/MobiliTips/MvxPlugins",
+                "github": "MobiliTips/MvxPlugins",
+                "type": "github"
+            },
+            {
+                "title": "Rb.Forms.Barcode ★20",
+                "href": "https://github.com/rebuy-de/rb-forms-barcode",
+                "github": "rebuy-de/rb-forms-barcode",
+                "type": "github"
+            },
+            {
+                "title": "SolTech Xamarin Forms Toolkit ★24",
+                "href": "https://github.com/soltechinc/soltechxf",
+                "github": "soltechinc/soltechxf",
+                "type": "github"
+            },
+            {
+                "title": "Store Rating Plugin ★4",
+                "href": "https://github.com/voxdev/Xamarin.Plugins",
+                "github": "voxdev/Xamarin.Plugins",
+                "type": "github"
+            },
+            {
+                "title": "SVG",
+                "href": "https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG",
+                "github": "paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG",
+                "type": "github"
+            },
+            {
+                "title": "Toasts Plugin ★127",
+                "href": "https://github.com/EgorBo/Toasts.Forms.Plugin",
+                "github": "EgorBo/Toasts.Forms.Plugin",
+                "type": "github"
+            },
+            {
+                "title": "TwinTechsFormsLib ★132",
+                "href": "https://github.com/twintechs/TwinTechsFormsLib",
+                "github": "twintechs/TwinTechsFormsLib",
+                "type": "github"
+            },
+            {
+                "title": "Xamarin-Forms-Labs ★1,071",
+                "href": "https://github.com/XLabs/Xamarin-Forms-Labs",
+                "github": "XLabs/Xamarin-Forms-Labs",
+                "type": "github"
+            },
+            {
+                "title": "xamarin-forms-xna ★6",
+                "href": "https://github.com/jvlppm/xamarin-forms-xna",
+                "github": "jvlppm/xamarin-forms-xna",
+                "type": "github"
+            },
+            {
+                "title": "Xamarin.Forms.GoogleMaps ★109",
+                "href": "https://github.com/amay077/Xamarin.Forms.GoogleMaps",
+                "github": "amay077/Xamarin.Forms.GoogleMaps",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "XPlat APIs",
+        "childrens": [
+            {
+                "title": "Calendars ★25",
+                "href": "https://github.com/TheAlmightyBob/Calendars",
+                "github": "TheAlmightyBob/Calendars",
+                "type": "github"
+            },
+            {
+                "title": "Device Motion",
+                "href": "https://github.com/rdelrosario/xamarin-plugins/tree/master/DeviceMotion",
+                "github": "rdelrosario/xamarin-plugins/tree/master/DeviceMotion",
+                "type": "github"
+            },
+            {
+                "title": "Estimote ★19",
+                "href": "https://github.com/aritchie/estimotes-xplat",
+                "github": "aritchie/estimotes-xplat",
+                "type": "github"
+            },
+            {
+                "title": "Fingerprint ★49",
+                "href": "https://github.com/smstuebe/xamarin-fingerprint",
+                "github": "smstuebe/xamarin-fingerprint",
+                "type": "github"
+            },
+            {
+                "title": "HybridKit ★14",
+                "href": "https://github.com/chkn/HybridKit",
+                "github": "chkn/HybridKit",
+                "type": "github"
+            },
+            {
+                "title": "Lamp",
+                "href": "https://github.com/kphillpotts/Xamarin.Plugins/tree/master/Lamp",
+                "github": "kphillpotts/Xamarin.Plugins/tree/master/Lamp",
+                "type": "github"
+            },
+            {
+                "title": "ManageSleep ★5",
+                "href": "https://github.com/molinch/Xam.Plugins.ManageSleep",
+                "github": "molinch/Xam.Plugins.ManageSleep",
+                "type": "github"
+            },
+            {
+                "title": "Messaging ★40",
+                "href": "https://github.com/cjlotz/Xamarin.Plugins",
+                "github": "cjlotz/Xamarin.Plugins",
+                "type": "github"
+            },
+            {
+                "title": "notifications ★16",
+                "href": "https://github.com/aritchie/notifications",
+                "github": "aritchie/notifications",
+                "type": "github"
+            },
+            {
+                "title": "Pontoon ★19",
+                "href": "https://github.com/inthehand/Pontoon",
+                "github": "inthehand/Pontoon",
+                "type": "github"
+            },
+            {
+                "title": "Telephony ★14",
+                "href": "https://github.com/ghuntley/telephony",
+                "github": "ghuntley/telephony",
+                "type": "github"
+            },
+            {
+                "title": "userdialogs ★228",
+                "href": "https://github.com/aritchie/userdialogs",
+                "github": "aritchie/userdialogs",
+                "type": "github"
+            },
+            {
+                "title": "Version",
+                "href": "https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version",
+                "github": "mtrinder/Xamarin.Plugins/tree/master/Version",
+                "type": "github"
+            },
+            {
+                "title": "Xamarin.Badge ★19",
+                "href": "https://github.com/B1naryStudio/Xamarin.Badge",
+                "github": "B1naryStudio/Xamarin.Badge",
+                "type": "github"
+            },
+            {
+                "title": "Xamarin.LocalNotifications ★29",
+                "href": "https://github.com/B1naryStudio/Xamarin.LocalNotifications",
+                "github": "B1naryStudio/Xamarin.LocalNotifications",
+                "type": "github"
+            },
+            {
+                "title": "Xamarin.Mobile ★205",
+                "href": "https://github.com/xamarin/Xamarin.Mobile",
+                "github": "xamarin/Xamarin.Mobile",
+                "type": "github"
+            },
+            {
+                "title": "xamarin-plugins ★25",
+                "href": "https://github.com/domaven/xamarin-plugins",
+                "github": "domaven/xamarin-plugins",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other lists",
+        "childrens": [
+            {
+                "title": "Xamarin Bindings ★11",
+                "href": "https://github.com/aloisdeniel/Xamarin.Bindings",
+                "github": "aloisdeniel/Xamarin.Bindings",
+                "type": "github"
+            },
+            {
+                "title": "Xamarin Components ★231",
+                "href": "https://github.com/xamarin/XamarinComponents",
+                "github": "xamarin/XamarinComponents",
+                "type": "github"
+            }
+        ]
+    }
+]

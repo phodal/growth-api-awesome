@@ -1,0 +1,631 @@
+[
+    {
+        "heading": "File Type",
+        "childrens": [
+            {
+                "title": "File Loader",
+                "href": "https://github.com/webpack/file-loader",
+                "github": "webpack/file-loader",
+                "type": "github"
+            },
+            {
+                "title": "URL Loader",
+                "href": "https://github.com/webpack/url-loader",
+                "github": "webpack/url-loader",
+                "type": "github"
+            },
+            {
+                "title": "HTML Loader",
+                "href": "https://github.com/webpack/html-loader",
+                "github": "webpack/html-loader",
+                "type": "github"
+            },
+            {
+                "title": "Raw Loader",
+                "href": "https://github.com/webpack/raw-loader",
+                "github": "webpack/raw-loader",
+                "type": "github"
+            },
+            {
+                "title": "Image Loader",
+                "href": "https://github.com/thetalecrafter/img-loader",
+                "github": "thetalecrafter/img-loader",
+                "type": "github"
+            },
+            {
+                "title": "SVG Url Loader",
+                "href": "https://github.com/bhovhannes/svg-url-loader",
+                "github": "bhovhannes/svg-url-loader",
+                "type": "github"
+            },
+            {
+                "title": "json5 Loader",
+                "href": "https://github.com/webpack/json5-loader",
+                "github": "webpack/json5-loader",
+                "type": "github"
+            },
+            {
+                "title": "json Loader",
+                "href": "https://github.com/webpack/json-loader",
+                "github": "webpack/json-loader",
+                "type": "github"
+            },
+            {
+                "title": "mermaid Loader",
+                "href": "https://github.com/popul/mermaid-loader",
+                "github": "popul/mermaid-loader",
+                "type": "github"
+            },
+            {
+                "title": "wasm loader",
+                "href": "https://github.com/ballercat/wasm-loader",
+                "github": "ballercat/wasm-loader",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Component & Template",
+        "childrens": [
+            {
+                "title": "Angular2 Template Loader",
+                "href": "https://github.com/TheLarkInn/angular2-template-loader",
+                "github": "TheLarkInn/angular2-template-loader",
+                "type": "github"
+            },
+            {
+                "title": "Handlebars Loader",
+                "href": "https://github.com/pcardune/handlebars-loader",
+                "github": "pcardune/handlebars-loader",
+                "type": "github"
+            },
+            {
+                "title": "Vue Loader",
+                "href": "https://github.com/vuejs/vue-loader",
+                "github": "vuejs/vue-loader",
+                "type": "github"
+            },
+            {
+                "title": "SVG React Loader",
+                "href": "https://github.com/jhamlet/svg-react-loader",
+                "github": "jhamlet/svg-react-loader",
+                "type": "github"
+            },
+            {
+                "title": "Underscore Loader",
+                "href": "https://github.com/emaphp/underscore-template-loader",
+                "github": "emaphp/underscore-template-loader",
+                "type": "github"
+            },
+            {
+                "title": "ngTemplate Loader",
+                "href": "https://github.com/WearyMonkey/ngtemplate-loader",
+                "github": "WearyMonkey/ngtemplate-loader",
+                "type": "github"
+            },
+            {
+                "title": "ngInlineStylesLoader",
+                "href": "https://github.com/seveves/ng-inline-styles-loader",
+                "github": "seveves/ng-inline-styles-loader",
+                "type": "github"
+            },
+            {
+                "title": "Markup-inline Loader",
+                "href": "https://github.com/asnowwolf/markup-inline-loader",
+                "github": "asnowwolf/markup-inline-loader",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Styles",
+        "childrens": [
+            {
+                "title": "Style Loader",
+                "href": "https://github.com/webpack/style-loader",
+                "github": "webpack/style-loader",
+                "type": "github"
+            },
+            {
+                "title": "PostCSS Loader",
+                "href": "https://github.com/postcss/postcss-loader",
+                "github": "postcss/postcss-loader",
+                "type": "github"
+            },
+            {
+                "title": "CSS Loader",
+                "href": "https://github.com/webpack/css-loader",
+                "github": "webpack/css-loader",
+                "type": "github"
+            },
+            {
+                "title": "SASS Loader",
+                "href": "https://github.com/jtangelder/sass-loader",
+                "github": "jtangelder/sass-loader",
+                "type": "github"
+            },
+            {
+                "title": "Less Loader",
+                "href": "https://github.com/webpack/less-loader",
+                "github": "webpack/less-loader",
+                "type": "github"
+            },
+            {
+                "title": "Stylus Loader",
+                "href": "https://github.com/shama/stylus-loader",
+                "github": "shama/stylus-loader",
+                "type": "github"
+            },
+            {
+                "title": "Isomorphic Style Loader",
+                "href": "https://github.com/kriasoft/isomorphic-style-loader",
+                "github": "kriasoft/isomorphic-style-loader",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Language & Framework",
+        "childrens": [
+            {
+                "title": "TS Loader",
+                "href": "https://github.com/TypeStrong/ts-loader",
+                "github": "TypeStrong/ts-loader",
+                "type": "github"
+            },
+            {
+                "title": "Awesome TypeScript Loader",
+                "href": "https://github.com/s-panferov/awesome-typescript-loader",
+                "github": "s-panferov/awesome-typescript-loader",
+                "type": "github"
+            },
+            {
+                "title": "Coffee Loader",
+                "href": "https://github.com/webpack/coffee-loader",
+                "github": "webpack/coffee-loader",
+                "type": "github"
+            },
+            {
+                "title": "Bootstrap Loader",
+                "href": "https://github.com/shakacode/bootstrap-loader",
+                "github": "shakacode/bootstrap-loader",
+                "type": "github"
+            },
+            {
+                "title": "PostHTML Loader",
+                "href": "https://github.com/posthtml/posthtml",
+                "github": "posthtml/posthtml",
+                "type": "github"
+            },
+            {
+                "title": "ELM Loader",
+                "href": "https://github.com/rtfeldman/elm-webpack-loader",
+                "github": "rtfeldman/elm-webpack-loader",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utility",
+        "childrens": [
+            {
+                "title": "Babel Loader",
+                "href": "https://github.com/babel/babel-loader",
+                "github": "babel/babel-loader",
+                "type": "github"
+            },
+            {
+                "title": "ESLint Loader",
+                "href": "https://github.com/MoOx/eslint-loader",
+                "github": "MoOx/eslint-loader",
+                "type": "github"
+            },
+            {
+                "title": "JSHint Loader",
+                "href": "https://github.com/webpack/jshint-loader",
+                "github": "webpack/jshint-loader",
+                "type": "github"
+            },
+            {
+                "title": "JSCS Loader",
+                "href": "https://github.com/unindented/jscs-loader",
+                "github": "unindented/jscs-loader",
+                "type": "github"
+            },
+            {
+                "title": "Bundle Loader",
+                "href": "https://github.com/webpack/bundle-loader",
+                "github": "webpack/bundle-loader",
+                "type": "github"
+            },
+            {
+                "title": "Worker Loader",
+                "href": "https://github.com/webpack/worker-loader",
+                "github": "webpack/worker-loader",
+                "type": "github"
+            },
+            {
+                "title": "Resolve URL Loader",
+                "href": "https://github.com/bholloway/resolve-url-loader",
+                "github": "bholloway/resolve-url-loader",
+                "type": "github"
+            },
+            {
+                "title": "Import Loader",
+                "href": "https://github.com/webpack/imports-loader",
+                "github": "webpack/imports-loader",
+                "type": "github"
+            },
+            {
+                "title": "SourceMap Loader",
+                "href": "https://github.com/webpack/source-map-loader",
+                "github": "webpack/source-map-loader",
+                "type": "github"
+            },
+            {
+                "title": "ngRouter Loader",
+                "href": "https://github.com/shlomiassaf/ng-router-loader",
+                "github": "shlomiassaf/ng-router-loader",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Mocha Loader",
+                "href": "https://github.com/webpack/mocha-loader",
+                "github": "webpack/mocha-loader",
+                "type": "github"
+            },
+            {
+                "title": "Karma Webpack",
+                "href": "https://github.com/webpack/karma-webpack",
+                "github": "webpack/karma-webpack",
+                "type": "github"
+            },
+            {
+                "title": "Istanbul Webpack plugin",
+                "href": "https://github.com/DxCx/webpack-istanbul-plugin",
+                "github": "DxCx/webpack-istanbul-plugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Integration Libraries",
+        "childrens": [
+            {
+                "title": "Terse Webpack",
+                "href": "https://github.com/ericclemmons/terse-webpack",
+                "github": "ericclemmons/terse-webpack",
+                "type": "github"
+            },
+            {
+                "title": "SystemJS Webpack",
+                "href": "https://github.com/guybedford/systemjs-webpack-plugin",
+                "github": "guybedford/systemjs-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Gulp Webpack Stream",
+                "href": "https://github.com/shama/webpack-stream",
+                "github": "shama/webpack-stream",
+                "type": "github"
+            },
+            {
+                "title": "Webpack Blocks",
+                "href": "https://github.com/andywer/webpack-blocks",
+                "github": "andywer/webpack-blocks",
+                "type": "github"
+            },
+            {
+                "title": "Webpacker",
+                "href": "https://github.com/rails/webpacker",
+                "github": "rails/webpacker",
+                "type": "github"
+            },
+            {
+                "title": "WebpackAspnetMiddleware",
+                "href": "https://github.com/frankwallis/WebpackAspnetMiddleware",
+                "github": "frankwallis/WebpackAspnetMiddleware",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Webpack Plugins",
+        "childrens": [
+            {
+                "title": "Extract Text Plugin",
+                "href": "https://github.com/webpack/extract-text-webpack-plugin",
+                "github": "webpack/extract-text-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Compression Plugin",
+                "href": "https://github.com/webpack/compression-webpack-plugin",
+                "github": "webpack/compression-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Offline Plugin",
+                "href": "https://github.com/NekR/offline-plugin",
+                "github": "NekR/offline-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Rewire Plugin",
+                "href": "https://github.com/jhnns/rewire-webpack",
+                "github": "jhnns/rewire-webpack",
+                "type": "github"
+            },
+            {
+                "title": "HTML Webpack Plugin",
+                "href": "https://github.com/ampedandwired/html-webpack-plugin",
+                "github": "ampedandwired/html-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Copy Webpack Plugin",
+                "href": "https://github.com/kevlened/copy-webpack-plugin",
+                "github": "kevlened/copy-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Split By Path",
+                "href": "https://github.com/BohdanTkachenko/webpack-split-by-path",
+                "github": "BohdanTkachenko/webpack-split-by-path",
+                "type": "github"
+            },
+            {
+                "title": "SW Precache",
+                "href": "https://github.com/goldhand/sw-precache-webpack-plugin",
+                "github": "goldhand/sw-precache-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "CoreJS Plugin",
+                "href": "https://github.com/gdi2290/core-js-webpack-plugin",
+                "github": "gdi2290/core-js-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Bundle Analyzer",
+                "href": "https://github.com/th0r/webpack-bundle-analyzer",
+                "github": "th0r/webpack-bundle-analyzer",
+                "type": "github"
+            },
+            {
+                "title": "Module Mapping",
+                "href": "https://github.com/spartez/module-mapping-webpack-plugin",
+                "github": "spartez/module-mapping-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Serverless Webpack",
+                "href": "https://github.com/elastic-coders/serverless-webpack",
+                "github": "elastic-coders/serverless-webpack",
+                "type": "github"
+            },
+            {
+                "title": "Prerender SPA",
+                "href": "https://github.com/chrisvfritz/prerender-spa-plugin",
+                "github": "chrisvfritz/prerender-spa-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Static Site Generator Webpack Plugin",
+                "href": "https://github.com/markdalgleish/static-site-generator-webpack-plugin",
+                "github": "markdalgleish/static-site-generator-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "SVG Sprite Webpack Plugin",
+                "href": "https://github.com/TodayTix/svg-sprite-webpack-plugin",
+                "github": "TodayTix/svg-sprite-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Imagemin Webpack Plugin",
+                "href": "https://github.com/Klathmon/imagemin-webpack-plugin",
+                "github": "Klathmon/imagemin-webpack-plugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Webpack Tools",
+        "childrens": [
+            {
+                "title": "Webpack Dev Middleware",
+                "href": "https://github.com/webpack/webpack-dev-middleware",
+                "github": "webpack/webpack-dev-middleware",
+                "type": "github"
+            },
+            {
+                "title": "Webpack Dev Server",
+                "href": "https://github.com/webpack/webpack-dev-server",
+                "github": "webpack/webpack-dev-server",
+                "type": "github"
+            },
+            {
+                "title": "Webpack Merge",
+                "href": "https://github.com/survivejs/webpack-merge",
+                "github": "survivejs/webpack-merge",
+                "type": "github"
+            },
+            {
+                "title": "NPM Install Webpack",
+                "href": "https://github.com/ericclemmons/npm-install-webpack-plugin",
+                "github": "ericclemmons/npm-install-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Webpack Validator",
+                "href": "https://github.com/js-dxtools/webpack-validator",
+                "github": "js-dxtools/webpack-validator",
+                "type": "github"
+            },
+            {
+                "title": "Webpack Config Utils",
+                "href": "https://github.com/kentcdodds/webpack-config-utils",
+                "github": "kentcdodds/webpack-config-utils",
+                "type": "github"
+            },
+            {
+                "title": "Angular2 Webpack Toolkit",
+                "href": "https://github.com/AngularClass/webpack-toolkit",
+                "github": "AngularClass/webpack-toolkit",
+                "type": "github"
+            },
+            {
+                "title": "Webpack Bundle Analyzer",
+                "href": "https://github.com/th0r/webpack-bundle-analyzer",
+                "github": "th0r/webpack-bundle-analyzer",
+                "type": "github"
+            },
+            {
+                "title": "HJS Webpack",
+                "href": "https://github.com/HenrikJoreteg/hjs-webpack",
+                "github": "HenrikJoreteg/hjs-webpack",
+                "type": "github"
+            },
+            {
+                "title": "Webpack Dashboard",
+                "href": "https://github.com/FormidableLabs/webpack-dashboard",
+                "github": "FormidableLabs/webpack-dashboard",
+                "type": "github"
+            },
+            {
+                "title": "Neutrino",
+                "href": "https://github.com/mozilla-neutrino/neutrino-dev",
+                "github": "mozilla-neutrino/neutrino-dev",
+                "type": "github"
+            },
+            {
+                "title": "Webpack Chain",
+                "href": "https://github.com/mozilla-neutrino/webpack-chain",
+                "github": "mozilla-neutrino/webpack-chain",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Webpack Examples",
+        "childrens": [
+            {
+                "title": "Webpack Examples",
+                "href": "https://github.com/webpack/webpack/tree/master/examples",
+                "github": "webpack/webpack/tree/master/examples",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Angular",
+        "childrens": [
+            {
+                "title": "Angular2 Webpack Starter",
+                "href": "https://github.com/AngularClass/angular2-webpack-starter",
+                "github": "AngularClass/angular2-webpack-starter",
+                "type": "github"
+            },
+            {
+                "title": "Angular2 Webpack",
+                "href": "https://github.com/preboot/angular2-webpack",
+                "github": "preboot/angular2-webpack",
+                "type": "github"
+            },
+            {
+                "title": "Angular2 Webpack Visual Studio",
+                "href": "https://github.com/damienbod/Angular2WebpackVisualStudio",
+                "github": "damienbod/Angular2WebpackVisualStudio",
+                "type": "github"
+            },
+            {
+                "title": "Angular2 Starter",
+                "href": "https://github.com/schempy/angular2-typescript-webpack",
+                "github": "schempy/angular2-typescript-webpack",
+                "type": "github"
+            },
+            {
+                "title": "Angular2 SPA",
+                "href": "https://github.com/aspnet/JavaScriptServices/tree/dev/templates/Angular2Spa",
+                "github": "aspnet/JavaScriptServices/tree/dev/templates/Angular2Spa",
+                "type": "github"
+            },
+            {
+                "title": "Angular2 Seed",
+                "href": "https://github.com/angular/angular2-seed/",
+                "github": "angular/angular2-seed/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Framework Agnostic",
+        "childrens": [
+            {
+                "title": "ES6 TodoMVC with Webpack",
+                "href": "https://github.com/kentcdodds/es6-todomvc",
+                "github": "kentcdodds/es6-todomvc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React",
+        "childrens": [
+            {
+                "title": "Create React App",
+                "href": "https://github.com/facebookincubator/create-react-app",
+                "github": "facebookincubator/create-react-app",
+                "type": "github"
+            },
+            {
+                "title": "React Starter Kit",
+                "href": "https://github.com/kriasoft/react-starter-kit",
+                "github": "kriasoft/react-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "React Redux Universal",
+                "href": "https://github.com/erikras/react-redux-universal-hot-example",
+                "github": "erikras/react-redux-universal-hot-example",
+                "type": "github"
+            },
+            {
+                "title": "Frontend Boilerplate",
+                "href": "https://github.com/tj/frontend-boilerplate",
+                "github": "tj/frontend-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "ReactGo",
+                "href": "https://github.com/reactGo/reactGo",
+                "github": "reactGo/reactGo",
+                "type": "github"
+            },
+            {
+                "title": "React Native Calculator",
+                "href": "https://github.com/benoitvallon/react-native-nw-react-calculator",
+                "github": "benoitvallon/react-native-nw-react-calculator",
+                "type": "github"
+            },
+            {
+                "title": "React Cordova Boilerplate",
+                "href": "https://github.com/unimonkiez/react-cordova-boilerplate",
+                "github": "unimonkiez/react-cordova-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "React Universally",
+                "href": "https://github.com/ctrlplusb/react-universally",
+                "github": "ctrlplusb/react-universally",
+                "type": "github"
+            }
+        ]
+    }
+]

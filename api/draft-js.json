@@ -1,0 +1,267 @@
+[
+    {
+        "heading": "Awesome Draft.js ",
+        "childrens": [
+            {
+                "title": "Community",
+                "href": "https://github.com/nikgraf/awesome-draft-js#community",
+                "github": "nikgraf/awesome-draft-js#community",
+                "type": "github"
+            },
+            {
+                "title": "Presentations",
+                "href": "https://github.com/nikgraf/awesome-draft-js#presentations",
+                "github": "nikgraf/awesome-draft-js#presentations",
+                "type": "github"
+            },
+            {
+                "title": "Projects on Top of Draft.js",
+                "href": "https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs",
+                "github": "nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs",
+                "type": "github"
+            },
+            {
+                "title": "Common Utilities",
+                "href": "https://github.com/nikgraf/awesome-draft-js#common-utilities",
+                "github": "nikgraf/awesome-draft-js#common-utilities",
+                "type": "github"
+            },
+            {
+                "title": "Blog Posts & Articles",
+                "href": "https://github.com/nikgraf/awesome-draft-js#blog-posts--articles",
+                "github": "nikgraf/awesome-draft-js#blog-posts--articles",
+                "type": "github"
+            },
+            {
+                "title": "Live Demos",
+                "href": "https://github.com/nikgraf/awesome-draft-js#live-demos",
+                "github": "nikgraf/awesome-draft-js#live-demos",
+                "type": "github"
+            },
+            {
+                "title": "Usage in Production",
+                "href": "https://github.com/nikgraf/awesome-draft-js#usage-in-production",
+                "github": "nikgraf/awesome-draft-js#usage-in-production",
+                "type": "github"
+            },
+            {
+                "title": "License",
+                "href": "https://github.com/nikgraf/awesome-draft-js#license",
+                "github": "nikgraf/awesome-draft-js#license",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Standalone Editors Built on Draft.js",
+        "childrens": [
+            {
+                "title": "Draft WYSIWYG",
+                "href": "https://github.com/bkniffler/draft-wysiwyg",
+                "github": "bkniffler/draft-wysiwyg",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js Editor",
+                "href": "https://github.com/AlastairTaft/draft-js-editor/",
+                "github": "AlastairTaft/draft-js-editor/",
+                "type": "github"
+            },
+            {
+                "title": "React-RTE",
+                "href": "https://github.com/sstur/react-rte/",
+                "github": "sstur/react-rte/",
+                "type": "github"
+            },
+            {
+                "title": "Facebook Notes Clone(ish)",
+                "href": "https://github.com/andrewcoelho/react-text-editor",
+                "github": "andrewcoelho/react-text-editor",
+                "type": "github"
+            },
+            {
+                "title": "Megadraft",
+                "href": "https://github.com/globocom/megadraft",
+                "github": "globocom/megadraft",
+                "type": "github"
+            },
+            {
+                "title": "Medium Draft",
+                "href": "https://github.com/brijeshb42/medium-draft",
+                "github": "brijeshb42/medium-draft",
+                "type": "github"
+            },
+            {
+                "title": "React-Draft-Wyiswyg",
+                "href": "https://github.com/jpuri/react-draft-wysiwyg.git",
+                "github": "jpuri/react-draft-wysiwyg.git",
+                "type": "github"
+            },
+            {
+                "title": "Dante 2",
+                "href": "https://github.com/michelson/dante2",
+                "github": "michelson/dante2",
+                "type": "github"
+            },
+            {
+                "title": "Last Draft",
+                "href": "https://github.com/vacenz/last-draft",
+                "github": "vacenz/last-draft",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Plugins and Decorators Built for Draft.js",
+        "childrens": [
+            {
+                "title": "Draft.js Plugins",
+                "href": "https://github.com/draft-js-plugins/draft-js-plugins",
+                "github": "draft-js-plugins/draft-js-plugins",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js Gutter",
+                "href": "https://github.com/yepnamesjames/draft-js-gutter",
+                "github": "yepnamesjames/draft-js-gutter",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js Basic HTML Editor",
+                "href": "https://github.com/dburrows/draft-js-basic-html-editor",
+                "github": "dburrows/draft-js-basic-html-editor",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js Prism",
+                "href": "https://github.com/SamyPesse/draftjs-prism",
+                "github": "SamyPesse/draftjs-prism",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js Typeahead",
+                "href": "https://github.com/dooly-ai/draft-js-typeahead",
+                "github": "dooly-ai/draft-js-typeahead",
+                "type": "github"
+            },
+            {
+                "title": "Draft Extend",
+                "href": "https://github.com/HubSpot/draft-extend",
+                "github": "HubSpot/draft-extend",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Common Utilities",
+        "childrens": [
+            {
+                "title": "BackDraft.js",
+                "href": "https://github.com/evanc/backdraft-js",
+                "github": "evanc/backdraft-js",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js Exporter",
+                "href": "https://github.com/rkpasia/draft-js-exporter",
+                "github": "rkpasia/draft-js-exporter",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js: Export ContentState to HTML",
+                "href": "https://github.com/sstur/draft-js-export-html",
+                "github": "sstur/draft-js-export-html",
+                "type": "github"
+            },
+            {
+                "title": "Redraft",
+                "href": "https://github.com/lokiuz/redraft",
+                "github": "lokiuz/redraft",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js exporter (Ruby)",
+                "href": "https://github.com/ignitionworks/draftjs_exporter",
+                "github": "ignitionworks/draftjs_exporter",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js exporter (Python)",
+                "href": "https://github.com/springload/draftjs_exporter",
+                "github": "springload/draftjs_exporter",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js AST Exporter",
+                "href": "https://github.com/icelab/draft-js-ast-exporter",
+                "github": "icelab/draft-js-ast-exporter",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js AST Importer",
+                "href": "https://github.com/icelab/draft-js-ast-importer",
+                "github": "icelab/draft-js-ast-importer",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js Multidecorators",
+                "href": "https://github.com/SamyPesse/draftjs-multidecorators",
+                "github": "SamyPesse/draftjs-multidecorators",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js SimpleDecorator",
+                "href": "https://github.com/Soreine/draft-js-simpledecorator",
+                "github": "Soreine/draft-js-simpledecorator",
+                "type": "github"
+            },
+            {
+                "title": "DraftJS Utils",
+                "href": "https://github.com/jpuri/draftjs-utils.git",
+                "github": "jpuri/draftjs-utils.git",
+                "type": "github"
+            },
+            {
+                "title": "DraftJs to HTML",
+                "href": "https://github.com/jpuri/draftjs-to-html.git",
+                "github": "jpuri/draftjs-to-html.git",
+                "type": "github"
+            },
+            {
+                "title": "Draft Convert",
+                "href": "https://github.com/HubSpot/draft-convert",
+                "github": "HubSpot/draft-convert",
+                "type": "github"
+            },
+            {
+                "title": "HTML to DraftJS",
+                "href": "https://github.com/jpuri/html-to-draftjs",
+                "github": "jpuri/html-to-draftjs",
+                "type": "github"
+            },
+            {
+                "title": "Draft.js Exporter (Go)",
+                "href": "https://github.com/ejilay/draftjs",
+                "github": "ejilay/draftjs",
+                "type": "github"
+            },
+            {
+                "title": "React Native Draft.js Render",
+                "href": "https://github.com/globocom/react-native-draftjs-render",
+                "github": "globocom/react-native-draftjs-render",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Live Demos",
+        "childrens": [
+            {
+                "title": "Draft-js Samples - An app with examples and code explanations",
+                "href": "https://github.com/Mair/react-meetup-draftjs",
+                "github": "Mair/react-meetup-draftjs",
+                "type": "github"
+            }
+        ]
+    }
+]

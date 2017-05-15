@@ -1,0 +1,723 @@
+[
+    {
+        "heading": "Standalone",
+        "childrens": [
+            {
+                "title": "blackbox",
+                "href": "https://github.com/StackExchange/blackbox",
+                "github": "StackExchange/blackbox",
+                "type": "github"
+            },
+            {
+                "title": "certbot",
+                "href": "https://github.com/certbot/certbot",
+                "github": "certbot/certbot",
+                "type": "github"
+            },
+            {
+                "title": "cryptomator",
+                "href": "https://github.com/cryptomator/cryptomator",
+                "github": "cryptomator/cryptomator",
+                "type": "github"
+            },
+            {
+                "title": "Nipe",
+                "href": "https://github.com/GouveaHeitor/nipe",
+                "github": "GouveaHeitor/nipe",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Git",
+        "childrens": [
+            {
+                "title": "git-crypt",
+                "href": "https://github.com/AGWA/git-crypt",
+                "github": "AGWA/git-crypt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C",
+        "childrens": [
+            {
+                "title": "crypto-algorithms",
+                "href": "https://github.com/B-Con/crypto-algorithms",
+                "github": "B-Con/crypto-algorithms",
+                "type": "github"
+            },
+            {
+                "title": "libsodium",
+                "href": "https://github.com/jedisct1/libsodium",
+                "github": "jedisct1/libsodium",
+                "type": "github"
+            },
+            {
+                "title": "libtomcrypt",
+                "href": "https://github.com/libtom/libtomcrypt",
+                "github": "libtom/libtomcrypt",
+                "type": "github"
+            },
+            {
+                "title": "OpenSSL",
+                "href": "https://github.com/openssl/openssl",
+                "github": "openssl/openssl",
+                "type": "github"
+            },
+            {
+                "title": "RHash",
+                "href": "https://github.com/rhash/RHash",
+                "github": "rhash/RHash",
+                "type": "github"
+            },
+            {
+                "title": "tiny-AES128-C",
+                "href": "https://github.com/kokke/tiny-AES128-C",
+                "github": "kokke/tiny-AES128-C",
+                "type": "github"
+            },
+            {
+                "title": "wolfSSL",
+                "href": "https://github.com/wolfSSL/wolfssl",
+                "github": "wolfSSL/wolfssl",
+                "type": "github"
+            },
+            {
+                "title": "xxHash",
+                "href": "https://github.com/Cyan4973/xxHash",
+                "github": "Cyan4973/xxHash",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++",
+        "childrens": [
+            {
+                "title": "cryptopp",
+                "href": "https://github.com/weidai11/cryptopp",
+                "github": "weidai11/cryptopp",
+                "type": "github"
+            },
+            {
+                "title": "HElib",
+                "href": "https://github.com/shaih/HElib",
+                "github": "shaih/HElib",
+                "type": "github"
+            },
+            {
+                "title": "s2n",
+                "href": "https://github.com/awslabs/s2n",
+                "github": "awslabs/s2n",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C-sharp",
+        "childrens": [
+            {
+                "title": "libsodium-net",
+                "href": "https://github.com/adamcaudill/libsodium-net",
+                "github": "adamcaudill/libsodium-net",
+                "type": "github"
+            },
+            {
+                "title": "PCLCrypto",
+                "href": "https://github.com/AArnott/PCLCrypto",
+                "github": "AArnott/PCLCrypto",
+                "type": "github"
+            },
+            {
+                "title": "SecurityDriven.Inferno",
+                "href": "https://github.com/sdrapkin/SecurityDriven.Inferno",
+                "github": "sdrapkin/SecurityDriven.Inferno",
+                "type": "github"
+            },
+            {
+                "title": "StreamCryptor",
+                "href": "https://github.com/bitbeans/StreamCryptor",
+                "github": "bitbeans/StreamCryptor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Clojure",
+        "childrens": [
+            {
+                "title": "pandect",
+                "href": "https://github.com/xsc/pandect",
+                "github": "xsc/pandect",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Common Lisp",
+        "childrens": [
+            {
+                "title": "crypto-shortcuts",
+                "href": "https://github.com/Shinmera/crypto-shortcuts",
+                "github": "Shinmera/crypto-shortcuts",
+                "type": "github"
+            },
+            {
+                "title": "trivial-ssh",
+                "href": "https://github.com/eudoxia0/trivial-ssh",
+                "github": "eudoxia0/trivial-ssh",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Delphi",
+        "childrens": [
+            {
+                "title": "DelphiEncryptionCompendium",
+                "href": "https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases",
+                "github": "winkelsdorf/DelphiEncryptionCompendium/releases",
+                "type": "github"
+            },
+            {
+                "title": "SynCrypto",
+                "href": "https://github.com/synopse/mORMot/blob/master/SynCrypto.pas",
+                "github": "synopse/mORMot/blob/master/SynCrypto.pas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elixir",
+        "childrens": [
+            {
+                "title": "cipher",
+                "href": "https://github.com/rubencaro/cipher",
+                "github": "rubencaro/cipher",
+                "type": "github"
+            },
+            {
+                "title": "cloak",
+                "href": "https://github.com/danielberkompas/cloak",
+                "github": "danielberkompas/cloak",
+                "type": "github"
+            },
+            {
+                "title": "comeonin",
+                "href": "https://github.com/elixircnx/comeonin",
+                "github": "elixircnx/comeonin",
+                "type": "github"
+            },
+            {
+                "title": "elixir-rsa",
+                "href": "https://github.com/trapped/elixir-rsa",
+                "github": "trapped/elixir-rsa",
+                "type": "github"
+            },
+            {
+                "title": "elixir_tea",
+                "href": "https://github.com/keichan34/elixir_tea",
+                "github": "keichan34/elixir_tea",
+                "type": "github"
+            },
+            {
+                "title": "ex_crypto",
+                "href": "https://github.com/ntrepid8/ex_crypto",
+                "github": "ntrepid8/ex_crypto",
+                "type": "github"
+            },
+            {
+                "title": "exgpg",
+                "href": "https://github.com/rozap/exgpg",
+                "github": "rozap/exgpg",
+                "type": "github"
+            },
+            {
+                "title": "pot",
+                "href": "https://github.com/yuce/pot",
+                "github": "yuce/pot",
+                "type": "github"
+            },
+            {
+                "title": "siphash-elixir",
+                "href": "https://github.com/zackehh/siphash-elixir",
+                "github": "zackehh/siphash-elixir",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "cryptoballot",
+                "href": "https://github.com/cryptoballot/cryptoballot",
+                "github": "cryptoballot/cryptoballot",
+                "type": "github"
+            },
+            {
+                "title": "dedis/crypto",
+                "href": "https://github.com/dedis/crypto",
+                "github": "dedis/crypto",
+                "type": "github"
+            },
+            {
+                "title": "dkeyczar",
+                "href": "https://github.com/dgryski/dkeyczar",
+                "github": "dgryski/dkeyczar",
+                "type": "github"
+            },
+            {
+                "title": "gocrypto",
+                "href": "https://github.com/kisom/gocrypto",
+                "github": "kisom/gocrypto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haskell",
+        "childrens": [
+            {
+                "title": "cryptol",
+                "href": "https://github.com/GaloisInc/cryptol",
+                "github": "GaloisInc/cryptol",
+                "type": "github"
+            },
+            {
+                "title": "HsOpenSSL",
+                "href": "https://github.com/phonohawk/HsOpenSSL",
+                "github": "phonohawk/HsOpenSSL",
+                "type": "github"
+            },
+            {
+                "title": "scrypt",
+                "href": "https://github.com/informatikr/scrypt",
+                "github": "informatikr/scrypt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "asmCrypto",
+                "href": "https://github.com/vibornoff/asmcrypto.js/",
+                "github": "vibornoff/asmcrypto.js/",
+                "type": "github"
+            },
+            {
+                "title": "bcrypt-nodejs",
+                "href": "https://github.com/shaneGirish/bcrypt-nodejs",
+                "github": "shaneGirish/bcrypt-nodejs",
+                "type": "github"
+            },
+            {
+                "title": "cifre",
+                "href": "https://github.com/openpeer/cifre",
+                "github": "openpeer/cifre",
+                "type": "github"
+            },
+            {
+                "title": "closure-library",
+                "href": "https://github.com/google/closure-library/tree/master/closure/goog/crypt",
+                "github": "google/closure-library/tree/master/closure/goog/crypt",
+                "type": "github"
+            },
+            {
+                "title": "cryptico",
+                "href": "https://github.com/wwwtyro/cryptico",
+                "github": "wwwtyro/cryptico",
+                "type": "github"
+            },
+            {
+                "title": "crypto-js",
+                "href": "https://github.com/brix/crypto-js",
+                "github": "brix/crypto-js",
+                "type": "github"
+            },
+            {
+                "title": "cryptojs",
+                "href": "https://github.com/gwjjeff/cryptojs",
+                "github": "gwjjeff/cryptojs",
+                "type": "github"
+            },
+            {
+                "title": "forge",
+                "href": "https://github.com/digitalbazaar/forge",
+                "github": "digitalbazaar/forge",
+                "type": "github"
+            },
+            {
+                "title": "javascript-crypto-library",
+                "href": "https://github.com/clipperz/javascript-crypto-library",
+                "github": "clipperz/javascript-crypto-library",
+                "type": "github"
+            },
+            {
+                "title": "js-nacl",
+                "href": "https://github.com/tonyg/js-nacl",
+                "github": "tonyg/js-nacl",
+                "type": "github"
+            },
+            {
+                "title": "jsencrypt",
+                "href": "https://github.com/travist/jsencrypt",
+                "github": "travist/jsencrypt",
+                "type": "github"
+            },
+            {
+                "title": "JShashes",
+                "href": "https://github.com/h2non/jshashes",
+                "github": "h2non/jshashes",
+                "type": "github"
+            },
+            {
+                "title": "jsrsasign",
+                "href": "https://github.com/kjur/jsrsasign",
+                "github": "kjur/jsrsasign",
+                "type": "github"
+            },
+            {
+                "title": "libsodium.js",
+                "href": "https://github.com/jedisct1/libsodium.js",
+                "github": "jedisct1/libsodium.js",
+                "type": "github"
+            },
+            {
+                "title": "node.bcrypt.js",
+                "href": "https://github.com/ncb000gt/node.bcrypt.js",
+                "github": "ncb000gt/node.bcrypt.js",
+                "type": "github"
+            },
+            {
+                "title": "OpenPGP.js",
+                "href": "https://github.com/openpgpjs/openpgpjs",
+                "github": "openpgpjs/openpgpjs",
+                "type": "github"
+            },
+            {
+                "title": "PolyCrypt",
+                "href": "https://github.com/polycrypt/polycrypt",
+                "github": "polycrypt/polycrypt",
+                "type": "github"
+            },
+            {
+                "title": "rusha",
+                "href": "https://github.com/srijs/rusha",
+                "github": "srijs/rusha",
+                "type": "github"
+            },
+            {
+                "title": "sjcl",
+                "href": "https://github.com/bitwiseshiftleft/sjcl",
+                "github": "bitwiseshiftleft/sjcl",
+                "type": "github"
+            },
+            {
+                "title": "URSA",
+                "href": "https://github.com/quartzjer/ursa",
+                "github": "quartzjer/ursa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "Google Keyczar",
+                "href": "https://github.com/google/keyczar",
+                "github": "google/keyczar",
+                "type": "github"
+            },
+            {
+                "title": "keywhiz",
+                "href": "https://github.com/square/keywhiz",
+                "github": "square/keywhiz",
+                "type": "github"
+            },
+            {
+                "title": "pac4j",
+                "href": "https://github.com/pac4j/pac4j",
+                "github": "pac4j/pac4j",
+                "type": "github"
+            },
+            {
+                "title": "scrypt",
+                "href": "https://github.com/wg/scrypt",
+                "github": "wg/scrypt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Julia",
+        "childrens": [
+            {
+                "title": "Crypto.jl",
+                "href": "https://github.com/danielsuo/Crypto.jl",
+                "github": "danielsuo/Crypto.jl",
+                "type": "github"
+            },
+            {
+                "title": "MbedTLS.jl",
+                "href": "https://github.com/JuliaWeb/MbedTLS.jl",
+                "github": "JuliaWeb/MbedTLS.jl",
+                "type": "github"
+            },
+            {
+                "title": "Nettle.jl",
+                "href": "https://github.com/staticfloat/Nettle.jl",
+                "github": "staticfloat/Nettle.jl",
+                "type": "github"
+            },
+            {
+                "title": "SHA.jl",
+                "href": "https://github.com/staticfloat/SHA.jl",
+                "github": "staticfloat/SHA.jl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lua",
+        "childrens": [
+            {
+                "title": "lua-lockbox",
+                "href": "https://github.com/somesocks/lua-lockbox",
+                "github": "somesocks/lua-lockbox",
+                "type": "github"
+            },
+            {
+                "title": "LuaCrypto",
+                "href": "https://github.com/mkottman/luacrypto",
+                "github": "mkottman/luacrypto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Objective-C",
+        "childrens": [
+            {
+                "title": "CocoaSecurity",
+                "href": "https://github.com/kelp404/CocoaSecurity",
+                "github": "kelp404/CocoaSecurity",
+                "type": "github"
+            },
+            {
+                "title": "RNCryptor",
+                "href": "https://github.com/RNCryptor/RNCryptor",
+                "github": "RNCryptor/RNCryptor",
+                "type": "github"
+            },
+            {
+                "title": "Themis",
+                "href": "https://github.com/cossacklabs/themis",
+                "github": "cossacklabs/themis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "libsodium-laravel",
+                "href": "https://github.com/scrothers/libsodium-laravel",
+                "github": "scrothers/libsodium-laravel",
+                "type": "github"
+            },
+            {
+                "title": "PHP Encryption",
+                "href": "https://github.com/defuse/php-encryption",
+                "github": "defuse/php-encryption",
+                "type": "github"
+            },
+            {
+                "title": "TCrypto",
+                "href": "https://github.com/timoh6/TCrypto",
+                "github": "timoh6/TCrypto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "bcrypt",
+                "href": "https://github.com/pyca/bcrypt",
+                "github": "pyca/bcrypt",
+                "type": "github"
+            },
+            {
+                "title": "charm",
+                "href": "https://github.com/JHUISI/charm",
+                "github": "JHUISI/charm",
+                "type": "github"
+            },
+            {
+                "title": "hashids",
+                "href": "https://github.com/davidaurelio/hashids-python",
+                "github": "davidaurelio/hashids-python",
+                "type": "github"
+            },
+            {
+                "title": "pycryptodome",
+                "href": "https://github.com/Legrandin/pycryptodome",
+                "github": "Legrandin/pycryptodome",
+                "type": "github"
+            },
+            {
+                "title": "PyElliptic",
+                "href": "https://github.com/yann2192/pyelliptic",
+                "github": "yann2192/pyelliptic",
+                "type": "github"
+            },
+            {
+                "title": "pynacl",
+                "href": "https://github.com/pyca/pynacl",
+                "github": "pyca/pynacl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "R",
+        "childrens": [
+            {
+                "title": "rscrypt",
+                "href": "https://github.com/rstudio/rscrypt",
+                "github": "rstudio/rscrypt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "bcrypt-ruby",
+                "href": "https://github.com/codahale/bcrypt-ruby",
+                "github": "codahale/bcrypt-ruby",
+                "type": "github"
+            },
+            {
+                "title": "RbNaCl",
+                "href": "https://github.com/cryptosphere/rbnacl",
+                "github": "cryptosphere/rbnacl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rust",
+        "childrens": [
+            {
+                "title": "octavo",
+                "href": "https://github.com/libOctavo/octavo",
+                "github": "libOctavo/octavo",
+                "type": "github"
+            },
+            {
+                "title": "ring",
+                "href": "https://github.com/briansmith/ring",
+                "github": "briansmith/ring",
+                "type": "github"
+            },
+            {
+                "title": "rust-crypto",
+                "href": "https://github.com/DaGenix/rust-crypto",
+                "github": "DaGenix/rust-crypto",
+                "type": "github"
+            },
+            {
+                "title": "rust-openssl",
+                "href": "https://github.com/sfackler/rust-openssl",
+                "github": "sfackler/rust-openssl",
+                "type": "github"
+            },
+            {
+                "title": "rustls",
+                "href": "https://github.com/ctz/rustls",
+                "github": "ctz/rustls",
+                "type": "github"
+            },
+            {
+                "title": "sodiumoxide",
+                "href": "https://github.com/dnaq/sodiumoxide",
+                "github": "dnaq/sodiumoxide",
+                "type": "github"
+            },
+            {
+                "title": "suruga",
+                "href": "https://github.com/klutzy/suruga",
+                "github": "klutzy/suruga",
+                "type": "github"
+            },
+            {
+                "title": "webpki",
+                "href": "https://github.com/briansmith/webpki",
+                "github": "briansmith/webpki",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala",
+        "childrens": [
+            {
+                "title": "scrypto",
+                "href": "https://github.com/input-output-hk/scrypto",
+                "github": "input-output-hk/scrypto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Swift",
+        "childrens": [
+            {
+                "title": "CryptoSwift",
+                "href": "https://github.com/krzyzanowskim/CryptoSwift",
+                "github": "krzyzanowskim/CryptoSwift",
+                "type": "github"
+            },
+            {
+                "title": "IDZSwiftCommonCrypto",
+                "href": "https://github.com/iosdevzone/IDZSwiftCommonCrypto",
+                "github": "iosdevzone/IDZSwiftCommonCrypto",
+                "type": "github"
+            },
+            {
+                "title": "OpenSSL",
+                "href": "https://github.com/Zewo/OpenSSL",
+                "github": "Zewo/OpenSSL",
+                "type": "github"
+            },
+            {
+                "title": "SweetHMAC",
+                "href": "https://github.com/jancassio/SweetHMAC",
+                "github": "jancassio/SweetHMAC",
+                "type": "github"
+            },
+            {
+                "title": "Swift-Sodium",
+                "href": "https://github.com/jedisct1/swift-sodium",
+                "github": "jedisct1/swift-sodium",
+                "type": "github"
+            },
+            {
+                "title": "SwiftSSL",
+                "href": "https://github.com/SwiftP2P/SwiftSSL",
+                "github": "SwiftP2P/SwiftSSL",
+                "type": "github"
+            }
+        ]
+    }
+]

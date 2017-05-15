@@ -1,0 +1,845 @@
+[
+    {
+        "heading": "Web Framework",
+        "childrens": [
+            {
+                "title": "Web Non-Framework",
+                "href": "https://github.com/webnf/webnf",
+                "github": "webnf/webnf",
+                "type": "github"
+            },
+            {
+                "title": "Joodo",
+                "href": "https://github.com/slagyr/joodoweb",
+                "github": "slagyr/joodoweb",
+                "type": "github"
+            },
+            {
+                "title": "Coils",
+                "href": "https://github.com/zubairq/AppShare",
+                "github": "zubairq/AppShare",
+                "type": "github"
+            },
+            {
+                "title": "Duct",
+                "href": "https://github.com/weavejester/duct",
+                "github": "weavejester/duct",
+                "type": "github"
+            },
+            {
+                "title": "Pedestal",
+                "href": "https://github.com/pedestal/pedestal",
+                "github": "pedestal/pedestal",
+                "type": "github"
+            },
+            {
+                "title": "Catalysis",
+                "href": "https://github.com/metasoarous/catalysis",
+                "github": "metasoarous/catalysis",
+                "type": "github"
+            },
+            {
+                "title": "yada",
+                "href": "https://github.com/juxt/yada",
+                "github": "juxt/yada",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dependency injection",
+        "childrens": [
+            {
+                "title": "Component",
+                "href": "https://github.com/stuartsierra/component",
+                "github": "stuartsierra/component",
+                "type": "github"
+            },
+            {
+                "title": "System",
+                "href": "https://github.com/danielsz/system",
+                "github": "danielsz/system",
+                "type": "github"
+            },
+            {
+                "title": "mount",
+                "href": "https://github.com/tolitius/mount",
+                "github": "tolitius/mount",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build Automation and Package management",
+        "childrens": [
+            {
+                "title": "Leiningen",
+                "href": "https://github.com/technomancy/leiningen",
+                "github": "technomancy/leiningen",
+                "type": "github"
+            },
+            {
+                "title": "Boot",
+                "href": "https://github.com/boot-clj/boot",
+                "github": "boot-clj/boot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Date and Time",
+        "childrens": [
+            {
+                "title": "clj-time",
+                "href": "https://github.com/clj-time/clj-time",
+                "github": "clj-time/clj-time",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "fx-clj",
+                "href": "https://github.com/aaronc/fx-clj",
+                "github": "aaronc/fx-clj",
+                "type": "github"
+            },
+            {
+                "title": "seesaw",
+                "href": "https://github.com/daveray/seesaw",
+                "github": "daveray/seesaw",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio",
+        "childrens": [
+            {
+                "title": "Alda",
+                "href": "https://github.com/alda-lang/alda",
+                "github": "alda-lang/alda",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP",
+        "childrens": [
+            {
+                "title": "clj-http",
+                "href": "https://github.com/dakrone/clj-http",
+                "github": "dakrone/clj-http",
+                "type": "github"
+            },
+            {
+                "title": "ring",
+                "href": "https://github.com/ring-clojure/ring",
+                "github": "ring-clojure/ring",
+                "type": "github"
+            },
+            {
+                "title": "kvlt",
+                "href": "https://github.com/nervous-systems/kvlt",
+                "github": "nervous-systems/kvlt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "clojure.jdbc",
+                "href": "https://github.com/funcool/clojure.jdbc",
+                "github": "funcool/clojure.jdbc",
+                "type": "github"
+            },
+            {
+                "title": "cravendb",
+                "href": "https://github.com/robashton/cravendb",
+                "github": "robashton/cravendb",
+                "type": "github"
+            },
+            {
+                "title": "RethinkDB",
+                "href": "https://github.com/apa512/clj-rethinkdb",
+                "github": "apa512/clj-rethinkdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Connection pools",
+        "childrens": [
+            {
+                "title": "hikari-cp",
+                "href": "https://github.com/tomekw/hikari-cp",
+                "github": "tomekw/hikari-cp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Structural Migrations",
+        "childrens": [
+            {
+                "title": "Lobos",
+                "href": "https://github.com/budu/lobos",
+                "github": "budu/lobos",
+                "type": "github"
+            },
+            {
+                "title": "Ragtime",
+                "href": "https://github.com/weavejester/ragtime",
+                "github": "weavejester/ragtime",
+                "type": "github"
+            },
+            {
+                "title": "Joplin",
+                "href": "https://github.com/juxt/joplin",
+                "github": "juxt/joplin",
+                "type": "github"
+            },
+            {
+                "title": "Migratus",
+                "href": "https://github.com/yogthos/migratus",
+                "github": "yogthos/migratus",
+                "type": "github"
+            },
+            {
+                "title": "Drift",
+                "href": "https://github.com/macourtney/drift",
+                "github": "macourtney/drift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Redis",
+        "childrens": [
+            {
+                "title": "carmine",
+                "href": "https://github.com/ptaoussanis/carmine",
+                "github": "ptaoussanis/carmine",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JSON",
+        "childrens": [
+            {
+                "title": "cheshire",
+                "href": "https://github.com/dakrone/cheshire",
+                "github": "dakrone/cheshire",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM and SQL generation",
+        "childrens": [
+            {
+                "title": "stch-library/sql",
+                "href": "https://github.com/stch-library/sql",
+                "github": "stch-library/sql",
+                "type": "github"
+            },
+            {
+                "title": "sqlingvo",
+                "href": "https://github.com/r0man/sqlingvo",
+                "github": "r0man/sqlingvo",
+                "type": "github"
+            },
+            {
+                "title": "honeysql",
+                "href": "https://github.com/jkk/honeysql",
+                "github": "jkk/honeysql",
+                "type": "github"
+            },
+            {
+                "title": "Toucan",
+                "href": "https://github.com/metabase/toucan",
+                "github": "metabase/toucan",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "Buddy",
+                "href": "https://github.com/funcool/buddy",
+                "github": "funcool/buddy",
+                "type": "github"
+            },
+            {
+                "title": "Friend",
+                "href": "https://github.com/cemerick/friend",
+                "github": "cemerick/friend",
+                "type": "github"
+            },
+            {
+                "title": "bolt",
+                "href": "https://github.com/juxt/bolt",
+                "github": "juxt/bolt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "RESTful API",
+        "childrens": [
+            {
+                "title": "compojure-api",
+                "href": "https://github.com/metosin/compojure-api",
+                "github": "metosin/compojure-api",
+                "type": "github"
+            },
+            {
+                "title": "Friboo",
+                "href": "https://github.com/zalando/friboo",
+                "github": "zalando/friboo",
+                "type": "github"
+            },
+            {
+                "title": "yada",
+                "href": "https://github.com/juxt/yada",
+                "github": "juxt/yada",
+                "type": "github"
+            },
+            {
+                "title": "router",
+                "href": "https://github.com/darkleaf/router",
+                "github": "darkleaf/router",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Emails",
+        "childrens": [
+            {
+                "title": "postal",
+                "href": "https://github.com/drewr/postal",
+                "github": "drewr/postal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML Manipulation",
+        "childrens": [
+            {
+                "title": "Enlive",
+                "href": "https://github.com/cgrand/enlive/wiki",
+                "github": "cgrand/enlive/wiki",
+                "type": "github"
+            },
+            {
+                "title": "hiccup",
+                "href": "https://github.com/weavejester/hiccup",
+                "github": "weavejester/hiccup",
+                "type": "github"
+            },
+            {
+                "title": "clostache",
+                "href": "https://github.com/fhd/clostache",
+                "github": "fhd/clostache",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Validation",
+        "childrens": [
+            {
+                "title": "Prismatic's schema",
+                "href": "https://github.com/plumatic/schema",
+                "github": "plumatic/schema",
+                "type": "github"
+            },
+            {
+                "title": "domaintypes",
+                "href": "https://github.com/friemen/domaintypes",
+                "github": "friemen/domaintypes",
+                "type": "github"
+            },
+            {
+                "title": "Bouncer",
+                "href": "https://github.com/leonardoborges/bouncer",
+                "github": "leonardoborges/bouncer",
+                "type": "github"
+            },
+            {
+                "title": "clova",
+                "href": "https://github.com/markwoodhall/clova",
+                "github": "markwoodhall/clova",
+                "type": "github"
+            },
+            {
+                "title": "Orchestra",
+                "href": "https://github.com/jeaye/orchestra",
+                "github": "jeaye/orchestra",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Type System",
+        "childrens": [
+            {
+                "title": "core.typed",
+                "href": "https://github.com/clojure/core.typed",
+                "github": "clojure/core.typed",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Pattern Matching",
+        "childrens": [
+            {
+                "title": "core.match",
+                "href": "https://github.com/clojure/core.match",
+                "github": "clojure/core.match",
+                "type": "github"
+            },
+            {
+                "title": "Verbal-Exprejon",
+                "href": "https://github.com/GuillaumeBadi/Verbal-Exprejon",
+                "github": "GuillaumeBadi/Verbal-Exprejon",
+                "type": "github"
+            },
+            {
+                "title": "defun",
+                "href": "https://github.com/killme2008/defun",
+                "github": "killme2008/defun",
+                "type": "github"
+            },
+            {
+                "title": "cats.match",
+                "href": "https://github.com/zalando/cats.match",
+                "github": "zalando/cats.match",
+                "type": "github"
+            },
+            {
+                "title": "Akar",
+                "href": "https://github.com/missingfaktor/akar",
+                "github": "missingfaktor/akar",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Async processing",
+        "childrens": [
+            {
+                "title": "core.async",
+                "href": "https://github.com/clojure/core.async/",
+                "github": "clojure/core.async/",
+                "type": "github"
+            },
+            {
+                "title": "pulsar",
+                "href": "https://github.com/puniverse/pulsar",
+                "github": "puniverse/pulsar",
+                "type": "github"
+            },
+            {
+                "title": "lamina",
+                "href": "https://github.com/ztellman/lamina",
+                "github": "ztellman/lamina",
+                "type": "github"
+            },
+            {
+                "title": "aleph",
+                "href": "https://github.com/ztellman/aleph",
+                "github": "ztellman/aleph",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Monads",
+        "childrens": [
+            {
+                "title": "cats",
+                "href": "https://github.com/funcool/cats",
+                "github": "funcool/cats",
+                "type": "github"
+            },
+            {
+                "title": "algo.monads",
+                "href": "https://github.com/clojure/algo.monads",
+                "github": "clojure/algo.monads",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "WebSocket",
+        "childrens": [
+            {
+                "title": "Sente",
+                "href": "https://github.com/ptaoussanis/sente",
+                "github": "ptaoussanis/sente",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Midje",
+                "href": "https://github.com/marick/Midje",
+                "github": "marick/Midje",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Webdriver automation",
+        "childrens": [
+            {
+                "title": "Etaoin",
+                "href": "https://github.com/igrishaev/etaoin",
+                "github": "igrishaev/etaoin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Analysis and Linter",
+        "childrens": [
+            {
+                "title": "Slamhound",
+                "href": "https://github.com/technomancy/slamhound",
+                "github": "technomancy/slamhound",
+                "type": "github"
+            },
+            {
+                "title": "eastwood",
+                "href": "https://github.com/jonase/eastwood",
+                "github": "jonase/eastwood",
+                "type": "github"
+            },
+            {
+                "title": "kibit",
+                "href": "https://github.com/jonase/kibit",
+                "github": "jonase/kibit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Science and Data Analysis",
+        "childrens": [
+            {
+                "title": "Incanter",
+                "href": "https://github.com/incanter/incanter",
+                "github": "incanter/incanter",
+                "type": "github"
+            },
+            {
+                "title": "Onyx",
+                "href": "https://github.com/onyx-platform/onyx",
+                "github": "onyx-platform/onyx",
+                "type": "github"
+            },
+            {
+                "title": "Neanderthal",
+                "href": "https://github.com/uncomplicate/neanderthal",
+                "github": "uncomplicate/neanderthal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "clj-ml",
+                "href": "https://github.com/antoniogarrote/clj-ml",
+                "github": "antoniogarrote/clj-ml",
+                "type": "github"
+            },
+            {
+                "title": "clj-bigml",
+                "href": "https://github.com/bigmlcom/clj-bigml",
+                "github": "bigmlcom/clj-bigml",
+                "type": "github"
+            },
+            {
+                "title": "Clatern",
+                "href": "https://github.com/rinuboney/clatern",
+                "github": "rinuboney/clatern",
+                "type": "github"
+            },
+            {
+                "title": "Deeplearning4j",
+                "href": "https://github.com/deeplearning4j/deeplearning4j",
+                "github": "deeplearning4j/deeplearning4j",
+                "type": "github"
+            },
+            {
+                "title": "Enclog",
+                "href": "https://github.com/jimpil/enclog",
+                "github": "jimpil/enclog",
+                "type": "github"
+            },
+            {
+                "title": "Infer",
+                "href": "https://github.com/aria42/infer",
+                "github": "aria42/infer",
+                "type": "github"
+            },
+            {
+                "title": "k9",
+                "href": "https://github.com/gigasquid/k9",
+                "github": "gigasquid/k9",
+                "type": "github"
+            },
+            {
+                "title": "lambda-ml",
+                "href": "https://github.com/cloudkj/lambda-ml",
+                "github": "cloudkj/lambda-ml",
+                "type": "github"
+            },
+            {
+                "title": "Statistiker",
+                "href": "https://github.com/clojurewerkz/statistiker",
+                "github": "clojurewerkz/statistiker",
+                "type": "github"
+            },
+            {
+                "title": "Synaptic",
+                "href": "https://github.com/japonophile/synaptic",
+                "github": "japonophile/synaptic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Computer Vision",
+        "childrens": [
+            {
+                "title": "clj-tesseract",
+                "href": "https://github.com/antoniogarrote/clj-tesseract",
+                "github": "antoniogarrote/clj-tesseract",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural Language Processing",
+        "childrens": [
+            {
+                "title": "clojure-opennlp",
+                "href": "https://github.com/dakrone/clojure-opennlp",
+                "github": "dakrone/clojure-opennlp",
+                "type": "github"
+            },
+            {
+                "title": "postagga",
+                "href": "https://github.com/turbopape/postagga",
+                "github": "turbopape/postagga",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Parsing",
+        "childrens": [
+            {
+                "title": "Instaparse",
+                "href": "https://github.com/Engelberg/instaparse",
+                "github": "Engelberg/instaparse",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editor Plugins",
+        "childrens": [
+            {
+                "title": "CIDER",
+                "href": "https://github.com/clojure-emacs/cider",
+                "github": "clojure-emacs/cider",
+                "type": "github"
+            },
+            {
+                "title": "vim-fireplace",
+                "href": "https://github.com/tpope/vim-fireplace",
+                "github": "tpope/vim-fireplace",
+                "type": "github"
+            },
+            {
+                "title": "vim-redl",
+                "href": "https://github.com/dgrnbrg/vim-redl",
+                "github": "dgrnbrg/vim-redl",
+                "type": "github"
+            },
+            {
+                "title": "vim-leiningen",
+                "href": "https://github.com/tpope/vim-salve",
+                "github": "tpope/vim-salve",
+                "type": "github"
+            },
+            {
+                "title": "rainbow_parentheses.vim",
+                "href": "https://github.com/junegunn/rainbow_parentheses.vim",
+                "github": "junegunn/rainbow_parentheses.vim",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Literate Programming",
+        "childrens": [
+            {
+                "title": "marginalia",
+                "href": "https://github.com/gdeer81/marginalia",
+                "github": "gdeer81/marginalia",
+                "type": "github"
+            },
+            {
+                "title": "klipse",
+                "href": "https://github.com/viebel/klipse",
+                "github": "viebel/klipse",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "clj-tuple",
+                "href": "https://github.com/ztellman/clj-tuple",
+                "github": "ztellman/clj-tuple",
+                "type": "github"
+            },
+            {
+                "title": "slingshot",
+                "href": "https://github.com/scgilardi/slingshot",
+                "github": "scgilardi/slingshot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging",
+        "childrens": [
+            {
+                "title": "debugger",
+                "href": "https://github.com/razum2um/clj-debugger",
+                "github": "razum2um/clj-debugger",
+                "type": "github"
+            },
+            {
+                "title": "debug-repl",
+                "href": "https://github.com/GeorgeJahad/debug-repl",
+                "github": "GeorgeJahad/debug-repl",
+                "type": "github"
+            },
+            {
+                "title": "ritz",
+                "href": "https://github.com/pallet/ritz",
+                "github": "pallet/ritz",
+                "type": "github"
+            },
+            {
+                "title": "redl",
+                "href": "https://github.com/dgrnbrg/redl",
+                "github": "dgrnbrg/redl",
+                "type": "github"
+            },
+            {
+                "title": "limit-break",
+                "href": "https://github.com/technomancy/limit-break",
+                "github": "technomancy/limit-break",
+                "type": "github"
+            },
+            {
+                "title": "spyscope",
+                "href": "https://github.com/dgrnbrg/spyscope",
+                "github": "dgrnbrg/spyscope",
+                "type": "github"
+            },
+            {
+                "title": "aprint",
+                "href": "https://github.com/razum2um/aprint",
+                "github": "razum2um/aprint",
+                "type": "github"
+            },
+            {
+                "title": "pretty",
+                "href": "https://github.com/AvisoNovate/pretty",
+                "github": "AvisoNovate/pretty",
+                "type": "github"
+            },
+            {
+                "title": "prone",
+                "href": "https://github.com/magnars/prone",
+                "github": "magnars/prone",
+                "type": "github"
+            },
+            {
+                "title": "figwheel",
+                "href": "https://github.com/bhauman/lein-figwheel",
+                "github": "bhauman/lein-figwheel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CI",
+        "childrens": [
+            {
+                "title": "lambdacd",
+                "href": "https://github.com/flosell/lambdacd",
+                "github": "flosell/lambdacd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Guides",
+        "childrens": [
+            {
+                "title": "clojure-cookbook",
+                "href": "https://github.com/clojure-cookbook/clojure-cookbook",
+                "github": "clojure-cookbook/clojure-cookbook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Exercises",
+        "childrens": [
+            {
+                "title": "Wonderland Clojure Katas",
+                "href": "https://github.com/gigasquid/wonderland-clojure-katas",
+                "github": "gigasquid/wonderland-clojure-katas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Project Management",
+        "childrens": [
+            {
+                "title": "milestones",
+                "href": "https://github.com/turbopape/milestones",
+                "github": "turbopape/milestones",
+                "type": "github"
+            }
+        ]
+    }
+]

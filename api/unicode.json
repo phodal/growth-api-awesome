@@ -1,0 +1,37 @@
+[
+    {
+        "heading": "Awesome Packages & Libraries",
+        "childrens": [
+            {
+                "title": "PhantomScript",
+                "href": "https://github.com/jagracey/PhantomScript",
+                "github": "jagracey/PhantomScript",
+                "type": "github"
+            },
+            {
+                "title": "ESReverser",
+                "href": "https://github.com/mathiasbynens/esrever",
+                "github": "mathiasbynens/esrever",
+                "type": "github"
+            },
+            {
+                "title": "mimic",
+                "href": "https://github.com/reinderien/mimic",
+                "github": "reinderien/mimic",
+                "type": "github"
+            },
+            {
+                "title": "python-ftfy",
+                "href": "https://github.com/LuminosoInsight/python-ftfy",
+                "github": "LuminosoInsight/python-ftfy",
+                "type": "github"
+            },
+            {
+                "title": "vim-troll-stopper",
+                "href": "https://github.com/vim-utils/vim-troll-stopper",
+                "github": "vim-utils/vim-troll-stopper",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1342 @@
+[
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "Activate ★ 311 ⧗ 8",
+                "href": "https://github.com/fwbrasil/activate",
+                "github": "fwbrasil/activate",
+                "type": "github"
+            },
+            {
+                "title": "CouchDB-Scala ★ 59 ⧗ 21",
+                "href": "https://github.com/beloglazov/couchdb-scala",
+                "github": "beloglazov/couchdb-scala",
+                "type": "github"
+            },
+            {
+                "title": "Finagle ★ 42 ⧗ 71",
+                "href": "https://github.com/finagle/finagle-postgres",
+                "github": "finagle/finagle-postgres",
+                "type": "github"
+            },
+            {
+                "title": "longevity ★ 78 ⧗ 21",
+                "href": "https://github.com/longevityframework/longevity",
+                "github": "longevityframework/longevity",
+                "type": "github"
+            },
+            {
+                "title": "lucene4s ★ 3 ⧗ 56",
+                "href": "https://github.com/outr/lucene4s",
+                "github": "outr/lucene4s",
+                "type": "github"
+            },
+            {
+                "title": "MapperDao ★ 12 ⧗ 36",
+                "href": "https://github.com/kostaskougios/mapperdao",
+                "github": "kostaskougios/mapperdao",
+                "type": "github"
+            },
+            {
+                "title": "Memcontinuationed ★ 51 ⧗ 245",
+                "href": "https://github.com/Atry/memcontinuationed",
+                "github": "Atry/memcontinuationed",
+                "type": "github"
+            },
+            {
+                "title": "Morpheus ★ 104 ⧗ 0",
+                "href": "https://github.com/outworkers/morpheus",
+                "github": "outworkers/morpheus",
+                "type": "github"
+            },
+            {
+                "title": "neo4akka ★ 6 ⧗ 117",
+                "href": "https://github.com/outr/neo4akka",
+                "github": "outr/neo4akka",
+                "type": "github"
+            },
+            {
+                "title": "ReactiveNeo ★ 73 ⧗ 114",
+                "href": "https://github.com/outworkers/reactiveneo",
+                "github": "outworkers/reactiveneo",
+                "type": "github"
+            },
+            {
+                "title": "Relate ★ 110 ⧗ 7",
+                "href": "https://github.com/lucidsoftware/relate",
+                "github": "lucidsoftware/relate",
+                "type": "github"
+            },
+            {
+                "title": "rethink-scala ★ 95 ⧗ 144",
+                "href": "https://github.com/kclay/rethink-scala",
+                "github": "kclay/rethink-scala",
+                "type": "github"
+            },
+            {
+                "title": "Salat ★ 490 ⧗ 9",
+                "href": "https://github.com/salat/salat/",
+                "github": "salat/salat/",
+                "type": "github"
+            },
+            {
+                "title": "Scala ActiveRecord ★ 297 ⧗ 3",
+                "href": "https://github.com/aselab/scala-activerecord",
+                "github": "aselab/scala-activerecord",
+                "type": "github"
+            },
+            {
+                "title": "Scala-Forklift ★ 91 ⧗ 1",
+                "href": "https://github.com/lastland/scala-forklift",
+                "github": "lastland/scala-forklift",
+                "type": "github"
+            },
+            {
+                "title": "scala-sql ★ 14 ⧗ 34",
+                "href": "https://github.com/wangzaixiang/scala-sql",
+                "github": "wangzaixiang/scala-sql",
+                "type": "github"
+            },
+            {
+                "title": "ScalaRelational ★ 51 ⧗ 1",
+                "href": "https://github.com/outr/scalarelational",
+                "github": "outr/scalarelational",
+                "type": "github"
+            },
+            {
+                "title": "Scanamo ★ 92 ⧗ 1",
+                "href": "https://github.com/guardian/scanamo",
+                "github": "guardian/scanamo",
+                "type": "github"
+            },
+            {
+                "title": "scredis ★ 149 ⧗ 29",
+                "href": "https://github.com/Livestream/scredis",
+                "github": "Livestream/scredis",
+                "type": "github"
+            },
+            {
+                "title": "Shade ★ 82 ⧗ 32",
+                "href": "https://github.com/alexandru/shade",
+                "github": "alexandru/shade",
+                "type": "github"
+            },
+            {
+                "title": "Sorm ★ 239 ⧗ 2",
+                "href": "https://github.com/sorm/sorm",
+                "github": "sorm/sorm",
+                "type": "github"
+            },
+            {
+                "title": "Squeryl ★ 484 ⧗ 1",
+                "href": "https://github.com/squeryl/squeryl",
+                "github": "squeryl/squeryl",
+                "type": "github"
+            },
+            {
+                "title": "Tepkin ★ 86 ⧗ 251",
+                "href": "https://github.com/fehmicansaglam/tepkin",
+                "github": "fehmicansaglam/tepkin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Messaging",
+        "childrens": [
+            {
+                "title": "Op-Rabbit ★ 153 ⧗ 2",
+                "href": "https://github.com/SpinGo/op-rabbit",
+                "github": "SpinGo/op-rabbit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "Chaos ★ 220 ⧗ 27",
+                "href": "https://github.com/mesosphere/chaos",
+                "github": "mesosphere/chaos",
+                "type": "github"
+            },
+            {
+                "title": "peregine ★ 11 ⧗ 40",
+                "href": "https://github.com/dvarelap/peregrine",
+                "github": "dvarelap/peregrine",
+                "type": "github"
+            },
+            {
+                "title": "Play Pagelets ★ 47 ⧗ 11",
+                "href": "https://github.com/splink/pagelets",
+                "github": "splink/pagelets",
+                "type": "github"
+            },
+            {
+                "title": "Reactive ★ 194 ⧗ 6",
+                "href": "https://github.com/nafg/reactive",
+                "github": "nafg/reactive",
+                "type": "github"
+            },
+            {
+                "title": "youi ★ 81 ⧗ 12",
+                "href": "https://github.com/outr/youi",
+                "github": "outr/youi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reactive Web Frameworks",
+        "childrens": [
+            {
+                "title": "Korolev",
+                "href": "http://github.com/fomkin/korolev/",
+                "github": "omkin/korolev/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Binding and Validation",
+        "childrens": [
+            {
+                "title": "Accord ★ 379 ⧗ 0",
+                "href": "https://github.com/wix/accord",
+                "github": "wix/accord",
+                "type": "github"
+            },
+            {
+                "title": "form-binder ★ 17 ⧗ 29",
+                "href": "https://github.com/tminglei/form-binder",
+                "github": "tminglei/form-binder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "i18n",
+        "childrens": [
+            {
+                "title": "scala-xgettext ★ 19 ⧗ 99",
+                "href": "https://github.com/xitrum-framework/scala-xgettext",
+                "github": "xitrum-framework/scala-xgettext",
+                "type": "github"
+            },
+            {
+                "title": "Scaposer ★ 30 ⧗ 99",
+                "href": "https://github.com/xitrum-framework/scaposer",
+                "github": "xitrum-framework/scaposer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication",
+        "childrens": [
+            {
+                "title": "akka-http-session ★ 268 ⧗ 11",
+                "href": "https://github.com/softwaremill/akka-http-session",
+                "github": "softwaremill/akka-http-session",
+                "type": "github"
+            },
+            {
+                "title": "AWS Request Signer ★ 4 ⧗ 43",
+                "href": "https://github.com/ticofab/aws-request-signer",
+                "github": "ticofab/aws-request-signer",
+                "type": "github"
+            },
+            {
+                "title": "OAuth2-mock-play ★ 16 ⧗ 23",
+                "href": "https://github.com/zalando/OAuth2-mock-play",
+                "github": "zalando/OAuth2-mock-play",
+                "type": "github"
+            },
+            {
+                "title": "Play Google Auth Module ★ 17 ⧗ 76",
+                "href": "https://github.com/guardian/play-googleauth",
+                "github": "guardian/play-googleauth",
+                "type": "github"
+            },
+            {
+                "title": "play-pac4j ★ 255 ⧗ 0",
+                "href": "https://github.com/pac4j/play-pac4j",
+                "github": "pac4j/play-pac4j",
+                "type": "github"
+            },
+            {
+                "title": "scala-oauth2-provider ★ 419 ⧗ 7",
+                "href": "https://github.com/nulab/scala-oauth2-provider",
+                "github": "nulab/scala-oauth2-provider",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authorization",
+        "childrens": [
+            {
+                "title": "deadbolt-2 ★ 467 ⧗ 3",
+                "href": "https://github.com/schaloner/deadbolt-2",
+                "github": "schaloner/deadbolt-2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cryptography",
+        "childrens": [
+            {
+                "title": "Scrypto ★ 50 ⧗ 4",
+                "href": "https://github.com/ScorexProject/scrypto",
+                "github": "ScorexProject/scrypto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "cornichon ★ 109 ⧗ 3",
+                "href": "https://github.com/agourlay/cornichon",
+                "github": "agourlay/cornichon",
+                "type": "github"
+            },
+            {
+                "title": "scalaprops ★ 171 ⧗ 5",
+                "href": "https://github.com/scalaprops/scalaprops",
+                "github": "scalaprops/scalaprops",
+                "type": "github"
+            },
+            {
+                "title": "Scalive ★ 187 ⧗ 20",
+                "href": "https://github.com/xitrum-framework/scalive",
+                "github": "xitrum-framework/scalive",
+                "type": "github"
+            },
+            {
+                "title": "µTest ★ 197 ⧗ 0",
+                "href": "https://github.com/lihaoyi/utest",
+                "github": "lihaoyi/utest",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JSON",
+        "childrens": [
+            {
+                "title": "diffson ★ 94 ⧗ 14",
+                "href": "https://github.com/gnieh/diffson",
+                "github": "gnieh/diffson",
+                "type": "github"
+            },
+            {
+                "title": "jackson-module-scala ★ 313 ⧗ 8",
+                "href": "https://github.com/FasterXML/jackson-module-scala",
+                "github": "FasterXML/jackson-module-scala",
+                "type": "github"
+            },
+            {
+                "title": "jawn ★ 252 ⧗ 4",
+                "href": "https://github.com/non/jawn",
+                "github": "non/jawn",
+                "type": "github"
+            },
+            {
+                "title": "persist-json ★ 9 ⧗ 49",
+                "href": "https://github.com/nestorpersist/json",
+                "github": "nestorpersist/json",
+                "type": "github"
+            },
+            {
+                "title": "play-json ★ 39 ⧗ 7",
+                "href": "https://github.com/playframework/play-json",
+                "github": "playframework/play-json",
+                "type": "github"
+            },
+            {
+                "title": "Pushka ★ 75 ⧗ 21",
+                "href": "https://github.com/fomkin/pushka",
+                "github": "fomkin/pushka",
+                "type": "github"
+            },
+            {
+                "title": "qbproject",
+                "href": "https://github.com/qb-project/qbproject",
+                "github": "qb-project/qbproject",
+                "type": "github"
+            },
+            {
+                "title": "rapture-json",
+                "href": "https://github.com/propensive/rapture/blob/dev/doc/json.md",
+                "github": "propensive/rapture/blob/dev/doc/json.md",
+                "type": "github"
+            },
+            {
+                "title": "scala-jsonapi ★ 82 ⧗ 3",
+                "href": "https://github.com/zalando/scala-jsonapi",
+                "github": "zalando/scala-jsonapi",
+                "type": "github"
+            },
+            {
+                "title": "scalajack ★ 81 ⧗ 35",
+                "href": "https://github.com/gzoller/ScalaJack",
+                "github": "gzoller/ScalaJack",
+                "type": "github"
+            },
+            {
+                "title": "sonofjson ★ 23 ⧗ 11",
+                "href": "https://github.com/wspringer/sonofjson",
+                "github": "wspringer/sonofjson",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "YAML",
+        "childrens": [
+            {
+                "title": "MoultingYAML ★ 43 ⧗ 2",
+                "href": "https://github.com/jcazevedo/moultingyaml",
+                "github": "jcazevedo/moultingyaml",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CSV",
+        "childrens": [
+            {
+                "title": "kantan.csv ★ 143 ⧗ 24",
+                "href": "https://github.com/nrinaudo/kantan.csv",
+                "github": "nrinaudo/kantan.csv",
+                "type": "github"
+            },
+            {
+                "title": "Scala-CSV ★ 365 ⧗ 1",
+                "href": "https://github.com/tototoshi/scala-csv",
+                "github": "tototoshi/scala-csv",
+                "type": "github"
+            },
+            {
+                "title": "fm-flatfile ★ 1 ⧗ 1",
+                "href": "https://github.com/frugalmechanic/fm-flatfile",
+                "github": "frugalmechanic/fm-flatfile",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Serialization",
+        "childrens": [
+            {
+                "title": "avro-codegen ★ 24 ⧗ 23",
+                "href": "https://github.com/Nitro/avro-codegen",
+                "github": "Nitro/avro-codegen",
+                "type": "github"
+            },
+            {
+                "title": "Chill ★ 378 ⧗ 4",
+                "href": "https://github.com/twitter/chill",
+                "github": "twitter/chill",
+                "type": "github"
+            },
+            {
+                "title": "msgpack ★ 75 ⧗ 57",
+                "href": "https://github.com/msgpack/msgpack-scala",
+                "github": "msgpack/msgpack-scala",
+                "type": "github"
+            },
+            {
+                "title": "ScalaBuff ★ 218 ⧗ 1",
+                "href": "https://github.com/SandroGrzicic/ScalaBuff",
+                "github": "SandroGrzicic/ScalaBuff",
+                "type": "github"
+            },
+            {
+                "title": "scodec ★ 474 ⧗ 10",
+                "href": "https://github.com/scodec/scodec",
+                "github": "scodec/scodec",
+                "type": "github"
+            },
+            {
+                "title": "validation ★ 177 ⧗ 3",
+                "href": "https://github.com/jto/validation",
+                "github": "jto/validation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Science and Data Analysis",
+        "childrens": [
+            {
+                "title": "Axle ★ 51 ⧗ 9",
+                "href": "https://github.com/axlelang/axle",
+                "github": "axlelang/axle",
+                "type": "github"
+            },
+            {
+                "title": "Chalk ★ 231 ⧗ 6",
+                "href": "https://github.com/scalanlp/chalk",
+                "github": "scalanlp/chalk",
+                "type": "github"
+            },
+            {
+                "title": "FACTORIE ★ 486 ⧗ 7",
+                "href": "https://github.com/factorie/factorie",
+                "github": "factorie/factorie",
+                "type": "github"
+            },
+            {
+                "title": "Figaro ★ 461 ⧗ 0",
+                "href": "https://github.com/p2t2/figaro",
+                "github": "p2t2/figaro",
+                "type": "github"
+            },
+            {
+                "title": "MGO ★ 37 ⧗ 55",
+                "href": "https://github.com/openmole/mgo",
+                "github": "openmole/mgo",
+                "type": "github"
+            },
+            {
+                "title": "ND4S ★ 201 ⧗ 0",
+                "href": "https://github.com/deeplearning4j/nd4s",
+                "github": "deeplearning4j/nd4s",
+                "type": "github"
+            },
+            {
+                "title": "OpenMOLE ★ 65 ⧗ 5",
+                "href": "https://github.com/openmole/openmole",
+                "github": "openmole/openmole",
+                "type": "github"
+            },
+            {
+                "title": "Persist-Units ★ 9 ⧗ 40",
+                "href": "https://github.com/nestorpersist/units",
+                "github": "nestorpersist/units",
+                "type": "github"
+            },
+            {
+                "title": "Saddle ★ 428 ⧗ 2",
+                "href": "https://github.com/saddle/saddle",
+                "github": "saddle/saddle",
+                "type": "github"
+            },
+            {
+                "title": "Squants ★ 388 ⧗ 1",
+                "href": "https://github.com/garyKeorkunian/squants",
+                "github": "garyKeorkunian/squants",
+                "type": "github"
+            },
+            {
+                "title": "Tyche ★ 89 ⧗ 17",
+                "href": "https://github.com/neysofu/tyche",
+                "github": "neysofu/tyche",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Big Data",
+        "childrens": [
+            {
+                "title": "GridScale ★ 15 ⧗ 5",
+                "href": "https://github.com/openmole/gridscale",
+                "github": "openmole/gridscale",
+                "type": "github"
+            },
+            {
+                "title": "Scio",
+                "href": "https://github.com/spotify/scio",
+                "github": "spotify/scio",
+                "type": "github"
+            },
+            {
+                "title": "Scoobi ★ 486 ⧗ 5",
+                "href": "https://github.com/nicta/scoobi",
+                "github": "nicta/scoobi",
+                "type": "github"
+            },
+            {
+                "title": "Scoozie ★ 71 ⧗ 0",
+                "href": "https://github.com/klout/scoozie",
+                "github": "klout/scoozie",
+                "type": "github"
+            },
+            {
+                "title": "Shadoop ★ 8 ⧗ 69",
+                "href": "https://github.com/adamretter/shadoop",
+                "github": "adamretter/shadoop",
+                "type": "github"
+            },
+            {
+                "title": "spark-deployer ★ 69 ⧗ 29",
+                "href": "https://github.com/KKBOX/spark-deployer",
+                "github": "KKBOX/spark-deployer",
+                "type": "github"
+            },
+            {
+                "title": "Sparkta ★ 320 ⧗ 1",
+                "href": "https://github.com/Stratio/sparkta",
+                "github": "Stratio/sparkta",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image processing and image analysis",
+        "childrens": [
+            {
+                "title": "scalismo ★ 45 ⧗ 9",
+                "href": "https://github.com/unibas-gravis/scalismo",
+                "github": "unibas-gravis/scalismo",
+                "type": "github"
+            },
+            {
+                "title": "scrimage ★ 476 ⧗ 0",
+                "href": "https://github.com/sksamuel/scrimage",
+                "github": "sksamuel/scrimage",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sound processing and music",
+        "childrens": [
+            {
+                "title": "ScalaCollider ★ 121 ⧗ 5",
+                "href": "https://github.com/Sciss/ScalaCollider",
+                "github": "Sciss/ScalaCollider",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Functional Reactive Programming",
+        "childrens": [
+            {
+                "title": "Reactive Collections ★ 2 ⧗ 165",
+                "href": "https://github.com/storm-enroute/reactors",
+                "github": "storm-enroute/reactors",
+                "type": "github"
+            },
+            {
+                "title": "scala.frp ★ 21 ⧗ 101",
+                "href": "https://github.com/dylemma/scala.frp",
+                "github": "dylemma/scala.frp",
+                "type": "github"
+            },
+            {
+                "title": "SynapseGrid ★ 109 ⧗ 1",
+                "href": "https://github.com/Primetalk/SynapseGrid",
+                "github": "Primetalk/SynapseGrid",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Modularization and Dependency Injection",
+        "childrens": [
+            {
+                "title": "Airframe ★ 25 ⧗ 13",
+                "href": "https://github.com/wvlet/airframe",
+                "github": "wvlet/airframe",
+                "type": "github"
+            },
+            {
+                "title": "Cableguy ★ 1 ⧗ 269",
+                "href": "https://github.com/akozhemiakin/cableguy",
+                "github": "akozhemiakin/cableguy",
+                "type": "github"
+            },
+            {
+                "title": "Domino ★ 2 ⧗ 463",
+                "href": "https://github.com/helgoboss/domino",
+                "github": "helgoboss/domino",
+                "type": "github"
+            },
+            {
+                "title": "Grafter ★ 148 ⧗ 0",
+                "href": "https://github.com/zalando/grafter",
+                "github": "zalando/grafter",
+                "type": "github"
+            },
+            {
+                "title": "Scala-Guice ★ 211 ⧗ 10",
+                "href": "https://github.com/codingwell/scala-guice",
+                "github": "codingwell/scala-guice",
+                "type": "github"
+            },
+            {
+                "title": "Scaldi ★ 252 ⧗ 1",
+                "href": "https://github.com/scaldi/scaldi",
+                "github": "scaldi/scaldi",
+                "type": "github"
+            },
+            {
+                "title": "Sclasner ★ 9 ⧗ 130",
+                "href": "https://github.com/xitrum-framework/sclasner",
+                "github": "xitrum-framework/sclasner",
+                "type": "github"
+            },
+            {
+                "title": "SubCut ★ 403 ⧗ 9",
+                "href": "https://github.com/dickwall/subcut",
+                "github": "dickwall/subcut",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distributed Systems",
+        "childrens": [
+            {
+                "title": "Akka-tracing ★ 252 ⧗ 2",
+                "href": "https://github.com/levkhomich/akka-tracing",
+                "github": "levkhomich/akka-tracing",
+                "type": "github"
+            },
+            {
+                "title": "autobreaker ★ 6 ⧗ 93",
+                "href": "https://github.com/lucastorri/autobreaker",
+                "github": "lucastorri/autobreaker",
+                "type": "github"
+            },
+            {
+                "title": "CurioDB ★ 459 ⧗ 4",
+                "href": "https://github.com/stephenmcd/curiodb",
+                "github": "stephenmcd/curiodb",
+                "type": "github"
+            },
+            {
+                "title": "Glokka ★ 46 ⧗ 148",
+                "href": "https://github.com/xitrum-framework/glokka",
+                "github": "xitrum-framework/glokka",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Extensions",
+        "childrens": [
+            {
+                "title": "Each ★ 146 ⧗ 0",
+                "href": "https://github.com/ThoughtWorksInc/each",
+                "github": "ThoughtWorksInc/each",
+                "type": "github"
+            },
+            {
+                "title": "Eff ★ 220 ⧗ 6",
+                "href": "https://github.com/atnos-org/eff",
+                "github": "atnos-org/eff",
+                "type": "github"
+            },
+            {
+                "title": "enableIf.scala ★ 40 ⧗ 25",
+                "href": "https://github.com/ThoughtWorksInc/enableIf.scala",
+                "github": "ThoughtWorksInc/enableIf.scala",
+                "type": "github"
+            },
+            {
+                "title": "Enumeratum ★ 374 ⧗ 0",
+                "href": "https://github.com/lloydmeta/enumeratum",
+                "github": "lloydmeta/enumeratum",
+                "type": "github"
+            },
+            {
+                "title": "Freasy-Monad ★ 90 ⧗ 14",
+                "href": "https://github.com/Thangiee/Freasy-Monad",
+                "github": "Thangiee/Freasy-Monad",
+                "type": "github"
+            },
+            {
+                "title": "Freedsl ★ 25 ⧗ 5",
+                "href": "https://github.com/ISCPIF/freedsl",
+                "github": "ISCPIF/freedsl",
+                "type": "github"
+            },
+            {
+                "title": "Hamsters ★ 133 ⧗ 7",
+                "href": "https://github.com/scala-hamsters/hamsters",
+                "github": "scala-hamsters/hamsters",
+                "type": "github"
+            },
+            {
+                "title": "idid ★ 4 ⧗ 43",
+                "href": "https://github.com/lucastorri/idid",
+                "github": "lucastorri/idid",
+                "type": "github"
+            },
+            {
+                "title": "Lamma ★ 70 ⧗ 8",
+                "href": "https://github.com/maxcellent/lamma",
+                "github": "maxcellent/lamma",
+                "type": "github"
+            },
+            {
+                "title": "LArray ★ 225 ⧗ 25",
+                "href": "https://github.com/xerial/larray",
+                "github": "xerial/larray",
+                "type": "github"
+            },
+            {
+                "title": "Persist-Logging ★ 33 ⧗ 48",
+                "href": "https://github.com/nestorpersist/logging",
+                "github": "nestorpersist/logging",
+                "type": "github"
+            },
+            {
+                "title": "Quicklens ★ 245 ⧗ 0",
+                "href": "https://github.com/adamw/quicklens",
+                "github": "adamw/quicklens",
+                "type": "github"
+            },
+            {
+                "title": "Records for Scala ★ 125 ⧗ 55",
+                "href": "https://github.com/scala-records/scala-records",
+                "github": "scala-records/scala-records",
+                "type": "github"
+            },
+            {
+                "title": "refined ★ 447 ⧗ 3",
+                "href": "https://github.com/fthomas/refined",
+                "github": "fthomas/refined",
+                "type": "github"
+            },
+            {
+                "title": "Resolvable ★ 0 ⧗ 94",
+                "href": "https://github.com/stanch/resolvable",
+                "github": "stanch/resolvable",
+                "type": "github"
+            },
+            {
+                "title": "Sauron ★ 159 ⧗ 58",
+                "href": "https://github.com/pathikrit/sauron",
+                "github": "pathikrit/sauron",
+                "type": "github"
+            },
+            {
+                "title": "scribe ★ 36 ⧗ 3",
+                "href": "https://github.com/outr/scribe",
+                "github": "outr/scribe",
+                "type": "github"
+            },
+            {
+                "title": "Stateless Future ★ 165 ⧗ 35",
+                "href": "https://github.com/qifun/stateless-future",
+                "github": "qifun/stateless-future",
+                "type": "github"
+            },
+            {
+                "title": "wvlet-log ★ 43 ⧗ 13",
+                "href": "https://github.com/wvlet/log",
+                "github": "wvlet/log",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "BootZooka ★ 331 ⧗ 5",
+                "href": "https://github.com/softwaremill/bootzooka",
+                "github": "softwaremill/bootzooka",
+                "type": "github"
+            },
+            {
+                "title": "Fansi ★ 96 ⧗ 15",
+                "href": "https://github.com/lihaoyi/fansi",
+                "github": "lihaoyi/fansi",
+                "type": "github"
+            },
+            {
+                "title": "GoogleApiScala ★ 5 ⧗ 3",
+                "href": "https://github.com/EckerdCollege/google-api-scala",
+                "github": "EckerdCollege/google-api-scala",
+                "type": "github"
+            },
+            {
+                "title": "mailgun4s ★ 7 ⧗ 4",
+                "href": "https://github.com/outr/mailgun4s",
+                "github": "outr/mailgun4s",
+                "type": "github"
+            },
+            {
+                "title": "media4s ★ 5 ⧗ 3",
+                "href": "https://github.com/outr/media4s",
+                "github": "outr/media4s",
+                "type": "github"
+            },
+            {
+                "title": "Miniboxing",
+                "href": "https://github.com/miniboxing/miniboxing-plugin",
+                "github": "miniboxing/miniboxing-plugin",
+                "type": "github"
+            },
+            {
+                "title": "Openquant ★ 73 ⧗ 0",
+                "href": "https://github.com/openquant",
+                "github": "openquant",
+                "type": "github"
+            },
+            {
+                "title": "Ostinato ★ 27 ⧗ 7",
+                "href": "https://github.com/marianogappa/ostinato",
+                "github": "marianogappa/ostinato",
+                "type": "github"
+            },
+            {
+                "title": "pdf4s ★ 3 ⧗ 3",
+                "href": "https://github.com/outr/pdf4s",
+                "github": "outr/pdf4s",
+                "type": "github"
+            },
+            {
+                "title": "Play Swagger ★ 174 ⧗ 3",
+                "href": "https://github.com/iheartradio/play-swagger",
+                "github": "iheartradio/play-swagger",
+                "type": "github"
+            },
+            {
+                "title": "powerscala ★ 11 ⧗ 80",
+                "href": "https://github.com/outr/powerscala",
+                "github": "outr/powerscala",
+                "type": "github"
+            },
+            {
+                "title": "PureConfig ★ 337 ⧗ 2",
+                "href": "https://github.com/melrief/pureconfig",
+                "github": "melrief/pureconfig",
+                "type": "github"
+            },
+            {
+                "title": "REPLesent ★ 319 ⧗ 5",
+                "href": "https://github.com/marconilanna/REPLesent",
+                "github": "marconilanna/REPLesent",
+                "type": "github"
+            },
+            {
+                "title": "scala-debugger ★ 52 ⧗ 18",
+                "href": "https://github.com/ensime/scala-debugger",
+                "github": "ensime/scala-debugger",
+                "type": "github"
+            },
+            {
+                "title": "scala-ssh ★ 186 ⧗ 6",
+                "href": "https://github.com/sirthias/scala-ssh",
+                "github": "sirthias/scala-ssh",
+                "type": "github"
+            },
+            {
+                "title": "Scalan ★ 81 ⧗ 67",
+                "href": "https://github.com/scalan/scalan",
+                "github": "scalan/scalan",
+                "type": "github"
+            },
+            {
+                "title": "settler ★ 4 ⧗ 171",
+                "href": "https://github.com/lucastorri/settler",
+                "github": "lucastorri/settler",
+                "type": "github"
+            },
+            {
+                "title": "Simple Scala Config ★ 43 ⧗ 5",
+                "href": "https://github.com/ElderResearch/ssc",
+                "github": "ElderResearch/ssc",
+                "type": "github"
+            },
+            {
+                "title": "YahooFinanceScala ★ 15 ⧗ 2",
+                "href": "https://github.com/openquant/YahooFinanceScala",
+                "github": "openquant/YahooFinanceScala",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Android",
+        "childrens": [
+            {
+                "title": "Gradle Android Scala Plugin ★ 318 ⧗ 20",
+                "href": "https://github.com/saturday06/gradle-android-scala-plugin",
+                "github": "saturday06/gradle-android-scala-plugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP",
+        "childrens": [
+            {
+                "title": "Akka HTTP ★ 306 ⧗ 1",
+                "href": "https://github.com/akka/akka-http",
+                "github": "akka/akka-http",
+                "type": "github"
+            },
+            {
+                "title": "Dispatch ★ 366 ⧗ 6",
+                "href": "https://github.com/dispatch/reboot",
+                "github": "dispatch/reboot",
+                "type": "github"
+            },
+            {
+                "title": "jefe ★ 2 ⧗ 105",
+                "href": "https://github.com/outr/jefe",
+                "github": "outr/jefe",
+                "type": "github"
+            },
+            {
+                "title": "Netcaty ★ 13 ⧗ 67",
+                "href": "https://github.com/ngocdaothanh/netcaty",
+                "github": "ngocdaothanh/netcaty",
+                "type": "github"
+            },
+            {
+                "title": "Newman ★ 241 ⧗ 88",
+                "href": "https://github.com/stackmob/newman",
+                "github": "stackmob/newman",
+                "type": "github"
+            },
+            {
+                "title": "RösHTTP ★ 79 ⧗ 9",
+                "href": "https://github.com/hmil/RosHTTP",
+                "github": "hmil/RosHTTP",
+                "type": "github"
+            },
+            {
+                "title": "Scalaxb ★ 235 ⧗ 18",
+                "href": "https://github.com/eed3si9n/scalaxb",
+                "github": "eed3si9n/scalaxb",
+                "type": "github"
+            },
+            {
+                "title": "Tubesocks ★ 12 ⧗ 174",
+                "href": "https://github.com/softprops/tubesocks",
+                "github": "softprops/tubesocks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Semantic Web",
+        "childrens": [
+            {
+                "title": "Banana-RDF ★ 207 ⧗ 26",
+                "href": "https://github.com/banana-rdf/banana-rdf",
+                "github": "banana-rdf/banana-rdf",
+                "type": "github"
+            },
+            {
+                "title": "rdfp ★ 4 ⧗ 50",
+                "href": "https://github.com/jannvck/rdfp",
+                "github": "jannvck/rdfp",
+                "type": "github"
+            },
+            {
+                "title": "Scowl ★ 16 ⧗ 36",
+                "href": "https://github.com/phenoscape/scowl",
+                "github": "phenoscape/scowl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Parsing",
+        "childrens": [
+            {
+                "title": "atto ★ 148 ⧗ 1",
+                "href": "https://github.com/tpolecat/atto",
+                "github": "tpolecat/atto",
+                "type": "github"
+            },
+            {
+                "title": "CLIST ★ 43 ⧗ 24",
+                "href": "https://github.com/backuity/clist",
+                "github": "backuity/clist",
+                "type": "github"
+            },
+            {
+                "title": "Fast Parse ★ 467 ⧗ 1",
+                "href": "https://github.com/lihaoyi/fastparse",
+                "github": "lihaoyi/fastparse",
+                "type": "github"
+            },
+            {
+                "title": "Scala Parser Combinators ★ 221 ⧗ 0",
+                "href": "https://github.com/scala/scala-parser-combinators",
+                "github": "scala/scala-parser-combinators",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sbt plugins",
+        "childrens": [
+            {
+                "title": "pttrt ★ 4 ⧗ 259",
+                "href": "https://github.com/Atry/pttrt",
+                "github": "Atry/pttrt",
+                "type": "github"
+            },
+            {
+                "title": "sbt-api-mappings ★ 38 ⧗ 67",
+                "href": "https://github.com/ThoughtWorksInc/sbt-api-mappings",
+                "github": "ThoughtWorksInc/sbt-api-mappings",
+                "type": "github"
+            },
+            {
+                "title": "sbt-buildinfo ★ 274 ⧗ 1",
+                "href": "https://github.com/sbt/sbt-buildinfo",
+                "github": "sbt/sbt-buildinfo",
+                "type": "github"
+            },
+            {
+                "title": "sbt-classfinder ★ 3 ⧗ 39",
+                "href": "https://github.com/ruippeixotog/sbt-classfinder",
+                "github": "ruippeixotog/sbt-classfinder",
+                "type": "github"
+            },
+            {
+                "title": "sbt-cppp ★ 4 ⧗ 272",
+                "href": "https://github.com/Atry/sbt-cppp",
+                "github": "Atry/sbt-cppp",
+                "type": "github"
+            },
+            {
+                "title": "sbt-docker ★ 422 ⧗ 3",
+                "href": "https://github.com/marcuslonnberg/sbt-docker",
+                "github": "marcuslonnberg/sbt-docker",
+                "type": "github"
+            },
+            {
+                "title": "sbt-ensime ★ 197 ⧗ 11",
+                "href": "https://github.com/ensime/ensime-sbt",
+                "github": "ensime/ensime-sbt",
+                "type": "github"
+            },
+            {
+                "title": "sbt-groll ★ 87 ⧗ 10",
+                "href": "https://github.com/sbt/sbt-groll",
+                "github": "sbt/sbt-groll",
+                "type": "github"
+            },
+            {
+                "title": "sbt-haxe ★ 9 ⧗ 274",
+                "href": "https://github.com/qifun/sbt-haxe",
+                "github": "qifun/sbt-haxe",
+                "type": "github"
+            },
+            {
+                "title": "sbt-ide-settings ★ 32 ⧗ 27",
+                "href": "https://github.com/Jetbrains/sbt-ide-settings",
+                "github": "Jetbrains/sbt-ide-settings",
+                "type": "github"
+            },
+            {
+                "title": "sbt-pack ★ 284 ⧗ 7",
+                "href": "https://github.com/xerial/sbt-pack",
+                "github": "xerial/sbt-pack",
+                "type": "github"
+            },
+            {
+                "title": "sbt-robovm ★ 107 ⧗ 17",
+                "href": "https://github.com/roboscala/sbt-robovm",
+                "github": "roboscala/sbt-robovm",
+                "type": "github"
+            },
+            {
+                "title": "sbt-scala-js-map ★ 12 ⧗ 2",
+                "href": "https://github.com/ThoughtWorksInc/sbt-scala-js-map",
+                "github": "ThoughtWorksInc/sbt-scala-js-map",
+                "type": "github"
+            },
+            {
+                "title": "sbt-sublime ★ 145 ⧗ 38",
+                "href": "https://github.com/orrsella/sbt-sublime",
+                "github": "orrsella/sbt-sublime",
+                "type": "github"
+            },
+            {
+                "title": "sbt-updates ★ 316 ⧗ 3",
+                "href": "https://github.com/rtimush/sbt-updates",
+                "github": "rtimush/sbt-updates",
+                "type": "github"
+            },
+            {
+                "title": "sbt-versions ★ 14 ⧗ 167",
+                "href": "https://github.com/sksamuel/sbt-versions",
+                "github": "sksamuel/sbt-versions",
+                "type": "github"
+            },
+            {
+                "title": "sbt-view ★ 7 ⧗ 18",
+                "href": "https://github.com/nestorpersist/sbt-view",
+                "github": "nestorpersist/sbt-view",
+                "type": "github"
+            },
+            {
+                "title": "scala-clippy ★ 211 ⧗ 5",
+                "href": "https://github.com/softwaremill/scala-clippy",
+                "github": "softwaremill/scala-clippy",
+                "type": "github"
+            },
+            {
+                "title": "ScalaKata2 ★ 79 ⧗ 0",
+                "href": "https://github.com/MasseGuillaume/ScalaKata2",
+                "github": "MasseGuillaume/ScalaKata2",
+                "type": "github"
+            },
+            {
+                "title": "tut ★ 364 ⧗ 2",
+                "href": "https://github.com/tpolecat/tut",
+                "github": "tpolecat/tut",
+                "type": "github"
+            },
+            {
+                "title": "xsbt-web-plugin ★ 334 ⧗ 1",
+                "href": "https://github.com/earldouglas/xsbt-web-plugin",
+                "github": "earldouglas/xsbt-web-plugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "XML / HTML",
+        "childrens": [
+            {
+                "title": "scala-scraper ★ 316 ⧗ 1",
+                "href": "https://github.com/ruippeixotog/scala-scraper",
+                "github": "ruippeixotog/scala-scraper",
+                "type": "github"
+            },
+            {
+                "title": "xs4s ★ 29 ⧗ 47",
+                "href": "https://github.com/ScalaWilliam/xs4s",
+                "github": "ScalaWilliam/xs4s",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Learning Scala",
+        "childrens": [
+            {
+                "title": "Deploying Scala libraries to Sonatype for dummies ★ 23 ⧗ 25",
+                "href": "https://github.com/larroy/deployingScalaLibrariesToSonatype",
+                "github": "larroy/deployingScalaLibrariesToSonatype",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "js-scala ★ 155 ⧗ 9",
+                "href": "https://github.com/js-scala/js-scala",
+                "github": "js-scala/js-scala",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Templating",
+        "childrens": [
+            {
+                "title": "Beard ★ 67 ⧗ 3",
+                "href": "https://github.com/zalando/beard",
+                "github": "zalando/beard",
+                "type": "github"
+            },
+            {
+                "title": "Scalatags ★ 492 ⧗ 3",
+                "href": "https://github.com/lihaoyi/scalatags",
+                "github": "lihaoyi/scalatags",
+                "type": "github"
+            },
+            {
+                "title": "Twirl ★ 324 ⧗ 3",
+                "href": "https://github.com/playframework/twirl",
+                "github": "playframework/twirl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Abide ★ 243 ⧗ 3",
+                "href": "https://github.com/scala/scala-abide",
+                "github": "scala/scala-abide",
+                "type": "github"
+            },
+            {
+                "title": "Fastring ★ 97 ⧗ 2",
+                "href": "https://github.com/Atry/fastring",
+                "github": "Atry/fastring",
+                "type": "github"
+            },
+            {
+                "title": "scala-trace-debug ★ 80 ⧗ 14",
+                "href": "https://github.com/JohnReedLOL/scala-trace-debug",
+                "github": "JohnReedLOL/scala-trace-debug",
+                "type": "github"
+            },
+            {
+                "title": "Scalariform ★ 116 ⧗ 47",
+                "href": "https://github.com/daniel-trinh/scalariform",
+                "github": "daniel-trinh/scalariform",
+                "type": "github"
+            },
+            {
+                "title": "Scalastyle ★ 463 ⧗ 1",
+                "href": "https://github.com/scalastyle/scalastyle",
+                "github": "scalastyle/scalastyle",
+                "type": "github"
+            },
+            {
+                "title": "Scalatex ★ 236 ⧗ 12",
+                "href": "https://github.com/lihaoyi/Scalatex",
+                "github": "lihaoyi/Scalatex",
+                "type": "github"
+            },
+            {
+                "title": "Scapegoat ★ 176 ⧗ 6",
+                "href": "https://github.com/sksamuel/scapegoat",
+                "github": "sksamuel/scapegoat",
+                "type": "github"
+            },
+            {
+                "title": "Scoverage",
+                "href": "https://github.com/scoverage",
+                "github": "scoverage",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Geospatial",
+        "childrens": [
+            {
+                "title": "osm4scala ★ 8 ⧗ 40",
+                "href": "https://github.com/angelcervera/osm4scala",
+                "github": "angelcervera/osm4scala",
+                "type": "github"
+            },
+            {
+                "title": "sfcurve ★ 20 ⧗ 1",
+                "href": "https://github.com/locationtech/sfcurve",
+                "github": "locationtech/sfcurve",
+                "type": "github"
+            }
+        ]
+    }
+]

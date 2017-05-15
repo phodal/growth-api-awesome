@@ -1,0 +1,1214 @@
+[
+    {
+        "heading": "Charts",
+        "childrens": [
+            {
+                "title": "AChartEngine",
+                "href": "https://github.com/ddanny/achartengine",
+                "github": "ddanny/achartengine",
+                "type": "github"
+            },
+            {
+                "title": "EazeGraph",
+                "href": "https://github.com/blackfizz/EazeGraph",
+                "github": "blackfizz/EazeGraph",
+                "type": "github"
+            },
+            {
+                "title": "WilliamChart",
+                "href": "https://github.com/diogobernardino/WilliamChart",
+                "github": "diogobernardino/WilliamChart",
+                "type": "github"
+            },
+            {
+                "title": "HelloCharts",
+                "href": "https://github.com/lecho/hellocharts-android",
+                "github": "lecho/hellocharts-android",
+                "type": "github"
+            },
+            {
+                "title": "MPAndroidChart",
+                "href": "https://github.com/PhilJay/MPAndroidChart",
+                "github": "PhilJay/MPAndroidChart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data binding",
+        "childrens": [
+            {
+                "title": "Anvil",
+                "href": "https://github.com/zserge/anvil",
+                "github": "zserge/anvil",
+                "type": "github"
+            },
+            {
+                "title": "RoboBinding",
+                "href": "https://github.com/RoboBinding/RoboBinding",
+                "github": "RoboBinding/RoboBinding",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dependency Injection",
+        "childrens": [
+            {
+                "title": "RoboGuice",
+                "href": "https://github.com/roboguice/roboguice",
+                "github": "roboguice/roboguice",
+                "type": "github"
+            },
+            {
+                "title": "Dagger",
+                "href": "https://github.com/square/Dagger",
+                "github": "square/Dagger",
+                "type": "github"
+            },
+            {
+                "title": "Dagger 2",
+                "href": "https://github.com/google/dagger",
+                "github": "google/dagger",
+                "type": "github"
+            },
+            {
+                "title": "ActivityStarter",
+                "href": "https://github.com/MarcinMoskala/ActivityStarter",
+                "github": "MarcinMoskala/ActivityStarter",
+                "type": "github"
+            },
+            {
+                "title": "AndroidAnnotations",
+                "href": "https://github.com/androidannotations/androidannotations",
+                "github": "androidannotations/androidannotations",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game Development",
+        "childrens": [
+            {
+                "title": "Rajawali",
+                "href": "https://github.com/Rajawali/Rajawali",
+                "github": "Rajawali/Rajawali",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "Cardslib",
+                "href": "https://github.com/gabrielemariotti/cardslib",
+                "github": "gabrielemariotti/cardslib",
+                "type": "github"
+            },
+            {
+                "title": "AndroidStaggeredGrid",
+                "href": "https://github.com/etsy/AndroidStaggeredGrid",
+                "github": "etsy/AndroidStaggeredGrid",
+                "type": "github"
+            },
+            {
+                "title": "AndroidQuery",
+                "href": "https://github.com/androidquery/androidquery",
+                "github": "androidquery/androidquery",
+                "type": "github"
+            },
+            {
+                "title": "Flow",
+                "href": "https://github.com/square/flow",
+                "github": "square/flow",
+                "type": "github"
+            },
+            {
+                "title": "Crouton",
+                "href": "https://github.com/keyboardsurfer/Crouton",
+                "github": "keyboardsurfer/Crouton",
+                "type": "github"
+            },
+            {
+                "title": "DragSortListView",
+                "href": "https://github.com/bauerca/drag-sort-listview",
+                "github": "bauerca/drag-sort-listview",
+                "type": "github"
+            },
+            {
+                "title": "MaterialProgressBar",
+                "href": "https://github.com/DreaminginCodeZH/MaterialProgressBar",
+                "github": "DreaminginCodeZH/MaterialProgressBar",
+                "type": "github"
+            },
+            {
+                "title": "AndroidFillableLoaders",
+                "href": "https://github.com/JorgeCastilloPrz/AndroidFillableLoaders",
+                "github": "JorgeCastilloPrz/AndroidFillableLoaders",
+                "type": "github"
+            },
+            {
+                "title": "NexusDialog",
+                "href": "https://github.com/dkharrat/NexusDialog",
+                "github": "dkharrat/NexusDialog",
+                "type": "github"
+            },
+            {
+                "title": "Snap RecyclerView Utils",
+                "href": "https://github.com/prashantsolanki3/Snap-RecyclerView-Utils",
+                "github": "prashantsolanki3/Snap-RecyclerView-Utils",
+                "type": "github"
+            },
+            {
+                "title": "SwipeableCard",
+                "href": "https://github.com/michelelacorte/SwipeableCard",
+                "github": "michelelacorte/SwipeableCard",
+                "type": "github"
+            },
+            {
+                "title": "ElasticProgressBar",
+                "href": "https://github.com/michelelacorte/ElasticProgressBar",
+                "github": "michelelacorte/ElasticProgressBar",
+                "type": "github"
+            },
+            {
+                "title": "EntryScreenManager",
+                "href": "https://github.com/kunall17/EntryScreenManager",
+                "github": "kunall17/EntryScreenManager",
+                "type": "github"
+            },
+            {
+                "title": "EasyIntro",
+                "href": "https://github.com/meNESS/EasyIntro",
+                "github": "meNESS/EasyIntro",
+                "type": "github"
+            },
+            {
+                "title": "Material-Calendar-View",
+                "href": "https://github.com/BlackBoxVision/material-calendar-view",
+                "github": "BlackBoxVision/material-calendar-view",
+                "type": "github"
+            },
+            {
+                "title": "SectionedRecyclerViewAdapter",
+                "href": "https://github.com/luizgrp/SectionedRecyclerViewAdapter",
+                "github": "luizgrp/SectionedRecyclerViewAdapter",
+                "type": "github"
+            },
+            {
+                "title": "DragListView",
+                "href": "https://github.com/woxblom/DragListView",
+                "github": "woxblom/DragListView",
+                "type": "github"
+            },
+            {
+                "title": "Animated Expanding ListView",
+                "href": "https://github.com/LeonardoCardoso/Animated-Expanding-ListView",
+                "github": "LeonardoCardoso/Animated-Expanding-ListView",
+                "type": "github"
+            },
+            {
+                "title": "TastyToast",
+                "href": "https://github.com/yadav-rahul/TastyToast",
+                "github": "yadav-rahul/TastyToast",
+                "type": "github"
+            },
+            {
+                "title": "DotLoader",
+                "href": "https://github.com/bhargavms/DotLoader",
+                "github": "bhargavms/DotLoader",
+                "type": "github"
+            },
+            {
+                "title": "PodSlider",
+                "href": "https://github.com/bhargavms/PodSLider",
+                "github": "bhargavms/PodSLider",
+                "type": "github"
+            },
+            {
+                "title": "TapTargetView",
+                "href": "https://github.com/KeepSafe/TapTargetView",
+                "github": "KeepSafe/TapTargetView",
+                "type": "github"
+            },
+            {
+                "title": "MaterialIntroScreen",
+                "href": "https://github.com/TangoAgency/material-intro-screen",
+                "github": "TangoAgency/material-intro-screen",
+                "type": "github"
+            },
+            {
+                "title": "FloatingView",
+                "href": "https://github.com/UFreedom/FloatingView",
+                "github": "UFreedom/FloatingView",
+                "type": "github"
+            },
+            {
+                "title": "Timecon",
+                "href": "https://github.com/alxrm/animated-clock-icon",
+                "github": "alxrm/animated-clock-icon",
+                "type": "github"
+            },
+            {
+                "title": "Audiogram",
+                "href": "https://github.com/alxrm/audiowave-progressbar",
+                "github": "alxrm/audiowave-progressbar",
+                "type": "github"
+            },
+            {
+                "title": "Bubbles for Android",
+                "href": "https://github.com/txusballesteros/bubbles-for-android",
+                "github": "txusballesteros/bubbles-for-android",
+                "type": "github"
+            },
+            {
+                "title": "Litho (By Facebook)",
+                "href": "https://github.com/facebook/litho",
+                "github": "facebook/litho",
+                "type": "github"
+            },
+            {
+                "title": "FadingActionBar",
+                "href": "https://github.com/ManuelPeinado/FadingActionBar",
+                "github": "ManuelPeinado/FadingActionBar",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Navigation",
+        "childrens": [
+            {
+                "title": "SlidingMenu",
+                "href": "https://github.com/jfeinstein10/SlidingMenu",
+                "github": "jfeinstein10/SlidingMenu",
+                "type": "github"
+            },
+            {
+                "title": "SlidingTutorial",
+                "href": "https://github.com/Cleveroad/slidingtutorial-android",
+                "github": "Cleveroad/slidingtutorial-android",
+                "type": "github"
+            },
+            {
+                "title": "PagerSlidingTabStrip",
+                "href": "https://github.com/astuetz/PagerSlidingTabStrip",
+                "github": "astuetz/PagerSlidingTabStrip",
+                "type": "github"
+            },
+            {
+                "title": "Page View indicator",
+                "href": "https://github.com/JakeWharton/ViewPagerIndicator",
+                "github": "JakeWharton/ViewPagerIndicator",
+                "type": "github"
+            },
+            {
+                "title": "MaterialDrawer",
+                "href": "https://github.com/mikepenz/MaterialDrawer",
+                "github": "mikepenz/MaterialDrawer",
+                "type": "github"
+            },
+            {
+                "title": "Debug-Artist",
+                "href": "https://github.com/baristaventures/debug-artist",
+                "github": "baristaventures/debug-artist",
+                "type": "github"
+            },
+            {
+                "title": "Floating-Navigation-View",
+                "href": "https://github.com/andremion/Floating-Navigation-View",
+                "github": "andremion/Floating-Navigation-View",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Animations",
+        "childrens": [
+            {
+                "title": "NineOldAndroids",
+                "href": "https://github.com/JakeWharton/NineOldAndroids",
+                "github": "JakeWharton/NineOldAndroids",
+                "type": "github"
+            },
+            {
+                "title": "Rebound",
+                "href": "https://github.com/facebook/rebound",
+                "github": "facebook/rebound",
+                "type": "github"
+            },
+            {
+                "title": "Android View Animations",
+                "href": "https://github.com/daimajia/AndroidViewAnimations",
+                "github": "daimajia/AndroidViewAnimations",
+                "type": "github"
+            },
+            {
+                "title": "Android-Transition",
+                "href": "https://github.com/kaichunlin/android-transition",
+                "github": "kaichunlin/android-transition",
+                "type": "github"
+            },
+            {
+                "title": "Android-View-Actions",
+                "href": "https://github.com/dtx12/AndroidAnimationsActions",
+                "github": "dtx12/AndroidAnimationsActions",
+                "type": "github"
+            },
+            {
+                "title": "Swipper",
+                "href": "https://github.com/sdsmdg/Swipper",
+                "github": "sdsmdg/Swipper",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Images",
+        "childrens": [
+            {
+                "title": "Crescento",
+                "href": "https://github.com/developer-shivam/crescento",
+                "github": "developer-shivam/crescento",
+                "type": "github"
+            },
+            {
+                "title": "android-crop",
+                "href": "https://github.com/jdamcd/android-crop",
+                "github": "jdamcd/android-crop",
+                "type": "github"
+            },
+            {
+                "title": "CircularImageView",
+                "href": "https://github.com/Pkmmte/CircularImageView",
+                "github": "Pkmmte/CircularImageView",
+                "type": "github"
+            },
+            {
+                "title": "Android-Image-Filter",
+                "href": "https://github.com/ragnraok/android-image-filter",
+                "github": "ragnraok/android-image-filter",
+                "type": "github"
+            },
+            {
+                "title": "Compressor",
+                "href": "https://github.com/zetbaitsu/Compressor",
+                "github": "zetbaitsu/Compressor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Inputs",
+        "childrens": [
+            {
+                "title": "FloatingLabel",
+                "href": "https://github.com/hardik-trivedi/FloatingLabel",
+                "github": "hardik-trivedi/FloatingLabel",
+                "type": "github"
+            },
+            {
+                "title": "MaterialEditText",
+                "href": "https://github.com/rengwuxian/MaterialEditText",
+                "github": "rengwuxian/MaterialEditText",
+                "type": "github"
+            },
+            {
+                "title": "Emojicon",
+                "href": "https://github.com/rockerhieu/emojicon",
+                "github": "rockerhieu/emojicon",
+                "type": "github"
+            },
+            {
+                "title": "MaterialSearchBar",
+                "href": "https://github.com/mancj/MaterialSearchBar",
+                "github": "mancj/MaterialSearchBar",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Loading Images",
+        "childrens": [
+            {
+                "title": "Picasso",
+                "href": "https://github.com/square/picasso",
+                "github": "square/picasso",
+                "type": "github"
+            },
+            {
+                "title": "Universal Image Loader",
+                "href": "https://github.com/nostra13/Android-Universal-Image-Loader",
+                "github": "nostra13/Android-Universal-Image-Loader",
+                "type": "github"
+            },
+            {
+                "title": "Glide",
+                "href": "https://github.com/bumptech/glide",
+                "github": "bumptech/glide",
+                "type": "github"
+            },
+            {
+                "title": "Fresco",
+                "href": "https://github.com/facebook/fresco",
+                "github": "facebook/fresco",
+                "type": "github"
+            },
+            {
+                "title": "Glide Bitmap Pool",
+                "href": "https://github.com/amitshekhariitbhu/GlideBitmapPool",
+                "github": "amitshekhariitbhu/GlideBitmapPool",
+                "type": "github"
+            },
+            {
+                "title": "MediaPicker",
+                "href": "https://github.com/alhazmy13/MediaPicker",
+                "github": "alhazmy13/MediaPicker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video",
+        "childrens": [
+            {
+                "title": "ijkplayer",
+                "href": "https://github.com/Bilibili/ijkplayer",
+                "github": "Bilibili/ijkplayer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Camera",
+        "childrens": [
+            {
+                "title": "MagicalCamera",
+                "href": "https://github.com/fabian7593/MagicalCamera",
+                "github": "fabian7593/MagicalCamera",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JSON",
+        "childrens": [
+            {
+                "title": "Gson",
+                "href": "https://github.com/google/gson",
+                "github": "google/gson",
+                "type": "github"
+            },
+            {
+                "title": "Jackson JSON Processor",
+                "href": "https://github.com/FasterXML/jackson",
+                "github": "FasterXML/jackson",
+                "type": "github"
+            },
+            {
+                "title": "Moshi",
+                "href": "https://github.com/square/moshi",
+                "github": "square/moshi",
+                "type": "github"
+            },
+            {
+                "title": "Catcho",
+                "href": "https://github.com/alhazmy13/Catcho",
+                "github": "alhazmy13/Catcho",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "Ion",
+                "href": "https://github.com/koush/ion",
+                "github": "koush/ion",
+                "type": "github"
+            },
+            {
+                "title": "OkHttp",
+                "href": "https://github.com/square/okhttp",
+                "github": "square/okhttp",
+                "type": "github"
+            },
+            {
+                "title": "Asynchronous Http Client",
+                "href": "https://github.com/loopj/android-async-http",
+                "github": "loopj/android-async-http",
+                "type": "github"
+            },
+            {
+                "title": "RoboSpice",
+                "href": "https://github.com/stephanenicolas/robospice",
+                "github": "stephanenicolas/robospice",
+                "type": "github"
+            },
+            {
+                "title": "IceNet",
+                "href": "https://github.com/anton46/IceNet",
+                "github": "anton46/IceNet",
+                "type": "github"
+            },
+            {
+                "title": "IceSoap",
+                "href": "https://github.com/AlexGilleran/IceSoap",
+                "github": "AlexGilleran/IceSoap",
+                "type": "github"
+            },
+            {
+                "title": "node-android",
+                "href": "https://github.com/InstantWebP2P/node-android",
+                "github": "InstantWebP2P/node-android",
+                "type": "github"
+            },
+            {
+                "title": "HappyDns",
+                "href": "https://github.com/qiniu/happy-dns-android",
+                "github": "qiniu/happy-dns-android",
+                "type": "github"
+            },
+            {
+                "title": "RESTMock",
+                "href": "https://github.com/andrzejchm/RESTMock",
+                "github": "andrzejchm/RESTMock",
+                "type": "github"
+            },
+            {
+                "title": "Fast-Android-Networking",
+                "href": "https://github.com/amitshekhariitbhu/Fast-Android-Networking",
+                "github": "amitshekhariitbhu/Fast-Android-Networking",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logger",
+        "childrens": [
+            {
+                "title": "logger",
+                "href": "https://github.com/orhanobut/logger",
+                "github": "orhanobut/logger",
+                "type": "github"
+            },
+            {
+                "title": "timber",
+                "href": "https://github.com/JakeWharton/timber",
+                "github": "JakeWharton/timber",
+                "type": "github"
+            },
+            {
+                "title": "LoggingInterceptor",
+                "href": "https://github.com/ihsanbal/LoggingInterceptor",
+                "github": "ihsanbal/LoggingInterceptor",
+                "type": "github"
+            },
+            {
+                "title": "Bugfender",
+                "href": "https://github.com/bugfender/BugfenderSDK-android-sample",
+                "github": "bugfender/BugfenderSDK-android-sample",
+                "type": "github"
+            },
+            {
+                "title": "EzyLogger",
+                "href": "https://github.com/afiqiqmal/EzyLogger",
+                "github": "afiqiqmal/EzyLogger",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Notifications",
+        "childrens": [
+            {
+                "title": "android-remote-notifications",
+                "href": "https://github.com/kaiwinter/android-remote-notifications",
+                "github": "kaiwinter/android-remote-notifications",
+                "type": "github"
+            },
+            {
+                "title": "Android HeartBeat Fixer",
+                "href": "https://github.com/joaopedronardari/AndroidHeartBeatFixer",
+                "github": "joaopedronardari/AndroidHeartBeatFixer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "DbInspector",
+                "href": "https://github.com/infinum/android_dbinspector",
+                "github": "infinum/android_dbinspector",
+                "type": "github"
+            },
+            {
+                "title": "SQLite Asset Helper",
+                "href": "https://github.com/jgilfelt/android-sqlite-asset-helper",
+                "github": "jgilfelt/android-sqlite-asset-helper",
+                "type": "github"
+            },
+            {
+                "title": "Realm",
+                "href": "https://github.com/realm/realm-java",
+                "github": "realm/realm-java",
+                "type": "github"
+            },
+            {
+                "title": "Realm Asset Helper",
+                "href": "https://github.com/eggheadgames/android-realm-asset-helper",
+                "github": "eggheadgames/android-realm-asset-helper",
+                "type": "github"
+            },
+            {
+                "title": "RestorableSQLiteDatabase",
+                "href": "https://github.com/yaa110/RestorableSQLiteDatabase",
+                "github": "yaa110/RestorableSQLiteDatabase",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM",
+        "childrens": [
+            {
+                "title": "requery",
+                "href": "https://github.com/requery/requery",
+                "github": "requery/requery",
+                "type": "github"
+            },
+            {
+                "title": "DBFlow",
+                "href": "https://github.com/Raizlabs/DBFlow",
+                "github": "Raizlabs/DBFlow",
+                "type": "github"
+            },
+            {
+                "title": "NexusData",
+                "href": "https://github.com/dkharrat/NexusData",
+                "github": "dkharrat/NexusData",
+                "type": "github"
+            },
+            {
+                "title": "SimpleNoSQL",
+                "href": "https://github.com/Jearil/SimpleNoSQL",
+                "github": "Jearil/SimpleNoSQL",
+                "type": "github"
+            },
+            {
+                "title": "RxSimpleNoSQL",
+                "href": "https://github.com/xmartlabs/RxSimpleNoSQL",
+                "github": "xmartlabs/RxSimpleNoSQL",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "REST",
+        "childrens": [
+            {
+                "title": "Spring for Android - Rest Template",
+                "href": "https://github.com/spring-projects/spring-android",
+                "github": "spring-projects/spring-android",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Robotium",
+                "href": "https://github.com/robotiumtech/robotium",
+                "github": "robotiumtech/robotium",
+                "type": "github"
+            },
+            {
+                "title": "AssertJ Android",
+                "href": "https://github.com/square/assertj-android",
+                "github": "square/assertj-android",
+                "type": "github"
+            },
+            {
+                "title": "Green Coffee",
+                "href": "https://github.com/mauriciotogneri/green-coffee",
+                "github": "mauriciotogneri/green-coffee",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Maps",
+        "childrens": [
+            {
+                "title": "Google-Directions-Android",
+                "href": "https://github.com/jd-alexander/Google-Directions-Android",
+                "github": "jd-alexander/Google-Directions-Android",
+                "type": "github"
+            },
+            {
+                "title": "Android Maps Extensions",
+                "href": "https://github.com/mg6maciej/android-maps-extensions",
+                "github": "mg6maciej/android-maps-extensions",
+                "type": "github"
+            },
+            {
+                "title": "Clusterkraf",
+                "href": "https://github.com/twotoasters/clusterkraf",
+                "github": "twotoasters/clusterkraf",
+                "type": "github"
+            },
+            {
+                "title": "MapScaleView",
+                "href": "https://github.com/pengrad/MapScaleView",
+                "github": "pengrad/MapScaleView",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utility",
+        "childrens": [
+            {
+                "title": "Conceal SharedPreferences",
+                "href": "https://github.com/afiqiqmal/ConcealSharedPreference-Android",
+                "github": "afiqiqmal/ConcealSharedPreference-Android",
+                "type": "github"
+            },
+            {
+                "title": "Otto",
+                "href": "https://github.com/square/otto",
+                "github": "square/otto",
+                "type": "github"
+            },
+            {
+                "title": "Weak handler",
+                "href": "https://github.com/badoo/android-weak-handler",
+                "github": "badoo/android-weak-handler",
+                "type": "github"
+            },
+            {
+                "title": "Secure Preference Manager",
+                "href": "https://github.com/prashantsolanki3/Secure-Pref-Manager",
+                "github": "prashantsolanki3/Secure-Pref-Manager",
+                "type": "github"
+            },
+            {
+                "title": "LeakCanary",
+                "href": "https://github.com/square/leakcanary",
+                "github": "square/leakcanary",
+                "type": "github"
+            },
+            {
+                "title": "Drekkar",
+                "href": "https://github.com/coshx/drekkar",
+                "github": "coshx/drekkar",
+                "type": "github"
+            },
+            {
+                "title": "Androl4b",
+                "href": "https://github.com/sh4hin/Androl4b",
+                "github": "sh4hin/Androl4b",
+                "type": "github"
+            },
+            {
+                "title": "DroidMVP",
+                "href": "https://github.com/andrzejchm/DroidMVP",
+                "github": "andrzejchm/DroidMVP",
+                "type": "github"
+            },
+            {
+                "title": "Gota",
+                "href": "https://github.com/alhazmy13/Gota",
+                "github": "alhazmy13/Gota",
+                "type": "github"
+            },
+            {
+                "title": "EasyDeviceInfo",
+                "href": "https://github.com/nisrulz/easydeviceinfo",
+                "github": "nisrulz/easydeviceinfo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging Tools",
+        "childrens": [
+            {
+                "title": "Linx",
+                "href": "https://github.com/pedrovgs/Lynx",
+                "github": "pedrovgs/Lynx",
+                "type": "github"
+            },
+            {
+                "title": "Scalpel",
+                "href": "https://github.com/JakeWharton/scalpel",
+                "github": "JakeWharton/scalpel",
+                "type": "github"
+            },
+            {
+                "title": "Stetho",
+                "href": "https://github.com/facebook/stetho",
+                "github": "facebook/stetho",
+                "type": "github"
+            },
+            {
+                "title": "Android Debug Database",
+                "href": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
+                "github": "amitshekhariitbhu/Android-Debug-Database",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Wireless",
+        "childrens": [
+            {
+                "title": "SmartGattLib",
+                "href": "https://github.com/movisens/SmartGattLib",
+                "github": "movisens/SmartGattLib",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chat & Messaging",
+        "childrens": [
+            {
+                "title": "Applozic Android Chat SDK",
+                "href": "https://github.com/AppLozic/Applozic-Android-SDK",
+                "github": "AppLozic/Applozic-Android-SDK",
+                "type": "github"
+            },
+            {
+                "title": "Qiscus SDK",
+                "href": "https://github.com/qiscus/qiscus-sdk-android",
+                "github": "qiscus/qiscus-sdk-android",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Custom Dialog",
+        "childrens": [
+            {
+                "title": "MediaRecorderDialog",
+                "href": "https://github.com/alhazmy13/MediaRecorderDialog",
+                "github": "alhazmy13/MediaRecorderDialog",
+                "type": "github"
+            },
+            {
+                "title": "HijriDatePicker",
+                "href": "https://github.com/alhazmy13/HijriDatePicker",
+                "github": "alhazmy13/HijriDatePicker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Version Checking",
+        "childrens": [
+            {
+                "title": "AppUpdater",
+                "href": "https://github.com/javiersantos/AppUpdater",
+                "github": "javiersantos/AppUpdater",
+                "type": "github"
+            },
+            {
+                "title": "Gandalf",
+                "href": "https://github.com/btkelly/gandalf",
+                "github": "btkelly/gandalf",
+                "type": "github"
+            },
+            {
+                "title": "Siren",
+                "href": "https://github.com/eggheadgames/Siren",
+                "github": "eggheadgames/Siren",
+                "type": "github"
+            },
+            {
+                "title": "Fit",
+                "href": "https://github.com/KeithYokoma/Fit",
+                "github": "KeithYokoma/Fit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Date & Time",
+        "childrens": [
+            {
+                "title": "ThreeTen Android Backport",
+                "href": "https://github.com/JakeWharton/ThreeTenABP",
+                "github": "JakeWharton/ThreeTenABP",
+                "type": "github"
+            },
+            {
+                "title": "Joda-Time Android",
+                "href": "https://github.com/dlew/joda-time-android",
+                "github": "dlew/joda-time-android",
+                "type": "github"
+            },
+            {
+                "title": "True Time",
+                "href": "https://github.com/instacart/truetime-android",
+                "github": "instacart/truetime-android",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "Tape",
+                "href": "https://github.com/square/tape",
+                "github": "square/tape",
+                "type": "github"
+            },
+            {
+                "title": "Guava: Google Core Libraries for Java",
+                "href": "https://github.com/google/guava",
+                "github": "google/guava",
+                "type": "github"
+            },
+            {
+                "title": "Android Scripting",
+                "href": "https://github.com/damonkohler/sl4a",
+                "github": "damonkohler/sl4a",
+                "type": "github"
+            },
+            {
+                "title": "Android Priority Job Queue",
+                "href": "https://github.com/path/android-priority-jobqueue",
+                "github": "path/android-priority-jobqueue",
+                "type": "github"
+            },
+            {
+                "title": "RateMeMaybe",
+                "href": "https://github.com/nspo/RateMeMaybe",
+                "github": "nspo/RateMeMaybe",
+                "type": "github"
+            },
+            {
+                "title": "Easy Rating Dialog",
+                "href": "https://github.com/fernandodev/easy-rating-dialog",
+                "github": "fernandodev/easy-rating-dialog",
+                "type": "github"
+            },
+            {
+                "title": "ZXing Android-Integration",
+                "href": "https://github.com/zxing/zxing",
+                "github": "zxing/zxing",
+                "type": "github"
+            },
+            {
+                "title": "Gradle Retrolambda Plugin",
+                "href": "https://github.com/evant/gradle-retrolambda",
+                "github": "evant/gradle-retrolambda",
+                "type": "github"
+            },
+            {
+                "title": "RxJava",
+                "href": "https://github.com/ReactiveX/RxJava",
+                "github": "ReactiveX/RxJava",
+                "type": "github"
+            },
+            {
+                "title": "Caffeine",
+                "href": "https://github.com/percolate/caffeine",
+                "github": "percolate/caffeine",
+                "type": "github"
+            },
+            {
+                "title": "AboutLibraries",
+                "href": "https://github.com/mikepenz/AboutLibraries",
+                "github": "mikepenz/AboutLibraries",
+                "type": "github"
+            },
+            {
+                "title": "AudioPlayerView",
+                "href": "https://github.com/HugoMatilla/AudioPlayerView",
+                "github": "HugoMatilla/AudioPlayerView",
+                "type": "github"
+            },
+            {
+                "title": "andle",
+                "href": "https://github.com/Jintin/andle",
+                "github": "Jintin/andle",
+                "type": "github"
+            },
+            {
+                "title": "Typography",
+                "href": "https://github.com/workarounds/typography",
+                "github": "workarounds/typography",
+                "type": "github"
+            },
+            {
+                "title": "Calligraphy",
+                "href": "https://github.com/chrisjenx/Calligraphy",
+                "github": "chrisjenx/Calligraphy",
+                "type": "github"
+            },
+            {
+                "title": "transai",
+                "href": "https://github.com/Jintin/transai",
+                "github": "Jintin/transai",
+                "type": "github"
+            },
+            {
+                "title": "Android-Link-Preview",
+                "href": "https://github.com/LeonardoCardoso/Android-Link-Preview",
+                "github": "LeonardoCardoso/Android-Link-Preview",
+                "type": "github"
+            },
+            {
+                "title": "Sensey",
+                "href": "https://github.com/nisrulz/sensey",
+                "github": "nisrulz/sensey",
+                "type": "github"
+            },
+            {
+                "title": "UserAwareVideoView",
+                "href": "https://github.com/kevalpatel2106/UserAwareVideoView",
+                "github": "kevalpatel2106/UserAwareVideoView",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "Google Wear App",
+                "href": "https://github.com/mbcrump/FirstGoogleWearableApp",
+                "github": "mbcrump/FirstGoogleWearableApp",
+                "type": "github"
+            },
+            {
+                "title": "android-blogs",
+                "href": "https://github.com/vbauer/android-blogs",
+                "github": "vbauer/android-blogs",
+                "type": "github"
+            },
+            {
+                "title": "Android Tips & Tricks",
+                "href": "https://github.com/nisrulz/android-tips-tricks",
+                "github": "nisrulz/android-tips-tricks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Podcast",
+        "childrens": [
+            {
+                "title": "The Context",
+                "href": "https://github.com/artem-zinnatullin/TheContext-Podcast",
+                "github": "artem-zinnatullin/TheContext-Podcast",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML, CSS and Javascript",
+        "childrens": [
+            {
+                "title": "React Native",
+                "href": "https://github.com/facebook/react-native",
+                "github": "facebook/react-native",
+                "type": "github"
+            },
+            {
+                "title": "Apache Cordova",
+                "href": "https://github.com/apache/cordova-android",
+                "github": "apache/cordova-android",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala",
+        "childrens": [
+            {
+                "title": "Scaloid",
+                "href": "https://github.com/pocorall/scaloid",
+                "github": "pocorall/scaloid",
+                "type": "github"
+            },
+            {
+                "title": "Macroid",
+                "href": "https://github.com/47deg/macroid",
+                "github": "47deg/macroid",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Groovy",
+        "childrens": [
+            {
+                "title": "Groovy Language Support for Android",
+                "href": "https://github.com/groovy/groovy-android-gradle-plugin",
+                "github": "groovy/groovy-android-gradle-plugin",
+                "type": "github"
+            },
+            {
+                "title": "SwissKnife",
+                "href": "https://github.com/Arasthel/SwissKnife",
+                "github": "Arasthel/SwissKnife",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Kotlin",
+        "childrens": [
+            {
+                "title": "Anko",
+                "href": "https://github.com/Kotlin/anko",
+                "github": "Kotlin/anko",
+                "type": "github"
+            },
+            {
+                "title": "Kotterknife",
+                "href": "https://github.com/JakeWharton/kotterknife",
+                "github": "JakeWharton/kotterknife",
+                "type": "github"
+            },
+            {
+                "title": "Android Kotlin Samples",
+                "href": "https://github.com/irontec/android-kotlin-samples",
+                "github": "irontec/android-kotlin-samples",
+                "type": "github"
+            },
+            {
+                "title": "KAndroid",
+                "href": "https://github.com/pawegio/KAndroid",
+                "github": "pawegio/KAndroid",
+                "type": "github"
+            },
+            {
+                "title": "RxKotlin/Pocket",
+                "href": "https://github.com/RxKotlin/Pocket",
+                "github": "RxKotlin/Pocket",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Performance",
+        "childrens": [
+            {
+                "title": "awesome-android-performance",
+                "href": "https://github.com/Juude/awesome-android-performance",
+                "github": "Juude/awesome-android-performance",
+                "type": "github"
+            }
+        ]
+    }
+]

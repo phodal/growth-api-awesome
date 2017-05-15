@@ -1,0 +1,541 @@
+[
+    {
+        "heading": "Code Architecture",
+        "childrens": [
+            {
+                "title": "redux-schema",
+                "href": "https://github.com/ddsol/redux-schema",
+                "github": "ddsol/redux-schema",
+                "type": "github"
+            },
+            {
+                "title": "redux-tcomb",
+                "href": "https://github.com/gcanti/redux-tcomb",
+                "github": "gcanti/redux-tcomb",
+                "type": "github"
+            },
+            {
+                "title": "redux-action-tree",
+                "href": "https://github.com/cerebral/redux-action-tree",
+                "github": "cerebral/redux-action-tree",
+                "type": "github"
+            },
+            {
+                "title": "redux-elm",
+                "href": "https://github.com/salsita/redux-elm",
+                "github": "salsita/redux-elm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "redux-orm",
+                "href": "https://github.com/tommikaikkonen/redux-orm",
+                "github": "tommikaikkonen/redux-orm",
+                "type": "github"
+            },
+            {
+                "title": "redux-api-middleware",
+                "href": "https://github.com/agraboso/redux-api-middleware",
+                "github": "agraboso/redux-api-middleware",
+                "type": "github"
+            },
+            {
+                "title": "redux-ignore",
+                "href": "https://github.com/omnidan/redux-ignore",
+                "github": "omnidan/redux-ignore",
+                "type": "github"
+            },
+            {
+                "title": "redux-modifiers",
+                "href": "https://github.com/calvinfroedge/redux-modifiers",
+                "github": "calvinfroedge/redux-modifiers",
+                "type": "github"
+            },
+            {
+                "title": "rereduce",
+                "href": "https://github.com/slorber/rereduce",
+                "github": "slorber/rereduce",
+                "type": "github"
+            },
+            {
+                "title": "redux-search",
+                "href": "https://github.com/treasure-data/redux-search",
+                "github": "treasure-data/redux-search",
+                "type": "github"
+            },
+            {
+                "title": "redux-logger",
+                "href": "https://github.com/evgenyrodionov/redux-logger",
+                "github": "evgenyrodionov/redux-logger",
+                "type": "github"
+            },
+            {
+                "title": "redux-immutable",
+                "href": "https://github.com/gajus/redux-immutable",
+                "github": "gajus/redux-immutable",
+                "type": "github"
+            },
+            {
+                "title": "reselect",
+                "href": "https://github.com/reactjs/reselect",
+                "github": "reactjs/reselect",
+                "type": "github"
+            },
+            {
+                "title": "redux-requests",
+                "href": "https://github.com/idolize/redux-requests",
+                "github": "idolize/redux-requests",
+                "type": "github"
+            },
+            {
+                "title": "redux-undo",
+                "href": "https://github.com/omnidan/redux-undo",
+                "github": "omnidan/redux-undo",
+                "type": "github"
+            },
+            {
+                "title": "redux-bug-reporter",
+                "href": "https://github.com/dtschust/redux-bug-reporter",
+                "github": "dtschust/redux-bug-reporter",
+                "type": "github"
+            },
+            {
+                "title": "redux-transducers",
+                "href": "https://github.com/acdlite/redux-transducers",
+                "github": "acdlite/redux-transducers",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Store Persistence",
+        "childrens": [
+            {
+                "title": "redux-storage",
+                "href": "https://github.com/michaelcontento/redux-storage",
+                "github": "michaelcontento/redux-storage",
+                "type": "github"
+            },
+            {
+                "title": "redux-persist",
+                "href": "https://github.com/rt2zz/redux-persist",
+                "github": "rt2zz/redux-persist",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Side Effects",
+        "childrens": [
+            {
+                "title": "redux-saga",
+                "href": "https://github.com/yelouafi/redux-saga",
+                "github": "yelouafi/redux-saga",
+                "type": "github"
+            },
+            {
+                "title": "redux-promise-middleware",
+                "href": "https://github.com/pburtchaell/redux-promise-middleware",
+                "github": "pburtchaell/redux-promise-middleware",
+                "type": "github"
+            },
+            {
+                "title": "redux-effects",
+                "href": "https://github.com/redux-effects/redux-effects",
+                "github": "redux-effects/redux-effects",
+                "type": "github"
+            },
+            {
+                "title": "redux-thunk",
+                "href": "https://github.com/gaearon/redux-thunk",
+                "github": "gaearon/redux-thunk",
+                "type": "github"
+            },
+            {
+                "title": "redux-connect",
+                "href": "https://github.com/makeomatic/redux-connect",
+                "github": "makeomatic/redux-connect",
+                "type": "github"
+            },
+            {
+                "title": "redux-loop",
+                "href": "https://github.com/redux-loop/redux-loop",
+                "github": "redux-loop/redux-loop",
+                "type": "github"
+            },
+            {
+                "title": "redux-side-effects",
+                "href": "https://github.com/salsita/redux-side-effects",
+                "github": "salsita/redux-side-effects",
+                "type": "github"
+            },
+            {
+                "title": "redux-logic",
+                "href": "https://github.com/jeffbski/redux-logic",
+                "github": "jeffbski/redux-logic",
+                "type": "github"
+            },
+            {
+                "title": "redux-observable",
+                "href": "https://github.com/redux-observable/redux-observable",
+                "github": "redux-observable/redux-observable",
+                "type": "github"
+            },
+            {
+                "title": "redux-ship",
+                "href": "https://github.com/clarus/redux-ship",
+                "github": "clarus/redux-ship",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Style",
+        "childrens": [
+            {
+                "title": "redux-act",
+                "href": "https://github.com/pauldijou/redux-act",
+                "github": "pauldijou/redux-act",
+                "type": "github"
+            },
+            {
+                "title": "redux-crud",
+                "href": "https://github.com/Versent/redux-crud",
+                "github": "Versent/redux-crud",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dev tools / Inspection tools",
+        "childrens": [
+            {
+                "title": "redux-devtools-inspector",
+                "href": "https://github.com/alexkuz/redux-devtools-inspector",
+                "github": "alexkuz/redux-devtools-inspector",
+                "type": "github"
+            },
+            {
+                "title": "redux-diff-logger",
+                "href": "https://github.com/fcomb/redux-diff-logger",
+                "github": "fcomb/redux-diff-logger",
+                "type": "github"
+            },
+            {
+                "title": "redux-devtools-chart-monitor",
+                "href": "https://github.com/romseguy/redux-devtools-chart-monitor",
+                "github": "romseguy/redux-devtools-chart-monitor",
+                "type": "github"
+            },
+            {
+                "title": "redux-devtools",
+                "href": "https://github.com/gaearon/redux-devtools",
+                "github": "gaearon/redux-devtools",
+                "type": "github"
+            },
+            {
+                "title": "redux-devtools-dispatch",
+                "href": "https://github.com/YoruNoHikage/redux-devtools-dispatch",
+                "github": "YoruNoHikage/redux-devtools-dispatch",
+                "type": "github"
+            },
+            {
+                "title": "redux-devtools-dock-monitor",
+                "href": "https://github.com/gaearon/redux-devtools-dock-monitor",
+                "github": "gaearon/redux-devtools-dock-monitor",
+                "type": "github"
+            },
+            {
+                "title": "redux-devtools-filterable-log-monitor",
+                "href": "https://github.com/bvaughn/redux-devtools-filterable-log-monitor",
+                "github": "bvaughn/redux-devtools-filterable-log-monitor",
+                "type": "github"
+            },
+            {
+                "title": "redux-devtools-log-monitor",
+                "href": "https://github.com/gaearon/redux-devtools-log-monitor",
+                "github": "gaearon/redux-devtools-log-monitor",
+                "type": "github"
+            },
+            {
+                "title": "remote-redux-devtools",
+                "href": "https://github.com/zalmoxisus/remote-redux-devtools",
+                "github": "zalmoxisus/remote-redux-devtools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Integration",
+        "childrens": [
+            {
+                "title": "redux-test-recorder",
+                "href": "https://github.com/conorhastings/redux-test-recorder",
+                "github": "conorhastings/redux-test-recorder",
+                "type": "github"
+            },
+            {
+                "title": "react-redux",
+                "href": "https://github.com/reactjs/react-redux",
+                "github": "reactjs/react-redux",
+                "type": "github"
+            },
+            {
+                "title": "react-easy-universal",
+                "href": "https://github.com/keystonejs/react-easy-universal",
+                "github": "keystonejs/react-easy-universal",
+                "type": "github"
+            },
+            {
+                "title": "redux-form-material-ui",
+                "href": "https://github.com/erikras/redux-form-material-ui",
+                "github": "erikras/redux-form-material-ui",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Routing",
+        "childrens": [
+            {
+                "title": "redux-async-connect",
+                "href": "https://github.com/Rezonans/redux-async-connect",
+                "github": "Rezonans/redux-async-connect",
+                "type": "github"
+            },
+            {
+                "title": "redux-tiny-router",
+                "href": "https://github.com/Agamennon/redux-tiny-router",
+                "github": "Agamennon/redux-tiny-router",
+                "type": "github"
+            },
+            {
+                "title": "redux-router",
+                "href": "https://github.com/acdlite/redux-router",
+                "github": "acdlite/redux-router",
+                "type": "github"
+            },
+            {
+                "title": "react-router-redux",
+                "href": "https://github.com/reactjs/react-router-redux",
+                "github": "reactjs/react-router-redux",
+                "type": "github"
+            },
+            {
+                "title": "ground-control",
+                "href": "https://github.com/raisemarketplace/ground-control",
+                "github": "raisemarketplace/ground-control",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forms",
+        "childrens": [
+            {
+                "title": "redux-form",
+                "href": "https://github.com/erikras/redux-form",
+                "github": "erikras/redux-form",
+                "type": "github"
+            },
+            {
+                "title": "react-redux-form",
+                "href": "https://github.com/davidkpiano/react-redux-form",
+                "github": "davidkpiano/react-redux-form",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Component State",
+        "childrens": [
+            {
+                "title": "redux-react-local",
+                "href": "https://github.com/threepointone/redux-react-local",
+                "github": "threepointone/redux-react-local",
+                "type": "github"
+            },
+            {
+                "title": "redux-ui",
+                "href": "https://github.com/tonyhb/redux-ui",
+                "github": "tonyhb/redux-ui",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Flux",
+        "childrens": [
+            {
+                "title": "redux-actions",
+                "href": "https://github.com/acdlite/redux-actions",
+                "github": "acdlite/redux-actions",
+                "type": "github"
+            },
+            {
+                "title": "redux-promise",
+                "href": "https://github.com/acdlite/redux-promise",
+                "github": "acdlite/redux-promise",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Backbone",
+        "childrens": [
+            {
+                "title": "backbone-redux",
+                "href": "https://github.com/redbooth/backbone-redux",
+                "github": "redbooth/backbone-redux",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Falcor",
+        "childrens": [
+            {
+                "title": "redux-falcor",
+                "href": "https://github.com/ekosz/redux-falcor",
+                "github": "ekosz/redux-falcor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "RxJS",
+        "childrens": [
+            {
+                "title": "redux-observable",
+                "href": "https://github.com/redux-observable/redux-observable",
+                "github": "redux-observable/redux-observable",
+                "type": "github"
+            },
+            {
+                "title": "rx-redux",
+                "href": "https://github.com/jas-chen/rx-redux",
+                "github": "jas-chen/rx-redux",
+                "type": "github"
+            },
+            {
+                "title": "redux-rx",
+                "href": "https://github.com/acdlite/redux-rx",
+                "github": "acdlite/redux-rx",
+                "type": "github"
+            },
+            {
+                "title": "redurx",
+                "href": "https://github.com/shiftyp/redurx",
+                "github": "shiftyp/redurx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Electron",
+        "childrens": [
+            {
+                "title": "redux-electron-store",
+                "href": "https://github.com/samiskin/redux-electron-store",
+                "github": "samiskin/redux-electron-store",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deku",
+        "childrens": [
+            {
+                "title": "deku-redux",
+                "href": "https://github.com/troch/deku-redux",
+                "github": "troch/deku-redux",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "redux-rollbar-middleware",
+                "href": "https://github.com/netguru/redux-rollbar-middleware",
+                "github": "netguru/redux-rollbar-middleware",
+                "type": "github"
+            },
+            {
+                "title": "kasia",
+                "href": "https://github.com/outlandishideas/kasia",
+                "github": "outlandishideas/kasia",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boilerplate",
+        "childrens": [
+            {
+                "title": "redux-cli",
+                "href": "https://github.com/SpencerCDixon/redux-cli",
+                "github": "SpencerCDixon/redux-cli",
+                "type": "github"
+            },
+            {
+                "title": "reactuate",
+                "href": "https://github.com/reactuate/reactuate",
+                "github": "reactuate/reactuate",
+                "type": "github"
+            },
+            {
+                "title": "react-chrome-extension-boilerplate",
+                "href": "https://github.com/jhen0409/react-chrome-extension-boilerplate",
+                "github": "jhen0409/react-chrome-extension-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "universal-redux",
+                "href": "https://github.com/bdefore/universal-redux",
+                "github": "bdefore/universal-redux",
+                "type": "github"
+            },
+            {
+                "title": "generator-react-aspnet-boilerplate",
+                "href": "https://github.com/pauldotknopf/react-aspnet-boilerplate",
+                "github": "pauldotknopf/react-aspnet-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "generator-redux",
+                "href": "https://github.com/banderson/generator-redux",
+                "github": "banderson/generator-redux",
+                "type": "github"
+            },
+            {
+                "title": "generator-react-webpack-redux",
+                "href": "https://github.com/stylesuxx/generator-react-webpack-redux",
+                "github": "stylesuxx/generator-react-webpack-redux",
+                "type": "github"
+            },
+            {
+                "title": "socrates",
+                "href": "https://github.com/matthewmueller/socrates",
+                "github": "matthewmueller/socrates",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "redux-core",
+                "href": "https://github.com/jas-chen/redux-core",
+                "github": "jas-chen/redux-core",
+                "type": "github"
+            }
+        ]
+    }
+]

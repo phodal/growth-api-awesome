@@ -1,0 +1,24 @@
+[
+    {
+        "heading": "Code",
+        "childrens": [
+            {
+                "title": "AIMACode",
+                "href": "https://github.com/aimacode",
+                "github": "aimacode",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Learning",
+        "childrens": [
+            {
+                "title": "Awesome Machine Learning",
+                "href": "https://github.com/josephmisiti/awesome-machine-learning",
+                "github": "josephmisiti/awesome-machine-learning",
+                "type": "github"
+            }
+        ]
+    }
+]

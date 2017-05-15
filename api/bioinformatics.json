@@ -1,0 +1,41 @@
+[
+    {
+        "heading": "RNA-Seq",
+        "childrens": [
+            {
+                "title": "Informatics for RNA-seq: A web resource for analysis on the cloud",
+                "href": "https://github.com/griffithlab/rnaseq_tutorial",
+                "github": "griffithlab/rnaseq_tutorial",
+                "type": "github"
+            },
+            {
+                "title": "RNA-seq Analysis",
+                "href": "https://github.com/crazyhottommy/RNA-seq-analysis",
+                "github": "crazyhottommy/RNA-seq-analysis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ChIP-Seq",
+        "childrens": [
+            {
+                "title": "ChIP-seq analysis notes from Tommy Tang",
+                "href": "https://github.com/crazyhottommy/ChIP-seq-analysis",
+                "github": "crazyhottommy/ChIP-seq-analysis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "The Leek group guide to genomics papers",
+                "href": "https://github.com/jtleek/genomicspapers/",
+                "github": "jtleek/genomicspapers/",
+                "type": "github"
+            }
+        ]
+    }
+]

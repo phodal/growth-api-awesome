@@ -1,0 +1,122 @@
+[
+    {
+        "heading": "Tools For Building Bots",
+        "childrens": [
+            {
+                "title": "ChatterBot",
+                "href": "https://github.com/gunthercox/ChatterBot",
+                "github": "gunthercox/ChatterBot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "Qtypes",
+                "href": "https://github.com/superscriptjs/qtypes",
+                "github": "superscriptjs/qtypes",
+                "type": "github"
+            },
+            {
+                "title": "BotKit",
+                "href": "https://github.com/howdyai/botkit",
+                "github": "howdyai/botkit",
+                "type": "github"
+            },
+            {
+                "title": "Claudia Bot Builder",
+                "href": "https://github.com/claudiajs/claudia-bot-builder",
+                "github": "claudiajs/claudia-bot-builder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Facebook Messenger",
+        "childrens": [
+            {
+                "title": "Go",
+                "href": "https://github.com/paked/messenger",
+                "github": "paked/messenger",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Slack",
+        "childrens": [
+            {
+                "title": "Node.js (Official)",
+                "href": "https://github.com/slackhq/node-slack-sdk",
+                "github": "slackhq/node-slack-sdk",
+                "type": "github"
+            },
+            {
+                "title": "Python (Official)",
+                "href": "https://github.com/slackhq/python-slackclient",
+                "github": "slackhq/python-slackclient",
+                "type": "github"
+            },
+            {
+                "title": "Relax (scalable RTM library to scale to 1000's of teams)",
+                "href": "https://github.com/zerobotlabs/relax",
+                "github": "zerobotlabs/relax",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Telegram",
+        "childrens": [
+            {
+                "title": "Node.js",
+                "href": "https://github.com/yagop/node-telegram-bot-api",
+                "github": "yagop/node-telegram-bot-api",
+                "type": "github"
+            },
+            {
+                "title": "Node.js",
+                "href": "https://github.com/telegraf/telegraf",
+                "github": "telegraf/telegraf",
+                "type": "github"
+            },
+            {
+                "title": "PHP",
+                "href": "https://github.com/irazasyed/telegram-bot-sdk",
+                "github": "irazasyed/telegram-bot-sdk",
+                "type": "github"
+            },
+            {
+                "title": "Python",
+                "href": "https://github.com/python-telegram-bot/python-telegram-bot",
+                "github": "python-telegram-bot/python-telegram-bot",
+                "type": "github"
+            },
+            {
+                "title": "C#",
+                "href": "https://github.com/MrRoundRobin/telegram.bot",
+                "github": "MrRoundRobin/telegram.bot",
+                "type": "github"
+            },
+            {
+                "title": "Go",
+                "href": "https://github.com/tucnak/telebot",
+                "github": "tucnak/telebot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Facebook Chatbot Tutorial",
+                "href": "https://github.com/AdrianKrebs/facebook-chatbot-tutorial",
+                "github": "AdrianKrebs/facebook-chatbot-tutorial",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "heading": "Angular 2 General Resources",
+        "childrens": [
+            {
+                "title": "Official GitHub Repo",
+                "href": "https://github.com/angular/angular",
+                "github": "angular/angular",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Angular 2 Server-Side Rendering",
+        "childrens": [
+            {
+                "title": "Angular 2 Universal Repository (GitHub)",
+                "href": "https://github.com/angular/universal",
+                "github": "angular/universal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Angular 2 Cheatsheet",
+        "childrens": [
+            {
+                "title": "Angular2 Dart cheatsheet",
+                "href": "https://github.com/andresaraujo/angular2_cheatsheet_dart",
+                "github": "andresaraujo/angular2_cheatsheet_dart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Angular 2 Integrations",
+        "childrens": [
+            {
+                "title": "nativescript-angular",
+                "href": "https://github.com/NativeScript/nativescript-angular",
+                "github": "NativeScript/nativescript-angular",
+                "type": "github"
+            },
+            {
+                "title": "react-native-renderer",
+                "href": "https://github.com/angular/react-native-renderer",
+                "github": "angular/react-native-renderer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Angular 2 Components",
+        "childrens": [
+            {
+                "title": "Axponents: of Accessible Web Components (Dylan Barrell)",
+                "href": "https://github.com/dylanb/Axponents/tree/master/angular2",
+                "github": "dylanb/Axponents/tree/master/angular2",
+                "type": "github"
+            },
+            {
+                "title": "ng2-bootstrap: Native Angular2 bootstrap components",
+                "href": "https://github.com/valor-software/ng2-bootstrap",
+                "github": "valor-software/ng2-bootstrap",
+                "type": "github"
+            },
+            {
+                "title": "ngx-meta/core",
+                "href": "https://github.com/ngx-meta/core",
+                "github": "ngx-meta/core",
+                "type": "github"
+            },
+            {
+                "title": "ngx-config/core",
+                "href": "https://github.com/ngx-config/core",
+                "github": "ngx-config/core",
+                "type": "github"
+            },
+            {
+                "title": "ngx-cache/core",
+                "href": "https://github.com/ngx-cache/core",
+                "github": "ngx-cache/core",
+                "type": "github"
+            },
+            {
+                "title": "ngx-i18n-router/core",
+                "href": "https://github.com/ngx-i18n-router/core",
+                "github": "ngx-i18n-router/core",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Universal General Resources",
+        "childrens": [
+            {
+                "title": "Universal Angular 2 Repository (GitHub)",
+                "href": "https://github.com/angular/universal",
+                "github": "angular/universal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Universal Seed Projects",
+        "childrens": [
+            {
+                "title": "fullstack-angular2-starter",
+                "href": "https://github.com/angular-class/fullstack-angular2-starter",
+                "github": "angular-class/fullstack-angular2-starter",
+                "type": "github"
+            },
+            {
+                "title": "ng-seed/universal",
+                "href": "https://github.com/ng-seed/universal",
+                "github": "ng-seed/universal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TypeScript General Resources",
+        "childrens": [
+            {
+                "title": "TypeScript Repository (GitHub)",
+                "href": "https://github.com/Microsoft/TypeScript",
+                "github": "Microsoft/TypeScript",
+                "type": "github"
+            },
+            {
+                "title": "DefinitelyTyped Repository (GitHub)",
+                "href": "https://github.com/borisyankov/DefinitelyTyped",
+                "github": "borisyankov/DefinitelyTyped",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TypeScript Seed Projects",
+        "childrens": [
+            {
+                "title": "ng2-play.ts",
+                "href": "https://github.com/pkozlowski-opensource/ng2-play.ts#awesome-angular2",
+                "github": "pkozlowski-opensource/ng2-play.ts#awesome-angular2",
+                "type": "github"
+            },
+            {
+                "title": "Angular2Go",
+                "href": "https://github.com/johnpapa/angular2-go#awesome-angular2",
+                "github": "johnpapa/angular2-go#awesome-angular2",
+                "type": "github"
+            },
+            {
+                "title": "Angular 2 Samples",
+                "href": "https://github.com/thelgevold/angular-2-samples",
+                "github": "thelgevold/angular-2-samples",
+                "type": "github"
+            },
+            {
+                "title": "ng-seed/spa",
+                "href": "https://github.com/ng-seed/spa",
+                "github": "ng-seed/spa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dart General Resources",
+        "childrens": [
+            {
+                "title": "Dart Organization (GitHub)",
+                "href": "https://github.com/dart-lang",
+                "github": "dart-lang",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dart Seed Projects",
+        "childrens": [
+            {
+                "title": "Angular 2 Dart Quickstart",
+                "href": "https://github.com/andresaraujo/ng2_dart_quickstart",
+                "github": "andresaraujo/ng2_dart_quickstart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dart Demo, Samples, and Examples",
+        "childrens": [
+            {
+                "title": "Angular 2 Samples",
+                "href": "https://github.com/ng2-dart-samples",
+                "github": "ng2-dart-samples",
+                "type": "github"
+            },
+            {
+                "title": "Pipes",
+                "href": "https://github.com/ng2-dart-samples/pipes",
+                "github": "ng2-dart-samples/pipes",
+                "type": "github"
+            },
+            {
+                "title": "Hackernews App",
+                "href": "https://github.com/andresaraujo/ng2_hackernews",
+                "github": "andresaraujo/ng2_hackernews",
+                "type": "github"
+            },
+            {
+                "title": "Router Demo",
+                "href": "https://github.com/andresaraujo/ng2_dart_router_demo",
+                "github": "andresaraujo/ng2_dart_router_demo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Babel General Resources",
+        "childrens": [
+            {
+                "title": "Babel Repository (GitHub)",
+                "href": "https://github.com/babel/babel",
+                "github": "babel/babel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Babel Seed Projects",
+        "childrens": [
+            {
+                "title": "babel-angular2-app",
+                "href": "https://github.com/shuhei/babel-angular2-app",
+                "github": "shuhei/babel-angular2-app",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haxe Seed Projects",
+        "childrens": [
+            {
+                "title": "angular2haxe",
+                "href": "https://github.com/nweedon/angular2haxe",
+                "github": "nweedon/angular2haxe",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala Seed Projects",
+        "childrens": [
+            {
+                "title": "play-angular2",
+                "href": "https://github.com/gdi2290/play-angular2",
+                "github": "gdi2290/play-angular2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ionic 2 General Resources",
+        "childrens": [
+            {
+                "title": "Repository (GitHub)",
+                "href": "https://github.com/driftyco/ionic2",
+                "github": "driftyco/ionic2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "NativeScript Seed Projects",
+        "childrens": [
+            {
+                "title": "sample-Angular2",
+                "href": "https://github.com/NativeScript/sample-Angular2",
+                "github": "NativeScript/sample-Angular2",
+                "type": "github"
+            }
+        ]
+    }
+]

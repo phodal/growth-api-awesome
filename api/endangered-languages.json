@@ -1,0 +1,2035 @@
+[
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "WeSay ",
+                "href": "https://github.com/sillsdev/wesay",
+                "github": "sillsdev/wesay",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Software",
+        "childrens": [
+            {
+                "title": "AGTK ",
+                "href": "https://github.com/lowresourcelanguages/agtk",
+                "github": "lowresourcelanguages/agtk",
+                "type": "github"
+            },
+            {
+                "title": "ark-tweet-nlp ",
+                "href": "https://github.com/FieldDB/ark-tweet-nlp",
+                "github": "FieldDB/ark-tweet-nlp",
+                "type": "github"
+            },
+            {
+                "title": "ArtOfReading",
+                "href": "https://github.com/sillsdev/ArtOfReading",
+                "github": "sillsdev/ArtOfReading",
+                "type": "github"
+            },
+            {
+                "title": "bayesline ",
+                "href": "https://github.com/alvations/bayesline",
+                "github": "alvations/bayesline",
+                "type": "github"
+            },
+            {
+                "title": "bible-corpus-tools",
+                "href": "https://github.com/christos-c/bible-corpus-tools",
+                "github": "christos-c/bible-corpus-tools",
+                "type": "github"
+            },
+            {
+                "title": "BloomDesktop ",
+                "href": "https://github.com/BloomBooks/BloomDesktop",
+                "github": "BloomBooks/BloomDesktop",
+                "type": "github"
+            },
+            {
+                "title": "brain ",
+                "href": "https://github.com/FieldDB/brain",
+                "github": "FieldDB/brain",
+                "type": "github"
+            },
+            {
+                "title": "Bristol Uni MT Morphology tools",
+                "href": "https://github.com/LowResourceLanguages/bristol-mt-morphology",
+                "github": "LowResourceLanguages/bristol-mt-morphology",
+                "type": "github"
+            },
+            {
+                "title": "brown-cluster ",
+                "href": "https://github.com/percyliang/brown-cluster",
+                "github": "percyliang/brown-cluster",
+                "type": "github"
+            },
+            {
+                "title": "cdec ",
+                "href": "https://github.com/redpony/cdec",
+                "github": "redpony/cdec",
+                "type": "github"
+            },
+            {
+                "title": "clam ",
+                "href": "https://github.com/proycon/clam",
+                "github": "proycon/clam",
+                "type": "github"
+            },
+            {
+                "title": "cnminlangwebcollect ",
+                "href": "https://github.com/hyphenliu/cnminlangwebcollect",
+                "github": "hyphenliu/cnminlangwebcollect",
+                "type": "github"
+            },
+            {
+                "title": "Cog ",
+                "href": "https://github.com/sillsdev/cog",
+                "github": "sillsdev/cog",
+                "type": "github"
+            },
+            {
+                "title": "convertextract ",
+                "href": "https://github.com/roedoejet/convertextract",
+                "github": "roedoejet/convertextract",
+                "type": "github"
+            },
+            {
+                "title": "CorpusTools ",
+                "href": "https://github.com/PhonologicalCorpusTools/CorpusTools",
+                "github": "PhonologicalCorpusTools/CorpusTools",
+                "type": "github"
+            },
+            {
+                "title": "CTK ",
+                "href": "https://github.com/LowResourceLanguages/champollion",
+                "github": "LowResourceLanguages/champollion",
+                "type": "github"
+            },
+            {
+                "title": "DataTags ",
+                "href": "https://github.com/FieldDB/DataTags",
+                "github": "FieldDB/DataTags",
+                "type": "github"
+            },
+            {
+                "title": "dataverse ",
+                "href": "https://github.com/IQSS/dataverse",
+                "github": "IQSS/dataverse",
+                "type": "github"
+            },
+            {
+                "title": "dative ",
+                "href": "https://github.com/jrwdunham/dative",
+                "github": "jrwdunham/dative",
+                "type": "github"
+            },
+            {
+                "title": "DeepLearnToolbox ",
+                "href": "https://github.com/FieldDB/DeepLearnToolbox",
+                "github": "FieldDB/DeepLearnToolbox",
+                "type": "github"
+            },
+            {
+                "title": "Desmeme ",
+                "href": "https://github.com/jcgood/desmeme",
+                "github": "jcgood/desmeme",
+                "type": "github"
+            },
+            {
+                "title": "dictdb ",
+                "href": "https://github.com/substack/dictdb",
+                "github": "substack/dictdb",
+                "type": "github"
+            },
+            {
+                "title": "discoursegraphs ",
+                "href": "https://github.com/arne-cl/discoursegraphs",
+                "github": "arne-cl/discoursegraphs",
+                "type": "github"
+            },
+            {
+                "title": "DLTK ",
+                "href": "https://github.com/alvations/DLTK",
+                "github": "alvations/DLTK",
+                "type": "github"
+            },
+            {
+                "title": "ELDER: Endangered Language Data Electronic Repository ",
+                "href": "https://github.com/elderonline/ELDER",
+                "github": "elderonline/ELDER",
+                "type": "github"
+            },
+            {
+                "title": "eopas ",
+                "href": "https://github.com/eopas/eopas",
+                "github": "eopas/eopas",
+                "type": "github"
+            },
+            {
+                "title": "fast_align ",
+                "href": "https://github.com/clab/fast_align",
+                "github": "clab/fast_align",
+                "type": "github"
+            },
+            {
+                "title": "fastText",
+                "href": "https://github.com/facebookresearch/fastText",
+                "github": "facebookresearch/fastText",
+                "type": "github"
+            },
+            {
+                "title": "FieldWorks ",
+                "href": "https://github.com/sillsdev/FieldWorks",
+                "github": "sillsdev/FieldWorks",
+                "type": "github"
+            },
+            {
+                "title": "FLAT - FoLia Linguistic Annotation Tool",
+                "href": "https://github.com/proycon/flat",
+                "github": "proycon/flat",
+                "type": "github"
+            },
+            {
+                "title": "Franc ",
+                "href": "https://github.com/wooorm/franc",
+                "github": "wooorm/franc",
+                "type": "github"
+            },
+            {
+                "title": "FwDocumentation",
+                "href": "https://github.com/sillsdev/FwDocumentation",
+                "github": "sillsdev/FwDocumentation",
+                "type": "github"
+            },
+            {
+                "title": "FwLocalizations",
+                "href": "https://github.com/sillsdev/FwLocalizations",
+                "github": "sillsdev/FwLocalizations",
+                "type": "github"
+            },
+            {
+                "title": "FwSupportTools",
+                "href": "https://github.com/sillsdev/FwSupportTools",
+                "github": "sillsdev/FwSupportTools",
+                "type": "github"
+            },
+            {
+                "title": "Gaia ",
+                "href": "https://github.com/mozilla-b2g/gaia",
+                "github": "mozilla-b2g/gaia",
+                "type": "github"
+            },
+            {
+                "title": "giza-pp",
+                "href": "https://github.com/moses-smt/giza-pp",
+                "github": "moses-smt/giza-pp",
+                "type": "github"
+            },
+            {
+                "title": "Glottolog data ",
+                "href": "https://github.com/clld/glottolog-data",
+                "github": "clld/glottolog-data",
+                "type": "github"
+            },
+            {
+                "title": "graf-python ",
+                "href": "https://github.com/cidles/graf-python",
+                "github": "cidles/graf-python",
+                "type": "github"
+            },
+            {
+                "title": "Gramadóir ",
+                "href": "https://github.com/kscanne/gramadoir",
+                "github": "kscanne/gramadoir",
+                "type": "github"
+            },
+            {
+                "title": "grind",
+                "href": "https://github.com/sillsdev/grind",
+                "github": "sillsdev/grind",
+                "type": "github"
+            },
+            {
+                "title": "hermitcrab",
+                "href": "https://github.com/sillsdev/hermitcrab",
+                "github": "sillsdev/hermitcrab",
+                "type": "github"
+            },
+            {
+                "title": "Hfst",
+                "href": "https://github.com/hfst/",
+                "github": "hfst/",
+                "type": "github"
+            },
+            {
+                "title": "hunspell ",
+                "href": "https://github.com/hunspell/hunspell",
+                "github": "hunspell/hunspell",
+                "type": "github"
+            },
+            {
+                "title": "icu-dotnet",
+                "href": "https://github.com/sillsdev/icu-dotnet",
+                "github": "sillsdev/icu-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "icu4c",
+                "href": "https://github.com/sillsdev/icu4c",
+                "github": "sillsdev/icu4c",
+                "type": "github"
+            },
+            {
+                "title": "iLanguage ",
+                "href": "https://github.com/iLanguage/iLanguage",
+                "github": "iLanguage/iLanguage",
+                "type": "github"
+            },
+            {
+                "title": "ipa-help",
+                "href": "https://github.com/sillsdev/ipa-help",
+                "github": "sillsdev/ipa-help",
+                "type": "github"
+            },
+            {
+                "title": "itweets-geodata ",
+                "href": "https://github.com/kscanne/itweets-geodata",
+                "github": "kscanne/itweets-geodata",
+                "type": "github"
+            },
+            {
+                "title": "jQuery.ime  ",
+                "href": "https://github.com/wikimedia/jquery.ime",
+                "github": "wikimedia/jquery.ime",
+                "type": "github"
+            },
+            {
+                "title": "koreksyon ",
+                "href": "https://github.com/reokatoa/koreksyon",
+                "github": "reokatoa/koreksyon",
+                "type": "github"
+            },
+            {
+                "title": "l20n.js ",
+                "href": "https://github.com/l20n/l20n.js",
+                "github": "l20n/l20n.js",
+                "type": "github"
+            },
+            {
+                "title": "leebock/languages ",
+                "href": "https://github.com/leebock/languages",
+                "github": "leebock/languages",
+                "type": "github"
+            },
+            {
+                "title": "LEGO Unified Concepticon ",
+                "href": "https://github.com/jcgood/concepticon",
+                "github": "jcgood/concepticon",
+                "type": "github"
+            },
+            {
+                "title": "Lex4All ",
+                "href": "https://github.com/lex4all/lex4all",
+                "github": "lex4all/lex4all",
+                "type": "github"
+            },
+            {
+                "title": "LfMerge",
+                "href": "https://github.com/sillsdev/LfMerge",
+                "github": "sillsdev/LfMerge",
+                "type": "github"
+            },
+            {
+                "title": "libpalaso",
+                "href": "https://github.com/sillsdev/libpalaso",
+                "github": "sillsdev/libpalaso",
+                "type": "github"
+            },
+            {
+                "title": "Lingpy ",
+                "href": "https://github.com/lingpy/lingpy",
+                "github": "lingpy/lingpy",
+                "type": "github"
+            },
+            {
+                "title": "low-resource-pos-tagging-2014 ",
+                "href": "https://github.com/dhgarrette/low-resource-pos-tagging-2014/",
+                "github": "dhgarrette/low-resource-pos-tagging-2014/",
+                "type": "github"
+            },
+            {
+                "title": "lrl ",
+                "href": "https://github.com/RichardLitt/lrl",
+                "github": "RichardLitt/lrl",
+                "type": "github"
+            },
+            {
+                "title": "Machine ",
+                "href": "https://github.com/sillsdev/machine",
+                "github": "sillsdev/machine",
+                "type": "github"
+            },
+            {
+                "title": "Make-extensions ",
+                "href": "https://github.com/kscanne/make-extensions",
+                "github": "kscanne/make-extensions",
+                "type": "github"
+            },
+            {
+                "title": "MARY TTS ",
+                "href": "https://github.com/marytts/marytts",
+                "github": "marytts/marytts",
+                "type": "github"
+            },
+            {
+                "title": "maxent",
+                "href": "https://github.com/lzhang10/maxent",
+                "github": "lzhang10/maxent",
+                "type": "github"
+            },
+            {
+                "title": "mgiza",
+                "href": "https://github.com/moses-smt/mgiza",
+                "github": "moses-smt/mgiza",
+                "type": "github"
+            },
+            {
+                "title": "morfessor ",
+                "href": "https://github.com/aalto-speech/morfessor",
+                "github": "aalto-speech/morfessor",
+                "type": "github"
+            },
+            {
+                "title": "mosesdecoder",
+                "href": "https://github.com/moses-smt/mosesdecoder",
+                "github": "moses-smt/mosesdecoder",
+                "type": "github"
+            },
+            {
+                "title": "moz-l10n-tiers ",
+                "href": "https://github.com/kscanne/moz-l10n-tiers",
+                "github": "kscanne/moz-l10n-tiers",
+                "type": "github"
+            },
+            {
+                "title": "Natural ",
+                "href": "https://github.com/NaturalNode/natural",
+                "github": "NaturalNode/natural",
+                "type": "github"
+            },
+            {
+                "title": "NLTK ",
+                "href": "https://github.com/nltk/nltk",
+                "github": "nltk/nltk",
+                "type": "github"
+            },
+            {
+                "title": "node-panlex ",
+                "href": "https://github.com/longnow/node-panlex",
+                "github": "longnow/node-panlex",
+                "type": "github"
+            },
+            {
+                "title": "norma ",
+                "href": "https://github.com/comphist/norma",
+                "github": "comphist/norma",
+                "type": "github"
+            },
+            {
+                "title": "nplm",
+                "href": "https://github.com/moses-smt/nplm",
+                "github": "moses-smt/nplm",
+                "type": "github"
+            },
+            {
+                "title": "octothorpe ",
+                "href": "https://github.com/FieldDB/octothorpe",
+                "github": "FieldDB/octothorpe",
+                "type": "github"
+            },
+            {
+                "title": "OdtXslt",
+                "href": "https://github.com/sillsdev/OdtXslt",
+                "github": "sillsdev/OdtXslt",
+                "type": "github"
+            },
+            {
+                "title": "old-webapp ",
+                "href": "https://github.com/jrwdunham/old-webapp",
+                "github": "jrwdunham/old-webapp",
+                "type": "github"
+            },
+            {
+                "title": "ops-devbox",
+                "href": "https://github.com/sillsdev/ops-devbox",
+                "github": "sillsdev/ops-devbox",
+                "type": "github"
+            },
+            {
+                "title": "panlex-tools ",
+                "href": "https://github.com/longnow/panlex-tools",
+                "github": "longnow/panlex-tools",
+                "type": "github"
+            },
+            {
+                "title": "paradigm",
+                "href": "https://github.com/sillsdev/paradigm",
+                "github": "sillsdev/paradigm",
+                "type": "github"
+            },
+            {
+                "title": "pathway",
+                "href": "https://github.com/sillsdev/pathway",
+                "github": "sillsdev/pathway",
+                "type": "github"
+            },
+            {
+                "title": "pepper ",
+                "href": "https://github.com/korpling/pepper",
+                "github": "korpling/pepper",
+                "type": "github"
+            },
+            {
+                "title": "phonology-assistant",
+                "href": "https://github.com/sillsdev/phonology-assistant",
+                "github": "sillsdev/phonology-assistant",
+                "type": "github"
+            },
+            {
+                "title": "poio-analyzer ",
+                "href": "https://github.com/cidles/poio-analyzer",
+                "github": "cidles/poio-analyzer",
+                "type": "github"
+            },
+            {
+                "title": "poio-api ",
+                "href": "https://github.com/cidles/poio-api",
+                "github": "cidles/poio-api",
+                "type": "github"
+            },
+            {
+                "title": "poio-doc ",
+                "href": "https://github.com/cidles/poio-doc",
+                "github": "cidles/poio-doc",
+                "type": "github"
+            },
+            {
+                "title": "pressagio ",
+                "href": "https://github.com/cidles/pressagio",
+                "github": "cidles/pressagio",
+                "type": "github"
+            },
+            {
+                "title": "PrimerPro",
+                "href": "https://github.com/sillsdev/PrimerPro",
+                "github": "sillsdev/PrimerPro",
+                "type": "github"
+            },
+            {
+                "title": "pyannotation ",
+                "href": "https://github.com/cidles/pyannotation",
+                "github": "cidles/pyannotation",
+                "type": "github"
+            },
+            {
+                "title": "pyDelphin ",
+                "href": "https://github.com/delph-in/pydelphin",
+                "github": "delph-in/pydelphin",
+                "type": "github"
+            },
+            {
+                "title": "Rosetta Pangloss ",
+                "href": "https://github.com/jcgood/rosetta-pangloss",
+                "github": "jcgood/rosetta-pangloss",
+                "type": "github"
+            },
+            {
+                "title": "salm",
+                "href": "https://github.com/moses-smt/salm",
+                "github": "moses-smt/salm",
+                "type": "github"
+            },
+            {
+                "title": "Salt ",
+                "href": "https://github.com/korpling/salt",
+                "github": "korpling/salt",
+                "type": "github"
+            },
+            {
+                "title": "Secwepemc-Facebook ",
+                "href": "https://github.com/kscanne/secwepemc-facebook",
+                "github": "kscanne/secwepemc-facebook",
+                "type": "github"
+            },
+            {
+                "title": "SeedLing ",
+                "href": "https://github.com/alvations/SeedLing",
+                "github": "alvations/SeedLing",
+                "type": "github"
+            },
+            {
+                "title": "Skype in your language ",
+                "href": "https://github.com/akerbeltz/skypeinyourlanguage",
+                "github": "akerbeltz/skypeinyourlanguage",
+                "type": "github"
+            },
+            {
+                "title": "solid",
+                "href": "https://github.com/sillsdev/solid",
+                "github": "sillsdev/solid",
+                "type": "github"
+            },
+            {
+                "title": "StandardFormatLib",
+                "href": "https://github.com/sillsdev/StandardFormatLib",
+                "github": "sillsdev/StandardFormatLib",
+                "type": "github"
+            },
+            {
+                "title": "Stanford CoreNLP ",
+                "href": "https://github.com/stanfordnlp/CoreNLP",
+                "github": "stanfordnlp/CoreNLP",
+                "type": "github"
+            },
+            {
+                "title": "Stanford CoreNLP Python ",
+                "href": "https://github.com/dasmith/stanford-corenlp-python",
+                "github": "dasmith/stanford-corenlp-python",
+                "type": "github"
+            },
+            {
+                "title": "stanza ",
+                "href": "https://github.com/stanfordnlp/stanza",
+                "github": "stanfordnlp/stanza",
+                "type": "github"
+            },
+            {
+                "title": "sugali ",
+                "href": "https://github.com/alvations/sugali",
+                "github": "alvations/sugali",
+                "type": "github"
+            },
+            {
+                "title": "SuGarLike ",
+                "href": "https://github.com/alvations/SuGarLike",
+                "github": "alvations/SuGarLike",
+                "type": "github"
+            },
+            {
+                "title": "TeraDict ",
+                "href": "https://github.com/longnow/TeraDict",
+                "github": "longnow/TeraDict",
+                "type": "github"
+            },
+            {
+                "title": "Tesseract ",
+                "href": "https://github.com/naptha/tesseract.js",
+                "github": "naptha/tesseract.js",
+                "type": "github"
+            },
+            {
+                "title": "TexNLP ",
+                "href": "https://github.com/utcompling/texnlp",
+                "github": "utcompling/texnlp",
+                "type": "github"
+            },
+            {
+                "title": "Toney ",
+                "href": "https://github.com/langtech/toney",
+                "github": "langtech/toney",
+                "type": "github"
+            },
+            {
+                "title": "Toolbox Scripts for ELAN ",
+                "href": "https://github.com/RichardLitt/toolbox-scripts",
+                "github": "RichardLitt/toolbox-scripts",
+                "type": "github"
+            },
+            {
+                "title": "ToolsForFieldLinguistics ",
+                "href": "https://github.com/cesine/ToolsForFieldLinguistics",
+                "github": "cesine/ToolsForFieldLinguistics",
+                "type": "github"
+            },
+            {
+                "title": "translitit-engine ",
+                "href": "https://github.com/gausby/translitit-engine",
+                "github": "gausby/translitit-engine",
+                "type": "github"
+            },
+            {
+                "title": "Tsammalex data ",
+                "href": "https://github.com/clld/tsammalex-data",
+                "github": "clld/tsammalex-data",
+                "type": "github"
+            },
+            {
+                "title": "tweet2learn ",
+                "href": "https://github.com/kscanne/tweet2learn",
+                "github": "kscanne/tweet2learn",
+                "type": "github"
+            },
+            {
+                "title": "UniversalDependencies docs ",
+                "href": "https://github.com/UniversalDependencies/docs",
+                "github": "UniversalDependencies/docs",
+                "type": "github"
+            },
+            {
+                "title": "UniversalDependencies tools ",
+                "href": "https://github.com/universaldependencies/tools",
+                "github": "universaldependencies/tools",
+                "type": "github"
+            },
+            {
+                "title": "wavesurfer.js ",
+                "href": "https://github.com/katspaugh/wavesurfer.js",
+                "github": "katspaugh/wavesurfer.js",
+                "type": "github"
+            },
+            {
+                "title": "web-scriptureforge",
+                "href": "https://github.com/sillsdev/web-scriptureforge",
+                "github": "sillsdev/web-scriptureforge",
+                "type": "github"
+            },
+            {
+                "title": "WordBoundary ",
+                "href": "https://github.com/eddersko/WordBoundary",
+                "github": "eddersko/WordBoundary",
+                "type": "github"
+            },
+            {
+                "title": "wordbyword ",
+                "href": "https://github.com/cidles/wordbyword",
+                "github": "cidles/wordbyword",
+                "type": "github"
+            },
+            {
+                "title": "WSI4URLang ",
+                "href": "https://github.com/mohammadnasiruddin/WSI4URLang",
+                "github": "mohammadnasiruddin/WSI4URLang",
+                "type": "github"
+            },
+            {
+                "title": "XDXF_Makedict ",
+                "href": "https://github.com/soshial/xdxf_makedict",
+                "github": "soshial/xdxf_makedict",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Format Specifications",
+        "childrens": [
+            {
+                "title": "dlx-spec ",
+                "href": "https://github.com/digitallinguistics/dlx-spec",
+                "github": "digitallinguistics/dlx-spec",
+                "type": "github"
+            },
+            {
+                "title": "FoLiA ",
+                "href": "https://github.com/proycon/folia/",
+                "github": "proycon/folia/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "i18n-related Repositories",
+        "childrens": [
+            {
+                "title": "Express-Lingua ",
+                "href": "https://github.com/akoenig/express-lingua",
+                "github": "akoenig/express-lingua",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio automation",
+        "childrens": [
+            {
+                "title": "arctic-prompts ",
+                "href": "https://github.com/psibre/arctic-prompts",
+                "github": "psibre/arctic-prompts",
+                "type": "github"
+            },
+            {
+                "title": "AudioWebService ",
+                "href": "https://github.com/FieldDB/AudioWebService",
+                "github": "FieldDB/AudioWebService",
+                "type": "github"
+            },
+            {
+                "title": "AuToBI ",
+                "href": "https://github.com/AndrewRosenberg/AuToBI",
+                "github": "AndrewRosenberg/AuToBI",
+                "type": "github"
+            },
+            {
+                "title": "BashScriptsForPhonetics ",
+                "href": "https://github.com/FieldDB/BashScriptsForPhonetics",
+                "github": "FieldDB/BashScriptsForPhonetics",
+                "type": "github"
+            },
+            {
+                "title": "esv-text-audio-aligner ",
+                "href": "https://github.com/westonruter/esv-text-audio-aligner",
+                "github": "westonruter/esv-text-audio-aligner",
+                "type": "github"
+            },
+            {
+                "title": "et-pocketsphinx-tutorial ",
+                "href": "https://github.com/FieldDB/et-pocketsphinx-tutorial",
+                "github": "FieldDB/et-pocketsphinx-tutorial",
+                "type": "github"
+            },
+            {
+                "title": "html5-audio-read-along ",
+                "href": "https://github.com/westonruter/html5-audio-read-along",
+                "github": "westonruter/html5-audio-read-along",
+                "type": "github"
+            },
+            {
+                "title": "ipa-chart ",
+                "href": "https://github.com/westonruter/ipa-chart",
+                "github": "westonruter/ipa-chart",
+                "type": "github"
+            },
+            {
+                "title": "kaldi-svn-archive",
+                "href": "https://github.com/kaldi-asr/kaldi-svn-archive",
+                "github": "kaldi-asr/kaldi-svn-archive",
+                "type": "github"
+            },
+            {
+                "title": "kaldi",
+                "href": "https://github.com/kaldi-asr/kaldi",
+                "github": "kaldi-asr/kaldi",
+                "type": "github"
+            },
+            {
+                "title": "lex4all ",
+                "href": "https://github.com/FieldDB/lex4all",
+                "github": "FieldDB/lex4all",
+                "type": "github"
+            },
+            {
+                "title": "node-pocketsphinx",
+                "href": "https://github.com/cmusphinx/node-pocketsphinx",
+                "github": "cmusphinx/node-pocketsphinx",
+                "type": "github"
+            },
+            {
+                "title": "opensauce ",
+                "href": "https://github.com/voicesauce/opensauce",
+                "github": "voicesauce/opensauce",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx ",
+                "href": "https://github.com/cmusphinx/pocketsphinx",
+                "github": "cmusphinx/pocketsphinx",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx-ios-demo",
+                "href": "https://github.com/cmusphinx/pocketsphinx-ios-demo",
+                "github": "cmusphinx/pocketsphinx-ios-demo",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx-python",
+                "href": "https://github.com/cmusphinx/pocketsphinx-python",
+                "github": "cmusphinx/pocketsphinx-python",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx-ruby",
+                "href": "https://github.com/cmusphinx/pocketsphinx-ruby",
+                "github": "cmusphinx/pocketsphinx-ruby",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx-wp-demo",
+                "href": "https://github.com/cmusphinx/pocketsphinx-wp-demo",
+                "github": "cmusphinx/pocketsphinx-wp-demo",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx.js ",
+                "href": "https://github.com/syl22-00/pocketsphinx.js",
+                "github": "syl22-00/pocketsphinx.js",
+                "type": "github"
+            },
+            {
+                "title": "praat-py ",
+                "href": "https://github.com/FieldDB/praat-py",
+                "github": "FieldDB/praat-py",
+                "type": "github"
+            },
+            {
+                "title": "Praat-Scripts ",
+                "href": "https://github.com/FieldDB/Praat-Scripts",
+                "github": "FieldDB/Praat-Scripts",
+                "type": "github"
+            },
+            {
+                "title": "PraatTextGridJS ",
+                "href": "https://github.com/FieldDB/PraatTextGridJS",
+                "github": "FieldDB/PraatTextGridJS",
+                "type": "github"
+            },
+            {
+                "title": "PraatontheWeb ",
+                "href": "https://github.com/monikaUPF/PraatontheWeb",
+                "github": "monikaUPF/PraatontheWeb",
+                "type": "github"
+            },
+            {
+                "title": "prosodicParsing ",
+                "href": "https://github.com/jpate/prosodicParsing",
+                "github": "jpate/prosodicParsing",
+                "type": "github"
+            },
+            {
+                "title": "Prosodylab-Aligner ",
+                "href": "https://github.com/prosodylab/Prosodylab-Aligner",
+                "github": "prosodylab/Prosodylab-Aligner",
+                "type": "github"
+            },
+            {
+                "title": "prosodylab.alignertools ",
+                "href": "https://github.com/prosodylab/prosodylab.alignertools",
+                "github": "prosodylab/prosodylab.alignertools",
+                "type": "github"
+            },
+            {
+                "title": "Recordmp3js ",
+                "href": "https://github.com/FieldDB/Recordmp3js",
+                "github": "FieldDB/Recordmp3js",
+                "type": "github"
+            },
+            {
+                "title": "sphinx4",
+                "href": "https://github.com/cmusphinx/sphinx4",
+                "github": "cmusphinx/sphinx4",
+                "type": "github"
+            },
+            {
+                "title": "sphinxbase",
+                "href": "https://github.com/cmusphinx/sphinxbase",
+                "github": "cmusphinx/sphinxbase",
+                "type": "github"
+            },
+            {
+                "title": "sphinxtrain",
+                "href": "https://github.com/cmusphinx/sphinxtrain",
+                "github": "cmusphinx/sphinxtrain",
+                "type": "github"
+            },
+            {
+                "title": "TLSphinx",
+                "href": "https://github.com/cmusphinx/TLSphinx",
+                "github": "cmusphinx/TLSphinx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Text automation",
+        "childrens": [
+            {
+                "title": "clld ",
+                "href": "https://github.com/clld/clld",
+                "github": "clld/clld",
+                "type": "github"
+            },
+            {
+                "title": "LaTeX2HTML5 ",
+                "href": "https://github.com/pyramation/LaTeX2HTML5",
+                "github": "pyramation/LaTeX2HTML5",
+                "type": "github"
+            },
+            {
+                "title": "MultilingualCorporaExtractor ",
+                "href": "https://github.com/FieldDB/MultilingualCorporaExtractor",
+                "github": "FieldDB/MultilingualCorporaExtractor",
+                "type": "github"
+            },
+            {
+                "title": "SeedLing ",
+                "href": "https://github.com/FieldDB/SeedLing",
+                "github": "FieldDB/SeedLing",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Experimentation",
+        "childrens": [
+            {
+                "title": "experigen ",
+                "href": "https://github.com/tlozoot/experigen",
+                "github": "tlozoot/experigen",
+                "type": "github"
+            },
+            {
+                "title": "GamifyPsycholinguisticsExperiments ",
+                "href": "https://github.com/FieldDB/GamifyPsycholinguisticsExperiments",
+                "github": "FieldDB/GamifyPsycholinguisticsExperiments",
+                "type": "github"
+            },
+            {
+                "title": "OpenSesame ",
+                "href": "https://github.com/smathot/OpenSesame",
+                "github": "smathot/OpenSesame",
+                "type": "github"
+            },
+            {
+                "title": "OPrime ",
+                "href": "https://github.com/FieldDB/OPrime",
+                "github": "FieldDB/OPrime",
+                "type": "github"
+            },
+            {
+                "title": "psychopyMegProsody ",
+                "href": "https://github.com/FieldDB/psychopyMegProsody",
+                "github": "FieldDB/psychopyMegProsody",
+                "type": "github"
+            },
+            {
+                "title": "PsychScript ",
+                "href": "https://github.com/EoinTravers/PsychScript",
+                "github": "EoinTravers/PsychScript",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Flashcards",
+        "childrens": [
+            {
+                "title": "Anki ",
+                "href": "https://github.com/dae/anki",
+                "github": "dae/anki",
+                "type": "github"
+            },
+            {
+                "title": "flashfork",
+                "href": "https://github.com/sillsdev/flashfork",
+                "github": "sillsdev/flashfork",
+                "type": "github"
+            },
+            {
+                "title": "flashgrab",
+                "href": "https://github.com/sillsdev/flashgrab",
+                "github": "sillsdev/flashgrab",
+                "type": "github"
+            },
+            {
+                "title": "flashgrid ",
+                "href": "https://github.com/sillsdev/flashgrid",
+                "github": "sillsdev/flashgrid",
+                "type": "github"
+            },
+            {
+                "title": "VocabLift ",
+                "href": "https://github.com/somelinguist/VocabLift",
+                "github": "somelinguist/VocabLift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Natural language generation",
+        "childrens": [
+            {
+                "title": "hailo ",
+                "href": "https://github.com/FieldDB/hailo",
+                "github": "FieldDB/hailo",
+                "type": "github"
+            },
+            {
+                "title": "ngram-natural-language-generator ",
+                "href": "https://github.com/cesine/ngram-natural-language-generator",
+                "github": "cesine/ngram-natural-language-generator",
+                "type": "github"
+            },
+            {
+                "title": "OpenCCG ",
+                "href": "https://github.com/OpenCCG/openccg",
+                "github": "OpenCCG/openccg",
+                "type": "github"
+            },
+            {
+                "title": "SimpleNLG ",
+                "href": "https://github.com/simplenlg/simplenlg",
+                "github": "simplenlg/simplenlg",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Android Applications",
+        "childrens": [
+            {
+                "title": "Aikuma ",
+                "href": "https://github.com/aikuma/aikuma",
+                "github": "aikuma/aikuma",
+                "type": "github"
+            },
+            {
+                "title": "Android Speech Recognition Trainer",
+                "href": "https://github.com/FieldDB/AndroidSpeechRecognitionTrainer",
+                "github": "FieldDB/AndroidSpeechRecognitionTrainer",
+                "type": "github"
+            },
+            {
+                "title": "AndroidFieldDB ",
+                "href": "https://github.com/FieldDB/AndroidFieldDB",
+                "github": "FieldDB/AndroidFieldDB",
+                "type": "github"
+            },
+            {
+                "title": "AndroidFieldDBElicitationRecorder ",
+                "href": "https://github.com/FieldDB/AndroidFieldDBElicitationRecorder",
+                "github": "FieldDB/AndroidFieldDBElicitationRecorder",
+                "type": "github"
+            },
+            {
+                "title": "AndroidLanguageLessons ",
+                "href": "https://github.com/FieldDB/AndroidLanguageLessons",
+                "github": "FieldDB/AndroidLanguageLessons",
+                "type": "github"
+            },
+            {
+                "title": "AndroidProductionExperiment ",
+                "href": "https://github.com/FieldDB/AndroidProductionExperiment",
+                "github": "FieldDB/AndroidProductionExperiment",
+                "type": "github"
+            },
+            {
+                "title": "Bevara ",
+                "href": "https://github.com/KentonMurray/bevara",
+                "github": "KentonMurray/bevara",
+                "type": "github"
+            },
+            {
+                "title": "ojoVoz ",
+                "href": "https://github.com/ojovoz/ojoVoz_mobile",
+                "github": "ojovoz/ojoVoz_mobile",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx-android-demo",
+                "href": "https://github.com/cmusphinx/pocketsphinx-android-demo",
+                "github": "cmusphinx/pocketsphinx-android-demo",
+                "type": "github"
+            },
+            {
+                "title": "pocketsphinx-android",
+                "href": "https://github.com/cmusphinx/pocketsphinx-android",
+                "github": "cmusphinx/pocketsphinx-android",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chrome Extensions",
+        "childrens": [
+            {
+                "title": "babelfrog ",
+                "href": "https://github.com/dergachev/babelfrog",
+                "github": "dergachev/babelfrog",
+                "type": "github"
+            },
+            {
+                "title": "DictionaryChromeExtension ",
+                "href": "https://github.com/FieldDB/DictionaryChromeExtension",
+                "github": "FieldDB/DictionaryChromeExtension",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "FieldDB",
+        "childrens": [
+            {
+                "title": "FieldDB ",
+                "href": "https://github.com/FieldDB/FieldDB",
+                "github": "FieldDB/FieldDB",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "FieldDB Webservices/Components/Plugins",
+        "childrens": [
+            {
+                "title": "AndroidLanguageLearningClientForFieldDB-sikuli ",
+                "href": "https://github.com/FieldDB/AndroidLanguageLearningClientForFieldDB-sikuli",
+                "github": "FieldDB/AndroidLanguageLearningClientForFieldDB-sikuli",
+                "type": "github"
+            },
+            {
+                "title": "AuthenticationWebService ",
+                "href": "https://github.com/FieldDB/AuthenticationWebService",
+                "github": "FieldDB/AuthenticationWebService",
+                "type": "github"
+            },
+            {
+                "title": "bower-fielddb-angular ",
+                "href": "https://github.com/FieldDB/bower-fielddb-angular",
+                "github": "FieldDB/bower-fielddb-angular",
+                "type": "github"
+            },
+            {
+                "title": "bower-fielddb ",
+                "href": "https://github.com/FieldDB/bower-fielddb",
+                "github": "FieldDB/bower-fielddb",
+                "type": "github"
+            },
+            {
+                "title": "fielddb-spreadsheet-sikuli ",
+                "href": "https://github.com/FieldDB/fielddb-spreadsheet-sikuli",
+                "github": "FieldDB/fielddb-spreadsheet-sikuli",
+                "type": "github"
+            },
+            {
+                "title": "FieldDBActivityFeed ",
+                "href": "https://github.com/FieldDB/FieldDBActivityFeed",
+                "github": "FieldDB/FieldDBActivityFeed",
+                "type": "github"
+            },
+            {
+                "title": "FieldDBGlosser ",
+                "href": "https://github.com/FieldDB/FieldDBGlosser",
+                "github": "FieldDB/FieldDBGlosser",
+                "type": "github"
+            },
+            {
+                "title": "FieldDBLexicon ",
+                "href": "https://github.com/FieldDB/FieldDBLexicon",
+                "github": "FieldDB/FieldDBLexicon",
+                "type": "github"
+            },
+            {
+                "title": "FieldDBWebServer ",
+                "href": "https://github.com/FieldDB/FieldDBWebServer",
+                "github": "FieldDB/FieldDBWebServer",
+                "type": "github"
+            },
+            {
+                "title": "LanguageClassDashboard ",
+                "href": "https://github.com/FieldDB/LanguageClassDashboard",
+                "github": "FieldDB/LanguageClassDashboard",
+                "type": "github"
+            },
+            {
+                "title": "LexiconWebService ",
+                "href": "https://github.com/FieldDB/LexiconWebService",
+                "github": "FieldDB/LexiconWebService",
+                "type": "github"
+            },
+            {
+                "title": "LexiconWebServiceSample ",
+                "href": "https://github.com/FieldDB/LexiconWebServiceSample",
+                "github": "FieldDB/LexiconWebServiceSample",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Academic Research Paper-Specific Repositories",
+        "childrens": [
+            {
+                "title": "Gargantua ",
+                "href": "https://github.com/braunefe/Gargantua",
+                "github": "braunefe/Gargantua",
+                "type": "github"
+            },
+            {
+                "title": "ldc-kiy ",
+                "href": "https://github.com/krismyu/ldc-kiy",
+                "github": "krismyu/ldc-kiy",
+                "type": "github"
+            },
+            {
+                "title": "low-resource-pos-tagging-2013 ",
+                "href": "https://github.com/dhgarrette/low-resource-pos-tagging-2013",
+                "github": "dhgarrette/low-resource-pos-tagging-2013",
+                "type": "github"
+            },
+            {
+                "title": "orthotree ",
+                "href": "https://github.com/kscanne/orthotree",
+                "github": "kscanne/orthotree",
+                "type": "github"
+            },
+            {
+                "title": "type-supervised-tagging-2012emnlp ",
+                "href": "https://github.com/dhgarrette/type-supervised-tagging-2012emnlp",
+                "github": "dhgarrette/type-supervised-tagging-2012emnlp",
+                "type": "github"
+            },
+            {
+                "title": "visualizing-language ",
+                "href": "https://github.com/RichardLitt/visualizing-language",
+                "github": "RichardLitt/visualizing-language",
+                "type": "github"
+            },
+            {
+                "title": "WALS-APiCS ",
+                "href": "https://github.com/jcgood/complexity",
+                "github": "jcgood/complexity",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Example Repositories",
+        "childrens": [
+            {
+                "title": "CorpusWebService ",
+                "href": "https://github.com/FieldDB/CorpusWebService",
+                "github": "FieldDB/CorpusWebService",
+                "type": "github"
+            },
+            {
+                "title": "CorporaForFieldLinguistics ",
+                "href": "https://github.com/cesine/CorporaForFieldLinguistics",
+                "github": "cesine/CorporaForFieldLinguistics",
+                "type": "github"
+            },
+            {
+                "title": "startR ",
+                "href": "https://github.com/FieldDB/startR",
+                "github": "FieldDB/startR",
+                "type": "github"
+            },
+            {
+                "title": "lucenerevolution-2013 ",
+                "href": "https://github.com/FieldDB/lucenerevolution-2013",
+                "github": "FieldDB/lucenerevolution-2013",
+                "type": "github"
+            },
+            {
+                "title": "berlin-buzzwords-2013 ",
+                "href": "https://github.com/FieldDB/berlin-buzzwords-2013",
+                "github": "FieldDB/berlin-buzzwords-2013",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Language & Code Interfaces",
+        "childrens": [
+            {
+                "title": "قلب ",
+                "href": "https://github.com/nasser/---",
+                "github": "nasser/---",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fonts",
+        "childrens": [
+            {
+                "title": "fontinline",
+                "href": "https://github.com/sillsdev/fontinline",
+                "github": "sillsdev/fontinline",
+                "type": "github"
+            },
+            {
+                "title": "Noto Fonts",
+                "href": "https://github.com/googlei18n/noto-fonts",
+                "github": "googlei18n/noto-fonts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Corpora",
+        "childrens": [
+            {
+                "title": "bible-corpus ",
+                "href": "https://github.com/christos-c/bible-corpus",
+                "github": "christos-c/bible-corpus",
+                "type": "github"
+            },
+            {
+                "title": "poio-corpus ",
+                "href": "https://github.com/cidles/poio-corpus",
+                "github": "cidles/poio-corpus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "On GitHub",
+        "childrens": [
+            {
+                "title": "batumi",
+                "href": "https://github.com/batumi",
+                "github": "batumi",
+                "type": "github"
+            },
+            {
+                "title": "cmusphinx",
+                "href": "https://github.com/cmusphinx",
+                "github": "cmusphinx",
+                "type": "github"
+            },
+            {
+                "title": "FieldDB",
+                "href": "https://github.com/FieldDB",
+                "github": "FieldDB",
+                "type": "github"
+            },
+            {
+                "title": "lex4all",
+                "href": "https://github.com/lex4all",
+                "github": "lex4all",
+                "type": "github"
+            },
+            {
+                "title": "longnow",
+                "href": "https://github.com/longnow",
+                "github": "longnow",
+                "type": "github"
+            },
+            {
+                "title": "moses-smt",
+                "href": "https://github.com/moses-smt",
+                "github": "moses-smt",
+                "type": "github"
+            },
+            {
+                "title": "NLTK",
+                "href": "https://github.com/nltk/nltk",
+                "github": "nltk/nltk",
+                "type": "github"
+            },
+            {
+                "title": "PhonologicalCorpusTools",
+                "href": "https://github.com/PhonologicalCorpusTools",
+                "github": "PhonologicalCorpusTools",
+                "type": "github"
+            },
+            {
+                "title": "Projet de recherche sur l'écriture",
+                "href": "https://github.com/projetDeRechercheSurLecriture/",
+                "github": "projetDeRechercheSurLecriture/",
+                "type": "github"
+            },
+            {
+                "title": "SIL International (Dev)",
+                "href": "https://github.com/sillsdev",
+                "github": "sillsdev",
+                "type": "github"
+            },
+            {
+                "title": "SIL International",
+                "href": "https://github.com/silinternational",
+                "github": "silinternational",
+                "type": "github"
+            },
+            {
+                "title": "SIL NRSI",
+                "href": "https://github.com/silnrsi",
+                "github": "silnrsi",
+                "type": "github"
+            },
+            {
+                "title": "StanfordNLP",
+                "href": "https://github.com/stanfordnlp",
+                "github": "stanfordnlp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Albanian",
+        "childrens": [
+            {
+                "title": "out-of-copyright-albanian-authors ",
+                "href": "https://github.com/substack/out-of-copyright-albanian-authors",
+                "github": "substack/out-of-copyright-albanian-authors",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Amharic",
+        "childrens": [
+            {
+                "title": "HornMorpho ",
+                "href": "https://github.com/LowResourceLanguages/hltdi-morphology",
+                "github": "LowResourceLanguages/hltdi-morphology",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Arabic",
+        "childrens": [
+            {
+                "title": "Buckwalter ",
+                "href": "https://github.com/KentonMurray/Buckwalter",
+                "github": "KentonMurray/Buckwalter",
+                "type": "github"
+            },
+            {
+                "title": "Dialects ",
+                "href": "https://github.com/amagidow/dialects",
+                "github": "amagidow/dialects",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bengali",
+        "childrens": [
+            {
+                "title": "Bengali Writer ",
+                "href": "https://github.com/LowResourceLanguages/bwedit",
+                "github": "LowResourceLanguages/bwedit",
+                "type": "github"
+            },
+            {
+                "title": "Lekho ",
+                "href": "https://github.com/LowResourceLanguages/lekho",
+                "github": "LowResourceLanguages/lekho",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chichewa",
+        "childrens": [
+            {
+                "title": "Chichewa ",
+                "href": "https://github.com/kscanne/chichewa",
+                "github": "kscanne/chichewa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Estonian",
+        "childrens": [
+            {
+                "title": "et-pocketsphinx-tutorial",
+                "href": "https://github.com/alumae/et-pocketsphinx-tutorial",
+                "github": "alumae/et-pocketsphinx-tutorial",
+                "type": "github"
+            },
+            {
+                "title": "Inimesed",
+                "href": "https://github.com/Kaljurand/Inimesed",
+                "github": "Kaljurand/Inimesed",
+                "type": "github"
+            },
+            {
+                "title": "Kõnele",
+                "href": "https://github.com/Kaljurand/K6nele",
+                "github": "Kaljurand/K6nele",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Georgian",
+        "childrens": [
+            {
+                "title": "awesome-georgia",
+                "href": "https://github.com/Stichoza/awesome-georgia",
+                "github": "Stichoza/awesome-georgia",
+                "type": "github"
+            },
+            {
+                "title": "Gadatsqvetilebebi",
+                "href": "https://github.com/batumi/Gadatsqvetilebebi",
+                "github": "batumi/Gadatsqvetilebebi",
+                "type": "github"
+            },
+            {
+                "title": "GeoWordsDatabase",
+                "href": "https://github.com/bumbeishvili/GeoWordsDatabase",
+                "github": "bumbeishvili/GeoWordsDatabase",
+                "type": "github"
+            },
+            {
+                "title": "Kartuli Speech Recognition",
+                "href": "https://github.com/batumi/KartuliSpeechRecognition",
+                "github": "batumi/KartuliSpeechRecognition",
+                "type": "github"
+            },
+            {
+                "title": "KartuliChromeExtension",
+                "href": "https://github.com/batumi/KartuliChromeExtension",
+                "github": "batumi/KartuliChromeExtension",
+                "type": "github"
+            },
+            {
+                "title": "QartuliDaBunebismetkveleba",
+                "href": "https://github.com/aiSaba/QartuliDaBunebismetkveleba",
+                "github": "aiSaba/QartuliDaBunebismetkveleba",
+                "type": "github"
+            },
+            {
+                "title": "SakartvelosUzenaesiSasamartloSarke",
+                "href": "https://github.com/batumi/SakartvelosUzenaesiSasamartloSarke",
+                "github": "batumi/SakartvelosUzenaesiSasamartloSarke",
+                "type": "github"
+            },
+            {
+                "title": "SamartlosSakonstitutsioSasamartdoSarke",
+                "href": "https://github.com/batumi/SamartlosSakonstitutsioSasamartdoSarke",
+                "github": "batumi/SamartlosSakonstitutsioSasamartdoSarke",
+                "type": "github"
+            },
+            {
+                "title": "translitit-latin-to-mkhedruli-georgian",
+                "href": "https://github.com/batumi/translitit-latin-to-mkhedruli-georgian",
+                "github": "batumi/translitit-latin-to-mkhedruli-georgian",
+                "type": "github"
+            },
+            {
+                "title": "translitit-mkhedruli-georgian-to-ipa",
+                "href": "https://github.com/batumi/translitit-mkhedruli-georgian-to-ipa",
+                "github": "batumi/translitit-mkhedruli-georgian-to-ipa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Fonts",
+        "childrens": [
+            {
+                "title": "Stichoza/font-larisome",
+                "href": "https://github.com/Stichoza/font-larisome",
+                "github": "Stichoza/font-larisome",
+                "type": "github"
+            },
+            {
+                "title": "Lotuashvili/BPGNateli",
+                "href": "https://github.com/Lotuashvili/BPGNateli",
+                "github": "Lotuashvili/BPGNateli",
+                "type": "github"
+            },
+            {
+                "title": "thecotne/georgian-webfonts",
+                "href": "https://github.com/thecotne/georgian-webfonts",
+                "github": "thecotne/georgian-webfonts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Internationalization and Localization (i18n/l10n)",
+        "childrens": [
+            {
+                "title": "Stichoza/money-num-to-string",
+                "href": "https://github.com/Stichoza/money-num-to-string",
+                "github": "Stichoza/money-num-to-string",
+                "type": "github"
+            },
+            {
+                "title": "natchkebiailia/NumberToWord",
+                "href": "https://github.com/natchkebiailia/NumberToWord",
+                "github": "natchkebiailia/NumberToWord",
+                "type": "github"
+            },
+            {
+                "title": "d0ragon/number-to-words-ka",
+                "href": "https://github.com/d0ragon/number-to-words-ka",
+                "github": "d0ragon/number-to-words-ka",
+                "type": "github"
+            },
+            {
+                "title": "dimakura/ka",
+                "href": "https://github.com/dimakura/ka",
+                "github": "dimakura/ka",
+                "type": "github"
+            },
+            {
+                "title": "dimakura/ka.js",
+                "href": "https://github.com/dimakura/ka.js",
+                "github": "dimakura/ka.js",
+                "type": "github"
+            },
+            {
+                "title": "akalongman/kautilities",
+                "href": "https://github.com/akalongman/kautilities",
+                "github": "akalongman/kautilities",
+                "type": "github"
+            },
+            {
+                "title": "Landish/Laravel-Ka",
+                "href": "https://github.com/Landish/Laravel-KA",
+                "github": "Landish/Laravel-KA",
+                "type": "github"
+            },
+            {
+                "title": "Landish/RedactorJS-GE",
+                "href": "https://github.com/Landish/RedactorJS-GE",
+                "github": "Landish/RedactorJS-GE",
+                "type": "github"
+            },
+            {
+                "title": "wenzhixin/bootstrap-table",
+                "href": "https://github.com/wenzhixin/bootstrap-table",
+                "github": "wenzhixin/bootstrap-table",
+                "type": "github"
+            },
+            {
+                "title": "moment/moment",
+                "href": "https://github.com/moment/moment",
+                "github": "moment/moment",
+                "type": "github"
+            },
+            {
+                "title": "ioseb/geokbd",
+                "href": "https://github.com/ioseb/geokbd",
+                "github": "ioseb/geokbd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Guarani",
+        "childrens": [
+            {
+                "title": "ParaMorfo ",
+                "href": "https://github.com/LowResourceLanguages/hltdi-morphology",
+                "github": "LowResourceLanguages/hltdi-morphology",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hausa",
+        "childrens": [
+            {
+                "title": "Hausa ",
+                "href": "https://github.com/amir-zeldes/hausa",
+                "github": "amir-zeldes/hausa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hindi",
+        "childrens": [
+            {
+                "title": "hindi-morph ",
+                "href": "https://github.com/FieldDB/hindi-morph",
+                "github": "FieldDB/hindi-morph",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Høgnorsk",
+        "childrens": [
+            {
+                "title": "hunspell-hn_NO ",
+                "href": "https://github.com/rtxanson/hunspell-hn_NO",
+                "github": "rtxanson/hunspell-hn_NO",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Inuktitut",
+        "childrens": [
+            {
+                "title": "InuktitutAlignerData",
+                "href": "https://github.com/cmesher/InuktitutAlignerData",
+                "github": "cmesher/InuktitutAlignerData",
+                "type": "github"
+            },
+            {
+                "title": "InuktitutComputing",
+                "href": "https://github.com/LowResourceLanguages/InuktitutComputing",
+                "github": "LowResourceLanguages/InuktitutComputing",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Irish",
+        "childrens": [
+            {
+                "title": "aimsigh ",
+                "href": "https://github.com/kscanne/aimsigh",
+                "github": "kscanne/aimsigh",
+                "type": "github"
+            },
+            {
+                "title": "caighdean ",
+                "href": "https://github.com/kscanne/caighdean",
+                "github": "kscanne/caighdean",
+                "type": "github"
+            },
+            {
+                "title": "fleiscin ",
+                "href": "https://github.com/hyphenation/fleiscin",
+                "github": "hyphenation/fleiscin",
+                "type": "github"
+            },
+            {
+                "title": "GaelSpell ",
+                "href": "https://github.com/kscanne/gaelspell",
+                "github": "kscanne/gaelspell",
+                "type": "github"
+            },
+            {
+                "title": "tesseract-gle-uncial ",
+                "href": "https://github.com/kscanne/tesseract-gle-uncial",
+                "github": "kscanne/tesseract-gle-uncial",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Japanese",
+        "childrens": [
+            {
+                "title": "JapaneseCorpusAngoSakaguchi ",
+                "href": "https://github.com/iLanguage/JapaneseCorpusAngoSakaguchi",
+                "github": "iLanguage/JapaneseCorpusAngoSakaguchi",
+                "type": "github"
+            },
+            {
+                "title": "kuromoji ",
+                "href": "https://github.com/atilika/kuromoji",
+                "github": "atilika/kuromoji",
+                "type": "github"
+            },
+            {
+                "title": "kuromoji-server ",
+                "href": "https://github.com/atilika/kuromoji-server",
+                "github": "atilika/kuromoji-server",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Kinyarwanda",
+        "childrens": [
+            {
+                "title": "kin-morph-fst ",
+                "href": "https://github.com/ldmt-muri/kin-morph-fst",
+                "github": "ldmt-muri/kin-morph-fst",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Korean",
+        "childrens": [
+            {
+                "title": "komoran ",
+                "href": "https://github.com/shineware/komoran-2.0",
+                "github": "shineware/komoran-2.0",
+                "type": "github"
+            },
+            {
+                "title": "awesome-kr-foss ",
+                "href": "https://github.com/darjeeling/awesome-kr-foss",
+                "github": "darjeeling/awesome-kr-foss",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lushootseed",
+        "childrens": [
+            {
+                "title": "Lushootseed",
+                "href": "https://github.com/LowResourceLanguages/lushootseed",
+                "github": "LowResourceLanguages/lushootseed",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Malay",
+        "childrens": [
+            {
+                "title": "MorfoMalayu ",
+                "href": "https://github.com/LowResourceLanguages/hltdi-morphology",
+                "github": "LowResourceLanguages/hltdi-morphology",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Manx",
+        "childrens": [
+            {
+                "title": "aspell-gv",
+                "href": "https://github.com/pld-linux/aspell-gv",
+                "github": "pld-linux/aspell-gv",
+                "type": "github"
+            },
+            {
+                "title": "gaelg",
+                "href": "https://github.com/kscanne/gaelg",
+                "github": "kscanne/gaelg",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Migmaq",
+        "childrens": [
+            {
+                "title": "migmaq-lessons ",
+                "href": "https://github.com/FieldDB/migmaq-lessons",
+                "github": "FieldDB/migmaq-lessons",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Minderico",
+        "childrens": [
+            {
+                "title": "fredericajordarzambarino ",
+                "href": "https://github.com/cidles/fredericajordarzambarino",
+                "github": "cidles/fredericajordarzambarino",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Nishnaabe",
+        "childrens": [
+            {
+                "title": "Ojibway-iphone-app",
+                "href": "https://github.com/LowResourceLanguages/Ojibway-iphone-app",
+                "github": "LowResourceLanguages/Ojibway-iphone-app",
+                "type": "github"
+            },
+            {
+                "title": "OjibwayMap",
+                "href": "https://github.com/LowResourceLanguages/OjibwayMap",
+                "github": "LowResourceLanguages/OjibwayMap",
+                "type": "github"
+            },
+            {
+                "title": "nishanimate ",
+                "href": "https://github.com/jpmontano/nishanimate",
+                "github": "jpmontano/nishanimate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Oromo",
+        "childrens": [
+            {
+                "title": "hornmorpho ",
+                "href": "https://github.com/LowResourceLanguages/hltdi-morphology",
+                "github": "LowResourceLanguages/hltdi-morphology",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Quechua",
+        "childrens": [
+            {
+                "title": "AntiMorfo ",
+                "href": "https://github.com/LowResourceLanguages/hltdi-morphology",
+                "github": "LowResourceLanguages/hltdi-morphology",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scottish Gaelic",
+        "childrens": [
+            {
+                "title": "aspell-gd",
+                "href": "https://github.com/pld-linux/aspell-gd",
+                "github": "pld-linux/aspell-gd",
+                "type": "github"
+            },
+            {
+                "title": "briathrachan",
+                "href": "https://github.com/tobiasbayer/briathrachan",
+                "github": "tobiasbayer/briathrachan",
+                "type": "github"
+            },
+            {
+                "title": "gaidhlig",
+                "href": "https://github.com/kscanne/gaidhlig",
+                "github": "kscanne/gaidhlig",
+                "type": "github"
+            },
+            {
+                "title": "gd-fcfg",
+                "href": "https://github.com/wojtekdz/gd-fcfg",
+                "github": "wojtekdz/gd-fcfg",
+                "type": "github"
+            },
+            {
+                "title": "gdbank",
+                "href": "https://github.com/colinbatchelor/gdbank",
+                "github": "colinbatchelor/gdbank",
+                "type": "github"
+            },
+            {
+                "title": "hunspell-gd ",
+                "href": "https://github.com/kscanne/hunspell-gd",
+                "github": "kscanne/hunspell-gd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Secwepemctsín",
+        "childrens": [
+            {
+                "title": "secwepemctsnem ",
+                "href": "https://github.com/neskie/secwepemctsnem",
+                "github": "neskie/secwepemctsnem",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Somali",
+        "childrens": [
+            {
+                "title": "somorph ",
+                "href": "https://github.com/rtxanson/somorph",
+                "github": "rtxanson/somorph",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tigrinya",
+        "childrens": [
+            {
+                "title": "HornMorpho ",
+                "href": "https://github.com/LowResourceLanguages/hltdi-morphology",
+                "github": "LowResourceLanguages/hltdi-morphology",
+                "type": "github"
+            }
+        ]
+    }
+]

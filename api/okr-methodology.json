@@ -1,0 +1,66 @@
+[
+    {
+        "heading": "Basics",
+        "childrens": [
+            {
+                "title": "Basic of OKR",
+                "href": "https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md",
+                "github": "domenicosolazzo/practice-okr/blob/master/Basic.md",
+                "type": "github"
+            },
+            {
+                "title": "Worksheet OKR template",
+                "href": "https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md",
+                "github": "domenicosolazzo/practice-okr/blob/master/Worksheet.md",
+                "type": "github"
+            },
+            {
+                "title": "Use a weekly status email",
+                "href": "https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email",
+                "github": "domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email",
+                "type": "github"
+            },
+            {
+                "title": "How to set OKRs",
+                "href": "https://github.com/domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md",
+                "github": "domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md",
+                "type": "github"
+            },
+            {
+                "title": "Monday's and Friday's: The commitment square",
+                "href": "https://github.com/domenicosolazzo/practice-okr/blob/master/Commitment-Square.md",
+                "github": "domenicosolazzo/practice-okr/blob/master/Commitment-Square.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Examples",
+        "childrens": [
+            {
+                "title": "Uber",
+                "href": "https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md",
+                "github": "domenicosolazzo/awesome-okr/blob/master/examples/Uber.md",
+                "type": "github"
+            },
+            {
+                "title": "Youtube",
+                "href": "https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Youtube.md",
+                "github": "domenicosolazzo/awesome-okr/blob/master/examples/Youtube.md",
+                "type": "github"
+            },
+            {
+                "title": "Sample Company",
+                "href": "https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/SampleCompany.md",
+                "github": "domenicosolazzo/awesome-okr/blob/master/examples/SampleCompany.md",
+                "type": "github"
+            },
+            {
+                "title": "Photo Editing App",
+                "href": "https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/PhotoEditingApp.md",
+                "github": "domenicosolazzo/awesome-okr/blob/master/examples/PhotoEditingApp.md",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,396 @@
+[
+    {
+        "heading": "How to build a styleguide",
+        "childrens": [
+            {
+                "title": "Huge's Styleguide Tool",
+                "href": "https://github.com/hugeinc/styleguide",
+                "github": "hugeinc/styleguide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Styleguide Lists",
+        "childrens": [
+            {
+                "title": "Narkoz",
+                "href": "https://github.com/narkoz/guides",
+                "github": "narkoz/guides",
+                "type": "github"
+            },
+            {
+                "title": "paulmillr",
+                "href": "https://github.com/paulmillr/code-style-guides",
+                "github": "paulmillr/code-style-guides",
+                "type": "github"
+            },
+            {
+                "title": "SalGnt",
+                "href": "https://github.com/SalGnt/cscs",
+                "github": "SalGnt/cscs",
+                "type": "github"
+            },
+            {
+                "title": "Styleguides.io",
+                "href": "https://github.com/maban/styleguides",
+                "github": "maban/styleguides",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Generic",
+        "childrens": [
+            {
+                "title": "frontend-guidelines",
+                "href": "https://github.com/bendc/frontend-guidelines",
+                "github": "bendc/frontend-guidelines",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CSS",
+        "childrens": [
+            {
+                "title": "CSS Best Practices",
+                "href": "https://github.com/sezgi/CSS-Best-Practices",
+                "github": "sezgi/CSS-Best-Practices",
+                "type": "github"
+            },
+            {
+                "title": "Idiomatic-CSS",
+                "href": "https://github.com/necolas/idiomatic-css",
+                "github": "necolas/idiomatic-css",
+                "type": "github"
+            },
+            {
+                "title": "rscss",
+                "href": "https://github.com/rstacruz/rscss",
+                "github": "rstacruz/rscss",
+                "type": "github"
+            },
+            {
+                "title": "Trello",
+                "href": "https://gist.github.com/bobbygrace/9e961e8982f42eb91b80",
+                "github": ".com/bobbygrace/9e961e8982f42eb91b80",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Git",
+        "childrens": [
+            {
+                "title": "agis-",
+                "href": "https://github.com/agis-/git-style-guide",
+                "github": "agis-/git-style-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML",
+        "childrens": [
+            {
+                "title": "THX",
+                "href": "https://github.com/thx/html-code-guide",
+                "github": "thx/html-code-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Javascript",
+        "childrens": [
+            {
+                "title": "AirBnB",
+                "href": "https://github.com/airbnb/javascript",
+                "github": "airbnb/javascript",
+                "type": "github"
+            },
+            {
+                "title": "bevacqua's JS sg",
+                "href": "https://github.com/bevacqua/js",
+                "github": "bevacqua/js",
+                "type": "github"
+            },
+            {
+                "title": "feross/standard",
+                "href": "https://github.com/feross/standard",
+                "github": "feross/standard",
+                "type": "github"
+            },
+            {
+                "title": "jscs",
+                "href": "https://github.com/jscs-dev/node-jscs",
+                "github": "jscs-dev/node-jscs",
+                "type": "github"
+            },
+            {
+                "title": "Khan",
+                "href": "https://github.com/Khan/style-guides/blob/master/style/javascript.md",
+                "github": "Khan/style-guides/blob/master/style/javascript.md",
+                "type": "github"
+            },
+            {
+                "title": "Mozilla/pdf.js",
+                "href": "https://github.com/mozilla/pdf.js/wiki/Style-Guide",
+                "github": "mozilla/pdf.js/wiki/Style-Guide",
+                "type": "github"
+            },
+            {
+                "title": "rsjs",
+                "href": "https://github.com/rstacruz/rsjs",
+                "github": "rstacruz/rsjs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "AngularJS",
+        "childrens": [
+            {
+                "title": "gocardless",
+                "href": "https://github.com/gocardless/angularjs-style-guide",
+                "github": "gocardless/angularjs-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "johnpapa's opinionated sg for  AngularJS",
+                "href": "https://github.com/johnpapa/angular-styleguide",
+                "github": "johnpapa/angular-styleguide",
+                "type": "github"
+            },
+            {
+                "title": "mgechev's community best practices",
+                "href": "https://github.com/mgechev/angularjs-style-guide",
+                "github": "mgechev/angularjs-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "srph's AngularJS structure sg",
+                "href": "https://github.com/srph/angularjs-structure-styleguide",
+                "github": "srph/angularjs-structure-styleguide",
+                "type": "github"
+            },
+            {
+                "title": "Todd Motto's for AngularJS",
+                "href": "https://github.com/toddmotto/angularjs-styleguide",
+                "github": "toddmotto/angularjs-styleguide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CoffeeScript",
+        "childrens": [
+            {
+                "title": "Polarmobile",
+                "href": "https://github.com/polarmobile/coffeescript-style-guide",
+                "github": "polarmobile/coffeescript-style-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP Design",
+        "childrens": [
+            {
+                "title": "http-api-design",
+                "href": "https://github.com/interagent/http-api-design",
+                "github": "interagent/http-api-design",
+                "type": "github"
+            },
+            {
+                "title": "http-api-guide",
+                "href": "https://github.com/bolasblack/http-api-guide",
+                "github": "bolasblack/http-api-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "jQuery",
+        "childrens": [
+            {
+                "title": "Pragmatic jQuery",
+                "href": "https://github.com/yuanyan/pragmatic-jquery",
+                "github": "yuanyan/pragmatic-jquery",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Modules",
+        "childrens": [
+            {
+                "title": "mattdesl",
+                "href": "https://github.com/mattdesl/module-best-practices",
+                "github": "mattdesl/module-best-practices",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "npm",
+        "childrens": [
+            {
+                "title": "npm Style Guide",
+                "href": "https://github.com/voorhoede/npm-style-guide#readme",
+                "github": "voorhoede/npm-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React",
+        "childrens": [
+            {
+                "title": "Khan",
+                "href": "https://github.com/Khan/style-guides/blob/master/style/react.md",
+                "github": "Khan/style-guides/blob/master/style/react.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Riot",
+        "childrens": [
+            {
+                "title": "RiotJS Style Guide",
+                "href": "https://github.com/voorhoede/riotjs-style-guide#readme",
+                "github": "voorhoede/riotjs-style-guide#readme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lisp",
+        "childrens": [
+            {
+                "title": "emacs-lips-style-guide",
+                "href": "https://github.com/bbatsov/emacs-lisp-style-guide",
+                "github": "bbatsov/emacs-lisp-style-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Objective-C",
+        "childrens": [
+            {
+                "title": "Futurice iOS Good Practices",
+                "href": "https://github.com/futurice/ios-good-practices",
+                "github": "futurice/ios-good-practices",
+                "type": "github"
+            },
+            {
+                "title": "Github - Style guide & coding conventions for Swift projects",
+                "href": "https://github.com/github/swift-style-guide",
+                "github": "github/swift-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "Github Objective-C Style Guide",
+                "href": "https://github.com/github/objective-c-style-guide",
+                "github": "github/objective-c-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "Khan",
+                "href": "https://github.com/Khan/objective-c-style-guide",
+                "github": "Khan/objective-c-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "NY Times - Objective C Style Guide",
+                "href": "https://github.com/NYTimes/objective-c-style-guide",
+                "github": "NYTimes/objective-c-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "Objective-C Coding Convention and Best Practices",
+                "href": "https://gist.github.com/soffes/812796",
+                "github": ".com/soffes/812796",
+                "type": "github"
+            },
+            {
+                "title": "raywenderlich Style Guide",
+                "href": "https://github.com/raywenderlich/objective-c-style-guide",
+                "github": "raywenderlich/objective-c-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "Spotify Objective-C Coding Style",
+                "href": "https://github.com/spotify/ios-style",
+                "github": "spotify/ios-style",
+                "type": "github"
+            },
+            {
+                "title": "Swift Style Guide by @raywenderlich",
+                "href": "https://github.com/raywenderlich/swift-style-guide",
+                "github": "raywenderlich/swift-style-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "AirBnB",
+                "href": "https://github.com/airbnb/ruby",
+                "github": "airbnb/ruby",
+                "type": "github"
+            },
+            {
+                "title": "bbatsov",
+                "href": "https://github.com/bbatsov/ruby-style-guide",
+                "github": "bbatsov/ruby-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "Github",
+                "href": "https://github.com/styleguide/ruby",
+                "github": "styleguide/ruby",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby on Rails",
+        "childrens": [
+            {
+                "title": "bbastov's Ruby on Rails 4 styleguide",
+                "href": "https://github.com/bbatsov/rails-style-guide",
+                "github": "bbatsov/rails-style-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Swift",
+        "childrens": [
+            {
+                "title": "GitHub",
+                "href": "https://github.com/github/swift-style-guide",
+                "github": "github/swift-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "raywenderlich",
+                "href": "https://github.com/raywenderlich/swift-style-guide",
+                "github": "raywenderlich/swift-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "SlideShareInc",
+                "href": "https://github.com/SlideShareInc/swift-style-guide",
+                "github": "SlideShareInc/swift-style-guide",
+                "type": "github"
+            }
+        ]
+    }
+]

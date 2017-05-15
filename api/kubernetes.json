@@ -1,0 +1,554 @@
+[
+    {
+        "heading": "Starting Point",
+        "childrens": [
+            {
+                "title": "Docker Kubernetes Lab Handbook",
+                "href": "https://github.com/xiaopeng163/docker-k8s-lab",
+                "github": "xiaopeng163/docker-k8s-lab",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Installers",
+        "childrens": [
+            {
+                "title": "Minikube",
+                "href": "https://github.com/kubernetes/minikube",
+                "github": "kubernetes/minikube",
+                "type": "github"
+            },
+            {
+                "title": "Kops",
+                "href": "https://github.com/kubernetes/kops",
+                "github": "kubernetes/kops",
+                "type": "github"
+            },
+            {
+                "title": "Kube-deploy",
+                "href": "https://github.com/kubernetes/kube-deploy",
+                "github": "kubernetes/kube-deploy",
+                "type": "github"
+            },
+            {
+                "title": "Kargo",
+                "href": "https://github.com/kubernetes-incubator/kargo",
+                "github": "kubernetes-incubator/kargo",
+                "type": "github"
+            },
+            {
+                "title": "Bootkube",
+                "href": "https://github.com/kubernetes-incubator/bootkube",
+                "github": "kubernetes-incubator/bootkube",
+                "type": "github"
+            },
+            {
+                "title": "Kube-aws",
+                "href": "https://github.com/coreos/kube-aws",
+                "github": "coreos/kube-aws",
+                "type": "github"
+            },
+            {
+                "title": "Kismatic",
+                "href": "https://github.com/apprenda/kismatic",
+                "github": "apprenda/kismatic",
+                "type": "github"
+            },
+            {
+                "title": "Terraform",
+                "href": "https://github.com/kz8s/tack",
+                "github": "kz8s/tack",
+                "type": "github"
+            },
+            {
+                "title": "Archon",
+                "href": "https://github.com/kubeup/archon",
+                "github": "kubeup/archon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Main Resources",
+        "childrens": [
+            {
+                "title": "Kubernetes Source",
+                "href": "https://github.com/kubernetes/kubernetes/",
+                "github": "kubernetes/kubernetes/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Managed Kubernetes",
+        "childrens": [
+            {
+                "title": "Gravitational",
+                "href": "https://github.com/gravitational",
+                "github": "gravitational",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Persistent Volume Providers",
+        "childrens": [
+            {
+                "title": "Kube-Aliyun",
+                "href": "https://github.com/kubeup/kube-aliyun",
+                "github": "kubeup/kube-aliyun",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related Software",
+        "childrens": [
+            {
+                "title": "Hypernetes",
+                "href": "https://github.com/hyperhq/hypernetes",
+                "github": "hyperhq/hypernetes",
+                "type": "github"
+            },
+            {
+                "title": "Ubernetes",
+                "href": "https://github.com/kubernetes/kubernetes/blob/master/docs/proposals/federation.md",
+                "github": "kubernetes/kubernetes/blob/master/docs/proposals/federation.md",
+                "type": "github"
+            },
+            {
+                "title": "kmachine",
+                "href": "https://github.com/skippbox/kmachine",
+                "github": "skippbox/kmachine",
+                "type": "github"
+            },
+            {
+                "title": "KubeSpray",
+                "href": "https://github.com/kubespray",
+                "github": "kubespray",
+                "type": "github"
+            },
+            {
+                "title": "Kubernetes Ec2 Autoscaler",
+                "href": "https://github.com/openai/kubernetes-ec2-autoscaler",
+                "github": "openai/kubernetes-ec2-autoscaler",
+                "type": "github"
+            },
+            {
+                "title": "kube-openvpn",
+                "href": "https://github.com/pieterlange/kube-openvpn",
+                "github": "pieterlange/kube-openvpn",
+                "type": "github"
+            },
+            {
+                "title": "Archon",
+                "href": "https://github.com/kubeup/archon",
+                "github": "kubeup/archon",
+                "type": "github"
+            },
+            {
+                "title": "Client Libraries",
+                "href": "https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md",
+                "github": "kubernetes/community/blob/master/contributors/devel/client-libraries.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Package Managers",
+        "childrens": [
+            {
+                "title": "KPM",
+                "href": "https://github.com/coreos/kpm",
+                "github": "coreos/kpm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Monitoring Services",
+        "childrens": [
+            {
+                "title": "Console",
+                "href": "https://github.com/kubernetes/dashboard",
+                "github": "kubernetes/dashboard",
+                "type": "github"
+            },
+            {
+                "title": "Heapster",
+                "href": "https://github.com/kubernetes/heapster",
+                "github": "kubernetes/heapster",
+                "type": "github"
+            },
+            {
+                "title": "Kubedash",
+                "href": "https://github.com/kubernetes/kubedash",
+                "github": "kubernetes/kubedash",
+                "type": "github"
+            },
+            {
+                "title": "Kube-ui",
+                "href": "https://github.com/kubernetes/kube-ui",
+                "github": "kubernetes/kube-ui",
+                "type": "github"
+            },
+            {
+                "title": "Netsil",
+                "href": "https://github.com/netsil/manifests",
+                "github": "netsil/manifests",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Continuous Delivery",
+        "childrens": [
+            {
+                "title": "kb8or",
+                "href": "https://github.com/UKHomeOffice/kb8or",
+                "github": "UKHomeOffice/kb8or",
+                "type": "github"
+            },
+            {
+                "title": "Kontinuous",
+                "href": "https://github.com/AcalephStorage/kontinuous",
+                "github": "AcalephStorage/kontinuous",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Serverless Implementations",
+        "childrens": [
+            {
+                "title": "Funktion",
+                "href": "https://github.com/fabric8io/funktion",
+                "github": "fabric8io/funktion",
+                "type": "github"
+            },
+            {
+                "title": "Fission",
+                "href": "https://github.com/platform9/fission",
+                "github": "platform9/fission",
+                "type": "github"
+            },
+            {
+                "title": "Kubeless",
+                "href": "https://github.com/skippbox/kubeless",
+                "github": "skippbox/kubeless",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Operators",
+        "childrens": [
+            {
+                "title": "etcd",
+                "href": "https://github.com/coreos/etcd-operator",
+                "github": "coreos/etcd-operator",
+                "type": "github"
+            },
+            {
+                "title": "Prometheus",
+                "href": "https://github.com/coreos/prometheus-operator",
+                "github": "coreos/prometheus-operator",
+                "type": "github"
+            },
+            {
+                "title": "Elasticsearch",
+                "href": "https://github.com/upmc-enterprises/elasticsearch-operator",
+                "github": "upmc-enterprises/elasticsearch-operator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Custom Schedulers",
+        "childrens": [
+            {
+                "title": "Scheduler",
+                "href": "https://github.com/kelseyhightower/scheduler",
+                "github": "kelseyhightower/scheduler",
+                "type": "github"
+            },
+            {
+                "title": "Sticky Node Scheduler",
+                "href": "https://github.com/philipn/kubernetes-sticky-node-scheduler",
+                "github": "philipn/kubernetes-sticky-node-scheduler",
+                "type": "github"
+            },
+            {
+                "title": "ksched",
+                "href": "https://github.com/coreos/ksched",
+                "github": "coreos/ksched",
+                "type": "github"
+            },
+            {
+                "title": "kronjob",
+                "href": "https://github.com/Eneco/kronjob",
+                "github": "Eneco/kronjob",
+                "type": "github"
+            },
+            {
+                "title": "escheduler",
+                "href": "https://github.com/agonzalezro/escheduler",
+                "github": "agonzalezro/escheduler",
+                "type": "github"
+            },
+            {
+                "title": "bashScheduler",
+                "href": "https://github.com/rothgar/bashScheduler",
+                "github": "rothgar/bashScheduler",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "Canal",
+                "href": "https://github.com/tigera/canal",
+                "github": "tigera/canal",
+                "type": "github"
+            },
+            {
+                "title": "OpenContrail",
+                "href": "https://github.com/Juniper/contrail-kubernetes",
+                "github": "Juniper/contrail-kubernetes",
+                "type": "github"
+            },
+            {
+                "title": "Nuage",
+                "href": "https://github.com/nuagenetworks/nuage-kubernetes",
+                "github": "nuagenetworks/nuage-kubernetes",
+                "type": "github"
+            },
+            {
+                "title": "Kuryr",
+                "href": "https://github.com/openstack/kuryr-kubernetes",
+                "github": "openstack/kuryr-kubernetes",
+                "type": "github"
+            },
+            {
+                "title": "Kube-router",
+                "href": "http://github.com/cloudnativelabs/kube-router",
+                "github": "loudnativelabs/kube-router",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "RPC",
+        "childrens": [
+            {
+                "title": "Micro",
+                "href": "https://github.com/micro/kubernetes",
+                "github": "micro/kubernetes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Secret generation and management",
+        "childrens": [
+            {
+                "title": "Vault controller",
+                "href": "https://github.com/kelseyhightower/vault-controller",
+                "github": "kelseyhightower/vault-controller",
+                "type": "github"
+            },
+            {
+                "title": "kube-lego",
+                "href": "https://github.com/jetstack/kube-lego",
+                "github": "jetstack/kube-lego",
+                "type": "github"
+            },
+            {
+                "title": "k8sec",
+                "href": "https://github.com/dtan4/k8sec",
+                "github": "dtan4/k8sec",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API/CLI adaptors",
+        "childrens": [
+            {
+                "title": "Kubebot",
+                "href": "https://github.com/harbur/kubebot",
+                "github": "harbur/kubebot",
+                "type": "github"
+            },
+            {
+                "title": "StackStorm",
+                "href": "https://github.com/StackStorm/st2",
+                "github": "StackStorm/st2",
+                "type": "github"
+            },
+            {
+                "title": "Ksql",
+                "href": "https://github.com/brendandburns/ksql",
+                "github": "brendandburns/ksql",
+                "type": "github"
+            },
+            {
+                "title": "kubectld",
+                "href": "https://github.com/rancher/kubectld",
+                "github": "rancher/kubectld",
+                "type": "github"
+            },
+            {
+                "title": "Kubesh",
+                "href": "https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md",
+                "github": "projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Application deployment orchestration",
+        "childrens": [
+            {
+                "title": "AppController",
+                "href": "https://github.com/Mirantis/k8s-AppController",
+                "github": "Mirantis/k8s-AppController",
+                "type": "github"
+            },
+            {
+                "title": "Broadway",
+                "href": "https://github.com/namely/broadway",
+                "github": "namely/broadway",
+                "type": "github"
+            },
+            {
+                "title": "Kb8or",
+                "href": "https://github.com/UKHomeOffice/kb8or",
+                "github": "UKHomeOffice/kb8or",
+                "type": "github"
+            },
+            {
+                "title": "Nulecule",
+                "href": "https://github.com/projectatomic/nulecule",
+                "github": "projectatomic/nulecule",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Configuration",
+        "childrens": [
+            {
+                "title": "Jsonnet",
+                "href": "https://github.com/google/jsonnet/tree/master/case_studies/kubernetes",
+                "github": "google/jsonnet/tree/master/case_studies/kubernetes",
+                "type": "github"
+            },
+            {
+                "title": "K8comp",
+                "href": "https://github.com/cststack/k8comp",
+                "github": "cststack/k8comp",
+                "type": "github"
+            },
+            {
+                "title": "Ktmpl",
+                "href": "https://github.com/InQuicker/ktmpl",
+                "github": "InQuicker/ktmpl",
+                "type": "github"
+            },
+            {
+                "title": "Konfd",
+                "href": "https://github.com/kelseyhightower/konfd",
+                "github": "kelseyhightower/konfd",
+                "type": "github"
+            },
+            {
+                "title": "kenv",
+                "href": "https://github.com/thisendout/kenv",
+                "github": "thisendout/kenv",
+                "type": "github"
+            },
+            {
+                "title": "kubediff",
+                "href": "https://github.com/weaveworks/kubediff",
+                "github": "weaveworks/kubediff",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "Trireme",
+                "href": "http://github.com/aporeto-inc/trireme-kubernetes",
+                "github": "poreto-inc/trireme-kubernetes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Load balancing",
+        "childrens": [
+            {
+                "title": "AppsCode Voyager - Secure HAProxy based Ingress Controller",
+                "href": "https://github.com/appscode/voyager",
+                "github": "appscode/voyager",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Big Data",
+        "childrens": [
+            {
+                "title": "Kube-Yarn",
+                "href": "https://github.com/Comcast/kube-yarn",
+                "github": "Comcast/kube-yarn",
+                "type": "github"
+            },
+            {
+                "title": "Spark",
+                "href": "https://github.com/kubernetes/kubernetes/tree/master/examples/spark",
+                "github": "kubernetes/kubernetes/tree/master/examples/spark",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "YAML/JSON Config",
+        "childrens": [
+            {
+                "title": "Kube.libsonnet",
+                "href": "https://github.com/heptio/kube.libsonnet",
+                "github": "heptio/kube.libsonnet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Amazing People",
+        "childrens": [
+            {
+                "title": "Brian Grant",
+                "href": "https://github.com/bgrant0607",
+                "github": "bgrant0607",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Connecting with Kubernetes",
+        "childrens": [
+            {
+                "title": "Community",
+                "href": "https://github.com/kubernetes/community",
+                "github": "kubernetes/community",
+                "type": "github"
+            }
+        ]
+    }
+]

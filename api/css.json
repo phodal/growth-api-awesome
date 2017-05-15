@@ -1,0 +1,355 @@
+[
+    {
+        "heading": "Editor's Draft :black_nib:",
+        "childrens": [
+            {
+                "title": "w3c/csswg-drafts",
+                "href": "https://github.com/w3c/csswg-drafts",
+                "github": "w3c/csswg-drafts",
+                "type": "github"
+            },
+            {
+                "title": "w3c/css-houdini-drafts",
+                "href": "https://github.com/w3c/css-houdini-drafts",
+                "github": "w3c/css-houdini-drafts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Parser :mag:",
+        "childrens": [
+            {
+                "title": "CSSOM",
+                "href": "https://github.com/NV/CSSOM",
+                "github": "NV/CSSOM",
+                "type": "github"
+            },
+            {
+                "title": "CSSTree",
+                "href": "https://github.com/csstree/csstree",
+                "github": "csstree/csstree",
+                "type": "github"
+            },
+            {
+                "title": "Gonzales",
+                "href": "https://github.com/css/gonzales",
+                "github": "css/gonzales",
+                "type": "github"
+            },
+            {
+                "title": "Gonzales PE",
+                "href": "https://github.com/tonyganch/gonzales-pe",
+                "github": "tonyganch/gonzales-pe",
+                "type": "github"
+            },
+            {
+                "title": "mensch",
+                "href": "https://github.com/brettstimmerman/mensch",
+                "github": "brettstimmerman/mensch",
+                "type": "github"
+            },
+            {
+                "title": "ParserLib",
+                "href": "https://github.com/CSSLint/parser-lib",
+                "github": "CSSLint/parser-lib",
+                "type": "github"
+            },
+            {
+                "title": "PostCSS",
+                "href": "https://github.com/postcss/postcss",
+                "github": "postcss/postcss",
+                "type": "github"
+            },
+            {
+                "title": "Rework",
+                "href": "https://github.com/reworkcss/rework",
+                "github": "reworkcss/rework",
+                "type": "github"
+            },
+            {
+                "title": "Stylecow",
+                "href": "https://github.com/stylecow/stylecow",
+                "github": "stylecow/stylecow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Preprocessors :pill:",
+        "childrens": [
+            {
+                "title": "LESS",
+                "href": "https://github.com/less/less.js",
+                "github": "less/less.js",
+                "type": "github"
+            },
+            {
+                "title": "PostCSS",
+                "href": "https://github.com/postcss/postcss",
+                "github": "postcss/postcss",
+                "type": "github"
+            },
+            {
+                "title": "Sass",
+                "href": "https://github.com/sass/sass",
+                "github": "sass/sass",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CSS Structure",
+        "childrens": [
+            {
+                "title": "RSCSS",
+                "href": "https://github.com/rstacruz/rscss",
+                "github": "rstacruz/rscss",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reset and Normalize",
+        "childrens": [
+            {
+                "title": "Normalize",
+                "href": "https://github.com/necolas/normalize.css",
+                "github": "necolas/normalize.css",
+                "type": "github"
+            },
+            {
+                "title": "Normalize-OpenType",
+                "href": "https://github.com/kennethormandy/normalize-opentype.css",
+                "github": "kennethormandy/normalize-opentype.css",
+                "type": "github"
+            },
+            {
+                "title": "MiniReset.css",
+                "href": "https://github.com/jgthms/minireset.css",
+                "github": "jgthms/minireset.css",
+                "type": "github"
+            },
+            {
+                "title": "sanitize.css",
+                "href": "https://github.com/jonathantneal/sanitize.css/",
+                "github": "jonathantneal/sanitize.css/",
+                "type": "github"
+            },
+            {
+                "title": "unstyle.css",
+                "href": "https://github.com/Martin-Pitt/css-unstyle",
+                "github": "Martin-Pitt/css-unstyle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CSS Development at Large-Scale Websites",
+        "childrens": [
+            {
+                "title": "scalable-css-reading-list",
+                "href": "https://github.com/davidtheclark/scalable-css-reading-list",
+                "github": "davidtheclark/scalable-css-reading-list",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Style Guideline :book:",
+        "childrens": [
+            {
+                "title": "idiomatic CSS",
+                "href": "https://github.com/necolas/idiomatic-css",
+                "github": "necolas/idiomatic-css",
+                "type": "github"
+            },
+            {
+                "title": "CSS Styleguide",
+                "href": "https://github.com/grvcoelho/css",
+                "github": "grvcoelho/css",
+                "type": "github"
+            },
+            {
+                "title": "ThinkUp CSS Style Guide",
+                "href": "https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS",
+                "github": "ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Style Guide",
+        "childrens": [
+            {
+                "title": "Dropbox (S)CSS Style Guide",
+                "href": "https://github.com/dropbox/css-style-guide",
+                "github": "dropbox/css-style-guide",
+                "type": "github"
+            },
+            {
+                "title": "Official Trello CSS Guide",
+                "href": "https://gist.github.com/bobbygrace/9e961e8982f42eb91b80",
+                "github": ".com/bobbygrace/9e961e8982f42eb91b80",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Style Guide Generators :slot_machine:",
+        "childrens": [
+            {
+                "title": "Hologram",
+                "href": "https://github.com/trulia/hologram",
+                "github": "trulia/hologram",
+                "type": "github"
+            },
+            {
+                "title": "mdcss",
+                "href": "https://github.com/jonathantneal/mdcss",
+                "github": "jonathantneal/mdcss",
+                "type": "github"
+            },
+            {
+                "title": "styledoc",
+                "href": "https://github.com/Joony/styledoc/",
+                "github": "Joony/styledoc/",
+                "type": "github"
+            },
+            {
+                "title": "styledocco",
+                "href": "https://github.com/jacobrask/styledocco",
+                "github": "jacobrask/styledocco",
+                "type": "github"
+            },
+            {
+                "title": "styledown",
+                "href": "https://github.com/styledown/styledown",
+                "github": "styledown/styledown",
+                "type": "github"
+            },
+            {
+                "title": "sc5-styleguide",
+                "href": "https://github.com/SC5/sc5-styleguide",
+                "github": "SC5/sc5-styleguide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Naming conventions & Methodologies :bulb:",
+        "childrens": [
+            {
+                "title": "idiomatic-css",
+                "href": "https://github.com/necolas/idiomatic-css",
+                "github": "necolas/idiomatic-css",
+                "type": "github"
+            },
+            {
+                "title": "SUIT CSS",
+                "href": "https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname",
+                "github": "suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CSS in JS",
+        "childrens": [
+            {
+                "title": "aphrodite",
+                "href": "https://github.com/Khan/aphrodite",
+                "github": "Khan/aphrodite",
+                "type": "github"
+            },
+            {
+                "title": "babel-plugin-css-in-js",
+                "href": "https://github.com/martinandert/babel-plugin-css-in-js",
+                "github": "martinandert/babel-plugin-css-in-js",
+                "type": "github"
+            },
+            {
+                "title": "classy",
+                "href": "https://github.com/inturn/classy",
+                "github": "inturn/classy",
+                "type": "github"
+            },
+            {
+                "title": "csjs",
+                "href": "https://github.com/rtsao/csjs",
+                "github": "rtsao/csjs",
+                "type": "github"
+            },
+            {
+                "title": "css-loader",
+                "href": "https://github.com/webpack/css-loader",
+                "github": "webpack/css-loader",
+                "type": "github"
+            },
+            {
+                "title": "JSS",
+                "href": "https://github.com/cssinjs/jss",
+                "github": "cssinjs/jss",
+                "type": "github"
+            },
+            {
+                "title": "react-styled",
+                "href": "https://github.com/bloodyowl/react-styled",
+                "github": "bloodyowl/react-styled",
+                "type": "github"
+            },
+            {
+                "title": "react-with-styles",
+                "href": "https://github.com/airbnb/react-with-styles",
+                "github": "airbnb/react-with-styles",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CSS Polyfills",
+        "childrens": [
+            {
+                "title": "polyfill.js",
+                "href": "https://github.com/philipwalton/polyfill/",
+                "github": "philipwalton/polyfill/",
+                "type": "github"
+            },
+            {
+                "title": "prefixfree",
+                "href": "https://github.com/LeaVerou/prefixfree",
+                "github": "LeaVerou/prefixfree",
+                "type": "github"
+            },
+            {
+                "title": "fixed-sticky",
+                "href": "https://github.com/filamentgroup/fixed-sticky",
+                "github": "filamentgroup/fixed-sticky",
+                "type": "github"
+            },
+            {
+                "title": "selectivizr",
+                "href": "https://github.com/keithclark/selectivizr",
+                "github": "keithclark/selectivizr",
+                "type": "github"
+            },
+            {
+                "title": "PIE",
+                "href": "https://github.com/lojjic/PIE",
+                "github": "lojjic/PIE",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Single Div Project",
+                "href": "https://github.com/ManrajGrover/SingleDivProject",
+                "github": "ManrajGrover/SingleDivProject",
+                "type": "github"
+            }
+        ]
+    }
+]

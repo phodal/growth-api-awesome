@@ -1,0 +1,86 @@
+[
+    {
+        "heading": "Articles & Posts",
+        "childrens": [
+            {
+                "title": "Becoming a contractor programmer in the UK",
+                "href": "https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory",
+                "github": "tadast/switching-to-contracting-uk/tree/formationsfactory",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Job boards",
+        "childrens": [
+            {
+                "title": "Github Jobs",
+                "href": "https://jobs.github.com/",
+                "github": ".com/",
+                "type": "github"
+            },
+            {
+                "title": "remote-jobs",
+                "href": "https://github.com/jessicard/remote-jobs",
+                "github": "jessicard/remote-jobs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Interviewing",
+        "childrens": [
+            {
+                "title": "andreis/interview",
+                "href": "https://github.com/andreis/interview",
+                "github": "andreis/interview",
+                "type": "github"
+            },
+            {
+                "title": "awesome-interviews",
+                "href": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+                "github": "MaximAbramchuck/awesome-interview-questions",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Companies with \"remote DNA\"",
+        "childrens": [
+            {
+                "title": "GitHub",
+                "href": "https://github.com/about/jobs",
+                "github": "about/jobs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Communities",
+        "childrens": [
+            {
+                "title": "##remotes",
+                "href": "https://github.com/remotesclub/remotes",
+                "github": "remotesclub/remotes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Others",
+        "childrens": [
+            {
+                "title": "awesome-digital-nomads",
+                "href": "https://github.com/cbovis/awesome-digital-nomads",
+                "github": "cbovis/awesome-digital-nomads",
+                "type": "github"
+            },
+            {
+                "title": "Remote Working",
+                "href": "https://github.com/greatghoul/remote-working",
+                "github": "greatghoul/remote-working",
+                "type": "github"
+            }
+        ]
+    }
+]

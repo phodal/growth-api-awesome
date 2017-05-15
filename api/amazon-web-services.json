@@ -1,0 +1,2790 @@
+[
+    {
+        "heading": "Android SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-android",
+                "github": "aws/aws-sdk-android",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples :fire::fire:",
+                "href": "https://github.com/awslabs/aws-sdk-android-samples",
+                "github": "awslabs/aws-sdk-android-samples",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++ SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire:",
+                "href": "https://github.com/awslabs/aws-sdk-cpp",
+                "github": "awslabs/aws-sdk-cpp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Clojure SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire:",
+                "href": "https://github.com/mcohen01/amazonica",
+                "github": "mcohen01/amazonica",
+                "type": "github"
+            },
+            {
+                "title": "Install",
+                "href": "https://github.com/mcohen01/amazonica#installation",
+                "github": "mcohen01/amazonica#installation",
+                "type": "github"
+            },
+            {
+                "title": "Docs",
+                "href": "https://github.com/mcohen01/amazonica#documentation",
+                "github": "mcohen01/amazonica#documentation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-go",
+                "github": "aws/aws-sdk-go",
+                "type": "github"
+            },
+            {
+                "title": "Install",
+                "href": "https://github.com/aws/aws-sdk-go/wiki",
+                "github": "aws/aws-sdk-go/wiki",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go SDK",
+        "childrens": [
+            {
+                "title": "goamz/goamz :fire::fire:",
+                "href": "https://github.com/goamz/goamz",
+                "github": "goamz/goamz",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "iOS SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-ios",
+                "github": "aws/aws-sdk-ios",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples :fire::fire::fire:",
+                "href": "https://github.com/awslabs/aws-sdk-ios-samples",
+                "github": "awslabs/aws-sdk-ios-samples",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IoT SDK",
+        "childrens": [
+            {
+                "title": "Repo for Arduino",
+                "href": "https://github.com/awslabs/aws-sdk-arduino",
+                "github": "awslabs/aws-sdk-arduino",
+                "type": "github"
+            },
+            {
+                "title": "Repo for C :fire::fire:",
+                "href": "https://github.com/aws/aws-iot-device-sdk-embedded-C",
+                "github": "aws/aws-iot-device-sdk-embedded-C",
+                "type": "github"
+            },
+            {
+                "title": "Repo for JavaScript :fire::fire:",
+                "href": "https://github.com/aws/aws-iot-device-sdk-js",
+                "github": "aws/aws-iot-device-sdk-js",
+                "type": "github"
+            },
+            {
+                "title": "Repo for Arduino Yun :fire:",
+                "href": "https://github.com/aws/aws-iot-device-sdk-arduino-yun/",
+                "github": "aws/aws-iot-device-sdk-arduino-yun/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-java",
+                "github": "aws/aws-sdk-java",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples :fire:",
+                "href": "https://github.com/awslabs/aws-java-sample",
+                "github": "awslabs/aws-java-sample",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-js",
+                "github": "aws/aws-sdk-js",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples :fire:",
+                "href": "https://github.com/awslabs/aws-nodejs-sample",
+                "github": "awslabs/aws-nodejs-sample",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript SDK",
+        "childrens": [
+            {
+                "title": "chilts/awssum :fire::fire:",
+                "href": "https://github.com/chilts/awssum",
+                "github": "chilts/awssum",
+                "type": "github"
+            },
+            {
+                "title": "livelycode/aws-lib :fire::fire::fire:",
+                "href": "https://github.com/livelycode/aws-lib",
+                "github": "livelycode/aws-lib",
+                "type": "github"
+            },
+            {
+                "title": "SaltwaterC/aws2js :fire::fire:",
+                "href": "https://github.com/SaltwaterC/aws2js",
+                "github": "SaltwaterC/aws2js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haskell SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire:",
+                "href": "https://github.com/brendanhay/amazonka",
+                "github": "brendanhay/amazonka",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haskell SDK",
+        "childrens": [
+            {
+                "title": "aristidb/aws :fire:",
+                "href": "https://github.com/aristidb/aws",
+                "github": "aristidb/aws",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Perl SDK",
+        "childrens": [
+            {
+                "title": "Repo",
+                "href": "https://github.com/pplu/aws-sdk-perl",
+                "github": "pplu/aws-sdk-perl",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples",
+                "href": "https://github.com/pplu/aws-sdk-perl/tree/master/examples",
+                "github": "pplu/aws-sdk-perl/tree/master/examples",
+                "type": "github"
+            },
+            {
+                "title": "Install",
+                "href": "https://github.com/pplu/aws-sdk-perl#installation",
+                "github": "pplu/aws-sdk-perl#installation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-php",
+                "github": "aws/aws-sdk-php",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples",
+                "href": "https://github.com/awslabs/aws-php-sample",
+                "github": "awslabs/aws-php-sample",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP SDK",
+        "childrens": [
+            {
+                "title": "aws-sdk-php-laravel :fire::fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-php-laravel",
+                "github": "aws/aws-sdk-php-laravel",
+                "type": "github"
+            },
+            {
+                "title": "aws-sdk-php-silex",
+                "href": "https://github.com/aws/aws-sdk-php-silex",
+                "github": "aws/aws-sdk-php-silex",
+                "type": "github"
+            },
+            {
+                "title": "aws-sdk-php-zf2",
+                "href": "https://github.com/aws/aws-sdk-php-zf2",
+                "github": "aws/aws-sdk-php-zf2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/boto/boto",
+                "github": "boto/boto",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples",
+                "href": "https://github.com/awslabs/aws-python-sample",
+                "github": "awslabs/aws-python-sample",
+                "type": "github"
+            },
+            {
+                "title": "Install",
+                "href": "http://github.com/boto/boto#installation",
+                "github": "oto/boto#installation",
+                "type": "github"
+            },
+            {
+                "title": "Learn More",
+                "href": "http://github.com/boto/boto/blob/develop/README.rst#boto",
+                "github": "oto/boto/blob/develop/README.rst#boto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python SDK",
+        "childrens": [
+            {
+                "title": "boto3 :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/boto/boto3",
+                "github": "boto/boto3",
+                "type": "github"
+            },
+            {
+                "title": "botocore :fire::fire:",
+                "href": "https://github.com/boto/botocore",
+                "github": "boto/botocore",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-ruby",
+                "github": "aws/aws-sdk-ruby",
+                "type": "github"
+            },
+            {
+                "title": "Repo with S3 Sample",
+                "href": "https://github.com/awslabs/aws-ruby-sample",
+                "github": "awslabs/aws-ruby-sample",
+                "type": "github"
+            },
+            {
+                "title": "Samples",
+                "href": "https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/",
+                "github": "awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby SDK",
+        "childrens": [
+            {
+                "title": "aws-sdk-rails :fire:",
+                "href": "https://github.com/aws/aws-sdk-rails",
+                "github": "aws/aws-sdk-rails",
+                "type": "github"
+            },
+            {
+                "title": "appoxy/aws :fire::fire:",
+                "href": "https://github.com/appoxy/aws",
+                "github": "appoxy/aws",
+                "type": "github"
+            },
+            {
+                "title": "rightscale/right_aws :fire::fire:",
+                "href": "https://github.com/rightscale/right_aws",
+                "github": "rightscale/right_aws",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rust SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire:",
+                "href": "https://github.com/rusoto/rusoto",
+                "github": "rusoto/rusoto",
+                "type": "github"
+            },
+            {
+                "title": "Install",
+                "href": "https://github.com/rusoto/rusoto#installation",
+                "github": "rusoto/rusoto#installation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala SDK",
+        "childrens": [
+            {
+                "title": "Repo",
+                "href": "https://github.com/awslabs/aws-scala-sdk",
+                "github": "awslabs/aws-scala-sdk",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala SDK",
+        "childrens": [
+            {
+                "title": "seratch/AWScala :fire::fire:",
+                "href": "https://github.com/seratch/AWScala",
+                "github": "seratch/AWScala",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Unity SDK",
+        "childrens": [
+            {
+                "title": "Repo",
+                "href": "https://github.com/aws/aws-sdk-unity",
+                "github": "aws/aws-sdk-unity",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples",
+                "href": "https://github.com/awslabs/aws-sdk-unity-samples",
+                "github": "awslabs/aws-sdk-unity-samples",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Xamarin SDK",
+        "childrens": [
+            {
+                "title": "Repo",
+                "href": "https://github.com/awslabs/aws-sdk-xamarin",
+                "github": "awslabs/aws-sdk-xamarin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": ".NET SDK",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire:",
+                "href": "https://github.com/aws/aws-sdk-net",
+                "github": "aws/aws-sdk-net",
+                "type": "github"
+            },
+            {
+                "title": "Repo with Samples",
+                "href": "https://github.com/awslabs/aws-auto-scaling-console-sample",
+                "github": "awslabs/aws-auto-scaling-console-sample",
+                "type": "github"
+            },
+            {
+                "title": "Samples",
+                "href": "https://github.com/awslabs/aws-sdk-net-samples",
+                "github": "awslabs/aws-sdk-net-samples",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Universal Command Line Interface",
+        "childrens": [
+            {
+                "title": "Repo :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/aws/aws-cli",
+                "github": "aws/aws-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Universal Command Line Interface",
+        "childrens": [
+            {
+                "title": "awslabs/aws-shell :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/awslabs/aws-shell",
+                "github": "awslabs/aws-shell",
+                "type": "github"
+            },
+            {
+                "title": "donnemartin/saws :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/donnemartin/saws",
+                "github": "donnemartin/saws",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API Gateway",
+        "childrens": [
+            {
+                "title": "api-gateway-secure-pet-store :fire::fire:",
+                "href": "https://github.com/awslabs/api-gateway-secure-pet-store",
+                "github": "awslabs/api-gateway-secure-pet-store",
+                "type": "github"
+            },
+            {
+                "title": "aws-apigateway-sdk-java",
+                "href": "https://github.com/awslabs/aws-apigateway-sdk-java",
+                "github": "awslabs/aws-apigateway-sdk-java",
+                "type": "github"
+            },
+            {
+                "title": "aws-apigateway-swagger-importer :fire::fire:",
+                "href": "https://github.com/awslabs/aws-apigateway-importer",
+                "github": "awslabs/aws-apigateway-importer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API Gateway",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "AppStream",
+        "childrens": [
+            {
+                "title": "amazon-appstream-net",
+                "href": "https://github.com/awslabs/amazon-appstream-net",
+                "github": "awslabs/amazon-appstream-net",
+                "type": "github"
+            },
+            {
+                "title": "amazon-appstream-sample-entitlement-service",
+                "href": "https://github.com/awslabs/amazon-appstream-sample-entitlement-service",
+                "github": "awslabs/amazon-appstream-sample-entitlement-service",
+                "type": "github"
+            },
+            {
+                "title": "aws-appstream-sdk-java",
+                "href": "https://github.com/awslabs/aws-appstream-sdk-java",
+                "github": "awslabs/aws-appstream-sdk-java",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "AppStream",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CLI",
+        "childrens": [
+            {
+                "title": "amazon-ecs-cli :fire::fire::fire:",
+                "href": "https://github.com/aws/amazon-ecs-cli",
+                "github": "aws/amazon-ecs-cli",
+                "type": "github"
+            },
+            {
+                "title": "aws-cli :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/aws/aws-cli",
+                "github": "aws/aws-cli",
+                "type": "github"
+            },
+            {
+                "title": "aws-shell :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/awslabs/aws-shell",
+                "github": "awslabs/aws-shell",
+                "type": "github"
+            },
+            {
+                "title": "awscli-cookbook",
+                "href": "https://github.com/awslabs/awscli-cookbook",
+                "github": "awslabs/awscli-cookbook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CLI",
+        "childrens": [
+            {
+                "title": "achiku/jungle :fire::fire::fire:",
+                "href": "https://github.com/achiku/jungle",
+                "github": "achiku/jungle",
+                "type": "github"
+            },
+            {
+                "title": "donnemartin/saws :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/donnemartin/saws",
+                "github": "donnemartin/saws",
+                "type": "github"
+            },
+            {
+                "title": "timkay/aws :fire::fire:",
+                "href": "https://github.com/timkay/aws",
+                "github": "timkay/aws",
+                "type": "github"
+            },
+            {
+                "title": "wallix/awless :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/wallix/awless",
+                "github": "wallix/awless",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CloudFormation",
+        "childrens": [
+            {
+                "title": "aws-cfn-custom-resource-examples",
+                "href": "https://github.com/awslabs/aws-cfn-custom-resource-examples",
+                "github": "awslabs/aws-cfn-custom-resource-examples",
+                "type": "github"
+            },
+            {
+                "title": "aws-cfn-resource-bridge",
+                "href": "https://github.com/aws/aws-cfn-resource-bridge",
+                "github": "aws/aws-cfn-resource-bridge",
+                "type": "github"
+            },
+            {
+                "title": "cfncluster-cookbook",
+                "href": "https://github.com/awslabs/cfncluster-cookbook",
+                "github": "awslabs/cfncluster-cookbook",
+                "type": "github"
+            },
+            {
+                "title": "cfncluster :fire::fire:",
+                "href": "https://github.com/awslabs/cfncluster",
+                "github": "awslabs/cfncluster",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CloudFormation",
+        "childrens": [
+            {
+                "title": "bazaarvoice/cloudformation-ruby-dsl :fire:",
+                "href": "https://github.com/bazaarvoice/cloudformation-ruby-dsl",
+                "github": "bazaarvoice/cloudformation-ruby-dsl",
+                "type": "github"
+            },
+            {
+                "title": "beaknit/cform",
+                "href": "https://github.com/beaknit/cform",
+                "github": "beaknit/cform",
+                "type": "github"
+            },
+            {
+                "title": "cloudtools/troposphere :fire::fire::fire::fire:",
+                "href": "https://github.com/cloudtools/troposphere",
+                "github": "cloudtools/troposphere",
+                "type": "github"
+            },
+            {
+                "title": "cotdsa/cumulus :fire:",
+                "href": "https://github.com/cotdsa/cumulus",
+                "github": "cotdsa/cumulus",
+                "type": "github"
+            },
+            {
+                "title": "envato/stack_master",
+                "href": "https://github.com/envato/stack_master",
+                "github": "envato/stack_master",
+                "type": "github"
+            },
+            {
+                "title": "sparkleformation/sfn",
+                "href": "https://github.com/sparkleformation/sfn",
+                "github": "sparkleformation/sfn",
+                "type": "github"
+            },
+            {
+                "title": "sparkleformation/sparkle_formation :fire:",
+                "href": "https://github.com/sparkleformation/sparkle_formation",
+                "github": "sparkleformation/sparkle_formation",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CloudSearch",
+        "childrens": [
+            {
+                "title": "cloudsearchable",
+                "href": "https://github.com/awslabs/cloudsearchable",
+                "github": "awslabs/cloudsearchable",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CloudSearch",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CloudTrail",
+        "childrens": [
+            {
+                "title": "aws-cloudtrail-processing-library",
+                "href": "https://github.com/aws/aws-cloudtrail-processing-library",
+                "github": "aws/aws-cloudtrail-processing-library",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CloudTrail",
+        "childrens": [
+            {
+                "title": "AppliedTrust/traildash :fire::fire:",
+                "href": "https://github.com/AppliedTrust/traildash",
+                "github": "AppliedTrust/traildash",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CloudWatch",
+        "childrens": [
+            {
+                "title": "cloudwatch-logs-subscription-consumer :fire::fire:",
+                "href": "https://github.com/awslabs/cloudwatch-logs-subscription-consumer",
+                "github": "awslabs/cloudwatch-logs-subscription-consumer",
+                "type": "github"
+            },
+            {
+                "title": "ecs-cloudwatch-logs",
+                "href": "https://github.com/awslabs/ecs-cloudwatch-logs",
+                "github": "awslabs/ecs-cloudwatch-logs",
+                "type": "github"
+            },
+            {
+                "title": "logstash-output-cloudwatchlogs",
+                "href": "https://github.com/awslabs/logstash-output-cloudwatchlogs",
+                "github": "awslabs/logstash-output-cloudwatchlogs",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-cloudwatch-logs-cookbooks",
+                "href": "https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks",
+                "github": "awslabs/opsworks-cloudwatch-logs-cookbooks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CloudWatch",
+        "childrens": [
+            {
+                "title": "jorgebastida/awslogs :fire::fire::fire:",
+                "href": "https://github.com/jorgebastida/awslogs",
+                "github": "jorgebastida/awslogs",
+                "type": "github"
+            },
+            {
+                "title": "newrelic-platform/newrelic_aws_cloudwatch_plugin :fire:",
+                "href": "https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin",
+                "github": "newrelic-platform/newrelic_aws_cloudwatch_plugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Deploy",
+        "childrens": [
+            {
+                "title": "aws-codedeploy-agent :fire:",
+                "href": "https://github.com/aws/aws-codedeploy-agent",
+                "github": "aws/aws-codedeploy-agent",
+                "type": "github"
+            },
+            {
+                "title": "aws-codedeploy-plugin :fire:",
+                "href": "https://github.com/awslabs/aws-codedeploy-plugin",
+                "github": "awslabs/aws-codedeploy-plugin",
+                "type": "github"
+            },
+            {
+                "title": "aws-codedeploy-samples :fire::fire:",
+                "href": "https://github.com/awslabs/aws-codedeploy-samples",
+                "github": "awslabs/aws-codedeploy-samples",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Deploy",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Pipeline",
+        "childrens": [
+            {
+                "title": "aws-codepipeline-custom-job-worker",
+                "href": "https://github.com/awslabs/aws-codepipeline-custom-job-worker",
+                "github": "awslabs/aws-codepipeline-custom-job-worker",
+                "type": "github"
+            },
+            {
+                "title": "aws-codepipeline-jenkins-aws-codedeploy_linux",
+                "href": "https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux",
+                "github": "awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux",
+                "type": "github"
+            },
+            {
+                "title": "aws-codepipeline-plugin-for-jenkins",
+                "href": "https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins",
+                "github": "awslabs/aws-codepipeline-plugin-for-jenkins",
+                "type": "github"
+            },
+            {
+                "title": "aws-codepipeline-s3-aws-codedeploy_linux",
+                "href": "https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux",
+                "github": "awslabs/aws-codepipeline-s3-aws-codedeploy_linux",
+                "type": "github"
+            },
+            {
+                "title": "AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows",
+                "href": "https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows",
+                "github": "awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows",
+                "type": "github"
+            },
+            {
+                "title": "AWSCodePipeline-S3-AWSCodeDeploy_Windows",
+                "href": "https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows",
+                "github": "awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Pipeline",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cognito",
+        "childrens": [
+            {
+                "title": "amazon-cognito-android",
+                "href": "https://github.com/aws/amazon-cognito-android",
+                "github": "aws/amazon-cognito-android",
+                "type": "github"
+            },
+            {
+                "title": "amazon-cognito-developer-authentication-sample",
+                "href": "https://github.com/awslabs/amazon-cognito-developer-authentication-sample",
+                "github": "awslabs/amazon-cognito-developer-authentication-sample",
+                "type": "github"
+            },
+            {
+                "title": "amazon-cognito-dotnet",
+                "href": "https://github.com/aws/amazon-cognito-dotnet",
+                "github": "aws/amazon-cognito-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "amazon-cognito-ios",
+                "href": "https://github.com/aws/amazon-cognito-ios",
+                "github": "aws/amazon-cognito-ios",
+                "type": "github"
+            },
+            {
+                "title": "amazon-cognito-js :fire:",
+                "href": "https://github.com/aws/amazon-cognito-js",
+                "github": "aws/amazon-cognito-js",
+                "type": "github"
+            },
+            {
+                "title": "amazon-cognito-streams-sample",
+                "href": "https://github.com/awslabs/amazon-cognito-streams-sample",
+                "github": "awslabs/amazon-cognito-streams-sample",
+                "type": "github"
+            },
+            {
+                "title": "cognito-sample-nodejs",
+                "href": "https://github.com/awslabs/cognito-sample-nodejs",
+                "github": "awslabs/cognito-sample-nodejs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cognito",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Pipeline",
+        "childrens": [
+            {
+                "title": "data-pipeline-samples :fire:",
+                "href": "https://github.com/awslabs/data-pipeline-samples",
+                "github": "awslabs/data-pipeline-samples",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Pipeline",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Device Farm",
+        "childrens": [
+            {
+                "title": "aws-device-farm-appium-tests-for-sample-app",
+                "href": "https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app",
+                "github": "awslabs/aws-device-farm-appium-tests-for-sample-app",
+                "type": "github"
+            },
+            {
+                "title": "aws-device-farm-calabash-tests-for-sample-app",
+                "href": "https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app",
+                "github": "awslabs/aws-device-farm-calabash-tests-for-sample-app",
+                "type": "github"
+            },
+            {
+                "title": "aws-device-farm-gradle-plugin",
+                "href": "https://github.com/awslabs/aws-device-farm-gradle-plugin",
+                "github": "awslabs/aws-device-farm-gradle-plugin",
+                "type": "github"
+            },
+            {
+                "title": "aws-device-farm-jenkins-plugin",
+                "href": "https://github.com/awslabs/aws-device-farm-jenkins-plugin",
+                "github": "awslabs/aws-device-farm-jenkins-plugin",
+                "type": "github"
+            },
+            {
+                "title": "aws-device-farm-sample-app-for-android",
+                "href": "https://github.com/awslabs/aws-device-farm-sample-app-for-android",
+                "github": "awslabs/aws-device-farm-sample-app-for-android",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Device Farm",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DynamoDB",
+        "childrens": [
+            {
+                "title": "aws-dotnet-session-provider",
+                "href": "https://github.com/aws/aws-dotnet-session-provider",
+                "github": "aws/aws-dotnet-session-provider",
+                "type": "github"
+            },
+            {
+                "title": "aws-dotnet-trace-listener",
+                "href": "https://github.com/aws/aws-dotnet-trace-listener",
+                "github": "aws/aws-dotnet-trace-listener",
+                "type": "github"
+            },
+            {
+                "title": "aws-dynamodb-encryption-java",
+                "href": "https://github.com/awslabs/aws-dynamodb-encryption-java",
+                "github": "awslabs/aws-dynamodb-encryption-java",
+                "type": "github"
+            },
+            {
+                "title": "aws-dynamodb-examples",
+                "href": "https://github.com/awslabs/aws-dynamodb-examples",
+                "github": "awslabs/aws-dynamodb-examples",
+                "type": "github"
+            },
+            {
+                "title": "aws-dynamodb-mars-json-demo",
+                "href": "https://github.com/awslabs/aws-dynamodb-mars-json-demo",
+                "github": "awslabs/aws-dynamodb-mars-json-demo",
+                "type": "github"
+            },
+            {
+                "title": "aws-dynamodb-session-tomcat",
+                "href": "https://github.com/aws/aws-dynamodb-session-tomcat",
+                "github": "aws/aws-dynamodb-session-tomcat",
+                "type": "github"
+            },
+            {
+                "title": "aws-sessionstore-dynamodb-ruby",
+                "href": "https://github.com/aws/aws-sessionstore-dynamodb-ruby",
+                "github": "aws/aws-sessionstore-dynamodb-ruby",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-cross-region-library :fire:",
+                "href": "https://github.com/awslabs/dynamodb-cross-region-library",
+                "github": "awslabs/dynamodb-cross-region-library",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-geo :fire:",
+                "href": "https://github.com/awslabs/dynamodb-geo",
+                "github": "awslabs/dynamodb-geo",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-import-export-tool",
+                "href": "https://github.com/awslabs/dynamodb-import-export-tool",
+                "github": "awslabs/dynamodb-import-export-tool",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-online-index-violation-detector",
+                "href": "https://github.com/awslabs/dynamodb-online-index-violation-detector",
+                "github": "awslabs/dynamodb-online-index-violation-detector",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-streams-kinesis-adapter",
+                "href": "https://github.com/awslabs/dynamodb-streams-kinesis-adapter",
+                "github": "awslabs/dynamodb-streams-kinesis-adapter",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-tictactoe-example-app",
+                "href": "https://github.com/awslabs/dynamodb-tictactoe-example-app",
+                "github": "awslabs/dynamodb-tictactoe-example-app",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-titan-storage-backend :fire::fire:",
+                "href": "https://github.com/awslabs/dynamodb-titan-storage-backend",
+                "github": "awslabs/dynamodb-titan-storage-backend",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-transactions :fire:",
+                "href": "https://github.com/awslabs/dynamodb-transactions",
+                "github": "awslabs/dynamodb-transactions",
+                "type": "github"
+            },
+            {
+                "title": "logstash-input-dynamodb",
+                "href": "https://github.com/awslabs/logstash-input-dynamodb",
+                "github": "awslabs/logstash-input-dynamodb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DynamoDB",
+        "childrens": [
+            {
+                "title": "channl/dynamodb-lambda-autoscale :fire::fire:",
+                "href": "https://github.com/channl/dynamodb-lambda-autoscale",
+                "github": "channl/dynamodb-lambda-autoscale",
+                "type": "github"
+            },
+            {
+                "title": "lyft/confidant :fire::fire::fire::fire:",
+                "href": "https://github.com/lyft/confidant",
+                "github": "lyft/confidant",
+                "type": "github"
+            },
+            {
+                "title": "sebdah/dynamic-dynamodb :fire::fire::fire:",
+                "href": "https://github.com/sebdah/dynamic-dynamodb",
+                "github": "sebdah/dynamic-dynamodb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic Beanstalk",
+        "childrens": [
+            {
+                "title": "aws-eb-glassfish-dockerfiles",
+                "href": "https://github.com/aws/aws-eb-glassfish-dockerfiles",
+                "github": "aws/aws-eb-glassfish-dockerfiles",
+                "type": "github"
+            },
+            {
+                "title": "aws-eb-python-dockerfiles",
+                "href": "https://github.com/aws/aws-eb-python-dockerfiles",
+                "github": "aws/aws-eb-python-dockerfiles",
+                "type": "github"
+            },
+            {
+                "title": "eb-demo-php-simple-app",
+                "href": "https://github.com/awslabs/eb-demo-php-simple-app",
+                "github": "awslabs/eb-demo-php-simple-app",
+                "type": "github"
+            },
+            {
+                "title": "eb-docker-multiple-ports",
+                "href": "https://github.com/awslabs/eb-docker-multiple-ports",
+                "github": "awslabs/eb-docker-multiple-ports",
+                "type": "github"
+            },
+            {
+                "title": "eb-docker-nginx-proxy",
+                "href": "https://github.com/awslabs/eb-docker-nginx-proxy",
+                "github": "awslabs/eb-docker-nginx-proxy",
+                "type": "github"
+            },
+            {
+                "title": "eb-docker-virtual-hosting",
+                "href": "https://github.com/awslabs/eb-docker-virtual-hosting",
+                "github": "awslabs/eb-docker-virtual-hosting",
+                "type": "github"
+            },
+            {
+                "title": "eb-node-express-sample",
+                "href": "https://github.com/awslabs/eb-node-express-sample",
+                "github": "awslabs/eb-node-express-sample",
+                "type": "github"
+            },
+            {
+                "title": "eb-node-express-signup",
+                "href": "https://github.com/awslabs/eb-node-express-signup",
+                "github": "awslabs/eb-node-express-signup",
+                "type": "github"
+            },
+            {
+                "title": "eb-node-express",
+                "href": "https://github.com/awslabs/eb-node-express",
+                "github": "awslabs/eb-node-express",
+                "type": "github"
+            },
+            {
+                "title": "eb-py-flask-signup-worker",
+                "href": "https://github.com/awslabs/eb-py-flask-signup-worker",
+                "github": "awslabs/eb-py-flask-signup-worker",
+                "type": "github"
+            },
+            {
+                "title": "eb-py-flask-signup :fire:",
+                "href": "https://github.com/awslabs/eb-py-flask-signup",
+                "github": "awslabs/eb-py-flask-signup",
+                "type": "github"
+            },
+            {
+                "title": "eb-python-flask",
+                "href": "https://github.com/awslabs/eb-python-flask",
+                "github": "awslabs/eb-python-flask",
+                "type": "github"
+            },
+            {
+                "title": "eb-wif-sample",
+                "href": "https://github.com/awslabs/eb-wif-sample",
+                "github": "awslabs/eb-wif-sample",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic Beanstalk",
+        "childrens": [
+            {
+                "title": "alienfast/elastic-beanstalk :fire:",
+                "href": "https://github.com/alienfast/elastic-beanstalk",
+                "github": "alienfast/elastic-beanstalk",
+                "type": "github"
+            },
+            {
+                "title": "ThoughtWorksStudios/eb_deployer :fire::fire:",
+                "href": "https://github.com/ThoughtWorksStudios/eb_deployer",
+                "github": "ThoughtWorksStudios/eb_deployer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic Compute Cloud",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic Compute Cloud",
+        "childrens": [
+            {
+                "title": "alestic/ec2-consistent-snapshot :fire::fire:",
+                "href": "https://github.com/alestic/ec2-consistent-snapshot",
+                "github": "alestic/ec2-consistent-snapshot",
+                "type": "github"
+            },
+            {
+                "title": "ConradIrwin/aws-name-server :fire::fire::fire:",
+                "href": "https://github.com/ConradIrwin/aws-name-server",
+                "github": "ConradIrwin/aws-name-server",
+                "type": "github"
+            },
+            {
+                "title": "cristim/autospotting :fire:",
+                "href": "https://github.com/cristim/autospotting",
+                "github": "cristim/autospotting",
+                "type": "github"
+            },
+            {
+                "title": "evannuil/aws-snapshot-tool :fire:",
+                "href": "https://github.com/evannuil/aws-snapshot-tool",
+                "github": "evannuil/aws-snapshot-tool",
+                "type": "github"
+            },
+            {
+                "title": "kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+                "github": "kelseyhightower/kubernetes-the-hard-way",
+                "type": "github"
+            },
+            {
+                "title": "mirakui/ec2ssh :fire:",
+                "href": "https://github.com/mirakui/ec2ssh",
+                "github": "mirakui/ec2ssh",
+                "type": "github"
+            },
+            {
+                "title": "skavanagh/EC2Box :fire::fire:",
+                "href": "https://github.com/skavanagh/EC2Box",
+                "github": "skavanagh/EC2Box",
+                "type": "github"
+            },
+            {
+                "title": "wbailey/claws :fire:",
+                "href": "https://github.com/wbailey/claws",
+                "github": "wbailey/claws",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic Container Service",
+        "childrens": [
+            {
+                "title": "amazon-ecs-agent :fire::fire::fire:",
+                "href": "https://github.com/aws/amazon-ecs-agent",
+                "github": "aws/amazon-ecs-agent",
+                "type": "github"
+            },
+            {
+                "title": "amazon-ecs-amazon-efs",
+                "href": "https://github.com/awslabs/amazon-ecs-amazon-efs",
+                "github": "awslabs/amazon-ecs-amazon-efs",
+                "type": "github"
+            },
+            {
+                "title": "amazon-ecs-init",
+                "href": "https://github.com/aws/amazon-ecs-init",
+                "github": "aws/amazon-ecs-init",
+                "type": "github"
+            },
+            {
+                "title": "blox :fire::fire::fire:",
+                "href": "https://github.com/blox/blox",
+                "github": "blox/blox",
+                "type": "github"
+            },
+            {
+                "title": "ecs-cloudwatch-logs",
+                "href": "https://github.com/awslabs/ecs-cloudwatch-logs",
+                "github": "awslabs/ecs-cloudwatch-logs",
+                "type": "github"
+            },
+            {
+                "title": "ecs-demo-php-simple-app",
+                "href": "https://github.com/awslabs/ecs-demo-php-simple-app",
+                "github": "awslabs/ecs-demo-php-simple-app",
+                "type": "github"
+            },
+            {
+                "title": "ecs-mesos-scheduler-driver :fire:",
+                "href": "https://github.com/awslabs/ecs-mesos-scheduler-driver",
+                "github": "awslabs/ecs-mesos-scheduler-driver",
+                "type": "github"
+            },
+            {
+                "title": "ecs-task-kite",
+                "href": "https://github.com/awslabs/ecs-task-kite",
+                "github": "awslabs/ecs-task-kite",
+                "type": "github"
+            },
+            {
+                "title": "lambda-ecs-worker-pattern :fire:",
+                "href": "https://github.com/awslabs/lambda-ecs-worker-pattern",
+                "github": "awslabs/lambda-ecs-worker-pattern",
+                "type": "github"
+            },
+            {
+                "title": "py-flask-signup-docker",
+                "href": "https://github.com/awslabs/py-flask-signup-docker",
+                "github": "awslabs/py-flask-signup-docker",
+                "type": "github"
+            },
+            {
+                "title": "service-discovery-ecs-consul",
+                "href": "https://github.com/awslabs/service-discovery-ecs-consul",
+                "github": "awslabs/service-discovery-ecs-consul",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic Container Service",
+        "childrens": [
+            {
+                "title": "Lumoslabs/broadside",
+                "href": "https://github.com/lumoslabs/broadside",
+                "github": "lumoslabs/broadside",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic File System",
+        "childrens": [
+            {
+                "title": "amazon-ecs-amazon-efs",
+                "href": "https://github.com/awslabs/amazon-ecs-amazon-efs",
+                "github": "awslabs/amazon-ecs-amazon-efs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic File System",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic MapReduce",
+        "childrens": [
+            {
+                "title": "emr-bootstrap-actions :fire::fire:",
+                "href": "https://github.com/awslabs/emr-bootstrap-actions",
+                "github": "awslabs/emr-bootstrap-actions",
+                "type": "github"
+            },
+            {
+                "title": "emr-sample-apps",
+                "href": "https://github.com/awslabs/emr-sample-apps",
+                "github": "awslabs/emr-sample-apps",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic MapReduce",
+        "childrens": [
+            {
+                "title": "Yelp/mrjob :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Yelp/mrjob",
+                "github": "Yelp/mrjob",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic Search",
+        "childrens": [
+            {
+                "title": "logstash-output-amazon_es :fire:",
+                "href": "https://github.com/awslabs/logstash-output-amazon_es",
+                "github": "awslabs/logstash-output-amazon_es",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-elasticsearch-cookbook",
+                "href": "https://github.com/awslabs/opsworks-elasticsearch-cookbook",
+                "github": "awslabs/opsworks-elasticsearch-cookbook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elastic Search",
+        "childrens": [
+            {
+                "title": "elastic/elasticsearch-cloud-aws :fire::fire::fire:",
+                "href": "https://github.com/elastic/elasticsearch-cloud-aws",
+                "github": "elastic/elasticsearch-cloud-aws",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elasticache",
+        "childrens": [
+            {
+                "title": "aws-elasticache-cluster-client-libmemcached",
+                "href": "https://github.com/awslabs/aws-elasticache-cluster-client-libmemcached",
+                "github": "awslabs/aws-elasticache-cluster-client-libmemcached",
+                "type": "github"
+            },
+            {
+                "title": "aws-elasticache-cluster-client-memcached-for-java",
+                "href": "https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java",
+                "github": "awslabs/aws-elasticache-cluster-client-memcached-for-java",
+                "type": "github"
+            },
+            {
+                "title": "aws-elasticache-cluster-client-memcached-for-php",
+                "href": "https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php",
+                "github": "awslabs/aws-elasticache-cluster-client-memcached-for-php",
+                "type": "github"
+            },
+            {
+                "title": "elasticache-cluster-config-net",
+                "href": "https://github.com/awslabs/elasticache-cluster-config-net",
+                "github": "awslabs/elasticache-cluster-config-net",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elasticache",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Glacier",
+        "childrens": [
+            {
+                "title": "vsespb/mt-aws-glacier :fire::fire:",
+                "href": "https://github.com/vsespb/mt-aws-glacier",
+                "github": "vsespb/mt-aws-glacier",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Kinesis",
+        "childrens": [
+            {
+                "title": "amazon-kinesis-aggregators :fire:",
+                "href": "https://github.com/awslabs/amazon-kinesis-aggregators",
+                "github": "awslabs/amazon-kinesis-aggregators",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-client-net",
+                "href": "https://github.com/awslabs/amazon-kinesis-client-net",
+                "github": "awslabs/amazon-kinesis-client-net",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-client-nodejs :fire:",
+                "href": "https://github.com/awslabs/amazon-kinesis-client-nodejs",
+                "github": "awslabs/amazon-kinesis-client-nodejs",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-client-python :fire:",
+                "href": "https://github.com/awslabs/amazon-kinesis-client-python",
+                "github": "awslabs/amazon-kinesis-client-python",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-client-ruby",
+                "href": "https://github.com/awslabs/amazon-kinesis-client-ruby",
+                "github": "awslabs/amazon-kinesis-client-ruby",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-client :fire::fire:",
+                "href": "https://github.com/awslabs/amazon-kinesis-client",
+                "github": "awslabs/amazon-kinesis-client",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-connectors :fire::fire:",
+                "href": "https://github.com/awslabs/amazon-kinesis-connectors",
+                "github": "awslabs/amazon-kinesis-connectors",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-data-visualization-sample :fire:",
+                "href": "https://github.com/awslabs/amazon-kinesis-data-visualization-sample",
+                "github": "awslabs/amazon-kinesis-data-visualization-sample",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-learning",
+                "href": "https://github.com/awslabs/amazon-kinesis-learning",
+                "github": "awslabs/amazon-kinesis-learning",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-producer :fire:",
+                "href": "https://github.com/awslabs/amazon-kinesis-producer",
+                "github": "awslabs/amazon-kinesis-producer",
+                "type": "github"
+            },
+            {
+                "title": "amazon-kinesis-scaling-utils :fire:",
+                "href": "https://github.com/awslabs/amazon-kinesis-scaling-utils",
+                "github": "awslabs/amazon-kinesis-scaling-utils",
+                "type": "github"
+            },
+            {
+                "title": "aws-fluent-plugin-kinesis :fire:",
+                "href": "https://github.com/awslabs/aws-fluent-plugin-kinesis",
+                "github": "awslabs/aws-fluent-plugin-kinesis",
+                "type": "github"
+            },
+            {
+                "title": "dynamodb-streams-kinesis-adapter",
+                "href": "https://github.com/awslabs/dynamodb-streams-kinesis-adapter",
+                "github": "awslabs/dynamodb-streams-kinesis-adapter",
+                "type": "github"
+            },
+            {
+                "title": "kinesis-log4j-appender",
+                "href": "https://github.com/awslabs/kinesis-log4j-appender",
+                "github": "awslabs/kinesis-log4j-appender",
+                "type": "github"
+            },
+            {
+                "title": "kinesis-poster-worker",
+                "href": "https://github.com/awslabs/kinesis-poster-worker",
+                "github": "awslabs/kinesis-poster-worker",
+                "type": "github"
+            },
+            {
+                "title": "kinesis-storm-spout",
+                "href": "https://github.com/awslabs/kinesis-storm-spout",
+                "github": "awslabs/kinesis-storm-spout",
+                "type": "github"
+            },
+            {
+                "title": "mqtt-kinesis-bridge",
+                "href": "https://github.com/awslabs/mqtt-kinesis-bridge",
+                "github": "awslabs/mqtt-kinesis-bridge",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Kinesis",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lambda",
+        "childrens": [
+            {
+                "title": "amazon-elasticsearch-lambda-samples :fire:",
+                "href": "https://github.com/awslabs/amazon-elasticsearch-lambda-samples",
+                "github": "awslabs/amazon-elasticsearch-lambda-samples",
+                "type": "github"
+            },
+            {
+                "title": "aws-lambda-java-libs",
+                "href": "https://github.com/aws/aws-lambda-java-libs",
+                "github": "aws/aws-lambda-java-libs",
+                "type": "github"
+            },
+            {
+                "title": "aws-lambda-redshift-loader :fire::fire:",
+                "href": "https://github.com/awslabs/aws-lambda-redshift-loader",
+                "github": "awslabs/aws-lambda-redshift-loader",
+                "type": "github"
+            },
+            {
+                "title": "chalice :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/awslabs/chalice",
+                "github": "awslabs/chalice",
+                "type": "github"
+            },
+            {
+                "title": "create-thumbnails-lambda",
+                "href": "https://github.com/awslabs/create-thumbnails-lambda",
+                "github": "awslabs/create-thumbnails-lambda",
+                "type": "github"
+            },
+            {
+                "title": "lambda-ecs-worker-pattern :fire:",
+                "href": "https://github.com/awslabs/lambda-ecs-worker-pattern",
+                "github": "awslabs/lambda-ecs-worker-pattern",
+                "type": "github"
+            },
+            {
+                "title": "lambda-refarch-fileprocessing :fire:",
+                "href": "https://github.com/awslabs/lambda-refarch-fileprocessing",
+                "github": "awslabs/lambda-refarch-fileprocessing",
+                "type": "github"
+            },
+            {
+                "title": "lambda-refarch-iotbackend :fire:",
+                "href": "https://github.com/awslabs/lambda-refarch-iotbackend",
+                "github": "awslabs/lambda-refarch-iotbackend",
+                "type": "github"
+            },
+            {
+                "title": "lambda-refarch-mobilebackend :fire::fire:",
+                "href": "https://github.com/awslabs/lambda-refarch-mobilebackend",
+                "github": "awslabs/lambda-refarch-mobilebackend",
+                "type": "github"
+            },
+            {
+                "title": "lambda-refarch-webapp :fire::fire:",
+                "href": "https://github.com/awslabs/lambda-refarch-webapp",
+                "github": "awslabs/lambda-refarch-webapp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lambda",
+        "childrens": [
+            {
+                "title": "alestic/lambdash :fire:",
+                "href": "https://github.com/alestic/lambdash",
+                "github": "alestic/lambdash",
+                "type": "github"
+            },
+            {
+                "title": "Alephbet/gimel :fire:",
+                "href": "https://github.com/Alephbet/gimel",
+                "github": "Alephbet/gimel",
+                "type": "github"
+            },
+            {
+                "title": "apex/apex :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/apex/apex",
+                "github": "apex/apex",
+                "type": "github"
+            },
+            {
+                "title": "claudiajs/claudia :fire::fire::fire::fire:",
+                "href": "https://github.com/claudiajs/claudia",
+                "github": "claudiajs/claudia",
+                "type": "github"
+            },
+            {
+                "title": "cloudnative/lambda-chat :fire::fire:",
+                "href": "https://github.com/cloudnative/lambda-chat",
+                "github": "cloudnative/lambda-chat",
+                "type": "github"
+            },
+            {
+                "title": "danilop/LambdAuth :fire::fire::fire:",
+                "href": "https://github.com/danilop/LambdAuth",
+                "github": "danilop/LambdAuth",
+                "type": "github"
+            },
+            {
+                "title": "eawsy/aws-lambda-go :fire::fire::fire:",
+                "href": "https://github.com/eawsy/aws-lambda-go",
+                "github": "eawsy/aws-lambda-go",
+                "type": "github"
+            },
+            {
+                "title": "garnaat/kappa :fire::fire::fire:",
+                "href": "https://github.com/garnaat/kappa",
+                "github": "garnaat/kappa",
+                "type": "github"
+            },
+            {
+                "title": "goadapp/goad :fire::fire:fire::fire::fire:",
+                "href": "https://github.com/goadapp/goad",
+                "github": "goadapp/goad",
+                "type": "github"
+            },
+            {
+                "title": "jimpick/lambda-comments :fire::fire::fire:",
+                "href": "https://github.com/jimpick/lambda-comments",
+                "github": "jimpick/lambda-comments",
+                "type": "github"
+            },
+            {
+                "title": "jorgebastida/gordon :fire::fire::fire::fire:",
+                "href": "https://github.com/jorgebastida/gordon",
+                "github": "jorgebastida/gordon",
+                "type": "github"
+            },
+            {
+                "title": "kubek2k/lambdoku :fire::fire::fire:",
+                "href": "https://github.com/kubek2k/lambdoku",
+                "github": "kubek2k/lambdoku",
+                "type": "github"
+            },
+            {
+                "title": "lambci/lambci :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/lambci/lambci",
+                "github": "lambci/lambci",
+                "type": "github"
+            },
+            {
+                "title": "mentum/lambdaws :fire::fire::fire::fire:",
+                "href": "https://github.com/mentum/lambdaws",
+                "github": "mentum/lambdaws",
+                "type": "github"
+            },
+            {
+                "title": "Miserlou/Zappa :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Miserlou/Zappa",
+                "github": "Miserlou/Zappa",
+                "type": "github"
+            },
+            {
+                "title": "nficano/python-lambda :fire::fire:",
+                "href": "https://github.com/nficano/python-lambda",
+                "github": "nficano/python-lambda",
+                "type": "github"
+            },
+            {
+                "title": "serverless/serverless :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/serverless/serverless",
+                "github": "serverless/serverless",
+                "type": "github"
+            },
+            {
+                "title": "Tim-B/grunt-aws-lambda :fire::fire:",
+                "href": "https://github.com/Tim-B/grunt-aws-lambda",
+                "github": "Tim-B/grunt-aws-lambda",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "machine-learning-samples :fire::fire::fire:",
+                "href": "https://github.com/awslabs/machine-learning-samples",
+                "github": "awslabs/machine-learning-samples",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile Analytics",
+        "childrens": [
+            {
+                "title": "aws-sdk-mobile-analytics-js",
+                "href": "https://github.com/aws/aws-sdk-mobile-analytics-js",
+                "github": "aws/aws-sdk-mobile-analytics-js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile Analytics",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "OpsWorks",
+        "childrens": [
+            {
+                "title": "opsworks-attribute-customization",
+                "href": "https://github.com/awslabs/opsworks-attribute-customization",
+                "github": "awslabs/opsworks-attribute-customization",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-capistrano",
+                "href": "https://github.com/awslabs/opsworks-capistrano",
+                "github": "awslabs/opsworks-capistrano",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-cloudwatch-logs-cookbooks",
+                "href": "https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks",
+                "github": "awslabs/opsworks-cloudwatch-logs-cookbooks",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-cookbooks :fire::fire::fire:",
+                "href": "https://github.com/aws/opsworks-cookbooks",
+                "github": "aws/opsworks-cookbooks",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-demo-php-photo-share-app",
+                "href": "https://github.com/awslabs/opsworks-demo-php-photo-share-app",
+                "github": "awslabs/opsworks-demo-php-photo-share-app",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-demo-php-simple-app",
+                "href": "https://github.com/awslabs/opsworks-demo-php-simple-app",
+                "github": "awslabs/opsworks-demo-php-simple-app",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-demo-rails-photo-share-app",
+                "href": "https://github.com/awslabs/opsworks-demo-rails-photo-share-app",
+                "github": "awslabs/opsworks-demo-rails-photo-share-app",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-elasticsearch-cookbook",
+                "href": "https://github.com/awslabs/opsworks-elasticsearch-cookbook",
+                "github": "awslabs/opsworks-elasticsearch-cookbook",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-example-cookbooks",
+                "href": "https://github.com/awslabs/opsworks-example-cookbooks",
+                "github": "awslabs/opsworks-example-cookbooks",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-first-cookbook",
+                "href": "https://github.com/awslabs/opsworks-first-cookbook",
+                "github": "awslabs/opsworks-first-cookbook",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-windows-demo-",
+                "href": "https://github.com/awslabs/opsworks-windows-demo-nodejs",
+                "github": "awslabs/opsworks-windows-demo-nodejs",
+                "type": "github"
+            },
+            {
+                "title": "opsworks-windows-demo-cookbooks",
+                "href": "https://github.com/awslabs/opsworks-windows-demo-cookbooks",
+                "github": "awslabs/opsworks-windows-demo-cookbooks",
+                "type": "github"
+            },
+            {
+                "title": "todo-sample-app-cookbooks",
+                "href": "https://github.com/awslabs/todo-sample-app-cookbooks",
+                "github": "awslabs/todo-sample-app-cookbooks",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "OpsWorks",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Redshift",
+        "childrens": [
+            {
+                "title": "aws-lambda-redshift-loader :fire::fire:",
+                "href": "https://github.com/awslabs/aws-lambda-redshift-loader",
+                "github": "awslabs/aws-lambda-redshift-loader",
+                "type": "github"
+            },
+            {
+                "title": "amazon-redshift-utils :fire::fire::fire:",
+                "href": "https://github.com/awslabs/amazon-redshift-utils",
+                "github": "awslabs/amazon-redshift-utils",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Redshift",
+        "childrens": [
+            {
+                "title": "Lumoslabs/aleph",
+                "href": "https://github.com/lumoslabs/aleph",
+                "github": "lumoslabs/aleph",
+                "type": "github"
+            },
+            {
+                "title": "getredash/redash :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/getredash/redash/",
+                "github": "getredash/redash/",
+                "type": "github"
+            },
+            {
+                "title": "everythingMe/redshift_console",
+                "href": "https://github.com/EverythingMe/redshift_console",
+                "github": "EverythingMe/redshift_console",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Route 53",
+        "childrens": [
+            {
+                "title": "route53-infima :fire:",
+                "href": "https://github.com/awslabs/route53-infima",
+                "github": "awslabs/route53-infima",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Route 53",
+        "childrens": [
+            {
+                "title": "barnybug/cli53 :fire::fire::fire:",
+                "href": "https://github.com/barnybug/cli53",
+                "github": "barnybug/cli53",
+                "type": "github"
+            },
+            {
+                "title": "winebarrel/roadworker :fire::fire:",
+                "href": "https://github.com/winebarrel/roadworker",
+                "github": "winebarrel/roadworker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "S3",
+        "childrens": [
+            {
+                "title": "anomalizer/ngx_aws_auth :fire::fire:",
+                "href": "https://github.com/anomalizer/ngx_aws_auth",
+                "github": "anomalizer/ngx_aws_auth",
+                "type": "github"
+            },
+            {
+                "title": "bloomreach/s4cmd :fire::fire::fire:",
+                "href": "https://github.com/bloomreach/s4cmd",
+                "github": "bloomreach/s4cmd",
+                "type": "github"
+            },
+            {
+                "title": "CulturalMe/meteor-slingshot :fire::fire::fire:",
+                "href": "https://github.com/CulturalMe/meteor-slingshot",
+                "github": "CulturalMe/meteor-slingshot",
+                "type": "github"
+            },
+            {
+                "title": "danilop/yas3fs :fire::fire:",
+                "href": "https://github.com/danilop/yas3fs",
+                "github": "danilop/yas3fs",
+                "type": "github"
+            },
+            {
+                "title": "grippy/node-s3",
+                "href": "https://github.com/grippy/node-s3",
+                "github": "grippy/node-s3",
+                "type": "github"
+            },
+            {
+                "title": "kahing/goofys :fire::fire::fire:",
+                "href": "https://github.com/kahing/goofys",
+                "github": "kahing/goofys",
+                "type": "github"
+            },
+            {
+                "title": "littlstar/s3renity :fire::fire::fire::fire:",
+                "href": "https://github.com/littlstar/s3renity",
+                "github": "littlstar/s3renity",
+                "type": "github"
+            },
+            {
+                "title": "marcel/aws-s3 :fire::fire::fire:",
+                "href": "https://github.com/marcel/aws-s3",
+                "github": "marcel/aws-s3",
+                "type": "github"
+            },
+            {
+                "title": "mardix/flask-cloudy :fire:",
+                "href": "https://github.com/mardix/flask-cloudy",
+                "github": "mardix/flask-cloudy",
+                "type": "github"
+            },
+            {
+                "title": "MathieuLoutre/grunt-aws-s3 :fire::fire:",
+                "href": "https://github.com/MathieuLoutre/grunt-aws-s3",
+                "github": "MathieuLoutre/grunt-aws-s3",
+                "type": "github"
+            },
+            {
+                "title": "minio/mc :fire::fire:",
+                "href": "https://github.com/minio/mc",
+                "github": "minio/mc",
+                "type": "github"
+            },
+            {
+                "title": "minio/minio :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/minio/minio",
+                "github": "minio/minio",
+                "type": "github"
+            },
+            {
+                "title": "mumrah/s3-multipart :fire:",
+                "href": "https://github.com/mumrah/s3-multipart",
+                "github": "mumrah/s3-multipart",
+                "type": "github"
+            },
+            {
+                "title": "ncw/rclone :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/ncw/rclone",
+                "github": "ncw/rclone",
+                "type": "github"
+            },
+            {
+                "title": "owocki/s3_disk_util :fire:",
+                "href": "https://github.com/owocki/s3_disk_util",
+                "github": "owocki/s3_disk_util",
+                "type": "github"
+            },
+            {
+                "title": "pgherveou/gulp-awspublish :fire::fire:",
+                "href": "https://github.com/pgherveou/gulp-awspublish",
+                "github": "pgherveou/gulp-awspublish",
+                "type": "github"
+            },
+            {
+                "title": "rlmcpherson/s3gof3r :fire::fire::fire:",
+                "href": "https://github.com/rlmcpherson/s3gof3r",
+                "github": "rlmcpherson/s3gof3r",
+                "type": "github"
+            },
+            {
+                "title": "s3git/s3git :fire::fire::fire:",
+                "href": "https://github.com/s3git/s3git",
+                "github": "s3git/s3git",
+                "type": "github"
+            },
+            {
+                "title": "s3fs-fuse/s3fs-fuse :fire::fire::fire::fire:",
+                "href": "https://github.com/s3fs-fuse/s3fs-fuse",
+                "github": "s3fs-fuse/s3fs-fuse",
+                "type": "github"
+            },
+            {
+                "title": "s3tools/s3cmd :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/s3tools/s3cmd",
+                "github": "s3tools/s3cmd",
+                "type": "github"
+            },
+            {
+                "title": "schickling/git-s3 :fire:",
+                "href": "https://github.com/schickling/git-s3",
+                "github": "schickling/git-s3",
+                "type": "github"
+            },
+            {
+                "title": "sorentwo/carrierwave-aws :fire::fire:",
+                "href": "https://github.com/sorentwo/carrierwave-aws",
+                "github": "sorentwo/carrierwave-aws",
+                "type": "github"
+            },
+            {
+                "title": "spring-projects/aws-maven :fire:",
+                "href": "https://github.com/spring-projects/aws-maven",
+                "github": "spring-projects/aws-maven",
+                "type": "github"
+            },
+            {
+                "title": "tongwang/s3fs-c :fire:",
+                "href": "https://github.com/tongwang/s3fs-c",
+                "github": "tongwang/s3fs-c",
+                "type": "github"
+            },
+            {
+                "title": "twpayne/s3-parallel-put :fire:",
+                "href": "https://github.com/twpayne/s3-parallel-put",
+                "github": "twpayne/s3-parallel-put",
+                "type": "github"
+            },
+            {
+                "title": "waynehoover/s3_direct_upload :fire::fire::fire:",
+                "href": "https://github.com/waynehoover/s3_direct_upload",
+                "github": "waynehoover/s3_direct_upload",
+                "type": "github"
+            },
+            {
+                "title": "weavejester/clj-aws-s3 :fire:",
+                "href": "https://github.com/weavejester/clj-aws-s3",
+                "github": "weavejester/clj-aws-s3",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SES",
+        "childrens": [
+            {
+                "title": "drewblas/aws-ses :fire::fire:",
+                "href": "https://github.com/drewblas/aws-ses",
+                "github": "drewblas/aws-ses",
+                "type": "github"
+            },
+            {
+                "title": "microapps/MoonMail :fire::fire::fire:",
+                "href": "https://github.com/microapps/MoonMail",
+                "github": "microapps/MoonMail",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Simple Workflow",
+        "childrens": [
+            {
+                "title": "aws-flow-ruby :fire:",
+                "href": "https://github.com/aws/aws-flow-ruby",
+                "github": "aws/aws-flow-ruby",
+                "type": "github"
+            },
+            {
+                "title": "aws-flow-ruby-samples",
+                "href": "https://github.com/awslabs/aws-flow-ruby-samples",
+                "github": "awslabs/aws-flow-ruby-samples",
+                "type": "github"
+            },
+            {
+                "title": "aws-flow-ruby-opsworks-helloworld",
+                "href": "https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld",
+                "github": "awslabs/aws-flow-ruby-opsworks-helloworld",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Simple Workflow",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SimpleDB",
+        "childrens": [
+            {
+                "title": "rjrodger/simpledb :fire:",
+                "href": "https://github.com/rjrodger/simpledb",
+                "github": "rjrodger/simpledb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SNS",
+        "childrens": [
+            {
+                "title": "aws-php-sns-message-validator",
+                "href": "https://github.com/aws/aws-php-sns-message-validator",
+                "github": "aws/aws-php-sns-message-validator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SNS",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SQS",
+        "childrens": [
+            {
+                "title": "amazon-sqs-java-messaging-lib",
+                "href": "https://github.com/awslabs/amazon-sqs-java-messaging-lib",
+                "github": "awslabs/amazon-sqs-java-messaging-lib",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SQS",
+        "childrens": [
+            {
+                "title": "phstc/shoryuken :fire::fire::fire:",
+                "href": "https://github.com/phstc/shoryuken",
+                "github": "phstc/shoryuken",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data",
+        "childrens": [
+            {
+                "title": "donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/donnemartin/data-science-ipython-notebooks",
+                "github": "donnemartin/data-science-ipython-notebooks",
+                "type": "github"
+            },
+            {
+                "title": "everpeace/vagrant-mesos :fire::fire:",
+                "href": "https://github.com/everpeace/vagrant-mesos",
+                "github": "everpeace/vagrant-mesos",
+                "type": "github"
+            },
+            {
+                "title": "jhorey/ferry :fire::fire:",
+                "href": "https://github.com/jhorey/ferry",
+                "github": "jhorey/ferry",
+                "type": "github"
+            },
+            {
+                "title": "nathanmarz/storm-deploy :fire::fire::fire:",
+                "href": "https://github.com/nathanmarz/storm-deploy",
+                "github": "nathanmarz/storm-deploy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DevOps",
+        "childrens": [
+            {
+                "title": "chef-cookbooks/aws :fire::fire:",
+                "href": "https://github.com/chef-cookbooks/aws",
+                "github": "chef-cookbooks/aws",
+                "type": "github"
+            },
+            {
+                "title": "colinbjohnson/aws-missing-tools :fire::fire::fire:",
+                "href": "https://github.com/colinbjohnson/aws-missing-tools",
+                "github": "colinbjohnson/aws-missing-tools",
+                "type": "github"
+            },
+            {
+                "title": "k1LoW/awspec :fire::fire:",
+                "href": "https://github.com/k1LoW/awspec",
+                "github": "k1LoW/awspec",
+                "type": "github"
+            },
+            {
+                "title": "mitchellh/vagrant-aws :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/mitchellh/vagrant-aws",
+                "github": "mitchellh/vagrant-aws",
+                "type": "github"
+            },
+            {
+                "title": "NixOS/nixops :fire::fire:",
+                "href": "https://github.com/NixOS/nixops",
+                "github": "NixOS/nixops",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "aws-sha256-agentcs",
+                "href": "https://github.com/awslabs/aws-sha256-agentcs",
+                "github": "awslabs/aws-sha256-agentcs",
+                "type": "github"
+            },
+            {
+                "title": "aws-tvm-anonymous",
+                "href": "https://github.com/awslabs/aws-tvm-anonymous",
+                "github": "awslabs/aws-tvm-anonymous",
+                "type": "github"
+            },
+            {
+                "title": "aws-tvm-identity",
+                "href": "https://github.com/awslabs/aws-tvm-identity",
+                "github": "awslabs/aws-tvm-identity",
+                "type": "github"
+            },
+            {
+                "title": "s2n :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/awslabs/s2n",
+                "github": "awslabs/s2n",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "AdRoll/hologram :fire::fire:",
+                "href": "https://github.com/AdRoll/hologram",
+                "github": "AdRoll/hologram",
+                "type": "github"
+            },
+            {
+                "title": "alex/letsencrypt-aws :fire::fire::fire:",
+                "href": "https://github.com/alex/letsencrypt-aws",
+                "github": "alex/letsencrypt-aws",
+                "type": "github"
+            },
+            {
+                "title": "cloudsploit/scans :fire::fire:",
+                "href": "https://github.com/cloudsploit/scans",
+                "github": "cloudsploit/scans",
+                "type": "github"
+            },
+            {
+                "title": "iSECPartners/Scout2 :fire::fire::fire:",
+                "href": "https://github.com/iSECPartners/Scout2",
+                "github": "iSECPartners/Scout2",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/bless :fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/bless",
+                "github": "Netflix/bless",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/security_monkey :fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/security_monkey",
+                "github": "Netflix/security_monkey",
+                "type": "github"
+            },
+            {
+                "title": "sebsto/AWSVPN :fire:",
+                "href": "https://github.com/sebsto/AWSVPN",
+                "github": "sebsto/AWSVPN",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Accompanying Repos",
+        "childrens": [
+            {
+                "title": "aws-arch-backoff-simulator",
+                "href": "https://github.com/awslabs/aws-arch-backoff-simulator",
+                "github": "awslabs/aws-arch-backoff-simulator",
+                "type": "github"
+            },
+            {
+                "title": "aws-big-data-blog :fire::fire:",
+                "href": "https://github.com/awslabs/aws-big-data-blog",
+                "github": "awslabs/aws-big-data-blog",
+                "type": "github"
+            },
+            {
+                "title": "aws-demo-php-simple-app",
+                "href": "https://github.com/awslabs/aws-demo-php-simple-app",
+                "github": "awslabs/aws-demo-php-simple-app",
+                "type": "github"
+            },
+            {
+                "title": "aws-mobile-sample-wif",
+                "href": "https://github.com/awslabs/aws-mobile-sample-wif",
+                "github": "awslabs/aws-mobile-sample-wif",
+                "type": "github"
+            },
+            {
+                "title": "aws-mobile-self-paced-labs-samples",
+                "href": "https://github.com/awslabs/aws-mobile-self-paced-labs-samples",
+                "github": "awslabs/aws-mobile-self-paced-labs-samples",
+                "type": "github"
+            },
+            {
+                "title": "aws-quickstart",
+                "href": "https://github.com/awslabs/aws-quickstart",
+                "github": "awslabs/aws-quickstart",
+                "type": "github"
+            },
+            {
+                "title": "aws-spot-labs :fire:",
+                "href": "https://github.com/awslabs/aws-spot-labs",
+                "github": "awslabs/aws-spot-labs",
+                "type": "github"
+            },
+            {
+                "title": "aws-training-demo",
+                "href": "https://github.com/awslabs/aws-training-demo",
+                "github": "awslabs/aws-training-demo",
+                "type": "github"
+            },
+            {
+                "title": "java-meme-generator-sample",
+                "href": "https://github.com/awslabs/java-meme-generator-sample",
+                "github": "awslabs/java-meme-generator-sample",
+                "type": "github"
+            },
+            {
+                "title": "railsconf2013-tech-demo :fire:",
+                "href": "https://github.com/awslabs/railsconf2013-tech-demo",
+                "github": "awslabs/railsconf2013-tech-demo",
+                "type": "github"
+            },
+            {
+                "title": "reinvent2013-js-blog-demo",
+                "href": "https://github.com/awslabs/reinvent2013-js-blog-demo",
+                "github": "awslabs/reinvent2013-js-blog-demo",
+                "type": "github"
+            },
+            {
+                "title": "reinvent2013-mobile-photo-share",
+                "href": "https://github.com/awslabs/reinvent2013-mobile-photo-share",
+                "github": "awslabs/reinvent2013-mobile-photo-share",
+                "type": "github"
+            },
+            {
+                "title": "reinvent2014-scalable-site-management",
+                "href": "https://github.com/awslabs/reinvent2014-scalable-site-management",
+                "github": "awslabs/reinvent2014-scalable-site-management",
+                "type": "github"
+            },
+            {
+                "title": "reinvent2015-dev309",
+                "href": "https://github.com/awslabs/reinvent2015-dev309",
+                "github": "awslabs/reinvent2015-dev309",
+                "type": "github"
+            },
+            {
+                "title": "timely-security-analytics",
+                "href": "https://github.com/awslabs/timely-security-analytics",
+                "github": "awslabs/timely-security-analytics",
+                "type": "github"
+            },
+            {
+                "title": "todo-app-railsconf",
+                "href": "https://github.com/awslabs/todo-app-railsconf",
+                "github": "awslabs/todo-app-railsconf",
+                "type": "github"
+            },
+            {
+                "title": "todo-sample-app",
+                "href": "https://github.com/awslabs/todo-sample-app",
+                "github": "awslabs/todo-sample-app",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Accompanying Repos",
+        "childrens": [
+            {
+                "title": "startup-class/setup :fire::fire:",
+                "href": "https://github.com/startup-class/setup",
+                "github": "startup-class/setup",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous Repos",
+        "childrens": [
+            {
+                "title": "amediamanager",
+                "href": "https://github.com/awslabs/amediamanager",
+                "github": "awslabs/amediamanager",
+                "type": "github"
+            },
+            {
+                "title": "aws-hal-client-java",
+                "href": "https://github.com/awslabs/aws-hal-client-java",
+                "github": "awslabs/aws-hal-client-java",
+                "type": "github"
+            },
+            {
+                "title": "aws-model-validators",
+                "href": "https://github.com/awslabs/aws-model-validators",
+                "github": "awslabs/aws-model-validators",
+                "type": "github"
+            },
+            {
+                "title": "aws-sdk-js-sample-video-transcoder",
+                "href": "https://github.com/awslabs/aws-sdk-js-sample-video-transcoder",
+                "github": "awslabs/aws-sdk-js-sample-video-transcoder",
+                "type": "github"
+            },
+            {
+                "title": "simplebeerservice :fire:",
+                "href": "https://github.com/awslabs/simplebeerservice",
+                "github": "awslabs/simplebeerservice",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous Repos",
+        "childrens": [
+            {
+                "title": "bcoe/thumbd :fire::fire:",
+                "href": "https://github.com/bcoe/thumbd",
+                "github": "bcoe/thumbd",
+                "type": "github"
+            },
+            {
+                "title": "Comcast/cmb :fire::fire:",
+                "href": "https://github.com/Comcast/cmb",
+                "github": "Comcast/cmb",
+                "type": "github"
+            },
+            {
+                "title": "convox/rack :fire::fire::fire::fire:",
+                "href": "https://github.com/convox/rack",
+                "github": "convox/rack",
+                "type": "github"
+            },
+            {
+                "title": "donnemartin/dev-setup :fire::fire::fire::fire:",
+                "href": "https://github.com/donnemartin/dev-setup",
+                "github": "donnemartin/dev-setup",
+                "type": "github"
+            },
+            {
+                "title": "dtan4/terraforming :fire::fire::fire:",
+                "href": "https://github.com/dtan4/terraforming",
+                "github": "dtan4/terraforming",
+                "type": "github"
+            },
+            {
+                "title": "segmentio/stack :fire::fire::fire:",
+                "href": "https://github.com/segmentio/stack",
+                "github": "segmentio/stack",
+                "type": "github"
+            },
+            {
+                "title": "j2labs/microarmy ",
+                "href": "https://github.com/j2labs/microarmy",
+                "github": "j2labs/microarmy",
+                "type": "github"
+            },
+            {
+                "title": "jpillora/grunt-aws :fire:",
+                "href": "https://github.com/jpillora/grunt-aws",
+                "github": "jpillora/grunt-aws",
+                "type": "github"
+            },
+            {
+                "title": "jvehent/haproxy-aws :fire::fire:",
+                "href": "https://github.com/jvehent/haproxy-aws",
+                "github": "jvehent/haproxy-aws",
+                "type": "github"
+            },
+            {
+                "title": "meducation/propono :fire::fire:",
+                "href": "https://github.com/meducation/propono",
+                "github": "meducation/propono",
+                "type": "github"
+            },
+            {
+                "title": "mozilla/awsbox :fire::fire::fire:",
+                "href": "https://github.com/mozilla/awsbox",
+                "github": "mozilla/awsbox",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/aminator :fire::fire::fire:",
+                "href": "https://github.com/Netflix/aminator",
+                "github": "Netflix/aminator",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/archaius :fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/archaius",
+                "github": "Netflix/archaius",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/asgard :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/asgard",
+                "github": "Netflix/asgard",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/aws-autoscaling :fire::fire:",
+                "href": "https://github.com/Netflix/aws-autoscaling",
+                "github": "Netflix/aws-autoscaling",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/chaosmonkey :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/chaosmonkey",
+                "github": "Netflix/chaosmonkey",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/eureka :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/eureka",
+                "github": "Netflix/eureka",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/EVCache :fire::fire::fire:",
+                "href": "https://github.com/Netflix/EVCache",
+                "github": "Netflix/EVCache",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/Fenzo :fire::fire:",
+                "href": "https://github.com/Netflix/Fenzo",
+                "github": "Netflix/Fenzo",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/ice :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/ice",
+                "github": "Netflix/ice",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/ribbon :fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/ribbon",
+                "github": "Netflix/ribbon",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/SimianArmy :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/SimianArmy",
+                "github": "Netflix/SimianArmy",
+                "type": "github"
+            },
+            {
+                "title": "Netflix/zuul :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Netflix/zuul",
+                "github": "Netflix/zuul",
+                "type": "github"
+            },
+            {
+                "title": "niftylettuce/gulp-aws-splash :fire::fire:",
+                "href": "https://github.com/niftylettuce/gulp-aws-splash",
+                "github": "niftylettuce/gulp-aws-splash",
+                "type": "github"
+            },
+            {
+                "title": "puppetlabs/puppetlabs-aws :fire:",
+                "href": "https://github.com/puppetlabs/puppetlabs-aws",
+                "github": "puppetlabs/puppetlabs-aws",
+                "type": "github"
+            },
+            {
+                "title": "mhart/react-server-routing-example :fire::fire:",
+                "href": "https://github.com/mhart/react-server-routing-example",
+                "github": "mhart/react-server-routing-example",
+                "type": "github"
+            },
+            {
+                "title": "snowplow/snowplow :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/snowplow/snowplow",
+                "github": "snowplow/snowplow",
+                "type": "github"
+            },
+            {
+                "title": "Spinnaker/spinnaker :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/Spinnaker/spinnaker",
+                "github": "Spinnaker/spinnaker",
+                "type": "github"
+            },
+            {
+                "title": "spulec/moto :fire::fire::fire:",
+                "href": "https://github.com/spulec/moto",
+                "github": "spulec/moto",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Getting Started Guides",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General Guides",
+        "childrens": [
+            {
+                "title": "Open Guide to AWS :fire::fire::fire::fire::fire:",
+                "href": "https://github.com/open-guides/og-aws",
+                "github": "open-guides/og-aws",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blogs",
+        "childrens": [
+            {
+                "title": "A Curated List of Engineering Blogs",
+                "href": "https://github.com/kilimchoi/engineering-blogs",
+                "github": "kilimchoi/engineering-blogs",
+                "type": "github"
+            },
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Facebook Pages",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Conferences",
+        "childrens": [
+            {
+                "title": "Contribute",
+                "href": "https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "github": "donnemartin/awesome-aws/blob/master/CONTRIBUTING.md",
+                "type": "github"
+            }
+        ]
+    }
+]

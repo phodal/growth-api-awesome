@@ -1,0 +1,54 @@
+[
+    {
+        "heading": "Books",
+        "childrens": [
+            {
+                "title": "Introduction to Autonomous Robots",
+                "href": "https://github.com/correll/Introduction-to-Autonomous-Robots/releases",
+                "github": "correll/Introduction-to-Autonomous-Robots/releases",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related awesome lists",
+        "childrens": [
+            {
+                "title": "Awesome Artificial Intelligence",
+                "href": "https://github.com/owainlewis/awesome-artificial-intelligence",
+                "github": "owainlewis/awesome-artificial-intelligence",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Computer Vision",
+                "href": "https://github.com/jbhuang0604/awesome-computer-vision",
+                "github": "jbhuang0604/awesome-computer-vision",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Machine Learning",
+                "href": "https://github.com/josephmisiti/awesome-machine-learning",
+                "github": "josephmisiti/awesome-machine-learning",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Deep Learning",
+                "href": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+                "github": "ChristosChristofidis/awesome-deep-learning",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Deep Vision",
+                "href": "https://github.com/kjw0612/awesome-deep-vision",
+                "github": "kjw0612/awesome-deep-vision",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Reinforcement Learning",
+                "href": "https://github.com/aikorea/awesome-rl/",
+                "github": "aikorea/awesome-rl/",
+                "type": "github"
+            }
+        ]
+    }
+]

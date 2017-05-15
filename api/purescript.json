@@ -1,0 +1,164 @@
+[
+    {
+        "heading": "Build Tooling",
+        "childrens": [
+            {
+                "title": "pulp",
+                "href": "https://github.com/bodil/pulp",
+                "github": "bodil/pulp",
+                "type": "github"
+            },
+            {
+                "title": "psvm-js",
+                "href": "https://github.com/ThomasCrvsr/psvm-js",
+                "github": "ThomasCrvsr/psvm-js",
+                "type": "github"
+            },
+            {
+                "title": "purescript-psa",
+                "href": "https://github.com/natefaubion/purescript-psa",
+                "github": "natefaubion/purescript-psa",
+                "type": "github"
+            },
+            {
+                "title": "grunt-purescript",
+                "href": "https://github.com/purescript-contrib/grunt-purescript",
+                "github": "purescript-contrib/grunt-purescript",
+                "type": "github"
+            },
+            {
+                "title": "gulp-purescript",
+                "href": "https://github.com/purescript-contrib/gulp-purescript",
+                "github": "purescript-contrib/gulp-purescript",
+                "type": "github"
+            },
+            {
+                "title": "purs-loader",
+                "href": "https://github.com/ethul/purs-loader",
+                "github": "ethul/purs-loader",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Preludes",
+        "childrens": [
+            {
+                "title": "purescript-prelude",
+                "href": "https://github.com/purescript/purescript-prelude",
+                "github": "purescript/purescript-prelude",
+                "type": "github"
+            },
+            {
+                "title": "purescript-preface",
+                "href": "https://github.com/paf31/purescript-preface",
+                "github": "paf31/purescript-preface",
+                "type": "github"
+            },
+            {
+                "title": "purescript-batteries",
+                "href": "https://github.com/tfausak/purescript-batteries",
+                "github": "tfausak/purescript-batteries",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI Libraries",
+        "childrens": [
+            {
+                "title": "purescript-thermite",
+                "href": "https://github.com/paf31/purescript-thermite",
+                "github": "paf31/purescript-thermite",
+                "type": "github"
+            },
+            {
+                "title": "purescript-halogen",
+                "href": "https://github.com/slamdata/purescript-halogen",
+                "github": "slamdata/purescript-halogen",
+                "type": "github"
+            },
+            {
+                "title": "purescript-react-simple",
+                "href": "https://github.com/joneshf/purescript-react-simple",
+                "github": "joneshf/purescript-react-simple",
+                "type": "github"
+            },
+            {
+                "title": "purescript-css",
+                "href": "https://github.com/slamdata/purescript-css",
+                "github": "slamdata/purescript-css",
+                "type": "github"
+            },
+            {
+                "title": "purescript-optic-ui",
+                "href": "https://github.com/zrho/purescript-optic-ui",
+                "github": "zrho/purescript-optic-ui",
+                "type": "github"
+            },
+            {
+                "title": "purescript-flare",
+                "href": "https://github.com/sharkdp/purescript-flare",
+                "github": "sharkdp/purescript-flare",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Asynchronicity and Parallelism",
+        "childrens": [
+            {
+                "title": "purescript-aff",
+                "href": "https://github.com/slamdata/purescript-aff",
+                "github": "slamdata/purescript-aff",
+                "type": "github"
+            },
+            {
+                "title": "purescript-affjax",
+                "href": "https://github.com/slamdata/purescript-aff",
+                "github": "slamdata/purescript-aff",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "purescript-test-unit",
+                "href": "https://github.com/bodil/purescript-test-unit",
+                "github": "bodil/purescript-test-unit",
+                "type": "github"
+            },
+            {
+                "title": "purescript-quickcheck",
+                "href": "https://github.com/purescript/purescript-quickcheck",
+                "github": "purescript/purescript-quickcheck",
+                "type": "github"
+            },
+            {
+                "title": "purescript-quickcheck-laws",
+                "href": "https://github.com/garyb/purescript-quickcheck-laws",
+                "github": "garyb/purescript-quickcheck-laws",
+                "type": "github"
+            },
+            {
+                "title": "purescript-benchotron",
+                "href": "https://github.com/hdgarrood/purescript-benchotron",
+                "github": "hdgarrood/purescript-benchotron",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "More Resources",
+        "childrens": [
+            {
+                "title": "Purescript Ecosystem",
+                "href": "https://github.com/xgrommx/purescript-ecosystem",
+                "github": "xgrommx/purescript-ecosystem",
+                "type": "github"
+            }
+        ]
+    }
+]

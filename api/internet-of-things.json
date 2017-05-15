@@ -1,0 +1,47 @@
+[
+    {
+        "heading": "Frameworks",
+        "childrens": [
+            {
+                "title": "Countly IoT Analytics",
+                "href": "http://github.com/countly/countly-server",
+                "github": "ountly/countly-server",
+                "type": "github"
+            },
+            {
+                "title": "Home Assistant",
+                "href": "https://github.com/home-assistant/home-assistant",
+                "github": "home-assistant/home-assistant",
+                "type": "github"
+            },
+            {
+                "title": "Thingsboard IoT Gateway",
+                "href": "https://github.com/thingsboard/thingsboard-gateway",
+                "github": "thingsboard/thingsboard-gateway",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Middlewares",
+        "childrens": [
+            {
+                "title": "Huginn",
+                "href": "https://github.com/cantino/huginn",
+                "github": "cantino/huginn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries and Tools",
+        "childrens": [
+            {
+                "title": "SmartObject",
+                "href": "https://github.com/PeterEB/smartobject",
+                "github": "PeterEB/smartobject",
+                "type": "github"
+            }
+        ]
+    }
+]

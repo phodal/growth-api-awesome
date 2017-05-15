@@ -1,0 +1,35 @@
+[
+    {
+        "heading": "Free eBooks",
+        "childrens": [
+            {
+                "title": "You Don't Know JS (book series)",
+                "href": "https://github.com/getify/You-Dont-Know-JS",
+                "github": "getify/You-Dont-Know-JS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ES6 and above",
+        "childrens": [
+            {
+                "title": "Practical ES6",
+                "href": "https://github.com/mjavascript/practical-es6",
+                "github": "mjavascript/practical-es6",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Node.js",
+        "childrens": [
+            {
+                "title": "The Art of Node",
+                "href": "https://github.com/maxogden/art-of-node#readme",
+                "github": "maxogden/art-of-node#readme",
+                "type": "github"
+            }
+        ]
+    }
+]

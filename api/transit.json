@@ -1,0 +1,480 @@
+[
+    {
+        "heading": "Data",
+        "childrens": [
+            {
+                "title": "CapMetrics",
+                "href": "https://github.com/scascketta/CapMetrics",
+                "github": "scascketta/CapMetrics",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "APIs",
+        "childrens": [
+            {
+                "title": "pyBikes",
+                "href": "https://github.com/eskerda/pybikes",
+                "github": "eskerda/pybikes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hardware",
+        "childrens": [
+            {
+                "title": "Bus Tracking GPS",
+                "href": "https://github.com/herrdragon/busTrackingGps",
+                "github": "herrdragon/busTrackingGps",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Apps",
+        "childrens": [
+            {
+                "title": "OpenTripPlanner Client GWT",
+                "href": "https://github.com/mecatran/OpenTripPlanner-client-gwt",
+                "github": "mecatran/OpenTripPlanner-client-gwt",
+                "type": "github"
+            },
+            {
+                "title": "OpenTripPlanner.js",
+                "href": "https://github.com/conveyal/otp.js",
+                "github": "conveyal/otp.js",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime Alerts Producer Web Application",
+                "href": "https://github.com/OneBusAway/onebusaway-service-alerts",
+                "github": "OneBusAway/onebusaway-service-alerts",
+                "type": "github"
+            },
+            {
+                "title": "HRT BUS Web app",
+                "href": "https://github.com/Code4HR/hrt-bus-api",
+                "github": "Code4HR/hrt-bus-api",
+                "type": "github"
+            },
+            {
+                "title": "Transit-Map",
+                "href": "https://github.com/vasile/transit-map",
+                "github": "vasile/transit-map",
+                "type": "github"
+            },
+            {
+                "title": "Transitive.js",
+                "href": "https://github.com/conveyal/transitive.js",
+                "github": "conveyal/transitive.js",
+                "type": "github"
+            },
+            {
+                "title": "OpenTripPlanner Android",
+                "href": "https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki",
+                "github": "CUTR-at-USF/OpenTripPlanner-for-Android/wiki",
+                "type": "github"
+            },
+            {
+                "title": "OpenTripPlanner iOS",
+                "href": "https://github.com/opentripplanner/OpenTripPlanner-iOS",
+                "github": "opentripplanner/OpenTripPlanner-iOS",
+                "type": "github"
+            },
+            {
+                "title": "Transportr",
+                "href": "https://github.com/grote/Transportr",
+                "github": "grote/Transportr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Visualizations",
+        "childrens": [
+            {
+                "title": "SEPTA Rail OTP Report",
+                "href": "https://github.com/fulldecent/septa-regionalrail-otp",
+                "github": "fulldecent/septa-regionalrail-otp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Resources",
+        "childrens": [
+            {
+                "title": "When(ish) is my bus? Data and code",
+                "href": "https://github.com/mjskay/when-ish-is-my-bus",
+                "github": "mjskay/when-ish-is-my-bus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GTFS Libraries",
+        "childrens": [
+            {
+                "title": "Mapzen GTFS",
+                "href": "https://github.com/transitland/mapzen-gtfs",
+                "github": "transitland/mapzen-gtfs",
+                "type": "github"
+            },
+            {
+                "title": "gtfsdb",
+                "href": "https://github.com/OpenTransitTools/gtfsdb",
+                "github": "OpenTransitTools/gtfsdb",
+                "type": "github"
+            },
+            {
+                "title": "OneBusAway GTFS Modules",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki",
+                "github": "OneBusAway/onebusaway-gtfs-modules/wiki",
+                "type": "github"
+            },
+            {
+                "title": "GTFS to SQL",
+                "href": "https://github.com/TransitFeeds/GtfsToSql",
+                "github": "TransitFeeds/GtfsToSql",
+                "type": "github"
+            },
+            {
+                "title": "SQL to GTFS",
+                "href": "https://github.com/TransitFeeds/SqlToGtfs",
+                "github": "TransitFeeds/SqlToGtfs",
+                "type": "github"
+            },
+            {
+                "title": "Go GTFS Parser",
+                "href": "https://github.com/geops/gtfsparser",
+                "github": "geops/gtfsparser",
+                "type": "github"
+            },
+            {
+                "title": "GTFS Feed Parser",
+                "href": "https://github.com/OsmSharp/GTFS",
+                "github": "OsmSharp/GTFS",
+                "type": "github"
+            },
+            {
+                "title": "Node-GTFS",
+                "href": "https://github.com/brendannee/node-gtfs",
+                "github": "brendannee/node-gtfs",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-viz",
+                "href": "https://github.com/vasile/GTFS-viz",
+                "github": "vasile/GTFS-viz",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-OSM-Sync",
+                "href": "https://github.com/CUTR-at-USF/gtfs-osm-sync",
+                "github": "CUTR-at-USF/gtfs-osm-sync",
+                "type": "github"
+            },
+            {
+                "title": "gtfs-sequelize",
+                "href": "https://github.com/evansiroky/gtfs-sequelize",
+                "github": "evansiroky/gtfs-sequelize",
+                "type": "github"
+            },
+            {
+                "title": "gtfslib-python",
+                "href": "https://github.com/afimb/gtfslib-python",
+                "github": "afimb/gtfslib-python",
+                "type": "github"
+            },
+            {
+                "title": "multigtfs",
+                "href": "https://github.com/tulsawebdevs/django-multi-gtfs",
+                "github": "tulsawebdevs/django-multi-gtfs",
+                "type": "github"
+            },
+            {
+                "title": "GTFSTK",
+                "href": "https://github.com/araichev/gtfstk",
+                "github": "araichev/gtfstk",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GTFS Converters",
+        "childrens": [
+            {
+                "title": "Transmodel and IFF to GTFS",
+                "href": "https://github.com/bliksemlabs/bliksemintegration",
+                "github": "bliksemlabs/bliksemintegration",
+                "type": "github"
+            },
+            {
+                "title": "Open-Transport SYNTHESE Convertors",
+                "href": "https://github.com/Open-Transport/synthese/wiki",
+                "github": "Open-Transport/synthese/wiki",
+                "type": "github"
+            },
+            {
+                "title": "bus-router",
+                "href": "https://github.com/atlregional/bus-router",
+                "github": "atlregional/bus-router",
+                "type": "github"
+            },
+            {
+                "title": "GTFS Editor",
+                "href": "https://github.com/conveyal/gtfs-editor",
+                "github": "conveyal/gtfs-editor",
+                "type": "github"
+            },
+            {
+                "title": "GTFS Editor for Vagrant",
+                "href": "https://github.com/laidig/vagrant-gtfs-editor",
+                "github": "laidig/vagrant-gtfs-editor",
+                "type": "github"
+            },
+            {
+                "title": "Gtfs Data Manager",
+                "href": "https://github.com/conveyal/gtfs-data-manager",
+                "github": "conveyal/gtfs-data-manager",
+                "type": "github"
+            },
+            {
+                "title": "feedValidator",
+                "href": "https://github.com/google/transitfeed/wiki/FeedValidator",
+                "github": "google/transitfeed/wiki/FeedValidator",
+                "type": "github"
+            },
+            {
+                "title": "gtfs-validator",
+                "href": "https://github.com/conveyal/gtfs-validator",
+                "github": "conveyal/gtfs-validator",
+                "type": "github"
+            },
+            {
+                "title": "GFTS Data Package Specification",
+                "href": "https://github.com/Stephen-Gates/GTFS",
+                "github": "Stephen-Gates/GTFS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GTFS Realtime Libraries & Demo Apps",
+        "childrens": [
+            {
+                "title": "gtfs-realtime-bindings",
+                "href": "https://github.com/google/gtfs-realtime-bindings",
+                "github": "google/gtfs-realtime-bindings",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime Exporter",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-exporter/wiki",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime Alerts Producer Demo",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime Alerts Producer Web Application",
+                "href": "https://github.com/OneBusAway/onebusaway-service-alerts",
+                "github": "OneBusAway/onebusaway-service-alerts",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime TripUpdates & VehiclePositions Producer Demo",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime Vehicle Positions Consumer/Visualizer Demo",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer/wiki",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-visualizer/wiki",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GTFS Realtime Validators",
+        "childrens": [
+            {
+                "title": "gtfs-realtime-validator",
+                "href": "https://github.com/CUTR-at-USF/gtfs-realtime-validator",
+                "github": "CUTR-at-USF/gtfs-realtime-validator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GTFS Realtime Archival Tools",
+        "childrens": [
+            {
+                "title": "GTFS-realtime to SQL",
+                "href": "https://github.com/TransitFeeds/GtfsRealTimeToSql",
+                "github": "TransitFeeds/GtfsRealTimeToSql",
+                "type": "github"
+            },
+            {
+                "title": "gtfsrdb",
+                "href": "https://github.com/CUTR-at-USF/gtfsrdb",
+                "github": "CUTR-at-USF/gtfsrdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GTFS Realtime Convertors",
+        "childrens": [
+            {
+                "title": "SIRI to GTFS-realtime",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki",
+                "type": "github"
+            },
+            {
+                "title": "OrbCAD SQL Server to GTFS-realtime",
+                "href": "https://github.com/CUTR-at-USF/HART-GTFS-realtimeGenerator/wiki",
+                "github": "CUTR-at-USF/HART-GTFS-realtimeGenerator/wiki",
+                "type": "github"
+            },
+            {
+                "title": "NextBus API to GTFS-realtime",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli/wiki",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli/wiki",
+                "type": "github"
+            },
+            {
+                "title": "Syncromatics API to GTFS-realtime",
+                "href": "https://github.com/CUTR-at-USF/bullrunner-gtfs-realtime-generator",
+                "github": "CUTR-at-USF/bullrunner-gtfs-realtime-generator",
+                "type": "github"
+            },
+            {
+                "title": "KV6,15,17, and ARNU to GTFS-realtime",
+                "href": "https://github.com/bliksemlabs/bliksemintegration-realtime",
+                "github": "bliksemlabs/bliksemintegration-realtime",
+                "type": "github"
+            },
+            {
+                "title": "WMATA BusPositions API to GTFS-realtime",
+                "href": "https://github.com/kurtraschke/wmata-gtfsrealtime",
+                "github": "kurtraschke/wmata-gtfsrealtime",
+                "type": "github"
+            },
+            {
+                "title": "SEPTA API to GTFS-realtime",
+                "href": "https://github.com/kurtraschke/septa-gtfsrealtime",
+                "github": "kurtraschke/septa-gtfsrealtime",
+                "type": "github"
+            },
+            {
+                "title": "CTA API to GTFS-realtime",
+                "href": "https://github.com/kurtraschke/ctatt-gtfsrealtime",
+                "github": "kurtraschke/ctatt-gtfsrealtime",
+                "type": "github"
+            },
+            {
+                "title": "Detroit DOT to GTFS-realtime",
+                "href": "https://github.com/prashtx/ddot-avl",
+                "github": "prashtx/ddot-avl",
+                "type": "github"
+            },
+            {
+                "title": "Live Transit Event Trigger",
+                "href": "https://github.com/ipublic/live_transit_event_trigger",
+                "github": "ipublic/live_transit_event_trigger",
+                "type": "github"
+            },
+            {
+                "title": "SoundTransit to GTFS-realtime",
+                "href": "https://github.com/bdferris/onebusaway-sound-transit-realtime",
+                "github": "bdferris/onebusaway-sound-transit-realtime",
+                "type": "github"
+            },
+            {
+                "title": "Civic Transit",
+                "href": "https://github.com/jestin/CivicTransit",
+                "github": "jestin/CivicTransit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GTFS Realtime Utilities",
+        "childrens": [
+            {
+                "title": "gtfs-rt-dump",
+                "href": "https://github.com/kurtraschke/gtfs-rt-dump",
+                "github": "kurtraschke/gtfs-rt-dump",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime Munin Plugin",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-munin-plugin",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime Nagio Plugin",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-nagios-plugin",
+                "type": "github"
+            },
+            {
+                "title": "GTFS-realtime-test-service",
+                "href": "https://github.com/CUTR-at-USF/gtfs-realtime-test-service",
+                "github": "CUTR-at-USF/gtfs-realtime-test-service",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SIRI",
+        "childrens": [
+            {
+                "title": "SIRI API",
+                "href": "https://github.com/OneBusAway/onebusaway/wiki/SIRI-Resources",
+                "github": "OneBusAway/onebusaway/wiki/SIRI-Resources",
+                "type": "github"
+            },
+            {
+                "title": "SIRI 2.0 API",
+                "href": "https://github.com/laidig/siri-20-java",
+                "github": "laidig/siri-20-java",
+                "type": "github"
+            },
+            {
+                "title": "SIRI to GTFS-realtime",
+                "href": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki",
+                "github": "OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki",
+                "type": "github"
+            },
+            {
+                "title": "King County Metro Legacy AVL to SIRI",
+                "href": "https://github.com/bdferris/onebusaway-king-county-metro/tree/master/onebusaway-king-county-metro-legacy-avl-to-siri",
+                "github": "bdferris/onebusaway-king-county-metro/tree/master/onebusaway-king-county-metro-legacy-avl-to-siri",
+                "type": "github"
+            },
+            {
+                "title": "SIRI REST Client",
+                "href": "https://github.com/CUTR-at-USF/SiriRestClient/wiki",
+                "github": "CUTR-at-USF/SiriRestClient/wiki",
+                "type": "github"
+            },
+            {
+                "title": "SIRI 1.3 POJOs (Android-compatible)",
+                "href": "https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki",
+                "github": "CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki",
+                "type": "github"
+            }
+        ]
+    }
+]

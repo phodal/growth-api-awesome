@@ -1,0 +1,12 @@
+[
+    {
+        "childrens": [
+            {
+                "title": "Awesome Elixir",
+                "href": "https://github.com/h4cc/awesome-elixir",
+                "github": "h4cc/awesome-elixir",
+                "type": "github"
+            }
+        ]
+    }
+]

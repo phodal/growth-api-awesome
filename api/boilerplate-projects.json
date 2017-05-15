@@ -1,0 +1,314 @@
+[
+    {
+        "heading": "Android Development",
+        "childrens": [
+            {
+                "title": "Android Bootstrap",
+                "href": "https://github.com/AndroidBootstrap/android-bootstrap",
+                "github": "AndroidBootstrap/android-bootstrap",
+                "type": "github"
+            },
+            {
+                "title": "Android Material Drawer Template",
+                "href": "https://github.com/kanytu/android-material-drawer-template",
+                "github": "kanytu/android-material-drawer-template",
+                "type": "github"
+            },
+            {
+                "title": "material-design-icons-adt-template",
+                "href": "https://github.com/intrications/material-design-icons-adt-template",
+                "github": "intrications/material-design-icons-adt-template",
+                "type": "github"
+            },
+            {
+                "title": "AndroidKickststarter",
+                "href": "https://github.com/e-biz/androidkickstartr",
+                "github": "e-biz/androidkickstartr",
+                "type": "github"
+            },
+            {
+                "title": "Android Annotations",
+                "href": "https://github.com/excilys/androidannotations",
+                "github": "excilys/androidannotations",
+                "type": "github"
+            },
+            {
+                "title": "Android Cookbook Examples",
+                "href": "https://github.com/IanDarwin/Android-Cookbook-Examples",
+                "github": "IanDarwin/Android-Cookbook-Examples",
+                "type": "github"
+            },
+            {
+                "title": "Android Basic Samples",
+                "href": "https://github.com/playgameservices/android-basic-samples",
+                "github": "playgameservices/android-basic-samples",
+                "type": "github"
+            },
+            {
+                "title": "Android Webview Sample App",
+                "href": "https://github.com/tscolari/android-webview-sample-app",
+                "github": "tscolari/android-webview-sample-app",
+                "type": "github"
+            },
+            {
+                "title": "Android Quickstart",
+                "href": "https://github.com/googledrive/android-quickstart",
+                "github": "googledrive/android-quickstart",
+                "type": "github"
+            },
+            {
+                "title": "Beginning Android Resources",
+                "href": "https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources",
+                "github": "codepath/android_guides/wiki/Beginning-Android-Resources",
+                "type": "github"
+            },
+            {
+                "title": "Universal Music Player",
+                "href": "https://github.com/googlesamples/android-UniversalMusicPlayer",
+                "github": "googlesamples/android-UniversalMusicPlayer",
+                "type": "github"
+            },
+            {
+                "title": "Android Architecture Blueprints",
+                "href": "https://github.com/googlesamples/android-architecture",
+                "github": "googlesamples/android-architecture",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IOS Development.",
+        "childrens": [
+            {
+                "title": "iOS Boilerplate",
+                "href": "https://github.com/gimenete/iOS-boilerplate",
+                "github": "gimenete/iOS-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Amaro",
+                "href": "https://github.com/crushlovely/Amaro",
+                "github": "crushlovely/Amaro",
+                "type": "github"
+            },
+            {
+                "title": "Boilerplate-iOS",
+                "href": "https://github.com/openaphid/Boilerplate-iOS",
+                "github": "openaphid/Boilerplate-iOS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "Yeoman",
+                "href": "https://github.com/yeoman",
+                "github": "yeoman",
+                "type": "github"
+            },
+            {
+                "title": "Mega Boilerplate",
+                "href": "https://github.com/sahat/megaboilerplate",
+                "github": "sahat/megaboilerplate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Hybrid Mobile App Frameworks",
+        "childrens": [
+            {
+                "title": "Angular Gulp Ionic Boilerplate",
+                "href": "https://github.com/MaximAbramchuck/angular-gulp-ionic-boilerplate",
+                "github": "MaximAbramchuck/angular-gulp-ionic-boilerplate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "Django Hackathon Starter",
+                "href": "https://github.com/DrkSephy/django-hackathon-starter",
+                "github": "DrkSephy/django-hackathon-starter",
+                "type": "github"
+            },
+            {
+                "title": "CookieCutter",
+                "href": "https://github.com/audreyr/cookiecutter#python",
+                "github": "audreyr/cookiecutter#python",
+                "type": "github"
+            },
+            {
+                "title": "bootstrapy",
+                "href": "https://github.com/kirang89/bootstrapy",
+                "github": "kirang89/bootstrapy",
+                "type": "github"
+            },
+            {
+                "title": "Fbone",
+                "href": "https://github.com/imwilsonxu/fbone",
+                "github": "imwilsonxu/fbone",
+                "type": "github"
+            },
+            {
+                "title": "Flask-Bootstrap",
+                "href": "https://github.com/esbullington/flask-bootstrap",
+                "github": "esbullington/flask-bootstrap",
+                "type": "github"
+            },
+            {
+                "title": "Flask Boilerplate",
+                "href": "https://github.com/melvin0008/FlaskBoilerplate",
+                "github": "melvin0008/FlaskBoilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Flask Foundation",
+                "href": "https://github.com/JackStouffer/Flask-Foundation",
+                "github": "JackStouffer/Flask-Foundation",
+                "type": "github"
+            },
+            {
+                "title": "GoogleAppEngine Webapp2 Boilerplate",
+                "href": "https://github.com/coto/gae-boilerplate",
+                "github": "coto/gae-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Flask Appengine Template",
+                "href": "https://github.com/kamalgill/flask-appengine-template",
+                "github": "kamalgill/flask-appengine-template",
+                "type": "github"
+            },
+            {
+                "title": "Django Starter Template",
+                "href": "https://github.com/fasouto/django-starter-template",
+                "github": "fasouto/django-starter-template",
+                "type": "github"
+            },
+            {
+                "title": "CherryPy + Mako + Formish + OOOP boilerplate",
+                "href": "https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
+                "github": "kdeldycke/cherrypy_mako_formish_ooop_boilerplate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "Laravel Angular CouchDB",
+                "href": "https://github.com/melvin0008/laravel-angular",
+                "github": "melvin0008/laravel-angular",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "AngularJS Rails Templates",
+                "href": "https://github.com/pitr/angular-rails-templates",
+                "github": "pitr/angular-rails-templates",
+                "type": "github"
+            },
+            {
+                "title": "AngularJS Sinatra Bootstrap",
+                "href": "https://github.com/dannolan/angularjs-sinatra-bootstrap-template",
+                "github": "dannolan/angularjs-sinatra-bootstrap-template",
+                "type": "github"
+            },
+            {
+                "title": "Rails Bootstrap",
+                "href": "https://github.com/RailsApps/rails-bootstrap",
+                "github": "RailsApps/rails-bootstrap",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": ".NET",
+        "childrens": [
+            {
+                "title": "ASP.NET Boilerplate",
+                "href": "https://github.com/aspnetboilerplate/aspnetboilerplate",
+                "github": "aspnetboilerplate/aspnetboilerplate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chrome App/Extension",
+        "childrens": [
+            {
+                "title": "Generator ChromeApp",
+                "href": "https://github.com/yeoman/generator-chromeapp",
+                "github": "yeoman/generator-chromeapp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Websites",
+        "childrens": [
+            {
+                "title": "Meteor boilerplate",
+                "href": "https://github.com/Differential/meteor-boilerplate",
+                "github": "Differential/meteor-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Web Starter Kit",
+                "href": "https://github.com/google/web-starter-kit",
+                "github": "google/web-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "Jekyll Starter Kit",
+                "href": "https://github.com/nirgn975/generator-jekyll-starter-kit",
+                "github": "nirgn975/generator-jekyll-starter-kit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDE",
+        "childrens": [
+            {
+                "title": "Yasnippet",
+                "href": "https://github.com/capitaomorte/yasnippet",
+                "github": "capitaomorte/yasnippet",
+                "type": "github"
+            },
+            {
+                "title": "Vim Template",
+                "href": "https://github.com/aperezdc/vim-template",
+                "github": "aperezdc/vim-template",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GitHub",
+        "childrens": [
+            {
+                "title": "GitHub Template Guidelines",
+                "href": "https://github.com/cezaraugusto/github-template-guidelines",
+                "github": "cezaraugusto/github-template-guidelines",
+                "type": "github"
+            },
+            {
+                "title": "Pollinate",
+                "href": "https://github.com/everysquare/pollinate",
+                "github": "everysquare/pollinate",
+                "type": "github"
+            }
+        ]
+    }
+]

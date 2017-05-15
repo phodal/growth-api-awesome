@@ -1,0 +1,41 @@
+[
+    {
+        "heading": "Platforms and toolkits",
+        "childrens": [
+            {
+                "title": "Haxe-linguistics",
+                "href": "https://github.com/sexybiggetje/haxe-linguistics",
+                "github": "sexybiggetje/haxe-linguistics",
+                "type": "github"
+            },
+            {
+                "title": "Natural",
+                "href": "https://github.com/NaturalNode/natural",
+                "github": "NaturalNode/natural",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data sets",
+        "childrens": [
+            {
+                "title": "EuroRomCom Data",
+                "href": "https://github.com/kirkins/euroromcom",
+                "github": "kirkins/euroromcom",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Free",
+        "childrens": [
+            {
+                "title": "Natural Language Processing for the Working Programmer",
+                "href": "https://github.com/nlpwp",
+                "github": "nlpwp",
+                "type": "github"
+            }
+        ]
+    }
+]

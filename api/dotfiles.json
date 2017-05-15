@@ -1,0 +1,159 @@
+[
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Bork",
+                "href": "https://github.com/mattly/bork",
+                "github": "mattly/bork",
+                "type": "github"
+            },
+            {
+                "title": "dotbot",
+                "href": "https://github.com/anishathalye/dotbot",
+                "github": "anishathalye/dotbot",
+                "type": "github"
+            },
+            {
+                "title": "dotfiles",
+                "href": "https://github.com/jbernard/dotfiles",
+                "github": "jbernard/dotfiles",
+                "type": "github"
+            },
+            {
+                "title": "Ellipsis",
+                "href": "https://github.com/ellipsis/ellipsis",
+                "github": "ellipsis/ellipsis",
+                "type": "github"
+            },
+            {
+                "title": "homeshick",
+                "href": "https://github.com/andsens/homeshick",
+                "github": "andsens/homeshick",
+                "type": "github"
+            },
+            {
+                "title": "homesick",
+                "href": "https://github.com/technicalpickles/homesick",
+                "github": "technicalpickles/homesick",
+                "type": "github"
+            },
+            {
+                "title": "mackup",
+                "href": "https://github.com/lra/mackup",
+                "github": "lra/mackup",
+                "type": "github"
+            },
+            {
+                "title": "rcm",
+                "href": "https://github.com/thoughtbot/rcm",
+                "github": "thoughtbot/rcm",
+                "type": "github"
+            },
+            {
+                "title": "vcsh",
+                "href": "https://github.com/RichiH/vcsh",
+                "github": "RichiH/vcsh",
+                "type": "github"
+            },
+            {
+                "title": "yadm",
+                "href": "https://github.com/TheLocehiliosan/yadm",
+                "github": "TheLocehiliosan/yadm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "macOS",
+        "childrens": [
+            {
+                "title": "Cider",
+                "href": "https://github.com/msanders/cider",
+                "github": "msanders/cider",
+                "type": "github"
+            },
+            {
+                "title": "dockutil",
+                "href": "https://github.com/kcrawford/dockutil",
+                "github": "kcrawford/dockutil",
+                "type": "github"
+            },
+            {
+                "title": "mas",
+                "href": "https://github.com/mas-cli/mas",
+                "github": "mas-cli/mas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "OS X Defaults",
+                "href": "https://github.com/kevinSuttle/macOS-Defaults",
+                "github": "kevinSuttle/macOS-Defaults",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related Lists",
+        "childrens": [
+            {
+                "title": "Awesome Shell",
+                "href": "https://github.com/alebcay/awesome-shell",
+                "github": "alebcay/awesome-shell",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Zsh Plugins",
+                "href": "https://github.com/unixorn/awesome-zsh-plugins",
+                "github": "unixorn/awesome-zsh-plugins",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Dev Env",
+                "href": "https://github.com/jondot/awesome-devenv",
+                "github": "jondot/awesome-devenv",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Archive/abandoned projects",
+        "childrens": [
+            {
+                "title": "Bashstrap",
+                "href": "https://github.com/barryclark/bashstrap",
+                "github": "barryclark/bashstrap",
+                "type": "github"
+            },
+            {
+                "title": "battleschool",
+                "href": "https://github.com/spencergibb/battleschool",
+                "github": "spencergibb/battleschool",
+                "type": "github"
+            },
+            {
+                "title": "Eduardo's dotfiles",
+                "href": "https://github.com/eduardolundgren/dotfiles",
+                "github": "eduardolundgren/dotfiles",
+                "type": "github"
+            },
+            {
+                "title": "Kevin's dotfiles",
+                "href": "https://github.com/kdeldycke/dotfiles",
+                "github": "kdeldycke/dotfiles",
+                "type": "github"
+            },
+            {
+                "title": "kody",
+                "href": "https://github.com/jh3y/kody",
+                "github": "jh3y/kody",
+                "type": "github"
+            }
+        ]
+    }
+]

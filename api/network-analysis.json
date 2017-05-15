@@ -1,0 +1,210 @@
+[
+    {
+        "heading": "Datasets",
+        "childrens": [
+            {
+                "title": "Bill Cosponsorship Networks in European Parliaments",
+                "href": "https://github.com/briatte/parlnet",
+                "github": "briatte/parlnet",
+                "type": "github"
+            },
+            {
+                "title": "Gephi Datasets",
+                "href": "https://github.com/gephi/gephi/wiki/Datasets",
+                "github": "gephi/gephi/wiki/Datasets",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Software",
+        "childrens": [
+            {
+                "title": "Graphy",
+                "href": "https://github.com/bruce/graphy",
+                "github": "bruce/graphy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Algorithms",
+        "childrens": [
+            {
+                "title": "algo.graph",
+                "href": "https://github.com/clojure/algo.graph",
+                "github": "clojure/algo.graph",
+                "type": "github"
+            },
+            {
+                "title": "weighted-modularity-LPAwbPLUS",
+                "href": "https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS",
+                "github": "sjbeckett/weighted-modularity-LPAwbPLUS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "jLouvain",
+                "href": "https://github.com/upphiminn/jLouvain",
+                "github": "upphiminn/jLouvain",
+                "type": "github"
+            },
+            {
+                "title": "VivaGraphJS",
+                "href": "https://github.com/anvaka/VivaGraphJS",
+                "github": "anvaka/VivaGraphJS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Julia",
+        "childrens": [
+            {
+                "title": "BayesNets.jl",
+                "href": "https://github.com/sisl/BayesNets.jl",
+                "github": "sisl/BayesNets.jl",
+                "type": "github"
+            },
+            {
+                "title": "EcologicalNetwork.jl",
+                "href": "https://github.com/PoisotLab/EcologicalNetwork.jl",
+                "github": "PoisotLab/EcologicalNetwork.jl",
+                "type": "github"
+            },
+            {
+                "title": "EvolvingGraphs",
+                "href": "https://github.com/weijianzhang/EvolvingGraphs.jl",
+                "github": "weijianzhang/EvolvingGraphs.jl",
+                "type": "github"
+            },
+            {
+                "title": "Graphs.jl",
+                "href": "https://github.com/JuliaLang/Graphs.jl",
+                "github": "JuliaLang/Graphs.jl",
+                "type": "github"
+            },
+            {
+                "title": "JuliaGraphs",
+                "href": "https://github.com/JuliaGraphs",
+                "github": "JuliaGraphs",
+                "type": "github"
+            },
+            {
+                "title": "MatrixNetworks.jl",
+                "href": "https://github.com/nassarhuda/MatrixNetworks.jl",
+                "github": "nassarhuda/MatrixNetworks.jl",
+                "type": "github"
+            },
+            {
+                "title": "NetworkFlows.jl",
+                "href": "https://github.com/Azzaare/NetworkFlows.jl",
+                "github": "Azzaare/NetworkFlows.jl",
+                "type": "github"
+            },
+            {
+                "title": "NetworkViz.jl",
+                "href": "https://github.com/abhijithanilkumar/NetworkViz.jl",
+                "github": "abhijithanilkumar/NetworkViz.jl",
+                "type": "github"
+            },
+            {
+                "title": "PhyloNetworks.jl",
+                "href": "https://github.com/crsl4/PhyloNetworks.jl",
+                "github": "crsl4/PhyloNetworks.jl",
+                "type": "github"
+            },
+            {
+                "title": "TikzGraphs",
+                "href": "https://github.com/sisl/TikzGraphs.jl",
+                "github": "sisl/TikzGraphs.jl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "linkpred",
+                "href": "https://github.com/rafguns/linkpred",
+                "github": "rafguns/linkpred",
+                "type": "github"
+            },
+            {
+                "title": "npartite",
+                "href": "https://github.com/ike002jp/npartite",
+                "github": "ike002jp/npartite",
+                "type": "github"
+            },
+            {
+                "title": "PyGraphistry",
+                "href": "https://github.com/graphistry/pygraphistry",
+                "github": "graphistry/pygraphistry",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "R",
+        "childrens": [
+            {
+                "title": "CCAS",
+                "href": "https://github.com/matthewjdenny/CCAS",
+                "github": "matthewjdenny/CCAS",
+                "type": "github"
+            },
+            {
+                "title": "concoR",
+                "href": "https://github.com/aslez/concoR",
+                "github": "aslez/concoR",
+                "type": "github"
+            },
+            {
+                "title": "ContentStructure",
+                "href": "https://github.com/matthewjdenny/ContentStructure",
+                "github": "matthewjdenny/ContentStructure",
+                "type": "github"
+            },
+            {
+                "title": "DiagrammeR",
+                "href": "https://github.com/rich-iannone/DiagrammeR",
+                "github": "rich-iannone/DiagrammeR",
+                "type": "github"
+            },
+            {
+                "title": "ggraph",
+                "href": "https://github.com/thomasp85/ggraph",
+                "github": "thomasp85/ggraph",
+                "type": "github"
+            },
+            {
+                "title": "networkdiffusion",
+                "href": "https://github.com/chengjun/networkdiffusion",
+                "github": "chengjun/networkdiffusion",
+                "type": "github"
+            },
+            {
+                "title": "visNetwork",
+                "href": "https://github.com/DataKnowledge/visNetwork",
+                "github": "DataKnowledge/visNetwork",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Network Science",
+        "childrens": [
+            {
+                "title": "Social Network and Network Science Co-Citations Across Disciplines in 1996-2013",
+                "href": "https://github.com/raffaelevacca/EUSN-co-citation-networks",
+                "github": "raffaelevacca/EUSN-co-citation-networks",
+                "type": "github"
+            }
+        ]
+    }
+]

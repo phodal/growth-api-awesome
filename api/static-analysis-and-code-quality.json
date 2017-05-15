@@ -1,0 +1,1067 @@
+[
+    {
+        "heading": "C/C++",
+        "childrens": [
+            {
+                "title": "CMetrics",
+                "href": "https://github.com/MetricsGrimoire/CMetrics",
+                "github": "MetricsGrimoire/CMetrics",
+                "type": "github"
+            },
+            {
+                "title": "Corrode",
+                "href": "https://github.com/jameysharp/corrode",
+                "github": "jameysharp/corrode",
+                "type": "github"
+            },
+            {
+                "title": "cppcheck",
+                "href": "https://github.com/danmar/cppcheck",
+                "github": "danmar/cppcheck",
+                "type": "github"
+            },
+            {
+                "title": "cqmetrics",
+                "href": "https://github.com/dspinellis/cqmetrics",
+                "github": "dspinellis/cqmetrics",
+                "type": "github"
+            },
+            {
+                "title": "tis-interpreter",
+                "href": "https://github.com/TrustInSoft/tis-interpreter",
+                "github": "TrustInSoft/tis-interpreter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C#",
+        "childrens": [
+            {
+                "title": ".NET Analyzers",
+                "href": "https://github.com/DotNetAnalyzers",
+                "github": "DotNetAnalyzers",
+                "type": "github"
+            },
+            {
+                "title": "code-cracker",
+                "href": "https://github.com/code-cracker/code-cracker",
+                "github": "code-cracker/code-cracker",
+                "type": "github"
+            },
+            {
+                "title": "CSharpEssentials",
+                "href": "https://github.com/DustinCampbell/CSharpEssentials",
+                "github": "DustinCampbell/CSharpEssentials",
+                "type": "github"
+            },
+            {
+                "title": "SonarLint for Visual Studio",
+                "href": "https://github.com/SonarSource/sonarlint-vs",
+                "github": "SonarSource/sonarlint-vs",
+                "type": "github"
+            },
+            {
+                "title": "VSDiagnostics",
+                "href": "https://github.com/Vannevelj/VSDiagnostics",
+                "github": "Vannevelj/VSDiagnostics",
+                "type": "github"
+            },
+            {
+                "title": "Wintellect.Analyzers",
+                "href": "https://github.com/Wintellect/Wintellect.Analyzers",
+                "github": "Wintellect/Wintellect.Analyzers",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Elixir",
+        "childrens": [
+            {
+                "title": "credo",
+                "href": "https://github.com/rrrene/credo",
+                "github": "rrrene/credo",
+                "type": "github"
+            },
+            {
+                "title": "Dogma",
+                "href": "https://github.com/lpil/dogma",
+                "github": "lpil/dogma",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Erlang",
+        "childrens": [
+            {
+                "title": "elvis",
+                "href": "https://github.com/inaka/elvis",
+                "github": "inaka/elvis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "dingo-hunter",
+                "href": "https://github.com/nickng/dingo-hunter",
+                "github": "nickng/dingo-hunter",
+                "type": "github"
+            },
+            {
+                "title": "flen",
+                "href": "https://github.com/lafolle/flen",
+                "github": "lafolle/flen",
+                "type": "github"
+            },
+            {
+                "title": "Go Meta Linter",
+                "href": "https://github.com/alecthomas/gometalinter",
+                "github": "alecthomas/gometalinter",
+                "type": "github"
+            },
+            {
+                "title": "go-staticcheck",
+                "href": "https://github.com/dominikh/go-staticcheck",
+                "github": "dominikh/go-staticcheck",
+                "type": "github"
+            },
+            {
+                "title": "gocyclo",
+                "href": "https://github.com/fzipp/gocyclo",
+                "github": "fzipp/gocyclo",
+                "type": "github"
+            },
+            {
+                "title": "golint",
+                "href": "https://github.com/golang/lint",
+                "github": "golang/lint",
+                "type": "github"
+            },
+            {
+                "title": "goreporter",
+                "href": "https://github.com/wgliang/goreporter",
+                "github": "wgliang/goreporter",
+                "type": "github"
+            },
+            {
+                "title": "ineffassign",
+                "href": "https://github.com/gordonklaus/ineffassign",
+                "github": "gordonklaus/ineffassign",
+                "type": "github"
+            },
+            {
+                "title": "safesql",
+                "href": "https://github.com/stripe/safesql",
+                "github": "stripe/safesql",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Groovy",
+        "childrens": [
+            {
+                "title": "CodeNarc",
+                "href": "https://github.com/CodeNarc/CodeNarc",
+                "github": "CodeNarc/CodeNarc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haskell",
+        "childrens": [
+            {
+                "title": "HLint",
+                "href": "https://github.com/ndmitchell/hlint",
+                "github": "ndmitchell/hlint",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haxe",
+        "childrens": [
+            {
+                "title": "Haxe Checkstyle",
+                "href": "https://github.com/HaxeCheckstyle/haxe-checkstyle",
+                "github": "HaxeCheckstyle/haxe-checkstyle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "Checker Framework",
+                "href": "https://github.com/typetools/checker-framework/",
+                "github": "typetools/checker-framework/",
+                "type": "github"
+            },
+            {
+                "title": "checkstyle",
+                "href": "https://github.com/checkstyle/checkstyle",
+                "github": "checkstyle/checkstyle",
+                "type": "github"
+            },
+            {
+                "title": "Error-prone",
+                "href": "https://github.com/google/error-prone",
+                "github": "google/error-prone",
+                "type": "github"
+            },
+            {
+                "title": "fb-contrib",
+                "href": "https://github.com/mebigfatguy/fb-contrib",
+                "github": "mebigfatguy/fb-contrib",
+                "type": "github"
+            },
+            {
+                "title": "Findbugs",
+                "href": "https://github.com/findbugsproject/findbugs",
+                "github": "findbugsproject/findbugs",
+                "type": "github"
+            },
+            {
+                "title": "HuntBugs",
+                "href": "https://github.com/amaembo/huntbugs",
+                "github": "amaembo/huntbugs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "aether",
+                "href": "https://github.com/codecombat/aether",
+                "github": "codecombat/aether",
+                "type": "github"
+            },
+            {
+                "title": "ClosureLinter",
+                "href": "https://github.com/google/closure-linter",
+                "github": "google/closure-linter",
+                "type": "github"
+            },
+            {
+                "title": "coffeelint",
+                "href": "https://github.com/clutchski/coffeelint",
+                "github": "clutchski/coffeelint",
+                "type": "github"
+            },
+            {
+                "title": "complexity-report",
+                "href": "https://github.com/jared-stilwell/complexity-report",
+                "github": "jared-stilwell/complexity-report",
+                "type": "github"
+            },
+            {
+                "title": "escomplex",
+                "href": "https://github.com/jared-stilwell/escomplex",
+                "github": "jared-stilwell/escomplex",
+                "type": "github"
+            },
+            {
+                "title": "eslint",
+                "href": "https://github.com/eslint/eslint",
+                "github": "eslint/eslint",
+                "type": "github"
+            },
+            {
+                "title": "Esprima",
+                "href": "https://github.com/jquery/esprima",
+                "github": "jquery/esprima",
+                "type": "github"
+            },
+            {
+                "title": "jshint",
+                "href": "https://github.com/jshint/jshint",
+                "github": "jshint/jshint",
+                "type": "github"
+            },
+            {
+                "title": "JSLint",
+                "href": "https://github.com/douglascrockford/JSLint",
+                "github": "douglascrockford/JSLint",
+                "type": "github"
+            },
+            {
+                "title": "plato",
+                "href": "https://github.com/es-analysis/plato",
+                "github": "es-analysis/plato",
+                "type": "github"
+            },
+            {
+                "title": "quality",
+                "href": "https://github.com/jden/quality",
+                "github": "jden/quality",
+                "type": "github"
+            },
+            {
+                "title": "XO",
+                "href": "https://github.com/sindresorhus/xo",
+                "github": "sindresorhus/xo",
+                "type": "github"
+            },
+            {
+                "title": "yardstick",
+                "href": "https://github.com/calmh/yardstick",
+                "github": "calmh/yardstick",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Lua",
+        "childrens": [
+            {
+                "title": "luacheck",
+                "href": "https://github.com/mpeterv/luacheck",
+                "github": "mpeterv/luacheck",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "dephpend",
+                "href": "https://github.com/mihaeu/dephpend",
+                "github": "mihaeu/dephpend",
+                "type": "github"
+            },
+            {
+                "title": "deptrac",
+                "href": "https://github.com/sensiolabs-de/deptrac",
+                "github": "sensiolabs-de/deptrac",
+                "type": "github"
+            },
+            {
+                "title": "DesignPatternDetector",
+                "href": "https://github.com/Halleck45/DesignPatternDetector",
+                "github": "Halleck45/DesignPatternDetector",
+                "type": "github"
+            },
+            {
+                "title": "exakat",
+                "href": "https://github.com/exakat/exakat",
+                "github": "exakat/exakat",
+                "type": "github"
+            },
+            {
+                "title": "GrumPHP",
+                "href": "https://github.com/phpro/grumphp",
+                "github": "phpro/grumphp",
+                "type": "github"
+            },
+            {
+                "title": "Parse",
+                "href": "https://github.com/psecio/parse",
+                "github": "psecio/parse",
+                "type": "github"
+            },
+            {
+                "title": "phan",
+                "href": "https://github.com/etsy/phan",
+                "github": "etsy/phan",
+                "type": "github"
+            },
+            {
+                "title": "Php Inspections (EA Extended)",
+                "href": "https://github.com/kalessil/phpinspectionsea",
+                "github": "kalessil/phpinspectionsea",
+                "type": "github"
+            },
+            {
+                "title": "PHP Refactoring Browser",
+                "href": "https://github.com/QafooLabs/php-refactoring-browser",
+                "github": "QafooLabs/php-refactoring-browser",
+                "type": "github"
+            },
+            {
+                "title": "PHP-Parser",
+                "href": "https://github.com/nikic/PHP-Parser",
+                "github": "nikic/PHP-Parser",
+                "type": "github"
+            },
+            {
+                "title": "PHP-Token-Reflection",
+                "href": "https://github.com/Andrewsville/PHP-Token-Reflection",
+                "github": "Andrewsville/PHP-Token-Reflection",
+                "type": "github"
+            },
+            {
+                "title": "php7cc",
+                "href": "https://github.com/sstalle/php7cc",
+                "github": "sstalle/php7cc",
+                "type": "github"
+            },
+            {
+                "title": "php7mar",
+                "href": "https://github.com/Alexia/php7mar",
+                "github": "Alexia/php7mar",
+                "type": "github"
+            },
+            {
+                "title": "PHP_CodeSniffer",
+                "href": "https://github.com/squizlabs/PHP_CodeSniffer",
+                "github": "squizlabs/PHP_CodeSniffer",
+                "type": "github"
+            },
+            {
+                "title": "phpcpd",
+                "href": "https://github.com/sebastianbergmann/phpcpd",
+                "github": "sebastianbergmann/phpcpd",
+                "type": "github"
+            },
+            {
+                "title": "phpdcd",
+                "href": "https://github.com/sebastianbergmann/phpdcd",
+                "github": "sebastianbergmann/phpdcd",
+                "type": "github"
+            },
+            {
+                "title": "PhpDependencyAnalysis",
+                "href": "https://github.com/mamuz/PhpDependencyAnalysis",
+                "github": "mamuz/PhpDependencyAnalysis",
+                "type": "github"
+            },
+            {
+                "title": "phpdoc-to-typehint",
+                "href": "https://github.com/dunglas/phpdoc-to-typehint",
+                "github": "dunglas/phpdoc-to-typehint",
+                "type": "github"
+            },
+            {
+                "title": "PhpMetrics",
+                "href": "https://github.com/Halleck45/PhpMetrics",
+                "github": "Halleck45/PhpMetrics",
+                "type": "github"
+            },
+            {
+                "title": "PHPQA",
+                "href": "https://github.com/EdgedesignCZ/phpqa",
+                "github": "EdgedesignCZ/phpqa",
+                "type": "github"
+            },
+            {
+                "title": "phpqa",
+                "href": "https://github.com/jmolivas/phpqa",
+                "github": "jmolivas/phpqa",
+                "type": "github"
+            },
+            {
+                "title": "phpsa",
+                "href": "https://github.com/ovr/phpsa",
+                "github": "ovr/phpsa",
+                "type": "github"
+            },
+            {
+                "title": "PHPStan",
+                "href": "https://github.com/phpstan/phpstan",
+                "github": "phpstan/phpstan",
+                "type": "github"
+            },
+            {
+                "title": "Psalm",
+                "href": "https://github.com/vimeo/psalm",
+                "github": "vimeo/psalm",
+                "type": "github"
+            },
+            {
+                "title": "RIPS",
+                "href": "https://github.com/ripsscanner/rips",
+                "github": "ripsscanner/rips",
+                "type": "github"
+            },
+            {
+                "title": "Tuli",
+                "href": "https://github.com/ircmaxell/Tuli",
+                "github": "ircmaxell/Tuli",
+                "type": "github"
+            },
+            {
+                "title": "twig-lint",
+                "href": "https://github.com/asm89/twig-lint",
+                "github": "asm89/twig-lint",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "bandit",
+                "href": "https://github.com/openstack/bandit",
+                "github": "openstack/bandit",
+                "type": "github"
+            },
+            {
+                "title": "jedi",
+                "href": "https://github.com/davidhalter/jedi",
+                "github": "davidhalter/jedi",
+                "type": "github"
+            },
+            {
+                "title": "linty fresh",
+                "href": "https://github.com/lyft/linty_fresh",
+                "github": "lyft/linty_fresh",
+                "type": "github"
+            },
+            {
+                "title": "mccabe",
+                "href": "https://github.com/PyCQA/mccabe",
+                "github": "PyCQA/mccabe",
+                "type": "github"
+            },
+            {
+                "title": "mypy",
+                "href": "https://github.com/python/mypy",
+                "github": "python/mypy",
+                "type": "github"
+            },
+            {
+                "title": "py-find-injection",
+                "href": "https://github.com/uber/py-find-injection",
+                "github": "uber/py-find-injection",
+                "type": "github"
+            },
+            {
+                "title": "pycodestyle",
+                "href": "https://github.com/PyCQA/pycodestyle",
+                "github": "PyCQA/pycodestyle",
+                "type": "github"
+            },
+            {
+                "title": "pydocstyle",
+                "href": "https://github.com/PyCQA/pydocstyle",
+                "github": "PyCQA/pydocstyle",
+                "type": "github"
+            },
+            {
+                "title": "pyflakes",
+                "href": "https://github.com/pyflakes/pyflakes/",
+                "github": "pyflakes/pyflakes/",
+                "type": "github"
+            },
+            {
+                "title": "pylint",
+                "href": "https://github.com/PyCQA/pylint",
+                "github": "PyCQA/pylint",
+                "type": "github"
+            },
+            {
+                "title": "PyT - Python Taint",
+                "href": "https://github.com/python-security/pyt",
+                "github": "python-security/pyt",
+                "type": "github"
+            },
+            {
+                "title": "xenon",
+                "href": "https://github.com/rubik/xenon",
+                "github": "rubik/xenon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "ciocheck",
+                "href": "https://github.com/ContinuumIO/ciocheck",
+                "github": "ContinuumIO/ciocheck",
+                "type": "github"
+            },
+            {
+                "title": "flake8",
+                "href": "https://github.com/PyCQA/flake8",
+                "github": "PyCQA/flake8",
+                "type": "github"
+            },
+            {
+                "title": "prospector",
+                "href": "https://github.com/landscapeio/prospector",
+                "github": "landscapeio/prospector",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "R",
+        "childrens": [
+            {
+                "title": "lintr",
+                "href": "https://github.com/jimhester/lintr",
+                "github": "jimhester/lintr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby",
+        "childrens": [
+            {
+                "title": "brakeman",
+                "href": "https://github.com/presidentbeef/brakeman",
+                "github": "presidentbeef/brakeman",
+                "type": "github"
+            },
+            {
+                "title": "cane",
+                "href": "https://github.com/square/cane",
+                "github": "square/cane",
+                "type": "github"
+            },
+            {
+                "title": "dawnscanner",
+                "href": "https://github.com/thesp0nge/dawnscanner",
+                "github": "thesp0nge/dawnscanner",
+                "type": "github"
+            },
+            {
+                "title": "flay",
+                "href": "https://github.com/seattlerb/flay",
+                "github": "seattlerb/flay",
+                "type": "github"
+            },
+            {
+                "title": "flog",
+                "href": "https://github.com/seattlerb/flog",
+                "github": "seattlerb/flog",
+                "type": "github"
+            },
+            {
+                "title": "laser",
+                "href": "https://github.com/michaeledgar/laser",
+                "github": "michaeledgar/laser",
+                "type": "github"
+            },
+            {
+                "title": "pelusa",
+                "href": "https://github.com/codegram/pelusa",
+                "github": "codegram/pelusa",
+                "type": "github"
+            },
+            {
+                "title": "quality",
+                "href": "https://github.com/apiology/quality",
+                "github": "apiology/quality",
+                "type": "github"
+            },
+            {
+                "title": "reek",
+                "href": "https://github.com/troessner/reek",
+                "github": "troessner/reek",
+                "type": "github"
+            },
+            {
+                "title": "rubocop",
+                "href": "https://github.com/bbatsov/rubocop",
+                "github": "bbatsov/rubocop",
+                "type": "github"
+            },
+            {
+                "title": "ruby-lint",
+                "href": "https://github.com/YorickPeterse/ruby-lint",
+                "github": "YorickPeterse/ruby-lint",
+                "type": "github"
+            },
+            {
+                "title": "rubycritic",
+                "href": "https://github.com/whitesmith/rubycritic",
+                "github": "whitesmith/rubycritic",
+                "type": "github"
+            },
+            {
+                "title": "SandyMeter",
+                "href": "https://github.com/makaroni4/sandi_meter",
+                "github": "makaroni4/sandi_meter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Rust",
+        "childrens": [
+            {
+                "title": "clippy",
+                "href": "https://github.com/Manishearth/rust-clippy",
+                "github": "Manishearth/rust-clippy",
+                "type": "github"
+            },
+            {
+                "title": "electrolysis",
+                "href": "https://github.com/Kha/electrolysis",
+                "github": "Kha/electrolysis",
+                "type": "github"
+            },
+            {
+                "title": "herbie",
+                "href": "https://github.com/mcarton/rust-herbie-lint",
+                "github": "mcarton/rust-herbie-lint",
+                "type": "github"
+            },
+            {
+                "title": "linter-rust",
+                "href": "https://github.com/AtomLinter/linter-rust",
+                "github": "AtomLinter/linter-rust",
+                "type": "github"
+            },
+            {
+                "title": "rustfix",
+                "href": "https://github.com/killercup/rustfix",
+                "github": "killercup/rustfix",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scala",
+        "childrens": [
+            {
+                "title": "linter",
+                "href": "https://github.com/HairyFotr/linter",
+                "github": "HairyFotr/linter",
+                "type": "github"
+            },
+            {
+                "title": "scapegoat",
+                "href": "https://github.com/sksamuel/scapegoat",
+                "github": "sksamuel/scapegoat",
+                "type": "github"
+            },
+            {
+                "title": "WartRemover",
+                "href": "https://github.com/puffnfresh/wartremover",
+                "github": "puffnfresh/wartremover",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Shell",
+        "childrens": [
+            {
+                "title": "shellcheck",
+                "href": "https://github.com/koalaman/shellcheck",
+                "github": "koalaman/shellcheck",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SQL",
+        "childrens": [
+            {
+                "title": "sqlint",
+                "href": "https://github.com/purcell/sqlint",
+                "github": "purcell/sqlint",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Swift",
+        "childrens": [
+            {
+                "title": "SwiftLint",
+                "href": "https://github.com/realm/SwiftLint",
+                "github": "realm/SwiftLint",
+                "type": "github"
+            },
+            {
+                "title": "Tailor",
+                "href": "https://github.com/sleekbyte/tailor",
+                "github": "sleekbyte/tailor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TypeScript",
+        "childrens": [
+            {
+                "title": "Codelyzer",
+                "href": "https://github.com/mgechev/codelyzer",
+                "github": "mgechev/codelyzer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Multiple languages",
+        "childrens": [
+            {
+                "title": "codeburner",
+                "href": "https://github.com/groupon/codeburner",
+                "github": "groupon/codeburner",
+                "type": "github"
+            },
+            {
+                "title": "imhotep",
+                "href": "https://github.com/justinabrahms/imhotep",
+                "github": "justinabrahms/imhotep",
+                "type": "github"
+            },
+            {
+                "title": "Infer",
+                "href": "https://github.com/facebook/infer",
+                "github": "facebook/infer",
+                "type": "github"
+            },
+            {
+                "title": "oclint",
+                "href": "https://github.com/oclint/oclint",
+                "github": "oclint/oclint",
+                "type": "github"
+            },
+            {
+                "title": "pfff",
+                "href": "https://github.com/facebook/pfff",
+                "github": "facebook/pfff",
+                "type": "github"
+            },
+            {
+                "title": "pre-commit",
+                "href": "https://github.com/pre-commit/pre-commit",
+                "github": "pre-commit/pre-commit",
+                "type": "github"
+            },
+            {
+                "title": "shipshape",
+                "href": "https://github.com/google/shipshape",
+                "github": "google/shipshape",
+                "type": "github"
+            },
+            {
+                "title": "STOKE",
+                "href": "https://github.com/StanfordPL/stoke",
+                "github": "StanfordPL/stoke",
+                "type": "github"
+            },
+            {
+                "title": "Undebt",
+                "href": "https://github.com/Yelp/undebt",
+                "github": "Yelp/undebt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build tools",
+        "childrens": [
+            {
+                "title": "checkmake",
+                "href": "https://github.com/mrtazz/checkmake",
+                "github": "mrtazz/checkmake",
+                "type": "github"
+            },
+            {
+                "title": "codechecker",
+                "href": "https://github.com/Ericsson/codechecker",
+                "github": "Ericsson/codechecker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Binaries",
+        "childrens": [
+            {
+                "title": "BinSkim",
+                "href": "https://github.com/Microsoft/binskim",
+                "github": "Microsoft/binskim",
+                "type": "github"
+            },
+            {
+                "title": "Manalyze",
+                "href": "https://github.com/JusticeRage/Manalyze",
+                "github": "JusticeRage/Manalyze",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Containers",
+        "childrens": [
+            {
+                "title": "clair",
+                "href": "https://github.com/coreos/clair",
+                "github": "coreos/clair",
+                "type": "github"
+            },
+            {
+                "title": "collector",
+                "href": "https://github.com/banyanops/collector",
+                "github": "banyanops/collector",
+                "type": "github"
+            },
+            {
+                "title": "dagda",
+                "href": "https://github.com/eliasgranderubio/dagda",
+                "github": "eliasgranderubio/dagda",
+                "type": "github"
+            },
+            {
+                "title": "Docker Label Inspector",
+                "href": "https://github.com/garethr/docker-label-inspector",
+                "github": "garethr/docker-label-inspector",
+                "type": "github"
+            },
+            {
+                "title": "Haskell Dockerfile Linter",
+                "href": "https://github.com/lukasmartinelli/hadolint",
+                "github": "lukasmartinelli/hadolint",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Config Files",
+        "childrens": [
+            {
+                "title": "gixy",
+                "href": "https://github.com/yandex/gixy",
+                "github": "yandex/gixy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Configuration Management",
+        "childrens": [
+            {
+                "title": "Puppet Lint",
+                "href": "https://github.com/rodjek/puppet-lint",
+                "github": "rodjek/puppet-lint",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CSS",
+        "childrens": [
+            {
+                "title": "CSS Stats",
+                "href": "https://github.com/cssstats/cssstats",
+                "github": "cssstats/cssstats",
+                "type": "github"
+            },
+            {
+                "title": "CSScomb",
+                "href": "https://github.com/csscomb/csscomb.js",
+                "github": "csscomb/csscomb.js",
+                "type": "github"
+            },
+            {
+                "title": "CSSLint",
+                "href": "https://github.com/CSSLint/csslint",
+                "github": "CSSLint/csslint",
+                "type": "github"
+            },
+            {
+                "title": "Parker",
+                "href": "https://github.com/katiefenn/parker",
+                "github": "katiefenn/parker",
+                "type": "github"
+            },
+            {
+                "title": "scsslint",
+                "href": "https://github.com/brigade/scss-lint",
+                "github": "brigade/scss-lint",
+                "type": "github"
+            },
+            {
+                "title": "Specificity Graph",
+                "href": "https://github.com/pocketjoso/specificity-graph",
+                "github": "pocketjoso/specificity-graph",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTML",
+        "childrens": [
+            {
+                "title": "HTMLHint",
+                "href": "https://github.com/yaniswang/HTMLHint",
+                "github": "yaniswang/HTMLHint",
+                "type": "github"
+            },
+            {
+                "title": "HTML Inspector",
+                "href": "https://github.com/philipwalton/html-inspector",
+                "github": "philipwalton/html-inspector",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile",
+        "childrens": [
+            {
+                "title": "FlowDroid",
+                "href": "https://github.com/secure-software-engineering/soot-infoflow-android",
+                "github": "secure-software-engineering/soot-infoflow-android",
+                "type": "github"
+            },
+            {
+                "title": "paprika",
+                "href": "https://github.com/GeoffreyHecht/paprika",
+                "github": "GeoffreyHecht/paprika",
+                "type": "github"
+            },
+            {
+                "title": "qark",
+                "href": "https://github.com/linkedin/qark",
+                "github": "linkedin/qark",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Packages",
+        "childrens": [
+            {
+                "title": "lintian",
+                "href": "https://github.com/Debian/lintian",
+                "github": "Debian/lintian",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "More collections",
+        "childrens": [
+            {
+                "title": "go-tools",
+                "href": "https://github.com/dominikh/go-tools",
+                "github": "dominikh/go-tools",
+                "type": "github"
+            },
+            {
+                "title": "linters",
+                "href": "https://github.com/mcandre/linters",
+                "github": "mcandre/linters",
+                "type": "github"
+            },
+            {
+                "title": "php-static-analysis-tools",
+                "href": "https://github.com/exakat/php-static-analysis-tools",
+                "github": "exakat/php-static-analysis-tools",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "Gifgen",
+                "href": "https://github.com/lukechilds/gifgen",
+                "github": "lukechilds/gifgen",
+                "type": "github"
+            },
+            {
+                "title": "Gifify",
+                "href": "https://github.com/vvo/gifify",
+                "github": "vvo/gifify",
+                "type": "github"
+            },
+            {
+                "title": "Gifify (not the same)",
+                "href": "https://github.com/jclem/gifify",
+                "github": "jclem/gifify",
+                "type": "github"
+            },
+            {
+                "title": "Gifsicle",
+                "href": "https://github.com/pornel/giflossy",
+                "github": "pornel/giflossy",
+                "type": "github"
+            },
+            {
+                "title": "Gifs",
+                "href": "https://github.com/jglovier/gifs",
+                "github": "jglovier/gifs",
+                "type": "github"
+            },
+            {
+                "title": "Gifshot",
+                "href": "https://github.com/yahoo/gifshot",
+                "github": "yahoo/gifshot",
+                "type": "github"
+            },
+            {
+                "title": "Gifsockets",
+                "href": "https://github.com/videlalvaro/gifsockets",
+                "github": "videlalvaro/gifsockets",
+                "type": "github"
+            },
+            {
+                "title": "X-gif",
+                "href": "https://github.com/geelen/x-gif",
+                "github": "geelen/x-gif",
+                "type": "github"
+            },
+            {
+                "title": "gifme",
+                "href": "https://github.com/holman/gifme",
+                "github": "holman/gifme",
+                "type": "github"
+            },
+            {
+                "title": "GifW00t",
+                "href": "https://github.com/yaronn/GifW00t",
+                "github": "yaronn/GifW00t",
+                "type": "github"
+            },
+            {
+                "title": "gif-machine",
+                "href": "https://github.com/lelandbatey/gif-machine",
+                "github": "lelandbatey/gif-machine",
+                "type": "github"
+            },
+            {
+                "title": "gifstreaming",
+                "href": "https://github.com/jbochi/gifstreaming",
+                "github": "jbochi/gifstreaming",
+                "type": "github"
+            },
+            {
+                "title": "Screengif",
+                "href": "https://github.com/dergachev/screengif",
+                "github": "dergachev/screengif",
+                "type": "github"
+            },
+            {
+                "title": "vnc-over-gif",
+                "href": "https://github.com/sidorares/vnc-over-gif",
+                "github": "sidorares/vnc-over-gif",
+                "type": "github"
+            },
+            {
+                "title": "gifdeck",
+                "href": "https://github.com/jaipandya/gifdeck",
+                "github": "jaipandya/gifdeck",
+                "type": "github"
+            },
+            {
+                "title": "Gifbot",
+                "href": "https://github.com/schuyler/gifbot",
+                "github": "schuyler/gifbot",
+                "type": "github"
+            },
+            {
+                "title": "Gif-camera",
+                "href": "https://github.com/FuzzyWobble/GIF-Camera",
+                "github": "FuzzyWobble/GIF-Camera",
+                "type": "github"
+            },
+            {
+                "title": "Gifline",
+                "href": "https://github.com/zehfernandes/gifline",
+                "github": "zehfernandes/gifline",
+                "type": "github"
+            },
+            {
+                "title": "Gifdrop",
+                "href": "https://github.com/markjaquith/gifdrop",
+                "github": "markjaquith/gifdrop",
+                "type": "github"
+            },
+            {
+                "title": "Gh-gif",
+                "href": "https://github.com/node-gh/gh-gif",
+                "github": "node-gh/gh-gif",
+                "type": "github"
+            },
+            {
+                "title": "Tty2gif",
+                "href": "https://github.com/z24/tty2gif",
+                "github": "z24/tty2gif",
+                "type": "github"
+            },
+            {
+                "title": "Giftoppr",
+                "href": "https://github.com/desktoppr/giftoppr",
+                "github": "desktoppr/giftoppr",
+                "type": "github"
+            },
+            {
+                "title": "Gifit",
+                "href": "https://github.com/Fauntleroy/GIFit",
+                "github": "Fauntleroy/GIFit",
+                "type": "github"
+            },
+            {
+                "title": "Ccapture.js",
+                "href": "https://github.com/spite/ccapture.js",
+                "github": "spite/ccapture.js",
+                "type": "github"
+            },
+            {
+                "title": "Gifit (the other one)",
+                "href": "https://github.com/rotblauer/gifit",
+                "github": "rotblauer/gifit",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ActionScript",
+        "childrens": [
+            {
+                "title": "Flash Animated GIF Library",
+                "href": "https://github.com/theturtle32/Flash-Animated-GIF-Library",
+                "github": "theturtle32/Flash-Animated-GIF-Library",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++",
+        "childrens": [
+            {
+                "title": "Node-gif",
+                "href": "https://github.com/pkrumins/node-gif",
+                "github": "pkrumins/node-gif",
+                "type": "github"
+            },
+            {
+                "title": "Gif-h",
+                "href": "https://github.com/ginsweater/gif-h",
+                "github": "ginsweater/gif-h",
+                "type": "github"
+            },
+            {
+                "title": "OfxGifEncoder",
+                "href": "https://github.com/jesusgollonet/ofxGifEncoder",
+                "github": "jesusgollonet/ofxGifEncoder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++",
+        "childrens": [
+            {
+                "title": "dot-screencap",
+                "href": "https://github.com/Speiser/dot-screencap",
+                "github": "Speiser/dot-screencap",
+                "type": "github"
+            },
+            {
+                "title": "WpfAnimatedGif",
+                "href": "https://github.com/thomaslevesque/WpfAnimatedGif",
+                "github": "thomaslevesque/WpfAnimatedGif",
+                "type": "github"
+            },
+            {
+                "title": "XamlAnimatedGif",
+                "href": "https://github.com/thomaslevesque/XamlAnimatedGif",
+                "github": "thomaslevesque/XamlAnimatedGif",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haxe",
+        "childrens": [
+            {
+                "title": "Gif",
+                "href": "https://github.com/snowkit/gif",
+                "github": "snowkit/gif",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "Android-gif-drawable",
+                "href": "https://github.com/koral--/android-gif-drawable",
+                "github": "koral--/android-gif-drawable",
+                "type": "github"
+            },
+            {
+                "title": "gifanimateddrawable",
+                "href": "https://github.com/Hipmob/gifanimateddrawable",
+                "github": "Hipmob/gifanimateddrawable",
+                "type": "github"
+            },
+            {
+                "title": "GifView",
+                "href": "https://github.com/RoiSoleil/GifView",
+                "github": "RoiSoleil/GifView",
+                "type": "github"
+            },
+            {
+                "title": "Gif Movie View",
+                "href": "https://github.com/sbakhtiarov/gif-movie-view",
+                "github": "sbakhtiarov/gif-movie-view",
+                "type": "github"
+            },
+            {
+                "title": "GifImageView",
+                "href": "https://github.com/felipecsl/GifImageView",
+                "github": "felipecsl/GifImageView",
+                "type": "github"
+            },
+            {
+                "title": "Gif-animation",
+                "href": "https://github.com/extrapixel/gif-animation",
+                "github": "extrapixel/gif-animation",
+                "type": "github"
+            },
+            {
+                "title": "Android-gif-encoder",
+                "href": "https://github.com/nbadal/android-gif-encoder",
+                "github": "nbadal/android-gif-encoder",
+                "type": "github"
+            },
+            {
+                "title": "GIFDroid",
+                "href": "https://github.com/quackware/GIFDroid",
+                "github": "quackware/GIFDroid",
+                "type": "github"
+            },
+            {
+                "title": "Android-GifStitch",
+                "href": "https://github.com/CaptPhunkosis/Android-GifStitch",
+                "github": "CaptPhunkosis/Android-GifStitch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript",
+        "childrens": [
+            {
+                "title": "Gif.js",
+                "href": "https://github.com/jnordberg/gif.js",
+                "github": "jnordberg/gif.js",
+                "type": "github"
+            },
+            {
+                "title": "Omggif",
+                "href": "https://github.com/deanm/omggif",
+                "github": "deanm/omggif",
+                "type": "github"
+            },
+            {
+                "title": "Animated_GIF",
+                "href": "https://github.com/sole/Animated_GIF",
+                "github": "sole/Animated_GIF",
+                "type": "github"
+            },
+            {
+                "title": "Gifffer",
+                "href": "https://github.com/krasimir/gifffer",
+                "github": "krasimir/gifffer",
+                "type": "github"
+            },
+            {
+                "title": "Gifplayer",
+                "href": "https://github.com/rubentd/gifplayer",
+                "github": "rubentd/gifplayer",
+                "type": "github"
+            },
+            {
+                "title": "Jsgif",
+                "href": "https://github.com/shachaf/jsgif",
+                "github": "shachaf/jsgif",
+                "type": "github"
+            },
+            {
+                "title": "node-gify",
+                "href": "https://github.com/tj/node-gify",
+                "github": "tj/node-gify",
+                "type": "github"
+            },
+            {
+                "title": "Gifencoder",
+                "href": "https://github.com/eugeneware/gifencoder",
+                "github": "eugeneware/gifencoder",
+                "type": "github"
+            },
+            {
+                "title": "Gif-video",
+                "href": "https://github.com/hughsk/gif-video",
+                "github": "hughsk/gif-video",
+                "type": "github"
+            },
+            {
+                "title": "Gif-player",
+                "href": "https://github.com/apankrat/gif-player",
+                "github": "apankrat/gif-player",
+                "type": "github"
+            },
+            {
+                "title": "GifgifLab-face",
+                "href": "https://github.com/Viral-MediaLab/gifgifLab-face",
+                "github": "Viral-MediaLab/gifgifLab-face",
+                "type": "github"
+            },
+            {
+                "title": "node-youtube",
+                "href": "https://github.com/javascipt/node-youtube",
+                "github": "javascipt/node-youtube",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "GifCreator",
+                "href": "https://github.com/Sybio/GifCreator",
+                "github": "Sybio/GifCreator",
+                "type": "github"
+            },
+            {
+                "title": "Spacer.gif",
+                "href": "https://github.com/msng/spacer.gif",
+                "github": "msng/spacer.gif",
+                "type": "github"
+            },
+            {
+                "title": "GifFrameExtractor",
+                "href": "https://github.com/Sybio/GifFrameExtractor",
+                "github": "Sybio/GifFrameExtractor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Objective-C",
+        "childrens": [
+            {
+                "title": "AnimatedGIFImageSerialization",
+                "href": "https://github.com/mattt/AnimatedGIFImageSerialization",
+                "github": "mattt/AnimatedGIFImageSerialization",
+                "type": "github"
+            },
+            {
+                "title": "UIimage from GIF",
+                "href": "https://github.com/mayoff/uiimage-from-animated-gif",
+                "github": "mayoff/uiimage-from-animated-gif",
+                "type": "github"
+            },
+            {
+                "title": "GIFRefreshControl",
+                "href": "https://github.com/cyndibaby905/GIFRefreshControl",
+                "github": "cyndibaby905/GIFRefreshControl",
+                "type": "github"
+            },
+            {
+                "title": "UIImageView-PlayGIF",
+                "href": "https://github.com/yfme/UIImageView-PlayGIF",
+                "github": "yfme/UIImageView-PlayGIF",
+                "type": "github"
+            },
+            {
+                "title": "FLAnimatedImage",
+                "href": "https://github.com/Flipboard/FLAnimatedImage",
+                "github": "Flipboard/FLAnimatedImage",
+                "type": "github"
+            },
+            {
+                "title": "Animated-GIF-iPhone",
+                "href": "https://github.com/arturogutierrez/Animated-GIF-iPhone",
+                "github": "arturogutierrez/Animated-GIF-iPhone",
+                "type": "github"
+            },
+            {
+                "title": "UzysAnimatedGifPullToRefresh",
+                "href": "https://github.com/uzysjung/UzysAnimatedGifPullToRefresh",
+                "github": "uzysjung/UzysAnimatedGifPullToRefresh",
+                "type": "github"
+            },
+            {
+                "title": "SvGifView",
+                "href": "https://github.com/smileEvday/SvGifView",
+                "github": "smileEvday/SvGifView",
+                "type": "github"
+            },
+            {
+                "title": "GifHUD",
+                "href": "https://github.com/cemolcay/GiFHUD",
+                "github": "cemolcay/GiFHUD",
+                "type": "github"
+            },
+            {
+                "title": "Video-Background GIF",
+                "href": "https://github.com/ElvinJin/Video-Background-GIF",
+                "github": "ElvinJin/Video-Background-GIF",
+                "type": "github"
+            },
+            {
+                "title": "AnimatedGifExample",
+                "href": "https://github.com/kasatani/AnimatedGifExample",
+                "github": "kasatani/AnimatedGifExample",
+                "type": "github"
+            },
+            {
+                "title": "OLImageView",
+                "href": "https://github.com/dtorres/OLImageView",
+                "github": "dtorres/OLImageView",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Swift",
+        "childrens": [
+            {
+                "title": "Gifu",
+                "href": "https://github.com/kaishin/gifu",
+                "github": "kaishin/gifu",
+                "type": "github"
+            },
+            {
+                "title": "SwiftGif",
+                "href": "https://github.com/bahlo/SwiftGif",
+                "github": "bahlo/SwiftGif",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GUI",
+        "childrens": [
+            {
+                "title": "GIFs",
+                "href": "https://github.com/orta/GIFs",
+                "github": "orta/GIFs",
+                "type": "github"
+            },
+            {
+                "title": "VineGifR",
+                "href": "https://github.com/esten/VineGifR",
+                "github": "esten/VineGifR",
+                "type": "github"
+            },
+            {
+                "title": "GifPro",
+                "href": "https://github.com/unixpickle/GifPro",
+                "github": "unixpickle/GifPro",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Niche",
+        "childrens": [
+            {
+                "title": "Starwars-dot-gif",
+                "href": "https://github.com/LindseyB/starwars-dot-gif",
+                "github": "LindseyB/starwars-dot-gif",
+                "type": "github"
+            }
+        ]
+    }
+]

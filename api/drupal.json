@@ -1,0 +1,36 @@
+[
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Yo Hedley!",
+                "href": "https://github.com/Gizra/generator-hedley",
+                "github": "Gizra/generator-hedley",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tips",
+        "childrens": [
+            {
+                "title": "Solr Script",
+                "href": "https://github.com/RoySegall/solr-script",
+                "github": "RoySegall/solr-script",
+                "type": "github"
+            },
+            {
+                "title": "Ubuntu development environment setup",
+                "href": "https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup",
+                "github": "Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup",
+                "type": "github"
+            },
+            {
+                "title": "MacOS: New Machine configuration",
+                "href": "https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine",
+                "github": "Gizra/KnowledgeBase/wiki/MacOS:-New-Machine",
+                "type": "github"
+            }
+        ]
+    }
+]

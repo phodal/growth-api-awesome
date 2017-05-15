@@ -1,0 +1,627 @@
+[
+    {
+        "heading": "Release Management",
+        "childrens": [
+            {
+                "title": "relx",
+                "href": "https://github.com/erlware/relx",
+                "github": "erlware/relx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Configuration Management",
+        "childrens": [
+            {
+                "title": "stillir",
+                "href": "https://github.com/heroku/stillir",
+                "github": "heroku/stillir",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Codebase Maintenance",
+        "childrens": [
+            {
+                "title": "elvis",
+                "href": "https://github.com/inaka/elvis",
+                "github": "inaka/elvis",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Frameworks",
+        "childrens": [
+            {
+                "title": "Axiom",
+                "href": "https://github.com/tsujigiri/axiom",
+                "github": "tsujigiri/axiom",
+                "type": "github"
+            },
+            {
+                "title": "ChicagoBoss",
+                "href": "https://github.com/ChicagoBoss/ChicagoBoss",
+                "github": "ChicagoBoss/ChicagoBoss",
+                "type": "github"
+            },
+            {
+                "title": "cowboy",
+                "href": "https://github.com/ninenines/cowboy",
+                "github": "ninenines/cowboy",
+                "type": "github"
+            },
+            {
+                "title": "Giallo",
+                "href": "https://github.com/kivra/giallo",
+                "github": "kivra/giallo",
+                "type": "github"
+            },
+            {
+                "title": "MochiWeb",
+                "href": "https://github.com/mochi/mochiweb",
+                "github": "mochi/mochiweb",
+                "type": "github"
+            },
+            {
+                "title": "N2O",
+                "href": "https://github.com/synrc/n2o",
+                "github": "synrc/n2o",
+                "type": "github"
+            },
+            {
+                "title": "Nitrogen",
+                "href": "https://github.com/nitrogen/nitrogen",
+                "github": "nitrogen/nitrogen",
+                "type": "github"
+            },
+            {
+                "title": "Zotonic",
+                "href": "https://github.com/zotonic/zotonic",
+                "github": "zotonic/zotonic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Framework Components",
+        "childrens": [
+            {
+                "title": "cb_admin",
+                "href": "https://github.com/ChicagoBoss/cb_admin",
+                "github": "ChicagoBoss/cb_admin",
+                "type": "github"
+            },
+            {
+                "title": "cb_websocket_controller",
+                "href": "https://github.com/dkuhlman/cb_websocket_controller",
+                "github": "dkuhlman/cb_websocket_controller",
+                "type": "github"
+            },
+            {
+                "title": "giallo_session",
+                "href": "https://github.com/kivra/giallo_session",
+                "github": "kivra/giallo_session",
+                "type": "github"
+            },
+            {
+                "title": "simple_bridge",
+                "href": "https://github.com/nitrogen/simple_bridge",
+                "github": "nitrogen/simple_bridge",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HTTP",
+        "childrens": [
+            {
+                "title": "bullet",
+                "href": "https://github.com/ninenines/bullet",
+                "github": "ninenines/bullet",
+                "type": "github"
+            },
+            {
+                "title": "gun",
+                "href": "https://github.com/ninenines/gun",
+                "github": "ninenines/gun",
+                "type": "github"
+            },
+            {
+                "title": "hackney",
+                "href": "https://github.com/benoitc/hackney",
+                "github": "benoitc/hackney",
+                "type": "github"
+            },
+            {
+                "title": "ibrowse",
+                "href": "https://github.com/cmullaparthi/ibrowse",
+                "github": "cmullaparthi/ibrowse",
+                "type": "github"
+            },
+            {
+                "title": "lhttpc",
+                "href": "https://github.com/esl/lhttpc",
+                "github": "esl/lhttpc",
+                "type": "github"
+            },
+            {
+                "title": "shotgun",
+                "href": "https://github.com/inaka/shotgun",
+                "github": "inaka/shotgun",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "PropEr",
+                "href": "https://github.com/manopapad/proper",
+                "github": "manopapad/proper",
+                "type": "github"
+            },
+            {
+                "title": "tracerl",
+                "href": "https://github.com/esl/tracerl",
+                "github": "esl/tracerl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Logging",
+        "childrens": [
+            {
+                "title": "lager",
+                "href": "https://github.com/basho/lager",
+                "github": "basho/lager",
+                "type": "github"
+            },
+            {
+                "title": "lager_amqp_backend",
+                "href": "https://github.com/jbrisbin/lager_amqp_backend",
+                "github": "jbrisbin/lager_amqp_backend",
+                "type": "github"
+            },
+            {
+                "title": "lager_hipchat",
+                "href": "https://github.com/synlay/lager_hipchat",
+                "github": "synlay/lager_hipchat",
+                "type": "github"
+            },
+            {
+                "title": "lager_loggly",
+                "href": "https://github.com/kivra/lager_loggly",
+                "github": "kivra/lager_loggly",
+                "type": "github"
+            },
+            {
+                "title": "lager_smtp",
+                "href": "https://github.com/blinkov/lager_smtp",
+                "github": "blinkov/lager_smtp",
+                "type": "github"
+            },
+            {
+                "title": "logplex",
+                "href": "https://github.com/heroku/logplex",
+                "github": "heroku/logplex",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Monitoring",
+        "childrens": [
+            {
+                "title": "entop",
+                "href": "https://github.com/mazenharake/entop",
+                "github": "mazenharake/entop",
+                "type": "github"
+            },
+            {
+                "title": "eper",
+                "href": "https://github.com/massemanet/eper",
+                "github": "massemanet/eper",
+                "type": "github"
+            },
+            {
+                "title": "Exometer",
+                "href": "https://github.com/Feuerlabs/exometer",
+                "github": "Feuerlabs/exometer",
+                "type": "github"
+            },
+            {
+                "title": "folsom",
+                "href": "https://github.com/boundary/folsom",
+                "github": "boundary/folsom",
+                "type": "github"
+            },
+            {
+                "title": "statsderl",
+                "href": "https://github.com/lpgauth/statsderl",
+                "github": "lpgauth/statsderl",
+                "type": "github"
+            },
+            {
+                "title": "vmstats",
+                "href": "https://github.com/ferd/vmstats",
+                "github": "ferd/vmstats",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deployment",
+        "childrens": [
+            {
+                "title": "docker-erlang",
+                "href": "https://github.com/synlay/docker-erlang",
+                "github": "synlay/docker-erlang",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distributed Systems",
+        "childrens": [
+            {
+                "title": "Typhoon",
+                "href": "https://github.com/zalando/typhoon",
+                "github": "zalando/typhoon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code Analysis",
+        "childrens": [
+            {
+                "title": "Concuerror",
+                "href": "https://github.com/parapluu/Concuerror",
+                "github": "parapluu/Concuerror",
+                "type": "github"
+            },
+            {
+                "title": "eflame",
+                "href": "https://github.com/proger/eflame",
+                "github": "proger/eflame",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build Tools",
+        "childrens": [
+            {
+                "title": "rebar",
+                "href": "https://github.com/rebar/rebar",
+                "github": "rebar/rebar",
+                "type": "github"
+            },
+            {
+                "title": "rebar3",
+                "href": "https://github.com/rebar/rebar3",
+                "github": "rebar/rebar3",
+                "type": "github"
+            },
+            {
+                "title": "sync",
+                "href": "https://github.com/rustyio/sync",
+                "github": "rustyio/sync",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Geolocation",
+        "childrens": [
+            {
+                "title": "erl-rstar",
+                "href": "https://github.com/armon/erl-rstar",
+                "github": "armon/erl-rstar",
+                "type": "github"
+            },
+            {
+                "title": "GeoCouch",
+                "href": "https://github.com/couchbase/geocouch",
+                "github": "couchbase/geocouch",
+                "type": "github"
+            },
+            {
+                "title": "Teles",
+                "href": "https://github.com/armon/teles",
+                "github": "armon/teles",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging",
+        "childrens": [
+            {
+                "title": "tx",
+                "href": "https://github.com/kvakvs/tx",
+                "github": "kvakvs/tx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Actors",
+        "childrens": [
+            {
+                "title": "poolboy",
+                "href": "https://github.com/devinus/poolboy",
+                "github": "devinus/poolboy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Date and Time",
+        "childrens": [
+            {
+                "title": "erlang_localtime",
+                "href": "https://github.com/dmitryme/erlang_localtime",
+                "github": "dmitryme/erlang_localtime",
+                "type": "github"
+            },
+            {
+                "title": "qdate",
+                "href": "https://github.com/choptastic/qdate",
+                "github": "choptastic/qdate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM and Datamapping",
+        "childrens": [
+            {
+                "title": "boss_db",
+                "href": "https://github.com/ErlyORM/boss_db",
+                "github": "ErlyORM/boss_db",
+                "type": "github"
+            },
+            {
+                "title": "epgsql",
+                "href": "https://github.com/epgsql/epgsql",
+                "github": "epgsql/epgsql",
+                "type": "github"
+            },
+            {
+                "title": "mysql-otp",
+                "href": "https://github.com/mysql-otp/mysql-otp",
+                "github": "mysql-otp/mysql-otp",
+                "type": "github"
+            },
+            {
+                "title": "pgsql_migration",
+                "href": "https://github.com/artemeff/pgsql_migration",
+                "github": "artemeff/pgsql_migration",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Queue",
+        "childrens": [
+            {
+                "title": "dq",
+                "href": "https://github.com/darach/dq",
+                "github": "darach/dq",
+                "type": "github"
+            },
+            {
+                "title": "ebqueue",
+                "href": "https://github.com/rgrinberg/ebqueue",
+                "github": "rgrinberg/ebqueue",
+                "type": "github"
+            },
+            {
+                "title": "pqueue",
+                "href": "https://github.com/okeuday/pqueue",
+                "github": "okeuday/pqueue",
+                "type": "github"
+            },
+            {
+                "title": "tinymq",
+                "href": "https://github.com/ChicagoBoss/tinymq",
+                "github": "ChicagoBoss/tinymq",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication",
+        "childrens": [
+            {
+                "title": "oauth2",
+                "href": "https://github.com/kivra/oauth2",
+                "github": "kivra/oauth2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Text and Numbers",
+        "childrens": [
+            {
+                "title": "eql",
+                "href": "https://github.com/artemeff/eql",
+                "github": "artemeff/eql",
+                "type": "github"
+            },
+            {
+                "title": "jiffy",
+                "href": "https://github.com/davisp/jiffy",
+                "github": "davisp/jiffy",
+                "type": "github"
+            },
+            {
+                "title": "jsonrec",
+                "href": "https://github.com/EduardSergeev/jsonrec",
+                "github": "EduardSergeev/jsonrec",
+                "type": "github"
+            },
+            {
+                "title": "jsx",
+                "href": "https://github.com/talentdeficit/jsx",
+                "github": "talentdeficit/jsx",
+                "type": "github"
+            },
+            {
+                "title": "qsp",
+                "href": "https://github.com/artemeff/qsp",
+                "github": "artemeff/qsp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "REST and API",
+        "childrens": [
+            {
+                "title": "leptus",
+                "href": "https://github.com/s1n4/leptus",
+                "github": "s1n4/leptus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Caching",
+        "childrens": [
+            {
+                "title": "cache",
+                "href": "https://github.com/fogfish/cache",
+                "github": "fogfish/cache",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Third Party APIs",
+        "childrens": [
+            {
+                "title": "restc",
+                "href": "https://github.com/kivra/restclient",
+                "github": "kivra/restclient",
+                "type": "github"
+            },
+            {
+                "title": "oauth2c",
+                "href": "https://github.com/kivra/oauth2_client",
+                "github": "kivra/oauth2_client",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "barrel_tcp",
+                "href": "https://github.com/benoitc-attic/barrel_tcp",
+                "github": "benoitc-attic/barrel_tcp",
+                "type": "github"
+            },
+            {
+                "title": "gen_rpc",
+                "href": "https://github.com/priestjim/gen_rpc",
+                "github": "priestjim/gen_rpc",
+                "type": "github"
+            },
+            {
+                "title": "gen_tcp_server",
+                "href": "https://github.com/rpt/gen_tcp_server",
+                "github": "rpt/gen_tcp_server",
+                "type": "github"
+            },
+            {
+                "title": "gossiperl",
+                "href": "https://github.com/gossiperl/gossiperl",
+                "github": "gossiperl/gossiperl",
+                "type": "github"
+            },
+            {
+                "title": "nat_upnp",
+                "href": "https://github.com/benoitc/nat_upnp",
+                "github": "benoitc/nat_upnp",
+                "type": "github"
+            },
+            {
+                "title": "ranch",
+                "href": "https://github.com/ninenines/ranch",
+                "github": "ninenines/ranch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Internet of Things",
+        "childrens": [
+            {
+                "title": "lemma_erlang",
+                "href": "https://github.com/noam-io/lemma_erlang",
+                "github": "noam-io/lemma_erlang",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Algorithms and Datastructures",
+        "childrens": [
+            {
+                "title": "erlando",
+                "href": "https://github.com/travelping/erlando",
+                "github": "travelping/erlando",
+                "type": "github"
+            },
+            {
+                "title": "statebox",
+                "href": "https://github.com/mochi/statebox",
+                "github": "mochi/statebox",
+                "type": "github"
+            },
+            {
+                "title": "riak_dt",
+                "href": "https://github.com/basho/riak_dt",
+                "github": "basho/riak_dt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "erlang-history",
+                "href": "https://github.com/ferd/erlang-history",
+                "github": "ferd/erlang-history",
+                "type": "github"
+            },
+            {
+                "title": "erld",
+                "href": "https://github.com/ShoreTel-Inc/erld",
+                "github": "ShoreTel-Inc/erld",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Websites",
+        "childrens": [
+            {
+                "title": "Erlang Bookmarks",
+                "href": "https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks",
+                "github": "0xAX/erlang-bookmarks/wiki/Erlang-bookmarks",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "heading": "Frontoffice extensions",
+        "childrens": [
+            {
+                "title": "refinerycms-copywriting",
+                "href": "https://github.com/unixcharles/refinerycms-copywriting",
+                "github": "unixcharles/refinerycms-copywriting",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-elasticsearch",
+                "href": "https://github.com/refinerycms-contrib/refinerycms-elasticsearch",
+                "github": "refinerycms-contrib/refinerycms-elasticsearch",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-image-slideshows",
+                "href": "https://github.com/bisscomm/refinerycms-image-slideshows",
+                "github": "bisscomm/refinerycms-image-slideshows",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-jobs",
+                "href": "https://github.com/bisscomm/refinerycms-jobs",
+                "github": "bisscomm/refinerycms-jobs",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-products",
+                "href": "https://github.com/bisscomm/refinerycms-products",
+                "github": "bisscomm/refinerycms-products",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-retailers",
+                "href": "https://github.com/bisscomm/refinerycms-retailers",
+                "github": "bisscomm/refinerycms-retailers",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-teams",
+                "href": "https://github.com/bisscomm/refinerycms-teams",
+                "github": "bisscomm/refinerycms-teams",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-testimonials",
+                "href": "https://github.com/anitagraham/refinerycms-testimonials",
+                "github": "anitagraham/refinerycms-testimonials",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-videos",
+                "href": "https://github.com/bisscomm/refinerycms-videos",
+                "github": "bisscomm/refinerycms-videos",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Backoffice extensions",
+        "childrens": [
+            {
+                "title": "refinerycms-dynamicfields",
+                "href": "https://github.com/jfalameda/refinerycms-dynamicfields",
+                "github": "jfalameda/refinerycms-dynamicfields",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-page-resources",
+                "href": "https://github.com/anitagraham/refinerycms-page-resources",
+                "github": "anitagraham/refinerycms-page-resources",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-redactor",
+                "href": "https://github.com/rabid/refinerycms-redactor",
+                "github": "rabid/refinerycms-redactor",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-resource-categories",
+                "href": "https://github.com/bisscomm/refinerycms-resource-categories",
+                "github": "bisscomm/refinerycms-resource-categories",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-snoods",
+                "href": "https://github.com/cleverlemming/refinerycms-snoods",
+                "github": "cleverlemming/refinerycms-snoods",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-tinymce",
+                "href": "https://github.com/ghoppe/refinerycms-tinymce",
+                "github": "ghoppe/refinerycms-tinymce",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "solidus-refinery-authentication",
+                "href": "https://github.com/refinerycms-contrib/solidus-refinery-authentication",
+                "github": "refinerycms-contrib/solidus-refinery-authentication",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "spree_refinery_resources",
+                "href": "https://github.com/bisscomm/spree_refinery_resources",
+                "github": "bisscomm/spree_refinery_resources",
+                "type": "github"
+            },
+            {
+                "title": "spree-refinery-authentication",
+                "href": "https://github.com/refinerycms-contrib/spree-refinery-authentication",
+                "github": "refinerycms-contrib/spree-refinery-authentication",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Main project",
+        "childrens": [
+            {
+                "title": "Core",
+                "href": "https://github.com/refinery/refinerycms/tree/master/core",
+                "github": "refinery/refinerycms/tree/master/core",
+                "type": "github"
+            },
+            {
+                "title": "Images",
+                "href": "https://github.com/refinery/refinerycms/tree/master/images",
+                "github": "refinery/refinerycms/tree/master/images",
+                "type": "github"
+            },
+            {
+                "title": "Pages",
+                "href": "https://github.com/refinery/refinerycms/tree/master/pages",
+                "github": "refinery/refinerycms/tree/master/pages",
+                "type": "github"
+            },
+            {
+                "title": "Resources",
+                "href": "https://github.com/refinery/refinerycms/tree/master/resources",
+                "github": "refinery/refinerycms/tree/master/resources",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Frontoffice extensions",
+        "childrens": [
+            {
+                "title": "refinerycms-authentication-devise",
+                "href": "https://github.com/refinery/refinerycms-authentication-devise",
+                "github": "refinery/refinerycms-authentication-devise",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-blog",
+                "href": "https://github.com/refinery/refinerycms-blog",
+                "github": "refinery/refinerycms-blog",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-inquiries",
+                "href": "https://github.com/refinery/refinerycms-inquiries",
+                "github": "refinery/refinerycms-inquiries",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-news",
+                "href": "https://github.com/refinery/refinerycms-news",
+                "github": "refinery/refinerycms-news",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-porfolio",
+                "href": "https://github.com/refinery/refinerycms-portfolio",
+                "github": "refinery/refinerycms-portfolio",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-search",
+                "href": "https://github.com/refinery/refinerycms-search",
+                "github": "refinery/refinerycms-search",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Backoffice extensions",
+        "childrens": [
+            {
+                "title": "refinerycms-page-images",
+                "href": "https://github.com/refinery/refinerycms-page-images",
+                "github": "refinery/refinerycms-page-images",
+                "type": "github"
+            },
+            {
+                "title": "refinerycms-settings",
+                "href": "https://github.com/refinery/refinerycms-settings",
+                "github": "refinery/refinerycms-settings",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Developer tools",
+        "childrens": [
+            {
+                "title": "Forms",
+                "href": "https://github.com/refinery/refinerycms-forms",
+                "github": "refinery/refinerycms-forms",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "heading": "Plugin Managers",
+        "childrens": [
+            {
+                "title": "Fisherman",
+                "href": "https://github.com/fisherman/fisherman",
+                "github": "fisherman/fisherman",
+                "type": "github"
+            },
+            {
+                "title": "Fin",
+                "href": "https://github.com/fisherman/fin",
+                "github": "fisherman/fin",
+                "type": "github"
+            },
+            {
+                "title": "Fundle",
+                "href": "https://github.com/tuvistavie/fundle",
+                "github": "tuvistavie/fundle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Plugins",
+        "childrens": [
+            {
+                "title": "Bass",
+                "href": "https://github.com/edc/bass",
+                "github": "edc/bass",
+                "type": "github"
+            },
+            {
+                "title": "Debug",
+                "href": "https://github.com/fisherman/debug",
+                "github": "fisherman/debug",
+                "type": "github"
+            },
+            {
+                "title": "DockerCompose",
+                "href": "https://github.com/brgmnn/fish-docker-compose",
+                "github": "brgmnn/fish-docker-compose",
+                "type": "github"
+            },
+            {
+                "title": "Get",
+                "href": "https://github.com/fisherman/get",
+                "github": "fisherman/get",
+                "type": "github"
+            },
+            {
+                "title": "Getopts",
+                "href": "https://github.com/fisherman/getopts",
+                "github": "fisherman/getopts",
+                "type": "github"
+            },
+            {
+                "title": "Fnm",
+                "href": "https://github.com/fisherman/fnm",
+                "github": "fisherman/fnm",
+                "type": "github"
+            },
+            {
+                "title": "Fishtape",
+                "href": "https://github.com/fisherman/fishtape",
+                "github": "fisherman/fishtape",
+                "type": "github"
+            },
+            {
+                "title": "Segment",
+                "href": "https://github.com/fisherman/segment",
+                "github": "fisherman/segment",
+                "type": "github"
+            },
+            {
+                "title": "Paths",
+                "href": "https://github.com/fisherman/paths",
+                "github": "fisherman/paths",
+                "type": "github"
+            },
+            {
+                "title": "Shark",
+                "href": "https://github.com/fisherman/shark",
+                "github": "fisherman/shark",
+                "type": "github"
+            },
+            {
+                "title": "Spin",
+                "href": "https://github.com/fisherman/spin",
+                "github": "fisherman/spin",
+                "type": "github"
+            },
+            {
+                "title": "Z",
+                "href": "https://github.com/fisherman/z",
+                "github": "fisherman/z",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Simple",
+        "childrens": [
+            {
+                "title": "Boss",
+                "href": "https://github.com/fisherman/boss",
+                "github": "fisherman/boss",
+                "type": "github"
+            },
+            {
+                "title": "Cyber",
+                "href": "https://github.com/fisherman/cyber",
+                "github": "fisherman/cyber",
+                "type": "github"
+            },
+            {
+                "title": "Simple",
+                "href": "https://github.com/fisherman/simple",
+                "github": "fisherman/simple",
+                "type": "github"
+            },
+            {
+                "title": "Sol",
+                "href": "https://github.com/fisherman/sol",
+                "github": "fisherman/sol",
+                "type": "github"
+            },
+            {
+                "title": "Mono",
+                "href": "https://github.com/fisherman/mono",
+                "github": "fisherman/mono",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Powerline",
+        "childrens": [
+            {
+                "title": "Bobthefish",
+                "href": "https://github.com/oh-my-fish/theme-bobthefish",
+                "github": "oh-my-fish/theme-bobthefish",
+                "type": "github"
+            },
+            {
+                "title": "Joker",
+                "href": "https://github.com/fisherman/joker",
+                "github": "fisherman/joker",
+                "type": "github"
+            },
+            {
+                "title": "Metro",
+                "href": "https://github.com/fisherman/metro",
+                "github": "fisherman/metro",
+                "type": "github"
+            },
+            {
+                "title": "Pure",
+                "href": "https://github.com/rafaelrinaldi/pure",
+                "github": "rafaelrinaldi/pure",
+                "type": "github"
+            },
+            {
+                "title": "Sektor",
+                "href": "https://github.com/fisherman/sektor",
+                "github": "fisherman/sektor",
+                "type": "github"
+            },
+            {
+                "title": "Shellder",
+                "href": "https://github.com/simnalamburt/shellder",
+                "github": "simnalamburt/shellder",
+                "type": "github"
+            },
+            {
+                "title": "Stark",
+                "href": "https://github.com/fisherman/stark",
+                "github": "fisherman/stark",
+                "type": "github"
+            },
+            {
+                "title": "Superman",
+                "href": "https://github.com/fisherman/superman",
+                "github": "fisherman/superman",
+                "type": "github"
+            },
+            {
+                "title": "Terran",
+                "href": "https://github.com/fisherman/terran",
+                "github": "fisherman/terran",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Reference",
+        "childrens": [
+            {
+                "title": "The Cookbook",
+                "href": "https://github.com/jbucaran/fish-shell-cookbook",
+                "github": "jbucaran/fish-shell-cookbook",
+                "type": "github"
+            }
+        ]
+    }
+]

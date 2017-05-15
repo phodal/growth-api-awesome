@@ -1,0 +1,277 @@
+[
+    {
+        "heading": "Charting libraries",
+        "childrens": [
+            {
+                "title": "dc.js",
+                "href": "https://github.com/dc-js/dc.js",
+                "github": "dc-js/dc.js",
+                "type": "github"
+            },
+            {
+                "title": "Echarts",
+                "href": "https://github.com/ecomfe/echarts",
+                "github": "ecomfe/echarts",
+                "type": "github"
+            },
+            {
+                "title": "Epoch",
+                "href": "https://github.com/epochjs/epoch",
+                "github": "epochjs/epoch",
+                "type": "github"
+            },
+            {
+                "title": "NVD3",
+                "href": "https://github.com/novus/nvd3",
+                "github": "novus/nvd3",
+                "type": "github"
+            },
+            {
+                "title": "Peity",
+                "href": "https://github.com/benpickles/peity",
+                "github": "benpickles/peity",
+                "type": "github"
+            },
+            {
+                "title": "Plotly.js",
+                "href": "https://github.com/plotly/plotly.js/",
+                "github": "plotly/plotly.js/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Charting libraries for graphs",
+        "childrens": [
+            {
+                "title": "VivaGraph",
+                "href": "https://github.com/anvaka/VivaGraphJS",
+                "github": "anvaka/VivaGraphJS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Maps",
+        "childrens": [
+            {
+                "title": "CARTO",
+                "href": "https://github.com/CartoDB/cartodb",
+                "github": "CartoDB/cartodb",
+                "type": "github"
+            },
+            {
+                "title": "Cesium",
+                "href": "https://github.com/AnalyticalGraphicsInc/cesium",
+                "github": "AnalyticalGraphicsInc/cesium",
+                "type": "github"
+            },
+            {
+                "title": "DataMaps",
+                "href": "https://github.com/markmarkoh/datamaps",
+                "github": "markmarkoh/datamaps",
+                "type": "github"
+            },
+            {
+                "title": "Leaflet Data Visualization Framework",
+                "href": "https://github.com/humangeo/leaflet-dvf",
+                "github": "humangeo/leaflet-dvf",
+                "type": "github"
+            },
+            {
+                "title": "Mapael",
+                "href": "https://github.com/neveldo/jQuery-Mapael",
+                "github": "neveldo/jQuery-Mapael",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React",
+        "childrens": [
+            {
+                "title": "React-vis",
+                "href": "https://github.com/uber/react-vis",
+                "github": "uber/react-vis",
+                "type": "github"
+            },
+            {
+                "title": "Recharts",
+                "href": "https://github.com/recharts/recharts",
+                "github": "recharts/recharts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "Piecon",
+                "href": "https://github.com/lipka/piecon",
+                "github": "lipka/piecon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Android tools",
+        "childrens": [
+            {
+                "title": "DecoView",
+                "href": "https://github.com/bmarrdev/android-DecoView-charting",
+                "github": "bmarrdev/android-DecoView-charting",
+                "type": "github"
+            },
+            {
+                "title": "MPAndroidChart",
+                "href": "https://github.com/PhilJay/MPAndroidChart",
+                "github": "PhilJay/MPAndroidChart",
+                "type": "github"
+            },
+            {
+                "title": "WilliamChart",
+                "href": "https://github.com/diogobernardino/WilliamChart",
+                "github": "diogobernardino/WilliamChart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++ tools",
+        "childrens": [
+            {
+                "title": "LargeVis",
+                "href": "https://github.com/lferry007/LargeVis",
+                "github": "lferry007/LargeVis",
+                "type": "github"
+            },
+            {
+                "title": "PlotJuggler",
+                "href": "https://github.com/facontidavide/PlotJuggler",
+                "github": "facontidavide/PlotJuggler",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Golang tools",
+        "childrens": [
+            {
+                "title": "svgo",
+                "href": "https://github.com/ajstarks/svgo",
+                "github": "ajstarks/svgo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "iOS tools",
+        "childrens": [
+            {
+                "title": "BEMSimpleLineGraph",
+                "href": "https://github.com/Boris-Em/BEMSimpleLineGraph",
+                "github": "Boris-Em/BEMSimpleLineGraph",
+                "type": "github"
+            },
+            {
+                "title": "Charts",
+                "href": "https://github.com/danielgindi/Charts",
+                "github": "danielgindi/Charts",
+                "type": "github"
+            },
+            {
+                "title": "JBChartView",
+                "href": "https://github.com/Jawbone/JBChartView",
+                "github": "Jawbone/JBChartView",
+                "type": "github"
+            },
+            {
+                "title": "PNChart",
+                "href": "https://github.com/kevinzhow/PNChart",
+                "github": "kevinzhow/PNChart",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python tools",
+        "childrens": [
+            {
+                "title": "diagram",
+                "href": "https://github.com/tehmaze/diagram",
+                "github": "tehmaze/diagram",
+                "type": "github"
+            },
+            {
+                "title": "ggplot",
+                "href": "https://github.com/yhat/ggpy",
+                "github": "yhat/ggpy",
+                "type": "github"
+            },
+            {
+                "title": "glumpy",
+                "href": "https://github.com/glumpy/glumpy",
+                "github": "glumpy/glumpy",
+                "type": "github"
+            },
+            {
+                "title": "missingno",
+                "href": "https://github.com/ResidentMario/missingno",
+                "github": "ResidentMario/missingno",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "R tools",
+        "childrens": [
+            {
+                "title": "plotly",
+                "href": "https://github.com/ropensci/plotly",
+                "github": "ropensci/plotly",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby tools",
+        "childrens": [
+            {
+                "title": "Chartkick",
+                "href": "https://github.com/ankane/chartkick",
+                "github": "ankane/chartkick",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other tools",
+        "childrens": [
+            {
+                "title": "Charted",
+                "href": "https://github.com/mikesall/charted",
+                "github": "mikesall/charted",
+                "type": "github"
+            },
+            {
+                "title": "Gephi",
+                "href": "https://github.com/gephi/gephi",
+                "github": "gephi/gephi",
+                "type": "github"
+            },
+            {
+                "title": "Spark",
+                "href": "https://github.com/holman/spark",
+                "github": "holman/spark",
+                "type": "github"
+            },
+            {
+                "title": "Superset",
+                "href": "https://github.com/airbnb/superset",
+                "github": "airbnb/superset",
+                "type": "github"
+            }
+        ]
+    }
+]

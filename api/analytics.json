@@ -1,0 +1,13 @@
+[
+    {
+        "heading": "Analytics dashboards",
+        "childrens": [
+            {
+                "title": "Freeboard",
+                "href": "https://github.com/Freeboard/freeboard",
+                "github": "Freeboard/freeboard",
+                "type": "github"
+            }
+        ]
+    }
+]

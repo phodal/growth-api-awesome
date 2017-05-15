@@ -1,0 +1,339 @@
+[
+    {
+        "heading": "Free Online Books",
+        "childrens": [
+            {
+                "title": "neuraltalk",
+                "href": "https://github.com/karpathy/neuraltalk",
+                "github": "karpathy/neuraltalk",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Torch7 Tutorials",
+                "href": "https://github.com/clementfarabet/ipam-tutorials/tree/master/th_tutorials",
+                "github": "clementfarabet/ipam-tutorials/tree/master/th_tutorials",
+                "type": "github"
+            },
+            {
+                "title": "TensorFlow tutorials",
+                "href": "https://github.com/nlintz/TensorFlow-Tutorials",
+                "github": "nlintz/TensorFlow-Tutorials",
+                "type": "github"
+            },
+            {
+                "title": "More TensorFlow tutorials",
+                "href": "https://github.com/pkmital/tensorflow_tutorials",
+                "github": "pkmital/tensorflow_tutorials",
+                "type": "github"
+            },
+            {
+                "title": "TensorFlow Python Notebooks",
+                "href": "https://github.com/aymericdamien/TensorFlow-Examples",
+                "github": "aymericdamien/TensorFlow-Examples",
+                "type": "github"
+            },
+            {
+                "title": "Keras and Lasagne Deep Learning Tutorials",
+                "href": "https://github.com/Vict0rSch/deep_learning",
+                "github": "Vict0rSch/deep_learning",
+                "type": "github"
+            },
+            {
+                "title": "Classification on raw time series in TensorFlow with a LSTM RNN",
+                "href": "https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition",
+                "github": "guillaume-chevalier/LSTM-Human-Activity-Recognition",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Datasets",
+        "childrens": [
+            {
+                "title": "DeepMind QA Corpus",
+                "href": "https://github.com/deepmind/rc-data",
+                "github": "deepmind/rc-data",
+                "type": "github"
+            },
+            {
+                "title": "Open Images dataset",
+                "href": "https://github.com/openimages/dataset",
+                "github": "openimages/dataset",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Frameworks",
+        "childrens": [
+            {
+                "title": "convetjs",
+                "href": "https://github.com/karpathy/convnetjs",
+                "github": "karpathy/convnetjs",
+                "type": "github"
+            },
+            {
+                "title": "Brain",
+                "href": "https://github.com/harthur/brain",
+                "github": "harthur/brain",
+                "type": "github"
+            },
+            {
+                "title": "DeepLearnToolbox",
+                "href": "https://github.com/rasmusbergpalm/DeepLearnToolbox",
+                "github": "rasmusbergpalm/DeepLearnToolbox",
+                "type": "github"
+            },
+            {
+                "title": "Deepnet",
+                "href": "https://github.com/nitishsrivastava/deepnet",
+                "github": "nitishsrivastava/deepnet",
+                "type": "github"
+            },
+            {
+                "title": "Deeppy",
+                "href": "https://github.com/andersbll/deeppy",
+                "github": "andersbll/deeppy",
+                "type": "github"
+            },
+            {
+                "title": "JavaNN",
+                "href": "https://github.com/ivan-vasilev/neuralnetworks",
+                "github": "ivan-vasilev/neuralnetworks",
+                "type": "github"
+            },
+            {
+                "title": "hebel",
+                "href": "https://github.com/hannes-brt/hebel",
+                "github": "hannes-brt/hebel",
+                "type": "github"
+            },
+            {
+                "title": "Mocha.jl",
+                "href": "https://github.com/pluskid/Mocha.jl",
+                "github": "pluskid/Mocha.jl",
+                "type": "github"
+            },
+            {
+                "title": "OpenDL",
+                "href": "https://github.com/guoding83128/OpenDL",
+                "github": "guoding83128/OpenDL",
+                "type": "github"
+            },
+            {
+                "title": "Knet.jl",
+                "href": "https://github.com/denizyuret/Knet.jl",
+                "github": "denizyuret/Knet.jl",
+                "type": "github"
+            },
+            {
+                "title": "Nvidia DIGITS - a web app based on Caffe",
+                "href": "https://github.com/NVIDIA/DIGITS",
+                "github": "NVIDIA/DIGITS",
+                "type": "github"
+            },
+            {
+                "title": "Neon - Python based Deep Learning Framework",
+                "href": "https://github.com/NervanaSystems/neon",
+                "github": "NervanaSystems/neon",
+                "type": "github"
+            },
+            {
+                "title": "char-rnn",
+                "href": "https://github.com/karpathy/char-rnn",
+                "github": "karpathy/char-rnn",
+                "type": "github"
+            },
+            {
+                "title": "MatConvNet: CNNs for MATLAB",
+                "href": "https://github.com/vlfeat/matconvnet",
+                "github": "vlfeat/matconvnet",
+                "type": "github"
+            },
+            {
+                "title": "Minerva - a fast and flexible tool for deep learning on multi-GPU",
+                "href": "https://github.com/dmlc/minerva",
+                "github": "dmlc/minerva",
+                "type": "github"
+            },
+            {
+                "title": "Brainstorm - Fast, flexible and fun neural networks.",
+                "href": "https://github.com/IDSIA/brainstorm",
+                "github": "IDSIA/brainstorm",
+                "type": "github"
+            },
+            {
+                "title": "Tensorflow - Open source software library for numerical computation using data flow graphs",
+                "href": "https://github.com/tensorflow/tensorflow",
+                "github": "tensorflow/tensorflow",
+                "type": "github"
+            },
+            {
+                "title": "DMTK - Microsoft Distributed Machine Learning Tookit",
+                "href": "https://github.com/Microsoft/DMTK",
+                "github": "Microsoft/DMTK",
+                "type": "github"
+            },
+            {
+                "title": "Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)",
+                "href": "https://github.com/google/skflow",
+                "github": "google/skflow",
+                "type": "github"
+            },
+            {
+                "title": "MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework",
+                "href": "https://github.com/dmlc/mxnet/",
+                "github": "dmlc/mxnet/",
+                "type": "github"
+            },
+            {
+                "title": "Veles - Samsung Distributed machine learning platform",
+                "href": "https://github.com/Samsung/veles",
+                "github": "Samsung/veles",
+                "type": "github"
+            },
+            {
+                "title": "Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework",
+                "href": "https://github.com/PrincetonVision/marvin",
+                "github": "PrincetonVision/marvin",
+                "type": "github"
+            },
+            {
+                "title": "DSSTNE - Amazon's library for building Deep Learning models",
+                "href": "https://github.com/amznlabs/amazon-dsstne",
+                "github": "amznlabs/amazon-dsstne",
+                "type": "github"
+            },
+            {
+                "title": "SyntaxNet - Google's syntactic parser - A TensorFlow dependency library",
+                "href": "https://github.com/tensorflow/models/tree/master/syntaxnet",
+                "github": "tensorflow/models/tree/master/syntaxnet",
+                "type": "github"
+            },
+            {
+                "title": "Torchnet - Torch based Deep Learning Library",
+                "href": "https://github.com/torchnet/torchnet",
+                "github": "torchnet/torchnet",
+                "type": "github"
+            },
+            {
+                "title": "Paddle - PArallel Distributed Deep LEarning by Baidu",
+                "href": "https://github.com/baidu/paddle",
+                "github": "baidu/paddle",
+                "type": "github"
+            },
+            {
+                "title": "Lasagne - a lightweight library to build and train neural networks in Theano",
+                "href": "https://github.com/Lasagne/Lasagne",
+                "github": "Lasagne/Lasagne",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Caffe DockerFile",
+                "href": "https://github.com/tleyden/docker/tree/master/caffe",
+                "github": "tleyden/docker/tree/master/caffe",
+                "type": "github"
+            },
+            {
+                "title": "TorontoDeepLEarning convnet",
+                "href": "https://github.com/TorontoDeepLearning/convnet",
+                "github": "TorontoDeepLearning/convnet",
+                "type": "github"
+            },
+            {
+                "title": "gfx.js",
+                "href": "https://github.com/clementfarabet/gfx.js",
+                "github": "clementfarabet/gfx.js",
+                "type": "github"
+            },
+            {
+                "title": "Torch7 Cheat sheet",
+                "href": "https://github.com/torch/torch7/wiki/Cheatsheet",
+                "github": "torch/torch7/wiki/Cheatsheet",
+                "type": "github"
+            },
+            {
+                "title": "A chess AI that learns to play chess using deep learning.",
+                "href": "https://github.com/erikbern/deep-pink",
+                "github": "erikbern/deep-pink",
+                "type": "github"
+            },
+            {
+                "title": "Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps",
+                "href": "https://github.com/idio/wiki2vec",
+                "github": "idio/wiki2vec",
+                "type": "github"
+            },
+            {
+                "title": "The original code from the DeepMind article + tweaks",
+                "href": "https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner",
+                "github": "kuz/DeepMind-Atari-Deep-Q-Learner",
+                "type": "github"
+            },
+            {
+                "title": "Google deepdream - Neural Network art",
+                "href": "https://github.com/google/deepdream",
+                "github": "google/deepdream",
+                "type": "github"
+            },
+            {
+                "title": "An efficient, batched LSTM.",
+                "href": "https://gist.github.com/karpathy/587454dc0146a6ae21fc",
+                "github": ".com/karpathy/587454dc0146a6ae21fc",
+                "type": "github"
+            },
+            {
+                "title": "A recurrent neural network designed to generate classical music.",
+                "href": "https://github.com/hexahedria/biaxial-rnn-music-composition",
+                "github": "hexahedria/biaxial-rnn-music-composition",
+                "type": "github"
+            },
+            {
+                "title": "Memory Networks Implementations - Facebook",
+                "href": "https://github.com/facebook/MemNN",
+                "github": "facebook/MemNN",
+                "type": "github"
+            },
+            {
+                "title": "Face recognition with Google's FaceNet deep neural network.",
+                "href": "https://github.com/cmusatyalab/openface",
+                "github": "cmusatyalab/openface",
+                "type": "github"
+            },
+            {
+                "title": "Basic digit recognition neural network",
+                "href": "https://github.com/joeledenberg/DigitRecognition",
+                "github": "joeledenberg/DigitRecognition",
+                "type": "github"
+            },
+            {
+                "title": "Proof of concept for loading Caffe models in TensorFlow",
+                "href": "https://github.com/ethereon/caffe-tensorflow",
+                "github": "ethereon/caffe-tensorflow",
+                "type": "github"
+            },
+            {
+                "title": "AlphaGo - A replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search\"",
+                "href": "https://github.com/Rochester-NRT/AlphaGo",
+                "github": "Rochester-NRT/AlphaGo",
+                "type": "github"
+            },
+            {
+                "title": "Machine Learning for Software Engineers",
+                "href": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+                "github": "ZuzooVn/machine-learning-for-software-engineers",
+                "type": "github"
+            }
+        ]
+    }
+]

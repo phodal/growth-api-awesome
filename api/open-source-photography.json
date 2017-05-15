@@ -1,0 +1,166 @@
+[
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "PhotoFlow",
+                "href": "https://github.com/aferrero2707/PhotoFlow",
+                "github": "aferrero2707/PhotoFlow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Camera Firmware Mods",
+        "childrens": [
+            {
+                "title": "Autoexec Hack",
+                "href": "https://github.com/KonradIT/autoexechack",
+                "github": "KonradIT/autoexechack",
+                "type": "github"
+            },
+            {
+                "title": "Xiaomi Yi Autoexec",
+                "href": "https://github.com/PJanisio/Xiaomi_Yi_autoexec",
+                "github": "PJanisio/Xiaomi_Yi_autoexec",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Canon",
+        "childrens": [
+            {
+                "title": "OfxCanon",
+                "href": "https://github.com/roxlu/ofxCanon",
+                "github": "roxlu/ofxCanon",
+                "type": "github"
+            },
+            {
+                "title": "Edsdk4j",
+                "href": "https://github.com/kritzikratzi/edsdk4j",
+                "github": "kritzikratzi/edsdk4j",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GoPro",
+        "childrens": [
+            {
+                "title": "GoPro",
+                "href": "https://github.com/kschzt/gopro",
+                "github": "kschzt/gopro",
+                "type": "github"
+            },
+            {
+                "title": "GoPro",
+                "href": "https://github.com/DenisCarriere/gopro",
+                "github": "DenisCarriere/gopro",
+                "type": "github"
+            },
+            {
+                "title": "GoPro",
+                "href": "https://github.com/joshvillbrandt/goprohero",
+                "github": "joshvillbrandt/goprohero",
+                "type": "github"
+            },
+            {
+                "title": "GoPro.Hero",
+                "href": "https://github.com/r1pper/GoPro.Hero",
+                "github": "r1pper/GoPro.Hero",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sony",
+        "childrens": [
+            {
+                "title": "SonyPy",
+                "href": "https://github.com/storborg/sonypy",
+                "github": "storborg/sonypy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "Timelapse-sony",
+                "href": "https://github.com/ThibaudM/timelapse-sony",
+                "github": "ThibaudM/timelapse-sony",
+                "type": "github"
+            },
+            {
+                "title": "Remoteyourcam-usb",
+                "href": "https://github.com/crazymaik/remoteyourcam-usb",
+                "github": "crazymaik/remoteyourcam-usb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "RAW image developers",
+        "childrens": [
+            {
+                "title": "Raw Studio",
+                "href": "https://github.com/rawstudio/rawstudio",
+                "github": "rawstudio/rawstudio",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "HDR Specific Software",
+        "childrens": [
+            {
+                "title": "Luminance",
+                "href": "https://github.com/LuminanceHDR/LuminanceHDR",
+                "github": "LuminanceHDR/LuminanceHDR",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compositing software",
+        "childrens": [
+            {
+                "title": "Natron",
+                "href": "https://github.com/MrKepzie/Natron",
+                "github": "MrKepzie/Natron",
+                "type": "github"
+            },
+            {
+                "title": "ButtleOFX",
+                "href": "https://github.com/buttleofx/ButtleOFX",
+                "github": "buttleofx/ButtleOFX",
+                "type": "github"
+            },
+            {
+                "title": "Shotcut",
+                "href": "https://github.com/mltframework/shotcut",
+                "github": "mltframework/shotcut",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video Libraries",
+        "childrens": [
+            {
+                "title": "TuttleOFX",
+                "href": "https://github.com/tuttleofx/TuttleOFX",
+                "github": "tuttleofx/TuttleOFX",
+                "type": "github"
+            },
+            {
+                "title": "Vid.stab",
+                "href": "https://github.com/georgmartius/vid.stab",
+                "github": "georgmartius/vid.stab",
+                "type": "github"
+            }
+        ]
+    }
+]

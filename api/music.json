@@ -1,0 +1,259 @@
+[
+    {
+        "heading": "Audio Editing",
+        "childrens": [
+            {
+                "title": "Audacity",
+                "href": "https://github.com/audacity/audacity",
+                "github": "audacity/audacity",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio Libraries",
+        "childrens": [
+            {
+                "title": "audio.js",
+                "href": "https://github.com/kolber/audiojs",
+                "github": "kolber/audiojs",
+                "type": "github"
+            },
+            {
+                "title": "howler.js",
+                "href": "https://github.com/goldfire/howler.js",
+                "github": "goldfire/howler.js",
+                "type": "github"
+            },
+            {
+                "title": "midi.js",
+                "href": "https://github.com/mudcube/MIDI.js",
+                "github": "mudcube/MIDI.js",
+                "type": "github"
+            },
+            {
+                "title": "mxml",
+                "href": "https://github.com/venturemedia/mxml",
+                "github": "venturemedia/mxml",
+                "type": "github"
+            },
+            {
+                "title": "RustAudio",
+                "href": "https://github.com/RustAudio",
+                "github": "RustAudio",
+                "type": "github"
+            },
+            {
+                "title": "Soundpipe",
+                "href": "https://github.com/PaulBatchelor/Soundpipe",
+                "github": "PaulBatchelor/Soundpipe",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio Tools",
+        "childrens": [
+            {
+                "title": "Koel",
+                "href": "https://github.com/phanan/koel",
+                "github": "phanan/koel",
+                "type": "github"
+            },
+            {
+                "title": "Musikernel",
+                "href": "https://github.com/j3ffhubb/musikernel",
+                "github": "j3ffhubb/musikernel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Free Music Scores",
+        "childrens": [
+            {
+                "title": "cellist/Lilypond-Sheet-Music",
+                "href": "https://github.com/cellist/Lilypond-Sheet-Music",
+                "github": "cellist/Lilypond-Sheet-Music",
+                "type": "github"
+            },
+            {
+                "title": "ciconia/music",
+                "href": "https://github.com/ciconia/music",
+                "github": "ciconia/music",
+                "type": "github"
+            },
+            {
+                "title": "Éditions Nicolas Sceaux",
+                "href": "https://github.com/nsceaux/nenuvar",
+                "github": "nsceaux/nenuvar",
+                "type": "github"
+            },
+            {
+                "title": "Mutopia",
+                "href": "https://github.com/MutopiaProject/MutopiaProject",
+                "github": "MutopiaProject/MutopiaProject",
+                "type": "github"
+            },
+            {
+                "title": "wbsoft/lilymusic",
+                "href": "https://github.com/wbsoft/lilymusic",
+                "github": "wbsoft/lilymusic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Music Notation",
+        "childrens": [
+            {
+                "title": "Frescobaldi",
+                "href": "https://github.com/wbsoft/frescobaldi",
+                "github": "wbsoft/frescobaldi",
+                "type": "github"
+            },
+            {
+                "title": "Inknote",
+                "href": "https://github.com/MichalPaszkiewicz/inknote",
+                "github": "MichalPaszkiewicz/inknote",
+                "type": "github"
+            },
+            {
+                "title": "LibMEI",
+                "href": "https://github.com/DDMAL/libmei",
+                "github": "DDMAL/libmei",
+                "type": "github"
+            },
+            {
+                "title": "Lilypond cook book",
+                "href": "https://github.com/noteflakes/lilypond-cookbook/wiki/",
+                "github": "noteflakes/lilypond-cookbook/wiki/",
+                "type": "github"
+            },
+            {
+                "title": "Lilyvm",
+                "href": "https://github.com/olsonpm/lilyvm",
+                "github": "olsonpm/lilyvm",
+                "type": "github"
+            },
+            {
+                "title": "Lydown",
+                "href": "https://github.com/ciconia/lydown",
+                "github": "ciconia/lydown",
+                "type": "github"
+            },
+            {
+                "title": "Lyp",
+                "href": "https://github.com/noteflakes/lyp",
+                "github": "noteflakes/lyp",
+                "type": "github"
+            },
+            {
+                "title": "MuseScore",
+                "href": "https://github.com/musescore/MuseScore",
+                "github": "musescore/MuseScore",
+                "type": "github"
+            },
+            {
+                "title": "MusicKit",
+                "href": "https://github.com/venturemedia/musickit",
+                "github": "venturemedia/musickit",
+                "type": "github"
+            },
+            {
+                "title": "OpenLilyLib",
+                "href": "https://github.com/openlilylib/snippets/",
+                "github": "openlilylib/snippets/",
+                "type": "github"
+            },
+            {
+                "title": "Ripple",
+                "href": "https://github.com/ciconia/ripple/",
+                "github": "ciconia/ripple/",
+                "type": "github"
+            },
+            {
+                "title": "Tunefl",
+                "href": "https://github.com/tiredpixel/tunefl",
+                "github": "tiredpixel/tunefl",
+                "type": "github"
+            },
+            {
+                "title": "Verovio",
+                "href": "https://github.com/rism-ch/verovio",
+                "github": "rism-ch/verovio",
+                "type": "github"
+            },
+            {
+                "title": "Vexflow",
+                "href": "https://github.com/0xfe/vexflow",
+                "github": "0xfe/vexflow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Music Programming",
+        "childrens": [
+            {
+                "title": "Alda",
+                "href": "https://github.com/alda-lang/alda",
+                "github": "alda-lang/alda",
+                "type": "github"
+            },
+            {
+                "title": "Chuck",
+                "href": "https://github.com/ccrma/chuck",
+                "github": "ccrma/chuck",
+                "type": "github"
+            },
+            {
+                "title": "CoffeeCollider",
+                "href": "https://github.com/mohayonao/CoffeeCollider",
+                "github": "mohayonao/CoffeeCollider",
+                "type": "github"
+            },
+            {
+                "title": "IanniX",
+                "href": "https://github.com/iannix/IanniX",
+                "github": "iannix/IanniX",
+                "type": "github"
+            },
+            {
+                "title": "Leipzig",
+                "href": "https://github.com/ctford/leipzig",
+                "github": "ctford/leipzig",
+                "type": "github"
+            },
+            {
+                "title": "Overtone",
+                "href": "https://github.com/overtone/overtone/",
+                "github": "overtone/overtone/",
+                "type": "github"
+            },
+            {
+                "title": "Sporth",
+                "href": "https://github.com/PaulBatchelor/Sporth",
+                "github": "PaulBatchelor/Sporth",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related lists",
+        "childrens": [
+            {
+                "title": "Awesome Music Production",
+                "href": "https://github.com/adius/awesome-music-production",
+                "github": "adius/awesome-music-production",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Web Audio",
+                "href": "https://github.com/notthetup/awesome-webaudio",
+                "github": "notthetup/awesome-webaudio",
+                "type": "github"
+            }
+        ]
+    }
+]

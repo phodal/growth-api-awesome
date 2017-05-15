@@ -1,0 +1,142 @@
+[
+    {
+        "heading": "Experiments",
+        "childrens": [
+            {
+                "title": "VR Ondes Martenot",
+                "href": "https://github.com/elifer5000/vr-ondes-martenot",
+                "github": "elifer5000/vr-ondes-martenot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries Audio",
+        "childrens": [
+            {
+                "title": "web-audio-analyser",
+                "href": "https://github.com/hughsk/web-audio-analyser",
+                "github": "hughsk/web-audio-analyser",
+                "type": "github"
+            },
+            {
+                "title": "web-audio-player",
+                "href": "https://github.com/Jam3/web-audio-player",
+                "github": "Jam3/web-audio-player",
+                "type": "github"
+            },
+            {
+                "title": "web-media-playback",
+                "href": "https://github.com/hughsk/web-media-playback",
+                "github": "hughsk/web-media-playback",
+                "type": "github"
+            },
+            {
+                "title": "ThreeAudio.js",
+                "href": "https://github.com/unconed/ThreeAudio.js",
+                "github": "unconed/ThreeAudio.js",
+                "type": "github"
+            },
+            {
+                "title": "MIDI.js",
+                "href": "https://github.com/mudcube/MIDI.js/",
+                "github": "mudcube/MIDI.js/",
+                "type": "github"
+            },
+            {
+                "title": "Beep.js",
+                "href": "https://github.com/stewdio/beep.js",
+                "github": "stewdio/beep.js",
+                "type": "github"
+            },
+            {
+                "title": "p5.sound",
+                "href": "https://github.com/processing/p5.js-sound",
+                "github": "processing/p5.js-sound",
+                "type": "github"
+            },
+            {
+                "title": "audio-render",
+                "href": "https://github.com/audio-lab/render",
+                "github": "audio-lab/render",
+                "type": "github"
+            },
+            {
+                "title": "Octavian",
+                "href": "https://github.com/stevekinney/octavian",
+                "github": "stevekinney/octavian",
+                "type": "github"
+            },
+            {
+                "title": "audiowaveform",
+                "href": "https://github.com/bbc/audiowaveform",
+                "github": "bbc/audiowaveform",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries Visualization",
+        "childrens": [
+            {
+                "title": "Pixi.js",
+                "href": "https://github.com/pixijs/pixi.js/",
+                "github": "pixijs/pixi.js/",
+                "type": "github"
+            },
+            {
+                "title": "Web Audio Extension",
+                "href": "https://github.com/spite/WebAudioExtension",
+                "github": "spite/WebAudioExtension",
+                "type": "github"
+            },
+            {
+                "title": "The Force",
+                "href": "https://github.com/shawnlawson/The_Force",
+                "github": "shawnlawson/The_Force",
+                "type": "github"
+            },
+            {
+                "title": "Hylogen",
+                "href": "https://github.com/sleexyz/hylogen",
+                "github": "sleexyz/hylogen",
+                "type": "github"
+            },
+            {
+                "title": "Clubber.js",
+                "href": "https://github.com/wizgrav/clubber",
+                "github": "wizgrav/clubber",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "People to Follow",
+        "childrens": [
+            {
+                "title": "Chris Wilson",
+                "href": "https://github.com/cwilso/",
+                "github": "cwilso/",
+                "type": "github"
+            },
+            {
+                "title": "Jason Sigal",
+                "href": "https://github.com/therewasaguy",
+                "github": "therewasaguy",
+                "type": "github"
+            },
+            {
+                "title": "Matt DesLauriers",
+                "href": "https://github.com/mattdesl",
+                "github": "mattdesl",
+                "type": "github"
+            },
+            {
+                "title": "Yannis Gravezas",
+                "href": "https://github.com/wizgrav",
+                "github": "wizgrav",
+                "type": "github"
+            }
+        ]
+    }
+]

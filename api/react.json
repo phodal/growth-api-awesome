@@ -1,0 +1,3101 @@
+[
+    {
+        "heading": "React General Resources",
+        "childrens": [
+            {
+                "title": "React GitHub",
+                "href": "https://github.com/facebook/react",
+                "github": "facebook/react",
+                "type": "github"
+            },
+            {
+                "title": "React Community GitHub",
+                "href": "https://github.com/reactjs",
+                "github": "reactjs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Community",
+        "childrens": [
+            {
+                "title": "React Core meeting notes",
+                "href": "https://github.com/reactjs/core-notes",
+                "github": "reactjs/core-notes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React General Tutorials",
+        "childrens": [
+            {
+                "title": "React Primer",
+                "href": "https://github.com/mikechau/react-primer-draft",
+                "github": "mikechau/react-primer-draft",
+                "type": "github"
+            },
+            {
+                "title": "React.js Koans: Practical exercises that will help you learn React.js from square one",
+                "href": "https://github.com/arkency/reactjs_koans",
+                "github": "arkency/reactjs_koans",
+                "type": "github"
+            },
+            {
+                "title": "Learn React by building the Hacker News front page",
+                "href": "https://github.com/mking/react-hn",
+                "github": "mking/react-hn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React styling",
+        "childrens": [
+            {
+                "title": "React: CSS in JS techniques comparison",
+                "href": "https://github.com/MicheleBertoli/css-in-js",
+                "github": "MicheleBertoli/css-in-js",
+                "type": "github"
+            },
+            {
+                "title": "Radium",
+                "href": "https://github.com/FormidableLabs/radium",
+                "github": "FormidableLabs/radium",
+                "type": "github"
+            },
+            {
+                "title": "jsxstyle",
+                "href": "https://github.com/petehunt/jsxstyle",
+                "github": "petehunt/jsxstyle",
+                "type": "github"
+            },
+            {
+                "title": "ReactCSS",
+                "href": "https://github.com/casesandberg/reactcss",
+                "github": "casesandberg/reactcss",
+                "type": "github"
+            },
+            {
+                "title": "Aphrodite",
+                "href": "https://github.com/Khan/aphrodite",
+                "github": "Khan/aphrodite",
+                "type": "github"
+            },
+            {
+                "title": "Glamor",
+                "href": "https://github.com/threepointone/glamor",
+                "github": "threepointone/glamor",
+                "type": "github"
+            },
+            {
+                "title": "Styletron",
+                "href": "https://github.com/rtsao/styletron",
+                "github": "rtsao/styletron",
+                "type": "github"
+            },
+            {
+                "title": "TypeStyle",
+                "href": "https://github.com/typestyle/typestyle",
+                "github": "typestyle/typestyle",
+                "type": "github"
+            },
+            {
+                "title": "styled-components",
+                "href": "https://github.com/styled-components/styled-components",
+                "github": "styled-components/styled-components",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React and ClojureScript",
+        "childrens": [
+            {
+                "title": "A Reagent Framework For Writing SPAs",
+                "href": "https://github.com/Day8/re-frame",
+                "github": "Day8/re-frame",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React and CoffeeScript",
+        "childrens": [
+            {
+                "title": "React patterns - Mostly reasonable patterns for writing React in CoffeeScript",
+                "href": "https://github.com/planningcenter/react-patterns",
+                "github": "planningcenter/react-patterns",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React and Datatables",
+        "childrens": [
+            {
+                "title": "React and Datatables",
+                "href": "https://github.com/wyvernnot/react-datatables-example",
+                "github": "wyvernnot/react-datatables-example",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React and Haskell",
+        "childrens": [
+            {
+                "title": "stackage-view, built with Yesod and GHCJS+React",
+                "href": "https://github.com/fpco/stackage-view",
+                "github": "fpco/stackage-view",
+                "type": "github"
+            },
+            {
+                "title": "TodoMVC example with Shade (Haste+React)",
+                "href": "https://github.com/takeoutweight/shade-todomvc",
+                "github": "takeoutweight/shade-todomvc",
+                "type": "github"
+            },
+            {
+                "title": "blaze-react, blaze-html style React bindings using GHCJS",
+                "href": "https://github.com/meiersi/blaze-react",
+                "github": "meiersi/blaze-react",
+                "type": "github"
+            },
+            {
+                "title": "purescript-react bindings",
+                "href": "https://github.com/purescript-contrib/purescript-react",
+                "github": "purescript-contrib/purescript-react",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React and Socket.IO",
+        "childrens": [
+            {
+                "title": "Socket.IO integration example",
+                "href": "https://gist.github.com/zpao/5686416",
+                "github": ".com/zpao/5686416",
+                "type": "github"
+            },
+            {
+                "title": "Socket.IO integration example inside of a single React component",
+                "href": "https://gist.github.com/petehunt/5687230",
+                "github": ".com/petehunt/5687230",
+                "type": "github"
+            },
+            {
+                "title": "Socket.IO integration employing separation of concerns",
+                "href": "https://gist.github.com/petehunt/5687276",
+                "github": ".com/petehunt/5687276",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Server Side rendering",
+        "childrens": [
+            {
+                "title": "Super-basic example of how server rendering works",
+                "href": "https://github.com/petehunt/react-server-rendering-example",
+                "github": "petehunt/react-server-rendering-example",
+                "type": "github"
+            },
+            {
+                "title": "React Server Rendering",
+                "href": "https://github.com/mhart/react-server-example",
+                "github": "mhart/react-server-example",
+                "type": "github"
+            },
+            {
+                "title": "Server-rendered React + Flux in Rails",
+                "href": "https://github.com/nambrot/rails-webpack-react-flux",
+                "github": "nambrot/rails-webpack-react-flux",
+                "type": "github"
+            },
+            {
+                "title": "Golang Isomorphic Hot Reloadable/React/Flummox/Css-Module Starter Kit",
+                "href": "https://github.com/olebedev/go-starter-kit",
+                "github": "olebedev/go-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "Serverside rendering with React + Hapi",
+                "href": "https://github.com/jedireza/hapi-react-views",
+                "github": "jedireza/hapi-react-views",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Compiling React Tutorials",
+        "childrens": [
+            {
+                "title": "Webpack Howto by Pete Hunt",
+                "href": "https://github.com/petehunt/webpack-howto",
+                "github": "petehunt/webpack-howto",
+                "type": "github"
+            },
+            {
+                "title": "React Webpack Cookbook",
+                "href": "https://github.com/christianalfoni/react-webpack-cookbook",
+                "github": "christianalfoni/react-webpack-cookbook",
+                "type": "github"
+            },
+            {
+                "title": "AMD and CommonJS examples with Webpack",
+                "href": "https://github.com/simonsmith/webpack-example",
+                "github": "simonsmith/webpack-example",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debugging React",
+        "childrens": [
+            {
+                "title": "Reactotron: Control, monitor, and instrument",
+                "href": "https://github.com/skellock/reactotron",
+                "github": "skellock/reactotron",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API Integration",
+        "childrens": [
+            {
+                "title": "react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API",
+                "href": "https://github.com/tonyspiro/react-flux-cosmicjs",
+                "github": "tonyspiro/react-flux-cosmicjs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Boilerplates",
+        "childrens": [
+            {
+                "title": "Create React App",
+                "href": "https://github.com/facebookincubator/create-react-app",
+                "github": "facebookincubator/create-react-app",
+                "type": "github"
+            },
+            {
+                "title": "React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations",
+                "href": "https://github.com/kriasoft/react-app",
+                "github": "kriasoft/react-app",
+                "type": "github"
+            },
+            {
+                "title": "React Starter Kit — isomorphic web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)",
+                "href": "https://github.com/kriasoft/react-starter-kit",
+                "github": "kriasoft/react-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "ASP.NET Core Starter Kit (C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#",
+                "href": "https://github.com/kriasoft/aspnet-starter-kit",
+                "github": "kriasoft/aspnet-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "ASP.NET Core Starter Kit (F#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, F#",
+                "href": "https://github.com/kriasoft/fsharp-starter-kit",
+                "github": "kriasoft/fsharp-starter-kit",
+                "type": "github"
+            },
+            {
+                "title": "React Redux Universal Hot Example",
+                "href": "https://github.com/erikras/react-redux-universal-hot-example",
+                "github": "erikras/react-redux-universal-hot-example",
+                "type": "github"
+            },
+            {
+                "title": "React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app",
+                "href": "https://github.com/coryhouse/react-slingshot",
+                "github": "coryhouse/react-slingshot",
+                "type": "github"
+            },
+            {
+                "title": "este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps",
+                "href": "https://github.com/steida/este",
+                "github": "steida/este",
+                "type": "github"
+            },
+            {
+                "title": "frontend-boilerplate - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate",
+                "href": "https://github.com/tj/frontend-boilerplate",
+                "github": "tj/frontend-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "react-engine - A composite render engine for isomorphic express apps",
+                "href": "https://github.com/paypal/react-engine",
+                "github": "paypal/react-engine",
+                "type": "github"
+            },
+            {
+                "title": "react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux",
+                "href": "https://github.com/choonkending/react-webpack-node",
+                "github": "choonkending/react-webpack-node",
+                "type": "github"
+            },
+            {
+                "title": "react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code",
+                "href": "https://github.com/benoitvallon/react-native-nw-react-calculator",
+                "github": "benoitvallon/react-native-nw-react-calculator",
+                "type": "github"
+            },
+            {
+                "title": "StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code",
+                "href": "https://github.com/FredericHeem/starhackit",
+                "github": "FredericHeem/starhackit",
+                "type": "github"
+            },
+            {
+                "title": "react-cordova-boilerplate - TodoMVC example for React to build a Cordova application",
+                "href": "https://github.com/unimonkiez/react-cordova-boilerplate",
+                "github": "unimonkiez/react-cordova-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra",
+                "href": "https://github.com/codefoundries/UniversalRelayBoilerplate",
+                "github": "codefoundries/UniversalRelayBoilerplate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Routing",
+        "childrens": [
+            {
+                "title": "react-router - A complete routing library for React",
+                "href": "https://github.com/reactjs/react-router",
+                "github": "reactjs/react-router",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Projects",
+        "childrens": [
+            {
+                "title": "gatsby - Transform plain text into dynamic blogs and websites using React.js",
+                "href": "https://github.com/gatsbyjs/gatsby",
+                "github": "gatsbyjs/gatsby",
+                "type": "github"
+            },
+            {
+                "title": "react-blessed - A react renderer for blessed terminal interface library",
+                "href": "https://github.com/Yomguithereal/react-blessed",
+                "github": "Yomguithereal/react-blessed",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Components",
+        "childrens": [
+            {
+                "title": "React Topcoat UI components",
+                "href": "https://github.com/kjda/react-topui",
+                "github": "kjda/react-topui",
+                "type": "github"
+            },
+            {
+                "title": "react-material - Material design components written with React.js and React Style",
+                "href": "https://github.com/SanderSpies/react-material",
+                "github": "SanderSpies/react-material",
+                "type": "github"
+            },
+            {
+                "title": "material-ui - A CSS Framework and a Set of React Components for Material Design",
+                "href": "https://github.com/callemall/material-ui",
+                "github": "callemall/material-ui",
+                "type": "github"
+            },
+            {
+                "title": "react-google-login-component",
+                "href": "https://github.com/kennetpostigo/react-google-login-component",
+                "github": "kennetpostigo/react-google-login-component",
+                "type": "github"
+            },
+            {
+                "title": "react-facebook-login-component",
+                "href": "https://github.com/kennetpostigo/react-facebook-login-component",
+                "github": "kennetpostigo/react-facebook-login-component",
+                "type": "github"
+            },
+            {
+                "title": "Ant Design - An enterprise-class UI design language and React-based implementation",
+                "href": "https://github.com/ant-design/ant-design",
+                "github": "ant-design/ant-design",
+                "type": "github"
+            },
+            {
+                "title": "UXCore - A React UI Component Set living for enterprise backend application",
+                "href": "https://github.com/uxcore/uxcore",
+                "github": "uxcore/uxcore",
+                "type": "github"
+            },
+            {
+                "title": "react-desktop - OS X and Windows UI components built with React",
+                "href": "https://github.com/gabrielbull/react-desktop",
+                "github": "gabrielbull/react-desktop",
+                "type": "github"
+            },
+            {
+                "title": "react-aim - Determine the cursor aim for triggering mouse events",
+                "href": "https://github.com/gabrielbull/react-aim",
+                "github": "gabrielbull/react-aim",
+                "type": "github"
+            },
+            {
+                "title": "react-touch - React photo viewer for mobile",
+                "href": "https://github.com/petehunt/react-touch",
+                "github": "petehunt/react-touch",
+                "type": "github"
+            },
+            {
+                "title": "react-grid - Data grid for React",
+                "href": "https://github.com/prometheusresearch/react-grid",
+                "github": "prometheusresearch/react-grid",
+                "type": "github"
+            },
+            {
+                "title": "React-iCheck - iCheck components built with React. Highly customizable checkboxes and radio buttons",
+                "href": "https://github.com/luqin/react-icheck",
+                "github": "luqin/react-icheck",
+                "type": "github"
+            },
+            {
+                "title": "react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React",
+                "href": "https://github.com/jrowny/react-absolute-grid",
+                "github": "jrowny/react-absolute-grid",
+                "type": "github"
+            },
+            {
+                "title": "react-async - Async rendering for React components",
+                "href": "https://github.com/andreypopp/react-async",
+                "github": "andreypopp/react-async",
+                "type": "github"
+            },
+            {
+                "title": "react-async-input - Inputs that behave properly with async set{State,Props} calls",
+                "href": "https://github.com/grncdr/react-async-input",
+                "github": "grncdr/react-async-input",
+                "type": "github"
+            },
+            {
+                "title": "react-countup - A React component wrapper around CountUp.js",
+                "href": "https://github.com/glennreyes/react-countup",
+                "github": "glennreyes/react-countup",
+                "type": "github"
+            },
+            {
+                "title": "react-mediaswitch - Choose your DOM based on media queries",
+                "href": "https://github.com/matthewwithanm/react-mediaswitch",
+                "github": "matthewwithanm/react-mediaswitch",
+                "type": "github"
+            },
+            {
+                "title": "react-frame-component - Render your React app to an iFrame",
+                "href": "https://github.com/ryanseddon/react-frame-component",
+                "github": "ryanseddon/react-frame-component",
+                "type": "github"
+            },
+            {
+                "title": "react-gravatar - React component for rendering a gravatar profile image",
+                "href": "https://github.com/KyleAMathews/react-gravatar",
+                "github": "KyleAMathews/react-gravatar",
+                "type": "github"
+            },
+            {
+                "title": "markdown-react - React Render for Standard Markdown",
+                "href": "https://github.com/vjeux/markdown-react",
+                "github": "vjeux/markdown-react",
+                "type": "github"
+            },
+            {
+                "title": "react-component-gallery — React component for creating an evenly spaced components",
+                "href": "https://github.com/KyleAMathews/react-component-gallery",
+                "github": "KyleAMathews/react-component-gallery",
+                "type": "github"
+            },
+            {
+                "title": "react-markdown-textarea - Component to create textareas for entering Markdown",
+                "href": "https://github.com/KyleAMathews/react-markdown-textarea",
+                "github": "KyleAMathews/react-markdown-textarea",
+                "type": "github"
+            },
+            {
+                "title": "react-markdown-area - Github flavored markdown editor with live preview",
+                "href": "https://github.com/MattMcFarland/react-markdown-area",
+                "github": "MattMcFarland/react-markdown-area",
+                "type": "github"
+            },
+            {
+                "title": "react-textarea-autosize - Textarea component for React which grows with content",
+                "href": "https://github.com/andreypopp/react-textarea-autosize",
+                "github": "andreypopp/react-textarea-autosize",
+                "type": "github"
+            },
+            {
+                "title": "react-spinner - Zero configuration loading spinner",
+                "href": "https://github.com/chenglou/react-spinner",
+                "github": "chenglou/react-spinner",
+                "type": "github"
+            },
+            {
+                "title": "react-treeview - Easy, light, flexible tree view made with React",
+                "href": "https://github.com/chenglou/react-treeview",
+                "github": "chenglou/react-treeview",
+                "type": "github"
+            },
+            {
+                "title": "react-tree-menu - A stateless tree menu component built with the Flux architecture in mind",
+                "href": "https://github.com/MandarinConLaBarba/react-tree-menu",
+                "github": "MandarinConLaBarba/react-tree-menu",
+                "type": "github"
+            },
+            {
+                "title": "react-tween-state - React animation tween state",
+                "href": "https://github.com/chenglou/react-tween-state",
+                "github": "chenglou/react-tween-state",
+                "type": "github"
+            },
+            {
+                "title": "react-stripe-checkout - Easily load Stripe Checkout as a React component",
+                "href": "https://github.com/azmenak/react-stripe-checkout",
+                "github": "azmenak/react-stripe-checkout",
+                "type": "github"
+            },
+            {
+                "title": "react-swipe - Brad Birdsall's swipe.js, as a React component",
+                "href": "https://github.com/jed/react-swipe",
+                "github": "jed/react-swipe",
+                "type": "github"
+            },
+            {
+                "title": "react-smart-time-ago - Show relative \"time ago\" dates",
+                "href": "https://github.com/KyleAMathews/react-smart-time-ago",
+                "github": "KyleAMathews/react-smart-time-ago",
+                "type": "github"
+            },
+            {
+                "title": "react-autoupdate-time - Renders a ",
+                "href": "https://github.com/KyleAMathews/react-autoupdate-time",
+                "github": "KyleAMathews/react-autoupdate-time",
+                "type": "github"
+            },
+            {
+                "title": "react-time - Component for React to render relative and/or formatted dates into ",
+                "href": "https://github.com/andreypopp/react-time",
+                "github": "andreypopp/react-time",
+                "type": "github"
+            },
+            {
+                "title": "react-crouton - A message component for reactjs",
+                "href": "https://github.com/xeodou/react-crouton",
+                "github": "xeodou/react-crouton",
+                "type": "github"
+            },
+            {
+                "title": "react-ago-component - Renders the approximate time ago in words from a specific past date",
+                "href": "https://github.com/martinandert/react-ago-component",
+                "github": "martinandert/react-ago-component",
+                "type": "github"
+            },
+            {
+                "title": "react-translate-component - Provides multi-lingual/localized text content",
+                "href": "https://github.com/martinandert/react-translate-component",
+                "github": "martinandert/react-translate-component",
+                "type": "github"
+            },
+            {
+                "title": "react-lorem-component - Renders lorem ipsum placeholder text",
+                "href": "https://github.com/martinandert/react-lorem-component",
+                "github": "martinandert/react-lorem-component",
+                "type": "github"
+            },
+            {
+                "title": "react-interpolate-component - Renders elements into a format string",
+                "href": "https://github.com/martinandert/react-interpolate-component",
+                "github": "martinandert/react-interpolate-component",
+                "type": "github"
+            },
+            {
+                "title": "react-proxy-loader - Hot Module Replacement and Code Splitting",
+                "href": "https://github.com/webpack/react-proxy-loader",
+                "github": "webpack/react-proxy-loader",
+                "type": "github"
+            },
+            {
+                "title": "RCSS - Turn your JavaScript objects into CSS classes",
+                "href": "https://github.com/chenglou/RCSS",
+                "github": "chenglou/RCSS",
+                "type": "github"
+            },
+            {
+                "title": "ReactiveElements - Allows to use React.js component as HTML element",
+                "href": "https://github.com/PixelsCommander/ReactiveElements",
+                "github": "PixelsCommander/ReactiveElements",
+                "type": "github"
+            },
+            {
+                "title": "react-chosen - React wrapper for Chosen jQuery",
+                "href": "https://github.com/chenglou/react-chosen",
+                "github": "chenglou/react-chosen",
+                "type": "github"
+            },
+            {
+                "title": "react-inlinesvg - An SVG loader component for React",
+                "href": "https://github.com/matthewwithanm/react-inlinesvg",
+                "github": "matthewwithanm/react-inlinesvg",
+                "type": "github"
+            },
+            {
+                "title": "react-imageloader - A React component for wrangling image loading",
+                "href": "https://github.com/hzdg/react-imageloader",
+                "github": "hzdg/react-imageloader",
+                "type": "github"
+            },
+            {
+                "title": "expose - A React mixin for lazy loading",
+                "href": "https://github.com/dok/expose",
+                "github": "dok/expose",
+                "type": "github"
+            },
+            {
+                "title": "react-loadqueueloader - A React component for managing loads with a load queue",
+                "href": "https://github.com/hzdg/react-loadqueueloader",
+                "github": "hzdg/react-loadqueueloader",
+                "type": "github"
+            },
+            {
+                "title": "react-loadermixin - A React mixin for giving components loading behavior",
+                "href": "https://github.com/hzdg/react-loadermixin",
+                "github": "hzdg/react-loadermixin",
+                "type": "github"
+            },
+            {
+                "title": "react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events",
+                "href": "https://github.com/hzdg/react-pressable",
+                "github": "hzdg/react-pressable",
+                "type": "github"
+            },
+            {
+                "title": "react-google-analytics - Google analytics component",
+                "href": "https://github.com/hzdg/react-google-analytics",
+                "github": "hzdg/react-google-analytics",
+                "type": "github"
+            },
+            {
+                "title": "react-layers - A library for layering components in React",
+                "href": "https://github.com/pieterv/react-layers",
+                "github": "pieterv/react-layers",
+                "type": "github"
+            },
+            {
+                "title": "react-gcal-events-list - A Reusable component that pulls events from your google calendar",
+                "href": "https://github.com/VinSpee/react-gcal-events-list",
+                "github": "VinSpee/react-gcal-events-list",
+                "type": "github"
+            },
+            {
+                "title": "reactdi - Dependency injection for ReactJS components",
+                "href": "https://github.com/hzdg/reactdi",
+                "github": "hzdg/reactdi",
+                "type": "github"
+            },
+            {
+                "title": "qrcode.react - A ",
+                "href": "https://github.com/zpao/qrcode.react",
+                "github": "zpao/qrcode.react",
+                "type": "github"
+            },
+            {
+                "title": "react-swf - Shockwave Flash Player component for React",
+                "href": "https://github.com/syranide/react-swf",
+                "github": "syranide/react-swf",
+                "type": "github"
+            },
+            {
+                "title": "react-unmount-listener-mixin - React mixin for listenable componentWillUnmount",
+                "href": "https://github.com/syranide/react-unmount-listener-mixin",
+                "github": "syranide/react-unmount-listener-mixin",
+                "type": "github"
+            },
+            {
+                "title": "react-sortable - A sortable list component built \\w React",
+                "href": "https://github.com/danielstocks/react-sortable",
+                "github": "danielstocks/react-sortable",
+                "type": "github"
+            },
+            {
+                "title": "react-anything-sortable - A sortable component with IE8 compatibility",
+                "href": "https://github.com/jasonslyvia/react-anything-sortable",
+                "github": "jasonslyvia/react-anything-sortable",
+                "type": "github"
+            },
+            {
+                "title": "react-controllables - Easily create controllable components",
+                "href": "https://github.com/matthewwithanm/react-controllables",
+                "github": "matthewwithanm/react-controllables",
+                "type": "github"
+            },
+            {
+                "title": "react-datalist - A ",
+                "href": "https://github.com/asbjornenge/react-datalist",
+                "github": "asbjornenge/react-datalist",
+                "type": "github"
+            },
+            {
+                "title": "react-pad - Authoring tool for React components",
+                "href": "https://github.com/andreypopp/react-pad",
+                "github": "andreypopp/react-pad",
+                "type": "github"
+            },
+            {
+                "title": "ogre.js - Object graph manager, built with ReactJS in mind",
+                "href": "https://github.com/elucidata/ogre.js",
+                "github": "elucidata/ogre.js",
+                "type": "github"
+            },
+            {
+                "title": "react-scroll-components - A set of components that react to page scrolling",
+                "href": "https://github.com/jeroencoumans/react-scroll-components",
+                "github": "jeroencoumans/react-scroll-components",
+                "type": "github"
+            },
+            {
+                "title": "react-fullscreen-component - Create fullscreen toggles",
+                "href": "https://github.com/jeroencoumans/react-fullscreen-component",
+                "github": "jeroencoumans/react-fullscreen-component",
+                "type": "github"
+            },
+            {
+                "title": "react-frozenhead - Make your whole page a React component and render it on the server",
+                "href": "https://github.com/matthewwithanm/react-frozenhead",
+                "github": "matthewwithanm/react-frozenhead",
+                "type": "github"
+            },
+            {
+                "title": "react-document-title - declarative, nested, stateful document.title",
+                "href": "https://github.com/gaearon/react-document-title",
+                "github": "gaearon/react-document-title",
+                "type": "github"
+            },
+            {
+                "title": "react-tags - A simple wrapper around React.DOM",
+                "href": "https://github.com/adelevie/react-tags",
+                "github": "adelevie/react-tags",
+                "type": "github"
+            },
+            {
+                "title": "react-datepicker by @misino - Datepicker component for application using Facebook React",
+                "href": "https://github.com/misino/react-datepicker",
+                "github": "misino/react-datepicker",
+                "type": "github"
+            },
+            {
+                "title": "react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React",
+                "href": "https://github.com/Hacker0x01/react-datepicker",
+                "github": "Hacker0x01/react-datepicker",
+                "type": "github"
+            },
+            {
+                "title": "react-table-sorter-demo - A React.js Table Sorter Component",
+                "href": "https://github.com/bgerm/react-table-sorter-demo",
+                "github": "bgerm/react-table-sorter-demo",
+                "type": "github"
+            },
+            {
+                "title": "react-table-component - React Table Component for creating a very basic html table",
+                "href": "https://gist.github.com/ChaseWest/1935d08b156ae04b85d2",
+                "github": ".com/ChaseWest/1935d08b156ae04b85d2",
+                "type": "github"
+            },
+            {
+                "title": "react-input-placeholder - Input is a small wrapper around React.DOM.input",
+                "href": "https://github.com/enigma-io/react-input-placeholder",
+                "github": "enigma-io/react-input-placeholder",
+                "type": "github"
+            },
+            {
+                "title": "react-infinite-scroll - An infinite scroll component for React",
+                "href": "https://github.com/guillaumervls/react-infinite-scroll",
+                "github": "guillaumervls/react-infinite-scroll",
+                "type": "github"
+            },
+            {
+                "title": "react-ellipsis - Ellipsis component for React",
+                "href": "https://github.com/guillaumervls/react-ellipsis",
+                "github": "guillaumervls/react-ellipsis",
+                "type": "github"
+            },
+            {
+                "title": "react-pillbox - Pillbox component for React",
+                "href": "https://github.com/redbadger/react-pillbox",
+                "github": "redbadger/react-pillbox",
+                "type": "github"
+            },
+            {
+                "title": "react-intl - React Internationalization Component",
+                "href": "https://github.com/yahoo/react-intl",
+                "github": "yahoo/react-intl",
+                "type": "github"
+            },
+            {
+                "title": "react-tokeninput - Tokeninput component for React",
+                "href": "https://github.com/instructure/react-tokeninput",
+                "github": "instructure/react-tokeninput",
+                "type": "github"
+            },
+            {
+                "title": "react-select-box - An accessible select box component for React",
+                "href": "https://github.com/instructure/react-select-box",
+                "github": "instructure/react-select-box",
+                "type": "github"
+            },
+            {
+                "title": "react-ladda - React wrapper for Ladda buttons",
+                "href": "https://github.com/jsdir/react-ladda",
+                "github": "jsdir/react-ladda",
+                "type": "github"
+            },
+            {
+                "title": "react-list - A versatile infinite scroll React component",
+                "href": "https://github.com/orgsync/react-list",
+                "github": "orgsync/react-list",
+                "type": "github"
+            },
+            {
+                "title": "olay-react - Olay implemented as a React component",
+                "href": "https://github.com/orgsync/olay-react",
+                "github": "orgsync/olay-react",
+                "type": "github"
+            },
+            {
+                "title": "reactable - Fast, flexible, and simple data tables in React",
+                "href": "https://github.com/glittershark/reactable",
+                "github": "glittershark/reactable",
+                "type": "github"
+            },
+            {
+                "title": "react-tabs - React tabs component",
+                "href": "https://github.com/mzabriskie/react-tabs",
+                "github": "mzabriskie/react-tabs",
+                "type": "github"
+            },
+            {
+                "title": "react-simpletabs - Just a simple tabs component",
+                "href": "https://github.com/pedronauck/react-simpletabs",
+                "github": "pedronauck/react-simpletabs",
+                "type": "github"
+            },
+            {
+                "title": "react-draggable - React draggable component",
+                "href": "https://github.com/mzabriskie/react-draggable",
+                "github": "mzabriskie/react-draggable",
+                "type": "github"
+            },
+            {
+                "title": "react-resizable - A tiny Resizable component based on react-draggable",
+                "href": "https://github.com/strml/react-resizable",
+                "github": "strml/react-resizable",
+                "type": "github"
+            },
+            {
+                "title": "react-grid-layout - A Masonry-style responsive grid layout",
+                "href": "https://github.com/strml/react-grid-layout",
+                "github": "strml/react-grid-layout",
+                "type": "github"
+            },
+            {
+                "title": "react-dnd - Flexible HTML5 drag-and-drop mixin for React with full DOM control",
+                "href": "https://github.com/gaearon/react-dnd",
+                "github": "gaearon/react-dnd",
+                "type": "github"
+            },
+            {
+                "title": "react-sticky - ",
+                "href": "https://github.com/captivationsoftware/react-sticky",
+                "github": "captivationsoftware/react-sticky",
+                "type": "github"
+            },
+            {
+                "title": "js-object-to-table - JavaScript objects drawing themselves into a table using React",
+                "href": "https://github.com/enaqx/js-object-to-table",
+                "github": "enaqx/js-object-to-table",
+                "type": "github"
+            },
+            {
+                "title": "react-kaomoji - A React component for displaying Japanese emoticons",
+                "href": "https://github.com/enaqx/react-kaomoji",
+                "github": "enaqx/react-kaomoji",
+                "type": "github"
+            },
+            {
+                "title": "react-calendar - Calendar that inspired by React philosophy",
+                "href": "https://github.com/Aetet/react-calendar",
+                "github": "Aetet/react-calendar",
+                "type": "github"
+            },
+            {
+                "title": "react-element-pan - React component for allowing panning of DOM-elements",
+                "href": "https://github.com/rexxars/react-element-pan",
+                "github": "rexxars/react-element-pan",
+                "type": "github"
+            },
+            {
+                "title": "react-anchor - Functional factory to create react anchor components",
+                "href": "https://github.com/yoshuawuyts/react-anchor",
+                "github": "yoshuawuyts/react-anchor",
+                "type": "github"
+            },
+            {
+                "title": "react-bootstrap-daterangepicker - A date/time picker for react (using Bootstrap)",
+                "href": "https://github.com/skratchdot/react-bootstrap-daterangepicker",
+                "github": "skratchdot/react-bootstrap-daterangepicker",
+                "type": "github"
+            },
+            {
+                "title": "react-bootstrap-datetimepicker - A react.js datetime picker for Bootstrap",
+                "href": "https://github.com/quri/react-bootstrap-datetimepicker",
+                "github": "quri/react-bootstrap-datetimepicker",
+                "type": "github"
+            },
+            {
+                "title": "react-bootstrap-multiselect - A multiselect component for react (with bootstrap)",
+                "href": "https://github.com/skratchdot/react-bootstrap-multiselect",
+                "github": "skratchdot/react-bootstrap-multiselect",
+                "type": "github"
+            },
+            {
+                "title": "react-colorpicker - Colorpicker for React",
+                "href": "https://github.com/stayradiated/react-colorpicker",
+                "github": "stayradiated/react-colorpicker",
+                "type": "github"
+            },
+            {
+                "title": "react-layout - Dynamic subview layout for React",
+                "href": "https://github.com/jsdf/react-layout",
+                "github": "jsdf/react-layout",
+                "type": "github"
+            },
+            {
+                "title": "react-weather - Example React weather app using forecast.io's API",
+                "href": "https://github.com/andrewgleave/react-weather",
+                "github": "andrewgleave/react-weather",
+                "type": "github"
+            },
+            {
+                "title": "react-sparkline - React component for rendering simple sparklines",
+                "href": "https://github.com/KyleAMathews/react-sparkline",
+                "github": "KyleAMathews/react-sparkline",
+                "type": "github"
+            },
+            {
+                "title": "react-component-width-mixin - React mixin which sets width",
+                "href": "https://github.com/KyleAMathews/react-component-width-mixin",
+                "github": "KyleAMathews/react-component-width-mixin",
+                "type": "github"
+            },
+            {
+                "title": "react-micro-bar-chart - React component for micro bar-charts rendered with D3",
+                "href": "https://github.com/KyleAMathews/react-micro-bar-chart",
+                "github": "KyleAMathews/react-micro-bar-chart",
+                "type": "github"
+            },
+            {
+                "title": "react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only",
+                "href": "https://github.com/laem/react-horizontal-bar-chart",
+                "github": "laem/react-horizontal-bar-chart",
+                "type": "github"
+            },
+            {
+                "title": "react-infinity - A UITableView Inspired list and grid display",
+                "href": "https://github.com/nmn/react-infinity",
+                "github": "nmn/react-infinity",
+                "type": "github"
+            },
+            {
+                "title": "react-timeago - A simple time-ago component for React",
+                "href": "https://github.com/nmn/react-timeago",
+                "github": "nmn/react-timeago",
+                "type": "github"
+            },
+            {
+                "title": "react-spinkit - A collection of loading indicators animated with CSS for React",
+                "href": "https://github.com/KyleAMathews/react-spinkit",
+                "github": "KyleAMathews/react-spinkit",
+                "type": "github"
+            },
+            {
+                "title": "react.animate - State animation plugin for react.js",
+                "href": "https://github.com/pleasetrythisathome/react.animate",
+                "github": "pleasetrythisathome/react.animate",
+                "type": "github"
+            },
+            {
+                "title": "react-animate - React animation mixin",
+                "href": "https://github.com/elierotenberg/react-animate",
+                "github": "elierotenberg/react-animate",
+                "type": "github"
+            },
+            {
+                "title": "react-star-rating-input - React.js component for entering 0-5 stars",
+                "href": "https://github.com/ikr/react-star-rating-input",
+                "github": "ikr/react-star-rating-input",
+                "type": "github"
+            },
+            {
+                "title": "react-star-rating - A simple star rating component built with React.",
+                "href": "https://github.com/cameronjroe/react-star-rating",
+                "github": "cameronjroe/react-star-rating",
+                "type": "github"
+            },
+            {
+                "title": "react-data-components - React components and mixins for manipulating data",
+                "href": "https://github.com/carlosrocha/react-data-components",
+                "github": "carlosrocha/react-data-components",
+                "type": "github"
+            },
+            {
+                "title": "react-number-editor - Number editor (textfield) component for react",
+                "href": "https://github.com/tleunen/react-number-editor",
+                "github": "tleunen/react-number-editor",
+                "type": "github"
+            },
+            {
+                "title": "react-localstorage - Simple localstorage mixin for react",
+                "href": "https://github.com/STRML/react-localstorage",
+                "github": "STRML/react-localstorage",
+                "type": "github"
+            },
+            {
+                "title": "react-sortable-data React Mixin to sort data easily",
+                "href": "https://github.com/AndrewHathaway/ReactSortableDataMixin",
+                "github": "AndrewHathaway/ReactSortableDataMixin",
+                "type": "github"
+            },
+            {
+                "title": "react-widgets - Suite of ui input widgets including combobox, multiselect, datepicker and more",
+                "href": "https://github.com/theporchrat/react-widgets",
+                "github": "theporchrat/react-widgets",
+                "type": "github"
+            },
+            {
+                "title": "react-select - Rich Select Component",
+                "href": "https://github.com/JedWatson/react-select",
+                "github": "JedWatson/react-select",
+                "type": "github"
+            },
+            {
+                "title": "react-video - React component to load video from Vimeo or Youtube",
+                "href": "https://github.com/pedronauck/react-video",
+                "github": "pedronauck/react-video",
+                "type": "github"
+            },
+            {
+                "title": "react-captcha - A react.js reCAPTCHA for Google",
+                "href": "https://github.com/appleboy/react-recaptcha",
+                "github": "appleboy/react-recaptcha",
+                "type": "github"
+            },
+            {
+                "title": "react-cassette-player - Vector-based HTML5 Audio Player",
+                "href": "https://github.com/chadpaulson/react-cassette-player",
+                "github": "chadpaulson/react-cassette-player",
+                "type": "github"
+            },
+            {
+                "title": "react-tagsinput - A simple react component for inputing tags.",
+                "href": "https://github.com/olahol/react-tagsinput",
+                "github": "olahol/react-tagsinput",
+                "type": "github"
+            },
+            {
+                "title": "react-autolink - An autolink mixin for React",
+                "href": "https://github.com/banyan/react-autolink",
+                "github": "banyan/react-autolink",
+                "type": "github"
+            },
+            {
+                "title": "react-emoji - An emoji mixin for React",
+                "href": "https://github.com/banyan/react-emoji",
+                "github": "banyan/react-emoji",
+                "type": "github"
+            },
+            {
+                "title": "react-portal - A transportation of (not just) modals and lightboxes to document.body",
+                "href": "https://github.com/tajo/react-portal",
+                "github": "tajo/react-portal",
+                "type": "github"
+            },
+            {
+                "title": "react-hotkeys - Declarative hotkey and focus area management for React",
+                "href": "https://github.com/Chrisui/react-hotkeys",
+                "github": "Chrisui/react-hotkeys",
+                "type": "github"
+            },
+            {
+                "title": "react-data-grid - Data grid for React:Excel-like grid component built with React, with editors, keyboard navigation, copy & paste ",
+                "href": "https://github.com/adazzle/react-data-grid",
+                "github": "adazzle/react-data-grid",
+                "type": "github"
+            },
+            {
+                "title": "react-datagrid - A carefully crafted DataGrid for React",
+                "href": "https://github.com/zippyui/react-datagrid",
+                "github": "zippyui/react-datagrid",
+                "type": "github"
+            },
+            {
+                "title": "react-panels - A multipurpose tabbed panel with many features",
+                "href": "https://github.com/Theadd/react-panels",
+                "github": "Theadd/react-panels",
+                "type": "github"
+            },
+            {
+                "title": "react-input-color - React input color component with hsv color picker",
+                "href": "https://github.com/wangzuo/react-input-color",
+                "github": "wangzuo/react-input-color",
+                "type": "github"
+            },
+            {
+                "title": "react-medium-editor - React wrapper for medium-editor",
+                "href": "https://github.com/wangzuo/react-medium-editor",
+                "github": "wangzuo/react-medium-editor",
+                "type": "github"
+            },
+            {
+                "title": "react-progress-label - Progress label component",
+                "href": "https://github.com/wangzuo/react-progress-label",
+                "github": "wangzuo/react-progress-label",
+                "type": "github"
+            },
+            {
+                "title": "react-input-slider - React input slider component",
+                "href": "https://github.com/wangzuo/react-input-slider",
+                "github": "wangzuo/react-input-slider",
+                "type": "github"
+            },
+            {
+                "title": "react-range-slider - Collection of react slider components",
+                "href": "https://github.com/jpuri/react-range-slider",
+                "github": "jpuri/react-range-slider",
+                "type": "github"
+            },
+            {
+                "title": "react-ui-tree - React tree component with drag and drop support",
+                "href": "https://github.com/pqx/react-ui-tree",
+                "github": "pqx/react-ui-tree",
+                "type": "github"
+            },
+            {
+                "title": "react-frame - React components within an iframe for isolated css styling",
+                "href": "https://github.com/pqx/react-frame",
+                "github": "pqx/react-frame",
+                "type": "github"
+            },
+            {
+                "title": "react-scrollbar - Simple ScrollArea component built for React",
+                "href": "https://github.com/souhe/reactScrollbar",
+                "github": "souhe/reactScrollbar",
+                "type": "github"
+            },
+            {
+                "title": "react-experiments - Implement A/B tests with randomized parameterizations of your components",
+                "href": "https://github.com/HubSpot/react-experiments",
+                "github": "HubSpot/react-experiments",
+                "type": "github"
+            },
+            {
+                "title": "react-slide-deck - For swipe, tabs, carousel, one page scroll. With animation hooks. tweening, tween callbacks",
+                "href": "https://github.com/jl-/react-slide-deck",
+                "github": "jl-/react-slide-deck",
+                "type": "github"
+            },
+            {
+                "title": "react-resizable-box - Resizable component for React",
+                "href": "https://github.com/bokuweb/react-resizable-box",
+                "github": "bokuweb/react-resizable-box",
+                "type": "github"
+            },
+            {
+                "title": "react-ios-switch - React switch component",
+                "href": "https://github.com/clariussystems/react-ios-switch",
+                "github": "clariussystems/react-ios-switch",
+                "type": "github"
+            },
+            {
+                "title": "react-listview-sticky-header - Turn listview with section headers that stick to the top",
+                "href": "https://github.com/cht8687/react-listview-sticky-header",
+                "github": "cht8687/react-listview-sticky-header",
+                "type": "github"
+            },
+            {
+                "title": "react-expandable-listview - Create listview with expandable section headers",
+                "href": "https://github.com/cht8687/react-expandable-listview",
+                "github": "cht8687/react-expandable-listview",
+                "type": "github"
+            },
+            {
+                "title": "react-keydown - Lightweight keydown wrapper for React components",
+                "href": "https://github.com/glortho/react-keydown",
+                "github": "glortho/react-keydown",
+                "type": "github"
+            },
+            {
+                "title": "searchkit  - Components to build user interfaces for elasticsearch",
+                "href": "https://github.com/searchkit/searchkit",
+                "github": "searchkit/searchkit",
+                "type": "github"
+            },
+            {
+                "title": "grommet - The most advanced UX framework for enterprise applications",
+                "href": "https://github.com/grommet/grommet",
+                "github": "grommet/grommet",
+                "type": "github"
+            },
+            {
+                "title": "react-resizable-and-movable - Resizable and movable component for React",
+                "href": "https://github.com/bokuweb/react-resizable-and-movable",
+                "github": "bokuweb/react-resizable-and-movable",
+                "type": "github"
+            },
+            {
+                "title": "react-motion - An spring-based animation library, similar to Rebound.js",
+                "href": "https://github.com/chenglou/react-motion",
+                "github": "chenglou/react-motion",
+                "type": "github"
+            },
+            {
+                "title": "react-motion-menu - Motion menu component powered by React Motion",
+                "href": "https://github.com/bokuweb/react-motion-menu",
+                "github": "bokuweb/react-motion-menu",
+                "type": "github"
+            },
+            {
+                "title": "sweetalert-react - Using sweetalert in React",
+                "href": "https://github.com/chentsulin/sweetalert-react",
+                "github": "chentsulin/sweetalert-react",
+                "type": "github"
+            },
+            {
+                "title": "react-file-reader-input - Complete control over styling + abstraction from file reading",
+                "href": "https://github.com/ngokevin/react-file-reader-input",
+                "github": "ngokevin/react-file-reader-input",
+                "type": "github"
+            },
+            {
+                "title": "react-sortable-pane - Resizable and sortable pane component for React",
+                "href": "https://github.com/bokuweb/react-sortable-pane",
+                "github": "bokuweb/react-sortable-pane",
+                "type": "github"
+            },
+            {
+                "title": "react-DnR - Dragable and Resizable window build with React.js",
+                "href": "https://github.com/yongxu/react-DnR",
+                "github": "yongxu/react-DnR",
+                "type": "github"
+            },
+            {
+                "title": "react-http-request - React component exposes network request functionality",
+                "href": "https://github.com/mbasso/react-http-request",
+                "github": "mbasso/react-http-request",
+                "type": "github"
+            },
+            {
+                "title": "react-https-redirect - Force a redirect to HTTPS when not on a local web server",
+                "href": "https://github.com/mbasso/react-https-redirect",
+                "github": "mbasso/react-https-redirect",
+                "type": "github"
+            },
+            {
+                "title": "react-browser-detection - React component to detect browser",
+                "href": "https://github.com/mbasso/react-browser-detection",
+                "github": "mbasso/react-browser-detection",
+                "type": "github"
+            },
+            {
+                "title": "react-text-mask - React input mask",
+                "href": "https://github.com/text-mask/text-mask",
+                "github": "text-mask/text-mask",
+                "type": "github"
+            },
+            {
+                "title": "rebass - Configurable React Stateless Functional UI Components",
+                "href": "https://github.com/jxnblk/rebass",
+                "github": "jxnblk/rebass",
+                "type": "github"
+            },
+            {
+                "title": "echarts-for-react - baidu Echarts(v3.0) components for React",
+                "href": "https://github.com/hustcc/echarts-for-react",
+                "github": "hustcc/echarts-for-react",
+                "type": "github"
+            },
+            {
+                "title": "react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights",
+                "href": "https://github.com/cauealves/react-pagespeed-score",
+                "github": "cauealves/react-pagespeed-score",
+                "type": "github"
+            },
+            {
+                "title": "react-livestamp - A simple and html date countdown component for React",
+                "href": "https://github.com/markafoni/react-livestamp",
+                "github": "markafoni/react-livestamp",
+                "type": "github"
+            },
+            {
+                "title": "react-offcanvas - Off-canvas menus for React",
+                "href": "https://github.com/vutran/react-offcanvas",
+                "github": "vutran/react-offcanvas",
+                "type": "github"
+            },
+            {
+                "title": "react-virtualized - React components for efficiently rendering large lists and tabular data ",
+                "href": "https://github.com/bvaughn/react-virtualized",
+                "github": "bvaughn/react-virtualized",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Containers",
+        "childrens": [
+            {
+                "title": "Reapop - A React & Redux notifications system",
+                "href": "https://github.com/LouisBarranqueiro/reapop",
+                "github": "LouisBarranqueiro/reapop",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "react-magic - Automatically AJAXify plain HTML with the power of React",
+                "href": "https://github.com/reactjs/react-magic",
+                "github": "reactjs/react-magic",
+                "type": "github"
+            },
+            {
+                "title": "tcomb-react -  Library allowing you to check all the props of your React components",
+                "href": "https://github.com/gcanti/tcomb-react",
+                "github": "gcanti/tcomb-react",
+                "type": "github"
+            },
+            {
+                "title": "react-responsive - Media queries in react for responsive design",
+                "href": "https://github.com/wearefractal/react-responsive",
+                "github": "wearefractal/react-responsive",
+                "type": "github"
+            },
+            {
+                "title": "react-cursor - Functional state management abstraction for use with Facebook React",
+                "href": "https://github.com/dustingetz/react-cursor",
+                "github": "dustingetz/react-cursor",
+                "type": "github"
+            },
+            {
+                "title": "Omniscient.js - Abstracting React components for fast top down render of immutable data",
+                "href": "https://github.com/omniscientjs/omniscient",
+                "github": "omniscientjs/omniscient",
+                "type": "github"
+            },
+            {
+                "title": "StateTrooper - Centrally manage state for React applications with CSP",
+                "href": "https://github.com/swipely/state-trooper",
+                "github": "swipely/state-trooper",
+                "type": "github"
+            },
+            {
+                "title": "riotjs - A React- like, 3.5KB user interface library",
+                "href": "https://github.com/muut/riotjs",
+                "github": "muut/riotjs",
+                "type": "github"
+            },
+            {
+                "title": "Maple.js - Bringing the concept of web-components to React",
+                "href": "https://github.com/Wildhoney/Maple.js",
+                "github": "Wildhoney/Maple.js",
+                "type": "github"
+            },
+            {
+                "title": "react-i13n - A performant, scalable and pluggable approach to instrumenting your React application",
+                "href": "https://github.com/yahoo/react-i13n",
+                "github": "yahoo/react-i13n",
+                "type": "github"
+            },
+            {
+                "title": "react-icons - svg react icons of popular icon packs",
+                "href": "https://github.com/gorangajic/react-icons",
+                "github": "gorangajic/react-icons",
+                "type": "github"
+            },
+            {
+                "title": "Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...",
+                "href": "https://github.com/Wildhoney/Keo",
+                "github": "Wildhoney/Keo",
+                "type": "github"
+            },
+            {
+                "title": "Blueprint - A React-based UI toolkit for the web",
+                "href": "https://github.com/palantir/blueprint",
+                "github": "palantir/blueprint",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Integration",
+        "childrens": [
+            {
+                "title": "React ASP.NET Boilerplate",
+                "href": "https://github.com/pauldotknopf/react-aspnet-boilerplate",
+                "github": "pauldotknopf/react-aspnet-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "React Bootstrap",
+                "href": "https://github.com/react-bootstrap/react-bootstrap/",
+                "github": "react-bootstrap/react-bootstrap/",
+                "type": "github"
+            },
+            {
+                "title": "React Rails",
+                "href": "https://github.com/reactjs/react-rails",
+                "github": "reactjs/react-rails",
+                "type": "github"
+            },
+            {
+                "title": "React on Rails",
+                "href": "https://github.com/elierotenberg/react-rails",
+                "github": "elierotenberg/react-rails",
+                "type": "github"
+            },
+            {
+                "title": "om - ClojureScript interface",
+                "href": "https://github.com/swannodette/om",
+                "github": "swannodette/om",
+                "type": "github"
+            },
+            {
+                "title": "quiescent - A lightweight ClojureScript abstraction over React",
+                "href": "https://github.com/levand/quiescent",
+                "github": "levand/quiescent",
+                "type": "github"
+            },
+            {
+                "title": "Reagent - A minimalistic ClojureScript interface to React.js",
+                "href": "https://github.com/reagent-project/reagent",
+                "github": "reagent-project/reagent",
+                "type": "github"
+            },
+            {
+                "title": "react-haskell - React bindings for Haskell",
+                "href": "https://github.com/joelburget/react-haskell",
+                "github": "joelburget/react-haskell",
+                "type": "github"
+            },
+            {
+                "title": "Express React views",
+                "href": "https://github.com/reactjs/express-react-views",
+                "github": "reactjs/express-react-views",
+                "type": "github"
+            },
+            {
+                "title": "Express Coffee-React views - render coffee-react on the server",
+                "href": "https://github.com/duereg/express-coffee-react-views",
+                "github": "duereg/express-coffee-react-views",
+                "type": "github"
+            },
+            {
+                "title": "React Page Middleware",
+                "href": "https://github.com/reactjs/react-page-middleware",
+                "github": "reactjs/react-page-middleware",
+                "type": "github"
+            },
+            {
+                "title": "ngReact - React Components in Angular",
+                "href": "https://github.com/davidchang/ngReact",
+                "github": "davidchang/ngReact",
+                "type": "github"
+            },
+            {
+                "title": "React Python",
+                "href": "https://github.com/reactjs/react-python",
+                "github": "reactjs/react-python",
+                "type": "github"
+            },
+            {
+                "title": "React PHP",
+                "href": "https://github.com/reactjs/react-php-v8js",
+                "github": "reactjs/react-php-v8js",
+                "type": "github"
+            },
+            {
+                "title": "React Laravel",
+                "href": "https://github.com/talyssonoc/react-laravel",
+                "github": "talyssonoc/react-laravel",
+                "type": "github"
+            },
+            {
+                "title": "React Meteor",
+                "href": "https://github.com/reactjs/react-meteor",
+                "github": "reactjs/react-meteor",
+                "type": "github"
+            },
+            {
+                "title": "Coffee React",
+                "href": "https://github.com/jsdf/coffee-react",
+                "github": "jsdf/coffee-react",
+                "type": "github"
+            },
+            {
+                "title": "react-coffee - Build React components using natural CoffeeScript syntax",
+                "href": "https://github.com/elucidata/react-coffee",
+                "github": "elucidata/react-coffee",
+                "type": "github"
+            },
+            {
+                "title": "coffee-react-transform - Provides React JSX support for Coffeescript",
+                "href": "https://github.com/jsdf/coffee-react-transform",
+                "github": "jsdf/coffee-react-transform",
+                "type": "github"
+            },
+            {
+                "title": "sprockets-coffee-react - Sprockets preprocessor for CJSX",
+                "href": "https://github.com/jsdf/sprockets-coffee-react",
+                "github": "jsdf/sprockets-coffee-react",
+                "type": "github"
+            },
+            {
+                "title": "react-kup -  A simple, non-intrusive alternative to jsx for coffeescript",
+                "href": "https://github.com/snd/react-kup",
+                "github": "snd/react-kup",
+                "type": "github"
+            },
+            {
+                "title": "turbo-react - Combine Turbolinks and React to apply DOM diffs",
+                "href": "https://github.com/ssorallen/turbo-react",
+                "github": "ssorallen/turbo-react",
+                "type": "github"
+            },
+            {
+                "title": "react-bacon - A little module for using React with Bacon.js",
+                "href": "https://github.com/jamesmacaulay/react-bacon",
+                "github": "jamesmacaulay/react-bacon",
+                "type": "github"
+            },
+            {
+                "title": "msx - React's JSX Transformer, tweaked to output calls to Mithril",
+                "href": "https://github.com/insin/msx",
+                "github": "insin/msx",
+                "type": "github"
+            },
+            {
+                "title": "Backbone React Component",
+                "href": "https://github.com/magalhas/backbone-react-component",
+                "github": "magalhas/backbone-react-component",
+                "type": "github"
+            },
+            {
+                "title": "react-backbone - Backbone-aware mixins for react",
+                "href": "https://github.com/jhudson8/react-backbone",
+                "github": "jhudson8/react-backbone",
+                "type": "github"
+            },
+            {
+                "title": "NestedReact - transparent integration with Backbone Views and NestedTypes models",
+                "href": "https://github.com/Volicon/NestedReact/",
+                "github": "Volicon/NestedReact/",
+                "type": "github"
+            },
+            {
+                "title": "backbone-reaction - React, Backbone and then some",
+                "href": "https://github.com/jhudson8/backbone-reaction",
+                "github": "jhudson8/backbone-reaction",
+                "type": "github"
+            },
+            {
+                "title": "react.backbone - Plugin for React to make Backbone migration easier",
+                "href": "https://github.com/usepropeller/react.backbone",
+                "github": "usepropeller/react.backbone",
+                "type": "github"
+            },
+            {
+                "title": "reactbone - React extensions for Backbone",
+                "href": "https://github.com/andrejewski/reactbone",
+                "github": "andrejewski/reactbone",
+                "type": "github"
+            },
+            {
+                "title": "backbone-react-ui - React components for use with backbone and backbone paginator",
+                "href": "https://github.com/securingsincity/backbone-react-ui",
+                "github": "securingsincity/backbone-react-ui",
+                "type": "github"
+            },
+            {
+                "title": "react-events - Declarative managed event bindings for react components",
+                "href": "https://github.com/jhudson8/react-events",
+                "github": "jhudson8/react-events",
+                "type": "github"
+            },
+            {
+                "title": "react-mixin-manager - React mixin registration manager",
+                "href": "https://github.com/jhudson8/react-mixin-manager",
+                "github": "jhudson8/react-mixin-manager",
+                "type": "github"
+            },
+            {
+                "title": "gsap-react-plugin - A GSAP plugin for tweening React.js component state",
+                "href": "https://github.com/hzdg/gsap-react-plugin",
+                "github": "hzdg/gsap-react-plugin",
+                "type": "github"
+            },
+            {
+                "title": "react-topcoat by @plaxdan - Topcoat CSS components built with the React library",
+                "href": "https://github.com/plaxdan/react-topcoat",
+                "github": "plaxdan/react-topcoat",
+                "type": "github"
+            },
+            {
+                "title": "react-topcoat by @arnemart - A collection of React components for Topcoat",
+                "href": "https://github.com/arnemart/react-topcoat",
+                "github": "arnemart/react-topcoat",
+                "type": "github"
+            },
+            {
+                "title": "reactdown - Write React components using markdown syntax",
+                "href": "https://github.com/andreypopp/reactdown",
+                "github": "andreypopp/reactdown",
+                "type": "github"
+            },
+            {
+                "title": "react-jade - Compile Jade to React JavaScript",
+                "href": "https://github.com/ForbesLindesay/react-jade",
+                "github": "ForbesLindesay/react-jade",
+                "type": "github"
+            },
+            {
+                "title": "jade-react - Compile Jade templates to React.DOM expressions",
+                "href": "https://github.com/duncanbeevers/jade-react",
+                "github": "duncanbeevers/jade-react",
+                "type": "github"
+            },
+            {
+                "title": "gulp-jade-react - Compile Jade templates into React de-sugared JSX with Gulp",
+                "href": "https://github.com/duncanbeevers/gulp-jade-react",
+                "github": "duncanbeevers/gulp-jade-react",
+                "type": "github"
+            },
+            {
+                "title": "react-semantic-ui - React components for Semantic UI",
+                "href": "https://github.com/jhudson8/react-semantic-ui",
+                "github": "jhudson8/react-semantic-ui",
+                "type": "github"
+            },
+            {
+                "title": "semantic-react - React wrappers for Semantic UI",
+                "href": "https://github.com/DveMac/semantic-react",
+                "github": "DveMac/semantic-react",
+                "type": "github"
+            },
+            {
+                "title": "sbt-reactjs - React SBT Plugin using npm",
+                "href": "https://github.com/ddispaltro/sbt-reactjs",
+                "github": "ddispaltro/sbt-reactjs",
+                "type": "github"
+            },
+            {
+                "title": "scalajs-react - A guilty affair between Scala.js and Facebook's React",
+                "href": "https://github.com/japgolly/scalajs-react",
+                "github": "japgolly/scalajs-react",
+                "type": "github"
+            },
+            {
+                "title": "rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React",
+                "href": "https://github.com/ruahman/rpm-xtags-rivets-finch-react",
+                "github": "ruahman/rpm-xtags-rivets-finch-react",
+                "type": "github"
+            },
+            {
+                "title": "react-xtags - Using React to implement xtags",
+                "href": "https://github.com/vjeux/react-xtags/",
+                "github": "vjeux/react-xtags/",
+                "type": "github"
+            },
+            {
+                "title": "jreact - React on server-side Java (with Rhino or Nashorn)",
+                "href": "https://github.com/KnisterPeter/jreact",
+                "github": "KnisterPeter/jreact",
+                "type": "github"
+            },
+            {
+                "title": "React.hiccup - A complete replacement for JSX written in sweet.js",
+                "href": "https://github.com/lantiga/react.hiccup",
+                "github": "lantiga/react.hiccup",
+                "type": "github"
+            },
+            {
+                "title": "react-play - Rendering React components in the Play Framework with JDK8's Nashorn",
+                "href": "https://github.com/ssorallen/react-play",
+                "github": "ssorallen/react-play",
+                "type": "github"
+            },
+            {
+                "title": "rx-react - Utilitiels to works with React in a RxJS",
+                "href": "https://github.com/fdecampredon/rx-react",
+                "github": "fdecampredon/rx-react",
+                "type": "github"
+            },
+            {
+                "title": "react-typescript - Wrapper to make react play nicely with typescript",
+                "href": "https://github.com/fdecampredon/react-typescript",
+                "github": "fdecampredon/react-typescript",
+                "type": "github"
+            },
+            {
+                "title": "react-with-di - A hacked prototype of React.js with DI",
+                "href": "https://github.com/vojtajina/react-with-di",
+                "github": "vojtajina/react-with-di",
+                "type": "github"
+            },
+            {
+                "title": "reactfire - ReactJS mixin for easy Firebase integration",
+                "href": "https://github.com/firebase/reactfire",
+                "github": "firebase/reactfire",
+                "type": "github"
+            },
+            {
+                "title": "firedux - Firebase + Redux for ReactJS",
+                "href": "https://github.com/adjohnson916/firedux",
+                "github": "adjohnson916/firedux",
+                "type": "github"
+            },
+            {
+                "title": "react-clickdrag-mixin - ClickDrag mixin for React component",
+                "href": "https://github.com/tleunen/react-clickdrag-mixin",
+                "github": "tleunen/react-clickdrag-mixin",
+                "type": "github"
+            },
+            {
+                "title": "Rewrite the Admin UI of KeystoneJS in React",
+                "href": "https://github.com/keystonejs/keystone/issues/503",
+                "github": "keystonejs/keystone/issues/503",
+                "type": "github"
+            },
+            {
+                "title": "react-masonry-mixin - Standalone mixin for Masonry (@desandro)",
+                "href": "https://github.com/eiriklv/react-masonry-mixin",
+                "github": "eiriklv/react-masonry-mixin",
+                "type": "github"
+            },
+            {
+                "title": "react-packery-mixin - Standalone mixin for Packery (Metafizzy)",
+                "href": "https://github.com/eiriklv/react-packery-mixin",
+                "github": "eiriklv/react-packery-mixin",
+                "type": "github"
+            },
+            {
+                "title": "react-dropzone - Simple HTML5 drag-drop zone with React.js.",
+                "href": "https://github.com/paramaggarwal/react-dropzone",
+                "github": "paramaggarwal/react-dropzone",
+                "type": "github"
+            },
+            {
+                "title": "aframe-react - A-Frame VR + React",
+                "href": "https://github.com/ngokevin/aframe",
+                "github": "ngokevin/aframe",
+                "type": "github"
+            },
+            {
+                "title": "react-three - React bindings to create and control a 3D scene using three.js",
+                "href": "https://github.com/Izzimach/react-three",
+                "github": "Izzimach/react-three",
+                "type": "github"
+            },
+            {
+                "title": "react-three-renderer - Render into a three.js canvas using React",
+                "href": "https://github.com/toxicFork/react-three-renderer",
+                "github": "toxicFork/react-three-renderer",
+                "type": "github"
+            },
+            {
+                "title": "react-threejs - Simplest bindings between React & Three.js",
+                "href": "https://github.com/fritx/react-threejs",
+                "github": "fritx/react-threejs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forms",
+        "childrens": [
+            {
+                "title": "react-formal - Better form validation and value management for React, Provides minimal wiring",
+                "href": "https://github.com/jquense/react-formal",
+                "github": "jquense/react-formal",
+                "type": "github"
+            },
+            {
+                "title": "react-forms - Forms library for React",
+                "href": "https://github.com/prometheusresearch/react-forms",
+                "github": "prometheusresearch/react-forms",
+                "type": "github"
+            },
+            {
+                "title": "valuelink - full-featured two-way data binding with extended React links",
+                "href": "https://github.com/Volicon/valuelink",
+                "github": "Volicon/valuelink",
+                "type": "github"
+            },
+            {
+                "title": "wingspan-forms - A dynamic form library for Facebook React",
+                "href": "https://github.com/wingspan/wingspan-forms",
+                "github": "wingspan/wingspan-forms",
+                "type": "github"
+            },
+            {
+                "title": "newforms - Isomorphic form-handling for React",
+                "href": "https://github.com/insin/newforms",
+                "github": "insin/newforms",
+                "type": "github"
+            },
+            {
+                "title": "formjs - A form generator for Reactjs",
+                "href": "https://github.com/zackify/formjs",
+                "github": "zackify/formjs",
+                "type": "github"
+            },
+            {
+                "title": "react-form-builder - A Form Builder for React.js",
+                "href": "https://github.com/quri/react-form-builder",
+                "github": "quri/react-form-builder",
+                "type": "github"
+            },
+            {
+                "title": "plexus-form - A dynamic form component for react using JSON-Schema",
+                "href": "https://github.com/AppliedMathematicsANU/plexus-form",
+                "github": "AppliedMathematicsANU/plexus-form",
+                "type": "github"
+            },
+            {
+                "title": "formsy-react - A form input builder and validator for React JS",
+                "href": "https://github.com/christianalfoni/formsy-react",
+                "github": "christianalfoni/formsy-react",
+                "type": "github"
+            },
+            {
+                "title": "Winterfell - Generate complex, validated and extendable JSON-based forms in React",
+                "href": "https://github.com/andrewhathaway/Winterfell",
+                "github": "andrewhathaway/Winterfell",
+                "type": "github"
+            },
+            {
+                "title": "Redux-Autoform - Create Redux-Forms dynamically out of metadata",
+                "href": "https://github.com/redux-autoform/redux-autoform",
+                "github": "redux-autoform/redux-autoform",
+                "type": "github"
+            },
+            {
+                "title": "uniforms - Bunch of React components and helpers to easily generate and validate forms",
+                "href": "https://github.com/vazco/uniforms",
+                "github": "vazco/uniforms",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Autocomplete",
+        "childrens": [
+            {
+                "title": "react-typeahead-search by @tonyspiro",
+                "href": "https://github.com/tonyspiro/react-typeahead-search",
+                "github": "tonyspiro/react-typeahead-search",
+                "type": "github"
+            },
+            {
+                "title": "react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete",
+                "href": "https://github.com/rackt/react-autocomplete",
+                "github": "rackt/react-autocomplete",
+                "type": "github"
+            },
+            {
+                "title": "react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component",
+                "href": "https://github.com/moroshko/react-autosuggest",
+                "github": "moroshko/react-autosuggest",
+                "type": "github"
+            },
+            {
+                "title": "react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS",
+                "href": "https://github.com/eliseumds/react-autocomplete",
+                "github": "eliseumds/react-autocomplete",
+                "type": "github"
+            },
+            {
+                "title": "react-autocomplete by @prometheusresearch - Autocomplete widget based on React",
+                "href": "https://github.com/prometheusresearch/react-autocomplete",
+                "github": "prometheusresearch/react-autocomplete",
+                "type": "github"
+            },
+            {
+                "title": "instatype by @gragland - Simple react autocomplete component",
+                "href": "https://github.com/gragland/instatype",
+                "github": "gragland/instatype",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation Tools",
+        "childrens": [
+            {
+                "title": "react-docgen - Extract information from React component files for documentation generation",
+                "href": "https://github.com/reactjs/react-docgen",
+                "github": "reactjs/react-docgen",
+                "type": "github"
+            },
+            {
+                "title": "react-styleguide-generator - Easily generate a good-looking styleguide",
+                "href": "https://github.com/pocotan001/react-styleguide-generator",
+                "github": "pocotan001/react-styleguide-generator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graphics",
+        "childrens": [
+            {
+                "title": "react-art - React Bridge to the ART Drawing Library",
+                "href": "https://github.com/facebook/react-art",
+                "github": "facebook/react-art",
+                "type": "github"
+            },
+            {
+                "title": "react-canvas - High performance ",
+                "href": "https://github.com/Flipboard/react-canvas",
+                "github": "Flipboard/react-canvas",
+                "type": "github"
+            },
+            {
+                "title": "react-famous - Complex 3D animations UI at 60 FPS with Famo.us",
+                "href": "https://github.com/pilwon/react-famous",
+                "github": "pilwon/react-famous",
+                "type": "github"
+            },
+            {
+                "title": "react-kinetic - HTML5 Canvas via KineticJS using React",
+                "href": "https://github.com/freiksenet/react-kinetic",
+                "github": "freiksenet/react-kinetic",
+                "type": "github"
+            },
+            {
+                "title": "react-svg-morph - morph your svg components one into another",
+                "href": "https://github.com/gorangajic/react-svg-morph",
+                "github": "gorangajic/react-svg-morph",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Model Libraries",
+        "childrens": [
+            {
+                "title": "mori - ClojureScript's persistent data structures and supporting API",
+                "href": "https://github.com/swannodette/mori",
+                "github": "swannodette/mori",
+                "type": "github"
+            },
+            {
+                "title": "NestedTypes - fast mutable models with \"pure render\" support",
+                "href": "https://github.com/Volicon/NestedTypes",
+                "github": "Volicon/NestedTypes",
+                "type": "github"
+            },
+            {
+                "title": "swarm - JavaScript replicated model (M of MVC) library",
+                "href": "https://github.com/gritzko/swarm",
+                "github": "gritzko/swarm",
+                "type": "github"
+            },
+            {
+                "title": "caplet - JavaScript models library",
+                "href": "https://github.com/mojo-js/caplet.js",
+                "github": "mojo-js/caplet.js",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Managing",
+        "childrens": [
+            {
+                "title": "Immutable.js - Immutable Data Collections for Javascript",
+                "href": "https://github.com/facebook/immutable-js",
+                "github": "facebook/immutable-js",
+                "type": "github"
+            },
+            {
+                "title": "cortex - A javascript library for centrally managing data with React",
+                "href": "https://github.com/mquan/cortex",
+                "github": "mquan/cortex",
+                "type": "github"
+            },
+            {
+                "title": "avers - A modern client-side model abstraction library",
+                "href": "https://github.com/wereHamster/avers",
+                "github": "wereHamster/avers",
+                "type": "github"
+            },
+            {
+                "title": "imvvm - Immutable Model-View-ViewModel for React",
+                "href": "https://github.com/entrendipity/imvvm",
+                "github": "entrendipity/imvvm",
+                "type": "github"
+            },
+            {
+                "title": "morearty.js - Better state management for React in pure JavaScript",
+                "href": "https://github.com/moreartyjs/moreartyjs",
+                "github": "moreartyjs/moreartyjs",
+                "type": "github"
+            },
+            {
+                "title": "valuable - An immutable data store for React",
+                "href": "https://github.com/josephsavona/valuable",
+                "github": "josephsavona/valuable",
+                "type": "github"
+            },
+            {
+                "title": "react-resolver - Isomorphic library to recursively lazy-load data for React components",
+                "href": "https://github.com/ericclemmons/react-resolver",
+                "github": "ericclemmons/react-resolver",
+                "type": "github"
+            },
+            {
+                "title": "freezer-js - Lightweight and reactive immutable data structure for React",
+                "href": "https://github.com/arqex/freezer",
+                "github": "arqex/freezer",
+                "type": "github"
+            },
+            {
+                "title": "baobab - JavaScript persistent and optionally immutable data tree with cursors",
+                "href": "https://github.com/Yomguithereal/baobab",
+                "github": "Yomguithereal/baobab",
+                "type": "github"
+            },
+            {
+                "title": "baobab-react - React integration for Baobab",
+                "href": "https://github.com/Yomguithereal/baobab-react",
+                "github": "Yomguithereal/baobab-react",
+                "type": "github"
+            },
+            {
+                "title": "datascript - Immutable database and Datalog query engine in ClojureScript",
+                "href": "https://github.com/tonsky/datascript",
+                "github": "tonsky/datascript",
+                "type": "github"
+            },
+            {
+                "title": "immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React",
+                "href": "https://github.com/omniscientjs/immstruct",
+                "github": "omniscientjs/immstruct",
+                "type": "github"
+            },
+            {
+                "title": "seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects",
+                "href": "https://github.com/rtfeldman/seamless-immutable",
+                "github": "rtfeldman/seamless-immutable",
+                "type": "github"
+            },
+            {
+                "title": "extendable-immutable - Extend any Immutable.js data structure",
+                "href": "https://github.com/philpl/extendable-immutable",
+                "github": "philpl/extendable-immutable",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Development Experience",
+        "childrens": [
+            {
+                "title": "react-devtools - React Chrome Developer Tools",
+                "href": "https://github.com/facebook/react-devtools",
+                "github": "facebook/react-devtools",
+                "type": "github"
+            },
+            {
+                "title": "react-transform-hmr - A React Transform that enables hot reloading React",
+                "href": "https://github.com/gaearon/react-transform-hmr",
+                "github": "gaearon/react-transform-hmr",
+                "type": "github"
+            },
+            {
+                "title": "babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions",
+                "href": "https://github.com/babel/babel-sublime",
+                "github": "babel/babel-sublime",
+                "type": "github"
+            },
+            {
+                "title": "babel-sublime-snippets - Next generation JavaScript and React snippets for Sublime",
+                "href": "https://github.com/babel/babel-sublime-snippets",
+                "github": "babel/babel-sublime-snippets",
+                "type": "github"
+            },
+            {
+                "title": "vim-jsx - Vim JSX Syntax",
+                "href": "https://github.com/mxw/vim-jsx",
+                "github": "mxw/vim-jsx",
+                "type": "github"
+            },
+            {
+                "title": "vim-react-snippets - Vim version of the snippets from sublime-react",
+                "href": "https://github.com/justinj/vim-react-snippets",
+                "github": "justinj/vim-react-snippets",
+                "type": "github"
+            },
+            {
+                "title": "vim-babel - Wrapper around babel.js for vim",
+                "href": "https://github.com/jbgutierrez/vim-babel",
+                "github": "jbgutierrez/vim-babel",
+                "type": "github"
+            },
+            {
+                "title": "eslint-plugin-react - React specific linting rules for ESLint",
+                "href": "https://github.com/yannickcr/eslint-plugin-react",
+                "github": "yannickcr/eslint-plugin-react",
+                "type": "github"
+            },
+            {
+                "title": "generator-react-webpack - Yeoman generator for ReactJS and Webpack",
+                "href": "https://github.com/newtriks/generator-react-webpack",
+                "github": "newtriks/generator-react-webpack",
+                "type": "github"
+            },
+            {
+                "title": "generator-react-gulp-browserify - Yeoman generator for React",
+                "href": "https://github.com/randylien/generator-react-gulp-browserify",
+                "github": "randylien/generator-react-gulp-browserify",
+                "type": "github"
+            },
+            {
+                "title": "generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc.",
+                "href": "https://github.com/Jackong/generator-reactapp",
+                "github": "Jackong/generator-reactapp",
+                "type": "github"
+            },
+            {
+                "title": "static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML",
+                "href": "https://github.com/markdalgleish/static-site-generator-webpack-plugin",
+                "github": "markdalgleish/static-site-generator-webpack-plugin",
+                "type": "github"
+            },
+            {
+                "title": "React Storybook - UI Component Dev Environment for React",
+                "href": "https://github.com/kadirahq/react-storybook",
+                "github": "kadirahq/react-storybook",
+                "type": "github"
+            },
+            {
+                "title": "generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components",
+                "href": "https://github.com/SUI-Components/generator-sui-react",
+                "github": "SUI-Components/generator-sui-react",
+                "type": "github"
+            },
+            {
+                "title": "Racket - A yeoman generator for creating a universal react/redux web application",
+                "href": "https://github.com/mohebifar/racket",
+                "github": "mohebifar/racket",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Template Engines",
+        "childrens": [
+            {
+                "title": "react-templates - Lightweight templates for React",
+                "href": "https://github.com/wix/react-templates",
+                "github": "wix/react-templates",
+                "type": "github"
+            },
+            {
+                "title": "teact - A JSX alternative based on composing functions in the Markaby / CoffeeKup / Teacup tradition",
+                "href": "https://github.com/hurrymaplelad/teact",
+                "github": "hurrymaplelad/teact",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Maps",
+        "childrens": [
+            {
+                "title": "react-googlemaps - React interface to Google maps",
+                "href": "https://github.com/pieterv/react-googlemaps",
+                "github": "pieterv/react-googlemaps",
+                "type": "github"
+            },
+            {
+                "title": "react-maps - A map component for React",
+                "href": "https://github.com/matnel/react-maps",
+                "github": "matnel/react-maps",
+                "type": "github"
+            },
+            {
+                "title": "react-google-maps - React.js Google Maps integration component",
+                "href": "https://github.com/tomchentw/react-google-maps",
+                "github": "tomchentw/react-google-maps",
+                "type": "github"
+            },
+            {
+                "title": "react-gmaps - A Google Maps component for React.js",
+                "href": "https://github.com/MicheleBertoli/react-gmaps",
+                "github": "MicheleBertoli/react-gmaps",
+                "type": "github"
+            },
+            {
+                "title": "react-map-gl - A React wrapper for MapboxGL-js plus overlay API",
+                "href": "https://github.com/uber/react-map-gl",
+                "github": "uber/react-map-gl",
+                "type": "github"
+            },
+            {
+                "title": "google-map-react - Isomorphic google map React component",
+                "href": "https://github.com/istarkov/google-map-react",
+                "github": "istarkov/google-map-react",
+                "type": "github"
+            },
+            {
+                "title": "react-mapbox-gl - A mapbox-gl-js wrapper to make the API react friendly",
+                "href": "https://github.com/alex3165/react-mapbox-gl",
+                "github": "alex3165/react-mapbox-gl",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Charts",
+        "childrens": [
+            {
+                "title": "react-d3 - Modular React charts made with d3.js",
+                "href": "https://github.com/esbullington/react-d3",
+                "github": "esbullington/react-d3",
+                "type": "github"
+            },
+            {
+                "title": "react-chartjs - Common react charting components using chart.js",
+                "href": "https://github.com/jhudson8/react-chartjs",
+                "github": "jhudson8/react-chartjs",
+                "type": "github"
+            },
+            {
+                "title": "react-stockcharts - Highly customizable stock charts with ReactJS and d3",
+                "href": "https://github.com/rrag/react-stockcharts",
+                "github": "rrag/react-stockcharts",
+                "type": "github"
+            },
+            {
+                "title": "VictoryJS - A collection of composable React components for building interactive data visualizations",
+                "href": "https://github.com/FormidableLabs/victory",
+                "github": "FormidableLabs/victory",
+                "type": "github"
+            },
+            {
+                "title": "Recharts - A charting library built on D3 with an awesome declarative API",
+                "href": "https://github.com/recharts/recharts",
+                "github": "recharts/recharts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Native General Resources",
+        "childrens": [
+            {
+                "title": "React Native GitHub",
+                "href": "https://github.com/facebook/react-native",
+                "github": "facebook/react-native",
+                "type": "github"
+            },
+            {
+                "title": "React Native Awesome List",
+                "href": "https://github.com/jondot/awesome-react-native",
+                "github": "jondot/awesome-react-native",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Native Development Experience",
+        "childrens": [
+            {
+                "title": "react-native-webpack-server - Build React Native apps with Webpack",
+                "href": "https://github.com/mjohnston/react-native-webpack-server",
+                "github": "mjohnston/react-native-webpack-server",
+                "type": "github"
+            },
+            {
+                "title": "react-native-code-push - React Native plugin for the CodePush service",
+                "href": "https://github.com/Microsoft/react-native-code-push",
+                "github": "Microsoft/react-native-code-push",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Native Sample Apps",
+        "childrens": [
+            {
+                "title": "HackerNews",
+                "href": "https://github.com/iSimar/HackerNews-React-Native",
+                "github": "iSimar/HackerNews-React-Native",
+                "type": "github"
+            },
+            {
+                "title": "Ziliun",
+                "href": "https://github.com/sonnylazuardi/ziliun-react-native",
+                "github": "sonnylazuardi/ziliun-react-native",
+                "type": "github"
+            },
+            {
+                "title": "FinanceReactNative",
+                "href": "https://github.com/7kfpun/FinanceReactNative",
+                "github": "7kfpun/FinanceReactNative",
+                "type": "github"
+            },
+            {
+                "title": "SplashWalls",
+                "href": "https://github.com/nashvail/SplashWalls",
+                "github": "nashvail/SplashWalls",
+                "type": "github"
+            },
+            {
+                "title": "NBAreact",
+                "href": "https://github.com/jbkuczma/NBAreact",
+                "github": "jbkuczma/NBAreact",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Native Boilerplates",
+        "childrens": [
+            {
+                "title": "Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)",
+                "href": "https://github.com/bartonhammond/snowflake",
+                "github": "bartonhammond/snowflake",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "React Native Awesome Components",
+        "childrens": [
+            {
+                "title": "react-native-fbsdk - A wrapper around the iOS Facebook SDK",
+                "href": "https://github.com/facebook/react-native-fbsdk",
+                "github": "facebook/react-native-fbsdk",
+                "type": "github"
+            },
+            {
+                "title": "react-native-side-menu - Simple customizable component to create side menu",
+                "href": "https://github.com/Kureev/react-native-side-menu",
+                "github": "Kureev/react-native-side-menu",
+                "type": "github"
+            },
+            {
+                "title": "react-native-mapbox-gl - A Mapbox GL react native module",
+                "href": "https://github.com/mapbox/react-native-mapbox-gl",
+                "github": "mapbox/react-native-mapbox-gl",
+                "type": "github"
+            },
+            {
+                "title": "react-native-icons - Quick and easy icons in React Native",
+                "href": "https://github.com/corymsmith/react-native-icons",
+                "github": "corymsmith/react-native-icons",
+                "type": "github"
+            },
+            {
+                "title": "react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar",
+                "href": "https://github.com/oblador/react-native-vector-icons",
+                "github": "oblador/react-native-vector-icons",
+                "type": "github"
+            },
+            {
+                "title": "react-native-google-signin - Google Signin for React Native",
+                "href": "https://github.com/apptailor/react-native-google-signin",
+                "github": "apptailor/react-native-google-signin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JSX Resources",
+        "childrens": [
+            {
+                "title": "JSX in TypeScript",
+                "href": "https://github.com/Microsoft/TypeScript/wiki/JSX",
+                "github": "Microsoft/TypeScript/wiki/JSX",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Flux General Resources",
+        "childrens": [
+            {
+                "title": "Flux GitHub",
+                "href": "https://github.com/facebook/flux",
+                "github": "facebook/flux",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Flux Implementations",
+        "childrens": [
+            {
+                "title": "Flux Comparision",
+                "href": "https://github.com/voronianski/flux-comparison",
+                "github": "voronianski/flux-comparison",
+                "type": "github"
+            },
+            {
+                "title": "RefluxJS",
+                "href": "https://github.com/spoike/refluxjs",
+                "github": "spoike/refluxjs",
+                "type": "github"
+            },
+            {
+                "title": "Fluxxor",
+                "href": "https://github.com/BinaryMuse/fluxxor",
+                "github": "BinaryMuse/fluxxor",
+                "type": "github"
+            },
+            {
+                "title": "Marty",
+                "href": "https://github.com/martyjs/marty",
+                "github": "martyjs/marty",
+                "type": "github"
+            },
+            {
+                "title": "McFly",
+                "href": "https://github.com/kenwheeler/mcfly",
+                "github": "kenwheeler/mcfly",
+                "type": "github"
+            },
+            {
+                "title": "Alt",
+                "href": "https://github.com/goatslacker/alt",
+                "github": "goatslacker/alt",
+                "type": "github"
+            },
+            {
+                "title": "Fluxible",
+                "href": "https://github.com/yahoo/fluxible",
+                "github": "yahoo/fluxible",
+                "type": "github"
+            },
+            {
+                "title": "NuclearJS",
+                "href": "https://github.com/optimizely/nuclear-js",
+                "github": "optimizely/nuclear-js",
+                "type": "github"
+            },
+            {
+                "title": "Flummox",
+                "href": "https://github.com/acdlite/flummox",
+                "github": "acdlite/flummox",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Flux Tutorials",
+        "childrens": [
+            {
+                "title": "Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo",
+                "href": "https://github.com/yahoo/flux-examples",
+                "github": "yahoo/flux-examples",
+                "type": "github"
+            },
+            {
+                "title": "FOR FLUX SAKE! - a beginners tutorial",
+                "href": "https://github.com/MIJOTHY/FOR_FLUX_SAKE",
+                "github": "MIJOTHY/FOR_FLUX_SAKE",
+                "type": "github"
+            },
+            {
+                "title": "Simple Counter App with React and Nuclear JS",
+                "href": "https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md",
+                "github": "haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Redux General Resources",
+        "childrens": [
+            {
+                "title": "Redux GitHub",
+                "href": "https://github.com/reactjs/redux",
+                "github": "reactjs/redux",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Redux List",
+                "href": "https://github.com/xgrommx/awesome-redux",
+                "github": "xgrommx/awesome-redux",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Redux Tools",
+        "childrens": [
+            {
+                "title": "react-redux - Official React bindings for Redux",
+                "href": "https://github.com/reactjs/react-redux",
+                "github": "reactjs/react-redux",
+                "type": "github"
+            },
+            {
+                "title": "redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI",
+                "href": "https://github.com/gaearon/redux-devtools",
+                "github": "gaearon/redux-devtools",
+                "type": "github"
+            },
+            {
+                "title": "redux-form - A Higher Order Component using react-redux to keep form state",
+                "href": "https://github.com/erikras/redux-form",
+                "github": "erikras/redux-form",
+                "type": "github"
+            },
+            {
+                "title": "redux-thunk - Thunk middleware for redux",
+                "href": "https://github.com/gaearon/redux-thunk",
+                "github": "gaearon/redux-thunk",
+                "type": "github"
+            },
+            {
+                "title": "redux-logger - Logger middleware for redux",
+                "href": "https://github.com/theaqua/redux-logger",
+                "github": "theaqua/redux-logger",
+                "type": "github"
+            },
+            {
+                "title": "reselect - Selector library for Redux",
+                "href": "https://github.com/reactjs/reselect",
+                "github": "reactjs/reselect",
+                "type": "github"
+            },
+            {
+                "title": "normalizr - Normalizes nested JSON according to a schema",
+                "href": "https://github.com/paularmstrong/normalizr",
+                "github": "paularmstrong/normalizr",
+                "type": "github"
+            },
+            {
+                "title": "redux-saga - An alternative side effect model for Redux apps",
+                "href": "https://github.com/yelouafi/redux-saga",
+                "github": "yelouafi/redux-saga",
+                "type": "github"
+            },
+            {
+                "title": "redux-observable - RxJS middleware for Redux",
+                "href": "https://github.com/redux-observable/redux-observable",
+                "github": "redux-observable/redux-observable",
+                "type": "github"
+            },
+            {
+                "title": "redux-analytics - Analytics middleware for Redux",
+                "href": "https://github.com/markdalgleish/redux-analytics",
+                "github": "markdalgleish/redux-analytics",
+                "type": "github"
+            },
+            {
+                "title": "redux-undo - Higher order reducer to add undo/redo functionality to redux state containers",
+                "href": "https://github.com/omnidan/redux-undo",
+                "github": "omnidan/redux-undo",
+                "type": "github"
+            },
+            {
+                "title": "redux-search - Redux bindings for client-side search",
+                "href": "https://github.com/treasure-data/redux-search",
+                "github": "treasure-data/redux-search",
+                "type": "github"
+            },
+            {
+                "title": "redux-mock-store - A mock store for your testing your redux async action creators and middleware",
+                "href": "https://github.com/arnaudbenard/redux-mock-store",
+                "github": "arnaudbenard/redux-mock-store",
+                "type": "github"
+            },
+            {
+                "title": "redux-immutable - Create an equivalent function of Redux combineReducers that works with Immutable.js state",
+                "href": "https://github.com/gajus/redux-immutable",
+                "github": "gajus/redux-immutable",
+                "type": "github"
+            },
+            {
+                "title": "redux-react-i18n - An i18n solution for redux/react",
+                "href": "https://github.com/derzunov/redux-react-i18n",
+                "github": "derzunov/redux-react-i18n",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Redux Tutorials",
+        "childrens": [
+            {
+                "title": "Redux Tutorial",
+                "href": "https://github.com/happypoulp/redux-tutorial",
+                "github": "happypoulp/redux-tutorial",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MobX General Resources",
+        "childrens": [
+            {
+                "title": "MobX GitHub",
+                "href": "https://github.com/mobxjs/mobx",
+                "github": "mobxjs/mobx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MobX Tools",
+        "childrens": [
+            {
+                "title": "mobx-react - React component wrapper for combining React with MobX",
+                "href": "https://github.com/mobxjs/mobx-react",
+                "github": "mobxjs/mobx-react",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing Utilities",
+        "childrens": [
+            {
+                "title": "enzyme - JavaScript Testing utilities for React",
+                "href": "https://github.com/airbnb/enzyme",
+                "github": "airbnb/enzyme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GraphQL Spec",
+        "childrens": [
+            {
+                "title": "GraphQL Specification Repository",
+                "href": "https://github.com/facebook/graphql",
+                "github": "facebook/graphql",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GraphQL Tools",
+        "childrens": [
+            {
+                "title": "GraphQL CMS",
+                "href": "https://github.com/sarkistlt/graphql-auto-generating-cms",
+                "github": "sarkistlt/graphql-auto-generating-cms",
+                "type": "github"
+            },
+            {
+                "title": "Mongoose schema To GraphQL",
+                "href": "https://github.com/sarkistlt/mongoose-schema-to-graphql",
+                "github": "sarkistlt/mongoose-schema-to-graphql",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "GraphQL Implementations",
+        "childrens": [
+            {
+                "title": "graphql-js - A reference implementation of GraphQL for ",
+                "href": "https://github.com/graphql/graphql-js",
+                "github": "graphql/graphql-js",
+                "type": "github"
+            },
+            {
+                "title": "react-transmit - Relay-inspired library based on ",
+                "href": "https://github.com/RickWong/react-transmit",
+                "github": "RickWong/react-transmit",
+                "type": "github"
+            },
+            {
+                "title": "graphql-ruby - ",
+                "href": "https://github.com/rmosolgo/graphql-ruby",
+                "github": "rmosolgo/graphql-ruby",
+                "type": "github"
+            },
+            {
+                "title": "graphql-java - GraphQL ",
+                "href": "https://github.com/andimarek/graphql-java",
+                "github": "andimarek/graphql-java",
+                "type": "github"
+            },
+            {
+                "title": "sangria - ",
+                "href": "https://github.com/OlegIlyenko/sangria",
+                "github": "OlegIlyenko/sangria",
+                "type": "github"
+            },
+            {
+                "title": "graphql-php - A ",
+                "href": "https://github.com/webonyx/graphql-php",
+                "github": "webonyx/graphql-php",
+                "type": "github"
+            },
+            {
+                "title": "graphqllib - GraphQL implementation for ",
+                "href": "https://github.com/dittos/graphqllib",
+                "github": "dittos/graphqllib",
+                "type": "github"
+            },
+            {
+                "title": "graphql-dotnet - GraphQL for ",
+                "href": "https://github.com/graphql-dotnet/graphql-dotnet",
+                "github": "graphql-dotnet/graphql-dotnet",
+                "type": "github"
+            },
+            {
+                "title": "graphql-go - GraphQL for Go/Golang",
+                "href": "https://github.com/graphql-go/graphql",
+                "github": "graphql-go/graphql",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Server Integration",
+        "childrens": [
+            {
+                "title": "express-graphql - Create a GraphQL HTTP server with ",
+                "href": "https://github.com/graphql/express-graphql",
+                "github": "graphql/express-graphql",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database Integration",
+        "childrens": [
+            {
+                "title": "graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models",
+                "href": "https://github.com/brysgo/graphql-bookshelf",
+                "github": "brysgo/graphql-bookshelf",
+                "type": "github"
+            },
+            {
+                "title": "GraphpostgresQL - GraphQL for ",
+                "href": "https://github.com/solidsnack/GraphpostgresQL",
+                "github": "solidsnack/GraphpostgresQL",
+                "type": "github"
+            },
+            {
+                "title": "graffiti - Node.js GraphQL ORM",
+                "href": "https://github.com/RisingStack/graffiti",
+                "github": "RisingStack/graffiti",
+                "type": "github"
+            },
+            {
+                "title": "sql-to-graphql - Generate a GraphQL API based on your SQL database structure",
+                "href": "https://github.com/vaffel/sql-to-graphql",
+                "github": "vaffel/sql-to-graphql",
+                "type": "github"
+            },
+            {
+                "title": "graphql-sequelize - GraphQL & Relay for MySQL & Postgres via Sequelize",
+                "href": "https://github.com/mickhansen/graphql-sequelize",
+                "github": "mickhansen/graphql-sequelize",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Relay General Resources",
+        "childrens": [
+            {
+                "title": "Relay GitHub",
+                "href": "https://github.com/facebook/relay",
+                "github": "facebook/relay",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Relay Tools",
+        "childrens": [
+            {
+                "title": "graphql-relay-js - A library to help construct a graphql-js server supporting react-relay",
+                "href": "https://github.com/graphql/graphql-relay-js",
+                "github": "graphql/graphql-relay-js",
+                "type": "github"
+            },
+            {
+                "title": "react-router-relay - Relay integration for React Router",
+                "href": "https://github.com/relay-tools/react-router-relay",
+                "github": "relay-tools/react-router-relay",
+                "type": "github"
+            },
+            {
+                "title": "relay-local-schema - Use Relay without a GraphQL server",
+                "href": "https://github.com/relay-tools/relay-local-schema",
+                "github": "relay-tools/relay-local-schema",
+                "type": "github"
+            },
+            {
+                "title": "relay-codemod -  Codemod scripts based for on jsodeshift to update Relay APIs",
+                "href": "https://github.com/facebook/jscodeshift",
+                "github": "facebook/jscodeshift",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Apollo General Resources",
+        "childrens": [
+            {
+                "title": "Apollo GitHub",
+                "href": "https://github.com/apollostack",
+                "github": "apollostack",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Flow Resources",
+        "childrens": [
+            {
+                "title": "Flow GitHub",
+                "href": "https://github.com/facebook/flow",
+                "github": "facebook/flow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Demos",
+        "childrens": [
+            {
+                "title": "react-hn - A React & react-router-powered implementation of Hacker News",
+                "href": "https://github.com/insin/react-hn",
+                "github": "insin/react-hn",
+                "type": "github"
+            },
+            {
+                "title": "react-pokemon - A React component for displaying Pokémon",
+                "href": "https://github.com/passy/react-pokemon",
+                "github": "passy/react-pokemon",
+                "type": "github"
+            },
+            {
+                "title": "React + NestedTypes TodoMVC",
+                "href": "https://github.com/gaperton/todomvc-nestedreact",
+                "github": "gaperton/todomvc-nestedreact",
+                "type": "github"
+            },
+            {
+                "title": "react-rxjs-todomvc - TodoMVC implementation with React and RxJS",
+                "href": "https://github.com/fdecampredon/react-rxjs-todomvc",
+                "github": "fdecampredon/react-rxjs-todomvc",
+                "type": "github"
+            },
+            {
+                "title": "react-mvc - A sample chat application written with React and pure MVC",
+                "href": "https://github.com/ustun/react-mvc",
+                "github": "ustun/react-mvc",
+                "type": "github"
+            },
+            {
+                "title": "react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe",
+                "href": "https://github.com/fdecampredon/react-observe-todomvc",
+                "github": "fdecampredon/react-observe-todomvc",
+                "type": "github"
+            },
+            {
+                "title": "react-lights-out - Simple demo of the React framework's power and flexibility",
+                "href": "https://github.com/chenglou/react-lights-out",
+                "github": "chenglou/react-lights-out",
+                "type": "github"
+            },
+            {
+                "title": "todomvc-swarm - React TodoMVC implementation using Swarm for real-time collaboration",
+                "href": "https://github.com/gritzko/todomvc-swarm",
+                "github": "gritzko/todomvc-swarm",
+                "type": "github"
+            },
+            {
+                "title": "reactodo - Multiple localStorage TODO lists, built with React",
+                "href": "https://github.com/insin/reactodo",
+                "github": "insin/reactodo",
+                "type": "github"
+            },
+            {
+                "title": "lifequote - React port of a life insurance quick quoting application",
+                "href": "https://github.com/insin/lifequote",
+                "github": "insin/lifequote",
+                "type": "github"
+            },
+            {
+                "title": "reactor-demo - Isomorphic Javascript app with React",
+                "href": "https://github.com/natew/reactor-demo",
+                "github": "natew/reactor-demo",
+                "type": "github"
+            },
+            {
+                "title": "imgsible - React-based Imgur-like isomorphic demo app",
+                "href": "https://github.com/BinaryMuse/imgsible",
+                "github": "BinaryMuse/imgsible",
+                "type": "github"
+            },
+            {
+                "title": "wow-realm-status-react - WoW Realm Status: React Edition",
+                "href": "https://github.com/BinaryMuse/wow-realm-status-react",
+                "github": "BinaryMuse/wow-realm-status-react",
+                "type": "github"
+            },
+            {
+                "title": "react-json-editor - A generic JSON editor",
+                "href": "https://github.com/dustingetz/react-json-editor",
+                "github": "dustingetz/react-json-editor",
+                "type": "github"
+            },
+            {
+                "title": "react-todos - Backbone's example TODO app with React JS for views",
+                "href": "https://github.com/ssorallen/react-todos",
+                "github": "ssorallen/react-todos",
+                "type": "github"
+            },
+            {
+                "title": "github-issues-viewer - A gitub issues viewer build in react + backbone",
+                "href": "https://github.com/jaredly/github-issues-viewer",
+                "github": "jaredly/github-issues-viewer",
+                "type": "github"
+            },
+            {
+                "title": "wolfenstein3D-react - Wolfenstein with the rendering layer written in React",
+                "href": "https://github.com/petehunt/wolfenstein3D-react",
+                "github": "petehunt/wolfenstein3D-react",
+                "type": "github"
+            },
+            {
+                "title": "Flux ImmutableJS TodoList",
+                "href": "https://github.com/MandarinConLaBarba/flux-immutable-todomvc",
+                "github": "MandarinConLaBarba/flux-immutable-todomvc",
+                "type": "github"
+            },
+            {
+                "title": "Hapi+React+Flux user management system",
+                "href": "https://github.com/jedireza/aqua",
+                "github": "jedireza/aqua",
+                "type": "github"
+            },
+            {
+                "title": "Redux TodoMVC",
+                "href": "https://github.com/gaearon/redux/tree/master/examples/todomvc",
+                "github": "gaearon/redux/tree/master/examples/todomvc",
+                "type": "github"
+            },
+            {
+                "title": "react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap",
+                "href": "https://github.com/arcseldon/react-babel-webpack-starter-app.git",
+                "github": "arcseldon/react-babel-webpack-starter-app.git",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Example Apps",
+        "childrens": [
+            {
+                "title": "isomorphic500 - Isomorphic JS app built with React and Fluxible",
+                "href": "https://github.com/gpbl/isomorphic500",
+                "github": "gpbl/isomorphic500",
+                "type": "github"
+            },
+            {
+                "title": "fil -  A playground for in-browser interpreters (Redux)",
+                "href": "https://github.com/fatiherikli/fil",
+                "github": "fatiherikli/fil",
+                "type": "github"
+            },
+            {
+                "title": "sound-redux - A Soundcloud client built with React / Redux",
+                "href": "https://github.com/andrewngu/sound-redux",
+                "github": "andrewngu/sound-redux",
+                "type": "github"
+            },
+            {
+                "title": "react-pomodoro - A Pomodoro timer for developers",
+                "href": "https://github.com/afonsopacifer/react-pomodoro",
+                "github": "afonsopacifer/react-pomodoro",
+                "type": "github"
+            },
+            {
+                "title": "Do - Notes management application built with React and Redux",
+                "href": "https://github.com/1ven/do",
+                "github": "1ven/do",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Real Apps",
+        "childrens": [
+            {
+                "title": "reddit/reddit-mobile",
+                "href": "https://github.com/reddit/reddit-mobile",
+                "github": "reddit/reddit-mobile",
+                "type": "github"
+            },
+            {
+                "title": "khan/perseus",
+                "href": "https://github.com/khan/perseus",
+                "github": "khan/perseus",
+                "type": "github"
+            },
+            {
+                "title": "mozilla/payments-ui",
+                "href": "https://github.com/mozilla/payments-ui",
+                "github": "mozilla/payments-ui",
+                "type": "github"
+            },
+            {
+                "title": "webbylab/itsquiz-wall",
+                "href": "https://github.com/webbylab/itsquiz-wall",
+                "github": "webbylab/itsquiz-wall",
+                "type": "github"
+            },
+            {
+                "title": "brainfock/brainfock",
+                "href": "https://github.com/brainfock/brainfock",
+                "github": "brainfock/brainfock",
+                "type": "github"
+            }
+        ]
+    }
+]

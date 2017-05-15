@@ -1,0 +1,512 @@
+[
+    {
+        "heading": "Design",
+        "childrens": [
+            {
+                "title": "HTTP API design guide extracted from work on the Heroku Platform API",
+                "href": "https://github.com/interagent/http-api-design",
+                "github": "interagent/http-api-design",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP Clients",
+        "childrens": [
+            {
+                "title": "Buzz",
+                "href": "https://github.com/kriswallsmith/buzz",
+                "github": "kriswallsmith/buzz",
+                "type": "github"
+            },
+            {
+                "title": "unirest for PHP",
+                "href": "https://github.com/Mashape/unirest-php",
+                "github": "Mashape/unirest-php",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript Clients",
+        "childrens": [
+            {
+                "title": "restangular",
+                "href": "https://github.com/mgonto/restangular",
+                "github": "mgonto/restangular",
+                "type": "github"
+            },
+            {
+                "title": "restful.js",
+                "href": "https://github.com/marmelab/restful.js",
+                "github": "marmelab/restful.js",
+                "type": "github"
+            },
+            {
+                "title": "traverson",
+                "href": "https://github.com/basti1302/traverson",
+                "github": "basti1302/traverson",
+                "type": "github"
+            },
+            {
+                "title": "raml-client-generator",
+                "href": "https://github.com/mulesoft/raml-client-generator",
+                "github": "mulesoft/raml-client-generator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Node.js Clients",
+        "childrens": [
+            {
+                "title": "restler",
+                "href": "https://github.com/danwrong/restler",
+                "github": "danwrong/restler",
+                "type": "github"
+            },
+            {
+                "title": "unirest for Node.js",
+                "href": "https://github.com/Mashape/unirest-nodejs",
+                "github": "Mashape/unirest-nodejs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby Clients",
+        "childrens": [
+            {
+                "title": "RESTClient",
+                "href": "https://github.com/rest-client/rest-client",
+                "github": "rest-client/rest-client",
+                "type": "github"
+            },
+            {
+                "title": "Spyke",
+                "href": "https://github.com/balvig/spyke",
+                "github": "balvig/spyke",
+                "type": "github"
+            },
+            {
+                "title": "excon",
+                "href": "https://github.com/excon/excon",
+                "github": "excon/excon",
+                "type": "github"
+            },
+            {
+                "title": "httparty",
+                "href": "https://github.com/jnunemaker/httparty",
+                "github": "jnunemaker/httparty",
+                "type": "github"
+            },
+            {
+                "title": "raml-ruby-client-generator",
+                "href": "https://github.com/zlx/raml-ruby-client-generator",
+                "github": "zlx/raml-ruby-client-generator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go Clients",
+        "childrens": [
+            {
+                "title": "gopencils",
+                "href": "https://github.com/bndr/gopencils",
+                "github": "bndr/gopencils",
+                "type": "github"
+            },
+            {
+                "title": "resty",
+                "href": "https://github.com/go-resty/resty",
+                "github": "go-resty/resty",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Directly On Top Of A RMDB",
+        "childrens": [
+            {
+                "title": "postgrest",
+                "href": "https://github.com/begriffs/postgrest",
+                "github": "begriffs/postgrest",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Node.js",
+        "childrens": [
+            {
+                "title": "node-restify",
+                "href": "https://github.com/restify/node-restify",
+                "github": "restify/node-restify",
+                "type": "github"
+            },
+            {
+                "title": "mers",
+                "href": "https://github.com/jspears/mers",
+                "github": "jspears/mers",
+                "type": "github"
+            },
+            {
+                "title": "Baucis",
+                "href": "https://github.com/wprl/baucis",
+                "github": "wprl/baucis",
+                "type": "github"
+            },
+            {
+                "title": "flatiron/resourceful",
+                "href": "https://github.com/flatiron/resourceful",
+                "github": "flatiron/resourceful",
+                "type": "github"
+            },
+            {
+                "title": "Expressa",
+                "href": "https://github.com/thomas4019/expressa",
+                "github": "thomas4019/expressa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "Microrest",
+                "href": "https://github.com/marmelab/microrest.php",
+                "github": "marmelab/microrest.php",
+                "type": "github"
+            },
+            {
+                "title": "Negotiation",
+                "href": "https://github.com/willdurand/Negotiation",
+                "github": "willdurand/Negotiation",
+                "type": "github"
+            },
+            {
+                "title": "Drest",
+                "href": "https://github.com/leedavis81/drest",
+                "github": "leedavis81/drest",
+                "type": "github"
+            },
+            {
+                "title": "Restler",
+                "href": "https://github.com/Luracast/Restler",
+                "github": "Luracast/Restler",
+                "type": "github"
+            },
+            {
+                "title": "HAL",
+                "href": "https://github.com/blongden/hal",
+                "github": "blongden/hal",
+                "type": "github"
+            },
+            {
+                "title": "Apigility",
+                "href": "https://github.com/zfcampus/zf-apigility-skeleton",
+                "github": "zfcampus/zf-apigility-skeleton",
+                "type": "github"
+            },
+            {
+                "title": "phprest",
+                "href": "https://github.com/phprest/phprest",
+                "github": "phprest/phprest",
+                "type": "github"
+            },
+            {
+                "title": "Hateoas",
+                "href": "https://github.com/willdurand/Hateoas",
+                "github": "willdurand/Hateoas",
+                "type": "github"
+            },
+            {
+                "title": "Fusio",
+                "href": "https://github.com/apioo/fusio",
+                "github": "apioo/fusio",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Symfony2",
+        "childrens": [
+            {
+                "title": "FOSRestBundle",
+                "href": "https://github.com/FriendsOfSymfony/FOSRestBundle",
+                "github": "FriendsOfSymfony/FOSRestBundle",
+                "type": "github"
+            },
+            {
+                "title": "stanlemon/rest-bundle",
+                "href": "https://github.com/stanlemon/rest-bundle",
+                "github": "stanlemon/rest-bundle",
+                "type": "github"
+            },
+            {
+                "title": "BazingaHateoasBundle",
+                "href": "https://github.com/willdurand/BazingaHateoasBundle",
+                "github": "willdurand/BazingaHateoasBundle",
+                "type": "github"
+            },
+            {
+                "title": "Symfony REST Edition",
+                "href": "https://github.com/gimler/symfony-rest-edition",
+                "github": "gimler/symfony-rest-edition",
+                "type": "github"
+            },
+            {
+                "title": "NgAdminGeneratorBundle",
+                "href": "https://github.com/marmelab/NgAdminGeneratorBundle",
+                "github": "marmelab/NgAdminGeneratorBundle",
+                "type": "github"
+            },
+            {
+                "title": "DunglasApiBundle",
+                "href": "https://github.com/dunglas/DunglasApiBundle",
+                "github": "dunglas/DunglasApiBundle",
+                "type": "github"
+            },
+            {
+                "title": "API Platform",
+                "href": "https://github.com/api-platform/api-platform",
+                "github": "api-platform/api-platform",
+                "type": "github"
+            },
+            {
+                "title": "NelmioApiDocBundle",
+                "href": "https://github.com/nelmio/NelmioApiDocBundle",
+                "github": "nelmio/NelmioApiDocBundle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "sandman",
+                "href": "https://github.com/jeffknupp/sandman",
+                "github": "jeffknupp/sandman",
+                "type": "github"
+            },
+            {
+                "title": "savory-pie",
+                "href": "https://github.com/RueLaLa/savory-pie/",
+                "github": "RueLaLa/savory-pie/",
+                "type": "github"
+            },
+            {
+                "title": "Flask-Potion",
+                "href": "https://github.com/biosustain/potion",
+                "github": "biosustain/potion",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "gocrud",
+                "href": "https://github.com/manishrjain/gocrud",
+                "github": "manishrjain/gocrud",
+                "type": "github"
+            },
+            {
+                "title": "go-json-rest",
+                "href": "https://github.com/ant0ine/go-json-rest",
+                "github": "ant0ine/go-json-rest",
+                "type": "github"
+            },
+            {
+                "title": "sleepy",
+                "href": "https://github.com/dougblack/sleepy",
+                "github": "dougblack/sleepy",
+                "type": "github"
+            },
+            {
+                "title": "restit",
+                "href": "https://github.com/yookoala/restit",
+                "github": "yookoala/restit",
+                "type": "github"
+            },
+            {
+                "title": "go-relax",
+                "href": "https://github.com/codehack/go-relax",
+                "github": "codehack/go-relax",
+                "type": "github"
+            },
+            {
+                "title": "go-rest",
+                "href": "https://github.com/ungerik/go-rest",
+                "github": "ungerik/go-rest",
+                "type": "github"
+            },
+            {
+                "title": "go-restful",
+                "href": "https://github.com/emicklei/go-restful",
+                "github": "emicklei/go-restful",
+                "type": "github"
+            },
+            {
+                "title": "Goat",
+                "href": "https://github.com/bahlo/goat",
+                "github": "bahlo/goat",
+                "type": "github"
+            },
+            {
+                "title": "Resoursea",
+                "href": "https://github.com/resoursea/api",
+                "github": "resoursea/api",
+                "type": "github"
+            },
+            {
+                "title": "Zerver",
+                "href": "https://github.com/cosiner/zerver",
+                "github": "cosiner/zerver",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "RestExpress",
+                "href": "https://github.com/RestExpress/RestExpress",
+                "github": "RestExpress/RestExpress",
+                "type": "github"
+            },
+            {
+                "title": "Vertx-Web",
+                "href": "https://github.com/vert-x3/vertx-web",
+                "github": "vert-x3/vertx-web",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Haskell",
+        "childrens": [
+            {
+                "title": "Rest for Haskell",
+                "href": "https://github.com/silkapp/rest",
+                "github": "silkapp/rest",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Querying",
+        "childrens": [
+            {
+                "title": "httpie",
+                "href": "https://github.com/jkbrzt/httpie",
+                "github": "jkbrzt/httpie",
+                "type": "github"
+            },
+            {
+                "title": "resty",
+                "href": "https://github.com/micha/resty",
+                "github": "micha/resty",
+                "type": "github"
+            },
+            {
+                "title": "jq",
+                "href": "https://github.com/stedolan/jq",
+                "github": "stedolan/jq",
+                "type": "github"
+            },
+            {
+                "title": "Http-console",
+                "href": "https://github.com/cloudhead/http-console",
+                "github": "cloudhead/http-console",
+                "type": "github"
+            },
+            {
+                "title": "rest-assured",
+                "href": "https://github.com/rest-assured/rest-assured",
+                "github": "rest-assured/rest-assured",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mocking",
+        "childrens": [
+            {
+                "title": "FakeRest",
+                "href": "https://github.com/marmelab/FakeRest",
+                "github": "marmelab/FakeRest",
+                "type": "github"
+            },
+            {
+                "title": "json-server",
+                "href": "https://github.com/typicode/json-server",
+                "github": "typicode/json-server",
+                "type": "github"
+            },
+            {
+                "title": "Swagger API Mock",
+                "href": "https://github.com/bulkismaslom/swagger-api-mock",
+                "github": "bulkismaslom/swagger-api-mock",
+                "type": "github"
+            },
+            {
+                "title": "Request Baskets",
+                "href": "https://github.com/darklynx/request-baskets",
+                "github": "darklynx/request-baskets",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "raml2html",
+                "href": "https://github.com/raml2html/raml2html",
+                "github": "raml2html/raml2html",
+                "type": "github"
+            },
+            {
+                "title": "ReDoc",
+                "href": "https://github.com/Rebilly/ReDoc/",
+                "github": "Rebilly/ReDoc/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "ng-admin",
+                "href": "https://github.com/marmelab/ng-admin",
+                "github": "marmelab/ng-admin",
+                "type": "github"
+            },
+            {
+                "title": "admin-on-rest",
+                "href": "https://github.com/marmelab/admin-on-rest",
+                "github": "marmelab/admin-on-rest",
+                "type": "github"
+            },
+            {
+                "title": "swagger-codegen",
+                "href": "https://github.com/swagger-api/swagger-codegen",
+                "github": "swagger-api/swagger-codegen",
+                "type": "github"
+            },
+            {
+                "title": "Lumber",
+                "href": "https://github.com/ForestAdmin/lumber",
+                "github": "ForestAdmin/lumber",
+                "type": "github"
+            }
+        ]
+    }
+]

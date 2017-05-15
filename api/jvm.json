@@ -1,0 +1,758 @@
+[
+    {
+        "heading": "Bytecode",
+        "childrens": [
+            {
+                "title": "Jitescript",
+                "href": "https://github.com/qmx/jitescript",
+                "github": "qmx/jitescript",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Load tools",
+        "childrens": [
+            {
+                "title": "wrk2",
+                "href": "https://github.com/giltene/wrk2",
+                "github": "giltene/wrk2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Languages",
+        "childrens": [
+            {
+                "title": "Frege",
+                "href": "https://github.com/Frege/frege",
+                "github": "Frege/frege",
+                "type": "github"
+            },
+            {
+                "title": "gojava",
+                "href": "https://github.com/sridharv/gojava",
+                "github": "sridharv/gojava",
+                "type": "github"
+            },
+            {
+                "title": "Rembulan",
+                "href": "https://github.com/mjanicek/rembulan",
+                "github": "mjanicek/rembulan",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Memory and concurrency",
+        "childrens": [
+            {
+                "title": "Agera",
+                "href": "https://github.com/google/agera",
+                "github": "google/agera",
+                "type": "github"
+            },
+            {
+                "title": "Agrona",
+                "href": "https://github.com/real-logic/Agrona",
+                "github": "real-logic/Agrona",
+                "type": "github"
+            },
+            {
+                "title": "bloofi",
+                "href": "https://github.com/lemire/bloofi",
+                "github": "lemire/bloofi",
+                "type": "github"
+            },
+            {
+                "title": "caffeine",
+                "href": "https://github.com/ben-manes/caffeine",
+                "github": "ben-manes/caffeine",
+                "type": "github"
+            },
+            {
+                "title": "Chronicle-Bytes",
+                "href": "https://github.com/OpenHFT/Chronicle-Bytes",
+                "github": "OpenHFT/Chronicle-Bytes",
+                "type": "github"
+            },
+            {
+                "title": "Chronicle-Queue",
+                "href": "https://github.com/OpenHFT/Chronicle-Queue",
+                "github": "OpenHFT/Chronicle-Queue",
+                "type": "github"
+            },
+            {
+                "title": "Chronicle-Map",
+                "href": "https://github.com/OpenHFT/Chronicle-Map",
+                "github": "OpenHFT/Chronicle-Map",
+                "type": "github"
+            },
+            {
+                "title": "clj-ds",
+                "href": "https://github.com/krukow/clj-ds",
+                "github": "krukow/clj-ds",
+                "type": "github"
+            },
+            {
+                "title": "colfer",
+                "href": "https://github.com/pascaldekloe/colfer",
+                "github": "pascaldekloe/colfer",
+                "type": "github"
+            },
+            {
+                "title": "CuckooFilter4J",
+                "href": "https://github.com/MGunlogson/CuckooFilter4J",
+                "github": "MGunlogson/CuckooFilter4J",
+                "type": "github"
+            },
+            {
+                "title": "cyclops",
+                "href": "https://github.com/aol/cyclops",
+                "github": "aol/cyclops",
+                "type": "github"
+            },
+            {
+                "title": "java-concurrent-hash-trie-map",
+                "href": "https://github.com/romix/java-concurrent-hash-trie-map",
+                "github": "romix/java-concurrent-hash-trie-map",
+                "type": "github"
+            },
+            {
+                "title": "java-hll",
+                "href": "https://github.com/aggregateknowledge/java-hll",
+                "github": "aggregateknowledge/java-hll",
+                "type": "github"
+            },
+            {
+                "title": "JavaFastPFOR",
+                "href": "https://github.com/lemire/JavaFastPFOR",
+                "github": "lemire/JavaFastPFOR",
+                "type": "github"
+            },
+            {
+                "title": "fasttuple",
+                "href": "https://github.com/boundary/fasttuple",
+                "github": "boundary/fasttuple",
+                "type": "github"
+            },
+            {
+                "title": "geohash",
+                "href": "https://github.com/davidmoten/geo",
+                "github": "davidmoten/geo",
+                "type": "github"
+            },
+            {
+                "title": "gs-collections",
+                "href": "https://github.com/goldmansachs/gs-collections",
+                "github": "goldmansachs/gs-collections",
+                "type": "github"
+            },
+            {
+                "title": "hollow",
+                "href": "https://github.com/Netflix/hollow",
+                "github": "Netflix/hollow",
+                "type": "github"
+            },
+            {
+                "title": "high-scale-lib",
+                "href": "https://github.com/boundary/high-scale-lib",
+                "github": "boundary/high-scale-lib",
+                "type": "github"
+            },
+            {
+                "title": "hppc",
+                "href": "https://github.com/carrotsearch/hppc",
+                "github": "carrotsearch/hppc",
+                "type": "github"
+            },
+            {
+                "title": "injector",
+                "href": "https://github.com/belliottsmith/injector",
+                "github": "belliottsmith/injector",
+                "type": "github"
+            },
+            {
+                "title": "Koloboke",
+                "href": "https://github.com/OpenHFT/Koloboke",
+                "github": "OpenHFT/Koloboke",
+                "type": "github"
+            },
+            {
+                "title": "LevelDB",
+                "href": "https://github.com/dain/leveldb",
+                "github": "dain/leveldb",
+                "type": "github"
+            },
+            {
+                "title": "lightweight_trie",
+                "href": "https://github.com/bryanduxbury/lightweight_trie",
+                "github": "bryanduxbury/lightweight_trie",
+                "type": "github"
+            },
+            {
+                "title": "lmdbjni",
+                "href": "https://github.com/deephacks/lmdbjni",
+                "github": "deephacks/lmdbjni",
+                "type": "github"
+            },
+            {
+                "title": "lmdbjava",
+                "href": "https://github.com/lmdbjava/lmdbjava",
+                "github": "lmdbjava/lmdbjava",
+                "type": "github"
+            },
+            {
+                "title": "low-gc-membuffers",
+                "href": "https://github.com/cowtowncoder/low-gc-membuffers",
+                "github": "cowtowncoder/low-gc-membuffers",
+                "type": "github"
+            },
+            {
+                "title": "lwjgl3",
+                "href": "https://github.com/LWJGL/lwjgl3",
+                "github": "LWJGL/lwjgl3",
+                "type": "github"
+            },
+            {
+                "title": "ohc",
+                "href": "https://github.com/snazy/ohc",
+                "github": "snazy/ohc",
+                "type": "github"
+            },
+            {
+                "title": "okio",
+                "href": "https://github.com/square/okio",
+                "github": "square/okio",
+                "type": "github"
+            },
+            {
+                "title": "one-nio",
+                "href": "https://github.com/odnoklassniki/one-nio",
+                "github": "odnoklassniki/one-nio",
+                "type": "github"
+            },
+            {
+                "title": "onyx-java",
+                "href": "https://github.com/onyx-platform/onyx-java",
+                "github": "onyx-platform/onyx-java",
+                "type": "github"
+            },
+            {
+                "title": "PauselessHashMap",
+                "href": "https://github.com/giltene/PauselessHashMap",
+                "github": "giltene/PauselessHashMap",
+                "type": "github"
+            },
+            {
+                "title": "pcollections",
+                "href": "https://github.com/hrldcpr/pcollections",
+                "github": "hrldcpr/pcollections",
+                "type": "github"
+            },
+            {
+                "title": "rtree",
+                "href": "https://github.com/davidmoten/rtree",
+                "github": "davidmoten/rtree",
+                "type": "github"
+            },
+            {
+                "title": "RoaringBitmap",
+                "href": "https://github.com/RoaringBitmap/RoaringBitmap",
+                "github": "RoaringBitmap/RoaringBitmap",
+                "type": "github"
+            },
+            {
+                "title": "rollinghashjava",
+                "href": "https://github.com/lemire/rollinghashjava",
+                "github": "lemire/rollinghashjava",
+                "type": "github"
+            },
+            {
+                "title": "RxJava",
+                "href": "https://github.com/ReactiveX/RxJava",
+                "github": "ReactiveX/RxJava",
+                "type": "github"
+            },
+            {
+                "title": "SmoothieMap",
+                "href": "https://github.com/OpenHFT/SmoothieMap",
+                "github": "OpenHFT/SmoothieMap",
+                "type": "github"
+            },
+            {
+                "title": "Simple Binary Encoding",
+                "href": "https://github.com/real-logic/simple-binary-encoding",
+                "github": "real-logic/simple-binary-encoding",
+                "type": "github"
+            },
+            {
+                "title": "stormpot",
+                "href": "https://github.com/chrisvest/stormpot",
+                "github": "chrisvest/stormpot",
+                "type": "github"
+            },
+            {
+                "title": "stream-lib",
+                "href": "https://github.com/addthis/stream-lib",
+                "github": "addthis/stream-lib",
+                "type": "github"
+            },
+            {
+                "title": "java-string-similarity",
+                "href": "https://github.com/tdebatty/java-string-similarity",
+                "github": "tdebatty/java-string-similarity",
+                "type": "github"
+            },
+            {
+                "title": "transducers-java",
+                "href": "https://github.com/cognitect-labs/transducers-java",
+                "github": "cognitect-labs/transducers-java",
+                "type": "github"
+            },
+            {
+                "title": "Zero-Allocation-Hashing",
+                "href": "https://github.com/OpenHFT/Zero-Allocation-Hashing",
+                "github": "OpenHFT/Zero-Allocation-Hashing",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Metaprogramming",
+        "childrens": [
+            {
+                "title": "auto",
+                "href": "https://github.com/google/auto",
+                "github": "google/auto",
+                "type": "github"
+            },
+            {
+                "title": "compile-testing",
+                "href": "https://github.com/google/compile-testing",
+                "github": "google/compile-testing",
+                "type": "github"
+            },
+            {
+                "title": "derive4j",
+                "href": "https://github.com/derive4j/derive4j",
+                "github": "derive4j/derive4j",
+                "type": "github"
+            },
+            {
+                "title": "error-prone",
+                "href": "https://github.com/google/error-prone",
+                "github": "google/error-prone",
+                "type": "github"
+            },
+            {
+                "title": "GHCVM",
+                "href": "https://github.com/rahulmutt/ghcvm",
+                "github": "rahulmutt/ghcvm",
+                "type": "github"
+            },
+            {
+                "title": "javaparser",
+                "href": "https://github.com/javaparser/javaparser",
+                "github": "javaparser/javaparser",
+                "type": "github"
+            },
+            {
+                "title": "JavaPoet",
+                "href": "https://github.com/square/javapoet",
+                "github": "square/javapoet",
+                "type": "github"
+            },
+            {
+                "title": "jparsec",
+                "href": "https://github.com/jparsec/jparsec",
+                "github": "jparsec/jparsec",
+                "type": "github"
+            },
+            {
+                "title": "parboiled",
+                "href": "https://github.com/sirthias/parboiled",
+                "github": "sirthias/parboiled",
+                "type": "github"
+            },
+            {
+                "title": "Sulong",
+                "href": "https://github.com/graalvm/sulong",
+                "github": "graalvm/sulong",
+                "type": "github"
+            },
+            {
+                "title": "TeaVM",
+                "href": "https://github.com/konsoletyper/teavm",
+                "github": "konsoletyper/teavm",
+                "type": "github"
+            },
+            {
+                "title": "Truffle",
+                "href": "https://github.com/graalvm/truffle",
+                "github": "graalvm/truffle",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Native",
+        "childrens": [
+            {
+                "title": "hawtjni",
+                "href": "https://github.com/fusesource/hawtjni",
+                "github": "fusesource/hawtjni",
+                "type": "github"
+            },
+            {
+                "title": "j2v8",
+                "href": "https://github.com/eclipsesource/j2v8",
+                "github": "eclipsesource/j2v8",
+                "type": "github"
+            },
+            {
+                "title": "JavaCPP",
+                "href": "https://github.com/bytedeco/javacpp",
+                "github": "bytedeco/javacpp",
+                "type": "github"
+            },
+            {
+                "title": "jnr-ffi",
+                "href": "https://github.com/jnr/jnr-ffi",
+                "github": "jnr/jnr-ffi",
+                "type": "github"
+            },
+            {
+                "title": "jssembly",
+                "href": "https://github.com/dvx/jssembly",
+                "github": "dvx/jssembly",
+                "type": "github"
+            },
+            {
+                "title": "NuProcess",
+                "href": "https://github.com/brettwooldridge/NuProcess",
+                "github": "brettwooldridge/NuProcess",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Network",
+        "childrens": [
+            {
+                "title": "Aeron",
+                "href": "https://github.com/real-logic/Aeron",
+                "github": "real-logic/Aeron",
+                "type": "github"
+            },
+            {
+                "title": "armeria",
+                "href": "https://github.com/line/armeria",
+                "github": "line/armeria",
+                "type": "github"
+            },
+            {
+                "title": "comcast",
+                "href": "https://github.com/tylertreat/comcast",
+                "github": "tylertreat/comcast",
+                "type": "github"
+            },
+            {
+                "title": "gor",
+                "href": "https://github.com/buger/gor",
+                "github": "buger/gor",
+                "type": "github"
+            },
+            {
+                "title": "jRT",
+                "href": "https://github.com/LatencyUtils/jRT",
+                "github": "LatencyUtils/jRT",
+                "type": "github"
+            },
+            {
+                "title": "K3PO",
+                "href": "https://github.com/k3po/k3po",
+                "github": "k3po/k3po",
+                "type": "github"
+            },
+            {
+                "title": "muxy",
+                "href": "https://github.com/mefellows/muxy",
+                "github": "mefellows/muxy",
+                "type": "github"
+            },
+            {
+                "title": "okhttp",
+                "href": "https://github.com/square/okhttp",
+                "github": "square/okhttp",
+                "type": "github"
+            },
+            {
+                "title": "SimianArmy",
+                "href": "https://github.com/Netflix/SimianArmy",
+                "github": "Netflix/SimianArmy",
+                "type": "github"
+            },
+            {
+                "title": "pcap4j",
+                "href": "https://github.com/kaitoy/pcap4j",
+                "github": "kaitoy/pcap4j",
+                "type": "github"
+            },
+            {
+                "title": "pig",
+                "href": "https://github.com/rafael-santiago/pig",
+                "github": "rafael-santiago/pig",
+                "type": "github"
+            },
+            {
+                "title": "tcpflow",
+                "href": "https://github.com/simsong/tcpflow",
+                "github": "simsong/tcpflow",
+                "type": "github"
+            },
+            {
+                "title": "tcpreplay",
+                "href": "https://github.com/appneta/tcpreplay",
+                "github": "appneta/tcpreplay",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Nix tools",
+        "childrens": [
+            {
+                "title": "likwid",
+                "href": "https://github.com/RRZE-HPC/likwid",
+                "github": "RRZE-HPC/likwid",
+                "type": "github"
+            },
+            {
+                "title": "perf-tools",
+                "href": "https://github.com/brendangregg/perf-tools",
+                "github": "brendangregg/perf-tools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Profilers",
+        "childrens": [
+            {
+                "title": "allocation-instrumenter",
+                "href": "https://github.com/google/allocation-instrumenter",
+                "github": "google/allocation-instrumenter",
+                "type": "github"
+            },
+            {
+                "title": "aprof",
+                "href": "https://github.com/Devexperts/aprof",
+                "github": "Devexperts/aprof",
+                "type": "github"
+            },
+            {
+                "title": "BTrace",
+                "href": "https://github.com/jbachorik/btrace",
+                "github": "jbachorik/btrace",
+                "type": "github"
+            },
+            {
+                "title": "GCViewer",
+                "href": "https://github.com/chewiebug/GCViewer",
+                "github": "chewiebug/GCViewer",
+                "type": "github"
+            },
+            {
+                "title": "hawkshaw",
+                "href": "https://github.com/jClarity/hawkshaw",
+                "github": "jClarity/hawkshaw",
+                "type": "github"
+            },
+            {
+                "title": "HdrLogProcessing",
+                "href": "https://github.com/nitsanw/HdrLogProcessing",
+                "github": "nitsanw/HdrLogProcessing",
+                "type": "github"
+            },
+            {
+                "title": "heapster",
+                "href": "https://github.com/mariusae/heapster",
+                "github": "mariusae/heapster",
+                "type": "github"
+            },
+            {
+                "title": "honest-profiler",
+                "href": "https://github.com/RichardWarburton/honest-profiler",
+                "github": "RichardWarburton/honest-profiler",
+                "type": "github"
+            },
+            {
+                "title": "jamm",
+                "href": "https://github.com/jbellis/jamm",
+                "github": "jbellis/jamm",
+                "type": "github"
+            },
+            {
+                "title": "java-sizeof",
+                "href": "https://github.com/dweiss/java-sizeof",
+                "github": "dweiss/java-sizeof",
+                "type": "github"
+            },
+            {
+                "title": "jfr-flame-graph",
+                "href": "https://github.com/chrishantha/jfr-flame-graph",
+                "github": "chrishantha/jfr-flame-graph",
+                "type": "github"
+            },
+            {
+                "title": "jitwatch",
+                "href": "https://github.com/AdoptOpenJDK/jitwatch",
+                "github": "AdoptOpenJDK/jitwatch",
+                "type": "github"
+            },
+            {
+                "title": "jitwatch-intellij",
+                "href": "https://github.com/yole/jitwatch-intellij",
+                "github": "yole/jitwatch-intellij",
+                "type": "github"
+            },
+            {
+                "title": "jmh-compare-gui",
+                "href": "https://github.com/akarnokd/jmh-compare-gui",
+                "github": "akarnokd/jmh-compare-gui",
+                "type": "github"
+            },
+            {
+                "title": "jvmtop",
+                "href": "https://github.com/patric-r/jvmtop",
+                "github": "patric-r/jvmtop",
+                "type": "github"
+            },
+            {
+                "title": "leakcanary",
+                "href": "https://github.com/square/leakcanary",
+                "github": "square/leakcanary",
+                "type": "github"
+            },
+            {
+                "title": "perf-map-agent",
+                "href": "https://github.com/jrudolph/perf-map-agent",
+                "github": "jrudolph/perf-map-agent",
+                "type": "github"
+            },
+            {
+                "title": "perfj",
+                "href": "https://github.com/coderplay/perfj",
+                "github": "coderplay/perfj",
+                "type": "github"
+            },
+            {
+                "title": "polarbear",
+                "href": "https://github.com/Cue/polarbear",
+                "github": "Cue/polarbear",
+                "type": "github"
+            },
+            {
+                "title": "Riemann JVM Profiler",
+                "href": "https://github.com/riemann/riemann-jvm-profiler",
+                "github": "riemann/riemann-jvm-profiler",
+                "type": "github"
+            },
+            {
+                "title": "statsd-jvm-profiler",
+                "href": "https://github.com/etsy/statsd-jvm-profiler",
+                "github": "etsy/statsd-jvm-profiler",
+                "type": "github"
+            },
+            {
+                "title": "Swiss Java Knife",
+                "href": "https://github.com/aragozin/jvm-tools",
+                "github": "aragozin/jvm-tools",
+                "type": "github"
+            },
+            {
+                "title": "Tracer",
+                "href": "https://github.com/zalando/tracer",
+                "github": "zalando/tracer",
+                "type": "github"
+            },
+            {
+                "title": "Zipkin",
+                "href": "https://github.com/openzipkin/zipkin",
+                "github": "openzipkin/zipkin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Runtimes",
+        "childrens": [
+            {
+                "title": "Capsule",
+                "href": "https://github.com/puniverse/capsule",
+                "github": "puniverse/capsule",
+                "type": "github"
+            },
+            {
+                "title": "Drip",
+                "href": "https://github.com/ninjudd/drip",
+                "github": "ninjudd/drip",
+                "type": "github"
+            },
+            {
+                "title": "HotswapAgent",
+                "href": "https://github.com/HotswapProjects/HotswapAgent",
+                "github": "HotswapProjects/HotswapAgent",
+                "type": "github"
+            },
+            {
+                "title": "jvmkill",
+                "href": "https://github.com/airlift/jvmkill",
+                "github": "airlift/jvmkill",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Virtual Machines",
+        "childrens": [
+            {
+                "title": "Avian",
+                "href": "https://github.com/ReadyTalk/avian",
+                "github": "ReadyTalk/avian",
+                "type": "github"
+            },
+            {
+                "title": "J2ObjC",
+                "href": "https://github.com/google/j2objc",
+                "github": "google/j2objc",
+                "type": "github"
+            },
+            {
+                "title": "jvm.go",
+                "href": "https://github.com/zxh0/jvm.go",
+                "github": "zxh0/jvm.go",
+                "type": "github"
+            },
+            {
+                "title": "ParparVM",
+                "href": "https://github.com/codenameone/CodenameOne/tree/master/vm",
+                "github": "codenameone/CodenameOne/tree/master/vm",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation",
+        "childrens": [
+            {
+                "title": "An introduction to distributed systems",
+                "href": "https://github.com/aphyr/distsys-class",
+                "github": "aphyr/distsys-class",
+                "type": "github"
+            }
+        ]
+    }
+]

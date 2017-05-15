@@ -1,0 +1,167 @@
+[
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "Github repository",
+                "href": "https://github.com/marionettejs/backbone.marionette",
+                "github": "marionettejs/backbone.marionette",
+                "type": "github"
+            },
+            {
+                "title": "Marionette Inspector",
+                "href": "https://github.com/marionettejs/marionette.inspector",
+                "github": "marionettejs/marionette.inspector",
+                "type": "github"
+            },
+            {
+                "title": "Yeoman generator for Marionette.js",
+                "href": "https://github.com/mrichard/generator-marionette",
+                "github": "mrichard/generator-marionette",
+                "type": "github"
+            },
+            {
+                "title": "Marionette CLI",
+                "href": "https://github.com/denar90/marionette-cli",
+                "github": "denar90/marionette-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Examples and boilerplates",
+        "childrens": [
+            {
+                "title": "Marionette Require Boilerplate",
+                "href": "https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate",
+                "github": "BoilerplateMVC/Marionette-Require-Boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Marionette Contact Manager",
+                "href": "https://github.com/dmytroyarmak/marionette-contact-manager",
+                "github": "dmytroyarmak/marionette-contact-manager",
+                "type": "github"
+            },
+            {
+                "title": "Marionette, Require, and Gulp.js Boilerplate",
+                "href": "https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate",
+                "github": "jroeckle/Marionette-Require-Gulpjs-Boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "MarionetteJS + RequireJS + Twitter Bootstrap",
+                "href": "https://github.com/ajaxray/marionette-boilerplate",
+                "github": "ajaxray/marionette-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Marionette Gentle Introduction",
+                "href": "https://github.com/davidsulc/marionette-gentle-introduction",
+                "github": "davidsulc/marionette-gentle-introduction",
+                "type": "github"
+            },
+            {
+                "title": "Marionette Wires",
+                "href": "https://github.com/thejameskyle/marionette-wires",
+                "github": "thejameskyle/marionette-wires",
+                "type": "github"
+            },
+            {
+                "title": "Marionette Cookbook",
+                "href": "https://github.com/MarionetteLabs/marionette-cookbook",
+                "github": "MarionetteLabs/marionette-cookbook",
+                "type": "github"
+            },
+            {
+                "title": "MarionetteJS + Brunch + Babel/ES6",
+                "href": "https://github.com/denar90/brunch-with-marionettejs",
+                "github": "denar90/brunch-with-marionettejs",
+                "type": "github"
+            },
+            {
+                "title": "A Place to Write About Technical Subjects on the Web",
+                "href": "https://github.com/jmeas/gistbook",
+                "github": "jmeas/gistbook",
+                "type": "github"
+            },
+            {
+                "title": "The Front End App for edit.sx",
+                "href": "https://github.com/samccone/edit.sx-frontend",
+                "github": "samccone/edit.sx-frontend",
+                "type": "github"
+            },
+            {
+                "title": "Streamus",
+                "href": "https://github.com/MeoMix/StreamusChromeExtension",
+                "github": "MeoMix/StreamusChromeExtension",
+                "type": "github"
+            },
+            {
+                "title": "Marionette-Integrations",
+                "href": "https://github.com/marionettejs/marionette-integrations",
+                "github": "marionettejs/marionette-integrations",
+                "type": "github"
+            },
+            {
+                "title": "ES6 Marionette Project",
+                "href": "https://github.com/abiee/es6-marionette",
+                "github": "abiee/es6-marionette",
+                "type": "github"
+            },
+            {
+                "title": "Todo List",
+                "href": "https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette",
+                "github": "tastejs/todomvc/tree/master/examples/backbone_marionette",
+                "type": "github"
+            },
+            {
+                "title": "Webpack-Marionette",
+                "href": "https://github.com/alexpsi/webpack-marionette",
+                "github": "alexpsi/webpack-marionette",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Libraries",
+        "childrens": [
+            {
+                "title": "Marionette State",
+                "href": "https://github.com/Squareknot/marionette.state",
+                "github": "Squareknot/marionette.state",
+                "type": "github"
+            },
+            {
+                "title": "Marionette Virtual Dom",
+                "href": "https://github.com/tiagorg/marionette-vdom",
+                "github": "tiagorg/marionette-vdom",
+                "type": "github"
+            },
+            {
+                "title": "Marionette Form View",
+                "href": "https://github.com/viverae/marionette.formview",
+                "github": "viverae/marionette.formview",
+                "type": "github"
+            },
+            {
+                "title": "A Better Router for Backbone and Marionette Applications",
+                "href": "https://github.com/Betterment/backbone.blazer",
+                "github": "Betterment/backbone.blazer",
+                "type": "github"
+            },
+            {
+                "title": "Marionette.Toolkit",
+                "href": "https://github.com/RoundingWellOS/marionette.toolkit",
+                "github": "RoundingWellOS/marionette.toolkit",
+                "type": "github"
+            },
+            {
+                "title": "Orchestra",
+                "href": "https://github.com/BedeGaming/orchestra",
+                "github": "BedeGaming/orchestra",
+                "type": "github"
+            }
+        ]
+    }
+]

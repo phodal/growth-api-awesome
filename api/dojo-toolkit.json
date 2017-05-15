@@ -1,0 +1,393 @@
+[
+    {
+        "heading": "DojoToolkit.org resources and documentation",
+        "childrens": [
+            {
+                "title": "Reference guide",
+                "href": "https://github.com/dojo/docs",
+                "github": "dojo/docs",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Meta",
+                "href": "https://github.com/dojo/meta",
+                "github": "dojo/meta",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Website",
+                "href": "https://github.com/dojo/dojo-website",
+                "github": "dojo/dojo-website",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Dojo Toolkit 1.9 tutorial",
+                "href": "https://github.com/cepa/dojo-tutorial",
+                "github": "cepa/dojo-tutorial",
+                "type": "github"
+            },
+            {
+                "title": "Dojo the Good parts",
+                "href": "https://github.com/DavidSpriggs/Dojo--The-Good-Parts",
+                "github": "DavidSpriggs/Dojo--The-Good-Parts",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bootstraps and boilerplates",
+        "childrens": [
+            {
+                "title": "dboostrap",
+                "href": "https://github.com/atoha/dbootstrap",
+                "github": "atoha/dbootstrap",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Boilerplate",
+                "href": "https://github.com/csnover/dojo-boilerplate",
+                "github": "csnover/dojo-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Twitter bootstrap",
+                "href": "https://github.com/xsokev/Dojo-Bootstrap",
+                "github": "xsokev/Dojo-Bootstrap",
+                "type": "github"
+            },
+            {
+                "title": "dojo.js",
+                "href": "https://github.com/gpedro/dojo.js",
+                "github": "gpedro/dojo.js",
+                "type": "github"
+            },
+            {
+                "title": "dojo-node-boilerplate",
+                "href": "https://github.com/kitsonk/dojo-node-boilerplate",
+                "github": "kitsonk/dojo-node-boilerplate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Packages, libraries and scripts",
+        "childrens": [
+            {
+                "title": "AngularJS Dojo",
+                "href": "https://github.com/adrobisch/angular-dojo",
+                "github": "adrobisch/angular-dojo",
+                "type": "github"
+            },
+            {
+                "title": "delite",
+                "href": "https://github.com/ibm-js/delite",
+                "github": "ibm-js/delite",
+                "type": "github"
+            },
+            {
+                "title": "deliteful",
+                "href": "https://github.com/ibm-js/deliteful",
+                "github": "ibm-js/deliteful",
+                "type": "github"
+            },
+            {
+                "title": "dojo-smore",
+                "href": "https://github.com/kfranqueiro/dojo-smore",
+                "github": "kfranqueiro/dojo-smore",
+                "type": "github"
+            },
+            {
+                "title": "generator-dojo",
+                "href": "https://github.com/bryanforbes/generator-dojo",
+                "github": "bryanforbes/generator-dojo",
+                "type": "github"
+            },
+            {
+                "title": "grunt-dojo",
+                "href": "https://github.com/phated/grunt-dojo",
+                "github": "phated/grunt-dojo",
+                "type": "github"
+            },
+            {
+                "title": "grunt-dojo2",
+                "href": "https://github.com/dojo/grunt-dojo2",
+                "github": "dojo/grunt-dojo2",
+                "type": "github"
+            },
+            {
+                "title": "karma-dojo",
+                "href": "https://github.com/garcimouche/karma-dojo",
+                "github": "garcimouche/karma-dojo",
+                "type": "github"
+            },
+            {
+                "title": "Leadfoot",
+                "href": "https://github.com/theintern/leadfoot",
+                "github": "theintern/leadfoot",
+                "type": "github"
+            },
+            {
+                "title": "Sitepen dstore",
+                "href": "https://github.com/SitePen/dstore",
+                "github": "SitePen/dstore",
+                "type": "github"
+            },
+            {
+                "title": "xaction",
+                "href": "https://github.com/xblox/xaction",
+                "github": "xblox/xaction",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dojo 2",
+        "childrens": [
+            {
+                "title": "Dojo core",
+                "href": "https://github.com/dojo/core",
+                "github": "dojo/core",
+                "type": "github"
+            },
+            {
+                "title": "DOM Utilities",
+                "href": "https://github.com/dojo/dom",
+                "github": "dojo/dom",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Command Line Tooling",
+                "href": "https://github.com/dojo/cli",
+                "github": "dojo/cli",
+                "type": "github"
+            },
+            {
+                "title": "Dojo loader",
+                "href": "https://github.com/dojo/loader",
+                "github": "dojo/loader",
+                "type": "github"
+            },
+            {
+                "title": "Dojo routing",
+                "href": "https://github.com/dojo/routing",
+                "github": "dojo/routing",
+                "type": "github"
+            },
+            {
+                "title": "Dojo compose",
+                "href": "https://github.com/dojo/compose",
+                "github": "dojo/compose",
+                "type": "github"
+            },
+            {
+                "title": "Dojo widgets",
+                "href": "https://github.com/dojo/widgets",
+                "github": "dojo/widgets",
+                "type": "github"
+            },
+            {
+                "title": "Dojo has",
+                "href": "https://github.com/dojo/has",
+                "github": "dojo/has",
+                "type": "github"
+            },
+            {
+                "title": "Dojo shim",
+                "href": "https://github.com/dojo/shim",
+                "github": "dojo/shim",
+                "type": "github"
+            },
+            {
+                "title": "Dojo parse",
+                "href": "https://github.com/dojo/parser",
+                "github": "dojo/parser",
+                "type": "github"
+            },
+            {
+                "title": "Dojo2 App",
+                "href": "https://github.com/dojo/app",
+                "github": "dojo/app",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Serverside integrations",
+        "childrens": [
+            {
+                "title": "Dojango",
+                "href": "https://github.com/klipstein/dojango/",
+                "github": "klipstein/dojango/",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Maven",
+                "href": "https://github.com/cometd/dojo-maven",
+                "github": "cometd/dojo-maven",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "Intern",
+                "href": "https://github.com/theintern/",
+                "github": "theintern/",
+                "type": "github"
+            },
+            {
+                "title": "Intern Yeoman page objects",
+                "href": "https://github.com/glamb/generator-internjs-pageobjects/",
+                "github": "glamb/generator-internjs-pageobjects/",
+                "type": "github"
+            },
+            {
+                "title": "Intern Yeoman generator",
+                "href": "https://github.com/naglalakk/generator-intern",
+                "github": "naglalakk/generator-intern",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Applications",
+        "childrens": [
+            {
+                "title": "AuShada",
+                "href": "https://github.com/dreaswar/AuShadha",
+                "github": "dreaswar/AuShadha",
+                "type": "github"
+            },
+            {
+                "title": "dapi",
+                "href": "https://github.com/dojo/dapi",
+                "github": "dojo/dapi",
+                "type": "github"
+            },
+            {
+                "title": "Dig Dug",
+                "href": "https://github.com/theintern/digdug",
+                "github": "theintern/digdug",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Demo",
+                "href": "https://github.com/rmurphey/dojo-demo",
+                "github": "rmurphey/dojo-demo",
+                "type": "github"
+            },
+            {
+                "title": "dojorama",
+                "href": "https://github.com/sirprize/dojorama",
+                "github": "sirprize/dojorama",
+                "type": "github"
+            },
+            {
+                "title": "Dojox application",
+                "href": "https://github.com/dmachi/dojox_application",
+                "github": "dmachi/dojox_application",
+                "type": "github"
+            },
+            {
+                "title": "js-doc-parse",
+                "href": "https://github.com/dojo/js-doc-parse",
+                "github": "dojo/js-doc-parse",
+                "type": "github"
+            },
+            {
+                "title": "rstwiki",
+                "href": "https://github.com/phiggins42/rstwiki",
+                "github": "phiggins42/rstwiki",
+                "type": "github"
+            },
+            {
+                "title": "Scripted",
+                "href": "https://github.com/scripted-editor",
+                "github": "scripted-editor",
+                "type": "github"
+            },
+            {
+                "title": "todomvc",
+                "href": "https://github.com/tastejs/todomvc",
+                "github": "tastejs/todomvc",
+                "type": "github"
+            },
+            {
+                "title": "Dojo2 Example",
+                "href": "https://github.com/dojo/examples",
+                "github": "dojo/examples",
+                "type": "github"
+            },
+            {
+                "title": "xamiro",
+                "href": "https://github.com/xblox/xamiro",
+                "github": "xblox/xamiro",
+                "type": "github"
+            },
+            {
+                "title": "Windows-dist",
+                "href": "https://github.com/flysurfer28/windows-dist",
+                "github": "flysurfer28/windows-dist",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Themes",
+        "childrens": [
+            {
+                "title": "dijit-claro-stylus",
+                "href": "https://github.com/kfranqueiro/dijit-claro-stylus",
+                "github": "kfranqueiro/dijit-claro-stylus",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "TypeScript",
+        "childrens": [
+            {
+                "title": "Dojo to Typescript Converter",
+                "href": "https://github.com/stopyoukid/DojoToTypescriptConverter",
+                "github": "stopyoukid/DojoToTypescriptConverter",
+                "type": "github"
+            },
+            {
+                "title": "Dojo-TypeScript",
+                "href": "https://github.com/schungx/Dojo-TypeScript",
+                "github": "schungx/Dojo-TypeScript",
+                "type": "github"
+            },
+            {
+                "title": "Dojo Typings",
+                "href": "https://github.com/dojo/typings",
+                "github": "dojo/typings",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Lists",
+        "childrens": [
+            {
+                "title": "awesome-javascript",
+                "href": "https://github.com/sorrycc/awesome-javascript",
+                "github": "sorrycc/awesome-javascript",
+                "type": "github"
+            },
+            {
+                "title": "awesome-javascript-books",
+                "href": "https://github.com/heatroom/awesome-javascript-books",
+                "github": "heatroom/awesome-javascript-books",
+                "type": "github"
+            }
+        ]
+    }
+]

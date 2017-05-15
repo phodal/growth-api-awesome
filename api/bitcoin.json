@@ -1,0 +1,272 @@
+[
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "Pycoin",
+                "href": "https://github.com/richardkiss/pycoin",
+                "github": "richardkiss/pycoin",
+                "type": "github"
+            },
+            {
+                "title": "sx",
+                "href": "https://github.com/spesmilo/sx/",
+                "github": "spesmilo/sx/",
+                "type": "github"
+            },
+            {
+                "title": "bx",
+                "href": "https://github.com/libbitcoin/libbitcoin-explorer",
+                "github": "libbitcoin/libbitcoin-explorer",
+                "type": "github"
+            },
+            {
+                "title": "txwatcher",
+                "href": "https://github.com/tsileo/txwatcher",
+                "github": "tsileo/txwatcher",
+                "type": "github"
+            },
+            {
+                "title": "hellobitcoin",
+                "href": "https://github.com/prettymuchbryce/hellobitcoin",
+                "github": "prettymuchbryce/hellobitcoin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blockchain Explorers",
+        "childrens": [
+            {
+                "title": "Bitcoin Transaction Explorer",
+                "href": "https://github.com/JornC/bitcoin-transaction-explorer",
+                "github": "JornC/bitcoin-transaction-explorer",
+                "type": "github"
+            },
+            {
+                "title": "Blockexplorer.com",
+                "href": "https://github.com/bitcoin-blockexplorer/old-blockexplorer-php",
+                "github": "bitcoin-blockexplorer/old-blockexplorer-php",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "JavaScript Libraries",
+        "childrens": [
+            {
+                "title": "Awesome CryptoCoinJS",
+                "href": "https://github.com/cryptocoinjs/awesome-cryptocoinjs",
+                "github": "cryptocoinjs/awesome-cryptocoinjs",
+                "type": "github"
+            },
+            {
+                "title": "Bitcore Library",
+                "href": "https://github.com/bitpay/bitcore-lib",
+                "github": "bitpay/bitcore-lib",
+                "type": "github"
+            },
+            {
+                "title": "Bitcoinjs-lib",
+                "href": "https://github.com/bitcoinjs/bitcoinjs-lib",
+                "github": "bitcoinjs/bitcoinjs-lib",
+                "type": "github"
+            },
+            {
+                "title": "Cryptocoin",
+                "href": "https://github.com/cryptocoinjs/cryptocoin",
+                "github": "cryptocoinjs/cryptocoin",
+                "type": "github"
+            },
+            {
+                "title": "BlockTrail SDK NodeJS",
+                "href": "https://github.com/blocktrail/blocktrail-sdk-nodejs",
+                "github": "blocktrail/blocktrail-sdk-nodejs",
+                "type": "github"
+            },
+            {
+                "title": "bcoin",
+                "href": "https://github.com/bcoin-org/bcoin",
+                "github": "bcoin-org/bcoin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP Libraries",
+        "childrens": [
+            {
+                "title": "PHP-OP_RETURN",
+                "href": "https://github.com/coinspark/php-OP_RETURN",
+                "github": "coinspark/php-OP_RETURN",
+                "type": "github"
+            },
+            {
+                "title": "BlockTrail PHP SDK",
+                "href": "https://github.com/blocktrail/blocktrail-sdk-php",
+                "github": "blocktrail/blocktrail-sdk-php",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ruby Libraries",
+        "childrens": [
+            {
+                "title": "Bitcoin-ruby",
+                "href": "https://github.com/lian/bitcoin-ruby",
+                "github": "lian/bitcoin-ruby",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python Libraries",
+        "childrens": [
+            {
+                "title": "BlockTrail SDK Python",
+                "href": "https://github.com/blocktrail/blocktrail-sdk-python",
+                "github": "blocktrail/blocktrail-sdk-python",
+                "type": "github"
+            },
+            {
+                "title": "btctxstore",
+                "href": "https://github.com/F483/btctxstore",
+                "github": "F483/btctxstore",
+                "type": "github"
+            },
+            {
+                "title": "pybitcointools",
+                "href": "https://github.com/vbuterin/pybitcointools",
+                "github": "vbuterin/pybitcointools",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java Libraries",
+        "childrens": [
+            {
+                "title": "XChange",
+                "href": "https://github.com/timmolter/XChange",
+                "github": "timmolter/XChange",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": ".Net Libraries",
+        "childrens": [
+            {
+                "title": "NBitcoin",
+                "href": "https://github.com/MetacoSA/NBitcoin",
+                "github": "MetacoSA/NBitcoin",
+                "type": "github"
+            },
+            {
+                "title": "BitcoinLib",
+                "href": "https://github.com/GeorgeKimionis/BitcoinLib",
+                "github": "GeorgeKimionis/BitcoinLib",
+                "type": "github"
+            },
+            {
+                "title": "QBitNinja",
+                "href": "https://github.com/MetacoSA/QBitNinja",
+                "github": "MetacoSA/QBitNinja",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Playgrounds",
+        "childrens": [
+            {
+                "title": "blockchain-demo",
+                "href": "https://github.com/anders94/blockchain-demo/",
+                "github": "anders94/blockchain-demo/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blockchain dump",
+        "childrens": [
+            {
+                "title": "BitcoinDatabaseGenerator",
+                "href": "https://github.com/ladimolnar/BitcoinDatabaseGenerator",
+                "github": "ladimolnar/BitcoinDatabaseGenerator",
+                "type": "github"
+            },
+            {
+                "title": "Blockparser+SQL",
+                "href": "https://github.com/mcdee/blockparser",
+                "github": "mcdee/blockparser",
+                "type": "github"
+            },
+            {
+                "title": "BitcoinABE",
+                "href": "https://github.com/bitcoin-abe/bitcoin-abe",
+                "github": "bitcoin-abe/bitcoin-abe",
+                "type": "github"
+            },
+            {
+                "title": "NBitcoin.Indexer",
+                "href": "https://github.com/MetacoSA/NBitcoin.Indexer",
+                "github": "MetacoSA/NBitcoin.Indexer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Full nodes",
+        "childrens": [
+            {
+                "title": "Bitcoinjs-server",
+                "href": "https://github.com/bitcoinjs/bitcoinjs-server",
+                "github": "bitcoinjs/bitcoinjs-server",
+                "type": "github"
+            },
+            {
+                "title": "Bitcoin-ruby-node",
+                "href": "https://github.com/mhanne/bitcoin-ruby-node",
+                "github": "mhanne/bitcoin-ruby-node",
+                "type": "github"
+            },
+            {
+                "title": "Fullnode",
+                "href": "https://github.com/ryanxcharles/fullnode",
+                "github": "ryanxcharles/fullnode",
+                "type": "github"
+            },
+            {
+                "title": "Insight API",
+                "href": "https://github.com/bitpay/insight-api",
+                "github": "bitpay/insight-api",
+                "type": "github"
+            },
+            {
+                "title": "Bitcoind.JS",
+                "href": "https://github.com/bitpay/bitcoind.js",
+                "github": "bitpay/bitcoind.js",
+                "type": "github"
+            },
+            {
+                "title": "Bitcore",
+                "href": "https://github.com/bitpay/bitcore",
+                "github": "bitpay/bitcore",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Read",
+        "childrens": [
+            {
+                "title": "Mastering Bitcoin",
+                "href": "https://github.com/aantonop/bitcoinbook",
+                "github": "aantonop/bitcoinbook",
+                "type": "github"
+            }
+        ]
+    }
+]

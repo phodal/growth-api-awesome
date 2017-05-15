@@ -1,0 +1,396 @@
+[
+    {
+        "heading": "Audio",
+        "childrens": [
+            {
+                "title": "BackgroundMusic",
+                "href": "https://github.com/kyleneideck/BackgroundMusic",
+                "github": "kyleneideck/BackgroundMusic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Chat Clients",
+        "childrens": [
+            {
+                "title": "ChitChat",
+                "href": "https://github.com/stonesam92/ChitChat",
+                "github": "stonesam92/ChitChat",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Developers",
+        "childrens": [
+            {
+                "title": "Gas Mask",
+                "href": "https://github.com/2ndalpha/gasmask",
+                "github": "2ndalpha/gasmask",
+                "type": "github"
+            },
+            {
+                "title": "gitbar",
+                "href": "https://github.com/Shikkic/gitbar",
+                "github": "Shikkic/gitbar",
+                "type": "github"
+            },
+            {
+                "title": "GitHub Desktop",
+                "href": "https://desktop.github.com/",
+                "github": "hub.com/",
+                "type": "github"
+            },
+            {
+                "title": "Hosts",
+                "href": "https://github.com/specialunderwear/Hosts.prefpane",
+                "github": "specialunderwear/Hosts.prefpane",
+                "type": "github"
+            },
+            {
+                "title": "Knuff",
+                "href": "https://github.com/KnuffApp/Knuff",
+                "github": "KnuffApp/Knuff",
+                "type": "github"
+            },
+            {
+                "title": "QorumLogs",
+                "href": "https://github.com/goktugyil/QorumLogs",
+                "github": "goktugyil/QorumLogs",
+                "type": "github"
+            },
+            {
+                "title": "Touch Bar Simulator",
+                "href": "https://github.com/sindresorhus/touch-bar-simulator",
+                "github": "sindresorhus/touch-bar-simulator",
+                "type": "github"
+            },
+            {
+                "title": "WWDC",
+                "href": "https://github.com/insidegui/WWDC",
+                "github": "insidegui/WWDC",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Editors",
+        "childrens": [
+            {
+                "title": "MacVim",
+                "href": "https://github.com/macvim-dev/macvim",
+                "github": "macvim-dev/macvim",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Finder",
+        "childrens": [
+            {
+                "title": "Quicklook-Plugins",
+                "href": "https://github.com/sindresorhus/quick-look-plugins",
+                "github": "sindresorhus/quick-look-plugins",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graphics",
+        "childrens": [
+            {
+                "title": "GifCapture",
+                "href": "https://github.com/onmyway133/GifCapture",
+                "github": "onmyway133/GifCapture",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Sharing Files",
+        "childrens": [
+            {
+                "title": "mac2imgur",
+                "href": "https://github.com/mileswd/mac2imgur",
+                "github": "mileswd/mac2imgur",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "AnyBar",
+                "href": "https://github.com/tonsky/AnyBar",
+                "github": "tonsky/AnyBar",
+                "type": "github"
+            },
+            {
+                "title": "APNGb",
+                "href": "https://github.com/mancunianetz/APNGb",
+                "github": "mancunianetz/APNGb",
+                "type": "github"
+            },
+            {
+                "title": "BeardedSpice",
+                "href": "https://github.com/beardedspice/beardedspice",
+                "github": "beardedspice/beardedspice",
+                "type": "github"
+            },
+            {
+                "title": "BitBar",
+                "href": "https://github.com/matryer/bitbar",
+                "github": "matryer/bitbar",
+                "type": "github"
+            },
+            {
+                "title": "DisableMonitor",
+                "href": "https://github.com/Eun/DisableMonitor",
+                "github": "Eun/DisableMonitor",
+                "type": "github"
+            },
+            {
+                "title": "Kawa",
+                "href": "https://github.com/noraesae/kawa",
+                "github": "noraesae/kawa",
+                "type": "github"
+            },
+            {
+                "title": "KeepingYouAwake",
+                "href": "https://github.com/newmarcel/KeepingYouAwake",
+                "github": "newmarcel/KeepingYouAwake",
+                "type": "github"
+            },
+            {
+                "title": "Mackup",
+                "href": "https://github.com/lra/mackup",
+                "github": "lra/mackup",
+                "type": "github"
+            },
+            {
+                "title": "Menubar Colors",
+                "href": "https://github.com/nvzqz/Menubar-Colors",
+                "github": "nvzqz/Menubar-Colors",
+                "type": "github"
+            },
+            {
+                "title": "ShiftIt",
+                "href": "https://github.com/fikovnik/ShiftIt",
+                "github": "fikovnik/ShiftIt",
+                "type": "github"
+            },
+            {
+                "title": "SlowQuitApps",
+                "href": "https://github.com/dteoh/SlowQuitApps",
+                "github": "dteoh/SlowQuitApps",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Window Management",
+        "childrens": [
+            {
+                "title": "Phoenix",
+                "href": "https://github.com/kasper/phoenix",
+                "github": "kasper/phoenix",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Others",
+        "childrens": [
+            {
+                "title": "Aerial",
+                "href": "https://github.com/JohnCoates/Aerial",
+                "github": "JohnCoates/Aerial",
+                "type": "github"
+            },
+            {
+                "title": "gInbox",
+                "href": "https://github.com/chenasraf/gInbox",
+                "github": "chenasraf/gInbox",
+                "type": "github"
+            },
+            {
+                "title": "Sonora",
+                "href": "https://github.com/sonoramac/Sonora",
+                "github": "sonoramac/Sonora",
+                "type": "github"
+            },
+            {
+                "title": "Juice",
+                "href": "https://github.com/brianmichel/Juice",
+                "github": "brianmichel/Juice",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Command Line Utilities",
+        "childrens": [
+            {
+                "title": "Awesome macOS Command Line",
+                "href": "https://github.com/herrbischoff/awesome-osx-command-line",
+                "github": "herrbischoff/awesome-osx-command-line",
+                "type": "github"
+            },
+            {
+                "title": "m-cli",
+                "href": "https://github.com/rgcr/m-cli",
+                "github": "rgcr/m-cli",
+                "type": "github"
+            },
+            {
+                "title": "Mac-CLI",
+                "href": "https://github.com/guarinogabriel/Mac-CLI",
+                "github": "guarinogabriel/Mac-CLI",
+                "type": "github"
+            },
+            {
+                "title": "mas",
+                "href": "https://github.com/mas-cli/mas",
+                "github": "mas-cli/mas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "macOS Utilities",
+        "childrens": [
+            {
+                "title": "EnvPane",
+                "href": "https://github.com/hschmidt/EnvPane",
+                "github": "hschmidt/EnvPane",
+                "type": "github"
+            },
+            {
+                "title": "Glances",
+                "href": "https://github.com/nicolargo/glances",
+                "github": "nicolargo/glances",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DevMyMac",
+        "childrens": [
+            {
+                "title": "https://github.com/adamisntdead/DevMyMac",
+                "href": "https://github.com/adamisntdead/DevMyMac",
+                "github": "adamisntdead/DevMyMac",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "laptop",
+        "childrens": [
+            {
+                "title": "https://github.com/thoughtbot/laptop",
+                "href": "https://github.com/thoughtbot/laptop",
+                "github": "thoughtbot/laptop",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "mac-dev-setup",
+        "childrens": [
+            {
+                "title": "https://github.com/nicolashery/mac-dev-setup",
+                "href": "https://github.com/nicolashery/mac-dev-setup",
+                "github": "nicolashery/mac-dev-setup",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "macOS 10.9 Mavericks Setup",
+        "childrens": [
+            {
+                "title": "https://gist.github.com/kevinelliott/3135044",
+                "href": "https://gist.github.com/kevinelliott/3135044",
+                "github": ".com/kevinelliott/3135044",
+                "type": "github"
+            },
+            {
+                "title": "https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce",
+                "href": "https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce",
+                "github": ".com/kimmobrunfeldt/350f4898d1b82cf10bce",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "macOS 10.10 Yosemite Setup",
+        "childrens": [
+            {
+                "title": "https://gist.github.com/kevinelliott/0726211d17020a6abc1f",
+                "href": "https://gist.github.com/kevinelliott/0726211d17020a6abc1f",
+                "github": ".com/kevinelliott/0726211d17020a6abc1f",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "macOS 10.11 El Capitan Setup",
+        "childrens": [
+            {
+                "title": "https://gist.github.com/saetia/1623487",
+                "href": "https://gist.github.com/saetia/1623487",
+                "github": ".com/saetia/1623487",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Security",
+        "childrens": [
+            {
+                "title": "macchanger by shilch",
+                "href": "https://github.com/shilch/macchanger/",
+                "github": "shilch/macchanger/",
+                "type": "github"
+            },
+            {
+                "title": "MIDAS",
+                "href": "https://github.com/etsy/MIDAS",
+                "github": "etsy/MIDAS",
+                "type": "github"
+            },
+            {
+                "title": "OS-X-Security-and-Privacy-Guide",
+                "href": "https://github.com/drduh/OS-X-Security-and-Privacy-Guide",
+                "github": "drduh/OS-X-Security-and-Privacy-Guide",
+                "type": "github"
+            },
+            {
+                "title": "OSXCollector",
+                "href": "https://github.com/Yelp/osxcollector",
+                "github": "Yelp/osxcollector",
+                "type": "github"
+            },
+            {
+                "title": "santa",
+                "href": "https://github.com/google/santa",
+                "github": "google/santa",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Awesome Screensavers",
+                "href": "https://github.com/aharris88/awesome-osx-screensavers",
+                "github": "aharris88/awesome-osx-screensavers",
+                "type": "github"
+            }
+        ]
+    }
+]

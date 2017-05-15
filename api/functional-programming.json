@@ -1,0 +1,43 @@
+[
+    {
+        "heading": "Repos",
+        "childrens": [
+            {
+                "title": "Idris Koans",
+                "href": "https://github.com/idris-hackers/idris-koans",
+                "github": "idris-hackers/idris-koans",
+                "type": "github"
+            },
+            {
+                "title": "Functional Javascript Workshop",
+                "href": "https://github.com/timoxley/functional-javascript-workshop",
+                "github": "timoxley/functional-javascript-workshop",
+                "type": "github"
+            },
+            {
+                "title": "J-Bob",
+                "href": "https://github.com/the-little-prover/j-bob",
+                "github": "the-little-prover/j-bob",
+                "type": "github"
+            },
+            {
+                "title": "Haskell Must Watch",
+                "href": "https://github.com/olehkuchuk/haskell-must-watch",
+                "github": "olehkuchuk/haskell-must-watch",
+                "type": "github"
+            },
+            {
+                "title": "Functional Programming In JavaScript",
+                "href": "https://github.com/busypeoples/functional-programming-javascript",
+                "github": "busypeoples/functional-programming-javascript",
+                "type": "github"
+            },
+            {
+                "title": "Functional Programming Jargon",
+                "href": "https://github.com/hemanth/functional-programming-jargon",
+                "github": "hemanth/functional-programming-jargon",
+                "type": "github"
+            }
+        ]
+    }
+]

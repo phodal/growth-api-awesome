@@ -1,0 +1,178 @@
+[
+    {
+        "heading": "Official Resources",
+        "childrens": [
+            {
+                "title": "Docs",
+                "href": "https://github.com/substack/node-browserify#usage",
+                "github": "substack/node-browserify#usage",
+                "type": "github"
+            },
+            {
+                "title": "Handbook",
+                "href": "https://github.com/substack/browserify-handbook",
+                "github": "substack/browserify-handbook",
+                "type": "github"
+            },
+            {
+                "title": "Repo",
+                "href": "https://github.com/substack/node-browserify",
+                "github": "substack/node-browserify",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Browserify Adventure",
+                "href": "https://github.com/workshopper/browserify-adventure",
+                "github": "workshopper/browserify-adventure",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Articles",
+        "childrens": [
+            {
+                "title": "Browserify for Webpack users",
+                "href": "https://gist.github.com/substack/68f8d502be42d5cd4942",
+                "github": ".com/substack/68f8d502be42d5cd4942",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development Servers",
+        "childrens": [
+            {
+                "title": "budo",
+                "href": "https://github.com/mattdesl/budo",
+                "github": "mattdesl/budo",
+                "type": "github"
+            },
+            {
+                "title": "beefy",
+                "href": "https://github.com/chrisdickinson/beefy",
+                "github": "chrisdickinson/beefy",
+                "type": "github"
+            },
+            {
+                "title": "wzrd",
+                "href": "https://github.com/maxogden/wzrd",
+                "github": "maxogden/wzrd",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Plugins",
+        "childrens": [
+            {
+                "title": "browserify-hmr",
+                "href": "https://github.com/AgentME/browserify-hmr",
+                "github": "AgentME/browserify-hmr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Watchers",
+        "childrens": [
+            {
+                "title": "watchify",
+                "href": "https://github.com/substack/watchify",
+                "github": "substack/watchify",
+                "type": "github"
+            },
+            {
+                "title": "persistify",
+                "href": "https://github.com/royriojas/persistify",
+                "github": "royriojas/persistify",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CSS bundlers",
+        "childrens": [
+            {
+                "title": "sheetify",
+                "href": "https://github.com/stackcss/sheetify",
+                "github": "stackcss/sheetify",
+                "type": "github"
+            },
+            {
+                "title": "parcelify",
+                "href": "https://github.com/rotundasoftware/parcelify",
+                "github": "rotundasoftware/parcelify",
+                "type": "github"
+            },
+            {
+                "title": "css-modulesify",
+                "href": "https://github.com/css-modules/css-modulesify",
+                "github": "css-modules/css-modulesify",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Transforms",
+        "childrens": [
+            {
+                "title": "babelify",
+                "href": "https://github.com/babel/babelify",
+                "github": "babel/babelify",
+                "type": "github"
+            },
+            {
+                "title": "aliasify",
+                "href": "https://github.com/benbria/aliasify",
+                "github": "benbria/aliasify",
+                "type": "github"
+            },
+            {
+                "title": "brfs",
+                "href": "https://github.com/substack/brfs",
+                "github": "substack/brfs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Node in the Browser",
+        "childrens": [
+            {
+                "title": "crypto-browserify",
+                "href": "https://github.com/crypto-browserify/crypto-browserify",
+                "github": "crypto-browserify/crypto-browserify",
+                "type": "github"
+            },
+            {
+                "title": "stream-browserify",
+                "href": "https://github.com/substack/stream-browserify",
+                "github": "substack/stream-browserify",
+                "type": "github"
+            },
+            {
+                "title": "buffer",
+                "href": "https://github.com/feross/buffer",
+                "github": "feross/buffer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Production Tools",
+        "childrens": [
+            {
+                "title": "bankai",
+                "href": "https://github.com/yoshuawuyts/bankai",
+                "github": "yoshuawuyts/bankai",
+                "type": "github"
+            }
+        ]
+    }
+]

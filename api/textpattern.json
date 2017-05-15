@@ -1,0 +1,412 @@
+[
+    {
+        "childrens": [
+            {
+                "title": "Plugins",
+                "href": "https://github.com/drmonkeyninja/awesome-textpattern#plugins",
+                "github": "drmonkeyninja/awesome-textpattern#plugins",
+                "type": "github"
+            },
+            {
+                "title": "Plugin Development",
+                "href": "https://github.com/drmonkeyninja/awesome-textpattern#development",
+                "github": "drmonkeyninja/awesome-textpattern#development",
+                "type": "github"
+            },
+            {
+                "title": "Themes",
+                "href": "https://github.com/drmonkeyninja/awesome-textpattern#themes",
+                "github": "drmonkeyninja/awesome-textpattern#themes",
+                "type": "github"
+            },
+            {
+                "title": "Resources",
+                "href": "https://github.com/drmonkeyninja/awesome-textpattern#resources",
+                "github": "drmonkeyninja/awesome-textpattern#resources",
+                "type": "github"
+            },
+            {
+                "title": "Community",
+                "href": "https://github.com/drmonkeyninja/awesome-textpattern#community",
+                "github": "drmonkeyninja/awesome-textpattern#community",
+                "type": "github"
+            },
+            {
+                "title": "Related",
+                "href": "https://github.com/drmonkeyninja/awesome-textpattern#related",
+                "github": "drmonkeyninja/awesome-textpattern#related",
+                "type": "github"
+            },
+            {
+                "title": "License",
+                "href": "https://github.com/drmonkeyninja/awesome-textpattern#license",
+                "github": "drmonkeyninja/awesome-textpattern#license",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "cbe_frontauth",
+                "href": "https://github.com/ClaireBrione/cbe_frontauth",
+                "github": "ClaireBrione/cbe_frontauth",
+                "type": "github"
+            },
+            {
+                "title": "hak_tinymce",
+                "href": "https://github.com/hakjoon/hak_tinymce",
+                "github": "hakjoon/hak_tinymce",
+                "type": "github"
+            },
+            {
+                "title": "jbx_multiple_image_upload",
+                "href": "https://github.com/jbach/jbx_multiple_image_upload",
+                "github": "jbach/jbx_multiple_image_upload",
+                "type": "github"
+            },
+            {
+                "title": "rah_privileges",
+                "href": "https://github.com/gocom/rah_privileges",
+                "github": "gocom/rah_privileges",
+                "type": "github"
+            },
+            {
+                "title": "spf_codemirror",
+                "href": "https://github.com/spiffin/spf_codemirror",
+                "github": "spiffin/spf_codemirror",
+                "type": "github"
+            },
+            {
+                "title": "spf_js",
+                "href": "https://github.com/spiffin/spf_js",
+                "github": "spiffin/spf_js",
+                "type": "github"
+            },
+            {
+                "title": "tom_image_grid",
+                "href": "https://github.com/Sacripant/tom_image_grid",
+                "github": "Sacripant/tom_image_grid",
+                "type": "github"
+            },
+            {
+                "title": "yab_copy_to_new",
+                "href": "https://github.com/trenc/yab_copy_to_new",
+                "github": "trenc/yab_copy_to_new",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "arc_admin_comment_preview",
+                "href": "https://github.com/drmonkeyninja/arc_admin_comment_preview",
+                "github": "drmonkeyninja/arc_admin_comment_preview",
+                "type": "github"
+            },
+            {
+                "title": "jnm_recent_comments_unique",
+                "href": "https://github.com/juanjonavarro/jnm_recent_comments_unique",
+                "github": "juanjonavarro/jnm_recent_comments_unique",
+                "type": "github"
+            },
+            {
+                "title": "rah_comments",
+                "href": "https://github.com/gocom/rah_comments",
+                "github": "gocom/rah_comments",
+                "type": "github"
+            },
+            {
+                "title": "rah_comment_spam",
+                "href": "https://github.com/gocom/rah_comment_spam",
+                "github": "gocom/rah_comment_spam",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "glz_custom_fields",
+                "href": "https://github.com/gerhard/glz_custom_fields",
+                "github": "gerhard/glz_custom_fields",
+                "type": "github"
+            },
+            {
+                "title": "smd_tags",
+                "href": "https://github.com/Bloke/smd_tags",
+                "github": "Bloke/smd_tags",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "arc_vimeo",
+                "href": "https://github.com/drmonkeyninja/arc_vimeo",
+                "github": "drmonkeyninja/arc_vimeo",
+                "type": "github"
+            },
+            {
+                "title": "arc_youtube",
+                "href": "https://github.com/drmonkeyninja/arc_youtube",
+                "github": "drmonkeyninja/arc_youtube",
+                "type": "github"
+            },
+            {
+                "title": "oui_embed",
+                "href": "https://github.com/NicolasGraph/oui_embed",
+                "github": "NicolasGraph/oui_embed",
+                "type": "github"
+            },
+            {
+                "title": "oui_instagram",
+                "href": "https://github.com/NicolasGraph/oui_instagram",
+                "github": "NicolasGraph/oui_instagram",
+                "type": "github"
+            },
+            {
+                "title": "oui_player",
+                "href": "https://github.com/NicolasGraph/oui_player",
+                "github": "NicolasGraph/oui_player",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "zem_contact_reborn",
+                "href": "https://github.com/Bloke/zem_contact_reborn",
+                "github": "Bloke/zem_contact_reborn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "smd_imagery",
+                "href": "https://github.com/Bloke/smd_imagery",
+                "github": "Bloke/smd_imagery",
+                "type": "github"
+            },
+            {
+                "title": "smd_thumbnail",
+                "href": "https://github.com/Bloke/smd_thumbnail",
+                "github": "Bloke/smd_thumbnail",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "etc_pagination",
+                "href": "https://github.com/bloatware/etc-pagination",
+                "github": "bloatware/etc-pagination",
+                "type": "github"
+            },
+            {
+                "title": "smd_horizon",
+                "href": "https://github.com/Bloke/smd_horizon",
+                "github": "Bloke/smd_horizon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "asy_jpcache",
+                "href": "https://github.com/netcarver/asy_jpcache",
+                "github": "netcarver/asy_jpcache",
+                "type": "github"
+            },
+            {
+                "title": "rah_cache",
+                "href": "https://github.com/gocom/rah_cache",
+                "github": "gocom/rah_cache",
+                "type": "github"
+            },
+            {
+                "title": "rah_cache_minify",
+                "href": "https://github.com/gocom/rah_cache_minify",
+                "github": "gocom/rah_cache_minify",
+                "type": "github"
+            },
+            {
+                "title": "rah_memcached",
+                "href": "https://github.com/gocom/rah_memcached",
+                "github": "gocom/rah_memcached",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "arc_meta",
+                "href": "https://github.com/drmonkeyninja/arc_meta",
+                "github": "drmonkeyninja/arc_meta",
+                "type": "github"
+            },
+            {
+                "title": "arc_redirect",
+                "href": "https://github.com/drmonkeyninja/arc_redirect",
+                "github": "drmonkeyninja/arc_redirect",
+                "type": "github"
+            },
+            {
+                "title": "rah_sitemap",
+                "href": "https://github.com/gocom/rah_sitemap",
+                "github": "gocom/rah_sitemap",
+                "type": "github"
+            },
+            {
+                "title": "wcz_utf8_url",
+                "href": "https://github.com/wcz-txp/Unicode-url-for-Textpattern",
+                "github": "wcz-txp/Unicode-url-for-Textpattern",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "arc_social_share",
+                "href": "https://github.com/drmonkeyninja/arc_social_share",
+                "github": "drmonkeyninja/arc_social_share",
+                "type": "github"
+            },
+            {
+                "title": "pat_article_social",
+                "href": "https://github.com/cara-tm/pat_article_social",
+                "github": "cara-tm/pat_article_social",
+                "type": "github"
+            },
+            {
+                "title": "TXP Tweet",
+                "href": "https://github.com/drmonkeyninja/TXP-Tweet",
+                "github": "drmonkeyninja/TXP-Tweet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "fly_excerpt",
+                "href": "https://github.com/brachycera/fly_excerpt",
+                "github": "brachycera/fly_excerpt",
+                "type": "github"
+            },
+            {
+                "title": "oui_cookie",
+                "href": "https://github.com/NicolasGraph/oui_cookie",
+                "github": "NicolasGraph/oui_cookie",
+                "type": "github"
+            },
+            {
+                "title": "oui_quote",
+                "href": "https://github.com/NicolasGraph/oui_quote",
+                "github": "NicolasGraph/oui_quote",
+                "type": "github"
+            },
+            {
+                "title": "rah_backup",
+                "href": "https://github.com/gocom/rah_backup",
+                "github": "gocom/rah_backup",
+                "type": "github"
+            },
+            {
+                "title": "rah_flat",
+                "href": "https://github.com/NicolasGraph/rah_flat",
+                "github": "NicolasGraph/rah_flat",
+                "type": "github"
+            },
+            {
+                "title": "rah_terminal",
+                "href": "https://github.com/gocom/rah_terminal",
+                "github": "gocom/rah_terminal",
+                "type": "github"
+            },
+            {
+                "title": "textpattern-installer",
+                "href": "https://github.com/gocom/textpattern-installer",
+                "github": "gocom/textpattern-installer",
+                "type": "github"
+            },
+            {
+                "title": "upm_pending_notify",
+                "href": "https://github.com/wcz-txp/upm_pending_notify",
+                "github": "wcz-txp/upm_pending_notify",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "ied_plugin_composer",
+                "href": "https://github.com/Bloke/ied_plugin_composer",
+                "github": "Bloke/ied_plugin_composer",
+                "type": "github"
+            },
+            {
+                "title": "MassPlugCompiler",
+                "href": "https://github.com/gocom/MassPlugCompiler",
+                "github": "gocom/MassPlugCompiler",
+                "type": "github"
+            },
+            {
+                "title": "Plugin template repo",
+                "href": "https://github.com/textpattern/textpattern-plugin-template",
+                "github": "textpattern/textpattern-plugin-template",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "jQuery UI theme repo",
+                "href": "https://github.com/textpattern/textpattern-jquery-ui-theme",
+                "github": "textpattern/textpattern-jquery-ui-theme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Default theme repo",
+                "href": "https://github.com/textpattern/textpattern-default-theme",
+                "github": "textpattern/textpattern-default-theme",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Textpattern for Panic Coda",
+                "href": "https://github.com/philwareham/Textpattern-for-Panic-Coda",
+                "github": "philwareham/Textpattern-for-Panic-Coda",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "childrens": [
+            {
+                "title": "Awesome PHP",
+                "href": "https://github.com/ziadoz/awesome-php",
+                "github": "ziadoz/awesome-php",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,957 @@
+[
+    {
+        "heading": "Frameworks",
+        "childrens": [
+            {
+                "title": "Tigon",
+                "href": "https://github.com/caskdata/tigon",
+                "github": "caskdata/tigon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distributed Programming",
+        "childrens": [
+            {
+                "title": "AddThis Hydra",
+                "href": "https://github.com/addthis/hydra",
+                "github": "addthis/hydra",
+                "type": "github"
+            },
+            {
+                "title": "Damballa Parkour",
+                "href": "https://github.com/damballa/parkour",
+                "github": "damballa/parkour",
+                "type": "github"
+            },
+            {
+                "title": "Datasalt Pangool",
+                "href": "https://github.com/datasalt/pangool",
+                "github": "datasalt/pangool",
+                "type": "github"
+            },
+            {
+                "title": "Netflix PigPen",
+                "href": "https://github.com/Netflix/PigPen",
+                "github": "Netflix/PigPen",
+                "type": "github"
+            },
+            {
+                "title": "Skale",
+                "href": "https://github.com/skale-me/skale-engine",
+                "github": "skale-me/skale-engine",
+                "type": "github"
+            },
+            {
+                "title": "streamsx.topology",
+                "href": "https://github.com/IBMStreams/streamsx.topology",
+                "github": "IBMStreams/streamsx.topology",
+                "type": "github"
+            },
+            {
+                "title": "Tuktu",
+                "href": "https://github.com/UnderstandLingBV/Tuktu",
+                "github": "UnderstandLingBV/Tuktu",
+                "type": "github"
+            },
+            {
+                "title": "Twitter Heron",
+                "href": "https://github.com/twitter/heron",
+                "github": "twitter/heron",
+                "type": "github"
+            },
+            {
+                "title": "Twitter Scalding",
+                "href": "https://github.com/twitter/scalding",
+                "github": "twitter/scalding",
+                "type": "github"
+            },
+            {
+                "title": "Twitter Summingbird",
+                "href": "https://github.com/twitter/summingbird",
+                "github": "twitter/summingbird",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Distributed Filesystem",
+        "childrens": [
+            {
+                "title": "Ambry",
+                "href": "https://github.com/linkedin/ambry",
+                "github": "linkedin/ambry",
+                "type": "github"
+            },
+            {
+                "title": "Seaweed-FS",
+                "href": "https://github.com/chrislusf/seaweedfs",
+                "github": "chrislusf/seaweedfs",
+                "type": "github"
+            },
+            {
+                "title": "Baidu File System",
+                "href": "https://github.com/baidu/bfs",
+                "github": "baidu/bfs",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Key Map Data Model",
+        "childrens": [
+            {
+                "title": "Baidu Tera",
+                "href": "https://github.com/baidu/tera",
+                "github": "baidu/tera",
+                "type": "github"
+            },
+            {
+                "title": "InfiniDB",
+                "href": "https://github.com/infinidb/infinidb/",
+                "github": "infinidb/infinidb/",
+                "type": "github"
+            },
+            {
+                "title": "Tephra",
+                "href": "https://github.com/caskdata/tephra",
+                "github": "caskdata/tephra",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Key-value Data Model",
+        "childrens": [
+            {
+                "title": "Bolt",
+                "href": "https://github.com/boltdb/bolt",
+                "github": "boltdb/bolt",
+                "type": "github"
+            },
+            {
+                "title": "BuntDB",
+                "href": "https://github.com/tidwall/buntdb",
+                "github": "tidwall/buntdb",
+                "type": "github"
+            },
+            {
+                "title": "Edis",
+                "href": "https://github.com/cbd/edis",
+                "github": "cbd/edis",
+                "type": "github"
+            },
+            {
+                "title": "ElephantDB",
+                "href": "https://github.com/nathanmarz/elephantdb",
+                "github": "nathanmarz/elephantdb",
+                "type": "github"
+            },
+            {
+                "title": "GridDB",
+                "href": "https://github.com/griddb/griddb_nosql",
+                "github": "griddb/griddb_nosql",
+                "type": "github"
+            },
+            {
+                "title": "HyperDex",
+                "href": "https://github.com/rescrv/HyperDex",
+                "github": "rescrv/HyperDex",
+                "type": "github"
+            },
+            {
+                "title": "LinkedIn Krati",
+                "href": "https://github.com/linkedin-sna/sna-page/tree/master/krati",
+                "github": "linkedin-sna/sna-page/tree/master/krati",
+                "type": "github"
+            },
+            {
+                "title": "Riak",
+                "href": "https://github.com/basho/riak",
+                "github": "basho/riak",
+                "type": "github"
+            },
+            {
+                "title": "Storehaus",
+                "href": "https://github.com/twitter/storehaus",
+                "github": "twitter/storehaus",
+                "type": "github"
+            },
+            {
+                "title": "SummitDB",
+                "href": "https://github.com/tidwall/summitdb",
+                "github": "tidwall/summitdb",
+                "type": "github"
+            },
+            {
+                "title": "Tarantool",
+                "href": "https://github.com/tarantool/tarantool",
+                "github": "tarantool/tarantool",
+                "type": "github"
+            },
+            {
+                "title": "TiKV",
+                "href": "https://github.com/pingcap/tikv",
+                "github": "pingcap/tikv",
+                "type": "github"
+            },
+            {
+                "title": "Tile38",
+                "href": "https://github.com/tidwall/tile38",
+                "github": "tidwall/tile38",
+                "type": "github"
+            },
+            {
+                "title": "TreodeDB",
+                "href": "https://github.com/Treode/store",
+                "github": "Treode/store",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graph Data Model",
+        "childrens": [
+            {
+                "title": "DGraph",
+                "href": "https://github.com/dgraph-io/dgraph",
+                "github": "dgraph-io/dgraph",
+                "type": "github"
+            },
+            {
+                "title": "EliasDB",
+                "href": "https://github.com/krotik/eliasdb",
+                "github": "krotik/eliasdb",
+                "type": "github"
+            },
+            {
+                "title": "GCHQ Gaffer",
+                "href": "https://github.com/GovernmentCommunicationsHeadquarters/Gaffer",
+                "github": "GovernmentCommunicationsHeadquarters/Gaffer",
+                "type": "github"
+            },
+            {
+                "title": "Google Cayley",
+                "href": "https://github.com/google/cayley",
+                "github": "google/cayley",
+                "type": "github"
+            },
+            {
+                "title": "Gremlin",
+                "href": "https://github.com/tinkerpop/gremlin",
+                "github": "tinkerpop/gremlin",
+                "type": "github"
+            },
+            {
+                "title": "Infovore",
+                "href": "https://github.com/paulhoule/infovore",
+                "github": "paulhoule/infovore",
+                "type": "github"
+            },
+            {
+                "title": "Phoebus",
+                "href": "https://github.com/xslogic/phoebus",
+                "github": "xslogic/phoebus",
+                "type": "github"
+            },
+            {
+                "title": "Twitter FlockDB",
+                "href": "https://github.com/twitter/flockdb",
+                "github": "twitter/flockdb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Columnar Databases",
+        "childrens": [
+            {
+                "title": "IndexR",
+                "href": "https://github.com/shunfei/indexr",
+                "github": "shunfei/indexr",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "NewSQL Databases",
+        "childrens": [
+            {
+                "title": "Cockroach",
+                "href": "https://github.com/cockroachdb/cockroach",
+                "github": "cockroachdb/cockroach",
+                "type": "github"
+            },
+            {
+                "title": "Haeinsa",
+                "href": "https://github.com/VCNC/haeinsa",
+                "github": "VCNC/haeinsa",
+                "type": "github"
+            },
+            {
+                "title": "TiDB",
+                "href": "https://github.com/pingcap/tidb",
+                "github": "pingcap/tidb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Time-Series Databases",
+        "childrens": [
+            {
+                "title": "Kairosdb",
+                "href": "https://github.com/kairosdb/kairosdb",
+                "github": "kairosdb/kairosdb",
+                "type": "github"
+            },
+            {
+                "title": "Beringei",
+                "href": "https://github.com/facebookincubator/beringei",
+                "github": "facebookincubator/beringei",
+                "type": "github"
+            },
+            {
+                "title": "Druid",
+                "href": "https://github.com/druid-io/druid/",
+                "github": "druid-io/druid/",
+                "type": "github"
+            },
+            {
+                "title": "Akumuli",
+                "href": "https://github.com/akumuli/Akumuli",
+                "github": "akumuli/Akumuli",
+                "type": "github"
+            },
+            {
+                "title": "Rhombus",
+                "href": "https://github.com/Pardot/Rhombus",
+                "github": "Pardot/Rhombus",
+                "type": "github"
+            },
+            {
+                "title": "Dalmatiner DB",
+                "href": "https://github.com/dalmatinerdb/dalmatinerdb",
+                "github": "dalmatinerdb/dalmatinerdb",
+                "type": "github"
+            },
+            {
+                "title": "Blueflood",
+                "href": "https://github.com/rackerlabs/blueflood",
+                "github": "rackerlabs/blueflood",
+                "type": "github"
+            },
+            {
+                "title": "Timely",
+                "href": "https://github.com/NationalSecurityAgency/timely",
+                "github": "NationalSecurityAgency/timely",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SQL-like processing",
+        "childrens": [
+            {
+                "title": "Spark Catalyst",
+                "href": "https://github.com/apache/spark/tree/master/sql",
+                "github": "apache/spark/tree/master/sql",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Ingestion",
+        "childrens": [
+            {
+                "title": "Cloudera Morphlines",
+                "href": "https://github.com/cloudera/cdk/tree/master/cdk-morphlines",
+                "github": "cloudera/cdk/tree/master/cdk-morphlines",
+                "type": "github"
+            },
+            {
+                "title": "Facebook Scribe",
+                "href": "https://github.com/facebookarchive/scribe",
+                "github": "facebookarchive/scribe",
+                "type": "github"
+            },
+            {
+                "title": "Heka",
+                "href": "https://github.com/mozilla-services/heka",
+                "github": "mozilla-services/heka",
+                "type": "github"
+            },
+            {
+                "title": "HIHO",
+                "href": "https://github.com/sonalgoyal/hiho",
+                "github": "sonalgoyal/hiho",
+                "type": "github"
+            },
+            {
+                "title": "Kestrel",
+                "href": "https://github.com/papertrail/kestrel",
+                "github": "papertrail/kestrel",
+                "type": "github"
+            },
+            {
+                "title": "LinkedIn Kamikaze",
+                "href": "https://github.com/linkedin/kamikaze",
+                "github": "linkedin/kamikaze",
+                "type": "github"
+            },
+            {
+                "title": "LinkedIn White Elephant",
+                "href": "https://github.com/linkedin/white-elephant",
+                "github": "linkedin/white-elephant",
+                "type": "github"
+            },
+            {
+                "title": "Netflix Suro",
+                "href": "https://github.com/Netflix/suro",
+                "github": "Netflix/suro",
+                "type": "github"
+            },
+            {
+                "title": "Pinterest Secor",
+                "href": "https://github.com/pinterest/secor",
+                "github": "pinterest/secor",
+                "type": "github"
+            },
+            {
+                "title": "Linkedin Gobblin",
+                "href": "https://github.com/linkedin/gobblin",
+                "github": "linkedin/gobblin",
+                "type": "github"
+            },
+            {
+                "title": "Skizze",
+                "href": "https://github.com/skizzehq/skizze",
+                "github": "skizzehq/skizze",
+                "type": "github"
+            },
+            {
+                "title": "StreamSets Data Collector",
+                "href": "https://github.com/streamsets/datacollector",
+                "github": "streamsets/datacollector",
+                "type": "github"
+            },
+            {
+                "title": "Yahoo Pulsar",
+                "href": "https://github.com/yahoo/pulsar",
+                "github": "yahoo/pulsar",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Service Programming",
+        "childrens": [
+            {
+                "title": "Hydrosphere Mist",
+                "href": "https://github.com/Hydrospheredata/mist",
+                "github": "Hydrospheredata/mist",
+                "type": "github"
+            },
+            {
+                "title": "Spotify Luigi",
+                "href": "https://github.com/spotify/luigi",
+                "github": "spotify/luigi",
+                "type": "github"
+            },
+            {
+                "title": "Spring XD",
+                "href": "https://github.com/spring-projects/spring-xd",
+                "github": "spring-projects/spring-xd",
+                "type": "github"
+            },
+            {
+                "title": "Twitter Elephant Bird",
+                "href": "https://github.com/twitter/elephant-bird",
+                "github": "twitter/elephant-bird",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scheduling",
+        "childrens": [
+            {
+                "title": "Airflow",
+                "href": "https://github.com/airbnb/airflow",
+                "github": "airbnb/airflow",
+                "type": "github"
+            },
+            {
+                "title": "Schedoscope",
+                "href": "https://github.com/ottogroup/schedoscope",
+                "github": "ottogroup/schedoscope",
+                "type": "github"
+            },
+            {
+                "title": "Sparrow",
+                "href": "https://github.com/radlab/sparrow",
+                "github": "radlab/sparrow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Machine Learning",
+        "childrens": [
+            {
+                "title": "brain",
+                "href": "https://github.com/harthur/brain",
+                "github": "harthur/brain",
+                "type": "github"
+            },
+            {
+                "title": "Cloudera Oryx",
+                "href": "https://github.com/cloudera/oryx",
+                "github": "cloudera/oryx",
+                "type": "github"
+            },
+            {
+                "title": "convnetjs",
+                "href": "https://github.com/karpathy/convnetjs",
+                "github": "karpathy/convnetjs",
+                "type": "github"
+            },
+            {
+                "title": "DataVec",
+                "href": "https://github.com/deeplearning4j/DataVec",
+                "github": "deeplearning4j/DataVec",
+                "type": "github"
+            },
+            {
+                "title": "Deeplearning4j",
+                "href": "https://github.com/deeplearning4j",
+                "github": "deeplearning4j",
+                "type": "github"
+            },
+            {
+                "title": "Decider",
+                "href": "https://github.com/danielsdeleo/Decider",
+                "github": "danielsdeleo/Decider",
+                "type": "github"
+            },
+            {
+                "title": "Etsy Conjecture",
+                "href": "https://github.com/etsy/Conjecture",
+                "github": "etsy/Conjecture",
+                "type": "github"
+            },
+            {
+                "title": "H2O",
+                "href": "https://github.com/h2oai/h2o-3/",
+                "github": "h2oai/h2o-3/",
+                "type": "github"
+            },
+            {
+                "title": "Keras",
+                "href": "https://github.com/fchollet/keras",
+                "github": "fchollet/keras",
+                "type": "github"
+            },
+            {
+                "title": "MLPNeuralNet",
+                "href": "https://github.com/nikolaypavlov/MLPNeuralNet",
+                "github": "nikolaypavlov/MLPNeuralNet",
+                "type": "github"
+            },
+            {
+                "title": "ND4J",
+                "href": "https://github.com/deeplearning4j/nd4j",
+                "github": "deeplearning4j/nd4j",
+                "type": "github"
+            },
+            {
+                "title": "nupic",
+                "href": "https://github.com/numenta/nupic",
+                "github": "numenta/nupic",
+                "type": "github"
+            },
+            {
+                "title": "RL4J",
+                "href": "https://github.com/deeplearning4j/rl4j",
+                "github": "deeplearning4j/rl4j",
+                "type": "github"
+            },
+            {
+                "title": "scikit-learn",
+                "href": "https://github.com/scikit-learn/scikit-learn",
+                "github": "scikit-learn/scikit-learn",
+                "type": "github"
+            },
+            {
+                "title": "TensorFlow",
+                "href": "https://github.com/tensorflow/tensorflow",
+                "github": "tensorflow/tensorflow",
+                "type": "github"
+            },
+            {
+                "title": "Theano",
+                "href": "https://github.com/theano",
+                "github": "theano",
+                "type": "github"
+            },
+            {
+                "title": "Torch",
+                "href": "https://github.com/torch",
+                "github": "torch",
+                "type": "github"
+            },
+            {
+                "title": "Velox",
+                "href": "https://github.com/amplab/velox-modelserver",
+                "github": "amplab/velox-modelserver",
+                "type": "github"
+            },
+            {
+                "title": "Vowpal Wabbit",
+                "href": "https://github.com/JohnLangford/vowpal_wabbit/wiki",
+                "github": "JohnLangford/vowpal_wabbit/wiki",
+                "type": "github"
+            },
+            {
+                "title": "BidMach",
+                "href": "https://github.com/BIDData/BIDMach",
+                "github": "BIDData/BIDMach",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Benchmarking",
+        "childrens": [
+            {
+                "title": "Berkeley SWIM Benchmark",
+                "href": "https://github.com/SWIMProjectUCB/SWIM/wiki",
+                "github": "SWIMProjectUCB/SWIM/wiki",
+                "type": "github"
+            },
+            {
+                "title": "Intel HiBench",
+                "href": "https://github.com/intel-hadoop/HiBench",
+                "github": "intel-hadoop/HiBench",
+                "type": "github"
+            },
+            {
+                "title": "Deeplearning4j Benchmarks",
+                "href": "https://github.com/deeplearning4j/dl4j-benchmark",
+                "github": "deeplearning4j/dl4j-benchmark",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "System Deployment",
+        "childrens": [
+            {
+                "title": "Apache Slider",
+                "href": "https://github.com/apache/incubator-slider",
+                "github": "apache/incubator-slider",
+                "type": "github"
+            },
+            {
+                "title": "Marathon",
+                "href": "https://github.com/mesosphere/marathon",
+                "github": "mesosphere/marathon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Applications",
+        "childrens": [
+            {
+                "title": "411",
+                "href": "https://github.com/etsy/411",
+                "github": "etsy/411",
+                "type": "github"
+            },
+            {
+                "title": "Adobe spindle",
+                "href": "https://github.com/adobe-research/spindle",
+                "github": "adobe-research/spindle",
+                "type": "github"
+            },
+            {
+                "title": "Argus",
+                "href": "https://github.com/SalesforceEng/Argus",
+                "github": "SalesforceEng/Argus",
+                "type": "github"
+            },
+            {
+                "title": "Atlas",
+                "href": "https://github.com/Netflix/atlas",
+                "github": "Netflix/atlas",
+                "type": "github"
+            },
+            {
+                "title": "ElastAert",
+                "href": "https://github.com/Yelp/elastalert",
+                "github": "Yelp/elastalert",
+                "type": "github"
+            },
+            {
+                "title": "Eventhub",
+                "href": "https://github.com/Codecademy/EventHub",
+                "github": "Codecademy/EventHub",
+                "type": "github"
+            },
+            {
+                "title": "Hermes",
+                "href": "https://github.com/allegro/hermes",
+                "github": "allegro/hermes",
+                "type": "github"
+            },
+            {
+                "title": "Kapacitor",
+                "href": "https://github.com/influxdata/kapacitor",
+                "github": "influxdata/kapacitor",
+                "type": "github"
+            },
+            {
+                "title": "PivotalR",
+                "href": "https://github.com/pivotalsoftware/PivotalR",
+                "github": "pivotalsoftware/PivotalR",
+                "type": "github"
+            },
+            {
+                "title": "Rakam",
+                "href": "https://github.com/rakam-io/rakam",
+                "github": "rakam-io/rakam",
+                "type": "github"
+            },
+            {
+                "title": "SnappyData",
+                "href": "https://github.com/SnappyDataInc/snappydata",
+                "github": "SnappyDataInc/snappydata",
+                "type": "github"
+            },
+            {
+                "title": "Snowplow",
+                "href": "https://github.com/snowplow/snowplow",
+                "github": "snowplow/snowplow",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search engine and framework",
+        "childrens": [
+            {
+                "title": "Elassandra",
+                "href": "https://github.com/vroyer/elassandra",
+                "github": "vroyer/elassandra",
+                "type": "github"
+            },
+            {
+                "title": "LinkedIn Cleo",
+                "href": "https://github.com/linkedin/cleo",
+                "github": "linkedin/cleo",
+                "type": "github"
+            },
+            {
+                "title": "LinkedIn Zoie",
+                "href": "https://github.com/senseidb/zoie",
+                "github": "senseidb/zoie",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "MySQL forks and evolutions",
+        "childrens": [
+            {
+                "title": "ProxySQL",
+                "href": "https://github.com/renecannao/proxysql",
+                "github": "renecannao/proxysql",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Memcached forks and evolutions",
+        "childrens": [
+            {
+                "title": "Twemproxy",
+                "href": "https://github.com/twitter/twemproxy",
+                "github": "twitter/twemproxy",
+                "type": "github"
+            },
+            {
+                "title": "Twitter Fatcache",
+                "href": "https://github.com/twitter/fatcache",
+                "github": "twitter/fatcache",
+                "type": "github"
+            },
+            {
+                "title": "Twitter Twemcache",
+                "href": "https://github.com/twitter/twemcache",
+                "github": "twitter/twemcache",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Embedded Databases",
+        "childrens": [
+            {
+                "title": "HanoiDB",
+                "href": "https://github.com/krestenkrab/hanoidb",
+                "github": "krestenkrab/hanoidb",
+                "type": "github"
+            },
+            {
+                "title": "LevelDB",
+                "href": "https://github.com/google/leveldb",
+                "github": "google/leveldb",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Business Intelligence",
+        "childrens": [
+            {
+                "title": "Metabase",
+                "href": "https://github.com/metabase/metabase",
+                "github": "metabase/metabase",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Visualization",
+        "childrens": [
+            {
+                "title": "Airpal",
+                "href": "https://github.com/airbnb/airpal",
+                "github": "airbnb/airpal",
+                "type": "github"
+            },
+            {
+                "title": "Arbor",
+                "href": "https://github.com/samizdatco/arbor",
+                "github": "samizdatco/arbor",
+                "type": "github"
+            },
+            {
+                "title": "Banana",
+                "href": "https://github.com/LucidWorks/banana",
+                "github": "LucidWorks/banana",
+                "type": "github"
+            },
+            {
+                "title": "Bloomery",
+                "href": "https://github.com/ufukomer/bloomery",
+                "github": "ufukomer/bloomery",
+                "type": "github"
+            },
+            {
+                "title": "CartoDB",
+                "href": "https://github.com/CartoDB/cartodb",
+                "github": "CartoDB/cartodb",
+                "type": "github"
+            },
+            {
+                "title": "Chartist.js",
+                "href": "https://github.com/gionkunz/chartist-js",
+                "github": "gionkunz/chartist-js",
+                "type": "github"
+            },
+            {
+                "title": "Cubism",
+                "href": "https://github.com/square/cubism",
+                "github": "square/cubism",
+                "type": "github"
+            },
+            {
+                "title": "D3.compose",
+                "href": "https://github.com/CSNW/d3.compose",
+                "github": "CSNW/d3.compose",
+                "type": "github"
+            },
+            {
+                "title": "Echarts",
+                "href": "https://github.com/ecomfe/echarts",
+                "github": "ecomfe/echarts",
+                "type": "github"
+            },
+            {
+                "title": "Envisionjs",
+                "href": "https://github.com/HumbleSoftware/envisionjs",
+                "github": "HumbleSoftware/envisionjs",
+                "type": "github"
+            },
+            {
+                "title": "Freeboard",
+                "href": "https://github.com/Freeboard/freeboard",
+                "github": "Freeboard/freeboard",
+                "type": "github"
+            },
+            {
+                "title": "Gephi",
+                "href": "https://github.com/gephi/gephi",
+                "github": "gephi/gephi",
+                "type": "github"
+            },
+            {
+                "title": "Matplotlib",
+                "href": "https://github.com/matplotlib/matplotlib",
+                "github": "matplotlib/matplotlib",
+                "type": "github"
+            },
+            {
+                "title": "Peity",
+                "href": "https://github.com/benpickles/peity",
+                "github": "benpickles/peity",
+                "type": "github"
+            },
+            {
+                "title": "Plotly.js",
+                "href": "https://github.com/plotly/plotly.js",
+                "github": "plotly/plotly.js",
+                "type": "github"
+            },
+            {
+                "title": "Recline",
+                "href": "https://github.com/okfn/recline",
+                "github": "okfn/recline",
+                "type": "github"
+            },
+            {
+                "title": "Redash",
+                "href": "https://github.com/getredash/redash",
+                "github": "getredash/redash",
+                "type": "github"
+            },
+            {
+                "title": "Sigma.js",
+                "href": "https://github.com/jacomyal/sigma.js",
+                "github": "jacomyal/sigma.js",
+                "type": "github"
+            },
+            {
+                "title": "Superset",
+                "href": "https://github.com/airbnb/superset",
+                "github": "airbnb/superset",
+                "type": "github"
+            },
+            {
+                "title": "Vega",
+                "href": "https://github.com/trifacta/vega",
+                "github": "trifacta/vega",
+                "type": "github"
+            },
+            {
+                "title": "Zeppelin",
+                "href": "https://github.com/NFLabs/zeppelin",
+                "github": "NFLabs/zeppelin",
+                "type": "github"
+            }
+        ]
+    }
+]

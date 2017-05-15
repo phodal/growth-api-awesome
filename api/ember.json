@@ -1,0 +1,110 @@
+[
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "Ember Inspector",
+                "href": "https://github.com/emberjs/ember-inspector",
+                "github": "emberjs/ember-inspector",
+                "type": "github"
+            },
+            {
+                "title": "gulp-ember-handlebars",
+                "href": "https://github.com/fuseelements/gulp-ember-handlebars",
+                "github": "fuseelements/gulp-ember-handlebars",
+                "type": "github"
+            },
+            {
+                "title": "Ember Data Sails Adapter",
+                "href": "https://github.com/bmac/ember-data-sails-adapter",
+                "github": "bmac/ember-data-sails-adapter",
+                "type": "github"
+            },
+            {
+                "title": "Ember Data WordPress Adapter",
+                "href": "https://github.com/HeyHumanAgency/Ember-Data-WordPress",
+                "github": "HeyHumanAgency/Ember-Data-WordPress",
+                "type": "github"
+            },
+            {
+                "title": "Ember Perf",
+                "href": "https://github.com/mike-north/ember-perf",
+                "github": "mike-north/ember-perf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Ember runloop handbook",
+                "href": "https://github.com/eoinkelly/ember-runloop-handbook",
+                "github": "eoinkelly/ember-runloop-handbook",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Community",
+        "childrens": [
+            {
+                "title": "GitHub issues",
+                "href": "https://github.com/emberjs/ember.js/issues",
+                "github": "emberjs/ember.js/issues",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI Components",
+        "childrens": [
+            {
+                "title": "ember-cli-flash",
+                "href": "https://github.com/poteto/ember-cli-flash",
+                "github": "poteto/ember-cli-flash",
+                "type": "github"
+            },
+            {
+                "title": "ember-modal-dialog",
+                "href": "https://github.com/yapplabs/ember-modal-dialog",
+                "github": "yapplabs/ember-modal-dialog",
+                "type": "github"
+            },
+            {
+                "title": "Ember-AnyChart",
+                "href": "https://github.com/AnyChart/AnyChart-Ember",
+                "github": "AnyChart/AnyChart-Ember",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "UI Helpers",
+        "childrens": [
+            {
+                "title": "ember-tether",
+                "href": "https://github.com/yapplabs/ember-tether",
+                "github": "yapplabs/ember-tether",
+                "type": "github"
+            },
+            {
+                "title": "ember-wormhole",
+                "href": "https://github.com/yapplabs/ember-wormhole",
+                "github": "yapplabs/ember-wormhole",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Build Enhancements",
+        "childrens": [
+            {
+                "title": "ember-cli-autoprefixer",
+                "href": "https://github.com/kimroen/ember-cli-autoprefixer",
+                "github": "kimroen/ember-cli-autoprefixer",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1115 @@
+[
+    {
+        "heading": "Entertainment",
+        "childrens": [
+            {
+                "title": "cmus",
+                "href": "https://github.com/cmus/cmus",
+                "github": "cmus/cmus",
+                "type": "github"
+            },
+            {
+                "title": "Instant-Music-Downloader",
+                "href": "https://github.com/yask123/Instant-Music-Downloader",
+                "github": "yask123/Instant-Music-Downloader",
+                "type": "github"
+            },
+            {
+                "title": "itunes-remote",
+                "href": "https://github.com/mischah/itunes-remote",
+                "github": "mischah/itunes-remote",
+                "type": "github"
+            },
+            {
+                "title": "moviemon",
+                "href": "https://github.com/iCHAIT/moviemon",
+                "github": "iCHAIT/moviemon",
+                "type": "github"
+            },
+            {
+                "title": "quote-cli",
+                "href": "https://github.com/riyadhalnur/quote-cli",
+                "github": "riyadhalnur/quote-cli",
+                "type": "github"
+            },
+            {
+                "title": "movie",
+                "href": "https://github.com/mayankchd/movie",
+                "github": "mayankchd/movie",
+                "type": "github"
+            },
+            {
+                "title": "somafm-cli",
+                "href": "https://github.com/rockymadden/somafm-cli",
+                "github": "rockymadden/somafm-cli",
+                "type": "github"
+            },
+            {
+                "title": "nehm",
+                "href": "https://github.com/bogem/nehm",
+                "github": "bogem/nehm",
+                "type": "github"
+            },
+            {
+                "title": "football-cli",
+                "href": "https://github.com/ManrajGrover/football-cli",
+                "github": "ManrajGrover/football-cli",
+                "type": "github"
+            },
+            {
+                "title": "pockyt",
+                "href": "https://github.com/arvindch/pockyt",
+                "github": "arvindch/pockyt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Social Media",
+        "childrens": [
+            {
+                "title": "facebook-cli",
+                "href": "https://github.com/specious/facebook-cli",
+                "github": "specious/facebook-cli",
+                "type": "github"
+            },
+            {
+                "title": "TTYtter",
+                "href": "https://github.com/oysttyer/oysttyer",
+                "github": "oysttyer/oysttyer",
+                "type": "github"
+            },
+            {
+                "title": "Rainbowstream",
+                "href": "https://github.com/DTVD/rainbowstream",
+                "github": "DTVD/rainbowstream",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video",
+        "childrens": [
+            {
+                "title": "open-pip-cli",
+                "href": "https://github.com/albinekb/open-pip-cli",
+                "github": "albinekb/open-pip-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Development",
+        "childrens": [
+            {
+                "title": "Wat",
+                "href": "https://github.com/dthree/wat",
+                "github": "dthree/wat",
+                "type": "github"
+            },
+            {
+                "title": "bcal",
+                "href": "https://github.com/jarun/bcal",
+                "github": "jarun/bcal",
+                "type": "github"
+            },
+            {
+                "title": "dockly",
+                "href": "https://github.com/lirantal/dockly",
+                "github": "lirantal/dockly",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Development",
+        "childrens": [
+            {
+                "title": "bower-name-cli",
+                "href": "https://github.com/sindresorhus/bower-name-cli",
+                "github": "sindresorhus/bower-name-cli",
+                "type": "github"
+            },
+            {
+                "title": "caniuse-cmd",
+                "href": "https://github.com/sgentle/caniuse-cmd",
+                "github": "sgentle/caniuse-cmd",
+                "type": "github"
+            },
+            {
+                "title": "htconvert",
+                "href": "https://github.com/lukechilds/htconvert",
+                "github": "lukechilds/htconvert",
+                "type": "github"
+            },
+            {
+                "title": "is-up-cli",
+                "href": "https://github.com/sindresorhus/is-up-cli",
+                "github": "sindresorhus/is-up-cli",
+                "type": "github"
+            },
+            {
+                "title": "npm-name-cli",
+                "href": "https://github.com/sindresorhus/npm-name-cli",
+                "github": "sindresorhus/npm-name-cli",
+                "type": "github"
+            },
+            {
+                "title": "npm-user-cli",
+                "href": "https://github.com/sindresorhus/npm-user-cli",
+                "github": "sindresorhus/npm-user-cli",
+                "type": "github"
+            },
+            {
+                "title": "pageres-cli",
+                "href": "https://github.com/sindresorhus/pageres-cli",
+                "github": "sindresorhus/pageres-cli",
+                "type": "github"
+            },
+            {
+                "title": "strip-css-comments-cli",
+                "href": "https://github.com/sindresorhus/strip-css-comments-cli",
+                "github": "sindresorhus/strip-css-comments-cli",
+                "type": "github"
+            },
+            {
+                "title": "viewport-list-cli",
+                "href": "https://github.com/kevva/viewport-list-cli",
+                "github": "kevva/viewport-list-cli",
+                "type": "github"
+            },
+            {
+                "title": "acmetool",
+                "href": "https://github.com/hlandau/acme",
+                "github": "hlandau/acme",
+                "type": "github"
+            },
+            {
+                "title": "loadtest",
+                "href": "https://github.com/alexfernandez/loadtest",
+                "github": "alexfernandez/loadtest",
+                "type": "github"
+            },
+            {
+                "title": "wp-cli",
+                "href": "https://github.com/wp-cli/wp-cli",
+                "github": "wp-cli/wp-cli",
+                "type": "github"
+            },
+            {
+                "title": "diff2html-cli",
+                "href": "https://github.com/rtfpessoa/diff2html-cli",
+                "github": "rtfpessoa/diff2html-cli",
+                "type": "github"
+            },
+            {
+                "title": "npm-home",
+                "href": "https://github.com/sindresorhus/npm-home",
+                "github": "sindresorhus/npm-home",
+                "type": "github"
+            },
+            {
+                "title": "HTTPie",
+                "href": "https://github.com/jkbrzt/httpie",
+                "github": "jkbrzt/httpie",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile Development",
+        "childrens": [
+            {
+                "title": "mobicon-cli",
+                "href": "https://github.com/SamVerschueren/mobicon-cli",
+                "github": "SamVerschueren/mobicon-cli",
+                "type": "github"
+            },
+            {
+                "title": "mobisplash-cli",
+                "href": "https://github.com/SamVerschueren/mobisplash-cli",
+                "github": "SamVerschueren/mobisplash-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "childrens": [
+            {
+                "title": "mycli",
+                "href": "https://github.com/dbcli/mycli",
+                "github": "dbcli/mycli",
+                "type": "github"
+            },
+            {
+                "title": "cycli",
+                "href": "https://github.com/nicolewhite/cycli",
+                "github": "nicolewhite/cycli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Productivity",
+        "childrens": [
+            {
+                "title": "AutoScreenshotUploader",
+                "href": "https://github.com/yask123/AutoScreenshotUploader",
+                "github": "yask123/AutoScreenshotUploader",
+                "type": "github"
+            },
+            {
+                "title": "bitly-client",
+                "href": "https://github.com/specious/bitly-client",
+                "github": "specious/bitly-client",
+                "type": "github"
+            },
+            {
+                "title": "doing",
+                "href": "https://github.com/ttscoff/doing/",
+                "github": "ttscoff/doing/",
+                "type": "github"
+            },
+            {
+                "title": "ffscreencast",
+                "href": "https://github.com/cytopia/ffscreencast",
+                "github": "cytopia/ffscreencast",
+                "type": "github"
+            },
+            {
+                "title": "idea",
+                "href": "https://github.com/IonicaBizau/idea",
+                "github": "IonicaBizau/idea",
+                "type": "github"
+            },
+            {
+                "title": "imgur-uploader-cli",
+                "href": "https://github.com/kevva/imgur-uploader-cli",
+                "github": "kevva/imgur-uploader-cli",
+                "type": "github"
+            },
+            {
+                "title": "geeknote",
+                "href": "https://github.com/VitaliyRodnenko/geeknote",
+                "github": "VitaliyRodnenko/geeknote",
+                "type": "github"
+            },
+            {
+                "title": "localtunnel",
+                "href": "https://github.com/localtunnel/localtunnel",
+                "github": "localtunnel/localtunnel",
+                "type": "github"
+            },
+            {
+                "title": "meetup-cli",
+                "href": "https://github.com/specious/meetup-cli",
+                "github": "specious/meetup-cli",
+                "type": "github"
+            },
+            {
+                "title": "Timetrap",
+                "href": "https://github.com/samg/timetrap",
+                "github": "samg/timetrap",
+                "type": "github"
+            },
+            {
+                "title": "terjira",
+                "href": "https://github.com/keepcosmos/terjira",
+                "github": "keepcosmos/terjira",
+                "type": "github"
+            },
+            {
+                "title": "g3l",
+                "href": "https://github.com/svtek/g3l",
+                "github": "svtek/g3l",
+                "type": "github"
+            },
+            {
+                "title": "uber-cli",
+                "href": "https://github.com/jaebradley/uber-cli",
+                "github": "jaebradley/uber-cli",
+                "type": "github"
+            },
+            {
+                "title": "moro",
+                "href": "https://github.com/omidfi/moro",
+                "github": "omidfi/moro",
+                "type": "github"
+            },
+            {
+                "title": "Buku",
+                "href": "https://github.com/jarun/Buku",
+                "github": "jarun/Buku",
+                "type": "github"
+            },
+            {
+                "title": "googler",
+                "href": "https://github.com/jarun/googler",
+                "github": "jarun/googler",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Utilities",
+        "childrens": [
+            {
+                "title": "archive-type-cli",
+                "href": "https://github.com/kevva/archive-type-cli",
+                "github": "kevva/archive-type-cli",
+                "type": "github"
+            },
+            {
+                "title": "battery-level",
+                "href": "https://github.com/gillstrom/battery-level",
+                "github": "gillstrom/battery-level",
+                "type": "github"
+            },
+            {
+                "title": "brightness-cli",
+                "href": "https://github.com/kevva/brightness-cli",
+                "github": "kevva/brightness-cli",
+                "type": "github"
+            },
+            {
+                "title": "gotty",
+                "href": "https://github.com/yudai/gotty",
+                "github": "yudai/gotty",
+                "type": "github"
+            },
+            {
+                "title": "screensaver",
+                "href": "https://github.com/gillstrom/screensaver",
+                "github": "gillstrom/screensaver",
+                "type": "github"
+            },
+            {
+                "title": "wallpaper-ci",
+                "href": "https://github.com/sindresorhus/wallpaper-cli",
+                "github": "sindresorhus/wallpaper-cli",
+                "type": "github"
+            },
+            {
+                "title": "yank",
+                "href": "https://github.com/mptre/yank",
+                "github": "mptre/yank",
+                "type": "github"
+            },
+            {
+                "title": "text-meme",
+                "href": "https://github.com/beatfreaker/text-meme-cli",
+                "github": "beatfreaker/text-meme-cli",
+                "type": "github"
+            },
+            {
+                "title": "s",
+                "href": "https://github.com/zquestz/s",
+                "github": "zquestz/s",
+                "type": "github"
+            },
+            {
+                "title": "google-font-installer",
+                "href": "https://github.com/lordgiotto/google-font-installer",
+                "github": "lordgiotto/google-font-installer",
+                "type": "github"
+            },
+            {
+                "title": "aria2",
+                "href": "https://github.com/tatsuhiro-t/aria2",
+                "github": "tatsuhiro-t/aria2",
+                "type": "github"
+            },
+            {
+                "title": "mklicense",
+                "href": "https://github.com/cezaraugusto/mklicense",
+                "github": "cezaraugusto/mklicense",
+                "type": "github"
+            },
+            {
+                "title": "share-cli",
+                "href": "https://github.com/marionebl/share-cli",
+                "github": "marionebl/share-cli",
+                "type": "github"
+            },
+            {
+                "title": "remote-share-cli",
+                "href": "https://github.com/marionebl/remote-share-cli",
+                "github": "marionebl/remote-share-cli",
+                "type": "github"
+            },
+            {
+                "title": "moeda",
+                "href": "https://github.com/thompsonemerson/moeda",
+                "github": "thompsonemerson/moeda",
+                "type": "github"
+            },
+            {
+                "title": "wego",
+                "href": "https://github.com/schachmat/wego",
+                "github": "schachmat/wego",
+                "type": "github"
+            },
+            {
+                "title": "mapscii",
+                "href": "https://github.com/rastapasta/mapscii",
+                "github": "rastapasta/mapscii",
+                "type": "github"
+            },
+            {
+                "title": "website-popup-cli",
+                "href": "https://github.com/sindresorhus/website-popup-cli",
+                "github": "sindresorhus/website-popup-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "macOS",
+        "childrens": [
+            {
+                "title": "bundle-id-cli",
+                "href": "https://github.com/sindresorhus/bundle-id-cli",
+                "github": "sindresorhus/bundle-id-cli",
+                "type": "github"
+            },
+            {
+                "title": "bundle-name-cli",
+                "href": "https://github.com/sindresorhus/bundle-name-cli",
+                "github": "sindresorhus/bundle-name-cli",
+                "type": "github"
+            },
+            {
+                "title": "lnfs-cli",
+                "href": "https://github.com/kevva/lnfs-cli",
+                "github": "kevva/lnfs-cli",
+                "type": "github"
+            },
+            {
+                "title": "osx-version-cli",
+                "href": "https://github.com/sindresorhus/osx-version-cli",
+                "github": "sindresorhus/osx-version-cli",
+                "type": "github"
+            },
+            {
+                "title": "osx-wifi-cli",
+                "href": "https://github.com/danyshaanan/osx-wifi-cli",
+                "github": "danyshaanan/osx-wifi-cli",
+                "type": "github"
+            },
+            {
+                "title": "active-win-cli",
+                "href": "https://github.com/sindresorhus/active-win-cli",
+                "github": "sindresorhus/active-win-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Command Line Tools",
+        "childrens": [
+            {
+                "title": "The Fuck",
+                "href": "https://github.com/nvbn/thefuck",
+                "github": "nvbn/thefuck",
+                "type": "github"
+            },
+            {
+                "title": "tldr",
+                "href": "https://github.com/tldr-pages/tldr",
+                "github": "tldr-pages/tldr",
+                "type": "github"
+            },
+            {
+                "title": "howdoi",
+                "href": "https://github.com/gleitz/howdoi",
+                "github": "gleitz/howdoi",
+                "type": "github"
+            },
+            {
+                "title": "how2",
+                "href": "https://github.com/santinic/how2",
+                "github": "santinic/how2",
+                "type": "github"
+            },
+            {
+                "title": "Cash",
+                "href": "https://github.com/dthree/cash",
+                "github": "dthree/cash",
+                "type": "github"
+            },
+            {
+                "title": "emoj",
+                "href": "https://github.com/sindresorhus/emoj",
+                "github": "sindresorhus/emoj",
+                "type": "github"
+            },
+            {
+                "title": "emoji-finder",
+                "href": "https://github.com/dematerializer/emoji-finder",
+                "github": "dematerializer/emoji-finder",
+                "type": "github"
+            },
+            {
+                "title": "trino",
+                "href": "https://github.com/eneserdogan/trino",
+                "github": "eneserdogan/trino",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Data Manipulation",
+        "childrens": [
+            {
+                "title": "jq",
+                "href": "https://github.com/stedolan/jq",
+                "github": "stedolan/jq",
+                "type": "github"
+            },
+            {
+                "title": "underscore-cli",
+                "href": "https://github.com/ddopson/underscore-cli",
+                "github": "ddopson/underscore-cli",
+                "type": "github"
+            },
+            {
+                "title": "ramda-cli",
+                "href": "https://github.com/raine/ramda-cli",
+                "github": "raine/ramda-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "File managers",
+        "childrens": [
+            {
+                "title": "ranger",
+                "href": "https://github.com/ranger/ranger",
+                "github": "ranger/ranger",
+                "type": "github"
+            },
+            {
+                "title": "midnight-commander",
+                "href": "https://github.com/MidnightCommander/mc",
+                "github": "MidnightCommander/mc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Deleting, Copying, and Renaming",
+        "childrens": [
+            {
+                "title": "trash-cli",
+                "href": "https://github.com/sindresorhus/trash-cli",
+                "github": "sindresorhus/trash-cli",
+                "type": "github"
+            },
+            {
+                "title": "empty-trash-cli",
+                "href": "https://github.com/sindresorhus/empty-trash-cli",
+                "github": "sindresorhus/empty-trash-cli",
+                "type": "github"
+            },
+            {
+                "title": "trashss",
+                "href": "https://github.com/sotojuan/trashss",
+                "github": "sotojuan/trashss",
+                "type": "github"
+            },
+            {
+                "title": "del-cli",
+                "href": "https://github.com/sindresorhus/del-cli",
+                "github": "sindresorhus/del-cli",
+                "type": "github"
+            },
+            {
+                "title": "cpy-cli",
+                "href": "https://github.com/sindresorhus/cpy-cli",
+                "github": "sindresorhus/cpy-cli",
+                "type": "github"
+            },
+            {
+                "title": "rename-cli",
+                "href": "https://github.com/jhotmann/node-rename-cli",
+                "github": "jhotmann/node-rename-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Files",
+        "childrens": [
+            {
+                "title": "file-type-cli",
+                "href": "https://github.com/sindresorhus/file-type-cli",
+                "github": "sindresorhus/file-type-cli",
+                "type": "github"
+            },
+            {
+                "title": "strip-json-comments-cli",
+                "href": "https://github.com/sindresorhus/strip-json-comments-cli",
+                "github": "sindresorhus/strip-json-comments-cli",
+                "type": "github"
+            },
+            {
+                "title": "DocToc",
+                "href": "https://github.com/thlorenz/doctoc",
+                "github": "thlorenz/doctoc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Directory Listing",
+        "childrens": [
+            {
+                "title": "alder",
+                "href": "https://github.com/aweary/alder",
+                "github": "aweary/alder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Directory Navigation",
+        "childrens": [
+            {
+                "title": "autojump",
+                "href": "https://github.com/wting/autojump",
+                "github": "wting/autojump",
+                "type": "github"
+            },
+            {
+                "title": "fasd",
+                "href": "https://github.com/clvv/fasd",
+                "github": "clvv/fasd",
+                "type": "github"
+            },
+            {
+                "title": "pm",
+                "href": "https://github.com/Angelmmiguel/pm",
+                "github": "Angelmmiguel/pm",
+                "type": "github"
+            },
+            {
+                "title": "z",
+                "href": "https://github.com/rupa/z",
+                "github": "rupa/z",
+                "type": "github"
+            },
+            {
+                "title": "happyfinder",
+                "href": "https://github.com/hugows/hf",
+                "github": "hugows/hf",
+                "type": "github"
+            },
+            {
+                "title": "PathPicker",
+                "href": "https://github.com/facebook/pathpicker/",
+                "github": "facebook/pathpicker/",
+                "type": "github"
+            },
+            {
+                "title": "find-up-cli",
+                "href": "https://github.com/sindresorhus/find-up-cli",
+                "github": "sindresorhus/find-up-cli",
+                "type": "github"
+            },
+            {
+                "title": "fz",
+                "href": "https://github.com/changyuheng/fz",
+                "github": "changyuheng/fz",
+                "type": "github"
+            },
+            {
+                "title": "nnn",
+                "href": "https://github.com/jarun/nnn",
+                "github": "jarun/nnn",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Git",
+        "childrens": [
+            {
+                "title": "CLI GitHub",
+                "href": "https://github.com/IonicaBizau/cli-github",
+                "github": "IonicaBizau/cli-github",
+                "type": "github"
+            },
+            {
+                "title": "Gistup",
+                "href": "https://github.com/mbostock/gistup",
+                "github": "mbostock/gistup",
+                "type": "github"
+            },
+            {
+                "title": "git commander",
+                "href": "https://github.com/golbin/git-commander",
+                "github": "golbin/git-commander",
+                "type": "github"
+            },
+            {
+                "title": "git-stats",
+                "href": "https://github.com/IonicaBizau/git-stats",
+                "github": "IonicaBizau/git-stats",
+                "type": "github"
+            },
+            {
+                "title": "hub",
+                "href": "https://github.com/github/hub",
+                "github": "github/hub",
+                "type": "github"
+            },
+            {
+                "title": "dev-time",
+                "href": "https://github.com/samverschueren/dev-time-cli",
+                "github": "samverschueren/dev-time-cli",
+                "type": "github"
+            },
+            {
+                "title": "git-labelmaker",
+                "href": "https://github.com/himynameisdave/git-labelmaker",
+                "github": "himynameisdave/git-labelmaker",
+                "type": "github"
+            },
+            {
+                "title": "tig",
+                "href": "https://github.com/jonas/tig",
+                "github": "jonas/tig",
+                "type": "github"
+            },
+            {
+                "title": "git-standup",
+                "href": "https://github.com/kamranahmedse/git-standup",
+                "github": "kamranahmedse/git-standup",
+                "type": "github"
+            },
+            {
+                "title": "starring",
+                "href": "https://github.com/ritz078/starring",
+                "github": "ritz078/starring",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Changelogs",
+        "childrens": [
+            {
+                "title": "clog",
+                "href": "https://github.com/kentcdodds/clog-cli",
+                "github": "kentcdodds/clog-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Gif Creation",
+        "childrens": [
+            {
+                "title": "gifgen",
+                "href": "https://github.com/lukechilds/gifgen",
+                "github": "lukechilds/gifgen",
+                "type": "github"
+            },
+            {
+                "title": "gifsicle",
+                "href": "https://github.com/kohler/gifsicle",
+                "github": "kohler/gifsicle",
+                "type": "github"
+            },
+            {
+                "title": "ttygif",
+                "href": "https://github.com/icholy/ttygif",
+                "github": "icholy/ttygif",
+                "type": "github"
+            },
+            {
+                "title": "ttygif",
+                "href": "https://github.com/sugyan/ttygif",
+                "github": "sugyan/ttygif",
+                "type": "github"
+            },
+            {
+                "title": "ttystudio",
+                "href": "https://github.com/chjj/ttystudio",
+                "github": "chjj/ttystudio",
+                "type": "github"
+            },
+            {
+                "title": "asciinema",
+                "href": "https://github.com/asciinema/asciinema",
+                "github": "asciinema/asciinema",
+                "type": "github"
+            },
+            {
+                "title": "givegif",
+                "href": "https://github.com/passy/givegif",
+                "github": "passy/givegif",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Image Conversion",
+        "childrens": [
+            {
+                "title": "imgp",
+                "href": "https://github.com/jarun/imgp",
+                "github": "jarun/imgp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SVG",
+        "childrens": [
+            {
+                "title": "SVGO",
+                "href": "https://github.com/svg/svgo",
+                "github": "svg/svgo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Text Manipulation",
+        "childrens": [
+            {
+                "title": "parse-columns-cli",
+                "href": "https://github.com/sindresorhus/parse-columns-cli",
+                "github": "sindresorhus/parse-columns-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Screensavers",
+        "childrens": [
+            {
+                "title": "cmatrix",
+                "href": "https://github.com/Treri/cmatrix",
+                "github": "Treri/cmatrix",
+                "type": "github"
+            },
+            {
+                "title": "pipes.sh",
+                "href": "https://github.com/pipeseroni/pipes.sh",
+                "github": "pipeseroni/pipes.sh",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Graphics",
+        "childrens": [
+            {
+                "title": "cli-mandelbrot",
+                "href": "https://github.com/danyshaanan/cli-mandelbrot",
+                "github": "danyshaanan/cli-mandelbrot",
+                "type": "github"
+            },
+            {
+                "title": "WOPR",
+                "href": "https://github.com/yaronn/wopr",
+                "github": "yaronn/wopr",
+                "type": "github"
+            },
+            {
+                "title": "sparkly-cli",
+                "href": "https://github.com/sindresorhus/sparkly-cli",
+                "github": "sindresorhus/sparkly-cli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other",
+        "childrens": [
+            {
+                "title": "app-path-cli",
+                "href": "https://github.com/sindresorhus/app-path-cli",
+                "github": "sindresorhus/app-path-cli",
+                "type": "github"
+            },
+            {
+                "title": "Bible.Js CLI client",
+                "href": "https://github.com/BibleJS/BibleApp",
+                "github": "BibleJS/BibleApp",
+                "type": "github"
+            },
+            {
+                "title": "birthday",
+                "href": "https://github.com/IonicaBizau/birthday",
+                "github": "IonicaBizau/birthday",
+                "type": "github"
+            },
+            {
+                "title": "cowsay",
+                "href": "https://github.com/tnalpgge/rank-amateur-cowsay",
+                "github": "tnalpgge/rank-amateur-cowsay",
+                "type": "github"
+            },
+            {
+                "title": "cgasm",
+                "href": "https://github.com/bnagy/cgasm",
+                "github": "bnagy/cgasm",
+                "type": "github"
+            },
+            {
+                "title": "detect-indent-cli",
+                "href": "https://github.com/sindresorhus/detect-indent-cli",
+                "github": "sindresorhus/detect-indent-cli",
+                "type": "github"
+            },
+            {
+                "title": "fullname-cli",
+                "href": "https://github.com/sindresorhus/fullname-cli",
+                "github": "sindresorhus/fullname-cli",
+                "type": "github"
+            },
+            {
+                "title": "get-port-cli",
+                "href": "https://github.com/sindresorhus/get-port-cli",
+                "github": "sindresorhus/get-port-cli",
+                "type": "github"
+            },
+            {
+                "title": "gzip-size-cli",
+                "href": "https://github.com/sindresorhus/gzip-size-cli",
+                "github": "sindresorhus/gzip-size-cli",
+                "type": "github"
+            },
+            {
+                "title": "HASHA -cli",
+                "href": "https://github.com/sindresorhus/hasha-cli",
+                "github": "sindresorhus/hasha-cli",
+                "type": "github"
+            },
+            {
+                "title": "is-reachable-cli",
+                "href": "https://github.com/beatfreaker/is-reachable-cli",
+                "github": "beatfreaker/is-reachable-cli",
+                "type": "github"
+            },
+            {
+                "title": "kill-tabs",
+                "href": "https://github.com/sindresorhus/kill-tabs",
+                "github": "sindresorhus/kill-tabs",
+                "type": "github"
+            },
+            {
+                "title": "leven-cli",
+                "href": "https://github.com/sindresorhus/leven-cli",
+                "github": "sindresorhus/leven-cli",
+                "type": "github"
+            },
+            {
+                "title": "maybe",
+                "href": "https://github.com/p-e-w/maybe",
+                "github": "p-e-w/maybe",
+                "type": "github"
+            },
+            {
+                "title": "mdlt",
+                "href": "https://github.com/metadelta/mdlt",
+                "github": "metadelta/mdlt",
+                "type": "github"
+            },
+            {
+                "title": "medium-cli",
+                "href": "https://github.com/djadmin/medium-cli",
+                "github": "djadmin/medium-cli",
+                "type": "github"
+            },
+            {
+                "title": "open-shortcut-cli",
+                "href": "https://github.com/sindresorhus/open-shortcut-cli",
+                "github": "sindresorhus/open-shortcut-cli",
+                "type": "github"
+            },
+            {
+                "title": "pkg-dir-cli",
+                "href": "https://github.com/sindresorhus/pkg-dir-cli",
+                "github": "sindresorhus/pkg-dir-cli",
+                "type": "github"
+            },
+            {
+                "title": "speed-test",
+                "href": "https://github.com/sindresorhus/speed-test",
+                "github": "sindresorhus/speed-test",
+                "type": "github"
+            },
+            {
+                "title": "shortcut-url-cli",
+                "href": "https://github.com/sindresorhus/shortcut-url-cli",
+                "github": "sindresorhus/shortcut-url-cli",
+                "type": "github"
+            },
+            {
+                "title": "SpeedRead",
+                "href": "https://github.com/sunsations/speed_read",
+                "github": "sunsations/speed_read",
+                "type": "github"
+            },
+            {
+                "title": "to-double-quotes",
+                "href": "https://github.com/sindresorhus/to-double-quotes-cli",
+                "github": "sindresorhus/to-double-quotes-cli",
+                "type": "github"
+            },
+            {
+                "title": "to-single-quotes",
+                "href": "https://github.com/sindresorhus/to-single-quotes-cli",
+                "github": "sindresorhus/to-single-quotes-cli",
+                "type": "github"
+            },
+            {
+                "title": "yosay",
+                "href": "https://github.com/yeoman/yosay",
+                "github": "yeoman/yosay",
+                "type": "github"
+            },
+            {
+                "title": "gdb-dashboard",
+                "href": "https://github.com/cyrus-and/gdb-dashboard",
+                "github": "cyrus-and/gdb-dashboard",
+                "type": "github"
+            },
+            {
+                "title": "weather-cli",
+                "href": "https://github.com/riyadhalnur/weather-cli",
+                "github": "riyadhalnur/weather-cli",
+                "type": "github"
+            },
+            {
+                "title": "hget",
+                "href": "https://github.com/bevacqua/hget",
+                "github": "bevacqua/hget",
+                "type": "github"
+            },
+            {
+                "title": "ponysay",
+                "href": "https://github.com/erkin/ponysay",
+                "github": "erkin/ponysay",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Lists",
+        "childrens": [
+            {
+                "title": "awesome-git-addons",
+                "href": "https://github.com/stevemao/awesome-git-addons",
+                "github": "stevemao/awesome-git-addons",
+                "type": "github"
+            }
+        ]
+    }
+]

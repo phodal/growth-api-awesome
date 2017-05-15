@@ -1,0 +1,93 @@
+[
+    {
+        "heading": "Official resources",
+        "childrens": [
+            {
+                "title": "GitHub repo",
+                "href": "https://github.com/saltstack/salt",
+                "github": "saltstack/salt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Code",
+        "childrens": [
+            {
+                "title": "zulily/alkali",
+                "href": "https://github.com/zulily/alkali",
+                "github": "zulily/alkali",
+                "type": "github"
+            },
+            {
+                "title": "zulily/buoyant",
+                "href": "https://github.com/zulily/buoyant",
+                "github": "zulily/buoyant",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tools",
+        "childrens": [
+            {
+                "title": "SaltPad",
+                "href": "https://github.com/Lothiraldan/saltpad",
+                "github": "Lothiraldan/saltpad",
+                "type": "github"
+            },
+            {
+                "title": "SaltShaker",
+                "href": "https://github.com/yueyongyue/saltshaker",
+                "github": "yueyongyue/saltshaker",
+                "type": "github"
+            },
+            {
+                "title": "SaltGUI",
+                "href": "https://github.com/oliverdunk/SaltGUI",
+                "github": "oliverdunk/SaltGUI",
+                "type": "github"
+            },
+            {
+                "title": "Pepperboard",
+                "href": "https://github.com/webedia-dev/pepperboard",
+                "github": "webedia-dev/pepperboard",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Formulas",
+        "childrens": [
+            {
+                "title": "SaltStack Formulas",
+                "href": "https://github.com/saltstack-formulas/",
+                "github": "saltstack-formulas/",
+                "type": "github"
+            },
+            {
+                "title": "Salt Formulas",
+                "href": "https://github.com/salt-formulas",
+                "github": "salt-formulas",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Cheat sheets",
+        "childrens": [
+            {
+                "title": "SaltStack Cheat Sheet Plus",
+                "href": "https://github.com/fmdlc/saltstack-cheatsheet",
+                "github": "fmdlc/saltstack-cheatsheet",
+                "type": "github"
+            },
+            {
+                "title": "SaltStack Wiki",
+                "href": "https://github.com/saltstack/salt/wiki/Cheat-Sheet",
+                "github": "saltstack/salt/wiki/Cheat-Sheet",
+                "type": "github"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "heading": "Another module list",
+        "childrens": [
+            {
+                "title": "Task::Kensho",
+                "href": "https://github.com/EnlightenedPerlOrganisation/task-kensho",
+                "github": "EnlightenedPerlOrganisation/task-kensho",
+                "type": "github"
+            },
+            {
+                "title": "Slaven's CPAN in a nutshell",
+                "href": "https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod",
+                "github": "eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Other Awesome Lists",
+        "childrens": [
+            {
+                "title": "bayandin/awesome-awesomeness",
+                "href": "https://github.com/bayandin/awesome-awesomeness",
+                "github": "bayandin/awesome-awesomeness",
+                "type": "github"
+            },
+            {
+                "title": "emijrp/awesome-awesome",
+                "href": "https://github.com/emijrp/awesome-awesome",
+                "github": "emijrp/awesome-awesome",
+                "type": "github"
+            },
+            {
+                "title": "fleveque/awesome-awesomes",
+                "href": "https://github.com/fleveque/awesome-awesomes",
+                "github": "fleveque/awesome-awesomes",
+                "type": "github"
+            },
+            {
+                "title": "sindresorhus/awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "t3chnoboy/awesome-awesome-awesome",
+                "href": "https://github.com/t3chnoboy/awesome-awesome-awesome",
+                "github": "t3chnoboy/awesome-awesome-awesome",
+                "type": "github"
+            }
+        ]
+    }
+]

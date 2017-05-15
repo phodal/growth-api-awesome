@@ -1,0 +1,926 @@
+[
+    {
+        "heading": "Automation",
+        "childrens": [
+            {
+                "title": "Episodes",
+                "href": "https://github.com/guptachetan1997/Episodes",
+                "github": "guptachetan1997/Episodes",
+                "type": "github"
+            },
+            {
+                "title": "Headphones",
+                "href": "https://github.com/rembo10/headphones",
+                "github": "rembo10/headphones",
+                "type": "github"
+            },
+            {
+                "title": "homebank-converter",
+                "href": "https://github.com/Binnette/homebank-converter",
+                "github": "Binnette/homebank-converter",
+                "type": "github"
+            },
+            {
+                "title": "Huginn",
+                "href": "https://github.com/cantino/huginn",
+                "github": "cantino/huginn",
+                "type": "github"
+            },
+            {
+                "title": "Medusa",
+                "href": "https://github.com/pymedusa/SickRage",
+                "github": "pymedusa/SickRage",
+                "type": "github"
+            },
+            {
+                "title": "RSS-Bridge",
+                "href": "https://github.com/sebsauvage/rss-bridge",
+                "github": "sebsauvage/rss-bridge",
+                "type": "github"
+            },
+            {
+                "title": "RSS Merger",
+                "href": "https://github.com/taophp/rss-merger",
+                "github": "taophp/rss-merger",
+                "type": "github"
+            },
+            {
+                "title": "WebUI-aria2",
+                "href": "https://github.com/ziahamza/webui-aria2",
+                "github": "ziahamza/webui-aria2",
+                "type": "github"
+            },
+            {
+                "title": "WTFDYUM",
+                "href": "https://github.com/jchampemont/WTFDYUM",
+                "github": "jchampemont/WTFDYUM",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Blogging Platforms",
+        "childrens": [
+            {
+                "title": "Chyrp",
+                "href": "https://github.com/chyrp/chyrp",
+                "github": "chyrp/chyrp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Bookmarks & Link Sharing",
+        "childrens": [
+            {
+                "title": "Bookie",
+                "href": "https://github.com/bookieio/Bookie",
+                "github": "bookieio/Bookie",
+                "type": "github"
+            },
+            {
+                "title": "dyu/bookmarks",
+                "href": "https://github.com/dyu/bookmarks",
+                "github": "dyu/bookmarks",
+                "type": "github"
+            },
+            {
+                "title": "Shaarli",
+                "href": "https://github.com/shaarli/Shaarli",
+                "github": "shaarli/Shaarli",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Custom",
+        "childrens": [
+            {
+                "title": "Centrifugo",
+                "href": "https://github.com/centrifugal/centrifugo",
+                "github": "centrifugal/centrifugo",
+                "type": "github"
+            },
+            {
+                "title": "Cherry",
+                "href": "https://github.com/rafael-santiago/cherry",
+                "github": "rafael-santiago/cherry",
+                "type": "github"
+            },
+            {
+                "title": "Node-Chat",
+                "href": "https://github.com/IgorAntun/node-chat",
+                "github": "IgorAntun/node-chat",
+                "type": "github"
+            },
+            {
+                "title": "TextBelt",
+                "href": "https://github.com/typpo/textbelt",
+                "github": "typpo/textbelt",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Complete solutions",
+        "childrens": [
+            {
+                "title": "docker-mailserver",
+                "href": "https://github.com/tomav/docker-mailserver",
+                "github": "tomav/docker-mailserver",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mail Transfer Agents",
+        "childrens": [
+            {
+                "title": "Maildrop",
+                "href": "https://github.com/m242/maildrop",
+                "github": "m242/maildrop",
+                "type": "github"
+            },
+            {
+                "title": "MailHog",
+                "href": "https://github.com/mailhog/MailHog",
+                "github": "mailhog/MailHog",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Social Networks and Forums",
+        "childrens": [
+            {
+                "title": "Abilian SBE",
+                "href": "https://github.com/abilian/abilian-sbe",
+                "github": "abilian/abilian-sbe",
+                "type": "github"
+            },
+            {
+                "title": "cartulary",
+                "href": "https://github.com/daveajones/cartulary",
+                "github": "daveajones/cartulary",
+                "type": "github"
+            },
+            {
+                "title": "dyu/comments",
+                "href": "https://github.com/dyu/comments/",
+                "github": "dyu/comments/",
+                "type": "github"
+            },
+            {
+                "title": "PPnet",
+                "href": "https://github.com/pixelpark/ppnet",
+                "github": "pixelpark/ppnet",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Document Archiving",
+        "childrens": [
+            {
+                "title": "Paperless",
+                "href": "https://github.com/danielquinn/paperless",
+                "github": "danielquinn/paperless",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Feed Readers",
+        "childrens": [
+            {
+                "title": "Leselys",
+                "href": "https://github.com/socketubs/leselys",
+                "github": "socketubs/leselys",
+                "type": "github"
+            },
+            {
+                "title": "RSS Monster",
+                "href": "https://github.com/pietheinstrengholt/rssmonster",
+                "github": "pietheinstrengholt/rssmonster",
+                "type": "github"
+            },
+            {
+                "title": "Screaming Liquid Tiger",
+                "href": "https://github.com/herrbischoff/screaming-liquid-tiger",
+                "github": "herrbischoff/screaming-liquid-tiger",
+                "type": "github"
+            },
+            {
+                "title": "Stringer",
+                "href": "https://github.com/swanson/stringer",
+                "github": "swanson/stringer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Peer-to-peer filesharing",
+        "childrens": [
+            {
+                "title": "instant.io",
+                "href": "https://github.com/feross/instant.io",
+                "github": "feross/instant.io",
+                "type": "github"
+            },
+            {
+                "title": "Magnetico",
+                "href": "https://github.com/boramalper/magnetico",
+                "github": "boramalper/magnetico",
+                "type": "github"
+            },
+            {
+                "title": "peerflix-server",
+                "href": "https://github.com/asapach/peerflix-server",
+                "github": "asapach/peerflix-server",
+                "type": "github"
+            },
+            {
+                "title": "rartracker",
+                "href": "https://github.com/swetorrentking/rartracker",
+                "github": "swetorrentking/rartracker",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Single-click/drag-n-drop upload",
+        "childrens": [
+            {
+                "title": "BoZoN",
+                "href": "https://github.com/broncowdd/BoZoN",
+                "github": "broncowdd/BoZoN",
+                "type": "github"
+            },
+            {
+                "title": "droppy",
+                "href": "https://github.com/silverwind/droppy",
+                "github": "silverwind/droppy",
+                "type": "github"
+            },
+            {
+                "title": "FileShelter",
+                "href": "https://github.com/epoupon/fileshelter",
+                "github": "epoupon/fileshelter",
+                "type": "github"
+            },
+            {
+                "title": "img.bi",
+                "href": "https://github.com/imgbi/img.bi",
+                "github": "imgbi/img.bi",
+                "type": "github"
+            },
+            {
+                "title": "linx",
+                "href": "https://github.com/andreimarcu/linx-server",
+                "github": "andreimarcu/linx-server",
+                "type": "github"
+            },
+            {
+                "title": "lutim",
+                "href": "https://github.com/ldidry/lutim",
+                "github": "ldidry/lutim",
+                "type": "github"
+            },
+            {
+                "title": "Nimbus",
+                "href": "https://github.com/ethanal/nimbus",
+                "github": "ethanal/nimbus",
+                "type": "github"
+            },
+            {
+                "title": "OnionShare",
+                "href": "https://github.com/micahflee/onionshare",
+                "github": "micahflee/onionshare",
+                "type": "github"
+            },
+            {
+                "title": "Plik",
+                "href": "https://github.com/root-gg/plik",
+                "github": "root-gg/plik",
+                "type": "github"
+            },
+            {
+                "title": "Pomf",
+                "href": "https://github.com/Pomf/Pomf",
+                "github": "Pomf/Pomf",
+                "type": "github"
+            },
+            {
+                "title": "PsiTransfer",
+                "href": "https://github.com/psi-4ward/psitransfer",
+                "github": "psi-4ward/psitransfer",
+                "type": "github"
+            },
+            {
+                "title": "Up1",
+                "href": "https://github.com/Upload/Up1",
+                "github": "Upload/Up1",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web based file managers",
+        "childrens": [
+            {
+                "title": "explorer",
+                "href": "https://github.com/soyuka/explorer",
+                "github": "soyuka/explorer",
+                "type": "github"
+            },
+            {
+                "title": "goBrowser",
+                "href": "https://github.com/xataz/gobrowser",
+                "github": "xataz/gobrowser",
+                "type": "github"
+            },
+            {
+                "title": "Surfer",
+                "href": "https://github.com/nebulade/surfer",
+                "github": "nebulade/surfer",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Games",
+        "childrens": [
+            {
+                "title": "0hh1",
+                "href": "https://github.com/Q42/0hh1",
+                "github": "Q42/0hh1",
+                "type": "github"
+            },
+            {
+                "title": "A Dark Room",
+                "href": "https://github.com/doublespeakgames/adarkroom",
+                "github": "doublespeakgames/adarkroom",
+                "type": "github"
+            },
+            {
+                "title": "Agar.IO Clone",
+                "href": "https://github.com/huytd/agar.io-clone",
+                "github": "huytd/agar.io-clone",
+                "type": "github"
+            },
+            {
+                "title": "battlecraft",
+                "href": "https://github.com/jbreindel/battlecraft",
+                "github": "jbreindel/battlecraft",
+                "type": "github"
+            },
+            {
+                "title": "Clumsy Bird",
+                "href": "https://github.com/ellisonleao/clumsy-bird",
+                "github": "ellisonleao/clumsy-bird",
+                "type": "github"
+            },
+            {
+                "title": "Hextris",
+                "href": "https://github.com/Hextris/hextris",
+                "github": "Hextris/hextris",
+                "type": "github"
+            },
+            {
+                "title": "Posio",
+                "href": "https://github.com/abrenaut/posio/",
+                "github": "abrenaut/posio/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Maps & GPS",
+        "childrens": [
+            {
+                "title": "MapBBCodeShare",
+                "href": "https://github.com/MapBBCode/share.mapbbcode.org",
+                "github": "MapBBCode/share.mapbbcode.org",
+                "type": "github"
+            },
+            {
+                "title": "OwnTracks Recorder",
+                "href": "https://github.com/owntracks/recorder",
+                "github": "owntracks/recorder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Audio Streaming",
+        "childrens": [
+            {
+                "title": "cloudtunes",
+                "href": "https://github.com/jkbrzt/cloudtunes",
+                "github": "jkbrzt/cloudtunes",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Video Streaming",
+        "childrens": [
+            {
+                "title": "CyTube",
+                "href": "https://github.com/calzoneman/sync",
+                "github": "calzoneman/sync",
+                "type": "github"
+            },
+            {
+                "title": "Hellowlol HTPC Manager fork",
+                "href": "https://github.com/Hellowlol/HTPC-Manager",
+                "github": "Hellowlol/HTPC-Manager",
+                "type": "github"
+            },
+            {
+                "title": "Streama",
+                "href": "https://github.com/dularion/streama",
+                "github": "dularion/streama",
+                "type": "github"
+            },
+            {
+                "title": "Zoneminder",
+                "href": "https://github.com/ZoneMinder/ZoneMinder",
+                "github": "ZoneMinder/ZoneMinder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc/Other",
+        "childrens": [
+            {
+                "title": "Flox",
+                "href": "https://github.com/devfake/flox",
+                "github": "devfake/flox",
+                "type": "github"
+            },
+            {
+                "title": "google-webfonts-helper",
+                "href": "https://github.com/majodev/google-webfonts-helper",
+                "github": "majodev/google-webfonts-helper",
+                "type": "github"
+            },
+            {
+                "title": "King Phisher",
+                "href": "https://github.com/securestate/king-phisher",
+                "github": "securestate/king-phisher",
+                "type": "github"
+            },
+            {
+                "title": "Mindmaps",
+                "href": "https://github.com/drichard/mindmaps",
+                "github": "drichard/mindmaps",
+                "type": "github"
+            },
+            {
+                "title": "Trello Burndown",
+                "href": "https://github.com/swordbeta/trello-burndown",
+                "github": "swordbeta/trello-burndown",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Money, Budgeting and Management",
+        "childrens": [
+            {
+                "title": "Benedetto",
+                "href": "https://github.com/arecker/bennedetto",
+                "github": "arecker/bennedetto",
+                "type": "github"
+            },
+            {
+                "title": "ExMoney",
+                "href": "https://github.com/gaynetdinov/ex_money",
+                "github": "gaynetdinov/ex_money",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Note-taking & Editors",
+        "childrens": [
+            {
+                "title": "Markdown Edit",
+                "href": "http://georgeosddev.github.com/markdown-edit/",
+                "github": ".github.com/markdown-edit/",
+                "type": "github"
+            },
+            {
+                "title": "minimalist-web-notepad",
+                "href": "https://github.com/pereorga/minimalist-web-notepad",
+                "github": "pereorga/minimalist-web-notepad",
+                "type": "github"
+            },
+            {
+                "title": "notes",
+                "href": "https://github.com/SSilence/notes",
+                "github": "SSilence/notes",
+                "type": "github"
+            },
+            {
+                "title": "OpenNote",
+                "href": "https://github.com/FoxUSA/OpenNote",
+                "github": "FoxUSA/OpenNote",
+                "type": "github"
+            },
+            {
+                "title": "savepad",
+                "href": "https://github.com/novavex/textpad",
+                "github": "novavex/textpad",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Office Suites",
+        "childrens": [
+            {
+                "title": "EtherDraw",
+                "href": "https://github.com/JohnMcLear/draw",
+                "github": "JohnMcLear/draw",
+                "type": "github"
+            },
+            {
+                "title": "Infinoted",
+                "href": "https://github.com/gobby/gobby/wiki/Dedicated%20Server",
+                "github": "gobby/gobby/wiki/Dedicated%20Server",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Pastebins",
+        "childrens": [
+            {
+                "title": "0bin",
+                "href": "https://github.com/sametmax/0bin",
+                "github": "sametmax/0bin",
+                "type": "github"
+            },
+            {
+                "title": "CoderVault",
+                "href": "https://github.com/codervault",
+                "github": "codervault",
+                "type": "github"
+            },
+            {
+                "title": "EdPaste",
+                "href": "https://github.com/Edraens/EdPaste",
+                "github": "Edraens/EdPaste",
+                "type": "github"
+            },
+            {
+                "title": "localpaste",
+                "href": "https://github.com/petermaloney/localpaste",
+                "github": "petermaloney/localpaste",
+                "type": "github"
+            },
+            {
+                "title": "pb",
+                "href": "https://github.com/ptpb/pb",
+                "github": "ptpb/pb",
+                "type": "github"
+            },
+            {
+                "title": "pbnh",
+                "href": "https://github.com/bhanderson/pbnh",
+                "github": "bhanderson/pbnh",
+                "type": "github"
+            },
+            {
+                "title": "SharpPaste",
+                "href": "https://github.com/phonicmouse/SharpPaste",
+                "github": "phonicmouse/SharpPaste",
+                "type": "github"
+            },
+            {
+                "title": "Stikked",
+                "href": "https://github.com/claudehohl/Stikked",
+                "github": "claudehohl/Stikked",
+                "type": "github"
+            },
+            {
+                "title": "tastebin",
+                "href": "https://github.com/andreineculau/tastebin",
+                "github": "andreineculau/tastebin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Personal Dashboards",
+        "childrens": [
+            {
+                "title": "Dj Diabetes",
+                "href": "https://github.com/foxmask/dj-diabetes",
+                "github": "foxmask/dj-diabetes",
+                "type": "github"
+            },
+            {
+                "title": "Homepage",
+                "href": "https://github.com/thetomester13/homepage",
+                "github": "thetomester13/homepage",
+                "type": "github"
+            },
+            {
+                "title": "iDashboard-PHP",
+                "href": "https://github.com/causefx/iDashboard-PHP",
+                "github": "causefx/iDashboard-PHP",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Photo and Video Galleries",
+        "childrens": [
+            {
+                "title": "MinigalNano",
+                "href": "https://github.com/sebsauvage/MinigalNano",
+                "github": "sebsauvage/MinigalNano",
+                "type": "github"
+            },
+            {
+                "title": "Photato",
+                "href": "https://github.com/trebonius0/Photato",
+                "github": "trebonius0/Photato",
+                "type": "github"
+            },
+            {
+                "title": "PhotoLight",
+                "href": "https://github.com/thibaud-rohmer/PhotoLight",
+                "github": "thibaud-rohmer/PhotoLight",
+                "type": "github"
+            },
+            {
+                "title": "sigal",
+                "href": "https://github.com/saimn/sigal",
+                "github": "saimn/sigal",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Polls and Events",
+        "childrens": [
+            {
+                "title": "MaterialPoll",
+                "href": "https://github.com/nearbycoder/materialpoll",
+                "github": "nearbycoder/materialpoll",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Proxy",
+        "childrens": [
+            {
+                "title": "http2-serverpush-proxy",
+                "href": "https://github.com/n1try/http2-serverpush-proxy",
+                "github": "n1try/http2-serverpush-proxy",
+                "type": "github"
+            },
+            {
+                "title": "microproxy",
+                "href": "https://github.com/thekvs/microproxy",
+                "github": "thekvs/microproxy",
+                "type": "github"
+            },
+            {
+                "title": "miniProxy",
+                "href": "https://github.com/joshdick/miniProxy/",
+                "github": "joshdick/miniProxy/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Search Engines",
+        "childrens": [
+            {
+                "title": "Searx",
+                "href": "https://github.com/asciimoo/searx",
+                "github": "asciimoo/searx",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Project Management",
+        "childrens": [
+            {
+                "title": "Git WebUI",
+                "href": "https://github.com/alberthier/git-webui",
+                "github": "alberthier/git-webui",
+                "type": "github"
+            },
+            {
+                "title": "Gogs",
+                "href": "https://github.com/gogits/gogs",
+                "github": "gogits/gogs",
+                "type": "github"
+            },
+            {
+                "title": "Klaus",
+                "href": "https://github.com/jonashaag/klaus/",
+                "github": "jonashaag/klaus/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "IDE/Tools",
+        "childrens": [
+            {
+                "title": "Wide",
+                "href": "https://github.com/b3log/wide",
+                "github": "b3log/wide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "API Management",
+        "childrens": [
+            {
+                "title": "Endpoint",
+                "href": "https://github.com/LINKIWI/endpoint/",
+                "github": "LINKIWI/endpoint/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Documentation Generators",
+        "childrens": [
+            {
+                "title": "markdown-tree",
+                "href": "https://github.com/mil/markdown-tree",
+                "github": "mil/markdown-tree",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Task management/To-do lists",
+        "childrens": [
+            {
+                "title": "Crepido",
+                "href": "https://github.com/arshad/crepido",
+                "github": "arshad/crepido",
+                "type": "github"
+            },
+            {
+                "title": "omgnata",
+                "href": "https://github.com/chr15m/omgnata",
+                "github": "chr15m/omgnata",
+                "type": "github"
+            },
+            {
+                "title": "PHP Task/Todo list",
+                "href": "https://github.com/lgg/tasks.php",
+                "github": "lgg/tasks.php",
+                "type": "github"
+            },
+            {
+                "title": "Tasks",
+                "href": "https://github.com/thewhitetulip/Tasks",
+                "github": "thewhitetulip/Tasks",
+                "type": "github"
+            },
+            {
+                "title": "tasks.php",
+                "href": "https://github.com/RaymiiOrg/tasks.php",
+                "github": "RaymiiOrg/tasks.php",
+                "type": "github"
+            },
+            {
+                "title": "Tinyissue",
+                "href": "https://github.com/satrun77/tinyissue",
+                "github": "satrun77/tinyissue",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Ticketing",
+        "childrens": [
+            {
+                "title": "Deskulu",
+                "href": "https://github.com/Taskulu/deskulu",
+                "github": "Taskulu/deskulu",
+                "type": "github"
+            },
+            {
+                "title": "HuBoard",
+                "href": "https://github.com/huboard/huboard",
+                "github": "huboard/huboard",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "URL Shorteners",
+        "childrens": [
+            {
+                "title": "Lstu",
+                "href": "https://github.com/ldidry/lstu",
+                "github": "ldidry/lstu",
+                "type": "github"
+            },
+            {
+                "title": "Nimbus",
+                "href": "https://github.com/ethanal/nimbus",
+                "github": "ethanal/nimbus",
+                "type": "github"
+            },
+            {
+                "title": "shuri",
+                "href": "https://github.com/pips-/shuri",
+                "github": "pips-/shuri",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Wikis",
+        "childrens": [
+            {
+                "title": "django-wiki",
+                "href": "https://github.com/django-wiki/django-wiki",
+                "github": "django-wiki/django-wiki",
+                "type": "github"
+            },
+            {
+                "title": "Gitit",
+                "href": "https://github.com/jgm/gitit",
+                "github": "jgm/gitit",
+                "type": "github"
+            },
+            {
+                "title": "Gollum",
+                "href": "https://github.com/gollum/gollum",
+                "github": "gollum/gollum",
+                "type": "github"
+            },
+            {
+                "title": "jingo",
+                "href": "https://github.com/claudioc/jingo",
+                "github": "claudioc/jingo",
+                "type": "github"
+            },
+            {
+                "title": "Olelo",
+                "href": "https://github.com/minad/olelo",
+                "github": "minad/olelo",
+                "type": "github"
+            },
+            {
+                "title": "Pepperminty Wiki",
+                "href": "https://github.com/sbrl/Pepperminty-Wiki/",
+                "github": "sbrl/Pepperminty-Wiki/",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Self-hosting Solutions",
+        "childrens": [
+            {
+                "title": "FreedomBone",
+                "href": "https://github.com/bashrc/freedombone",
+                "github": "bashrc/freedombone",
+                "type": "github"
+            },
+            {
+                "title": "sovereign",
+                "href": "https://github.com/sovereign/sovereign",
+                "github": "sovereign/sovereign",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "External links",
+        "childrens": [
+            {
+                "title": "Awesome Big Data",
+                "href": "https://github.com/onurakpolat/awesome-bigdata",
+                "github": "onurakpolat/awesome-bigdata",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Sysadmin",
+                "href": "https://github.com/n1trux/awesome-sysadmin",
+                "github": "n1trux/awesome-sysadmin",
+                "type": "github"
+            }
+        ]
+    }
+]

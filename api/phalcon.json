@@ -1,0 +1,918 @@
+[
+    {
+        "heading": "ACL",
+        "childrens": [
+            {
+                "title": "PhalconUserPlugin",
+                "href": "https://github.com/calinrada/PhalconUserPlugin",
+                "github": "calinrada/PhalconUserPlugin",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Application Skeleton",
+        "childrens": [
+            {
+                "title": "Album O'Rama",
+                "href": "https://github.com/phalcon/album-o-rama",
+                "github": "phalcon/album-o-rama",
+                "type": "github"
+            },
+            {
+                "title": "Base App",
+                "href": "https://github.com/mruz/base-app",
+                "github": "mruz/base-app",
+                "type": "github"
+            },
+            {
+                "title": "INVO Application",
+                "href": "https://github.com/phalcon/invo",
+                "github": "phalcon/invo",
+                "type": "github"
+            },
+            {
+                "title": "Lightning",
+                "href": "https://github.com/zxz054321/lightning/",
+                "github": "zxz054321/lightning/",
+                "type": "github"
+            },
+            {
+                "title": "MVC",
+                "href": "https://github.com/phalcon/mvc",
+                "github": "phalcon/mvc",
+                "type": "github"
+            },
+            {
+                "title": "nest",
+                "href": "https://github.com/nexik/nest",
+                "github": "nexik/nest",
+                "type": "github"
+            },
+            {
+                "title": "phalanx",
+                "href": "https://github.com/Swader/phalanx",
+                "github": "Swader/phalanx",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Boilerplate",
+                "href": "https://github.com/mikegioia/phalcon-boilerplate",
+                "github": "mikegioia/phalcon-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Framework App",
+                "href": "https://github.com/eristoddle/phalcon-gumby2-experiment",
+                "github": "eristoddle/phalcon-gumby2-experiment",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon HMVC Skeleton",
+                "href": "https://github.com/zekiunal/PhalconHMVCSkeletonApplication",
+                "github": "zekiunal/PhalconHMVCSkeletonApplication",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Jumpstart",
+                "href": "https://github.com/nguyenducduy/phalcon-jumpstart",
+                "github": "nguyenducduy/phalcon-jumpstart",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Module Skeleton",
+                "href": "https://github.com/ovr/phalcon-module-skeleton",
+                "github": "ovr/phalcon-module-skeleton",
+                "type": "github"
+            },
+            {
+                "title": "phalcon.angular.bootstrap",
+                "href": "https://github.com/zhegwood/phalcon.angular.bootstrap",
+                "github": "zhegwood/phalcon.angular.bootstrap",
+                "type": "github"
+            },
+            {
+                "title": "PhalconPHP-Setup-Example",
+                "href": "https://github.com/ewartx/PhalconPHP-Setup-Example",
+                "github": "ewartx/PhalconPHP-Setup-Example",
+                "type": "github"
+            },
+            {
+                "title": "Solid Layer",
+                "href": "https://github.com/solid-layer/solid-layer",
+                "github": "solid-layer/solid-layer",
+                "type": "github"
+            },
+            {
+                "title": "Vökuró",
+                "href": "https://github.com/phalcon/vokuro",
+                "github": "phalcon/vokuro",
+                "type": "github"
+            },
+            {
+                "title": "Webird",
+                "href": "https://github.com/perchlayer/webird",
+                "github": "perchlayer/webird",
+                "type": "github"
+            },
+            {
+                "title": "phalconMvc",
+                "href": "https://github.com/kcloze/phalconMvc",
+                "github": "kcloze/phalconMvc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication & OAuth",
+        "childrens": [
+            {
+                "title": "phalcon-authmiddleware",
+                "href": "https://github.com/SidRoberts/phalcon-authmiddleware",
+                "github": "SidRoberts/phalcon-authmiddleware",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-oauth2-server",
+                "href": "https://github.com/nueko/phalcon-oauth2-server",
+                "github": "nueko/phalcon-oauth2-server",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "CMS & Blogs",
+        "childrens": [
+            {
+                "title": "blog",
+                "href": "https://github.com/duythien/blog",
+                "github": "duythien/blog",
+                "type": "github"
+            },
+            {
+                "title": "giada-www",
+                "href": "https://github.com/monocasual/giada-www",
+                "github": "monocasual/giada-www",
+                "type": "github"
+            },
+            {
+                "title": "phalconBlog",
+                "href": "https://github.com/eristoddle/phalconBlog",
+                "github": "eristoddle/phalconBlog",
+                "type": "github"
+            },
+            {
+                "title": "PhalconEye",
+                "href": "https://github.com/PhalconEye/phalconeye",
+                "github": "PhalconEye/phalconeye",
+                "type": "github"
+            },
+            {
+                "title": "Skopy Blog Engine",
+                "href": "https://github.com/yuriygr/skopy",
+                "github": "yuriygr/skopy",
+                "type": "github"
+            },
+            {
+                "title": "Talon",
+                "href": "https://github.com/adamdama/Talon",
+                "github": "adamdama/Talon",
+                "type": "github"
+            },
+            {
+                "title": "Vegas CMF",
+                "href": "https://github.com/vegas-cmf",
+                "github": "vegas-cmf",
+                "type": "github"
+            },
+            {
+                "title": "Yona CMS",
+                "href": "https://github.com/oleksandr-torosh/yona-cms",
+                "github": "oleksandr-torosh/yona-cms",
+                "type": "github"
+            },
+            {
+                "title": "PhalconCMS",
+                "href": "https://github.com/KevinJay/PhalconCMS",
+                "github": "KevinJay/PhalconCMS",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Command Line",
+        "childrens": [
+            {
+                "title": "phalcon-console",
+                "href": "https://github.com/viebig/phalcon-console",
+                "github": "viebig/phalcon-console",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-cron",
+                "href": "https://github.com/SidRoberts/phalcon-cron",
+                "github": "SidRoberts/phalcon-cron",
+                "type": "github"
+            },
+            {
+                "title": "phalcon_cron",
+                "href": "https://github.com/temafey/phalcon_cron",
+                "github": "temafey/phalcon_cron",
+                "type": "github"
+            },
+            {
+                "title": "php-cli-app-phalcon",
+                "href": "https://github.com/jeteokeeffe/php-cli-app-phalcon",
+                "github": "jeteokeeffe/php-cli-app-phalcon",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Dashboard",
+        "childrens": [
+            {
+                "title": "dasshy",
+                "href": "https://github.com/phalcon/dasshy",
+                "github": "phalcon/dasshy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Debug",
+        "childrens": [
+            {
+                "title": "dd",
+                "href": "https://github.com/phalcon/dd",
+                "github": "phalcon/dd",
+                "type": "github"
+            },
+            {
+                "title": "PDW",
+                "href": "https://github.com/jymboche/phalcon-debug-widget",
+                "github": "jymboche/phalcon-debug-widget",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Console",
+                "href": "https://github.com/vanchelo/phalcon-console",
+                "github": "vanchelo/phalcon-console",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Debugbar",
+                "href": "https://github.com/snowair/phalcon-debugbar",
+                "github": "snowair/phalcon-debugbar",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Whoops",
+                "href": "https://github.com/whoops-php/phalcon",
+                "github": "whoops-php/phalcon",
+                "type": "github"
+            },
+            {
+                "title": "Prophiler",
+                "href": "https://github.com/fabfuel/prophiler",
+                "github": "fabfuel/prophiler",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "DI",
+        "childrens": [
+            {
+                "title": "phalcon-autoload-services",
+                "href": "https://github.com/JimmDiGrizli/phalcon-autoload-services",
+                "github": "JimmDiGrizli/phalcon-autoload-services",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-service-loader",
+                "href": "https://github.com/serebro/phalcon-service-loader",
+                "github": "serebro/phalcon-service-loader",
+                "type": "github"
+            },
+            {
+                "title": "pidic",
+                "href": "https://github.com/phalette/pidic",
+                "github": "phalette/pidic",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Docs",
+        "childrens": [
+            {
+                "title": "kolibri",
+                "href": "https://github.com/philippgerard/kolibri",
+                "github": "philippgerard/kolibri",
+                "type": "github"
+            },
+            {
+                "title": "phaldoc",
+                "href": "https://github.com/Riu/phaldoc",
+                "github": "Riu/phaldoc",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Events",
+        "childrens": [
+            {
+                "title": "Phact",
+                "href": "https://github.com/wandersonwhcr/phact",
+                "github": "wandersonwhcr/phact",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Forms",
+        "childrens": [
+            {
+                "title": "Phalcon Preserve Post",
+                "href": "https://github.com/JREAM/phalcon-preserve-post",
+                "github": "JREAM/phalcon-preserve-post",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-form-decorators",
+                "href": "https://github.com/Michal-St/phalcon-form-decorators",
+                "github": "Michal-St/phalcon-form-decorators",
+                "type": "github"
+            },
+            {
+                "title": "phalconCssForm",
+                "href": "https://github.com/Zheness/phalconCssForm",
+                "github": "Zheness/phalconCssForm",
+                "type": "github"
+            },
+            {
+                "title": "Superform",
+                "href": "https://github.com/encodez/superform",
+                "github": "encodez/superform",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "i18n",
+        "childrens": [
+            {
+                "title": "Phalcon Translate Service",
+                "href": "https://github.com/stanislav-web/phalcon-translate",
+                "github": "stanislav-web/phalcon-translate",
+                "type": "github"
+            },
+            {
+                "title": "xgettext-template",
+                "href": "https://github.com/gmarty/xgettext",
+                "github": "gmarty/xgettext",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Translation Module",
+                "href": "https://github.com/uLow/phalcon-translate",
+                "github": "uLow/phalcon-translate",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Integration",
+        "childrens": [
+            {
+                "title": "phalcon-logentries",
+                "href": "https://github.com/phalcon/phalcon-logentries",
+                "github": "phalcon/phalcon-logentries",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Mail",
+        "childrens": [
+            {
+                "title": "Phalcon Mailer",
+                "href": "https://github.com/vanchelo/phalcon-mailer",
+                "github": "vanchelo/phalcon-mailer",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Mailer",
+                "href": "https://github.com/phalcon-ext/mailer",
+                "github": "phalcon-ext/mailer",
+                "type": "github"
+            },
+            {
+                "title": "sendmail",
+                "href": "https://github.com/duythien/sendmail",
+                "github": "duythien/sendmail",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Media",
+        "childrens": [
+            {
+                "title": "nova",
+                "href": "https://github.com/nohatssir/nova",
+                "github": "nohatssir/nova",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon File Uploader",
+                "href": "https://github.com/stanislav-web/phalcon-uploader",
+                "github": "stanislav-web/phalcon-uploader",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Breadcrumbs",
+                "href": "https://github.com/phalcon/breadcrumbs",
+                "github": "phalcon/breadcrumbs",
+                "type": "github"
+            },
+            {
+                "title": "Incubator",
+                "href": "https://github.com/phalcon/incubator",
+                "github": "phalcon/incubator",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Enterprise",
+                "href": "https://github.com/techpivot/phalcon-enterprise",
+                "github": "techpivot/phalcon-enterprise",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-recaptcha",
+                "href": "https://github.com/pavlosadovyi/phalcon-recaptcha",
+                "github": "pavlosadovyi/phalcon-recaptcha",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-widget",
+                "href": "https://github.com/serebro/phalcon-widget",
+                "github": "serebro/phalcon-widget",
+                "type": "github"
+            },
+            {
+                "title": "PhalconBlacklist",
+                "href": "https://github.com/touhonoob/PhalconBlacklist",
+                "github": "touhonoob/PhalconBlacklist",
+                "type": "github"
+            },
+            {
+                "title": "PhalconPoll",
+                "href": "https://github.com/touhonoob/PhalconPoll",
+                "github": "touhonoob/PhalconPoll",
+                "type": "github"
+            },
+            {
+                "title": "Phalcony",
+                "href": "https://github.com/ovr/phalcony",
+                "github": "ovr/phalcony",
+                "type": "github"
+            },
+            {
+                "title": "yarak",
+                "href": "https://github.com/zachleigh/yarak",
+                "github": "zachleigh/yarak",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Networking",
+        "childrens": [
+            {
+                "title": "phalcon-expressive",
+                "href": "https://github.com/theDisco/phalcon-expressive",
+                "github": "theDisco/phalcon-expressive",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "ORM",
+        "childrens": [
+            {
+                "title": "phalcon-boundmodels",
+                "href": "https://github.com/SidRoberts/phalcon-boundmodels",
+                "github": "SidRoberts/phalcon-boundmodels",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-mssql",
+                "href": "https://github.com/fishjerky/phalcon-mssql",
+                "github": "fishjerky/phalcon-mssql",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-seeder",
+                "href": "https://github.com/SidRoberts/phalcon-seeder",
+                "github": "SidRoberts/phalcon-seeder",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "RESTful",
+        "childrens": [
+            {
+                "title": "Phalcon Development Boards",
+                "href": "https://github.com/stanislav-web/Phalcon-development",
+                "github": "stanislav-web/Phalcon-development",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon REST",
+                "href": "https://github.com/redound/phalcon-rest",
+                "github": "redound/phalcon-rest",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Rest JWT",
+                "href": "https://github.com/nerfe/phalconphp-rest-jwt-acl",
+                "github": "nerfe/phalconphp-rest-jwt-acl",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Restful Webservice",
+                "href": "https://github.com/praswicaksono/phalcon-restful-webservice",
+                "github": "praswicaksono/phalcon-restful-webservice",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-api-ouath2",
+                "href": "https://github.com/goors/phalcon-api-oauth2",
+                "github": "goors/phalcon-api-oauth2",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-rest-boilerplate",
+                "href": "https://github.com/redound/phalcon-rest-boilerplate",
+                "github": "redound/phalcon-rest-boilerplate",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-json-api",
+                "href": "https://github.com/gte451f/phalcon-json-api",
+                "github": "gte451f/phalcon-json-api",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-json-api-package",
+                "href": "https://github.com/gte451f/phalcon-json-api-package",
+                "github": "gte451f/phalcon-json-api-package",
+                "type": "github"
+            },
+            {
+                "title": "PhalconRest",
+                "href": "https://github.com/cmoore4/phalcon-rest",
+                "github": "cmoore4/phalcon-rest",
+                "type": "github"
+            },
+            {
+                "title": "phest",
+                "href": "https://github.com/ovide/phest",
+                "github": "ovide/phest",
+                "type": "github"
+            },
+            {
+                "title": "php-hmac-rest-api",
+                "href": "https://github.com/jeteokeeffe/php-hmac-rest-api",
+                "github": "jeteokeeffe/php-hmac-rest-api",
+                "type": "github"
+            },
+            {
+                "title": "PhREST API",
+                "href": "https://github.com/phrest/api",
+                "github": "phrest/api",
+                "type": "github"
+            },
+            {
+                "title": "rest-seed",
+                "href": "https://github.com/michaelkrone/rest-seed",
+                "github": "michaelkrone/rest-seed",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Routing",
+        "childrens": [
+            {
+                "title": "Phalcon-autorouter",
+                "href": "https://github.com/kamilhurajt/Phalcon-autorouter",
+                "github": "kamilhurajt/Phalcon-autorouter",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Scaffolding",
+        "childrens": [
+            {
+                "title": "generator-phalcon",
+                "href": "https://github.com/michaelkrone/generator-phalcon",
+                "github": "michaelkrone/generator-phalcon",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-bootstrap",
+                "href": "https://github.com/JimmDiGrizli/phalcon-bootstrap",
+                "github": "JimmDiGrizli/phalcon-bootstrap",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Searching",
+        "childrens": [
+            {
+                "title": "ElasticsearchIndexer",
+                "href": "https://github.com/SidRoberts/phalcon-elasticsearchindexer",
+                "github": "SidRoberts/phalcon-elasticsearchindexer",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-datatables",
+                "href": "https://github.com/m1ome/phalcon-datatables",
+                "github": "m1ome/phalcon-datatables",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-elasticsearch",
+                "href": "https://github.com/ovr/phalcon-elasticsearch",
+                "github": "ovr/phalcon-elasticsearch",
+                "type": "github"
+            },
+            {
+                "title": "Searcher",
+                "href": "https://github.com/stanislav-web/Searcher",
+                "github": "stanislav-web/Searcher",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Shopping",
+        "childrens": [
+            {
+                "title": "phalcon_cart",
+                "href": "https://github.com/uno-de-piera/phalcon_cart",
+                "github": "uno-de-piera/phalcon_cart",
+                "type": "github"
+            },
+            {
+                "title": "phasty",
+                "href": "https://github.com/chaban/phasty",
+                "github": "chaban/phasty",
+                "type": "github"
+            },
+            {
+                "title": "Cashier",
+                "href": "https://github.com/duythien/cashier",
+                "github": "duythien/cashier",
+                "type": "github"
+            },
+            {
+                "title": "Yona E-commerce",
+                "href": "https://github.com/oleksandr-torosh/yona-ecommerce",
+                "github": "oleksandr-torosh/yona-ecommerce",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "SMS",
+        "childrens": [
+            {
+                "title": "Multiple SMS Sender factory",
+                "href": "https://github.com/stanislav-web/phalcon-sms-factory",
+                "github": "stanislav-web/phalcon-sms-factory",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Talks",
+        "childrens": [
+            {
+                "title": "phalcon-chat",
+                "href": "https://github.com/sintsov/phalcon-chat",
+                "github": "sintsov/phalcon-chat",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-tip",
+                "href": "https://github.com/duythien/phalcon-tip",
+                "github": "duythien/phalcon-tip",
+                "type": "github"
+            },
+            {
+                "title": "phanbook",
+                "href": "https://github.com/phanbook/phanbook/",
+                "github": "phanbook/phanbook/",
+                "type": "github"
+            },
+            {
+                "title": "Phosphorum",
+                "href": "https://github.com/phalcon/forum",
+                "github": "phalcon/forum",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Templating",
+        "childrens": [
+            {
+                "title": "jade-phalcon",
+                "href": "https://github.com/kylekatarnls/jade-phalcon",
+                "github": "kylekatarnls/jade-phalcon",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-xslt-view-engine",
+                "href": "https://github.com/racztiborzoltan/phalcon-xslt-view-engine",
+                "github": "racztiborzoltan/phalcon-xslt-view-engine",
+                "type": "github"
+            },
+            {
+                "title": "twig-phalcon",
+                "href": "https://github.com/vinyvicente/phalcon-twig",
+                "github": "vinyvicente/phalcon-twig",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Testing",
+        "childrens": [
+            {
+                "title": "phalcon-demo",
+                "href": "https://github.com/Codeception/phalcon-demo",
+                "github": "Codeception/phalcon-demo",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Validators",
+        "childrens": [
+            {
+                "title": "Phalcon Validators",
+                "href": "https://github.com/renatoneto/phalcon-validators",
+                "github": "renatoneto/phalcon-validators",
+                "type": "github"
+            },
+            {
+                "title": "phalswag",
+                "href": "https://github.com/tomi20v/phalswag",
+                "github": "tomi20v/phalswag",
+                "type": "github"
+            },
+            {
+                "title": "PHP Request Validator",
+                "href": "https://github.com/progsmile/request-validator",
+                "github": "progsmile/request-validator",
+                "type": "github"
+            },
+            {
+                "title": "zvps-phalcon-validators",
+                "href": "https://github.com/zVPS/zvps-phalcon-validators",
+                "github": "zVPS/zvps-phalcon-validators",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Web Tools",
+        "childrens": [
+            {
+                "title": "Password Manager",
+                "href": "https://github.com/mrspartak/phalconPasswordManager",
+                "github": "mrspartak/phalconPasswordManager",
+                "type": "github"
+            },
+            {
+                "title": "URL-Shortener",
+                "href": "https://github.com/blackbunny/Url-Shortener",
+                "github": "blackbunny/Url-Shortener",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Server Applications",
+        "childrens": [
+            {
+                "title": "ansible-phalcon-role",
+                "href": "https://github.com/sarrubia/ansible-phalcon-role",
+                "github": "sarrubia/ansible-phalcon-role",
+                "type": "github"
+            },
+            {
+                "title": "ansible-phalcon",
+                "href": "https://github.com/HanXHX/ansible-phalcon",
+                "github": "HanXHX/ansible-phalcon",
+                "type": "github"
+            },
+            {
+                "title": "Maker",
+                "href": "https://github.com/phalcon/maker",
+                "github": "phalcon/maker",
+                "type": "github"
+            },
+            {
+                "title": "packagecloud",
+                "href": "https://github.com/phalcongelist/packagecloud",
+                "github": "phalcongelist/packagecloud",
+                "type": "github"
+            },
+            {
+                "title": "perfect-php-vagrant",
+                "href": "https://github.com/ovr/perfect-php-vagrant",
+                "github": "ovr/perfect-php-vagrant",
+                "type": "github"
+            },
+            {
+                "title": "Phalcon Box",
+                "href": "https://github.com/phalcon/box",
+                "github": "phalcon/box",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-ci-installer",
+                "href": "https://github.com/techpivot/phalcon-ci-installer",
+                "github": "techpivot/phalcon-ci-installer",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-compose",
+                "href": "https://github.com/phalcon/phalcon-compose",
+                "github": "phalcon/phalcon-compose",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-docker-nginx",
+                "href": "https://github.com/viebig/phalcon-docker-nginx",
+                "github": "viebig/phalcon-docker-nginx",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-vm",
+                "href": "https://github.com/eugene-manuilov/phalcon-vm",
+                "github": "eugene-manuilov/phalcon-vm",
+                "type": "github"
+            },
+            {
+                "title": "phalcon3-compose",
+                "href": "https://github.com/linxlad/phalcon3-compose",
+                "github": "linxlad/phalcon3-compose",
+                "type": "github"
+            },
+            {
+                "title": "phalcon-vagrant-dev",
+                "href": "https://github.com/oscarmolinadev/phalcon-vagrant-dev",
+                "github": "oscarmolinadev/phalcon-vagrant-dev",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Websites",
+        "childrens": [
+            {
+                "title": "Phalconist",
+                "href": "https://github.com/phalcon/phalconist",
+                "github": "phalcon/phalconist",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Blog Tutorial",
+                "href": "https://github.com/phalcon/blog-tutorial",
+                "github": "phalcon/blog-tutorial",
+                "type": "github"
+            }
+        ]
+    }
+]

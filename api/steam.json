@@ -1,0 +1,422 @@
+[
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "SteamKit2",
+                "href": "https://github.com/SteamRE/SteamKit",
+                "github": "SteamRE/SteamKit",
+                "type": "github"
+            },
+            {
+                "title": "SteamAuth",
+                "href": "https://github.com/geel9/SteamAuth",
+                "github": "geel9/SteamAuth",
+                "type": "github"
+            },
+            {
+                "title": "SteamBot",
+                "href": "https://github.com/Jessecar96/SteamBot",
+                "github": "Jessecar96/SteamBot",
+                "type": "github"
+            },
+            {
+                "title": "SteamTradeOffersBot",
+                "href": "https://github.com/waylaidwanderer/SteamTradeOffersBot",
+                "github": "waylaidwanderer/SteamTradeOffersBot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "BackpackLogin",
+                "href": "https://github.com/igeligel/BackpackLogin",
+                "github": "igeligel/BackpackLogin",
+                "type": "github"
+            },
+            {
+                "title": "TeamFortressOutpostApi",
+                "href": "https://github.com/igeligel/TeamFortressOutpostApi",
+                "github": "igeligel/TeamFortressOutpostApi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "General",
+        "childrens": [
+            {
+                "title": "steam",
+                "href": "https://github.com/seishun/node-steam",
+                "github": "seishun/node-steam",
+                "type": "github"
+            },
+            {
+                "title": "steam-client",
+                "href": "https://github.com/DoctorMcKay/node-steam-client",
+                "github": "DoctorMcKay/node-steam-client",
+                "type": "github"
+            },
+            {
+                "title": "steam-user",
+                "href": "https://github.com/DoctorMcKay/node-steam-user",
+                "github": "DoctorMcKay/node-steam-user",
+                "type": "github"
+            },
+            {
+                "title": "vapor",
+                "href": "https://github.com/scholtzm/vapor",
+                "github": "scholtzm/vapor",
+                "type": "github"
+            },
+            {
+                "title": "steam-parentbot",
+                "href": "https://github.com/dragonbanshee/node-steam-parentbot",
+                "github": "dragonbanshee/node-steam-parentbot",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "WebAPI",
+        "childrens": [
+            {
+                "title": "steam-webapi",
+                "href": "https://github.com/DoctorMcKay/node-steam-webapi",
+                "github": "DoctorMcKay/node-steam-webapi",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Trading",
+        "childrens": [
+            {
+                "title": "steam-trade",
+                "href": "https://github.com/seishun/node-steam-trade",
+                "github": "seishun/node-steam-trade",
+                "type": "github"
+            },
+            {
+                "title": "steam-tradeoffers",
+                "href": "https://github.com/Alex7Kom/node-steam-tradeoffers",
+                "github": "Alex7Kom/node-steam-tradeoffers",
+                "type": "github"
+            },
+            {
+                "title": "steam-tradeoffer-manager",
+                "href": "https://github.com/DoctorMcKay/node-steam-tradeoffer-manager",
+                "github": "DoctorMcKay/node-steam-tradeoffer-manager",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Game Interaction",
+        "childrens": [
+            {
+                "title": "steam-gameserver",
+                "href": "https://github.com/DoctorMcKay/node-steam-gameserver",
+                "github": "DoctorMcKay/node-steam-gameserver",
+                "type": "github"
+            },
+            {
+                "title": "tf2",
+                "href": "https://github.com/DoctorMcKay/node-tf2",
+                "github": "DoctorMcKay/node-tf2",
+                "type": "github"
+            },
+            {
+                "title": "csgo",
+                "href": "https://github.com/joshuaferrara/node-csgo",
+                "github": "joshuaferrara/node-csgo",
+                "type": "github"
+            },
+            {
+                "title": "dota2",
+                "href": "https://github.com/RJacksonm1/node-dota2",
+                "github": "RJacksonm1/node-dota2",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Community & Store Automation",
+        "childrens": [
+            {
+                "title": "steamcommunity",
+                "href": "https://github.com/DoctorMcKay/node-steamcommunity",
+                "github": "DoctorMcKay/node-steamcommunity",
+                "type": "github"
+            },
+            {
+                "title": "steamstore",
+                "href": "https://github.com/DoctorMcKay/node-steamstore",
+                "github": "DoctorMcKay/node-steamstore",
+                "type": "github"
+            },
+            {
+                "title": "steam-weblogon",
+                "href": "https://github.com/Alex7Kom/node-steam-weblogon",
+                "github": "Alex7Kom/node-steam-weblogon",
+                "type": "github"
+            },
+            {
+                "title": "steam-web-api-key",
+                "href": "https://github.com/Alex7Kom/node-steam-web-api-key",
+                "github": "Alex7Kom/node-steam-web-api-key",
+                "type": "github"
+            },
+            {
+                "title": "steam-parental",
+                "href": "https://github.com/Alex7Kom/node-steam-parental",
+                "github": "Alex7Kom/node-steam-parental",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Authentication",
+        "childrens": [
+            {
+                "title": "steam-login",
+                "href": "https://github.com/cpancake/steam-login",
+                "github": "cpancake/steam-login",
+                "type": "github"
+            },
+            {
+                "title": "passport-steam",
+                "href": "https://github.com/liamcurry/passport-steam",
+                "github": "liamcurry/passport-steam",
+                "type": "github"
+            },
+            {
+                "title": "meteor-accounts-steam",
+                "href": "https://github.com/scholtzm/meteor-accounts-steam",
+                "github": "scholtzm/meteor-accounts-steam",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Misc",
+        "childrens": [
+            {
+                "title": "steam-resources",
+                "href": "https://github.com/seishun/node-steam-resources",
+                "github": "seishun/node-steam-resources",
+                "type": "github"
+            },
+            {
+                "title": "steam-crypto",
+                "href": "https://github.com/seishun/node-steam-crypto",
+                "github": "seishun/node-steam-crypto",
+                "type": "github"
+            },
+            {
+                "title": "steam-groups",
+                "href": "https://github.com/scholtzm/node-steam-groups",
+                "github": "scholtzm/node-steam-groups",
+                "type": "github"
+            },
+            {
+                "title": "steamid",
+                "href": "https://github.com/DoctorMcKay/node-steamid",
+                "github": "DoctorMcKay/node-steamid",
+                "type": "github"
+            },
+            {
+                "title": "steam-totp",
+                "href": "https://github.com/DoctorMcKay/node-steam-totp",
+                "github": "DoctorMcKay/node-steam-totp",
+                "type": "github"
+            },
+            {
+                "title": "steam-chat-bot",
+                "href": "https://github.com/Steam-Chat-Bot/node-steam-chat-bot",
+                "github": "Steam-Chat-Bot/node-steam-chat-bot",
+                "type": "github"
+            },
+            {
+                "title": "vdf",
+                "href": "https://github.com/RJacksonm1/node-vdf",
+                "github": "RJacksonm1/node-vdf",
+                "type": "github"
+            },
+            {
+                "title": "steamrep",
+                "href": "https://github.com/scholtzm/node-steamrep",
+                "github": "scholtzm/node-steamrep",
+                "type": "github"
+            },
+            {
+                "title": "reptf",
+                "href": "https://github.com/scholtzm/node-reptf",
+                "github": "scholtzm/node-reptf",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "PHP",
+        "childrens": [
+            {
+                "title": "SteamCommunity",
+                "href": "https://github.com/waylaidwanderer/PHP-SteamCommunity",
+                "github": "waylaidwanderer/PHP-SteamCommunity",
+                "type": "github"
+            },
+            {
+                "title": "SteamAuthentication",
+                "href": "https://github.com/SmItH197/SteamAuthentication",
+                "github": "SmItH197/SteamAuthentication",
+                "type": "github"
+            },
+            {
+                "title": "SteamAuthOOP",
+                "href": "https://github.com/BlackCetha/SteamAuthOOP",
+                "github": "BlackCetha/SteamAuthOOP",
+                "type": "github"
+            },
+            {
+                "title": "steam-api",
+                "href": "https://github.com/DaMitchell/steam-api-php",
+                "github": "DaMitchell/steam-api-php",
+                "type": "github"
+            },
+            {
+                "title": "steamid",
+                "href": "https://github.com/DoctorMcKay/php-steamid",
+                "github": "DoctorMcKay/php-steamid",
+                "type": "github"
+            },
+            {
+                "title": "steam-totp",
+                "href": "https://github.com/DoctorMcKay/php-steam-totp",
+                "github": "DoctorMcKay/php-steam-totp",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Go",
+        "childrens": [
+            {
+                "title": "steam",
+                "href": "https://github.com/Philipp15b/go-steam",
+                "github": "Philipp15b/go-steam",
+                "type": "github"
+            },
+            {
+                "title": "steam-mobileauth",
+                "href": "https://github.com/YellowOrWhite/go-steam-mobileauth",
+                "github": "YellowOrWhite/go-steam-mobileauth",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Python",
+        "childrens": [
+            {
+                "title": "steam",
+                "href": "https://github.com/ValvePython/steam",
+                "github": "ValvePython/steam",
+                "type": "github"
+            },
+            {
+                "title": "steamodd",
+                "href": "https://github.com/Lagg/steamodd",
+                "github": "Lagg/steamodd",
+                "type": "github"
+            },
+            {
+                "title": "steampy",
+                "href": "https://github.com/bukson/steampy",
+                "github": "bukson/steampy",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "C++",
+        "childrens": [
+            {
+                "title": "SteamPP",
+                "href": "https://github.com/seishun/SteamPP",
+                "github": "seishun/SteamPP",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Java",
+        "childrens": [
+            {
+                "title": "SteamKit-Java",
+                "href": "https://github.com/Top-Cat/SteamKit-Java",
+                "github": "Top-Cat/SteamKit-Java",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Objective-C",
+        "childrens": [
+            {
+                "title": "SteamAuth",
+                "href": "https://github.com/michaelchum/SteamAuth",
+                "github": "michaelchum/SteamAuth",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Tutorials",
+        "childrens": [
+            {
+                "title": "Charred's node.js Guide to Steam Bots",
+                "href": "https://github.com/charredgrass/nodejs-bot-guide",
+                "github": "charredgrass/nodejs-bot-guide",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Standalone Tools",
+        "childrens": [
+            {
+                "title": "NetHook2",
+                "href": "https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2",
+                "github": "SteamRE/SteamKit/tree/master/Resources/NetHook2",
+                "type": "github"
+            },
+            {
+                "title": "NetHook2 Analyzer",
+                "href": "https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2",
+                "github": "SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2",
+                "type": "github"
+            },
+            {
+                "title": "SteamDesktopAuthenticator",
+                "href": "https://github.com/Jessecar96/SteamDesktopAuthenticator",
+                "github": "Jessecar96/SteamDesktopAuthenticator",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Discussion Boards",
+        "childrens": [
+            {
+                "title": "node-steam-forum",
+                "href": "https://github.com/steam-forward/node-steam-forum",
+                "github": "steam-forward/node-steam-forum",
+                "type": "github"
+            }
+        ]
+    }
+]

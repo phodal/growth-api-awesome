@@ -1,0 +1,30 @@
+[
+    {
+        "heading": "Miscellaneous",
+        "childrens": [
+            {
+                "title": "Awesome",
+                "href": "https://github.com/sindresorhus/awesome",
+                "github": "sindresorhus/awesome",
+                "type": "github"
+            },
+            {
+                "title": "Awesome Community",
+                "href": "https://github.com/peterkokot/awesome-community",
+                "github": "peterkokot/awesome-community",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Websites",
+        "childrens": [
+            {
+                "title": "awesome-talks",
+                "href": "https://github.com/JanVanRyswyck/awesome-talks",
+                "github": "JanVanRyswyck/awesome-talks",
+                "type": "github"
+            }
+        ]
+    }
+]

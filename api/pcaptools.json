@@ -1,0 +1,112 @@
+[
+    {
+        "heading": "Traffic Capture",
+        "childrens": [
+            {
+                "title": "clj-net-pcap",
+                "href": "https://github.com/ruedigergad/clj-net-pcap",
+                "github": "ruedigergad/clj-net-pcap",
+                "type": "github"
+            },
+            {
+                "title": "Moloch",
+                "href": "https://github.com/aol/moloch",
+                "github": "aol/moloch",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Traffic Analysis/Inspection",
+        "childrens": [
+            {
+                "title": "CapTipper",
+                "href": "https://github.com/omriher/CapTipper",
+                "github": "omriher/CapTipper",
+                "type": "github"
+            },
+            {
+                "title": "Chopshop",
+                "href": "https://github.com/MITRECND/chopshop",
+                "github": "MITRECND/chopshop",
+                "type": "github"
+            },
+            {
+                "title": "HttpSniffer",
+                "href": "https://github.com/caesar0301/http-sniffer",
+                "github": "caesar0301/http-sniffer",
+                "type": "github"
+            },
+            {
+                "title": "Netsniff-ng",
+                "href": "www.github.com/borkmann/netsniff-ng",
+                "github": "mann/netsniff-ng",
+                "type": "github"
+            },
+            {
+                "title": "Pcap2har",
+                "href": "https://github.com/andrewf/pcap2har",
+                "github": "andrewf/pcap2har",
+                "type": "github"
+            },
+            {
+                "title": "pkt2flow",
+                "href": "https://github.com/caesar0301/pkt2flow",
+                "github": "caesar0301/pkt2flow",
+                "type": "github"
+            },
+            {
+                "title": "potiron",
+                "href": "https://github.com/CIRCL/potiron",
+                "github": "CIRCL/potiron",
+                "type": "github"
+            },
+            {
+                "title": "Tcpflow",
+                "href": "https://github.com/simsong/tcpflow",
+                "github": "simsong/tcpflow",
+                "type": "github"
+            },
+            {
+                "title": "yaraPcap",
+                "href": "https://github.com/kevthehermit/YaraPcap",
+                "github": "kevthehermit/YaraPcap",
+                "type": "github"
+            },
+            {
+                "title": "yaraprocessor",
+                "href": "https://github.com/MITRECND/yaraprocessor",
+                "github": "MITRECND/yaraprocessor",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "File Extraction",
+        "childrens": [
+            {
+                "title": "pcapfex",
+                "href": "https://github.com/vikwin/pcapfex",
+                "github": "vikwin/pcapfex",
+                "type": "github"
+            },
+            {
+                "title": "scalpel",
+                "href": "https://github.com/sleuthkit/scalpel",
+                "github": "sleuthkit/scalpel",
+                "type": "github"
+            }
+        ]
+    },
+    {
+        "heading": "Related Projects",
+        "childrens": [
+            {
+                "title": "RIPE-NCC Hadoop for PCAP",
+                "href": "https://github.com/RIPE-NCC/hadoop-pcap",
+                "github": "RIPE-NCC/hadoop-pcap",
+                "type": "github"
+            }
+        ]
+    }
+]
