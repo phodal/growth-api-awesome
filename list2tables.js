@@ -1,6 +1,7 @@
 var parser = require('mdast');
 var fs = require('fs');
-var _ = require( 'lodash' )
+var _ = require( 'lodash' );
+var slug = require('limax');
 
 var raw = fs.readFileSync(__dirname + '/awesome/README.md', 'utf8');
 // var raw = fs.readFileSync(__dirname + '/demo.md', 'utf8');
@@ -20,6 +21,7 @@ function listToTable(list){
                 results.push({
                     title: title,
                     href: href,
+                    slug: slug(title),
                     github: href.substring('https://github.com/'.length),
                     type: 'github'
                 });

@@ -1,8 +1,9 @@
 {
   "name": "awesome-gitbook-cn",
   "dependencies": {
-    "axios": "^0.16.1",
+    "limax": "^1.5.0",
     "lodash": "^4.17.4",
-    "mdast": "^2.0.0"
+    "mdast": "^2.0.0",
+    "request": "^2.81.0"
   }
 }
